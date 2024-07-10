@@ -103,7 +103,7 @@ For a complete list, see the full spreadsheet below:
 | **[Caterpillar](https://www.caterpillar.com)** | **[2025 Leadership & Technical Development Program - Supply Chain Management](https://jobright.ai/jobs/info/668c3288080f3f924dacbc4a?utm_source=1050&utm_campaign=git)** | Victoria, TX | On Site | Jul 08 |
 | ↳ | **[2025 Leadership & Technical Development Program - Operations Leadership](https://jobright.ai/jobs/info/668c13f39156a36052676df7?utm_source=1050&utm_campaign=git)** | Brooklyn Park, MN | On Site | Jul 08 |
 | **[Hubbard Construction](http://hubbard.com/)** | **[Administrative Clerk](https://jobright.ai/jobs/info/668be2bc50f04a788175c700?utm_source=1050&utm_campaign=git)** | Ocoee, FL | On Site | Jul 08 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Creative Project Management Intern, Dallas](https://jobright.ai/jobs/info/66745de96d0c13fd67e48c29?utm_source=1050&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 08 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Creative Project Management Intern, Dallas](https://jobright.ai/jobs/info/668bd97bac083f9791920b70?utm_source=1050&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Administrative Fellow - Year 1](https://jobright.ai/jobs/info/668bc2f8627c201d2a789c1e?utm_source=1050&utm_campaign=git)** | Pittsburgh, PA | On Site | Jul 08 |
 | **[Accurus Aerospace Corporation](http://www.accurusaero.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/668d07e8b9491475384cbc75?utm_source=1050&utm_campaign=git)** | Atlanta Metro | On Site | Jul 08 |
 | **[Buckner](https://www.buckner.org/)** | **[Buckner Internship - Strategic Planning](https://jobright.ai/jobs/info/668b7ec5a4b39a66bdfc0008?utm_source=1050&utm_campaign=git)** | Dallas, TX | On Site | Jul 08 |
@@ -156,8 +156,8 @@ For a complete list, see the full spreadsheet below:
 | **[Workiva](http://www.workiva.com)** | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685e23eadbfe96e189b76d2?utm_source=1050&utm_campaign=git)** | Ames, IA | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685d32d7596db7e6ee50365?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685d32d7596db7e6ee50301?utm_source=1050&utm_campaign=git)** | Ames, IA | On Site | Jul 03 |
-| ↳ | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a97?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a96?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
+| ↳ | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a97?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a99?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685d39d7596db7e6ee50b57?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 03 |
 | **[National Association of Healthcare Quality](http://www.nahq.org)** | **[Administrative Intern - Summer](https://jobright.ai/jobs/info/6685b5ba7a987717e839562c?utm_source=1050&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 03 |

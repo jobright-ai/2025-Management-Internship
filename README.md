@@ -127,7 +127,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Chief Administrative Officer Group Summer 2025 Analyst](https://jobright.ai/jobs/info/667974068f20c6df6b89a88d?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 05 |
 | ↳ | **[Chief Administrative Officer Group Summer 2025 Analyst](https://jobright.ai/jobs/info/66795b9adcb1db3fc098ebb1?utm_source=1050&utm_campaign=git)** | Charlotte, NC | On Site | Jul 05 |
 | **[Permasteelisa North America Corp.](http://www.permasteelisagroup.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/6625561205135b90cc7ec799?utm_source=1050&utm_campaign=git)** | Bloomfield, CT | On Site | Jul 05 |
-| **[B. Riley Financial](http://www.brileyfin.com)** | **[Corporate Services: Project Manager Intern - Arlington, VA](https://jobright.ai/jobs/info/6686829760fc882479d6c6d4?utm_source=1050&utm_campaign=git)** | Arlington, VA | On Site | Jul 05 |
+| **[B. Riley Financial](http://www.brileyfin.com)** | **[Corporate Services: Project Manager Intern - Arlington, VA](https://jobright.ai/jobs/info/667ead7dea91957b2f4b370d?utm_source=1050&utm_campaign=git)** | Arlington, VA | On Site | Jul 05 |
 | **[PPG Industries](http://www.ppg.com)** | **[Commercial Business Analyst - Stage](https://jobright.ai/jobs/info/668850440abd1339a525037a?utm_source=1050&utm_campaign=git)** | ITA - Lodi Plant | On Site | Jul 05 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Technical Project Manager Co-op](https://jobright.ai/jobs/info/6687fdb091d12b5974c7038e?utm_source=1050&utm_campaign=git)** | PA - Philadelphia, 1800 Arch St | On Site | Jul 05 |
 | **[Ochsner Health System](https://www.ochsner.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/6686cf724edcb01421c523b4?utm_source=1050&utm_campaign=git)** | New Orleans, LA | On Site | Jul 04 |
@@ -156,8 +156,8 @@ For a complete list, see the full spreadsheet below:
 | **[Workiva](http://www.workiva.com)** | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685e23eadbfe96e189b76d2?utm_source=1050&utm_campaign=git)** | Ames, IA | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685d32d7596db7e6ee50365?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685d32d7596db7e6ee50301?utm_source=1050&utm_campaign=git)** | Ames, IA | On Site | Jul 03 |
-| ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a96?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a97?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 03 |
+| ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a96?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a99?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685d39d7596db7e6ee50b57?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 03 |
 | **[National Association of Healthcare Quality](http://www.nahq.org)** | **[Administrative Intern - Summer](https://jobright.ai/jobs/info/6685b5ba7a987717e839562c?utm_source=1050&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 03 |

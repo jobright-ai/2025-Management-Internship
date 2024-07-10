@@ -3,7 +3,7 @@
 
 
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Executive and Administrative, C-Level Executives, Project and Program Management, Business and Strategic Management and Consultant
+This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Executive and Administrative, C-Level Executives, Project and Program Management, Business and Strategic Management and Consultant.
 
 
 ✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_source=1050&utm_campaign=git). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
@@ -39,11 +39,11 @@ This job repository is your go-to resource for discovering and sharing the lates
 </p>
 
 ---
-<h3>
-Due to capacity constraints, only internship jobs posted within the last 7 days are listed here.
+<h4>
+Only jobs posted in the last 7 days are listed due to capacity constraints.
 <br>
-For a comprehensive list of all available internships, please refer to the full spreadsheet bellowed:
-</h3>
+For a complete list, see the full spreadsheet below:
+</h4>
 <a href="https://docs.google.com/spreadsheets/d/1YhCc56aBbm1h-oiGbAEtRlc2IVW-CRqN_fJjsRBPHpk/edit?gid=1541525834#gid=1541525834">
     <img src="./static/img/excel_icon.png" alt="excel_icon", style="width: 20%; height: 20%;">
 </a>
@@ -57,6 +57,7 @@ For a comprehensive list of all available internships, please refer to the full 
 
 | Company | Job Title | Location & Work Model | Salary | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abercrombie & Fitch](http://abercrombie.com)** | **[2024-2025 Leadership Development Program - Full Time & Summer Internship](https://jobright.ai/jobs/info/668df8e17ad721a70cf404fb?utm_source=1050&utm_campaign=git)** | Columbus, OH | On Site | Jul 09 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/668da1565c4e3c8d6a5ecedd?utm_source=1050&utm_campaign=git)** | New York, NY | Hybrid | Jul 09 |
 | **[BASF](http://www.basf.com)** | **[PhD Leadership Development Program (LDP) - Class of 2025](https://jobright.ai/jobs/info/668d8373e45593dfb218d2d8?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | Hybrid | Jul 09 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Temporary Administrative Assistant, Wharton Operations, Information, and Decisions](https://jobright.ai/jobs/info/668d9811274a895265383c74?utm_source=1050&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 09 |
@@ -84,10 +85,10 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[BASF](http://www.basf.com)** | **[MBA Leadership Development Program (LDP) Internship - Summer 2025](https://jobright.ai/jobs/info/668c9108a04664baea38a3e2?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | On Site | Jul 09 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Fellows and Internship Programs Administrative Assistant](https://jobright.ai/jobs/info/668d9827274a895265383d52?utm_source=1050&utm_campaign=git)** | Bentonville, AR | On Site | Jul 09 |
 | **[Reingold](http://reingold.com)** | **[Digital Project Manager Internship](https://jobright.ai/jobs/info/668c911ea04664baea38a574?utm_source=1050&utm_campaign=git)** | Alexandria, VA | On Site | Jul 08 |
-| **[BASF](http://www.basf.com)** | **[MBA Leadership Development Program (LDP) - Class of 2025](https://jobright.ai/jobs/info/668c8bee8ed7931878918021?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | Hybrid | Jul 08 |
 | **[VCC](http://vccusa.com)** | **[Project Manager Intern - The Colony, TX Office (Fall 2024)](https://jobright.ai/jobs/info/668c8bee8ed7931878918066?utm_source=1050&utm_campaign=git)** | The Colony, TX | On Site | Jul 08 |
 | **[State of Utah](http://www.utah.gov/)** | **[General Services Aide - Finance & Administration](https://jobright.ai/jobs/info/668ca4efc48b9c982f49b368?utm_source=1050&utm_campaign=git)** | Salt Lake County, UT | On Site | Jul 08 |
 | **[The ASU Foundation](http://www.asufoundation.org/)** | **[Venture Scout Fellow](https://jobright.ai/jobs/info/668c6f53722799dac2280454?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | Hybrid | Jul 08 |
+| **[BASF](http://www.basf.com)** | **[MBA Leadership Development Program (LDP) - Class of 2025](https://jobright.ai/jobs/info/668cea396a1f2f64c90b87ea?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | Hybrid | Jul 08 |
 | **[Avelino & Hartlaub](https://avelinolaw.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/668c512cc30699736ae4feab?utm_source=1050&utm_campaign=git)** | Morristown, NJ | On Site | Jul 08 |
 | **[Infinity Marketing Team](http://www.infinitymarketing.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/668c2947dbe1aedcdfe00878?utm_source=1050&utm_campaign=git)** | Culver City, CA | On Site | Jul 08 |
 | **[Metrea](https://www.metrea.aero)** | **[Strategy Intern](https://jobright.ai/jobs/info/668c2d36dc14ede91846ad45?utm_source=1050&utm_campaign=git)** | Washington, DC | Hybrid | Jul 08 |
@@ -97,7 +98,7 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[Caterpillar](https://www.caterpillar.com)** | **[2025 Leadership & Technical Development Program - Supply Chain Management](https://jobright.ai/jobs/info/668c3288080f3f924dacbc4a?utm_source=1050&utm_campaign=git)** | Victoria, TX | On Site | Jul 08 |
 | ↳ | **[2025 Leadership & Technical Development Program - Operations Leadership](https://jobright.ai/jobs/info/668c13f39156a36052676df7?utm_source=1050&utm_campaign=git)** | Brooklyn Park, MN | On Site | Jul 08 |
 | **[Hubbard Construction](http://hubbard.com/)** | **[Administrative Clerk](https://jobright.ai/jobs/info/668be2bc50f04a788175c700?utm_source=1050&utm_campaign=git)** | Ocoee, FL | On Site | Jul 08 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Creative Project Management Intern, Dallas](https://jobright.ai/jobs/info/66745de96d0c13fd67e48c29?utm_source=1050&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 08 |
+| **[myGwork](https://www.mygwork.com/en/)** | **[Creative Project Management Intern, Dallas](https://jobright.ai/jobs/info/66753a817a188060a03f62d6?utm_source=1050&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 08 |
 | **[UPMC](https://www.upmc.com/)** | **[Administrative Fellow - Year 1](https://jobright.ai/jobs/info/668bc2f8627c201d2a789c1e?utm_source=1050&utm_campaign=git)** | Pittsburgh, PA | On Site | Jul 08 |
 | **[Accurus Aerospace Corporation](http://www.accurusaero.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/668d07e8b9491475384cbc75?utm_source=1050&utm_campaign=git)** | Atlanta Metro | On Site | Jul 08 |
 | **[Buckner](https://www.buckner.org/)** | **[Buckner Internship - Strategic Planning](https://jobright.ai/jobs/info/668b7ec5a4b39a66bdfc0008?utm_source=1050&utm_campaign=git)** | Dallas, TX | On Site | Jul 08 |
@@ -121,10 +122,9 @@ For a comprehensive list of all available internships, please refer to the full 
 | ↳ | **[Chief Administrative Officer Group Summer 2025 Analyst](https://jobright.ai/jobs/info/667974068f20c6df6b89a88d?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 05 |
 | ↳ | **[Chief Administrative Officer Group Summer 2025 Analyst](https://jobright.ai/jobs/info/66795b9adcb1db3fc098ebb1?utm_source=1050&utm_campaign=git)** | Charlotte, NC | On Site | Jul 05 |
 | **[Permasteelisa North America Corp.](http://www.permasteelisagroup.com)** | **[Intern Project Management](https://jobright.ai/jobs/info/6625561205135b90cc7ec799?utm_source=1050&utm_campaign=git)** | Bloomfield, CT | On Site | Jul 05 |
-| **[B. Riley Financial](http://www.brileyfin.com)** | **[Corporate Services: Project Manager Intern - Arlington, VA](https://jobright.ai/jobs/info/6687b7b370db89d1e748e34b?utm_source=1050&utm_campaign=git)** | Arlington, VA | On Site | Jul 05 |
+| **[B. Riley Financial](http://www.brileyfin.com)** | **[Corporate Services: Project Manager Intern - Arlington, VA](https://jobright.ai/jobs/info/6686829760fc882479d6c6d4?utm_source=1050&utm_campaign=git)** | Arlington, VA | On Site | Jul 05 |
 | **[PPG Industries](http://www.ppg.com)** | **[Commercial Business Analyst - Stage](https://jobright.ai/jobs/info/668850440abd1339a525037a?utm_source=1050&utm_campaign=git)** | ITA - Lodi Plant | On Site | Jul 05 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Technical Project Manager Co-op](https://jobright.ai/jobs/info/6687fdb091d12b5974c7038e?utm_source=1050&utm_campaign=git)** | PA - Philadelphia, 1800 Arch St | On Site | Jul 05 |
-| **[Ochsner Health System](https://www.ochsner.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/6686cf724edcb01421c523b4?utm_source=1050&utm_campaign=git)** | New Orleans, LA | On Site | Jul 04 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e2bdefd06ab529d5266f5?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 04 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ed87931a5716ef0698b1e?utm_source=1050&utm_campaign=git)** | Charlotte, NC | On Site | Jul 04 |
 | **[Workiva](http://www.workiva.com)** | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/66893bf94b43176f6b990e14?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 04 |
@@ -147,11 +147,12 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com/)** | **[Intern, Operations Project Manager](https://jobright.ai/jobs/info/666a90050de4a528563d7f26?utm_source=1050&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 04 |
 | **[E Source](http://www.esource.com)** | **[Junior Project Management Intern - REMOTE](https://jobright.ai/jobs/info/66862bee323f5e12beea4bc4?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 04 |
 | **[Vituity](https://www.vituity.com)** | **[Physician Fellow - Administrative Fellowship - Anesthesiology - Vituity Practice Management - Emeryville](https://jobright.ai/jobs/info/6686277919c3e9af76ad5b6f?utm_source=1050&utm_campaign=git)** | Emeryville, CA | Hybrid | Jul 04 |
+| **[Ochsner Health System](https://www.ochsner.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/66863c97ef6416e59abc4599?utm_source=1050&utm_campaign=git)** | New Orleans, LA | On Site | Jul 04 |
 | **[Workiva](http://www.workiva.com)** | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685e23eadbfe96e189b76d2?utm_source=1050&utm_campaign=git)** | Ames, IA | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685d32d7596db7e6ee50365?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685d32d7596db7e6ee50301?utm_source=1050&utm_campaign=git)** | Ames, IA | On Site | Jul 03 |
-| ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a96?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Project Management](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a97?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 03 |
+| ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a96?utm_source=1050&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685db3d5ce4828b52de8a99?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 03 |
 | ↳ | **[2024 Summer Intern - Business Operations Analyst](https://jobright.ai/jobs/info/6685d39d7596db7e6ee50b57?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 03 |
 | **[National Association of Healthcare Quality](http://www.nahq.org)** | **[Administrative Intern - Summer](https://jobright.ai/jobs/info/6685b5ba7a987717e839562c?utm_source=1050&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 03 |
@@ -162,9 +163,4 @@ For a comprehensive list of all available internships, please refer to the full 
 | **[ATHENNO](https://athenno.com)** | **[Startup Executive Assistant / Co-Founder (ResearchTech)](https://jobright.ai/jobs/info/668566655afc77163088a629?utm_source=1050&utm_campaign=git)** | Austin, TX | On Site | Jul 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Vehicle Hardware (Fall 2024)](https://jobright.ai/jobs/info/668d36a638255351a9d0c9b4?utm_source=1050&utm_campaign=git)** | Palo Alto, CA | On Site | Jul 03 |
 | **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Creative Project Management Intern, Dallas](https://jobright.ai/jobs/info/66796da73f452d31d55f9698?utm_source=1050&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 03 |
-| **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Fall 2024 Management Trainee Intern Naples](https://jobright.ai/jobs/info/664cfad0e883f73e5ebb1862?utm_source=1050&utm_campaign=git)** | East Naples, FL | On Site | Jul 03 |
-| **[Delta Air Lines](http://www.delta.com)** | **[Co-op, Crew Resources - Crew Tracking (Spring, 2025)](https://jobright.ai/jobs/info/6668ec6e03ac5afee7b108fc?utm_source=1050&utm_campaign=git)** | Atlanta, GA | On Site | Jul 03 |
-| **[CareFirst](https://individual.carefirst.com)** | **[Office of the CEO Operations Intern -Fall Recruitment (Hybrid) MD/DC/VA only](https://jobright.ai/jobs/info/6687d8990df26b68025ae4c9?utm_source=1050&utm_campaign=git)** | Baltimore, MD | Hybrid | Jul 03 |
-| **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Fall 2024 Management Trainee Intern Cape Coral](https://jobright.ai/jobs/info/664cf7ae60201a549dd013b7?utm_source=1050&utm_campaign=git)** | Cape Coral, FL | On Site | Jul 03 |
-| ↳ | **[Fall 2024 Management Trainee Intern SRQ Airport](https://jobright.ai/jobs/info/664cf7ae60201a549dd013ea?utm_source=1050&utm_campaign=git)** | Sarasota, FL | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

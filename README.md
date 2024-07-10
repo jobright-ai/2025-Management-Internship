@@ -55,10 +55,18 @@ For a complete list, see the full spreadsheet below:
 
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
-| Company | Job Title | Location & Work Model | Salary | Date Posted |
+| Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Protiviti](http://www.protiviti.com)** | **[Tampa Business Performance Improvement Intern - 2025](https://jobright.ai/jobs/info/6676e08dc909276a3772dc86?utm_source=1050&utm_campaign=git)** | Tampa, FL | Hybrid | Jul 09 |
 | **[Abercrombie & Fitch](http://abercrombie.com)** | **[2024-2025 Leadership Development Program - Full Time & Summer Internship](https://jobright.ai/jobs/info/668df8e17ad721a70cf404fb?utm_source=1050&utm_campaign=git)** | Columbus, OH | On Site | Jul 09 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/668da1565c4e3c8d6a5ecedd?utm_source=1050&utm_campaign=git)** | New York, NY | Hybrid | Jul 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/668dfe6ae222ef0ee5977f5a?utm_source=1050&utm_campaign=git)** | Richmond, VA | Hybrid | Jul 09 |
+| ↳ | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/668dfe6ae222ef0ee5977f90?utm_source=1050&utm_campaign=git)** | Plano, TX | Hybrid | Jul 09 |
+| ↳ | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/668dfe6ae222ef0ee5977fa6?utm_source=1050&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 09 |
+| **[Sodexo Live!](https://us.sodexo.com/industry/sodexo-live.html)** | **[San Diego Convention Center Manager in Training Finance](https://jobright.ai/jobs/info/668dfe43e222ef0ee5977c24?utm_source=1050&utm_campaign=git)** | San Diego, CA | On Site | Jul 09 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/668dfe6ae222ef0ee5977fd4?utm_source=1050&utm_campaign=git)** | McLean, VA | Hybrid | Jul 09 |
+| ↳ | **[Business Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/668da1565c4e3c8d6a5ecedd?utm_source=1050&utm_campaign=git)** | New York, NY | Hybrid | Jul 09 |
+| **[3rd Degree Solutions](https://www.3rdgm.com/)** | **[Business Manager Internship](https://jobright.ai/jobs/info/668e05b1ab5d6ea22149314e?utm_source=1050&utm_campaign=git)** | Sacramento, CA | On Site | Jul 09 |
+| **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Graduate Administrative Intern / 2025](https://jobright.ai/jobs/info/668e05b1ab5d6ea221493140?utm_source=1050&utm_campaign=git)** | Hartford, CT | On Site | Jul 09 |
 | **[BASF](http://www.basf.com)** | **[PhD Leadership Development Program (LDP) - Class of 2025](https://jobright.ai/jobs/info/668d8373e45593dfb218d2d8?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | Hybrid | Jul 09 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Temporary Administrative Assistant, Wharton Operations, Information, and Decisions](https://jobright.ai/jobs/info/668d9811274a895265383c74?utm_source=1050&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 09 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Co-op, Flight Operations – Operations Support, Technology and Business Strategy (Spring, 2025)](https://jobright.ai/jobs/info/668d64b407bd578dc4dffaf0?utm_source=1050&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 09 |
@@ -74,14 +82,12 @@ For a complete list, see the full spreadsheet below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 COO Business Services Summer Internship - Early Careers](https://jobright.ai/jobs/info/668cce4c2c3a4daee99fee8e?utm_source=1050&utm_campaign=git)** | Charlotte, NC | On Site | Jul 09 |
 | **[Stevens Towing](https://www.stevens-towing.com)** | **[Warehouse & Data Entry](https://jobright.ai/jobs/info/668cc3313bf213b2cc3c7da3?utm_source=1050&utm_campaign=git)** | Yonges Island, SC | On Site | Jul 09 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[LAND DEVELOPMENT FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/668cbbd20ee1d53001213239?utm_source=1050&utm_campaign=git)** | Erlanger, KY | On Site | Jul 09 |
-| **[HCA](http://hcahealthcare.com)** | **[Technical Resident - Business Analyst](https://jobright.ai/jobs/info/668d411dea09f4043236550b?utm_source=1050&utm_campaign=git)** | Nashville, TN | On Site | Jul 09 |
 | **[North Carolina Agricultural and Technical State University](http://www.ncat.edu/)** | **[Administrative Support Spec](https://jobright.ai/jobs/info/668cb2c9b771a5bfb21da7b1?utm_source=1050&utm_campaign=git)** | Greensboro, NC | Hybrid | Jul 09 |
 | **[Nisqually Red Wind Casino](http://redwindcasino.com)** | **[STEP-Administrative Assistant Apprentice (Must be a Nisqually Tribal Member)](https://jobright.ai/jobs/info/668cae9e6f68874267987b97?utm_source=1050&utm_campaign=git)** | Olympia, WA | On Site | Jul 09 |
 | **[Pepper Construction](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall 2024 Cincinnati](https://jobright.ai/jobs/info/668c9d65fb45ee61e9527732?utm_source=1050&utm_campaign=git)** | Cincinnati, OH | Hybrid | Jul 09 |
 | **[California Institute of Integral Studies](http://www.ciis.edu/)** | **[Clinic Administrative Assistant (Student Worker Only) - California Institute of Integral Studies](https://jobright.ai/jobs/info/668ca0b13647de0a8f450ae1?utm_source=1050&utm_campaign=git)** | San Francisco, CA | On Site | Jul 09 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/668831c1267b613d19e45aa1?utm_source=1050&utm_campaign=git)** | Towson, MD | On Site | Jul 09 |
 | **[Pepper Construction](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Spring 2025 Cincinnati](https://jobright.ai/jobs/info/668c9129a04664baea38a66b?utm_source=1050&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 09 |
-| **[Primera Engineers](https://primeraeng.com)** | **[Project Management Assistant Co-Op](https://jobright.ai/jobs/info/668c8bee8ed7931878917fe4?utm_source=1050&utm_campaign=git)** | Chadds Ford, PA | On Site | Jul 09 |
 | **[BASF](http://www.basf.com)** | **[MBA Leadership Development Program (LDP) Internship - Summer 2025](https://jobright.ai/jobs/info/668c9108a04664baea38a3e2?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | On Site | Jul 09 |
 | **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[Fellows and Internship Programs Administrative Assistant](https://jobright.ai/jobs/info/668d9827274a895265383d52?utm_source=1050&utm_campaign=git)** | Bentonville, AR | On Site | Jul 09 |
 | **[Reingold](http://reingold.com)** | **[Digital Project Manager Internship](https://jobright.ai/jobs/info/668c911ea04664baea38a574?utm_source=1050&utm_campaign=git)** | Alexandria, VA | On Site | Jul 08 |
@@ -160,7 +166,4 @@ For a complete list, see the full spreadsheet below:
 | **[Nichols, Cauley & Associates](https://nicholscauley.com)** | **[Summer Leadership Program (May 2025)](https://jobright.ai/jobs/info/668589c50ae1f988330dfc7d?utm_source=1050&utm_campaign=git)** | Peachtree Corners, GA | On Site | Jul 03 |
 | ↳ | **[Summer Leadership Program (May 2025)](https://jobright.ai/jobs/info/66858ca91b1f4c2377c86253?utm_source=1050&utm_campaign=git)** | Kennesaw, GA | On Site | Jul 03 |
 | **[Kwik Trip](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/668578e3ad79c6e653c8587b?utm_source=1050&utm_campaign=git)** | Mankato, MN | On Site | Jul 03 |
-| **[ATHENNO](https://athenno.com)** | **[Startup Executive Assistant / Co-Founder (ResearchTech)](https://jobright.ai/jobs/info/668566655afc77163088a629?utm_source=1050&utm_campaign=git)** | Austin, TX | On Site | Jul 03 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Vehicle Hardware (Fall 2024)](https://jobright.ai/jobs/info/668d36a638255351a9d0c9b4?utm_source=1050&utm_campaign=git)** | Palo Alto, CA | On Site | Jul 03 |
-| **[Fleishman-Hillard](http://fleishmanhillard.com)** | **[Creative Project Management Intern, Dallas](https://jobright.ai/jobs/info/66796da73f452d31d55f9698?utm_source=1050&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

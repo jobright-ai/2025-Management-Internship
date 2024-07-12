@@ -57,6 +57,7 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Utah](http://utah.edu)** | **[Office Assistant (Work Study)](https://jobright.ai/jobs/info/669112c850888b752cb3dd53?utm_source=1050&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 12 |
 | **[ATPCO](http://www.atpco.net)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6690e96b912f9e3d337953b9?utm_source=1050&utm_campaign=git)** | Dulles Town Center, VA | Hybrid | Jul 12 |
 | **[State of Alaska](http://alaska.gov/)** | **[Administrative Assistant I - Section 3 Trainee](https://jobright.ai/jobs/info/6690d3542ee59534c58d01f4?utm_source=1050&utm_campaign=git)** | Anchorage, AK | On Site | Jul 12 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Business Performance Improvement Intern - 2025](https://jobright.ai/jobs/info/6571fdec4345dd5229de476e?utm_source=1050&utm_campaign=git)** | Charlotte, NC | Hybrid | Jul 12 |
@@ -88,6 +89,7 @@ For a complete list, see the full spreadsheet below:
 | **[ATPCO](http://www.atpco.net)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6690bf8a555345cb31083ef2?utm_source=1050&utm_campaign=git)** | Dulles, VA | On Site | Jul 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[Charlotte Technology Consulting Intern - 2025](https://jobright.ai/jobs/info/6571fdec4345dd5229de4773?utm_source=1050&utm_campaign=git)** | Charlotte, NC | Hybrid | Jul 11 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Spring 2025 Corporate Development Intern - Graduate](https://jobright.ai/jobs/info/6677ac89dc7be138508a1a14?utm_source=1050&utm_campaign=git)** | Seattle, WA | On Site | Jul 11 |
+| **[University of Florida Health](https://ufhealth.org/)** | **[Office of Development Fall 2024 Intern](https://jobright.ai/jobs/info/669112d050888b752cb3de59?utm_source=1050&utm_campaign=git)** | Gainesville, FL | On Site | Jul 11 |
 | **[HDR Inc.](http://www.hdrinc.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/6673236b22b6ef8d0928a514?utm_source=1050&utm_campaign=git)** | Corpus Christi, TX | On Site | Jul 11 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Fall 2024](https://jobright.ai/jobs/info/6673166fa9e50a53acb10928?utm_source=1050&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 11 |
 | **[Genentech](http://gene.com)** | **[2024 Summer Intern - Pharma Partnering - Strategy and Operations](https://jobright.ai/jobs/info/6690f1bf71973c20cb6016c7?utm_source=1050&utm_campaign=git)** | South San Francisco, CA | On Site | Jul 11 |
@@ -106,12 +108,12 @@ For a complete list, see the full spreadsheet below:
 | **[KORE Power](https://korepower.com)** | **[Intern - Project Coordinator](https://jobright.ai/jobs/info/663ba6c5086732a4e4143e79?utm_source=1050&utm_campaign=git)** | Phoenix, AZ | On Site | Jul 10 |
 | **[BASF](http://www.basf.com)** | **[MBA Leadership Development Program (LDP) Internship - Summer 2025](https://jobright.ai/jobs/info/668c9108a04664baea38a3e2?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | On Site | Jul 10 |
 | **[BAE Systems, Inc.](https://jobs.baesystems.com/global/en)** | **[Program Management Intern - 2024-2025 School Year](https://jobright.ai/jobs/info/668fcf82228dfafddaffeb1d?utm_source=1050&utm_campaign=git)** | York, PA | On Site | Jul 10 |
+| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Administrative Fellow](https://jobright.ai/jobs/info/669010044a77721ba220f281?utm_source=1050&utm_campaign=git)** | Rochester, NY | On Site | Jul 10 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Administrative Fellow - Health System](https://jobright.ai/jobs/info/6688743fc75a6e7e29dd20a6?utm_source=1050&utm_campaign=git)** | Galveston, TX | On Site | Jul 10 |
 | **[ThyssenKrupp](https://www.thyssenkrupp.com)** | **[Program Management Co-Op](https://jobright.ai/jobs/info/668fe76685be61dbaa64a122?utm_source=1050&utm_campaign=git)** | Hamilton, OH | On Site | Jul 10 |
 | **[University of New Mexico](http://unm.edu)** | **[Administrative Assistant](https://jobright.ai/jobs/info/668f0ccdb56b2f6c1d79c577?utm_source=1050&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 10 |
 | **[Menards](https://www.menards.com)** | **[Production Management Intern](https://jobright.ai/jobs/info/668feba1b682295972555127?utm_source=1050&utm_campaign=git)** | Rapid City, SD | On Site | Jul 10 |
 | **[Liberty University](https://www.liberty.edu/online/)** | **[Student Administrative Assistant - ODAS](https://jobright.ai/jobs/info/668eea4b97cc7c3025b92439?utm_source=1050&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 10 |
-| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Administrative Fellow](https://jobright.ai/jobs/info/666128addd708a44bac96cec?utm_source=1050&utm_campaign=git)** | Rochester, NY | On Site | Jul 10 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/66900ff34a77721ba220f11d?utm_source=1050&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 10 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/668fb38cbc164957f31d1e1c?utm_source=1050&utm_campaign=git)** | Middletown, CT | On Site | Jul 10 |
 | **[Caterpillar](https://www.caterpillar.com)** | **[2025 Leadership & Technical Development Program - Supply Chain Management](https://jobright.ai/jobs/info/668c3288080f3f924dacbc4a?utm_source=1050&utm_campaign=git)** | Victoria, TX | On Site | Jul 10 |

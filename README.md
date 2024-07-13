@@ -57,7 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Administrative Fellow](https://jobright.ai/jobs/info/6691c275434cdde412c022f5?utm_source=1050&utm_campaign=git)** | Rochester, NY | On Site | Jul 12 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/6691bd74fd9555930f1fdd52?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 12 |
+| **[IWG plc](http://www.iwgplc.com)** | **[Project Manager Intern - Remote](https://jobright.ai/jobs/info/6691bbe6a7836cc61b42d3f0?utm_source=1050&utm_campaign=git)** | Addison County, VT | Remote | Jul 12 |
 | **[Bluewater](https://bluewater.tv/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6691a9795e5623ebe1a39d6f?utm_source=1050&utm_campaign=git)** | Clearwater, FL | On Site | Jul 12 |
+| **[Precision Castparts](http://precast.com)** | **[Project Management Intern (Part-time)](https://jobright.ai/jobs/info/6691bd69fd9555930f1fdc45?utm_source=1050&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha - Project Analyst Co-Op](https://jobright.ai/jobs/info/6691a91b89276925b83f2294?utm_source=1050&utm_campaign=git)** | Boston, MA | On Site | Jul 12 |
 | **[Greystar](http://greystar.com)** | **[Move In Assistant - Union Chapel Hill (Student Living)](https://jobright.ai/jobs/info/66917e8cd48d64247375d662?utm_source=1050&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 12 |
 | ↳ | **[Turn Assistant - Hub Minneapolis (Student Living)](https://jobright.ai/jobs/info/66917e8cd48d64247375d617?utm_source=1050&utm_campaign=git)** | St Paul, MN | On Site | Jul 12 |
@@ -67,8 +71,8 @@ For a complete list, see the full spreadsheet below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386027?utm_source=1050&utm_campaign=git)** | North Augusta, SC | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386025?utm_source=1050&utm_campaign=git)** | Woodbridge, VA | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386026?utm_source=1050&utm_campaign=git)** | Lancaster, SC | On Site | Jul 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8c?utm_source=1050&utm_campaign=git)** | Charlottesville, VA | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8b?utm_source=1050&utm_campaign=git)** | Asheville, NC | On Site | Jul 12 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8c?utm_source=1050&utm_campaign=git)** | Charlottesville, VA | On Site | Jul 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Project Manager Intern](https://jobright.ai/jobs/info/669172682b5e177ed6cb03e8?utm_source=1050&utm_campaign=git)** | Queens, NY | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Solution Advisory Hub Community Program](https://jobright.ai/jobs/info/66916060233b0959b54be0c2?utm_source=1050&utm_campaign=git)** | Newtown Square, PA | Hybrid | Jul 12 |
 | **[PMG](http://www.pmg.com)** | **[Graduate Leadership Program - Data Analytics](https://jobright.ai/jobs/info/66916be40bfd99748e33e869?utm_source=1050&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 12 |
@@ -104,8 +108,8 @@ For a complete list, see the full spreadsheet below:
 | **[YQN](https://www.yqn.com)** | **[warehouse operation intern/bilingual Chinese](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb683cc?utm_source=1050&utm_campaign=git)** | Pooler, GA | On Site | Jul 11 |
 | **[Madison Center, Inc.](http://www.madison.org)** | **[Administrator in Training - Bachelor's Degree](https://jobright.ai/jobs/info/6690b0af1f8d1bc97eb68b14?utm_source=1050&utm_campaign=git)** | Cheat Lake, WV | On Site | Jul 11 |
 | **[ThinkTech IT](https://www.thinktechit.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/669110081275f0d7353dca97?utm_source=1050&utm_campaign=git)** | Manhattan, NY | On Site | Jul 11 |
-| **[Dana TM4](https://www.danatm4.com)** | **[Engineering Project Management Co-Op](https://jobright.ai/jobs/info/66906a575114a7c8526d030e?utm_source=1050&utm_campaign=git)** | Novi, MI | On Site | Jul 11 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66909bda0aa6f308865b7e1a?utm_source=1050&utm_campaign=git)** | Elk Grove, CA | On Site | Jul 11 |
+| **[Dana TM4](https://www.danatm4.com)** | **[Engineering Project Management Co-Op](https://jobright.ai/jobs/info/6690b184094afae6909107fc?utm_source=1050&utm_campaign=git)** | Novi, MI | On Site | Jul 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Culture & Office Ops Intern - Fall 2024](https://jobright.ai/jobs/info/6690e84696e6beb86b131d55?utm_source=1050&utm_campaign=git)** | Austin, TX | On Site | Jul 11 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Business Analytics Intern - Fall 2024](https://jobright.ai/jobs/info/6690bf61555345cb31083ba9?utm_source=1050&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 11 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6690c93550a8322cf99b87d1?utm_source=1050&utm_campaign=git)** | Yuba City, CA | On Site | Jul 11 |
@@ -125,7 +129,6 @@ For a complete list, see the full spreadsheet below:
 | **[Phoenix Manufacturing](https://phoenix-mfg-inc.com)** | **[Office Intern](https://jobright.ai/jobs/info/6690ef37cfcca3c4c8c9d56f?utm_source=1050&utm_campaign=git)** | Enfield, CT | On Site | Jul 11 |
 | **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Admin Support Specialist - Journey](https://jobright.ai/jobs/info/6690e97c912f9e3d337955fc?utm_source=1050&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 11 |
 | **[City of Laguna Beach](http://www.lagunabeachcity.net)** | **[Administrative Intern](https://jobright.ai/jobs/info/6690a0cd43cab07c25cd09ad?utm_source=1050&utm_campaign=git)** | Laguna Beach, CA | On Site | Jul 11 |
-| **[Kroger](http://www.thekrogerco.com)** | **[Corporate Health & Wellness Innovation Intern](https://jobright.ai/jobs/info/6690cff3b9480c9896c8f3b5?utm_source=1050&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 11 |
 | **[CASES](https://www.cases.org)** | **[Program Assistant Intern](https://jobright.ai/jobs/info/6690cff3b9480c9896c8f3f8?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | **[Regional One Health](http://www.regionalonehealth.org)** | **[Admin Intern](https://jobright.ai/jobs/info/6690cff3b9480c9896c8f3c4?utm_source=1050&utm_campaign=git)** | Memphis, TN | On Site | Jul 11 |
 | **[Duke University](http://www.duke.edu)** | **[ADMINISTRATIVE INTERN](https://jobright.ai/jobs/info/6690a0d743cab07c25cd0a78?utm_source=1050&utm_campaign=git)** | Durham, NC | On Site | Jul 11 |
@@ -135,12 +138,12 @@ For a complete list, see the full spreadsheet below:
 | **[Vial](https://vial.com)** | **[Intern, Biotech Strategy and Operations](https://jobright.ai/jobs/info/668fcf77228dfafddaffea72?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 11 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Administrative - Graduate Assistant - Colangelo College of Business- Graduate Assistant](https://jobright.ai/jobs/info/669087a444a2ebd238ccdb68?utm_source=1050&utm_campaign=git)** | AZ Phoenix | On Site | Jul 11 |
 | **[BASF](http://www.basf.com)** | **[MBA Leadership Development Program (LDP) Internship - Summer 2025](https://jobright.ai/jobs/info/668c9108a04664baea38a3e2?utm_source=1050&utm_campaign=git)** | Florham Park, NJ | On Site | Jul 10 |
+| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Administrative Fellow](https://jobright.ai/jobs/info/669010044a77721ba220f281?utm_source=1050&utm_campaign=git)** | Rochester, NY | On Site | Jul 10 |
 | **[The University of Texas Medical Branch](http://www.utmb.edu/)** | **[Administrative Fellow - Health System](https://jobright.ai/jobs/info/6688743fc75a6e7e29dd20a6?utm_source=1050&utm_campaign=git)** | Galveston, TX | On Site | Jul 10 |
 | **[ThyssenKrupp](https://www.thyssenkrupp.com)** | **[Program Management Co-Op](https://jobright.ai/jobs/info/668fe76685be61dbaa64a122?utm_source=1050&utm_campaign=git)** | Hamilton, OH | On Site | Jul 10 |
 | **[University of New Mexico](http://unm.edu)** | **[Administrative Assistant](https://jobright.ai/jobs/info/668f0ccdb56b2f6c1d79c577?utm_source=1050&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 10 |
 | **[Menards](https://www.menards.com)** | **[Production Management Intern](https://jobright.ai/jobs/info/668feba1b682295972555127?utm_source=1050&utm_campaign=git)** | Rapid City, SD | On Site | Jul 10 |
 | **[Liberty University](https://www.liberty.edu/online/)** | **[Student Administrative Assistant - ODAS](https://jobright.ai/jobs/info/668eea4b97cc7c3025b92439?utm_source=1050&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 10 |
-| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Administrative Fellow](https://jobright.ai/jobs/info/666128addd708a44bac96cec?utm_source=1050&utm_campaign=git)** | Rochester, NY | On Site | Jul 10 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/66900ff34a77721ba220f11d?utm_source=1050&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 10 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/668fb38cbc164957f31d1e1c?utm_source=1050&utm_campaign=git)** | Middletown, CT | On Site | Jul 10 |
 | **[Caterpillar](https://www.caterpillar.com)** | **[2025 Leadership & Technical Development Program - Supply Chain Management](https://jobright.ai/jobs/info/668c3288080f3f924dacbc4a?utm_source=1050&utm_campaign=git)** | Victoria, TX | On Site | Jul 10 |

@@ -57,16 +57,18 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beacon Bridge](www.beaconbridgehs.com)** | **[Office Administrative Assistant](https://jobright.ai/jobs/info/6691e1347ab0371a6692f463?utm_source=1050&utm_campaign=git)** | Durham, NC | On Site | Jul 13 |
 | **[ENGIE North America](http://www.engie-na.com/)** | **[Intern, Project Development, Solar](https://jobright.ai/jobs/info/6691ce06e3b2ba50fa2cea20?utm_source=1050&utm_campaign=git)** | Chicago, IL | On Site | Jul 12 |
 | **[IWG plc](http://www.iwgplc.com)** | **[Operations Project Manager Intern - remote](https://jobright.ai/jobs/info/6691c5d6dedfefbc1f707f62?utm_source=1050&utm_campaign=git)** | Addison County, VT | Remote | Jul 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691c79855fdc8d51c7e471c?utm_source=1050&utm_campaign=git)** | Mission, TX | On Site | Jul 12 |
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Administrative Fellow](https://jobright.ai/jobs/info/6691c275434cdde412c022f5?utm_source=1050&utm_campaign=git)** | Rochester, NY | On Site | Jul 12 |
+| **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Program Management](https://jobright.ai/jobs/info/6691f69ba8833196ce3c0877?utm_source=1050&utm_campaign=git)** | Trenton, NJ | On Site | Jul 12 |
 | **[IWG plc](http://www.iwgplc.com)** | **[Project Manager Intern - Remote](https://jobright.ai/jobs/info/6691bbe6a7836cc61b42d3f0?utm_source=1050&utm_campaign=git)** | Addison County, VT | Remote | Jul 12 |
 | **[Bluewater](https://bluewater.tv/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6691a9795e5623ebe1a39d6f?utm_source=1050&utm_campaign=git)** | Clearwater, FL | On Site | Jul 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/6691c7a955fdc8d51c7e487e?utm_source=1050&utm_campaign=git)** | Ohio, United States | On Site | Jul 12 |
 | **[Precision Castparts](http://precast.com)** | **[Project Management Intern (Part-time)](https://jobright.ai/jobs/info/6691bd69fd9555930f1fdc45?utm_source=1050&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha - Project Analyst Co-Op](https://jobright.ai/jobs/info/6691a91b89276925b83f2294?utm_source=1050&utm_campaign=git)** | Boston, MA | On Site | Jul 12 |
-| **[Greystar](http://greystar.com)** | **[Move In Assistant - Union Chapel Hill (Student Living)](https://jobright.ai/jobs/info/66917eadd48d64247375d934?utm_source=1050&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 12 |
+| **[Greystar](http://greystar.com)** | **[Move In Assistant - Union Chapel Hill (Student Living)](https://jobright.ai/jobs/info/66917e8cd48d64247375d662?utm_source=1050&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 12 |
 | ↳ | **[Turn Assistant - Hub Minneapolis (Student Living)](https://jobright.ai/jobs/info/66917e8cd48d64247375d617?utm_source=1050&utm_campaign=git)** | St Paul, MN | On Site | Jul 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/669190484c69d669ab536654?utm_source=1050&utm_campaign=git)** | Fort Mill, SC | On Site | Jul 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Administrative Analyst](https://jobright.ai/jobs/info/6691896dac10c1640df70a0c?utm_source=1050&utm_campaign=git)** | Stem, NC | On Site | Jul 12 |
@@ -74,8 +76,8 @@ For a complete list, see the full spreadsheet below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386027?utm_source=1050&utm_campaign=git)** | North Augusta, SC | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386025?utm_source=1050&utm_campaign=git)** | Woodbridge, VA | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386026?utm_source=1050&utm_campaign=git)** | Lancaster, SC | On Site | Jul 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8c?utm_source=1050&utm_campaign=git)** | Charlottesville, VA | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8b?utm_source=1050&utm_campaign=git)** | Asheville, NC | On Site | Jul 12 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8c?utm_source=1050&utm_campaign=git)** | Charlottesville, VA | On Site | Jul 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Project Manager Intern](https://jobright.ai/jobs/info/669172682b5e177ed6cb03e8?utm_source=1050&utm_campaign=git)** | Queens, NY | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Solution Advisory Hub Community Program](https://jobright.ai/jobs/info/66916060233b0959b54be0c2?utm_source=1050&utm_campaign=git)** | Newtown Square, PA | Hybrid | Jul 12 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/660ece401cbac0908bb9d4cd?utm_source=1050&utm_campaign=git)** | Greenville, SC | On Site | Jul 12 |
@@ -109,7 +111,6 @@ For a complete list, see the full spreadsheet below:
 | **[Bath & Body Works](https://www.bathandbodyworks.com/)** | **[BBW Key Holder-INTERNATIONAL PLAZA](https://jobright.ai/jobs/info/66908a4160a291b68c8fec2b?utm_source=1050&utm_campaign=git)** | Tampa, FL | On Site | Jul 11 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Fellow- Apply June 7th through Sept. 27th !](https://jobright.ai/jobs/info/6690598df6b922c3462cae1a?utm_source=1050&utm_campaign=git)** | Miami, FL | On Site | Jul 11 |
 | **[University of Cincinnati Technology Accelerator for Commercialization](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Executive Staff Assistant, OLLI - College of Coop Ed/Prof Studies](https://jobright.ai/jobs/info/669059b8f6b922c3462cb216?utm_source=1050&utm_campaign=git)** | Cincinnati, OH | On Site | Jul 11 |
-| **[Dnata](http://www.dnata.com/)** | **[Manager in Training (MIT) Intern](https://jobright.ai/jobs/info/6690cfcdb9480c9896c8ef7d?utm_source=1050&utm_campaign=git)** | Inwood, NY | On Site | Jul 11 |
 | **[YQN](https://www.yqn.com)** | **[warehouse operation intern/bilingual Chinese](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb683cc?utm_source=1050&utm_campaign=git)** | Pooler, GA | On Site | Jul 11 |
 | **[Madison Center, Inc.](http://www.madison.org)** | **[Administrator in Training - Bachelor's Degree](https://jobright.ai/jobs/info/6690b0af1f8d1bc97eb68b14?utm_source=1050&utm_campaign=git)** | Cheat Lake, WV | On Site | Jul 11 |
 | **[ThinkTech IT](https://www.thinktechit.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/669110081275f0d7353dca97?utm_source=1050&utm_campaign=git)** | Manhattan, NY | On Site | Jul 11 |
@@ -214,5 +215,4 @@ For a complete list, see the full spreadsheet below:
 | **[HURO AI, Inc.](https://www.linkedin.com/company/94276871)** | **[Executive Assistant Internship](https://jobright.ai/jobs/info/668b16e9efc4f036b6f2243f?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 07 |
 | **[S&P Global](https://www.spglobal.com)** | **[Purpose Team Intern](https://jobright.ai/jobs/info/666cb625c55b5882af311bdc?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 06 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2025 MBA: A2C Executive Strategist, Office of the CEO Intern](https://jobright.ai/jobs/info/666c8737f630f8a398e00c56?utm_source=1050&utm_campaign=git)** | St Petersburg, FL | Hybrid | Jul 06 |
-| **[Alton Aviation Consultancy](https://altonaviation.com)** | **[Associate (Intern - Fall 2024/Spring 2025), Management Consulting](https://jobright.ai/jobs/info/668f424fe74ffdb5b6262178?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

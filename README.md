@@ -57,6 +57,10 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/6676b3aca2f49d4e236dc87c?utm_source=1050&utm_campaign=git)** | St Louis, MO | On Site | Jul 14 |
+| **[3D Systems](http://www.3dsystems.com)** | **[Master of Business Administration (MBA) Intern](https://jobright.ai/jobs/info/664eb10bcd9154b3e601217a?utm_source=1050&utm_campaign=git)** | Houston, TX | On Site | Jul 14 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[2025 Corporate & Investment Bank Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/667ea1d735ec2927f286aa43?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 14 |
+| **[Protiviti](http://www.protiviti.com)** | **[Dallas Business Performance Improvement Intern - 2025](https://jobright.ai/jobs/info/6686918f1e8fc8919454023b?utm_source=1050&utm_campaign=git)** | Dallas, TX | Hybrid | Jul 14 |
 | **[KerberRose S.C.](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/66934c6b6f1fa9f08819df34?utm_source=1050&utm_campaign=git)** | Wisconsin Rapids, WI | On Site | Jul 14 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2024 - Business Analyst](https://jobright.ai/jobs/info/669303b67c8ef1994e4345bd?utm_source=1050&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 13 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Fall Intern](https://jobright.ai/jobs/info/6692b2097c60d5dfa3b13dd2?utm_source=1050&utm_campaign=git)** | Alcoa, TN | On Site | Jul 13 |
@@ -111,8 +115,8 @@ For a complete list, see the full spreadsheet below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/669190484c69d669ab536654?utm_source=1050&utm_campaign=git)** | Fort Mill, SC | On Site | Jul 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Administrative Analyst](https://jobright.ai/jobs/info/669271d553c6d92fdaad5f41?utm_source=1050&utm_campaign=git)** | Stem, NC | On Site | Jul 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386027?utm_source=1050&utm_campaign=git)** | North Augusta, SC | On Site | Jul 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386025?utm_source=1050&utm_campaign=git)** | Woodbridge, VA | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386026?utm_source=1050&utm_campaign=git)** | Lancaster, SC | On Site | Jul 12 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386025?utm_source=1050&utm_campaign=git)** | Woodbridge, VA | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8b?utm_source=1050&utm_campaign=git)** | Asheville, NC | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8c?utm_source=1050&utm_campaign=git)** | Charlottesville, VA | On Site | Jul 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Project Manager Intern](https://jobright.ai/jobs/info/669172682b5e177ed6cb03e8?utm_source=1050&utm_campaign=git)** | Queens, NY | On Site | Jul 12 |
@@ -152,8 +156,8 @@ For a complete list, see the full spreadsheet below:
 | **[YQN](https://www.yqn.com)** | **[warehouse operation intern/bilingual Chinese](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb683cc?utm_source=1050&utm_campaign=git)** | Pooler, GA | On Site | Jul 11 |
 | **[Madison Center, Inc.](http://www.madison.org)** | **[Administrator in Training - Bachelor's Degree](https://jobright.ai/jobs/info/6690b0af1f8d1bc97eb68b14?utm_source=1050&utm_campaign=git)** | Cheat Lake, WV | On Site | Jul 11 |
 | **[ThinkTech IT](https://www.thinktechit.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/669110081275f0d7353dca97?utm_source=1050&utm_campaign=git)** | Manhattan, NY | On Site | Jul 11 |
-| **[Dana TM4](https://www.danatm4.com)** | **[Engineering Project Management Co-Op](https://jobright.ai/jobs/info/66906a575114a7c8526d030e?utm_source=1050&utm_campaign=git)** | Novi, MI | On Site | Jul 11 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66909bda0aa6f308865b7e1a?utm_source=1050&utm_campaign=git)** | Elk Grove, CA | On Site | Jul 11 |
+| **[Dana TM4](https://www.danatm4.com)** | **[Engineering Project Management Co-Op](https://jobright.ai/jobs/info/6690b184094afae6909107fc?utm_source=1050&utm_campaign=git)** | Novi, MI | On Site | Jul 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Culture & Office Ops Intern - Fall 2024](https://jobright.ai/jobs/info/6690e84696e6beb86b131d55?utm_source=1050&utm_campaign=git)** | Austin, TX | On Site | Jul 11 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Business Analytics Intern - Fall 2024](https://jobright.ai/jobs/info/6690bf61555345cb31083ba9?utm_source=1050&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 11 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6690c93550a8322cf99b87d1?utm_source=1050&utm_campaign=git)** | Yuba City, CA | On Site | Jul 11 |

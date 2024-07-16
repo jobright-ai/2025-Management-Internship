@@ -57,6 +57,11 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2024: Monitoring, Evaluation, Accountability, and Learning (MEAL) Intern](https://jobright.ai/jobs/info/6695ea4e35367859a290fb09?utm_source=1050&utm_campaign=git)** | San Diego, CA | On Site | Jul 16 |
+| **[Novogradac](https://www.novoco.com)** | **[2024 Summer Leadership Program - Atlanta](https://jobright.ai/jobs/info/6695e6f58d2977e4b2ac0cbc?utm_source=1050&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 16 |
+| **[Atlas Technology](https://atlasweb3.io)** | **[Operations Intern (Mandarin Speaker)](https://jobright.ai/jobs/info/6695cf298d7ddb617433fbe6?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 16 |
+| **[Worldwide Counter Threat Solutions](https://www.ww-cts.com)** | **[SkillBridge Intern - Project Management](https://jobright.ai/jobs/info/6695c9949b6af7aab94a66bf?utm_source=1050&utm_campaign=git)** | Fredericksburg, VA | Hybrid | Jul 16 |
+| **[Lancesoft](http://www.lancesoft.com/)** | **[Drug Safety Assistant/Administrative Assistant](https://jobright.ai/jobs/info/6695c99d9b6af7aab94a679a?utm_source=1050&utm_campaign=git)** | New York, NY | On Site | Jul 15 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Strategist Intern, Summer 2025](https://jobright.ai/jobs/info/6695c0d027b8d0ea6ca6f04d?utm_source=1050&utm_campaign=git)** | Chicago, IL | On Site | Jul 15 |
 | **[South Carolina Department of Motor Vehicles](http://www.scdmvonline.com)** | **[Administrative Specialist II/DMV/SC Works Internship -166874](https://jobright.ai/jobs/info/6695b0cca837844464539325?utm_source=1050&utm_campaign=git)** | Columbia, SC | Hybrid | Jul 15 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Dallas Development Intern](https://jobright.ai/jobs/info/6695a673edeaa1f1d405bc4f?utm_source=1050&utm_campaign=git)** | New York, NY | Hybrid | Jul 15 |
@@ -89,8 +94,8 @@ For a complete list, see the full spreadsheet below:
 | **[Stevens Towing](https://www.stevens-towing.com)** | **[Warehouse & Data Entry](https://jobright.ai/jobs/info/66949f4aecc31a18fa42d837?utm_source=1050&utm_campaign=git)** | Yonges Island, SC | On Site | Jul 15 |
 | **[Brown and Caldwell](http://www.brownandcaldwell.com/)** | **[Intern-Business Analyst](https://jobright.ai/jobs/info/6695a0e8c508bc0fadf565d3?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 15 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[International Consulting Intern - New York - College Program 2024](https://jobright.ai/jobs/info/66956b005d48ac83fc96e700?utm_source=1050&utm_campaign=git)** | New York - 1166 | Hybrid | Jul 15 |
-| ↳ | **[International Consulting Intern - San Francisco - College Program 2024](https://jobright.ai/jobs/info/66956b005d48ac83fc96e720?utm_source=1050&utm_campaign=git)** | San Francisco - Embarcadero | Hybrid | Jul 15 |
 | ↳ | **[International Consulting Intern - Chicago - College Program 2024](https://jobright.ai/jobs/info/66956b005d48ac83fc96e71c?utm_source=1050&utm_campaign=git)** | Chicago - 155 Wacker | Hybrid | Jul 15 |
+| ↳ | **[International Consulting Intern - San Francisco - College Program 2024](https://jobright.ai/jobs/info/66956b005d48ac83fc96e720?utm_source=1050&utm_campaign=git)** | San Francisco - Embarcadero | Hybrid | Jul 15 |
 | **[Boston Medical Center](http://www.bmc.org/)** | **[Development Events Intern](https://jobright.ai/jobs/info/66957137b10e9382b9c070f7?utm_source=1050&utm_campaign=git)** | 960 Massachusetts Ave | On Site | Jul 15 |
 | **[Boostability](https://www.linkedin.com/company/101426789)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6694195f3d726e29018ed04d?utm_source=1050&utm_campaign=git)** | United States | Remote | Jul 14 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Outsourced Financial Advisory Consultant - Intern (Winter 2025)](https://jobright.ai/jobs/info/65e214bb2ef5b55aec79a364?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 14 |
@@ -144,12 +149,12 @@ For a complete list, see the full spreadsheet below:
 | **[Urban Strategies](https://urbanstrategiesinc.org/)** | **[Executive Fellow](https://jobright.ai/jobs/info/662c12aaf5748cbeccf6e23b?utm_source=1050&utm_campaign=git)** | St Louis, MO | On Site | Jul 13 |
 | **[DuCharme, McMillen & Associates](https://www.dmainc.com/)** | **[Property Tax Consulting Intern - Fall 2024](https://jobright.ai/jobs/info/65ef9fa8c947f63ccd7980ab?utm_source=1050&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 13 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2025)](https://jobright.ai/jobs/info/6606180d19ac91160370e0d0?utm_source=1050&utm_campaign=git)** | Kalamazoo, MI | On Site | Jul 13 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664ea72b4e197fc8adcf968b?utm_source=1050&utm_campaign=git)** | Pasadena, CA | On Site | Jul 13 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e40b1403c20224e70f596?utm_source=1050&utm_campaign=git)** | Dallas, TX | On Site | Jul 13 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664ea72b4e197fc8adcf968b?utm_source=1050&utm_campaign=git)** | Pasadena, CA | On Site | Jul 13 |
 | **[HII Mission Technologies](https://tsd.huntingtoningalls.com/)** | **[Program Manager 1 (SkillBridge Intern) - 8226](https://jobright.ai/jobs/info/65ba51481dda307087bd2ecd?utm_source=1050&utm_campaign=git)** | Alexandria, VA | On Site | Jul 13 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664ea6934e197fc8adcf88cd?utm_source=1050&utm_campaign=git)** | Aspen, CO | On Site | Jul 13 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301267?utm_source=1050&utm_campaign=git)** | Lincoln, NE | On Site | Jul 13 |
 | **[HII Mission Technologies](https://tsd.huntingtoningalls.com/)** | **[Logistics Management Analyst (SkillBridge Intern) - 13736](https://jobright.ai/jobs/info/65ba51481dda307087bd2ed8?utm_source=1050&utm_campaign=git)** | Dayton, OH | On Site | Jul 13 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e36a55ea75b6f96bee2f5?utm_source=1050&utm_campaign=git)** | Dallas, TX | On Site | Jul 13 |
 | **[Dragados](https://www.dragados.com/)** | **[Intern - Office/Admin](https://jobright.ai/jobs/info/664e10f910b4f1df29982d26?utm_source=1050&utm_campaign=git)** | Raleigh, NC | On Site | Jul 13 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[Cost Segregation Consultant - Intern (2025)](https://jobright.ai/jobs/info/6605fde8905a6cd2d20f0b3c?utm_source=1050&utm_campaign=git)** | Denver, CO | On Site | Jul 13 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e2bb1fd06ab529d52632e?utm_source=1050&utm_campaign=git)** | Napa, CA | On Site | Jul 13 |
@@ -177,15 +182,14 @@ For a complete list, see the full spreadsheet below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[FREE TRAVEL and HOUSING Golf Tournament Operations-Fall 2024 Internship -](https://jobright.ai/jobs/info/6691c7a955fdc8d51c7e487e?utm_source=1050&utm_campaign=git)** | Ohio, United States | On Site | Jul 12 |
 | **[Precision Castparts](http://precast.com)** | **[Project Management Intern (Part-time)](https://jobright.ai/jobs/info/6691bd69fd9555930f1fdc45?utm_source=1050&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 12 |
 | **[State Street Corporation](http://www.statestreet.com)** | **[Alpha - Project Analyst Co-Op](https://jobright.ai/jobs/info/6691a91b89276925b83f2294?utm_source=1050&utm_campaign=git)** | Boston, MA | On Site | Jul 12 |
-| **[Greystar](http://greystar.com)** | **[Move In Assistant - Union Chapel Hill (Student Living)](https://jobright.ai/jobs/info/66917e8cd48d64247375d662?utm_source=1050&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 12 |
+| **[Greystar](http://greystar.com)** | **[Move In Assistant - Union Chapel Hill (Student Living)](https://jobright.ai/jobs/info/66917eadd48d64247375d934?utm_source=1050&utm_campaign=git)** | Chapel Hill, NC | On Site | Jul 12 |
 | ↳ | **[Turn Assistant - Hub Minneapolis (Student Living)](https://jobright.ai/jobs/info/66917e8cd48d64247375d617?utm_source=1050&utm_campaign=git)** | St Paul, MN | On Site | Jul 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/669190484c69d669ab536654?utm_source=1050&utm_campaign=git)** | Fort Mill, SC | On Site | Jul 12 |
-| **[University of Arkansas](http://uark.edu)** | **[Administrative Analyst](https://jobright.ai/jobs/info/669271d553c6d92fdaad5f41?utm_source=1050&utm_campaign=git)** | Stem, NC | On Site | Jul 12 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386027?utm_source=1050&utm_campaign=git)** | North Augusta, SC | On Site | Jul 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386026?utm_source=1050&utm_campaign=git)** | Lancaster, SC | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386025?utm_source=1050&utm_campaign=git)** | Woodbridge, VA | On Site | Jul 12 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8c?utm_source=1050&utm_campaign=git)** | Charlottesville, VA | On Site | Jul 12 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386026?utm_source=1050&utm_campaign=git)** | Lancaster, SC | On Site | Jul 12 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6691770c1c5d42e9ec386027?utm_source=1050&utm_campaign=git)** | North Augusta, SC | On Site | Jul 12 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8b?utm_source=1050&utm_campaign=git)** | Asheville, NC | On Site | Jul 12 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/66918987ac10c1640df70c8c?utm_source=1050&utm_campaign=git)** | Charlottesville, VA | On Site | Jul 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Project Manager Intern](https://jobright.ai/jobs/info/669172682b5e177ed6cb03e8?utm_source=1050&utm_campaign=git)** | Queens, NY | On Site | Jul 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Solution Advisory Hub Community Program](https://jobright.ai/jobs/info/66916060233b0959b54be0c2?utm_source=1050&utm_campaign=git)** | Newtown Square, PA | Hybrid | Jul 12 |
 | **[PMG](http://www.pmg.com)** | **[Graduate Leadership Program - Data Analytics](https://jobright.ai/jobs/info/66916be40bfd99748e33e869?utm_source=1050&utm_campaign=git)** | Atlanta, GA | Hybrid | Jul 12 |
@@ -223,8 +227,8 @@ For a complete list, see the full spreadsheet below:
 | **[YQN](https://www.yqn.com)** | **[warehouse operation intern/bilingual Chinese](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb683cc?utm_source=1050&utm_campaign=git)** | Pooler, GA | On Site | Jul 11 |
 | **[Madison Center, Inc.](http://www.madison.org)** | **[Administrator in Training - Bachelor's Degree](https://jobright.ai/jobs/info/6690b0af1f8d1bc97eb68b14?utm_source=1050&utm_campaign=git)** | Cheat Lake, WV | On Site | Jul 11 |
 | **[ThinkTech IT](https://www.thinktechit.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/669110081275f0d7353dca97?utm_source=1050&utm_campaign=git)** | Manhattan, NY | On Site | Jul 11 |
+| **[Dana TM4](https://www.danatm4.com)** | **[Engineering Project Management Co-Op](https://jobright.ai/jobs/info/66906a575114a7c8526d030e?utm_source=1050&utm_campaign=git)** | Novi, MI | On Site | Jul 11 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/66909bda0aa6f308865b7e1a?utm_source=1050&utm_campaign=git)** | Elk Grove, CA | On Site | Jul 11 |
-| **[Dana TM4](https://www.danatm4.com)** | **[Engineering Project Management Co-Op](https://jobright.ai/jobs/info/6690b184094afae6909107fc?utm_source=1050&utm_campaign=git)** | Novi, MI | On Site | Jul 11 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Culture & Office Ops Intern - Fall 2024](https://jobright.ai/jobs/info/6690e84696e6beb86b131d55?utm_source=1050&utm_campaign=git)** | Austin, TX | On Site | Jul 11 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Business Analytics Intern - Fall 2024](https://jobright.ai/jobs/info/6690bf61555345cb31083ba9?utm_source=1050&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 11 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/6690c93550a8322cf99b87d1?utm_source=1050&utm_campaign=git)** | Yuba City, CA | On Site | Jul 11 |
@@ -298,7 +302,4 @@ For a complete list, see the full spreadsheet below:
 | **[Upskills](http://www.upskills.com/)** | **[Business Analyst (Domain in Capital Markets industry)](https://jobright.ai/jobs/info/668cf7b8433c315ce7c25765?utm_source=1050&utm_campaign=git)** | Ontario, CA | On Site | Jul 09 |
 | **[EmergingTech](https://emergingtech.co)** | **[Administrative Analyst (Intern)](https://jobright.ai/jobs/info/668cdcc36aa8087083831358?utm_source=1050&utm_campaign=git)** | Gainesville, FL | On Site | Jul 09 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 COO Business Services Summer Internship - Early Careers](https://jobright.ai/jobs/info/668cce4c2c3a4daee99fee8e?utm_source=1050&utm_campaign=git)** | Charlotte, NC | On Site | Jul 09 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[LAND DEVELOPMENT FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/668cbbd20ee1d53001213239?utm_source=1050&utm_campaign=git)** | Erlanger, KY | On Site | Jul 09 |
-| **[United States Holocaust Memorial Museum](http://www.ushmm.org/)** | **[Intern - Marketing & Communications (Project Management)](https://jobright.ai/jobs/info/668cb6f5c5aa0957f9001bb4?utm_source=1050&utm_campaign=git)** | Washington, DC | On Site | Jul 09 |
-| **[North Carolina Agricultural and Technical State University](http://www.ncat.edu/)** | **[Administrative Support Spec](https://jobright.ai/jobs/info/668cb2c9b771a5bfb21da7b1?utm_source=1050&utm_campaign=git)** | Greensboro, NC | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

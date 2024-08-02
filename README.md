@@ -57,20 +57,23 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanders-Brown Center on Aging](https://medicine.uky.edu/centers/sbcoa/)** | **[FWS Fall 2024, A & S Student Worker - Administrative Officer Assistant](https://jobright.ai/jobs/info/66ac8a1bb556873e6d50221b?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Aug 02 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac75578c8daa10843d3e04?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
+| **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[OFFICE ASSISTANT (Student/Work Study) - CIT](https://jobright.ai/jobs/info/66ac8d7af850058e3cf944be?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 02 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad641?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad644?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 02 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad643?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad641?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Aug 02 |
+| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac86c6e0e3f6f82b309e8b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac532ff20421b50726b3bb?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac54fea9de2a9defd71b01?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac532ff20421b50726b3bd?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac54fea9de2a9defd71b02?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac54fea9de2a9defd71b03?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 02 |
+| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac54fea9de2a9defd71b01?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac4d17a9ca9a93b4b00faf?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac4d17a9ca9a93b4b00fb0?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac532ff20421b50726b3be?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ac532ff20421b50726b3bf?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[Pioneer Executives Inc.](https://pioneerexecutives.com/)** | **[Business Operations Trainee](https://jobright.ai/jobs/info/66ac40b55203b4ac1959ef89?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 02 |
+| **[PGIM](https://www.pgim.com)** | **[Prudential: 2025 US Businesses Internship Program](https://jobright.ai/jobs/info/66ac8a25b556873e6d502371?utm_campaign=1050&utm_source=git)** | Newark, NJ, USA | On Site | Aug 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/66ac2d88a40c00b49f42b46c?utm_campaign=1050&utm_source=git)** | Dothan, AL | On Site | Aug 01 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Campus Retail Supervisor of Student Accounts](https://jobright.ai/jobs/info/66ac2d68a40c00b49f42b248?utm_campaign=1050&utm_source=git)** | Bremerton, WA | Hybrid | Aug 01 |
 | **[California State University, Monterey Bay](https://www.csumb.edu)** | **[Administrative Support Coordinator](https://jobright.ai/jobs/info/66ac2724c18fa2cab9f2d233?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Aug 01 |
@@ -112,25 +115,24 @@ For a complete list, see the full spreadsheet below:
 | **[KeyBank](https://www.key.com)** | **[2025 Summer CX+EX (Experience Strategist Track) Internship - Cleveland](https://jobright.ai/jobs/info/66abdb78550bd1b60dccd330?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 01 |
 | **[Fast Enterprises](http://www.fastenterprises.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/66aadf6c0004c6a26707e377?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Jul 31 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/66aaf6268c3af4af5104166d?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Jul 31 |
-| **[KeyBank](https://www.key.com)** | **[2025 Summer Key's Technology, Operations & Services (Operations Track) Internship - Cleveland](https://jobright.ai/jobs/info/66a275fd5e239676a832ab51?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Jul 31 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Office Worker](https://jobright.ai/jobs/info/66aadab1484bac8dba9c336d?utm_campaign=1050&utm_source=git)** | Richmond, KY | On Site | Jul 31 |
 | **[Sanmina](https://www.sanmina.com)** | **[Program Manager Intern](https://jobright.ai/jobs/info/66aad79fabec296bfadd08f7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[Generalsekretariat GS-EJPD](https://www.ejpd.admin.ch/ejpd/de/home.html)** | **[Un/e apprenti/e développeur/euse de business numérique CFC](https://jobright.ai/jobs/info/66aaedf172ed497e0c4c310e?utm_campaign=1050&utm_source=git)** | Berne, OH | On Site | Jul 31 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ab8ff90bfe328baf53725b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Student Hourly – Student Assistant to Facility Manager](https://jobright.ai/jobs/info/66ab024023d3403d89bbd9f8?utm_campaign=1050&utm_source=git)** | Lawrence, KS | On Site | Jul 31 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/66ab4688bb01c2db3f586f45?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 31 |
 | ↳ | **[2025 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aaf31cf2d5b1f915a0c2b5?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66aae5c536c29c9e62414598?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66aae5c536c29c9e6241459d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ab932c3d9f7c3ec1b1dd76?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jul 31 |
+| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66aae5c536c29c9e62414598?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 31 |
+| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66aae5c536c29c9e6241459b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 31 |
+| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66aae5c536c29c9e6241459e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
 | **[Vericast](https://www.vericast.com/)** | **[Internship - Shared Services (Remote)](https://jobright.ai/jobs/info/66aab56f6bc88b69b4ae120f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Remote | Jul 31 |
 | **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66aab5a56bc88b69b4ae1793?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship – Data Analyst Advanced Development Program](https://jobright.ai/jobs/info/66abf2faff1a1dde68679652?utm_campaign=1050&utm_source=git)** | Malvern, PA | Hybrid | Jul 31 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ab8ce1cbeeacebe0ad168a?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jul 31 |
 | **[Trooh](https://rougemedia.com)** | **[Operations Coordinator Intern](https://jobright.ai/jobs/info/66aaa71f84ebf4cbb88ea81a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte Consulting – Software Engineering Summer Scholar](https://jobright.ai/jobs/info/66aaaf33eb7c42261862243d?utm_campaign=1050&utm_source=git)** | USA | Hybrid | Jul 31 |
 | **[Paradero Hotels](https://www.paraderohotels.com/)** | **[Future Leadership Internship Program (Sales, Marketing).](https://jobright.ai/jobs/info/66aab18946db4ad72ff477dd?utm_campaign=1050&utm_source=git)** | West Hollywood, CA | On Site | Jul 31 |
-| **[USAA](https://www.usaa.com)** | **[CFO Future Leaders Program Intern](https://jobright.ai/jobs/info/66aa95570b63ca96d0316434?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 31 |
-| ↳ | **[CFO Future Leaders Program Intern](https://jobright.ai/jobs/info/66aa953d0b63ca96d03161d7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
+| **[USAA](https://www.usaa.com)** | **[CFO Future Leaders Program Intern](https://jobright.ai/jobs/info/66aa953d0b63ca96d03161d7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 31 |
+| ↳ | **[CFO Future Leaders Program Intern](https://jobright.ai/jobs/info/66aa95570b63ca96d0316434?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 31 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Fall 2024 Internship](https://jobright.ai/jobs/info/66aa9025691c388b85499045?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jul 31 |
 | **[Psych+](https://www.psychplus.com)** | **[Administrative Assistant Internship](https://jobright.ai/jobs/info/66aa7dc0f68fae25b67f8b04?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 31 |
 | ↳ | **[Administrative Assistant Internship](https://jobright.ai/jobs/info/66aa7dccf68fae25b67f8ca3?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 31 |
@@ -203,7 +205,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Intern - Reporting](https://jobright.ai/jobs/info/66a8281972eb9b695ae9aa22?utm_campaign=1050&utm_source=git)** | Cincinnati metropolitan area, OH | Hybrid | Jul 29 |
 | ↳ | **[Intern - Reporting](https://jobright.ai/jobs/info/66a8170a25b61b8fef1d5614?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Jul 29 |
 | ↳ | **[Intern - Reporting](https://jobright.ai/jobs/info/66a81e6c65dce2830c9c2b30?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Jul 29 |
-| **[VCU Health](https://www.vcuhealth.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/66a810d501815c0503e4490f?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jul 29 |
+| **[VCU Health](https://www.vcuhealth.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/66a8173425b61b8fef1d590e?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jul 29 |
 | **[Delta Air Lines](http://www.delta.com)** | **[Co-Op, Operations Analytics (Summer, 2025)](https://jobright.ai/jobs/info/66a812be8212274140e23d69?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | ↳ | **[Co-Op, Operations Analytics (Spring, 2025)](https://jobright.ai/jobs/info/66a8107743c575ae49a57b2d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern - Healthcare Technology Management](https://jobright.ai/jobs/info/66a8208b1e7438f0feef9bfb?utm_campaign=1050&utm_source=git)** | Brockton, MA | On Site | Jul 29 |

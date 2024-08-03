@@ -57,7 +57,9 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cloudera](http://www.cloudera.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/66ad94d14aa705202c807330?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Aug 03 |
+| **[Cloudera](http://www.cloudera.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/66ad9c5c444603496b49a705?utm_campaign=1050&utm_source=git)** | Washington, United States | On Site | Aug 03 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/66ad9c5c444603496b49a706?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Aug 03 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/66ad94d14aa705202c807330?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Aug 03 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2025 Macquarie Asset Management Summer Internship Program](https://jobright.ai/jobs/info/66ad9246c79223f1e478e4cc?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[CaaStle](https://www.caastle.com/)** | **[Office Coordinator/College Intern - Temporary Position](https://jobright.ai/jobs/info/66ad6be7083d8b1ebcb93f8d?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Aug 02 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Strategic Business Operations - Spring Co-Op](https://jobright.ai/jobs/info/66ad6be7083d8b1ebcb93fb2?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Aug 02 |
@@ -66,10 +68,9 @@ For a complete list, see the full spreadsheet below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Administrative Support Intern, Interpreter Services (Fall 2024)](https://jobright.ai/jobs/info/66ad5c92ae93b46df5b90c72?utm_campaign=1050&utm_source=git)** | Charlottesville, VA | Hybrid | Aug 02 |
 | **[RSM](http://www.rsmus.com/)** | **[Technology Risk Consulting Intern - Summer 2025](https://jobright.ai/jobs/info/66ad50aa64b84440849473f7?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 02 |
 | **[Confluent](https://confluent.io/)** | **[Fall 2024 / Technical Program Manager Intern (Austin, TX)](https://jobright.ai/jobs/info/66ad4efcb4ecbfcc6efd32c2?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Aug 02 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ad4e6546d40e1123227106?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ad4e6546d40e1123227107?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Finance & Executive Intern](https://jobright.ai/jobs/info/66ad48686d5971fb62a3e472?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[Trust Roofing](https://trustroofing.com)** | **[Project Managment interns](https://jobright.ai/jobs/info/66ad3674b27d72cd1aa90551?utm_campaign=1050&utm_source=git)** | Largo, FL | On Site | Aug 02 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Strategy Intern](https://jobright.ai/jobs/info/66ad3f7be234479a32356f92?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
 | **[NJI Media](https://www.njimedia.com/)** | **[Office Admin Intern](https://jobright.ai/jobs/info/66ad2e15a8e969202be0fda7?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Aug 02 |
 | **[Tacoma Community College](http://www.tacomacc.edu/)** | **[Administrative Services Intern](https://jobright.ai/jobs/info/66ad5c9bae93b46df5b90db3?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 02 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Business Administration intern - Southeast Division (For current/previous HNTB Interns only)](https://jobright.ai/jobs/info/66ad16e6f3a6da90034673b6?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Aug 02 |
@@ -110,19 +111,16 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/66909bda0aa6f308865b7e30?utm_campaign=1050&utm_source=git)** | Redding, CA | On Site | Aug 02 |
 | **[Nicklaus Children's Health System](https://www.nicklaushealth.org)** | **[Administrative Fellow- Apply June 7th through Sept. 27th !](https://jobright.ai/jobs/info/6690598df6b922c3462cae1a?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Aug 02 |
 | **[Sanders-Brown Center on Aging](https://medicine.uky.edu/centers/sbcoa/)** | **[FWS Fall 2024, A & S Student Worker - Administrative Officer Assistant](https://jobright.ai/jobs/info/66ac8a1bb556873e6d50221b?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Aug 02 |
-| **[IBM](http://www.ibm.com)** | **[2025 Returning Intern (Federal Consulting)](https://jobright.ai/jobs/info/66aca83835de14433cb17f67?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Aug 02 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ace39f8fffe92906977037?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[U-M Center for Entrepreneurship](https://cfe.umich.edu/)** | **[OFFICE ASSISTANT (Student/Work Study) - CIT](https://jobright.ai/jobs/info/66ac8d7af850058e3cf944be?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 02 |
-| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[Strategy Intern](https://jobright.ai/jobs/info/66ad1a77c8fbee58e55c36a9?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66acafe24e96cbae53fb7806?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66acc560bd5b0dd7b47ea6c5?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66acee828c691fc50b1fc260?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
+| **[U.S. International Development Finance Corp](https://www.dfc.gov)** | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66acc560bd5b0dd7b47ea6c5?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 02 |
 | ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66acee828c691fc50b1fc266?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66acee828c691fc50b1fc267?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
-| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66ace0574ded8db0c1541be3?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/66acc30bdee6862bd03d9416?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 02 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/66ac5ce5b821cac9db1ad643?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 02 |
+| ↳ | **[MISSION TRANSACTION UNIT INTERN](https://jobright.ai/jobs/info/66acd776ada8ad3004a70ab4?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Pioneer Executives Inc.](https://pioneerexecutives.com/)** | **[Business Operations Trainee](https://jobright.ai/jobs/info/66ac40b55203b4ac1959ef89?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 02 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Business Administration intern - Southeast Division (For current/previous HNTB Interns only)](https://jobright.ai/jobs/info/66ad22eaa2153dd0564f54bd?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Aug 02 |
 | **[California Franchise Tax Board](http://www.ftb.ca.gov)** | **[Database Administrator Student Assistant](https://jobright.ai/jobs/info/66ad66c0dfc735b374bed923?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Aug 02 |
-| **[myGwork](https://www.mygwork.com/en/)** | **[Programme Management Intern: Support to Uniformed Gender Parity Strategy implementation and to the Pilot Network for Uniformed Women](https://jobright.ai/jobs/info/66acafdc4e96cbae53fb771c?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Aug 02 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Business Administration intern - Southeast Division (For current/previous HNTB Interns only)](https://jobright.ai/jobs/info/66ad1719f3a6da9003467820?utm_campaign=1050&utm_source=git)** | Green Cove Springs, FL | On Site | Aug 02 |
 | ↳ | **[Returning Business Administration intern - Southeast Division (For current/previous HNTB Interns only)](https://jobright.ai/jobs/info/66ad1719f3a6da9003467821?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Aug 02 |
 | ↳ | **[Returning Business Administration intern - Southeast Division (For current/previous HNTB Interns only)](https://jobright.ai/jobs/info/66ad1719f3a6da9003467822?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 02 |

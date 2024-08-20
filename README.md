@@ -44,8 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Management and Executive">
-<a href="https://intern-list.com/?selectedKey=🌟%20Management%20and%20Executive&utm_source=&utm_campaign={utm_campaign_str}">
+<a href="https://intern-list.com/?selectedKey=🌟%20Management%20and%20Executive&utm_source=&utm_campaign=Management and Executive">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>

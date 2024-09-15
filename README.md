@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALDI](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/66e674d9daeb54b0ba3bf75b?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Sep 14 |
+| **[Orion Group Holdings](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66e659f0574bb4d0491f04fa?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Sep 14 |
 | **[DRAGONFLY UAS](https://www.dragonflyuas.com)** | **[Executive Coordinator](https://jobright.ai/jobs/info/66e644210f4ea94bdcdbf0ad?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | Hybrid | Sep 14 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary](https://jobright.ai/jobs/info/66e62e0bd83320379ab85752?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Sep 14 |
 | **[Baker Tilly International](https://www.bakertilly.global/)** | **[Summer 2025 Risk Advisory Intern – Business Risk Services](https://jobright.ai/jobs/info/66e63eeab0c46210568f77fc?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Sep 14 |
 | ↳ | **[Summer 2025 Risk Advisory Intern – Business Risk Services](https://jobright.ai/jobs/info/66e63eeab0c46210568f786c?utm_campaign=1050&utm_source=git)** | Tewksbury, MA | On Site | Sep 14 |
-| **[WARP](https://wearewarp.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/66e5fda943e56ef9c3b44c4a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 14 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain Management](https://jobright.ai/jobs/info/66e5cba213df8b9963d47280?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
 | **[CHS Hedging](http://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/66e5d1204b7628cde4d1906b?utm_campaign=1050&utm_source=git)** | Strasburg, ND | On Site | Sep 14 |
 | ↳ | **[Grain Operations Intern](https://jobright.ai/jobs/info/66e5d1204b7628cde4d19035?utm_campaign=1050&utm_source=git)** | Holyoke, CO | On Site | Sep 14 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Smart Building Project Management Internship](https://jobright.ai/jobs/info/66e5a088ee5c925866881556?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Sep 14 |
 | **[Barclays](https://home.barclays)** | **[Operations Analyst Graduate Program 2025](https://jobright.ai/jobs/info/66e5900dadaa512d88222b86?utm_campaign=1050&utm_source=git)** | Whippany, NJ | On Site | Sep 14 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant](https://jobright.ai/jobs/info/66e58a765a3e9764664a1158?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Sep 14 |
-| **[Barclays Bank Delaware](https://barclaysus.com)** | **[Operations Analyst Summer Internship Program 2025](https://jobright.ai/jobs/info/66e58e0392c09b4dc60c1965?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Sep 14 |
-| ↳ | **[Operations Analyst Graduate Program 2025](https://jobright.ai/jobs/info/66e58e0392c09b4dc60c1966?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Sep 14 |
+| **[Barclays Bank Delaware](https://barclaysus.com)** | **[Operations Analyst Graduate Program 2025](https://jobright.ai/jobs/info/66e58e0392c09b4dc60c1966?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Sep 14 |
+| ↳ | **[Operations Analyst Summer Internship Program 2025](https://jobright.ai/jobs/info/66e58e0392c09b4dc60c1965?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Sep 14 |
 | **[American University](http://american.edu)** | **[Front Desk Administrative Assistant (Student)](https://jobright.ai/jobs/info/66e588a6725de4dd5c233072?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 14 |
 | **[Barclays](https://home.barclays)** | **[Operations Analyst Summer Internship Program 2025](https://jobright.ai/jobs/info/66e58666660ac785fe57acc0?utm_campaign=1050&utm_source=git)** | Whippany, NJ | On Site | Sep 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Program Manager Intern, Product Operations](https://jobright.ai/jobs/info/66e197de611b398b4e584683?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 14 |
@@ -95,11 +96,11 @@ For a complete list, click the following sortable link below:
 | **[Hensel Phelps](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66c867d61232180e28a6e6e6?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 14 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/66c91320afd1cdf31b06c353?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Sep 14 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/66c9271ea25981b9c4b90233?utm_campaign=1050&utm_source=git)** | Groveport, OH | On Site | Sep 14 |
-| **[ARCO](https://thearcoway.com)** | **[Construction Concrete Project Manager Intern](https://jobright.ai/jobs/info/66c9b57651cd69695df9a619?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 14 |
+| **[ARCO](https://thearcoway.com)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee2?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
+| ↳ | **[Construction Concrete Project Manager Intern](https://jobright.ai/jobs/info/66c9b57651cd69695df9a619?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 14 |
 | ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee6?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Sep 14 |
-| ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee2?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
-| ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee9?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
 | ↳ | **[Superintendent/Field Intern or Co-op (Summer 2025)](https://jobright.ai/jobs/info/66e5625eb86b7ac179e1cd76?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
+| ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee9?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a24010d?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Sep 14 |
 | **[ARCO](https://thearcoway.com)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fede?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Sep 14 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/66c9271ea25981b9c4b9022e?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 14 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[ARCO](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-op](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee0?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 14 |
 | ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23ff0f?utm_campaign=1050&utm_source=git)** | White Plains, NY | On Site | Sep 14 |
 | **[Magna International](http://www.magna.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6690c5f486d30ed2f25f3d39?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Sep 14 |
-| **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee4?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Sep 14 |
-| ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee8?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 14 |
+| **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee8?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 14 |
+| ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee4?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Sep 14 |
 | ↳ | **[Superintendent Intern/Coop](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee1?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 14 |
 | **[Astranis](http://www.astranis.com)** | **[Production Development — Associate Program](https://jobright.ai/jobs/info/66736d9921f478e9a4d0f4a5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Sep 14 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/66c9271ea25981b9c4b90226?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Sep 14 |
@@ -135,17 +136,17 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Area Manager, Field Supply Chain](https://jobright.ai/jobs/info/66e551c40cafaef688425c55?utm_campaign=1050&utm_source=git)** | Jurupa Valley, CA | On Site | Sep 14 |
 | ↳ | **[Area Manager Intern](https://jobright.ai/jobs/info/66e551c40cafaef688425c53?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Sep 14 |
 | ↳ | **[Area Manager Intern](https://jobright.ai/jobs/info/66e55427bd6c7802ea781068?utm_campaign=1050&utm_source=git)** | Elwood, IL | On Site | Sep 14 |
-| ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e55427bd6c7802ea781047?utm_campaign=1050&utm_source=git)** | Buckeye, AZ | On Site | Sep 14 |
-| ↳ | **[Area Manager Intern](https://jobright.ai/jobs/info/66e55427bd6c7802ea781044?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Sep 14 |
 | ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e55427bd6c7802ea78104a?utm_campaign=1050&utm_source=git)** | Searcy, AR | On Site | Sep 14 |
+| ↳ | **[Area Manager Intern](https://jobright.ai/jobs/info/66e55427bd6c7802ea781044?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Sep 14 |
+| ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e55427bd6c7802ea781047?utm_campaign=1050&utm_source=git)** | Buckeye, AZ | On Site | Sep 14 |
 | ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e5620935aee86f9a564e42?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Sep 14 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2025 Summer Intern: Sam's Club Supply Chain Area Manager](https://jobright.ai/jobs/info/66e55540ec096de02a96a9d9?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 14 |
 | **[Sentry](https://www.sentry.com/)** | **[Commercial Lines Operations Intern - Summer 2025](https://jobright.ai/jobs/info/66e54e4bc18cb77554411a0b?utm_campaign=1050&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 14 |
 | **[Plateau Forest Products](https://plateaufp.com)** | **[Internship (FCTG WF)](https://jobright.ai/jobs/info/66e5496297f9284ddb41f72b?utm_campaign=1050&utm_source=git)** | Bend, OR | On Site | Sep 14 |
 | **[Mack Trucks](http://www.macktrucks.com)** | **[Intern: Project Management](https://jobright.ai/jobs/info/66e546a7e4f4c5dfe1d71cd7?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Sep 14 |
 | **[Agora](https://agora.unicef.org/)** | **[Intern for Programme Delivery](https://jobright.ai/jobs/info/66e5441715efdfa8794e3a42?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Sep 13 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805cb4?utm_campaign=1050&utm_source=git)** | Columbus, GA | On Site | Sep 13 |
-| ↳ | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805c9b?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Sep 13 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805c9b?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Sep 13 |
+| ↳ | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805cb4?utm_campaign=1050&utm_source=git)** | Columbus, GA | On Site | Sep 13 |
 | ↳ | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805c93?utm_campaign=1050&utm_source=git)** | Juliette, GA | On Site | Sep 13 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Summer Management/Leadership Intern](https://jobright.ai/jobs/info/66e5432789ca410f3100a6d8?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 13 |
 | **[Steffes Corporation](http://www.steffes.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66e537019e3189e4868dcc14?utm_campaign=1050&utm_source=git)** | Grand Forks, ND | On Site | Sep 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Excellus BlueCross BlueShield](https://www.excellusbcbs.com/)** | **[Intern, Business Resilience, Summer 2025](https://jobright.ai/jobs/info/66e5302020743921dbbdaf73?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Sep 13 |
 | ↳ | **[Intern, Business Resilience, Summer 2025](https://jobright.ai/jobs/info/66e5302020743921dbbdaf92?utm_campaign=1050&utm_source=git)** | Plattsburgh, NY | On Site | Sep 13 |
 | **[ALDI](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f85e?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Sep 13 |
-| ↳ | **[District Manager Intern](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f861?utm_campaign=1050&utm_source=git)** | Webberville, MI | On Site | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

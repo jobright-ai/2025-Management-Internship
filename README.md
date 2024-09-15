@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DRAGONFLY UAS](https://www.dragonflyuas.com)** | **[Executive Coordinator](https://jobright.ai/jobs/info/66e644210f4ea94bdcdbf0ad?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | Hybrid | Sep 14 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary](https://jobright.ai/jobs/info/66e62e0bd83320379ab85752?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Sep 14 |
+| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Summer 2025 Risk Advisory Intern – Business Risk Services](https://jobright.ai/jobs/info/66e63eeab0c46210568f77fc?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Sep 14 |
+| ↳ | **[Summer 2025 Risk Advisory Intern – Business Risk Services](https://jobright.ai/jobs/info/66e63eeab0c46210568f786c?utm_campaign=1050&utm_source=git)** | Tewksbury, MA | On Site | Sep 14 |
 | **[WARP](https://wearewarp.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/66e5fda943e56ef9c3b44c4a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 14 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain Management](https://jobright.ai/jobs/info/66e5cba213df8b9963d47280?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
 | **[CHS Hedging](http://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/66e5d1204b7628cde4d1906b?utm_campaign=1050&utm_source=git)** | Strasburg, ND | On Site | Sep 14 |
@@ -89,12 +93,13 @@ For a complete list, click the following sortable link below:
 | **[AltaMed Health](http://www.altamed.org/)** | **[Intern, Project](https://jobright.ai/jobs/info/66c867d61232180e28a6e6ba?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Sep 14 |
 | **[PGIM](https://www.pgim.com)** | **[Operations & Innovation Internship Program](https://jobright.ai/jobs/info/66c8f74449abd0586a409698?utm_campaign=1050&utm_source=git)** | Tampa, FL | Hybrid | Sep 14 |
 | **[Hensel Phelps](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66c867d61232180e28a6e6e6?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 14 |
+| **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/66c91320afd1cdf31b06c353?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Sep 14 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/66c9271ea25981b9c4b90233?utm_campaign=1050&utm_source=git)** | Groveport, OH | On Site | Sep 14 |
 | **[ARCO](https://thearcoway.com)** | **[Construction Concrete Project Manager Intern](https://jobright.ai/jobs/info/66c9b57651cd69695df9a619?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 14 |
-| ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee2?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
 | ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee6?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Sep 14 |
-| ↳ | **[Superintendent/Field Intern or Co-op (Summer 2025)](https://jobright.ai/jobs/info/66e5625eb86b7ac179e1cd76?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
+| ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee2?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
 | ↳ | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fee9?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
+| ↳ | **[Superintendent/Field Intern or Co-op (Summer 2025)](https://jobright.ai/jobs/info/66e5625eb86b7ac179e1cd76?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 14 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a24010d?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Sep 14 |
 | **[ARCO](https://thearcoway.com)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/66c8626bf7155ef72a23fede?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Sep 14 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/66c9271ea25981b9c4b9022e?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 14 |
@@ -131,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Area Manager Intern](https://jobright.ai/jobs/info/66e551c40cafaef688425c53?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Sep 14 |
 | ↳ | **[Area Manager Intern](https://jobright.ai/jobs/info/66e55427bd6c7802ea781068?utm_campaign=1050&utm_source=git)** | Elwood, IL | On Site | Sep 14 |
 | ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e55427bd6c7802ea781047?utm_campaign=1050&utm_source=git)** | Buckeye, AZ | On Site | Sep 14 |
-| ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e55427bd6c7802ea78104a?utm_campaign=1050&utm_source=git)** | Searcy, AR | On Site | Sep 14 |
 | ↳ | **[Area Manager Intern](https://jobright.ai/jobs/info/66e55427bd6c7802ea781044?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Sep 14 |
+| ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e55427bd6c7802ea78104a?utm_campaign=1050&utm_source=git)** | Searcy, AR | On Site | Sep 14 |
 | ↳ | **[Area Manager - Floor, Field Supply Chain](https://jobright.ai/jobs/info/66e5620935aee86f9a564e42?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Sep 14 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2025 Summer Intern: Sam's Club Supply Chain Area Manager](https://jobright.ai/jobs/info/66e55540ec096de02a96a9d9?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 14 |
 | **[Sentry](https://www.sentry.com/)** | **[Commercial Lines Operations Intern - Summer 2025](https://jobright.ai/jobs/info/66e54e4bc18cb77554411a0b?utm_campaign=1050&utm_source=git)** | Stevens Point, WI | Hybrid | Sep 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Resilience, Summer 2025](https://jobright.ai/jobs/info/66e5302020743921dbbdaf92?utm_campaign=1050&utm_source=git)** | Plattsburgh, NY | On Site | Sep 13 |
 | **[ALDI](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f85e?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Sep 13 |
 | ↳ | **[District Manager Intern](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f861?utm_campaign=1050&utm_source=git)** | Webberville, MI | On Site | Sep 13 |
-| **[Excellus BlueCross BlueShield](https://www.excellusbcbs.com/)** | **[Intern, Business Resilience, Summer 2025](https://jobright.ai/jobs/info/66e53b01eb9f2f5ad97bff73?utm_campaign=1050&utm_source=git)** | DeWitt, NY | On Site | Sep 13 |
-| ↳ | **[Intern, Business Resilience, Summer 2025](https://jobright.ai/jobs/info/66e53b01eb9f2f5ad97bff7b?utm_campaign=1050&utm_source=git)** | Elmira, NY | On Site | Sep 13 |
-| **[HNTB](http://www.hntb.com/)** | **[Office Administration Intern - Summer 2025](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f922?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Sep 13 |
-| **[Excellus BlueCross BlueShield](https://www.excellusbcbs.com/)** | **[Intern, Business Resilience, Summer 2025](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0f987?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Sep 13 |
-| ↳ | **[Intern, Business Resilience, Summer 2025](https://jobright.ai/jobs/info/66e52bcaea8d04a526a100bf?utm_campaign=1050&utm_source=git)** | Watertown, NY | On Site | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

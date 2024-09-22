@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Innovation Management Intern](https://jobright.ai/jobs/info/66ef49984ca9c7c919b142cb?utm_campaign=1050&utm_source=git)** | Johnston, IA | Hybrid | Sep 21 |
 | **[Siemens](https://www.siemens.com)** | **[Operations Leadership Development Program Co-Op](https://jobright.ai/jobs/info/66eecedac68edc7b0e497079?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | Sep 21 |
 | **[Lowe’s](https://www.lowes.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66eeca7ddc938a14a8456e66?utm_campaign=1050&utm_source=git)** | Lebanon, OR | On Site | Sep 21 |
-| ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66eeca7ddc938a14a8456e64?utm_campaign=1050&utm_source=git)** | Mount Vernon, TX | On Site | Sep 21 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66eeca7ddc938a14a8456e60?utm_campaign=1050&utm_source=git)** | Pleasant View, TN | On Site | Sep 21 |
+| ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66eeca7ddc938a14a8456e64?utm_campaign=1050&utm_source=git)** | Mount Vernon, TX | On Site | Sep 21 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66eeca7ddc938a14a8456e91?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Sep 21 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66eeca7ddc938a14a8456e5c?utm_campaign=1050&utm_source=git)** | Pottsville, PA | On Site | Sep 21 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66eeca7ddc938a14a8456e77?utm_campaign=1050&utm_source=git)** | Adairsville, GA | On Site | Sep 21 |
@@ -73,9 +73,11 @@ For a complete list, click the following sortable link below:
 | **[AltaMed Health](http://www.altamed.org/)** | **[Project Intern-Scribe](https://jobright.ai/jobs/info/66d277ab44971d14b3a5857f?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Sep 21 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/66d227ee3d99b5c9d8862a3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 21 |
 | **[J.B. Hunt Transport](http://www.jbhunt.com)** | **[Operations Internship](https://jobright.ai/jobs/info/66c5544789cf254f3c1845ae?utm_campaign=1050&utm_source=git)** | Easton Center, MA | On Site | Sep 21 |
-| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship](https://jobright.ai/jobs/info/66e6cf0d099416efd5d150d5?utm_campaign=1050&utm_source=git)** | White Bear, MN | On Site | Sep 21 |
+| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship](https://jobright.ai/jobs/info/66b66d74768c97a208c531b9?utm_campaign=1050&utm_source=git)** | Delavan, WI | On Site | Sep 21 |
+| ↳ | **[Supply Chain & Operations Leadership Development Program Internship](https://jobright.ai/jobs/info/66e6cf0d099416efd5d150d5?utm_campaign=1050&utm_source=git)** | White Bear, MN | On Site | Sep 21 |
 | **[D.R. Horton Homes](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Land Intern](https://jobright.ai/jobs/info/66d252ed7600202e1496879a?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ | On Site | Sep 21 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship](https://jobright.ai/jobs/info/66b65b6e788eaf2adbfdc0f4?utm_campaign=1050&utm_source=git)** | Hanover Park, IL | On Site | Sep 21 |
+| **[Butterball, LLC](http://www.butterball.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66d241b443b3bddb651799f8?utm_campaign=1050&utm_source=git)** | Mount Olive, NC | On Site | Sep 21 |
 | **[J.B. Hunt Transport](http://www.jbhunt.com)** | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/66ef11143f5a1007000d1298?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Sep 21 |
 | **[Troon](https://www.troon.com/indigo-golf-partners/)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/66c580f38ff0494bd674f074?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Sep 21 |
 | **[AltaMed Health](http://www.altamed.org/)** | **[Intern, Project](https://jobright.ai/jobs/info/66d277ab44971d14b3a57f8b?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Sep 21 |
@@ -94,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Campbell Soup Company](http://www.campbellsoupcompany.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66d25f9960ce275983e6675b?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Sep 21 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Finance MBA Leadership Development Program Intern](https://jobright.ai/jobs/info/66625787c9718709a3ba597f?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Sep 21 |
 | **[Ankura](https://ankura.com)** | **[University Internship (MBA), Strategy & Performance](https://jobright.ai/jobs/info/66d20661659a47297bbda4a9?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Sep 21 |
+| **[Butterball, LLC](http://www.butterball.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66d241b443b3bddb651799f7?utm_campaign=1050&utm_source=git)** | Garner, NC | On Site | Sep 21 |
 | **[GE Healthcare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program Internship](https://jobright.ai/jobs/info/66c5544789cf254f3c1846ca?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Sep 21 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[MBA Internship](https://jobright.ai/jobs/info/66d1d55ccd86d43e7aaef589?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Sep 21 |
 | **[Cargill](http://www.cargill.com)** | **[Protein Business Operations and Supply Chain Rotational Associate](https://jobright.ai/jobs/info/66b64b4217f81715aa6e292f?utm_campaign=1050&utm_source=git)** | Nebraska City, NE | On Site | Sep 21 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7db?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 20 |
 | ↳ | **[Land Development Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7dc?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Sep 20 |
 | ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7d1?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 20 |
-| ↳ | **[Land Acquisition and Development Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7ce?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 20 |
 | ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7de?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 20 |
+| ↳ | **[Land Acquisition and Development Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7ce?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 20 |
 | ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7dd?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 20 |
 | **[lds.org](https://www.lds.org)** | **[Strategy Analyst - Missionary (Part-time Intern)](https://jobright.ai/jobs/info/66ee50987d488b318828e298?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 20 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/66ee472de8122eae34e193b1?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Sep 20 |
@@ -128,20 +131,20 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center Ops Intern](https://jobright.ai/jobs/info/66ee2213d2b26307796f0088?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Sep 20 |
 | **[BW Packaging](https://www.bwpackaging.com)** | **[Supply Chain / Procurement Intern](https://jobright.ai/jobs/info/66ee1f246ad79e5a88104722?utm_campaign=1050&utm_source=git)** | Duncan, SC | On Site | Sep 20 |
 | ↳ | **[Supply Chain / Procurement Intern](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42db0b?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Sep 20 |
-| ↳ | **[Supply Chain / Procurement Intern](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42db0d?utm_campaign=1050&utm_source=git)** | Phillips, WI | On Site | Sep 20 |
 | ↳ | **[Supply Chain / Procurement Intern](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42db0c?utm_campaign=1050&utm_source=git)** | Sheboygan, WI | On Site | Sep 20 |
+| ↳ | **[Supply Chain / Procurement Intern](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42db0d?utm_campaign=1050&utm_source=git)** | Phillips, WI | On Site | Sep 20 |
 | **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec7b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec84?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Sep 20 |
+| ↳ | **[Facilities and Operations Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec97?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Sep 20 |
+| ↳ | **[Facilities and Operations Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec90?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Sep 20 |
 | ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec91?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec9a?utm_campaign=1050&utm_source=git)** | Ashburn, VA | Hybrid | Sep 20 |
 | ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec99?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Sep 20 |
-| ↳ | **[Facilities and Operations Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec90?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Sep 20 |
-| ↳ | **[Facilities and Operations Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec97?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Sep 20 |
-| ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecab?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
-| ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec9b?utm_campaign=1050&utm_source=git)** | Tampa, FL | Hybrid | Sep 20 |
-| ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca0?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Sep 20 |
-| ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 20 |
 | ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca7?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Sep 20 |
+| ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecab?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 20 |
+| ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca0?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Sep 20 |
+| ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec9b?utm_campaign=1050&utm_source=git)** | Tampa, FL | Hybrid | Sep 20 |
+| ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 20 |
 | ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eec9e?utm_campaign=1050&utm_source=git)** | Ashburn, VA | Hybrid | Sep 20 |
 | ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eeca1?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Sep 20 |
 | ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee2b7204102931fb8eecad?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Sep 20 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Public Company Accounting Oversight Board(PCAOB)](https://pcaobus.org)** | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d110bd?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Sep 20 |
 | ↳ | **[Facilities and Operations Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d110b6?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Sep 20 |
 | ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d110b2?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Sep 20 |
-| ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d1137b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Sep 20 |
-| ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11384?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Sep 20 |
 | ↳ | **[Summer 2025 Strategic Planning Oversight Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11386?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 20 |
-| ↳ | **[Records Assistant Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d11383?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

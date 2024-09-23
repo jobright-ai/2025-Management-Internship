@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walsh Group](http://www.walshgroup.com/)** | **[Internship Program - Utah and Colorado Region 2024 - 2025](https://jobright.ai/jobs/info/66f0c18a7f51fa9deea6ff15?utm_campaign=1050&utm_source=git)** | SLC Metro Area | On Site | Sep 22 |
 | **[College Works Painting](https://www.collegeworks.com/)** | **[Intern](https://jobright.ai/jobs/info/66f089d3a065d4bc8f35b5d5?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Sep 22 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Executive Office, Fall 2024](https://jobright.ai/jobs/info/66f090fb94a4445d55495807?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | ↳ | **[Internship, Executive Office, Fall 2024](https://jobright.ai/jobs/info/66f090fb94a4445d554957ef?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 22 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Land Development Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7dc?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Sep 20 |
 | ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7db?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 20 |
 | ↳ | **[Land Acquisition and Development Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7ce?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 20 |
+| ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7d1?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 20 |
 | ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7dd?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 20 |
 | ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7de?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 20 |
-| ↳ | **[Construction Internship](https://jobright.ai/jobs/info/66ee51b518c4fde763b0d7d1?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 20 |
-| **[lds.org](https://www.lds.org)** | **[Strategy Analyst - Missionary (Part-time Intern)](https://jobright.ai/jobs/info/66ee50987d488b318828e298?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

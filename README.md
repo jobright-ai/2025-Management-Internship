@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Integrated Measurement Systems](https://www.indianapolismotorspeedway.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/66f4d69320cb5636b4790cfb?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 25 |
 | **[USAA](https://www.usaa.com)** | **[CFO Intern (Data)](https://jobright.ai/jobs/info/66f4c169441f3d5b10e0f02f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Sep 25 |
 | **[Allison Transmission Holdings](http://www.allisontransmission.com/)** | **[Global Supply Chain Intern - Summer 2025](https://jobright.ai/jobs/info/66f4baf7ec10460415e2a00a?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Sep 25 |
-| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Risk Advisory Intern - Business Risk Services](https://jobright.ai/jobs/info/66f4b8403acda2227bd68aa7?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Sep 25 |
-| ↳ | **[Risk Advisory Intern - Business Risk Services](https://jobright.ai/jobs/info/66f4b8403acda2227bd68bcc?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Sep 25 |
+| **[Baker Tilly International](https://www.bakertilly.global/)** | **[Risk Advisory Intern - Business Risk Services](https://jobright.ai/jobs/info/66f4b8403acda2227bd68bcc?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Sep 25 |
+| ↳ | **[Risk Advisory Intern - Business Risk Services](https://jobright.ai/jobs/info/66f4b8403acda2227bd68aa7?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Sep 25 |
 | **[WebstaurantStore Food Service Equipment and Supply Company](http://www.webstaurantstore.com/)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/66f4c169441f3d5b10e0f081?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Sep 25 |
 | **[Highgate](https://www.highgate.com)** | **[Internship - Hotel Rooms Operations](https://jobright.ai/jobs/info/66f4c169441f3d5b10e0efaf?utm_campaign=1050&utm_source=git)** | Paradise Valley, AZ | On Site | Sep 25 |
 | **[NEXA Mortgage](https://nexamortgage.com/)** | **[Mortgage Loan Officer](https://jobright.ai/jobs/info/66f4b8403acda2227bd68a7d?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 25 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[ISEC](http://www.isecinc.com)** | **[Operations - Intern](https://jobright.ai/jobs/info/66f46e5e456314045b517858?utm_campaign=1050&utm_source=git)** | Boerne, TX | On Site | Sep 25 |
 | ↳ | **[Operations - Intern](https://jobright.ai/jobs/info/66f46e5e456314045b51785e?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 25 |
 | ↳ | **[Operations - Intern](https://jobright.ai/jobs/info/66f46e5e456314045b517a16?utm_campaign=1050&utm_source=git)** | Katy, TX | On Site | Sep 25 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Medicare Advantage Servicing](https://jobright.ai/jobs/info/66f44f928a53efb98d721796?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
-| ↳ | **[Intern - Provider Servicing](https://jobright.ai/jobs/info/66f44f928a53efb98d721787?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern - Provider Servicing](https://jobright.ai/jobs/info/66f44f928a53efb98d721787?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
+| ↳ | **[Intern - Medicare Advantage Servicing](https://jobright.ai/jobs/info/66f44f928a53efb98d721796?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
 | ↳ | **[Intern - Knowledge Management](https://jobright.ai/jobs/info/66f44f928a53efb98d721789?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Sep 25 |
 | **[Your Book Team](https://yourbookteam.com/)** | **[Publishing Operating Manager Intern](https://jobright.ai/jobs/info/66f44f928a53efb98d721761?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 25 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Operations Materials Intern](https://jobright.ai/jobs/info/66f46b300087bbf35d5f1e95?utm_campaign=1050&utm_source=git)** | Bedford, PA | Hybrid | Sep 25 |
@@ -131,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[International Operations Analyst Internship](https://jobright.ai/jobs/info/66f443fd340df4b8e7fc5313?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | On Site | Sep 25 |
 | **[MAHLE](https://www.mahle.com)** | **[Controlling Internship](https://jobright.ai/jobs/info/66f441d9ecfaa2c6aa7bc002?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Sep 25 |
 | **[Americold Realty](http://americold.com)** | **[Automated Distribution Operations Intern](https://jobright.ai/jobs/info/66f4420d6cb6339400cb1d24?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 25 |
-| ↳ | **[Automated Distribution Operations Intern](https://jobright.ai/jobs/info/66f4420d6cb6339400cb1d28?utm_campaign=1050&utm_source=git)** | Russellville, AR | On Site | Sep 25 |
 | ↳ | **[Automated Distribution Operations Intern](https://jobright.ai/jobs/info/66f4420d6cb6339400cb1d46?utm_campaign=1050&utm_source=git)** | Mountville, PA | On Site | Sep 25 |
 | ↳ | **[Distribution Operations Intern](https://jobright.ai/jobs/info/66f4420d6cb6339400cb1d37?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Sep 25 |
 | ↳ | **[Distribution Operations Intern](https://jobright.ai/jobs/info/66f449e675ed2bdb1f32f338?utm_campaign=1050&utm_source=git)** | Bloomingdale, GA | On Site | Sep 25 |
@@ -139,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[ITT Corporation](http://www.itt.com)** | **[2025 Summer Intern – Supply Chain](https://jobright.ai/jobs/info/66f43ef0a3fdb7a860a7f03d?utm_campaign=1050&utm_source=git)** | Orchard Park, NY | On Site | Sep 25 |
 | **[JBIER](https://www.jbierboutique.com)** | **[Project Management Intern and Assistant to the Founder](https://jobright.ai/jobs/info/66f4316ddfe5585bd14e40ec?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | Sep 25 |
 | **[MAHLE](https://www.mahle.com)** | **[Logistics Continuous Improvement Internship](https://jobright.ai/jobs/info/66f42bce25a5478e647a408a?utm_campaign=1050&utm_source=git)** | Mount Sterling, OH | On Site | Sep 25 |
+| **[Americold Realty](http://americold.com)** | **[Automated Distribution Operations Intern](https://jobright.ai/jobs/info/66f433dc5ac5d71b807d9351?utm_campaign=1050&utm_source=git)** | Russellville, AR | On Site | Sep 25 |
 | **[Keurig Dr Pepper](https://www.keurigdrpepper.com)** | **[Summer Intern 2025 - Supply Chain Analyst](https://jobright.ai/jobs/info/66e4769e31753e919d60a26c?utm_campaign=1050&utm_source=git)** | Burlington, MA | On Site | Sep 25 |
 | ↳ | **[Winter Co-op 2025 - Data Analytics Consumer Care](https://jobright.ai/jobs/info/66f41e1d835316974013df66?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Sep 25 |
 | **[Kwik Trip](https://www.kwiktrip.com/)** | **[Management Intern](https://jobright.ai/jobs/info/66f41875529f6deb5cd0b135?utm_campaign=1050&utm_source=git)** | Sheldon, IA | On Site | Sep 25 |

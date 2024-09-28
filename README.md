@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raytheon BBN Technologies](http://www.bbn.com)** | **[Supplier Tech Management Intern](https://jobright.ai/jobs/info/66f768530b156ebdc64e032e?utm_campaign=1050&utm_source=git)** | Andover, MA | Hybrid | Sep 27 |
+| ↳ | **[Supplier Tech Management Intern](https://jobright.ai/jobs/info/66f768530b156ebdc64e0331?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Sep 27 |
+| ↳ | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/66f768530b156ebdc64e033d?utm_campaign=1050&utm_source=git)** | Goleta, CA | Hybrid | Sep 27 |
+| **[Revantage Corporate Services](https://www.revantage.com/)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57abb?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 27 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57bad?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Sep 27 |
+| **[Chamberlin Roofing & Waterproofing](http://chamberlinltd.com)** | **[Project Intern](https://jobright.ai/jobs/info/66f76216cb25eb9224768f81?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 27 |
+| **[The Walsh Group](http://www.walshgroup.com/)** | **[Internship Program - Utah Region 2024 - 2025](https://jobright.ai/jobs/info/66f76a8bc659130724815678?utm_campaign=1050&utm_source=git)** | SLC Metro Area | On Site | Sep 27 |
+| **[Raytheon BBN Technologies](http://www.bbn.com)** | **[Intern – Procurement Intern](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57c5a?utm_campaign=1050&utm_source=git)** | McKinney, TX | Hybrid | Sep 27 |
+| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57c25?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 27 |
+| **[Raytheon BBN Technologies](http://www.bbn.com)** | **[Intern – Procurement Intern](https://jobright.ai/jobs/info/66f7599d7503016fff815f1a?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Sep 27 |
+| **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57d04?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Sep 27 |
+| **[Interco](https://intercotradingco.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/66f7599d7503016fff815f5b?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 27 |
+| **[Richelieu Foods](http://richelieufoods.com/)** | **[Supply Chain Intern (Part-Time)](https://jobright.ai/jobs/info/66f7599d7503016fff815fae?utm_campaign=1050&utm_source=git)** | Wheeling, IL | On Site | Sep 27 |
+| **[Wayne-Sanderson Farms](http://www.waynesandersonfarms.com)** | **[Plant Operations Intern](https://jobright.ai/jobs/info/66f7599d7503016fff815fd3?utm_campaign=1050&utm_source=git)** | Kinston, NC | On Site | Sep 27 |
 | **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Administrative College Intern – Data Analytics](https://jobright.ai/jobs/info/66f744195a2ca25056a6f520?utm_campaign=1050&utm_source=git)** | Cleveland, OH | Hybrid | Sep 27 |
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Golf Operations](https://jobright.ai/jobs/info/66f744195a2ca25056a6f529?utm_campaign=1050&utm_source=git)** | Greensboro, GA | On Site | Sep 27 |
 | ↳ | **[Intern - Food & Beverage](https://jobright.ai/jobs/info/66f744195a2ca25056a6f564?utm_campaign=1050&utm_source=git)** | Greensboro, GA | On Site | Sep 27 |
@@ -74,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/66f72de6973a2a042ecd2566?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Sep 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/66f72de6973a2a042ecd2569?utm_campaign=1050&utm_source=git)** | Fort Dodge, IA | On Site | Sep 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/66f7235f07decaaa98305c68?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Sep 27 |
+| **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Operations Agent](https://jobright.ai/jobs/info/66f750c076236dd53c879319?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Sep 27 |
 | **[KeyBank](https://www.key.com)** | **[Corporate Strategy Internship](https://jobright.ai/jobs/info/66f72845d990f672ad7cd35a?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Sep 27 |
 | **[PrimeFlight Aviation Services](http://primeflight.com)** | **[Operations Agent](https://jobright.ai/jobs/info/66f732b92692ef9ff72ab77d?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Sep 27 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[MBA 2025 Summer Associate (Internship) Private Capital Practice](https://jobright.ai/jobs/info/66f72ff16df9f6253f5582bb?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Sep 27 |
@@ -81,7 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Daikin Applied](https://www.daikinapplied.com)** | **[Manufacturing Operations Management - Intern](https://jobright.ai/jobs/info/66f71294486db36d106f5293?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Sep 27 |
 | ↳ | **[Operations Management (Manufacturing) - Intern](https://jobright.ai/jobs/info/66f71294486db36d106f52ce?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Sep 27 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Wealth Management Intern](https://jobright.ai/jobs/info/66f71294486db36d106f5329?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Sep 27 |
-| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Operations Scheduling Intern](https://jobright.ai/jobs/info/66f71cf59f4cd6681087fe84?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Sep 27 |
+| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/66f71cf59f4cd6681087feb7?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Sep 27 |
+| ↳ | **[Operations Scheduling Intern](https://jobright.ai/jobs/info/66f71cf59f4cd6681087fe84?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Sep 27 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/66f7167d53924c5339729ade?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 27 |
 | ↳ | **[Strategic Sourcing Supply Chain Intern](https://jobright.ai/jobs/info/66f7167d53924c5339729b25?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 27 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/66f732b92692ef9ff72ab7d2?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 27 |
@@ -103,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Astratek Solutions](http://www.astrateksol.com/projects.html)** | **[General Management Corporate Intern - Summer 2025](https://jobright.ai/jobs/info/66f6ddc63c55d7601202dbde?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Sep 27 |
 | **[Azura Memory Care](https://www.azuramemory.com/)** | **[Executive Director in Training](https://jobright.ai/jobs/info/66f6ed7c652a1e21dd590983?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 27 |
 | **[City of White Settlement](www.wstx.us)** | **[Management Intern](https://jobright.ai/jobs/info/66f6dbaf97e664f28ccf08a6?utm_campaign=1050&utm_source=git)** | DFW Metroplex | On Site | Sep 27 |
-| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/66f6e97c0644adac68bdd9f2?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Sep 27 |
 | **[Daikin Applied](https://www.daikinapplied.com)** | **[Supply Chain Logistics - Intern](https://jobright.ai/jobs/info/66f6dbaf97e664f28ccf094c?utm_campaign=1050&utm_source=git)** | Dayton, OH | Hybrid | Sep 27 |
 | ↳ | **[Supply Chain - Intern](https://jobright.ai/jobs/info/66f6dbaf97e664f28ccf0950?utm_campaign=1050&utm_source=git)** | Staunton, VA | Hybrid | Sep 27 |
 | **[Benny's Car Wash](http://www.bennyscarwash.com)** | **[Ops Manager Internship](https://jobright.ai/jobs/info/66f6e04dfcbc0956a32e6859?utm_campaign=1050&utm_source=git)** | Louisiana, United States | On Site | Sep 27 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yamaha Motor](https://yamaha-motor.com/)** | **[Intern/Coop - Business](https://jobright.ai/jobs/info/66c51ecb8dcc81aef57090ef?utm_campaign=1050&utm_source=git)** | Newnan, GA | Hybrid | Sep 27 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[COO Global Operations Summer Internship](https://jobright.ai/jobs/info/66bd3a53bda78b449033d838?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Sep 27 |
 | **[Amazon](https://amazon.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/66da0f49727e9e0d0e8ebfed?utm_campaign=1050&utm_source=git)** | Dresden, TN | On Site | Sep 27 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/66c5296b724e13379308621e?utm_campaign=1050&utm_source=git)** | Carrollton, TX | Hybrid | Sep 27 |
-| **[ChampionX](https://www.championx.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66da2b35b61cde27ebf22cc1?utm_campaign=1050&utm_source=git)** | Freeport, TX | On Site | Sep 27 |
-| **[Graco](http://graco.com/in/en/)** | **[Global Strategic Sourcing Intern](https://jobright.ai/jobs/info/66da27c4a47203ddff2106a6?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Sep 27 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268d2b?utm_campaign=1050&utm_source=git)** | Sevierville, TN | On Site | Sep 27 |
-| **[Covia](https://www.coviacorp.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268d1c?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Sep 27 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268d3c?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Sep 27 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7c?utm_campaign=1050&utm_source=git)** | Bethesda, MD | On Site | Sep 27 |
-| **[Citco](https://www.citco.com)** | **[Administration Intern](https://jobright.ai/jobs/info/66f6897257be916edd5a6494?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 27 |
-| **[Bioventus](https://www.bioventus.com)** | **[Supply Chain/Operations Intern](https://jobright.ai/jobs/info/66da02eda88bd6b298d8f321?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 27 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern](https://jobright.ai/jobs/info/66c5296b724e1337930862ab?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Sep 27 |
-| ↳ | **[Fulfillment Area Manager Intern](https://jobright.ai/jobs/info/66c5296b724e1337930862a7?utm_campaign=1050&utm_source=git)** | Bondurant, IA | On Site | Sep 27 |
-| **[Starr Insurance](https://starrcompanies.com/)** | **[2025 Starr Summer Intern - General Property](https://jobright.ai/jobs/info/66da162721846960ccaa1b33?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
-| **[Marathon Petroleum](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain](https://jobright.ai/jobs/info/66c51ecb8dcc81aef5709152?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 27 |
-| **[Uline](http://www.uline.com)** | **[International Operations Analyst Internship](https://jobright.ai/jobs/info/66be8302b232d66271b18d18?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 27 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66da2b6a1ac52d8a8432f5fb?utm_campaign=1050&utm_source=git)** | Cookeville, TN | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

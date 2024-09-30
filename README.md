@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/66faa1b3322583a19ac50d6d?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Sep 30 |
+| **[Lhoist Group](http://www.lhoist.com)** | **[Production Intern](https://jobright.ai/jobs/info/66fa90824dd20189bcdeb18f?utm_campaign=1050&utm_source=git)** | Calera, AL | On Site | Sep 30 |
+| **[JP Morgan Chase](http://www.jpmorganchase.com)** | **[Innovation Development Summer Analyst](https://jobright.ai/jobs/info/66e30310f4d32cec823dac3f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Volvo Cars](http://www.volvocars.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66de8f61e6b1d04c6a271450?utm_campaign=1050&utm_source=git)** | Ridgeville, SC | On Site | Sep 30 |
+| **[Lhoist Group](http://www.lhoist.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/66fa731cce6203dbaac24780?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 30 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[LCERM Business Operations Intern](https://jobright.ai/jobs/info/66fa5b7830ae31e02758cd72?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Sep 30 |
 | ↳ | **[Institutional Relationship Management Intern](https://jobright.ai/jobs/info/66fa5b7830ae31e02758cd56?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Sep 30 |
 | **[Ball Corporation](http://ball.com)** | **[Intern - Supply Chain Analyst](https://jobright.ai/jobs/info/66fa4e7d99725529839a8475?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 29 |
-| ↳ | **[Intern, Supply Chain Planning & Execution](https://jobright.ai/jobs/info/66fa4e7d99725529839a8478?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 29 |
 | ↳ | **[Intern, Procurement Analyst](https://jobright.ai/jobs/info/66fa4e7d99725529839a8473?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 29 |
+| ↳ | **[Intern, Supply Chain Planning & Execution](https://jobright.ai/jobs/info/66fa4e7d99725529839a8478?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 29 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[LCERM Business Operations Intern](https://jobright.ai/jobs/info/66fa4da33ffc64f3edf2aced?utm_campaign=1050&utm_source=git)** | Boston | Hybrid | Sep 29 |
 | ↳ | **[Institutional Relationship Management Intern](https://jobright.ai/jobs/info/66fa4da33ffc64f3edf2acea?utm_campaign=1050&utm_source=git)** | Boston | Hybrid | Sep 29 |
 | **[Acima](https://www.acima.com/)** | **[Supply Chain Specialist Intern](https://jobright.ai/jobs/info/66f9b4ce465697a9e73f1731?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Sep 29 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern](https://jobright.ai/jobs/info/66c5296b724e1337930862e6?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Sep 29 |
 | ↳ | **[Fulfillment Area Manager Intern](https://jobright.ai/jobs/info/66c5296b724e1337930862ee?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Sep 29 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Evaluation Analytics - Graduate Intern](https://jobright.ai/jobs/info/66f91f54aa158c017b66c6e9?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | On Site | Sep 29 |
-| **[Delta Air Lines](http://www.delta.com)** | **[Co-op, In-Flight Services Program Integration Project Coordinator](https://jobright.ai/jobs/info/66fa41544ee2cab09703d8c8?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 28 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[MBA Supply Chain Internship - Summer 2025](https://jobright.ai/jobs/info/66f863e8460904bfafbc240e?utm_campaign=1050&utm_source=git)** | Racine, WI | On Site | Sep 28 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - CRE Underwriting / Portfolio Mgt](https://jobright.ai/jobs/info/66f8479116f050d69aeeb460?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | ↳ | **[Corporate Intern - CRE Underwriting / Portfolio Mgt](https://jobright.ai/jobs/info/66f8479116f050d69aeeb45d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 28 |
@@ -103,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern](https://jobright.ai/jobs/info/66c5296b724e1337930862bd?utm_campaign=1050&utm_source=git)** | New Century, KS | On Site | Sep 28 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Portfolio Management Office)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b0892?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Sep 28 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Industrial Operations Intern](https://jobright.ai/jobs/info/66dbbb2dd5f69ee015bc0728?utm_campaign=1050&utm_source=git)** | Grand Junction, IA | On Site | Sep 28 |
-| **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Production (Operations) Management Development Associate](https://jobright.ai/jobs/info/66bf9a4517d13855c6ff1854?utm_campaign=1050&utm_source=git)** | Bloomfield, MO | On Site | Sep 28 |
-| ↳ | **[Production (Operations) Management Development Associate](https://jobright.ai/jobs/info/66bf9a4517d13855c6ff14da?utm_campaign=1050&utm_source=git)** | Clinton, IA | On Site | Sep 28 |
+| **[Nestle Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Production (Operations) Management Development Associate](https://jobright.ai/jobs/info/66bf9a4517d13855c6ff14da?utm_campaign=1050&utm_source=git)** | Clinton, IA | On Site | Sep 28 |
+| ↳ | **[Production (Operations) Management Development Associate](https://jobright.ai/jobs/info/66bf9a4517d13855c6ff1854?utm_campaign=1050&utm_source=git)** | Bloomfield, MO | On Site | Sep 28 |
 | ↳ | **[Production (Operations) Management Development Associate](https://jobright.ai/jobs/info/66bfad559546c56921008faa?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Sep 28 |
 | **[J.B. Hunt Transport](http://www.jbhunt.com)** | **[Dedicated Operations Internship](https://jobright.ai/jobs/info/66dbc934fdc93c315cf39053?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Sep 28 |
 | ↳ | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/66dbc934fdc93c315cf39047?utm_campaign=1050&utm_source=git)** | Marietta, GA | On Site | Sep 28 |
@@ -117,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport](http://www.jbhunt.com)** | **[Dedicated Operations Internship, Spring 2025](https://jobright.ai/jobs/info/66dbc934fdc93c315cf3904e?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Sep 28 |
 | ↳ | **[Dedicated Operations Internship, Summer 2025](https://jobright.ai/jobs/info/66dbc934fdc93c315cf3904f?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Sep 28 |
 | ↳ | **[JBI Operations Internship](https://jobright.ai/jobs/info/66dbc934fdc93c315cf39049?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 28 |
-| ↳ | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/66f7d7819b60f4424d00c64a?utm_campaign=1050&utm_source=git)** | Marietta, GA | On Site | Sep 28 |
 | ↳ | **[JBI Operations Internship, Spring 2025](https://jobright.ai/jobs/info/66dbc934fdc93c315cf3904d?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 28 |
+| ↳ | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/66f7d7819b60f4424d00c64a?utm_campaign=1050&utm_source=git)** | Marietta, GA | On Site | Sep 28 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/66c5246e93950544f36d9601?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Sep 28 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Enterprise Change Management Intern](https://jobright.ai/jobs/info/66dbe8b68bc9217a6550c710?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 28 |
 | **[Arup](http://www.arup.com)** | **[Project & Commercial Management Intern](https://jobright.ai/jobs/info/66f7ed3cf4d170fb581f9442?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 28 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa2852893?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 27 |
 | ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa285289e?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 27 |
 | ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa285289f?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 27 |
-| ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528ae?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 27 |
 | ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528af?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Sep 27 |
-| ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528b4?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
+| ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528ae?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 27 |
 | ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528b3?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 27 |
+| ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528b4?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f7a261a13d435aa28528b0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 27 |
 | ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f790ee31a38afc68468f39?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 27 |
-| ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f790ee31a38afc68468f3b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Sep 27 |
-| ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f790ee31a38afc68468f40?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
-| ↳ | **[Strategy& and Deals Strategy Senior Associate Intern](https://jobright.ai/jobs/info/66f790ee31a38afc68468f49?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

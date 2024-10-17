@@ -57,7 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart Canada](https://www.walmartcanada.ca/)** | **[Summer 2025 MBA Intern: Merchandising Leadership Rotation Program, MBA Intern](https://jobright.ai/jobs/info/6710fee04ad07af8a9850ea4?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Oct 17 |
+| ↳ | **[Summer 2025 MBA Intern: Finance Leadership Development Program, MBA Intern](https://jobright.ai/jobs/info/6710fee04ad07af8a9850eab?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Oct 17 |
+| **[Blackstone](http://blackstone.com)** | **[2025 Blackstone LaunchPad Summer Analyst – BXTI](https://jobright.ai/jobs/info/6710fee04ad07af8a9850f43?utm_campaign=1050&utm_source=git)** | New York | On Site | Oct 17 |
+| **[Wayne-Sanderson Farms](http://www.waynesandersonfarms.com)** | **[Corporate Logistics Intern - Summer 2025 (Artificial Intelligence Project)](https://jobright.ai/jobs/info/671104aca95784c728d212e2?utm_campaign=1050&utm_source=git)** | Atlanta Metro | On Site | Oct 17 |
+| **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[SkillBridge Special Project  Intern](https://jobright.ai/jobs/info/6710fe20d317b74d08f372cc?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Oct 17 |
+| **[TSMC](http://www.tsmc.com)** | **[[Summer 2025] Supply Chain Management Intern](https://jobright.ai/jobs/info/6710fe20d317b74d08f37324?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 17 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66d8dc03a84153bf7c0ea7b0?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Oct 17 |
+| **[Constellation](https://www.constellationenergy.com/)** | **[Nuclear Technical Summer 2025 Intern - Pennsylvania and Maryland](https://jobright.ai/jobs/info/66d7446be75564a3322f7bf7?utm_campaign=1050&utm_source=git)** | Pottstown, PA | On Site | Oct 17 |
+| **[Red Hat](http://www.redhat.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/66fcc90f698d9d011e84a39d?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Oct 17 |
+| **[Delta Air Lines](http://www.delta.com)** | **[Co-op, Crew Resources - Business Processes and Knowledge Management (Spring, 2025)](https://jobright.ai/jobs/info/6710f4875b89768bf6b27ae1?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
+| **[Komatsu](http://www.ehrbar.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/66f351a5c8d38a81718e3d28?utm_campaign=1050&utm_source=git)** | Charleroi, PA | On Site | Oct 17 |
+| **[Vermeer Corporation](https://borestore.com/)** | **[Digital Delivery Manager Intern (Summer 2025)](https://jobright.ai/jobs/info/66d89e8738d0b88b9071e3ef?utm_campaign=1050&utm_source=git)** | Pella, IA | On Site | Oct 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Project Coordinator Intern Summer 2025](https://jobright.ai/jobs/info/66d7c0947426d43835f06eb1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 17 |
+| **[Pella Corporation](http://www.pella.com)** | **[Department Manager Intern - Summer 2025 (Pella, IA)](https://jobright.ai/jobs/info/66f488cfe0ea89f26312996e?utm_campaign=1050&utm_source=git)** | Pella, IA | On Site | Oct 17 |
+| **[Bell Partners Inc](http://www.bellpartnersinc.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/6710e6519fa045af4ab30b51?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Oct 17 |
+| **[Hollister Incorporated](https://www.hollister.com/)** | **[R&D Intern -Core Business Initiatives](https://jobright.ai/jobs/info/66f488cfe0ea89f26312995e?utm_campaign=1050&utm_source=git)** | Libertyville, IL | Hybrid | Oct 17 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Category Supplier Manager](https://jobright.ai/jobs/info/66d895d0fbc4efa67a423e69?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Oct 17 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '24-'25 (San Diego)](https://jobright.ai/jobs/info/66f4ab21a147fb7c699f083e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 17 |
+| **[Crowe](https://www.crowe.com/)** | **[Project Coordinator Intern Summer 2025](https://jobright.ai/jobs/info/66d7bb40ed64565028a9b103?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
+| **[BLUE ORIGIN](http://www.blueorigin.com)** | **[Summer 2025 Business Operations Internship - Graduate](https://jobright.ai/jobs/info/6710cfce30d489943512c1e3?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Oct 17 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern & Campus Field Intern - Midwest Locations](https://jobright.ai/jobs/info/66d8e075d3042dced4480532?utm_campaign=1050&utm_source=git)** | Minot, ND | On Site | Oct 17 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Commercial Services (New York, NY)](https://jobright.ai/jobs/info/66f4597f4faf53fa2c488edb?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 17 |
+| **[Owens Corning](http://www.owenscorning.com/)** | **[Supply Chain & Sourcing Internship (2025)](https://jobright.ai/jobs/info/6710f4875b89768bf6b27a43?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Oct 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Summer 2025 - San Antonio](https://jobright.ai/jobs/info/6710d9c7edb067430a04db77?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 17 |
+| **[Axis Communications](http://www.axis.com/)** | **[Operations Intern, Academy](https://jobright.ai/jobs/info/66f3dba01c523e03b0f69108?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | Hybrid | Oct 17 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Program Management](https://jobright.ai/jobs/info/6710cd777b3bca15f04cfde0?utm_campaign=1050&utm_source=git)** | SD Metro Area | Hybrid | Oct 17 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6710d108e381adb15ac06872?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[AMD](http://www.amd.com)** | **[Program Management Intern/Co-Op (Graduate / 2025 / Hybrid)](https://jobright.ai/jobs/info/6710afebfc9e88186f2286a9?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Oct 16 |
@@ -93,10 +117,10 @@ For a complete list, click the following sortable link below:
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/671022217edead4b4814289b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[IT Solution Delivery Intern](https://jobright.ai/jobs/info/67101ff3568de1d743957590?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2025](https://jobright.ai/jobs/info/67102edb6c6764ddb1b2e71a?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Oct 16 |
-| **[Emerson Health](https://www.emersonhospital.org/)** | **[Administrative Fellowship](https://jobright.ai/jobs/info/671044f8cf892fe8a2a8e3c4?utm_campaign=1050&utm_source=git)** | Concord, MA | On Site | Oct 16 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Commodity Management & Sourcing Intern - Spring](https://jobright.ai/jobs/info/67101697acdd73128be7901d?utm_campaign=1050&utm_source=git)** | CAG24: Atlanta Digital Hub 3350 Riverwood Parkway Suite 900, Atlanta, GA, 30339 USA | On Site | Oct 16 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/6710324e654272b63315a210?utm_campaign=1050&utm_source=git)** | Carlisle, PA | On Site | Oct 16 |
 | **[Emerson Health](https://www.emersonhospital.org/)** | **[Administrative Fellowship - Temporary](https://jobright.ai/jobs/info/671022dfc79bb75f906ff35b?utm_campaign=1050&utm_source=git)** | Littleton, MA | On Site | Oct 16 |
+| ↳ | **[Administrative Fellowship](https://jobright.ai/jobs/info/671083b878ddd6ce940d9196?utm_campaign=1050&utm_source=git)** | Concord, MA | On Site | Oct 16 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67102edb6c6764ddb1b2e7f1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Supply Chain Intern (Summer 2025) - Centralia, MO](https://jobright.ai/jobs/info/67102b67656c53d8f3c1ad6b?utm_campaign=1050&utm_source=git)** | Centralia, MO | On Site | Oct 16 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2025 JBS Operations Summer Internship](https://jobright.ai/jobs/info/671083b878ddd6ce940d9199?utm_campaign=1050&utm_source=git)** | Tolleson, AZ | On Site | Oct 16 |
@@ -117,44 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: MBA Internship Opportunity](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d2f71?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Oct 16 |
 | ↳ | **[Technical Program Manager: Internship Opportunities - Atlanta](https://jobright.ai/jobs/info/6710af14ba29c1cb08e17da9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
 | ↳ | **[Business Program Management: Internship Opportunities](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8ceb2?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Oct 16 |
-| ↳ | **[Technical Program Manager: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d109?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Oct 16 |
+| **[Continental](https://www.continental.com)** | **[Intern - Logistics Analyst, Year-Round](https://jobright.ai/jobs/info/66ff0553d19238406bb21bdf?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | On Site | Oct 16 |
+| **[Microsoft](https://www.microsoft.com)** | **[Technical Program Manager: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d109?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Oct 16 |
 | ↳ | **[Technical Program Management: Internship Neurodiversity Hiring Program](https://jobright.ai/jobs/info/6710cbba882f8c7a65a8d5ae?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Oct 16 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Procurement Intern - Spring](https://jobright.ai/jobs/info/670abcb0d8281f1e203b7b3e?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 16 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[IRIP Year-Round Intern - Division of Management](https://jobright.ai/jobs/info/670ff01a2f3152b3c86a670e?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Oct 16 |
 | **[Microsoft](https://www.microsoft.com)** | **[Supply Chain Planning Specialist: Intern Opportunities](https://jobright.ai/jobs/info/670ff01a2f3152b3c86a687d?utm_campaign=1050&utm_source=git)** | Redmond, WA | Hybrid | Oct 16 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern - Spring](https://jobright.ai/jobs/info/670aa63dbfc3167a2f4e1280?utm_campaign=1050&utm_source=git)** | Collierville, TN | On Site | Oct 16 |
-| **[Allstate](http://www.allstate.com)** | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb030?utm_campaign=1050&utm_source=git)** | USA - SC (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb051?utm_campaign=1050&utm_source=git)** | USA - WA (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb037?utm_campaign=1050&utm_source=git)** | USA - PA (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb045?utm_campaign=1050&utm_source=git)** | USA - CA (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb031?utm_campaign=1050&utm_source=git)** | USA - DC (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb050?utm_campaign=1050&utm_source=git)** | USA - IL (Remote) | On Site | Oct 16 |
+| **[Raytheon](http://www.bbn.com)** | **[Raytheon DOD SkillBridge Materials Program Manager (MPM), Onsite Goleta, CA or Remote](https://jobright.ai/jobs/info/670fe143eaa131431ad87d78?utm_campaign=1050&utm_source=git)** | Goleta, CA | On Site | Oct 16 |
+| **[Allstate](http://www.allstate.com)** | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb034?utm_campaign=1050&utm_source=git)** | USA - OH (Remote) | On Site | Oct 16 |
+| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb041?utm_campaign=1050&utm_source=git)** | USA - NH (Remote) | On Site | Oct 16 |
 | ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb036?utm_campaign=1050&utm_source=git)** | USA - FL (Remote) | On Site | Oct 16 |
 | ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb038?utm_campaign=1050&utm_source=git)** | USA - WI (Remote) | On Site | Oct 16 |
+| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb042?utm_campaign=1050&utm_source=git)** | USA - VT (Remote) | On Site | Oct 16 |
+| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb03b?utm_campaign=1050&utm_source=git)** | USA - MD (Remote) | On Site | Oct 16 |
 | ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb02d?utm_campaign=1050&utm_source=git)** | USA - TN (Remote) | On Site | Oct 16 |
 | ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb03a?utm_campaign=1050&utm_source=git)** | USA - IA (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb046?utm_campaign=1050&utm_source=git)** | USA - NJ (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb034?utm_campaign=1050&utm_source=git)** | USA - OH (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb041?utm_campaign=1050&utm_source=git)** | USA - NH (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb04c?utm_campaign=1050&utm_source=git)** | USA - KS (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb033?utm_campaign=1050&utm_source=git)** | USA - UT (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb04e?utm_campaign=1050&utm_source=git)** | USA - AR (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb03d?utm_campaign=1050&utm_source=git)** | USA - AZ (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb04b?utm_campaign=1050&utm_source=git)** | USA - WY (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb052?utm_campaign=1050&utm_source=git)** | USA - WV (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb02f?utm_campaign=1050&utm_source=git)** | USA - NE (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb054?utm_campaign=1050&utm_source=git)** | USA - HI (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb04a?utm_campaign=1050&utm_source=git)** | USA - VA (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb049?utm_campaign=1050&utm_source=git)** | USA - MO (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb03f?utm_campaign=1050&utm_source=git)** | USA - MA (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb042?utm_campaign=1050&utm_source=git)** | USA - VT (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb03e?utm_campaign=1050&utm_source=git)** | USA - MN (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb048?utm_campaign=1050&utm_source=git)** | USA - MT (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb02e?utm_campaign=1050&utm_source=git)** | USA - SD (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb039?utm_campaign=1050&utm_source=git)** | USA - GA (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb040?utm_campaign=1050&utm_source=git)** | USA - KY (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb043?utm_campaign=1050&utm_source=git)** | USA - NV (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb032?utm_campaign=1050&utm_source=git)** | USA - NC (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb03b?utm_campaign=1050&utm_source=git)** | USA - MD (Remote) | On Site | Oct 16 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb03c?utm_campaign=1050&utm_source=git)** | USA - CT (Remote) | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

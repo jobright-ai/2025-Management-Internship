@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Project Management Apprentice – IT](https://jobright.ai/jobs/info/6714772f6868b0d7daac9548?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
+| ↳ | **[DPI Project Management Apprentice](https://jobright.ai/jobs/info/6714772f6868b0d7daac9544?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Executive Assistant / Leadership Rotational Program](https://jobright.ai/jobs/info/671454f4a5c479e928036e53?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 19 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Project Management Apprentice - Digital](https://jobright.ai/jobs/info/67144331d9fbb339e583babb?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | ↳ | **[DPI Project Management Apprentice – IT](https://jobright.ai/jobs/info/67144cc403d9baccf9b5baba?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/671433583bfdd9e24d2cf1f5?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 19 |
@@ -76,14 +79,15 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99858 Administrative Secretary, Tahlequah Campus](https://jobright.ai/jobs/info/6713e84c20d1ec63a5a9c3a0?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Oct 19 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Operations Intern - Summer 2025 Internship](https://jobright.ai/jobs/info/66f81eaa2da33ae9bcf56b6a?utm_campaign=1050&utm_source=git)** | Springfield, MA | Hybrid | Oct 19 |
 | **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator - Intern](https://jobright.ai/jobs/info/6713b03ef9e889a48b4f2fad?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 19 |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Risk Management Graduate Intern – Business Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42abd?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Oct 19 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2025 MBA Intern: Finance Leadership Development Program, MBA Intern](https://jobright.ai/jobs/info/670e07baa1f67e787e272675?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Oct 19 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/66c523e212d108705b497772?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 19 |
 | ↳ | **[Fulfillment Area Manager Intern 2025 - CT, DE, MA, NH, NJ, NY, PA, RI](https://jobright.ai/jobs/info/66c523e212d108705b497773?utm_campaign=1050&utm_source=git)** | North Andover, MA | On Site | Oct 19 |
 | **[Raytheon](http://www.bbn.com)** | **[2025 Intern – SC Management Intern – Onsite (CA)](https://jobright.ai/jobs/info/66f772737dbcf81f17e3e39d?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Oct 19 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/66c5296b724e1337930862b7?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Oct 19 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66da2b6a1ac52d8a8432f63c?utm_campaign=1050&utm_source=git)** | Antioch, TN | On Site | Oct 19 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268d2b?utm_campaign=1050&utm_source=git)** | Sevierville, TN | On Site | Oct 19 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/66da2b6a1ac52d8a8432f5fb?utm_campaign=1050&utm_source=git)** | Cookeville, TN | On Site | Oct 19 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268d2b?utm_campaign=1050&utm_source=git)** | Sevierville, TN | On Site | Oct 19 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268d02?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 19 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530c9ca?utm_campaign=1050&utm_source=git)** | East Hampton, NY | On Site | Oct 19 |
 | **[ChampionX](https://www.championx.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6713a64869af6b2aeb437c9f?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | Hybrid | Oct 19 |
@@ -93,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Project & Commercial Management Intern (Available June 2025)](https://jobright.ai/jobs/info/6713b03ef9e889a48b4f3060?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Oct 19 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7d?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Oct 19 |
 | **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2025](https://jobright.ai/jobs/info/66da567257f55f0a834e0b63?utm_campaign=1050&utm_source=git)** | Oakley, KS | On Site | Oct 19 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/66daadcfb017f943b1bb3775?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/66c5296b724e1337930862cc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 19 |
 | **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2025](https://jobright.ai/jobs/info/66da9e228e888bb6746a9ae7?utm_campaign=1050&utm_source=git)** | Tribune, KS | On Site | Oct 19 |
 | **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Strategy and Operations Intern, Summer 2025](https://jobright.ai/jobs/info/66f765f9ee74ebc35fe57abb?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
@@ -126,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc810?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | ↳ | **[Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18d02?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
 | ↳ | **[International Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc811?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
-| ↳ | **[Logistics Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66c53c9a33e3d96dc7764e48?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
 | ↳ | **[Distribution Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cfc?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
+| ↳ | **[Logistics Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66c53c9a33e3d96dc7764e48?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Oct 19 |
 | ↳ | **[Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc80f?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 19 |
 | ↳ | **[Logistics Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66c53c9a33e3d96dc7764e46?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Oct 19 |
 | ↳ | **[International Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18cfa?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Oct 19 |
@@ -135,9 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[UNIT SECRETARY W/TRANSCRIPTION](https://jobright.ai/jobs/info/67138016bef757edd79077c5?utm_campaign=1050&utm_source=git)** | Milton, MA | On Site | Oct 19 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c5e7?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Oct 19 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/67137b2c38902e2230f09ef9?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Oct 19 |
-| ↳ | **[Global Procurement Intern](https://jobright.ai/jobs/info/67137b2c38902e2230f09f12?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Oct 19 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/67137b2c38902e2230f09f91?utm_campaign=1050&utm_source=git)** | Franklin, MA | On Site | Oct 19 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/67137b2c38902e2230f09f92?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Oct 19 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/67137b2c38902e2230f09f91?utm_campaign=1050&utm_source=git)** | Franklin, MA | On Site | Oct 19 |
 | **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator - Intern](https://jobright.ai/jobs/info/67136c6283ceaff2af18f4cb?utm_campaign=1050&utm_source=git)** | GS - Jersey City | On Site | Oct 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -   University of Wisconsin - Stout](https://jobright.ai/jobs/info/671388d82bb61deb5222179f?utm_campaign=1050&utm_source=git)** | Menomonie, WI | On Site | Oct 19 |
 | ↳ | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/671388d82bb61deb52221794?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - The Ohio State University](https://jobright.ai/jobs/info/671394dcdbe52209dc9324bb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
 | ↳ | **[Operations Intern -  Sacramento State University](https://jobright.ai/jobs/info/671394dcdbe52209dc9324ce?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
 | **[Linn-Benton Community College](http://www.linnbenton.edu/)** | **[Administrative Aide WS, Student](https://jobright.ai/jobs/info/67136e8c93bf72e583f1fef7?utm_campaign=1050&utm_source=git)** | Albany, OR | On Site | Oct 19 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/67138e8deca05bc57bf9c5ef?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Oct 19 |
 | **[Accenture](https://www.accenture.com/ie-en)** | **[Sourcing and Procurement Summer Analyst - Atlanta - NAELFY25](https://jobright.ai/jobs/info/67135b108f33007654e2b4c1?utm_campaign=1050&utm_source=git)** | GA - Atlanta | On Site | Oct 18 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Procurement & Supply Chain Management](https://jobright.ai/jobs/info/6713400541b62be2e852d98e?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Hybrid | Oct 18 |
 | ↳ | **[2025 Summer Internship - Business Administration](https://jobright.ai/jobs/info/67133c38a3488d4f484a17df?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Hybrid | Oct 18 |
-| **[Cargill](http://www.cargill.com)** | **[Corporate Strategy Associate Intern 2025](https://jobright.ai/jobs/info/6713398807a81794860186cd?utm_campaign=1050&utm_source=git)** | Wayzata, MN | On Site | Oct 18 |
-| **[Centene Corporation](http://www.centene.com)** | **[Operations Project Management Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/6713398807a817948601880d?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Oct 18 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations & Data Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66ff1304eb3b39677db94d42?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | Oct 18 |
-| **[Centene Corporation](http://www.centene.com)** | **[Operations Project Management Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/671353a6d78a720a5621b2af?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Oct 18 |
-| **[Camp Champions](https://www.campchampions.com)** | **[Administrative Assistant Internship](https://jobright.ai/jobs/info/67134710a2464fa4f8fdb98b?utm_campaign=1050&utm_source=git)** | Marble Falls, TX | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

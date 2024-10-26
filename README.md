@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/671c42cf73f494c443dacf95?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Oct 25 |
+| **[AECOM](http://www.aecom.com/)** | **[IT Project Services Intern](https://jobright.ai/jobs/info/671c4754e10ccfaf2aaf3534?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Oct 25 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/671c3beabe6bb760e369883c?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Oct 25 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Groups](https://jobright.ai/jobs/info/671c4519a4e4718f45f9c19a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
+| **[TransPerfect](http://www.transperfect.com)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/671c577f3a3ad69a218873cb?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Oct 25 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern-Facilities IE](https://jobright.ai/jobs/info/671c2f7200547ba9a6675447?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Oct 25 |
 | **[Campbell's](http://www.campbellsoupcompany.com/)** | **[Fall Intern - IE - $20/hr](https://jobright.ai/jobs/info/671c1ddcd57b9e1f88d17834?utm_campaign=1050&utm_source=git)** | Paris, TX | On Site | Oct 25 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[Summer 2025 Warehouse Operations Intern – ALACHUA, FL](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdac2?utm_campaign=1050&utm_source=git)** | Alachua, FL | On Site | Oct 25 |
@@ -64,7 +69,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdae8?utm_campaign=1050&utm_source=git)** | Waverly, IA | On Site | Oct 25 |
 | ↳ | **[Management Internship - Sheldon, IA.](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdb19?utm_campaign=1050&utm_source=git)** | Sheldon, IA | On Site | Oct 25 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdb37?utm_campaign=1050&utm_source=git)** | River Falls, WI | On Site | Oct 25 |
+| **[ALLY Energy](http://www.allyenergy.com)** | **[Internship - Development Strategic](https://jobright.ai/jobs/info/671c370e9bb7a6c53da64037?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 25 |
 | **[Eggs Unlimited](http://www.eggsunlimited.com)** | **[Supply Chain & Logistics Intern](https://jobright.ai/jobs/info/671c1bdd27e38f2021521785?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 25 |
+| **[Walgreens](https://www.walgreens.com/)** | **[Intern DC - Summer 2025](https://jobright.ai/jobs/info/671c4dd5b52b09468c22ced9?utm_campaign=1050&utm_source=git)** | Waxahachie, TX | On Site | Oct 25 |
+| **[Chesmar Homes](https://chesmar.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/671c4a081462307b50428927?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Internship - Facility Management/CARB](https://jobright.ai/jobs/info/671c04d29d58c4ea32b9d7c9?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Oct 25 |
 | **[Atlanta Braves](http://atlanta.braves.mlb.com/index.jsp?c_id=atl)** | **[2025 Spring Training Internships (North Port, FL)](https://jobright.ai/jobs/info/671c012e381f9510eb86489f?utm_campaign=1050&utm_source=git)** | US North Port | On Site | Oct 25 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2025 Intern - Business Majors - ex. Business Administration , Finance](https://jobright.ai/jobs/info/671c1f17e1adde146d3fdc5c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indianapolis Motor Speedway](https://www.indianapolismotorspeedway.com/)** | **[Diversity Program - Golf & Grounds Intern, 2025 Season](https://jobright.ai/jobs/info/671b31f1011fb26a9896ee44?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 24 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Content Strategy & Analysis, LatAM MBA Intern: Miami/New York- Summer 2025](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce5410?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Order Management Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/671b1a22ab09218f34044aec?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 24 |
-| ↳ | **[Logistics Internship - Summer 2025](https://jobright.ai/jobs/info/671b1a22ab09218f34044af1?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 24 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce54b5?utm_campaign=1050&utm_source=git)** | Twin Falls Area | On Site | Oct 24 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Content Strategy & Analysis, LatAM MBA Intern: Miami/New York- Summer 2025](https://jobright.ai/jobs/info/671b1cea1e97dd0db1ce5807?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Oct 24 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship - Central Denver Metro Area](https://jobright.ai/jobs/info/671af2e86c9aa7b965b9fda2?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 24 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/671affee7e6507f3b4486b4e?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Oct 24 |
-| **[AstraZeneca](http://www.astrazeneca.com)** | **[Business Operations Intern, US Medical Affairs Oncology](https://jobright.ai/jobs/info/671af62684f40189806e9025?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Oct 24 |
-| **[FIRST](https://firstagency.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/671aee25f55e2c902323edd6?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 24 |
-| **[Textron](http://textron.com)** | **[2025 Intern - Production Planner, New Orleans, LA](https://jobright.ai/jobs/info/671af935e5a3eff6fc2cc282?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

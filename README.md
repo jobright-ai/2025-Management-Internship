@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  Santa Clara University](https://jobright.ai/jobs/info/671e04c30f95d91749ad62b3?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 27 |
+| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/671dee81d53405d07551f2a7?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Oct 26 |
+| **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/671dcc5a4a9e140b639c7b96?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Oct 26 |
+| **[Recore Electrical Contractors, Inc.](http://www.recoreelectric.com)** | **[Electrical Project Manager Intern- Paid Internship](https://jobright.ai/jobs/info/671dc46dbae3936ccd53d637?utm_campaign=1050&utm_source=git)** | Gastonia, NC | On Site | Oct 26 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/671d827d3215c1980f8472a7?utm_campaign=1050&utm_source=git)** | Carlisle, PA | On Site | Oct 26 |
 | **[North Carolina Central University](http://www.nccu.edu)** | **[Graduate Administrative Assistant](https://jobright.ai/jobs/info/671d705e287381856085ce50?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Oct 26 |
 | **[Shepherd University](http://shepherd.edu)** | **[CSTEM Office Assistant](https://jobright.ai/jobs/info/671d7a8942218e97a9b9452e?utm_campaign=1050&utm_source=git)** | Shepherdstown, WV | On Site | Oct 26 |
@@ -71,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Redwood City School District](https://www.rcsdk8.net)** | **[Copy of Administrative Secretary I](https://jobright.ai/jobs/info/671d0e528fa46e526ff8d2e2?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Oct 26 |
 | **[Waymo](http://www.waymo.com)** | **[2025 MBA Intern, Operations](https://jobright.ai/jobs/info/671d1c2dd3bcf78688840453?utm_campaign=1050&utm_source=git)** | Greater Phoenix Area | On Site | Oct 26 |
 | **[Mosaic Life Care](https://www.mymlc.com/)** | **[Maryville Administrative Intern](https://jobright.ai/jobs/info/671cfe33e2512b29bd6db869?utm_campaign=1050&utm_source=git)** | Maryville, MO | On Site | Oct 26 |
+| **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Hospitality Internship](https://jobright.ai/jobs/info/671df0ac372c1b07b572550a?utm_campaign=1050&utm_source=git)** | Laramie, WY | On Site | Oct 26 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[UMES WINtern](https://jobright.ai/jobs/info/671cd57a01739bde833c047b?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | Hybrid | Oct 26 |
 | **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Technology Intern, Office of IT Chief Operating Officer](https://jobright.ai/jobs/info/671cdd00861434808eb5bbb6?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 26 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship Spring 2025- San Bernardino](https://jobright.ai/jobs/info/671cda156d3cf0ed69ac1cec?utm_campaign=1050&utm_source=git)** | San Bernardino, CA | On Site | Oct 26 |
@@ -104,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/671ca997e9897f0fddd4de11?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 26 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/671ca997e9897f0fddd4de15?utm_campaign=1050&utm_source=git)** | Franklin, MA | On Site | Oct 26 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[Service Summer Internship Positions](https://jobright.ai/jobs/info/671c96a885f71ff7fe0b5bcb?utm_campaign=1050&utm_source=git)** | Columbus, IN | Hybrid | Oct 25 |
+| **[ORIX Corporation USA](http://www.orix.com/orix-finance/venture-finance.aspx)** | **[Intern - Administration](https://jobright.ai/jobs/info/671dc46dbae3936ccd53d714?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Oct 25 |
 | **[Novelis](http://novelis.com)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/671d3c0729bca739389ce3f7?utm_campaign=1050&utm_source=git)** | 448 County Route 1A, Oswego, NY, US | On Site | Oct 25 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Intern/CoOp](https://jobright.ai/jobs/info/671c70bc8003f6448df6007b?utm_campaign=1050&utm_source=git)** | San Angelo, TX | On Site | Oct 25 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern](https://jobright.ai/jobs/info/671c719e608f8cab6245847c?utm_campaign=1050&utm_source=git)** | Ironwood, MI | Hybrid | Oct 25 |
@@ -112,11 +118,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[N96571 Administrative Assistant for Physician Assistant Studies](https://jobright.ai/jobs/info/671c749acd0c392384077ffe?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Oct 25 |
 | **[Amazon](https://amazon.com)** | **[2025 Supply Chain Manager Intern](https://jobright.ai/jobs/info/671c8ea9249f6ce04e19df56?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 25 |
 | **[Kroger](http://www.thekrogerco.com)** | **[Corporate Health & Wellness Procurement Internship Spring 2025](https://jobright.ai/jobs/info/671c5eda9fa1f205dd26ed96?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Oct 25 |
-| **[CVS Health](http://cvshealth.com)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/671c937d080287f1a0bc7380?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Oct 25 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/671c937d080287f1a0bc7490?utm_campaign=1050&utm_source=git)** | Mount Pleasant, SC | On Site | Oct 25 |
+| **[CVS Health](http://cvshealth.com)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/671c937d080287f1a0bc7490?utm_campaign=1050&utm_source=git)** | Mount Pleasant, SC | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/671c937d080287f1a0bc7394?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/671c937d080287f1a0bc7491?utm_campaign=1050&utm_source=git)** | Springfield, PA | On Site | Oct 25 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/671c937d080287f1a0bc7492?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Oct 25 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/671d371a6fded9b47cd415c9?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Oct 25 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/671c42cf73f494c443dacf95?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Oct 25 |
 | **[Santander US](https://www.santanderus.com)** | **[Technology Intern, Office of IT Chief Operating Officer](https://jobright.ai/jobs/info/671d10887ee8a86b6e414d70?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 25 |
 | **[AECOM](http://www.aecom.com/)** | **[IT Project Services Intern](https://jobright.ai/jobs/info/671c4754e10ccfaf2aaf3534?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Oct 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FTI](http://www.faithtechinc.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/671bf2313fd7ed48b62dd213?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Oct 25 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-op Greenville (Summer 2025)](https://jobright.ai/jobs/info/66c5c7980b7d57d04a94d316?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Oct 25 |
 | **[Moore's Electrical & Mechanical](http://www.mooreselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/671d31a616b42d5d6c91ac7e?utm_campaign=1050&utm_source=git)** | Charlottesville, VA | On Site | Oct 25 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Commercial Distribution & Logistics Summer Intern](https://jobright.ai/jobs/info/66e1e0a25bd1f0d27ab977c7?utm_campaign=1050&utm_source=git)** | Duluth, GA | Hybrid | Oct 25 |
-| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Planning Intern - Plainsboro, NJ](https://jobright.ai/jobs/info/671bd1d979f71109788a5050?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Oct 25 |
-| **[BioSpace](http://www.biospace.com/)** | **[MBA Intern  Operations and Strategy Leadership Program (Summer 2025)](https://jobright.ai/jobs/info/67199f302d7069863968d44f?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 25 |
-| **[TransPerfect](http://www.transperfect.com)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/671bcc344ab13773ea4ead85?utm_campaign=1050&utm_source=git)** | US-Miami, FL | On Site | Oct 25 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Project Management Intern (MR Path to Leadership)](https://jobright.ai/jobs/info/671bcc344ab13773ea4eada9?utm_campaign=1050&utm_source=git)** | Florence SC USA | On Site | Oct 25 |
-| **[Mars](http://www.mars.com)** | **[Summer 2025 Mars Wrigley Procurement - Supply Chain Management Internship - Hackettstown, NJ](https://jobright.ai/jobs/info/671bcae2776275bb8166efca?utm_campaign=1050&utm_source=git)** | Hackettstown, NJ | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

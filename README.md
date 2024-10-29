@@ -57,11 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Intern, Field Operations and Grower Representative](https://jobright.ai/jobs/info/6720aceda8018cacf924d662?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Oct 29 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Associate Project Management Intern](https://jobright.ai/jobs/info/6720d3027f176de4d572cb0b?utm_campaign=1050&utm_source=git)** | TX - Richardson | Hybrid | Oct 29 |
+| ↳ | **[Associate Project Management Intern](https://jobright.ai/jobs/info/6720d3027f176de4d572cb09?utm_campaign=1050&utm_source=git)** | IL - Chicago | Hybrid | Oct 29 |
+| **[Mosaic Life Care](https://www.mymlc.com/)** | **[Administrative Intern - IT Cybersecurity](https://jobright.ai/jobs/info/6720cce9066915f29d83dc6f?utm_campaign=1050&utm_source=git)** | Maryville, MO | On Site | Oct 29 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/66e8b3d4a6c0988dfeb20884?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 29 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Cal Poly, San Luis Obispo](https://jobright.ai/jobs/info/6720b86510386697194b4ccb?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 29 |
+| **[ofi](https://www.ofi.com)** | **[2025 Summer Intern: Supply Chain (Commercialization)](https://jobright.ai/jobs/info/6704d7c4edc3877ffb5d5a1a?utm_campaign=1050&utm_source=git)** | Bayonne, NJ | On Site | Oct 29 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e8d45e6689a5a73eb81281?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Oct 29 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Project Manager MBA Intern: Miami - Summer 2025](https://jobright.ai/jobs/info/6704f158a020bfa1339c3942?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Oct 29 |
+| **[Verizon](https://www.verizon.com)** | **[SHPE Conference Network Operations Support Summer 2025 Internship](https://jobright.ai/jobs/info/6720bb5d5c7ee0c59e5c9e17?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Oct 29 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[International Content Strategy & Analysis MBA Intern: LA - Summer 2025](https://jobright.ai/jobs/info/6704f158a020bfa1339c391f?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Oct 29 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Capacity Model CO-OP](https://jobright.ai/jobs/info/6720b6b91b469890b9ea6c25?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Oct 29 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Technical Program Manager](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0b46?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Associate Intern for Capital Project Management (Summer 2025)](https://jobright.ai/jobs/info/67043ca4ab0bae805f532a62?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Oct 29 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, IT Experience Engineering - Project Manager](https://jobright.ai/jobs/info/6704972d7c9699b1a55d0b34?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
+| **[San Diego Padres](http://www.padres.com)** | **[Intern, Ballpark Operations](https://jobright.ai/jobs/info/6720c93374f0cd3949bfddfb?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Cal State East Bay](https://jobright.ai/jobs/info/6720a60da71b0ee13ea1bf63?utm_campaign=1050&utm_source=git)** | Hayward, CA | On Site | Oct 29 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring Management Trainee Intern](https://jobright.ai/jobs/info/6720de193e3cf99dd4a56145?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 29 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Global Streaming Strategy MBA Intern: LA/NY - Summer 2025](https://jobright.ai/jobs/info/67209822c9e9764c9ac40bc0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 29 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6720ab515e96ec1e9b7f5f40?utm_campaign=1050&utm_source=git)** | Sterling, VA | On Site | Oct 29 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Business Operations Summer Internship - San Diego, CA](https://jobright.ai/jobs/info/672079d9381d193556e3ad9e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 28 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6720e119cf7fb5a3a3ff3a27?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Oct 29 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Business Operations Summer Internship - Bunnell, FL](https://jobright.ai/jobs/info/6720c4a49e3a844bfa63cf12?utm_campaign=1050&utm_source=git)** | Bunnell, FL | On Site | Oct 28 |
+| ↳ | **[2025 Business Operations Summer Internship - San Diego, CA](https://jobright.ai/jobs/info/672079d9381d193556e3ad9e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 28 |
 | ↳ | **[2025 Admin Retail Operations Summer Internship - Soquel, CA](https://jobright.ai/jobs/info/672079d9381d193556e3ad8d?utm_campaign=1050&utm_source=git)** | Soquel, CA | On Site | Oct 28 |
 | ↳ | **[2025 Operations Management Summer Internship - Rapid City, SD](https://jobright.ai/jobs/info/672079d9381d193556e3ad91?utm_campaign=1050&utm_source=git)** | Rapid City, SD | On Site | Oct 28 |
 | ↳ | **[2025 Supply Chain Summer Internship](https://jobright.ai/jobs/info/672079d9381d193556e3ad96?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Oct 28 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Yurman](http://www.davidyurman.com)** | **[Project Management Intern, Creative](https://jobright.ai/jobs/info/671ffd953e1526487d5c984b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 28 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/67200808e0764e9e8640d135?utm_campaign=1050&utm_source=git)** | Camp Hill, PA | On Site | Oct 28 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3f6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| ↳ | **[Planning Intern](https://jobright.ai/jobs/info/672003cc171dfc782a1cb3d3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 28 |
-| **[Microsoft](https://www.microsoft.com)** | **[Business Program Manager: Full-Time Opportunities](https://jobright.ai/jobs/info/672003cc171dfc782a1cb42c?utm_campaign=1050&utm_source=git)** | Redmond, WA | Hybrid | Oct 28 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Services Intern - FS](https://jobright.ai/jobs/info/67200808e0764e9e8640ceee?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 28 |
-| **[DH Pace Company, Inc.](https://www.dhpace.com/)** | **[Summer Interns](https://jobright.ai/jobs/info/67200808e0764e9e8640cf1a?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Oct 28 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Supply Chain Management - Year Round](https://jobright.ai/jobs/info/672003cc171dfc782a1cb44a?utm_campaign=1050&utm_source=git)** | Cayce, SC | On Site | Oct 28 |
-| **[Indy Eleven Professional Soccer](https://www.indyeleven.com)** | **[Team Operations Internship (SPRING 2025)](https://jobright.ai/jobs/info/6720124c01649616d72a588f?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 28 |
-| **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/671ff28dc73c1c04955555ef?utm_campaign=1050&utm_source=git)** | Bellingham, WA | On Site | Oct 28 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/671ff8fa900f241460764f6a?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Oct 28 |
-| ↳ | **[Sodexo Intern](https://jobright.ai/jobs/info/671ff8fa900f241460764f68?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Oct 28 |
-| **[CVS Health](http://cvshealth.com)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/671ff7a3411d16d9c62c23b6?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Oct 28 |
-| **[Intapp](http://www.intapp.com)** | **[IT Project Coordinator Intern](https://jobright.ai/jobs/info/671ff2bd6f13eb2384a36d52?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Oct 28 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/671fe411f5211a1555f11a85?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Oct 28 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Claims Associate](https://jobright.ai/jobs/info/671fee8cd5b0c313a7e57455?utm_campaign=1050&utm_source=git)** | Lansing, MI | Hybrid | Oct 28 |
-| **[PayPal](https://www.paypal.com/home)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/671db040c02f9a6db00a0a54?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Oct 28 |
-| **[Novelis](http://novelis.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/671feb703769051031b5e448?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Oct 28 |
-| **[Cencora](http://www.cencora.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/66e34bffc38b47178c0bf487?utm_campaign=1050&utm_source=git)** | Romeoville, IL | On Site | Oct 28 |
-| ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/671fdb119a348c872751f0c8?utm_campaign=1050&utm_source=git)** | Browns Summit, NC | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

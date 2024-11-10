@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freddie Mac](http://www.freddiemac.com)** | **[Risk Management Graduate Intern – Business Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/6730a8cb63868f5a3fe32a69?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Nov 10 |
+| **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator - Intern](https://jobright.ai/jobs/info/6730a04d6113d7ea38bada23?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Nov 10 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Dedicated Operations Internship, Spring 2025](https://jobright.ai/jobs/info/673094541d602ebe732d3838?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 10 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - CRE Underwriting / Portfolio Mgt (New York, NY)](https://jobright.ai/jobs/info/6730a04bd819b2038f4ef35e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 10 |
+| **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/67309c0e6d79ed590d28e8ce?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Nov 10 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Category Supply Management](https://jobright.ai/jobs/info/66db8a5d83f082a540d4e07c?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Nov 10 |
+| **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/67308014bfe4f16ddeabe157?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/673046dd567bb5b84ed71987?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 09 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant HawkReach Counseling, Tahlequah](https://jobright.ai/jobs/info/673046dd567bb5b84ed719b9?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 09 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Operations Materials Intern](https://jobright.ai/jobs/info/67306cb846a3e1b9ff6d24b1?utm_campaign=1050&utm_source=git)** | Bedford, PA | Hybrid | Nov 09 |
@@ -87,15 +94,18 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N96571 Administrative Assistant for Physician Assistant Studies](https://jobright.ai/jobs/info/672f8e5d3912bf148064ba9e?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Nov 09 |
 | **[Walgreens](https://www.walgreens.com)** | **[Digital Planning & Analysis Intern](https://jobright.ai/jobs/info/672fc534b90400907bff95e9?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
 | **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/672f712d13ce6f3319070273?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Nov 09 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- SD, ND, KS, NE, MN, IA](https://jobright.ai/jobs/info/66c5296b724e1337930862bd?utm_campaign=1050&utm_source=git)** | New Century, KS | On Site | Nov 09 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - SC, NC, VA, MD](https://jobright.ai/jobs/info/66c5296b724e1337930862c5?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 09 |
+| ↳ | **[Fulfillment Area Manager Intern 2025- SD, ND, KS, NE, MN, IA](https://jobright.ai/jobs/info/66c5296b724e1337930862bd?utm_campaign=1050&utm_source=git)** | New Century, KS | On Site | Nov 09 |
 | **[ITT Inc.](http://www.itt.com)** | **[Supply Chain Data Analytics Co-op (Spring/Summer 2025)](https://jobright.ai/jobs/info/66dba364703e180a3ec62690?utm_campaign=1050&utm_source=git)** | Seneca Falls, NY | On Site | Nov 09 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaea?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | Nov 09 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7f?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Nov 09 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae4?utm_campaign=1050&utm_source=git)** | Strafford, MO | On Site | Nov 09 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - SC, NC, VA, MD](https://jobright.ai/jobs/info/66c5296b724e1337930862c4?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Nov 09 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/6712da511b9eee41aa73a23e?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Nov 09 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7d?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Nov 09 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Operations Management Intern - Rochelle, IL](https://jobright.ai/jobs/info/6712d6c28b39602c1937a06e?utm_campaign=1050&utm_source=git)** | Rochelle, IL | On Site | Nov 09 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/66c5296b724e1337930862aa?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Nov 09 |
+| **[Hess Corporation](http://www.hess.com)** | **[Supply Chain Summer Intern 2025 (Houston, TX)](https://jobright.ai/jobs/info/66da4578536c67af4dc69888?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 09 |
 | **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2025](https://jobright.ai/jobs/info/66da9e228e888bb6746a9ae7?utm_campaign=1050&utm_source=git)** | Tribune, KS | On Site | Nov 09 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 09 |
 | **[RailPros](http://railpros.com)** | **[Project Management Construction Management Intern Engineering](https://jobright.ai/jobs/info/6712dc482ce6b7a0d85c0aa9?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Nov 09 |
@@ -106,55 +116,45 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdadb?utm_campaign=1050&utm_source=git)** | West Chester, OH | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaeb?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd03?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae1?utm_campaign=1050&utm_source=git)** | Grandview, MO | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad6?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaef?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae1?utm_campaign=1050&utm_source=git)** | Grandview, MO | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdacd?utm_campaign=1050&utm_source=git)** | Walton, KY | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad3?utm_campaign=1050&utm_source=git)** | Mosinee, WI | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae0?utm_campaign=1050&utm_source=git)** | Lakeville, MN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdadc?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae0?utm_campaign=1050&utm_source=git)** | Lakeville, MN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd08?utm_campaign=1050&utm_source=git)** | Lowell, IN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf4?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdace?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf4?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdacf?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae5?utm_campaign=1050&utm_source=git)** | Sturtevant, WI | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf5?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Nov 09 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 09 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf3?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae7?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdadd?utm_campaign=1050&utm_source=git)** | East Peoria, IL | On Site | Nov 09 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae7?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf3?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad5?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712ba10ba66b2270adc6d7f?utm_campaign=1050&utm_source=git)** | Stewartville, MN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaed?utm_campaign=1050&utm_source=git)** | Council Bluffs, IA | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdadd?utm_campaign=1050&utm_source=git)** | East Peoria, IL | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad8?utm_campaign=1050&utm_source=git)** | Tomah, WI | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712ba10ba66b2270adc6d7f?utm_campaign=1050&utm_source=git)** | Stewartville, MN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae2?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaed?utm_campaign=1050&utm_source=git)** | Council Bluffs, IA | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd0c?utm_campaign=1050&utm_source=git)** | Huber Heights, OH | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd02?utm_campaign=1050&utm_source=git)** | Markle, IN | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad0?utm_campaign=1050&utm_source=git)** | East Moline, IL | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd0a?utm_campaign=1050&utm_source=git)** | Grayling, MI | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad1?utm_campaign=1050&utm_source=git)** | Hampshire, IL | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bd84c?utm_campaign=1050&utm_source=git)** | Hermantown, MN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdadf?utm_campaign=1050&utm_source=git)** | Corbin, KY | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd0f?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad1?utm_campaign=1050&utm_source=git)** | Hampshire, IL | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad0?utm_campaign=1050&utm_source=git)** | East Moline, IL | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf0?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae6?utm_campaign=1050&utm_source=git)** | Calhoun, GA | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae3?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf2?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad9?utm_campaign=1050&utm_source=git)** | Byron Center, MI | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad4?utm_campaign=1050&utm_source=git)** | Lebanon, TN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd05?utm_campaign=1050&utm_source=git)** | Roseville, MN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd09?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf0?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd0b?utm_campaign=1050&utm_source=git)** | Des Plaines, IL | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad2?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdada?utm_campaign=1050&utm_source=git)** | Waterford, MI | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad4?utm_campaign=1050&utm_source=git)** | Lebanon, TN | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad9?utm_campaign=1050&utm_source=git)** | Byron Center, MI | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd09?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaf2?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd05?utm_campaign=1050&utm_source=git)** | Roseville, MN | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae9?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad7?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Nov 09 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Dedicated Operations Internship, Summer 2025](https://jobright.ai/jobs/info/672f5114841cd19aa25f0962?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Nov 09 |
-| ↳ | **[JBI Operations Internship, Spring 2025](https://jobright.ai/jobs/info/672f5114841cd19aa25f0964?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 09 |
-| **[Arup](http://www.arup.com)** | **[Project & Commercial Management Intern (Available June 2025)](https://jobright.ai/jobs/info/6713b03ef9e889a48b4f3060?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaee?utm_campaign=1050&utm_source=git)** | North Ridgeville, OH | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdacb?utm_campaign=1050&utm_source=git)** | Brownstown, MI | On Site | Nov 09 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7c?utm_campaign=1050&utm_source=git)** | Bethesda, MD | On Site | Nov 09 |
-| **[Scoular](http://www.scoular.com/)** | **[Supply Chain Intern - Summer 2025](https://jobright.ai/jobs/info/672f733f496748186645df01?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 09 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern:  Associate Project Manager](https://jobright.ai/jobs/info/671320cff6058771041f5a9d?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

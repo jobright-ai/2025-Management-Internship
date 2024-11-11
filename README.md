@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medtronic](https://www.medtronic.com)** | **[2025 MBA LDRP Summer Internship](https://jobright.ai/jobs/info/67320109588f1fb7075add21?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 11 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Whole Foods Market Strategy MBA Internship - Summer 2025](https://jobright.ai/jobs/info/6731ad13c940d794f52b8332?utm_campaign=1050&utm_source=git)** | TX, Austin - Global Support | On Site | Nov 10 |
 | ↳ | **[Operational Improvement MBA Internship - Summer 2025](https://jobright.ai/jobs/info/6731ad13c940d794f52b832d?utm_campaign=1050&utm_source=git)** | TX, Austin - Global Support | On Site | Nov 10 |
 | ↳ | **[Strategy & Business Development MBA Internship - Summer 2025](https://jobright.ai/jobs/info/6731ad13c940d794f52b832e?utm_campaign=1050&utm_source=git)** | TX, Austin - Global Support | On Site | Nov 10 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Supply Chain Relationship Management](https://jobright.ai/jobs/info/6730e6418071c3176c80b2a3?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 10 |
 | **[AUTOKINITON](https://www.autokiniton.com)** | **[Supply Chain Internship - (Summer 2025)](https://jobright.ai/jobs/info/6730e11b5dd633e32b794d7a?utm_campaign=1050&utm_source=git)** | Romulus, MI | On Site | Nov 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Publications Systems and Operations Intern](https://jobright.ai/jobs/info/6730def8b6491ea12eeaf3ad?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 10 |
-| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Engagement Manager Intern, AWS Professional Services](https://jobright.ai/jobs/info/6730cfbcddef88286b3ef78b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 10 |
 | **[IBI Group](http://www.ibigroup.com)** | **[Architecture Intern- Washington, DC](https://jobright.ai/jobs/info/6730e11b5dd633e32b794d9f?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 10 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - CT, DE, MA, NH, NJ, NY, PA, RI](https://jobright.ai/jobs/info/6731724ade05679f27007037?utm_campaign=1050&utm_source=git)** | New Jersey, United States | On Site | Nov 10 |
 | ↳ | **[Fulfillment Area Manager Intern 2025 - WA, OR, ID, NV](https://jobright.ai/jobs/info/673187088f24af275f0bd6c6?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Nov 10 |
@@ -86,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - CRE Underwriting / Portfolio Mgt (New York, NY)](https://jobright.ai/jobs/info/6730a04bd819b2038f4ef35e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/67309c0e6d79ed590d28e8ce?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Nov 10 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Category Supply Management](https://jobright.ai/jobs/info/66db8a5d83f082a540d4e07c?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Nov 10 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/66c5296b724e1337930862cc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 10 |
 | **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/67308014bfe4f16ddeabe157?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 10 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- SD, ND, KS, NE, MN, IA](https://jobright.ai/jobs/info/66c5296b724e1337930862c3?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Nov 09 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/66c523e212d108705b497777?utm_campaign=1050&utm_source=git)** | Canton, MS | On Site | Nov 09 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712ba10ba66b2270adc6d7e?utm_campaign=1050&utm_source=git)** | Kent, OH | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae8?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd07?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaeb?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdadb?utm_campaign=1050&utm_source=git)** | West Chester, OH | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaeb?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd03?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae1?utm_campaign=1050&utm_source=git)** | Grandview, MO | On Site | Nov 09 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad6?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Nov 09 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdaef?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Nov 09 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae1?utm_campaign=1050&utm_source=git)** | Grandview, MO | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

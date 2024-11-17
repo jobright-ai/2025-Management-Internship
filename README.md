@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warp](https://www.warp.dev)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6739635edf4c2fc995a1d177?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
 | **[Buckingham Companies](http://buckingham.com)** | **[Internship May 2025](https://jobright.ai/jobs/info/67392df811ed5e03c5ef6b1d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Nov 16 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/6739103e1bd1525600c8d170?utm_campaign=1050&utm_source=git)** | Smyrna, DE | On Site | Nov 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67391af1590622865aec0766?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 16 |
@@ -97,7 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Project Management Intern (West Division)](https://jobright.ai/jobs/info/673861024c2ed179910bb644?utm_campaign=1050&utm_source=git)** | Livermore, CA | Hybrid | Nov 16 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Aftermarket Operations](https://jobright.ai/jobs/info/67386fe3e881c1486efebb34?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Nov 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Referrals](https://jobright.ai/jobs/info/673861024c2ed179910bb6d3?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Nov 15 |
-| ↳ | **[Operations Intern - Eastern Illinois University](https://jobright.ai/jobs/info/6738594da622f4f4dc833c1a?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 15 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/673964eead319821d2f9a27f?utm_campaign=1050&utm_source=git)** | Clinton, SC | On Site | Nov 15 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Eastern Illinois University](https://jobright.ai/jobs/info/6738594da622f4f4dc833c1a?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 15 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6738237ddc855cc807d6dd01?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[University of Michigan](https://www.umich.edu)** | **[Off Campus Non-Profit Student Employee- Administrative/Marketing and Promotion (FALL WORK STUDY ONLY)](https://jobright.ai/jobs/info/6733c078e4a3e7f3e06f2460?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Nov 15 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Land Development and Land Acquisition Internship](https://jobright.ai/jobs/info/6738237ddc855cc807d6dd23?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 15 |
@@ -118,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Purchasing and Supply Chain](https://jobright.ai/jobs/info/6737ddd49cbcd1bffa74ba28?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Nov 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Administrative Assistant](https://jobright.ai/jobs/info/6737e7764a5a7d93337eee46?utm_campaign=1050&utm_source=git)** | La Porte, IN | On Site | Nov 15 |
 | **[Broward Center for the Performing Arts](https://www.browardcenter.org/)** | **[Intern](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22c821?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Nov 15 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22c833?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, MESCOB](https://jobright.ai/jobs/info/6737d5fdb2a7384b8c22c88b?utm_campaign=1050&utm_source=git)** | Montevallo, AL | On Site | Nov 15 |
 | **[Clackamas Community College](http://www.clackamas.edu/)** | **[Office Assistant - Music [Federal Work Study]](https://jobright.ai/jobs/info/6737e2e1c12c51ee8ea25bfc?utm_campaign=1050&utm_source=git)** | Oregon City, OR | On Site | Nov 15 |
 | **[Alcorn State University](http://www.alcorn.edu/)** | **[Student Clerical Assistant](https://jobright.ai/jobs/info/6737e2e1c12c51ee8ea25c03?utm_campaign=1050&utm_source=git)** | Lorman, MS | On Site | Nov 15 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deba0?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de982?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de97c?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6737cd8e715f954db4744b48?utm_campaign=1050&utm_source=git)** | Kotzebue, AK | On Site | Nov 15 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6737cd8e715f954db4744b7a?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
+| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6737cd8e715f954db4744b48?utm_campaign=1050&utm_source=git)** | Kotzebue, AK | On Site | Nov 15 |
 | **[Clark Insurance](https://www.clarkinsurance.com/)** | **[Oliver Wyman - Intern - Paris](https://jobright.ai/jobs/info/6737cd8e715f954db4744b95?utm_campaign=1050&utm_source=git)** | Paris, TX | On Site | Nov 15 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Idaho](https://jobright.ai/jobs/info/6737ca7c569d13879f014472?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Nov 15 |
 | ↳ | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6737ca7c569d13879f014476?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6737b969242b801a42bf2eb9?utm_campaign=1050&utm_source=git)** | Boerne, TX | On Site | Nov 15 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Supply Chain Intern (Summer 2025) (Onsite)](https://jobright.ai/jobs/info/6737bd1519e0150aaba6fd11?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Purchasing and Supply Chain](https://jobright.ai/jobs/info/6737ad4263ec7b7e7e5167a5?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Nov 15 |
-| **[L3Harris Technologies](https://www.l3harris.com/)** | **[Intern D, Configuration Mgmt (Anaheim, CA)](https://jobright.ai/jobs/info/673828f5c064bf6211d9aae5?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

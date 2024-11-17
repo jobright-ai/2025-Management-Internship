@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Strategy and Operations MBA Intern (Monetization Product)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45f76?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 17 |
+| ↳ | **[Trust & Safety MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f460b5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
+| **[ByteDance](http://bytedance.com)** | **[Real Estate Location Strategy Intern (Corporate Service) - 2024 Project Intern (BS/MS)](https://jobright.ai/jobs/info/673a1b893e74b31448975f00?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Logistics Operations Intern (TikTok Shop - Network Design & Operations Analytics) - 2025 Summer Start (BS/MS)](https://jobright.ai/jobs/info/6739facc9ee526ed59f43873?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e2023b45b688e7b70f485?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Nov 17 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/66e4ca469594f18f85da01e2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
 | **[Bell Partners Inc](http://www.bellpartnersinc.com/)** | **[Operations Internship, Superior, CO](https://jobright.ai/jobs/info/6739d355aa97f2b6b48b9184?utm_campaign=1050&utm_source=git)** | Superior, CO | On Site | Nov 17 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/66e49929ec7211c70f4a9aae?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
@@ -80,11 +85,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Supply Chain Intern - Baltimore MD - R10177369](https://jobright.ai/jobs/info/6738f32a2604b1f6c468619f?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 16 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6738dcfaaf37d7d6b548e595?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 16 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2025](https://jobright.ai/jobs/info/6738cffe7458167a7f6cfef9?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Nov 16 |
+| **[Seagate Technology](http://www.seagate.com)** | **[IT Communications Intern](https://jobright.ai/jobs/info/673a1ebd7da2e1f677e1a6d0?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Nov 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations Program - Rhode Island (Summer 2025)](https://jobright.ai/jobs/info/6738eb2c359314183f2d725c?utm_campaign=1050&utm_source=git)** | West Greenwich, RI | On Site | Nov 16 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/6738bbfcf36784fa8c35a4a4?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Rensselaer Polytechnic Institute](https://jobright.ai/jobs/info/6738d2cc20f3adf7ee45268e?utm_campaign=1050&utm_source=git)** | Troy, NY | On Site | Nov 16 |
 | ↳ | **[Operations Intern - CSU, Long Beach](https://jobright.ai/jobs/info/6738bbfcf36784fa8c35a4ab?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Nov 16 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6739feca2f2dc6bafdf26d5c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Nov 16 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Program Planning and Scheduling Analyst - Northridge CA](https://jobright.ai/jobs/info/6738b5bc3ea97f2c2528b407?utm_campaign=1050&utm_source=git)** | Northridge, CA | On Site | Nov 16 |
+| **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Development Intern New Projects Summer 2025](https://jobright.ai/jobs/info/66f207a461c467f7d35fd172?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Nov 16 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e863?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Nov 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Internship - Facility Management/CARB](https://jobright.ai/jobs/info/671c04d29d58c4ea32b9d7c9?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Nov 16 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship - Corporate Real Estate/Facilities](https://jobright.ai/jobs/info/66e4681942a2a3d5bb30ac0d?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Nov 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deba0?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
 | ↳ | **[Operations Intern - University of North Florida](https://jobright.ai/jobs/info/6737d0c1194f23d6695deaec?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 15 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de982?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de97c?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6737cd8e715f954db4744b48?utm_campaign=1050&utm_source=git)** | Kotzebue, AK | On Site | Nov 15 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/6737cd8e715f954db4744b7a?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
-| **[Clark Insurance](https://www.clarkinsurance.com/)** | **[Oliver Wyman - Intern - Paris](https://jobright.ai/jobs/info/6737cd8e715f954db4744b95?utm_campaign=1050&utm_source=git)** | Paris, TX | On Site | Nov 15 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Idaho](https://jobright.ai/jobs/info/6737ca7c569d13879f014472?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Nov 15 |
-| ↳ | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6737ca7c569d13879f014476?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 15 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6737ca7c569d13879f014491?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship - Myrtle Beach](https://jobright.ai/jobs/info/6737be6c162e47cec4a3285c?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

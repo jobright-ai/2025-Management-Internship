@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buckingham Companies](http://buckingham.com)** | **[Internship May 2025](https://jobright.ai/jobs/info/67392df811ed5e03c5ef6b1d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Nov 16 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/6739103e1bd1525600c8d170?utm_campaign=1050&utm_source=git)** | Smyrna, DE | On Site | Nov 16 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67391af1590622865aec0766?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 16 |
+| ↳ | **[Operations Intern -   University of Wisconsin - Stout](https://jobright.ai/jobs/info/67391af1590622865aec07b9?utm_campaign=1050&utm_source=git)** | Menomonie, WI | On Site | Nov 16 |
+| **[Kiva](http://kiva.org)** | **[U.S Operations Intern](https://jobright.ai/jobs/info/673900c3977a1e5960f31f88?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Supply Chain Intern - Baltimore MD - R10177373](https://jobright.ai/jobs/info/6738eae0656bafec217cdc60?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 16 |
 | ↳ | **[2025 Intern Business Management - R10177355](https://jobright.ai/jobs/info/6738eae0656bafec217cdc59?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Nov 16 |
 | ↳ | **[2025 Supply Chain Intern - Baltimore MD - R10177367](https://jobright.ai/jobs/info/6738f32a2604b1f6c4686199?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 16 |
-| ↳ | **[2025 Intern Business Management - R10177274](https://jobright.ai/jobs/info/6738f32a2604b1f6c46861a0?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Nov 16 |
 | ↳ | **[International Industrial Engagement and Offset Manager 2 - R10177046](https://jobright.ai/jobs/info/6738eae0656bafec217cdc6b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Nov 16 |
 | ↳ | **[2025 Supply Chain Intern - Baltimore MD - R10177063](https://jobright.ai/jobs/info/6738f32a2604b1f6c46861a2?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 16 |
 | ↳ | **[2025 Supply Chain Intern - Baltimore MD - R10177369](https://jobright.ai/jobs/info/6738f32a2604b1f6c468619f?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 16 |
@@ -72,10 +76,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - CSU, Long Beach](https://jobright.ai/jobs/info/6738bbfcf36784fa8c35a4ab?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Nov 16 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Associate Program Planning and Scheduling Analyst - Northridge CA](https://jobright.ai/jobs/info/6738b5bc3ea97f2c2528b407?utm_campaign=1050&utm_source=git)** | Northridge, CA | On Site | Nov 16 |
 | **[UnityPoint Health](http://www.unitypoint.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e863?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Nov 16 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship - Corporate Real Estate/Facilities](https://jobright.ai/jobs/info/66e4681942a2a3d5bb30ac0d?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Nov 16 |
+| **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2025)](https://jobright.ai/jobs/info/66c8626bf7155ef72a24010e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 16 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805c93?utm_campaign=1050&utm_source=git)** | Juliette, GA | On Site | Nov 16 |
 | **[Meta](https://www.metacareers.com/)** | **[Technical Program Manager Intern, Hardware](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31de?utm_campaign=1050&utm_source=git)** | Menlo Park, CA | On Site | Nov 16 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805cb4?utm_campaign=1050&utm_source=git)** | Columbus, GA | On Site | Nov 16 |
 | **[Brown & Brown Insurance](http://www.bbinsurance.com/)** | **[Corporate Internship](https://jobright.ai/jobs/info/67388f4fa61a9e5e46efadd4?utm_campaign=1050&utm_source=git)** | Daytona Beach, FL | On Site | Nov 16 |
+| **[Amazon](https://amazon.com)** | **[2025 Supply Chain Manager Intern](https://jobright.ai/jobs/info/671c8ea9249f6ce04e19df56?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 16 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Program Manager (AI & Digital Transformation)](https://jobright.ai/jobs/info/66e4c6bcc065adacdcb10d65?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Nov 16 |
 | **[Trumid](https://www.trumid.com)** | **[Trumid 2025 Summer Internship Program](https://jobright.ai/jobs/info/67388ecae26cee3a04b96936?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Nov 16 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - Spring 2025 - Cincinnati, OH](https://jobright.ai/jobs/info/6700b254a88e5bd1de097e10?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 16 |
@@ -106,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6737f59fb444791c5246a5fd?utm_campaign=1050&utm_source=git)** | Plymouth, MI | On Site | Nov 15 |
 | **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Project Coordinator Intern - Summer 2025](https://jobright.ai/jobs/info/6737ee5df7eefca392209ea1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6737e878f443feae4fc9eaa8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2025 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/671a85a808dcfc93ba30ccb5?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 15 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2025](https://jobright.ai/jobs/info/6737d2939325e2ec27f27d6d?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Nov 15 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Purchasing and Supply Chain](https://jobright.ai/jobs/info/6737ddd49cbcd1bffa74ba28?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Nov 15 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Administrative Assistant](https://jobright.ai/jobs/info/6737e7764a5a7d93337eee46?utm_campaign=1050&utm_source=git)** | La Porte, IN | On Site | Nov 15 |
@@ -130,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Administrative Assistant](https://jobright.ai/jobs/info/6737d0c1194f23d6695deb9e?utm_campaign=1050&utm_source=git)** | Michigan City, IN | On Site | Nov 15 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/6737d0c1194f23d6695de94d?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
 | ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deb9f?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Nov 15 |
-| ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deba0?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
 | ↳ | **[Operations Intern - University of North Florida](https://jobright.ai/jobs/info/6737d0c1194f23d6695deaec?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 15 |
+| ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deba0?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de982?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de97c?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6737cd8e715f954db4744b48?utm_campaign=1050&utm_source=git)** | Kotzebue, AK | On Site | Nov 15 |
@@ -140,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Idaho](https://jobright.ai/jobs/info/6737ca7c569d13879f014472?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Nov 15 |
 | ↳ | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6737ca7c569d13879f014476?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 15 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/6737ca7c569d13879f014491?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship - Myrtle Beach](https://jobright.ai/jobs/info/6737be6c162e47cec4a3285c?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 15 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Operations Analyst - Year Up](https://jobright.ai/jobs/info/6737c543a481945ab27d688c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 15 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6737c53ce12bd1bd242ddd8c?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Nov 15 |
 | **[Lumentum](https://www.lumentum.com/en)** | **[Web Redesign Project Management Intern](https://jobright.ai/jobs/info/6737c1b41084bf637c248c57?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Supply Chain Intern (Summer 2025) (Onsite)](https://jobright.ai/jobs/info/6737bd1519e0150aaba6fd11?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Nov 15 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Purchasing and Supply Chain](https://jobright.ai/jobs/info/6737ad4263ec7b7e7e5167a5?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Nov 15 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Intern D, Configuration Mgmt (Anaheim, CA)](https://jobright.ai/jobs/info/673828f5c064bf6211d9aae5?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Nov 15 |
-| **[onsemi](http://www.onsemi.com)** | **[Corporate Strategy Intern Spring 2025](https://jobright.ai/jobs/info/6737a7bac9cf3a420f646bc8?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 15 |
-| **[L3Harris Technologies](https://www.l3harris.com/)** | **[Intern D, Configuration Mgmt (Mason, OH)](https://jobright.ai/jobs/info/6737a39cc98019176ba48da1?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Nov 15 |
-| **[Danone](https://www.danone.com/)** | **[Nature, Mission and Sustainability, MBA Intern](https://jobright.ai/jobs/info/6737ae2430dce9d353d4217e?utm_campaign=1050&utm_source=git)** | Louisville, CO | On Site | Nov 15 |
-| ↳ | **[Nature, Mission and Sustainability, MBA Intern](https://jobright.ai/jobs/info/6737ae2430dce9d353d421f4?utm_campaign=1050&utm_source=git)** | White Plains, NY | On Site | Nov 15 |
-| **[Midmark Corporation](http://www.midmark.com/)** | **[Logistics Coordinator Intern (Spring 2025)](https://jobright.ai/jobs/info/6737ac1fa02145cd1a92833e?utm_campaign=1050&utm_source=git)** | Versailles, OH | On Site | Nov 15 |
-| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[HEI Hotels and Resorts Internship - Food & Beverage (Outlets)](https://jobright.ai/jobs/info/6737a943d3219f92bf9735b4?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 15 |
-| **[Medtronic](https://www.medtronic.com)** | **[2025 MBA LDRP Summer Internship](https://jobright.ai/jobs/info/6737eea7371442c9de3f3e15?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

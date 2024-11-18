@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Trust & Safety MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f460b5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | **[ByteDance](http://bytedance.com)** | **[Real Estate Location Strategy Intern (Corporate Service) - 2024 Project Intern (BS/MS)](https://jobright.ai/jobs/info/673a1b893e74b31448975f00?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Logistics Operations Intern (TikTok Shop - Network Design & Operations Analytics) - 2025 Summer Start (BS/MS)](https://jobright.ai/jobs/info/6739facc9ee526ed59f43873?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/6738b54b01d508d2af723869?utm_campaign=1050&utm_source=git)** | Carlisle, PA | On Site | Nov 17 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e2023b45b688e7b70f485?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Nov 17 |
 | **[Origami Risk](http://www.origamirisk.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/66e4ca469594f18f85da01e2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
 | **[Bell Partners Inc](http://www.bellpartnersinc.com/)** | **[Operations Internship, Superior, CO](https://jobright.ai/jobs/info/6739d355aa97f2b6b48b9184?utm_campaign=1050&utm_source=git)** | Superior, CO | On Site | Nov 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/6737d0c1194f23d6695de94d?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
 | ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deb9f?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Nov 15 |
 | ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deba0?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
-| ↳ | **[Operations Intern - University of North Florida](https://jobright.ai/jobs/info/6737d0c1194f23d6695deaec?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

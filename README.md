@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benny's Car Wash](http://www.bennyscarwash.com)** | **[Management Internship](https://jobright.ai/jobs/info/673a48165e38c174be0077df?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Nov 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy and Operations MBA Intern (Monetization Product)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45f76?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 17 |
 | ↳ | **[Trust & Safety MBA Intern (TikTok Shop - Governance and Experience) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f460b5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | **[ByteDance](http://bytedance.com)** | **[Real Estate Location Strategy Intern (Corporate Service) - 2024 Project Intern (BS/MS)](https://jobright.ai/jobs/info/673a1b893e74b31448975f00?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 17 |
@@ -70,10 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Novelis](http://novelis.com)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/671d57602fd46857a2f02156?utm_campaign=1050&utm_source=git)** | Oswego, NY | On Site | Nov 17 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern - Documentation Specialist](https://jobright.ai/jobs/info/6739a8d955b4a34beeb94547?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 16 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[HEI Hotels and Resorts Internship - Food & Beverage (Outlets)](https://jobright.ai/jobs/info/67399c4000378e6b47215da4?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 16 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant HawkReach Counseling, Tahlequah](https://jobright.ai/jobs/info/67396e288d89aec26ff1c66a?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 16 |
 | **[Warp](https://www.warp.dev)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6739635edf4c2fc995a1d177?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 16 |
 | **[Buckingham Companies](http://buckingham.com)** | **[Internship May 2025](https://jobright.ai/jobs/info/67392df811ed5e03c5ef6b1d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Nov 16 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/6739103e1bd1525600c8d170?utm_campaign=1050&utm_source=git)** | Smyrna, DE | On Site | Nov 16 |
+| **[Green Plains Inc.](http://www.gpreinc.com)** | **[Strategy Analyst Intern Fall 2024](https://jobright.ai/jobs/info/6700693a65ee9e8b312ad220?utm_campaign=1050&utm_source=git)** | Omaha Metropolitan Area | Hybrid | Nov 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67391af1590622865aec0766?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 16 |
 | ↳ | **[Operations Intern -   University of Wisconsin - Stout](https://jobright.ai/jobs/info/67391af1590622865aec07b9?utm_campaign=1050&utm_source=git)** | Menomonie, WI | On Site | Nov 16 |
 | **[Kiva](http://kiva.org)** | **[U.S Operations Intern](https://jobright.ai/jobs/info/673900c3977a1e5960f31f88?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deb9f?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Nov 15 |
 | ↳ | **[Operations Intern - University of Tennessee, Knoxville](https://jobright.ai/jobs/info/6737d0c1194f23d6695deba0?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Nov 15 |
 | ↳ | **[Operations Intern - University of North Florida](https://jobright.ai/jobs/info/6737d0c1194f23d6695deaec?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 15 |
-| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern Paid Internship](https://jobright.ai/jobs/info/6737d0c1194f23d6695de982?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

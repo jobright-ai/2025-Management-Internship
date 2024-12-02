@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer- Project Management Assistant Intern/Co-Op](https://jobright.ai/jobs/info/674da72ac5c36a01ae141311?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Dec 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/674db8b355e125f471352de3?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Dec 02 |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship - Procurement Intern - Plainsboro, NJ (USA)](https://jobright.ai/jobs/info/674d9c8c3392750c0027defa?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Dec 02 |
+| **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/674d8aa55eda1a0222bc0189?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Dec 02 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/674d8b3c991c20126a68e678?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
 | **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Operations Supervisor](https://jobright.ai/jobs/info/674d704c2081dfa2c1480852?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Dec 01 |
 | **[Amadeus](http://www.amadeus.com)** | **[Technical Program & Project Management Intern](https://jobright.ai/jobs/info/674d70409b91389683a825b7?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 01 |
 | **[Cencora](http://www.cencora.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/674d70409b91389683a825d3?utm_campaign=1050&utm_source=git)** | Browns Summit, NC | On Site | Dec 01 |
@@ -81,18 +86,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Healthcare Intern - Greater Silicon Valley Division (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d3b?utm_campaign=1050&utm_source=git)** | Los Altos, CA | On Site | Dec 01 |
 | ↳ | **[Administrative Healthcare Intern - Greater East Bay Division (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d3d?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Dec 01 |
 | ↳ | **[Administrative Healthcare Intern - Greater Sacramento Division (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6f159c6ca8d044de25cd?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Dec 01 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- MO, IL, MI, WI, IN](https://jobright.ai/jobs/info/66c5296b724e1337930862bf?utm_campaign=1050&utm_source=git)** | Riverside, MO | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- SD, ND, KS, NE, MN, IA](https://jobright.ai/jobs/info/66c5296b724e1337930862a7?utm_campaign=1050&utm_source=git)** | Bondurant, IA | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025 - SC, NC, VA, MD](https://jobright.ai/jobs/info/674c8361140cd65c03cf302d?utm_campaign=1050&utm_source=git)** | Montgomery County, MD | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- MO, IL, MI, WI, IN](https://jobright.ai/jobs/info/674c8361140cd65c03cf3013?utm_campaign=1050&utm_source=git)** | Liberty, MO | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- SD, ND, KS, NE, MN, IA](https://jobright.ai/jobs/info/66c5296b724e1337930862b1?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/66c5296b724e1337930862c6?utm_campaign=1050&utm_source=git)** | Temple Terrace, FL | On Site | Dec 01 |
-| ↳ | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/674c80999de795829f0db49a?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Dec 01 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712ba10ba66b2270adc6d7f?utm_campaign=1050&utm_source=git)** | Stewartville, MN | On Site | Dec 01 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/674c80999de795829f0db49a?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/674c80999de795829f0db497?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025 - SC, NC, VA, MD](https://jobright.ai/jobs/info/674c80999de795829f0db49d?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/66c523e212d108705b497772?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Dec 01 |
-| ↳ | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/66c5296b724e1337930862cc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/66c5296b724e1337930862ab?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Dec 01 |
+| ↳ | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/66c5296b724e1337930862cc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 01 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/66c523e212d108705b497771?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Dec 01 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6712e0855acd5a768c253be8?utm_campaign=1050&utm_source=git)** | Bartlett, IL | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - CT, DE, MA, NH, NJ, NY, PA, RI](https://jobright.ai/jobs/info/66c523e212d108705b497773?utm_campaign=1050&utm_source=git)** | North Andover, MA | On Site | Dec 01 |
@@ -125,9 +132,10 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99886 Administrative Secretary](https://jobright.ai/jobs/info/674b353e86614fa7de572c2a?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Nov 30 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Commercial Excellence Summer Intern](https://jobright.ai/jobs/info/672e67c6b716670576968f15?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Nov 30 |
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Internship(Summer 2025)-Rolling Stock](https://jobright.ai/jobs/info/674b1264541a0a49c51874f7?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Nov 30 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/66c5296b724e1337930862be?utm_campaign=1050&utm_source=git)** | Hebron, KY | On Site | Nov 30 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/66c5296b724e1337930862b3?utm_campaign=1050&utm_source=git)** | Etna, OH | On Site | Nov 30 |
+| ↳ | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/66c5296b724e1337930862be?utm_campaign=1050&utm_source=git)** | Hebron, KY | On Site | Nov 30 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- MO, IL, MI, WI, IN](https://jobright.ai/jobs/info/66c5296b724e1337930862af?utm_campaign=1050&utm_source=git)** | Channahon, IL | On Site | Nov 30 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66f5e9e3705f0014d2e49106?utm_campaign=1050&utm_source=git)** | Richmond, TX | On Site | Nov 30 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66f5e9e3705f0014d2e49106?utm_campaign=1050&utm_source=git)** | Richmond, TX | On Site | Nov 30 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/66c5296b724e1337930862aa?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Nov 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - GTM Strategy Manager](https://jobright.ai/jobs/info/6740274760141ee14ce4113d?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 30 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship Spring 2025](https://jobright.ai/jobs/info/66f5a4a79bad87b4de04936f?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Nov 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern – Operations Strategy](https://jobright.ai/jobs/info/6711d30b4a12706420f49dce?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Nov 30 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/674af73b199f676c45f5d4a1?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 30 |
 | **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/674af3af2e771cc432c946cc?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
-| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer Undergraduate Intern/Co-op - Operations Planner](https://jobright.ai/jobs/info/67116e90974547fdf92791f3?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Nov 30 |
-| **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2025](https://jobright.ai/jobs/info/674af7821a4f873b45839bb9?utm_campaign=1050&utm_source=git)** | Coolidge, KS | On Site | Nov 30 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern- Supply Management Analyst](https://jobright.ai/jobs/info/66f695127db7921d45ace7e5?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Nov 30 |
-| **[Hess Corporation](http://www.hess.com)** | **[Supply Chain Summer Intern 2025 (Houston, TX)](https://jobright.ai/jobs/info/674aed76ccbf25ae0e08c721?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 30 |
-| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern, Supply Chain Operations (MK)](https://jobright.ai/jobs/info/672e51fd965e0a0138b0132c?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Nov 30 |
-| **[Canvas, Inc.](https://www.canvas-inc.com/)** | **[Summer Project Management Support Intern](https://jobright.ai/jobs/info/674adaf82a2d9edc89f639f3?utm_campaign=1050&utm_source=git)** | Tullahoma, TN | On Site | Nov 30 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations - Massachusetts (Summer 2025)](https://jobright.ai/jobs/info/66d89bcd48071beecbdd3502?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Nov 29 |
-| **[Uline](http://www.uline.com)** | **[Logistics Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672ccc0735027cccd5e8e56f?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Planner Buyer Intern](https://jobright.ai/jobs/info/674e7aef862162d200bbc9ec?utm_campaign=1050&utm_source=git)** | Henderson, CO | Hybrid | Dec 02 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/674e793ab7321a9aab42fa00?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Dec 02 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - Cape Girardeau, MO](https://jobright.ai/jobs/info/674e79dde6a5b665f02e095b?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO | On Site | Dec 02 |
+| ↳ | **[Management Trainee Intern - Summer 2025](https://jobright.ai/jobs/info/674e79dde6a5b665f02e0973?utm_campaign=1050&utm_source=git)** | Elyria, OH | On Site | Dec 02 |
+| ↳ | **[Supply Chain Management Internship - Summer 2025](https://jobright.ai/jobs/info/674e79dde6a5b665f02e0992?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 02 |
+| **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern – Restaurant Operations (Summer 2025)](https://jobright.ai/jobs/info/674e76661417c381a0dfd7e8?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Dec 02 |
+| **[Valon](https://www.valon.com)** | **[Business Operations Intern (Fannie Mae Future Housing Leaders Program)](https://jobright.ai/jobs/info/674e6c33c13a7859ed3c8594?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/674e7342f13adb5684f268b5?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Dec 02 |
+| **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Strategic Operations Intern (Wintersession)](https://jobright.ai/jobs/info/674e607ff9bb5a88336ceb1c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Valon](https://www.valon.com)** | **[Business Operations Intern (Fannie Mae Future Housing Leaders Program) ](https://jobright.ai/jobs/info/674e4e442576e89acbae66f8?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 02 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2025](https://jobright.ai/jobs/info/674e4b640d14017767d32698?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Dec 02 |
 | **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Project Management Office (PMO), HBCU Pathways Internship](https://jobright.ai/jobs/info/674e466daca75bc3e365d73b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
@@ -80,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/674e304a4afc27818db459e4?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Dec 02 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/674e304a4afc27818db459e6?utm_campaign=1050&utm_source=git)** | Hattiesburg, MS | On Site | Dec 02 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/674e304a4afc27818db459e7?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Dec 02 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Redwoods Summer Analyst](https://jobright.ai/jobs/info/674e2f643c9b58a4811978d9?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Dec 02 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/674e2c2b2804d8d554c0775a?utm_campaign=1050&utm_source=git)** | Byron Center, MI | On Site | Dec 02 |
 | **[NJI](https://www.njimedia.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/674e1ea367b3754b21c066a1?utm_campaign=1050&utm_source=git)** | Alexandria, VA | Remote | Dec 02 |
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2025 Summer Intern - Financial Systems](https://jobright.ai/jobs/info/674e2c2b2804d8d554c07650?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 02 |
@@ -104,9 +112,9 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/674df73aefc908c23e364f56?utm_campaign=1050&utm_source=git)** | Monroe, NJ | On Site | Dec 02 |
 | **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[ADMINISTRATIVE INTERN](https://jobright.ai/jobs/info/674dfa847b9c4d81764e5bc5?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Dec 02 |
 | **[Freese and Nichols](http://www.freese.com)** | **[2024 Winter Internship - Transportation](https://jobright.ai/jobs/info/674dec59a8d68e90846b3b7a?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 02 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations Manager Intern - Orlando Airport -  Spring or Summer 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db18bd?utm_campaign=1050&utm_source=git)** | Orlando International Airport | On Site | Dec 02 |
+| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations Manager Intern - Tampa Airport  -  Summer 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db18c7?utm_campaign=1050&utm_source=git)** | Tampa International Airport | On Site | Dec 02 |
 | ↳ | **[Accelerate Operations Manager Intern - Jacksonville Airport - Summer 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db18bb?utm_campaign=1050&utm_source=git)** | Jacksonville International Airport | On Site | Dec 02 |
-| ↳ | **[Accelerate Operations Manager Intern - Tampa Airport  -  Summer 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db18c7?utm_campaign=1050&utm_source=git)** | Tampa International Airport | On Site | Dec 02 |
+| ↳ | **[Accelerate Operations Manager Intern - Orlando Airport -  Spring or Summer 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db18bd?utm_campaign=1050&utm_source=git)** | Orlando International Airport | On Site | Dec 02 |
 | ↳ | **[Accelerate Operations Manager Intern - Miami Airport - Summer 2025](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db18d4?utm_campaign=1050&utm_source=git)** | Miami International Airport | On Site | Dec 02 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern](https://jobright.ai/jobs/info/674ddf5e32a1a34b17db18e3?utm_campaign=1050&utm_source=git)** | 68 Mitchell Street SW, Atlanta, GA, 30303, US | On Site | Dec 02 |
 | **[Jabil](https://www.jabil.com)** | **[Corporate Sustainability Intern](https://jobright.ai/jobs/info/674de31c746e199c1c47b33a?utm_campaign=1050&utm_source=git)** | St Petersburg, FL | On Site | Dec 02 |
@@ -121,7 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/674dc2a2aa0b74c777980cb7?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 02 |
 | **[Saipem](http://www.saipem.com)** | **[Subcontract Intern](https://jobright.ai/jobs/info/674dbe5153cc97105a618ea9?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Dec 02 |
 | **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer- Project Management Assistant Intern/Co-Op](https://jobright.ai/jobs/info/674da72ac5c36a01ae141311?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Dec 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/674db8b355e125f471352de3?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Dec 02 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - WA, OR, ID, NV](https://jobright.ai/jobs/info/66c5296b724e1337930861d2?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Dec 02 |
+| ↳ | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/674db8b355e125f471352de3?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Dec 02 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship - Procurement Intern - Plainsboro, NJ (USA)](https://jobright.ai/jobs/info/674d9c8c3392750c0027defa?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Dec 02 |
 | **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/674d8aa55eda1a0222bc0189?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Dec 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/674d8b3c991c20126a68e678?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2025](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268d12?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Dec 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 MBA Intern, R&D Strategy](https://jobright.ai/jobs/info/674c83b216409a458790af15?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Dec 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7f?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Dec 01 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99886 Administrative Secretary](https://jobright.ai/jobs/info/674c83b216409a458790b04f?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Dec 01 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdadf?utm_campaign=1050&utm_source=git)** | Corbin, KY | On Site | Dec 01 |
-| **[Sutter Health](http://www.sutterhealth.org)** | **[Administrative Healthcare Intern - Sutter Care At Home (SCAH) - (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d36?utm_campaign=1050&utm_source=git)** | Concord, CA | On Site | Dec 01 |
-| ↳ | **[Administrative Healthcare Intern - Greater San Francisco Division (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d37?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Dec 01 |
-| ↳ | **[Administrative Healthcare Intern - Greater Central Valley Division (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d41?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Dec 01 |
-| ↳ | **[Administrative Healthcare Intern - System Service Lines (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d43?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Dec 01 |
-| ↳ | **[Administrative Healthcare Intern - Behavioral Health Service Line (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d48?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Dec 01 |
-| ↳ | **[Administrative Healthcare Intern - Greater Silicon Valley Division (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d3b?utm_campaign=1050&utm_source=git)** | Los Altos, CA | On Site | Dec 01 |
-| ↳ | **[Administrative Healthcare Intern - Greater East Bay Division (May 2025 - August 2025)](https://jobright.ai/jobs/info/674c6703297ce304a48c5d3d?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

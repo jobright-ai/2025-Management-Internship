@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG FUELS](https://aegfuels.com)** | **[Intern (FL, USA)](https://jobright.ai/jobs/info/674efd5d164e1c3741db3c8f?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | Hybrid | Dec 03 |
+| **[Atlanta Braves](http://atlanta.braves.mlb.com/index.jsp?c_id=atl)** | **[2025 Spring Training Internships (North Port, FL)](https://jobright.ai/jobs/info/674f022788e8b1ad069accf5?utm_campaign=1050&utm_source=git)** | North Port, FL | On Site | Dec 03 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Medical Planning Intern](https://jobright.ai/jobs/info/674eed32f89ace15875f568a?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 03 |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Meetings & Events Intern](https://jobright.ai/jobs/info/6727e986d1f67ab2713f1853?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Dec 03 |
+| **[ASML](https://www.asml.com)** | **[Internship - Product Lifecycle Management](https://jobright.ai/jobs/info/674ef1ec40783365266a83ff?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Dec 03 |
+| **[Rausch Coleman Homes](https://rauschcolemanhomes.com)** | **[Internship - Oklahoma City Field Management Intern](https://jobright.ai/jobs/info/674ee25315265c573835a9b7?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Dec 03 |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Global Supply Chain & Technical Operations](https://jobright.ai/jobs/info/674ef1ec40783365266a8432?utm_campaign=1050&utm_source=git)** | Radnor, PA | On Site | Dec 03 |
+| ↳ | **[Intern - Clinical Operations](https://jobright.ai/jobs/info/674ef1ec40783365266a8438?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Dec 03 |
+| **[Ball Corporation](http://ball.com)** | **[Intern, Supply Chain Planning & Execution](https://jobright.ai/jobs/info/674ee2354ab51dfd6c884a67?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Dec 03 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - Summer Internship 2025 - Quality and Performance Outcomes - R8015](https://jobright.ai/jobs/info/66fb21769ecad3fe7851bef4?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 03 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/674ed68818aa90112f4dbd4a?utm_campaign=1050&utm_source=git)** | Tamarac, FL | On Site | Dec 03 |
+| **[Dow](https://www.dowchemical.com)** | **[2024-2025 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/674ed56249ac288a32be80cd?utm_campaign=1050&utm_source=git)** | Ringwood, IL | On Site | Dec 03 |
 | **[Dow](https://www.dowchemical.com)** | **[2024-2025 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/674ec4adcb40c32aff5836b0?utm_campaign=1050&utm_source=git)** | Angleton, TX | On Site | Dec 02 |
 | ↳ | **[2024-2025 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/674ec4adcb40c32aff5836b1?utm_campaign=1050&utm_source=git)** | Greensburg, LA | On Site | Dec 02 |
 | ↳ | **[2024-2025 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/674ec4adcb40c32aff5836b2?utm_campaign=1050&utm_source=git)** | Kendallville, IN | On Site | Dec 02 |
@@ -91,12 +103,11 @@ For a complete list, click the following sortable link below:
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Summer Internship 2025- powered by Daymon](https://jobright.ai/jobs/info/674e46514b7ebcb880e18017?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Dec 02 |
 | ↳ | **[Summer Internship 2025- powered by Daymon](https://jobright.ai/jobs/info/674e46514b7ebcb880e18018?utm_campaign=1050&utm_source=git)** | Nashville Metro | On Site | Dec 02 |
 | ↳ | **[Summer Internship 2025- powered by Daymon](https://jobright.ai/jobs/info/674e37606b29332b35579e61?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Dec 02 |
-| **[City of Atlanta](https://www.atlantaga.gov/)** | **[Intern](https://jobright.ai/jobs/info/674e3c45fec2df29018eeaf9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
 | **[Schneider](https://schneider.com)** | **[Operations Intern- Summer 2025](https://jobright.ai/jobs/info/674e3e09acd20f49aee4deed?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 02 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e5fda?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Analytics: MBA Internship Opportunity](https://jobright.ai/jobs/info/674e33d68f9536b1d55e826e?utm_campaign=1050&utm_source=git)** | Redmond, Washington, United States | On Site | Dec 02 |
 | **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Summer Internship- CFO Advisory](https://jobright.ai/jobs/info/674e3c45fec2df29018eeb73?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Dec 02 |
 | **[McMaster-Carr](http://www.mcmaster.com)** | **[Summer 2025 MBA Internship: Leadership, Strategy & Operations-Cleveland](https://jobright.ai/jobs/info/674e34906214014a2428e8a7?utm_campaign=1050&utm_source=git)** | Greater Cleveland | On Site | Dec 02 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e5fda?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 02 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations Manager Intern - Fort Lauderdale Airport - Summer 2025](https://jobright.ai/jobs/info/674e22ca7822c723ce427cae?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | On Site | Dec 02 |
 | ↳ | **[Accelerate Operations Manager Intern - Orlando Airport - Spring or Summer 2025](https://jobright.ai/jobs/info/674e22ca7822c723ce427c9f?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 02 |
 | ↳ | **[Accelerate Operations Manager Intern - Tampa Airport - Summer 2025](https://jobright.ai/jobs/info/674e22ca7822c723ce427cab?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Renesas Electronics](https://www.renesas.com)** | **[Intern, Procurement](https://jobright.ai/jobs/info/674ddc8e3fb4f91425b6d2a3?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
 | ↳ | **[Intern, Procurement](https://jobright.ai/jobs/info/674ddc8e3fb4f91425b6d3d8?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 02 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/674dd8adebcf6f2fa01eb635?utm_campaign=1050&utm_source=git)** | Norristown, PA | On Site | Dec 02 |
-| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Supply Chain Internship Stock Order - Summer 2025](https://jobright.ai/jobs/info/674dd3bbe94fa4a1bb6e65f1?utm_campaign=1050&utm_source=git)** | Lititz, PA | On Site | Dec 02 |
-| **[ACT Group](https://actcommodities.com)** | **[Summer 2025 Operations Intern](https://jobright.ai/jobs/info/674dc469adf507a6cd6cf922?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 02 |
-| **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/674dc2a2aa0b74c777980cb7?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 02 |
-| **[Saipem](http://www.saipem.com)** | **[Subcontract Intern](https://jobright.ai/jobs/info/674dbe5153cc97105a618ea9?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Dec 02 |
-| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer- Project Management Assistant Intern/Co-Op](https://jobright.ai/jobs/info/674da72ac5c36a01ae141311?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Dec 02 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - WA, OR, ID, NV](https://jobright.ai/jobs/info/66c5296b724e1337930861d2?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Dec 02 |
-| ↳ | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/674db8b355e125f471352de3?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Dec 02 |
-| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship - Procurement Intern - Plainsboro, NJ (USA)](https://jobright.ai/jobs/info/674d9c8c3392750c0027defa?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Dec 02 |
-| **[CHS Inc.](http://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/66f8088cffd3f0a0f67ccf6b?utm_campaign=1050&utm_source=git)** | Circle, MT | Hybrid | Dec 02 |
-| **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/674d8aa55eda1a0222bc0189?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Dec 02 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/674d8b3c991c20126a68e678?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

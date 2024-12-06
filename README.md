@@ -57,8 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group, LLP (SIG)](sig.com)** | **[Operations Internship: Summer 2025](https://jobright.ai/jobs/info/6752e7b9d333d67f5571a510?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Dec 06 |
+| **[Jefferson Lab](https://www.jlab.org)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/66fdd6306a7427af25156b7d?utm_campaign=1050&utm_source=git)** | Newport News, VA | Hybrid | Dec 06 |
+| **[LP Building Solutions](http://www.lpcorp.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/6752ed5194b65299b1e7c278?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Dec 06 |
+| **[Bunge](http://www.bunge.com)** | **[Operations Leadership Intern](https://jobright.ai/jobs/info/673693a405b1e6cf0a4a7a85?utm_campaign=1050&utm_source=git)** | Sandston, VA | On Site | Dec 06 |
+| ↳ | **[Operations Leadership Intern](https://jobright.ai/jobs/info/67368b8fe289fdb4fd953992?utm_campaign=1050&utm_source=git)** | Danville, IL | On Site | Dec 06 |
+| ↳ | **[Operations Leadership Intern](https://jobright.ai/jobs/info/673693a405b1e6cf0a4a7a86?utm_campaign=1050&utm_source=git)** | Atchison, KS | On Site | Dec 06 |
+| **[Rincon Research Corporation](http://www.rincon.com)** | **[Summer Intern - 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e31b?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 06 |
+| ↳ | **[Summer Intern - 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e31e?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Dec 06 |
+| ↳ | **[Summer Intern - 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e320?utm_campaign=1050&utm_source=git)** | Chantilly, VA | On Site | Dec 06 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Supply Chain (Summer 2025)](https://jobright.ai/jobs/info/6752bea7412617fc01e58db6?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5a97f?utm_campaign=1050&utm_source=git)** | Bessemer, AL | On Site | Dec 06 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Redwoods Summer Analyst](https://jobright.ai/jobs/info/6752ede981e13efdf8c9b84c?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Dec 06 |
 | **[L.A. Care Health Plan](http://www.lacare.org/)** | **[Student Intern (Enterprise and Network Oversight Clinical Operations)](https://jobright.ai/jobs/info/6752bcea1867388a5bd51441?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 06 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6752e5d649fce653a69d02b8?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Dec 06 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/6752c8538ec36f832aeba503?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Dec 06 |
+| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Facilities Coordinator Intern/Student Worker](https://jobright.ai/jobs/info/6752c8538ec36f832aeba1b3?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Dec 06 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2025 Summer Operations Leaf Intern- Undergraduate](https://jobright.ai/jobs/info/6752b75d4965f007b8a9ce27?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Dec 06 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations Program - Rhode Island (Summer 2025)](https://jobright.ai/jobs/info/6752bea7412617fc01e58d71?utm_campaign=1050&utm_source=git)** | West Greenwich, RI | On Site | Dec 06 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Development Graduate Summer Associate](https://jobright.ai/jobs/info/6752afee22c5c95daefdf860?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Dec 05 |
@@ -82,15 +96,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a422?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a425?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a377?utm_campaign=1050&utm_source=git)** | Twinsburg, OH | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a42b?utm_campaign=1050&utm_source=git)** | Danville, VA | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a42c?utm_campaign=1050&utm_source=git)** | Clovis, CA | On Site | Dec 05 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a42b?utm_campaign=1050&utm_source=git)** | Danville, VA | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a42f?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a430?utm_campaign=1050&utm_source=git)** | Arlington Heights, IL | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a431?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a432?utm_campaign=1050&utm_source=git)** | Kahului, HI | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a435?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a434?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a433?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Dec 05 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a434?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Dec 05 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a435?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a436?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a437?utm_campaign=1050&utm_source=git)** | Pollock Pines, CA | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752639aa34201362b97a438?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Dec 05 |
@@ -115,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/675232c86ef56a79e3b5b639?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Dec 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/67522c1070ef7055a01792d6?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Dec 05 |
 | **[ALLY Energy](http://www.allyenergy.com)** | **[NV) 2025 Co-op Internship (Minden, Opportunities Spring Management Project](https://jobright.ai/jobs/info/6752292166064d97ff0cd83b?utm_campaign=1050&utm_source=git)** | Minden, NV | On Site | Dec 05 |
-| **[Cintas](http://www.cintas.com)** | **[Intern - Distribution Center](https://jobright.ai/jobs/info/675253af4c2a6e582e955a5b?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Distribution Center](https://jobright.ai/jobs/info/675253af4c2a6e582e955a5b?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
 | **[Dow](https://www.dowchemical.com)** | **[2024-2025 US Operations Intern/Co-op STEM Majors](https://jobright.ai/jobs/info/6752c439b5b42314a4dc1dad?utm_campaign=1050&utm_source=git)** | Elizabethtown, KY | On Site | Dec 05 |
 | **[Applied Industrial Technologies](http://www.applied.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6752343f5e63f0ce6793c134?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 05 |
 | **[Dow](https://www.dowchemical.com)** | **[2024-2025 US Operations Intern/Co-op STEM Majors](https://jobright.ai/jobs/info/67523fc23e673205f90a2359?utm_campaign=1050&utm_source=git)** | Kendallville, IN | On Site | Dec 05 |
@@ -141,20 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2025 Global Services Internship](https://jobright.ai/jobs/info/67521bef1247690bcc3f2c3f?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | Dec 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc9420?utm_campaign=1050&utm_source=git)** | Belleville, IL | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc9423?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Dec 05 |
+| ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc942b?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 05 |
 | ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc9412?utm_campaign=1050&utm_source=git)** | Chico, CA | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc9438?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc943a?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67529ea3f7d4eca108cc943d?utm_campaign=1050&utm_source=git)** | Hanford, CA | On Site | Dec 05 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Care Management Operations Intern](https://jobright.ai/jobs/info/67521766642dca09cf727284?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 05 |
-| **[Dow](https://www.dowchemical.com)** | **[2024-2025 US Operations Intern/Co-op STEM Majors](https://jobright.ai/jobs/info/6752c65aa44cc8e3b6c61691?utm_campaign=1050&utm_source=git)** | Kankakee, IL | On Site | Dec 05 |
-| ↳ | **[2024-2025 US Operations Intern/Co-op STEM Majors](https://jobright.ai/jobs/info/6752c65aa44cc8e3b6c61692?utm_campaign=1050&utm_source=git)** | Carrollton, KY | On Site | Dec 05 |
-| **[Applied Industrial Technologies LP - Canada](https://appliedcanada.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67521b30c32ec51fb3f67026?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 05 |
-| **[Paramount](https://www.paramount.com)** | **[MBA Internship Program (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67520e10c8300bc598c619dd?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 05 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern - Sustainability](https://jobright.ai/jobs/info/67521b30c32ec51fb3f67047?utm_campaign=1050&utm_source=git)** | Bronxville, NY | On Site | Dec 05 |
-| **[Genuine Parts Company](http://genpt.com)** | **[Technology Intern – Digital Operations- Summer 2025](https://jobright.ai/jobs/info/675216a7385a55baffdd6e0c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Dec 05 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6752c439b5b42314a4dc1daf?utm_campaign=1050&utm_source=git)** | College Park, MD | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6752c439b5b42314a4dc1db0?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | Dec 05 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67525059d10e29407b8137a5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
-| **[CIBC](https://www.cibc.com)** | **[Private Wealth Client Service- 2025 Summer Intern](https://jobright.ai/jobs/info/675232e0d7ba7d85d39e146a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 05 |
-| **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[SkillBridge Special Project Intern](https://jobright.ai/jobs/info/67521766642dca09cf7274eb?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

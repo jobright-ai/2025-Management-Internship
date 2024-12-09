@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6756047b9515a04ab113741e?utm_campaign=1050&utm_source=git)** | Mansfield, OH | On Site | Dec 08 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/67564f76d679673bc41aa56a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Dec 08 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67566184a6055be546761b6f?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 08 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67566184a6055be546761b31?utm_campaign=1050&utm_source=git)** | Norwalk, CA | On Site | Dec 08 |
+| ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6756047b9515a04ab113741e?utm_campaign=1050&utm_source=git)** | Mansfield, OH | On Site | Dec 08 |
 | **[State University of New York at Fredonia](http://www.fredonia.edu/)** | **[Administrative Assistant (Student)](https://jobright.ai/jobs/info/67560471b378b31cc2e35d4d?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Dec 08 |
 | **[Game Plus](https://www.formless.me)** | **[Operations Intern](https://jobright.ai/jobs/info/6755f5d914c50b1bb7ff0d31?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 08 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675601d5f5b185c3da3167a4?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Dec 08 |
@@ -66,8 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675601d5f5b185c3da3167ac?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675601d5f5b185c3da3167ad?utm_campaign=1050&utm_source=git)** | Farmingdale, NY | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675601d5f5b185c3da3167b6?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 08 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675601d5f5b185c3da3167b8?utm_campaign=1050&utm_source=git)** | West Islip, NY | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675601d5f5b185c3da3167b9?utm_campaign=1050&utm_source=git)** | West Babylon, NY | On Site | Dec 08 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675601d5f5b185c3da3167b8?utm_campaign=1050&utm_source=git)** | West Islip, NY | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6755f8522f94934eb35593c7?utm_campaign=1050&utm_source=git)** | Bowie, MD | On Site | Dec 08 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6755f8522f94934eb35593c9?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Dec 08 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[PMO Co-op Spring 2025](https://jobright.ai/jobs/info/6755e6b170fcdf2b2b47f816?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Dec 08 |
@@ -77,8 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/66e536406641534159805c93?utm_campaign=1050&utm_source=git)** | Juliette, GA | On Site | Dec 08 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - Spring 2025 - Dallas, TX](https://jobright.ai/jobs/info/6700b254a88e5bd1de097e18?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Dec 08 |
 | **[Meta](https://www.metacareers.com/)** | **[Technical Program Manager Intern, Hardware](https://jobright.ai/jobs/info/6738851616ef5bae9cbe31de?utm_campaign=1050&utm_source=git)** | Menlo Park, CA | On Site | Dec 08 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6755621db6857963daee7f9e?utm_campaign=1050&utm_source=git)** | Tewksbury, MA | On Site | Dec 07 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/675556d3f907fa3fbad1374c?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Dec 07 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/675556d3f907fa3fbad1374c?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Dec 07 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67555a1158ef56d6ac4da814?utm_campaign=1050&utm_source=git)** | Oceanside, CA | On Site | Dec 07 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/675530aac4e98872f225efb1?utm_campaign=1050&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6752bacaf6c32ed3a42444d8?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Dec 07 |
@@ -121,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments Operations Analyst)](https://jobright.ai/jobs/info/6753f238727ed4e5338e0de0?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Dec 06 |
 | **[DeAngelis Diamond](http://deangelisdiamond.com)** | **[Internships & Co-Ops Summer 2025](https://jobright.ai/jobs/info/66e1546bdd70aeb8c8046264?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Dec 06 |
 | **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern - Software & Hardware (Summer 2025)](https://jobright.ai/jobs/info/6753ed895b5d7828d5ab60b5?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Dec 06 |
-| **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/67551eed534ee843bf82f5dc?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
-| **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern - Software & Hardware (Summer 2025)](https://jobright.ai/jobs/info/6753ccf77b0ab57c8872e272?utm_campaign=1050&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 06 |
+| ↳ | **[Technical Program Manager Intern - Software & Hardware (Summer 2025)](https://jobright.ai/jobs/info/6753ccf77b0ab57c8872e272?utm_campaign=1050&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 06 |
 | **[UCAR - The University Corporation for Atmospheric Research](https://www.ucar.edu/)** | **[CISL Administrative Office Intern - Undergraduate Student](https://jobright.ai/jobs/info/6753d656d75d94b897c50d52?utm_campaign=1050&utm_source=git)** | Boulder, CO | Hybrid | Dec 06 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - Raleigh, North Carolina (Starting Summer 2025)](https://jobright.ai/jobs/info/6753cd29ec1edc337bb37e9a?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Dec 06 |
 | **[IMG Academy](https://www.imgacademy.com)** | **[Hospitality Operations Intern](https://jobright.ai/jobs/info/6753d656d75d94b897c50d4f?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Dec 06 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Graphic Packaging International, LLC](http://www.graphicpkg.com)** | **[Intern](https://jobright.ai/jobs/info/6753b2dbb7f98a29be6d2691?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Dec 06 |
 | **[Verus Specialty Insurance (a Berkley Company)](https://www.verusins.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/6753ccf77b0ab57c8872e338?utm_campaign=1050&utm_source=git)** | Glen Allen, VA | On Site | Dec 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Planning Intern](https://jobright.ai/jobs/info/6753adebfb239d9ad7214a54?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6753b88ac0b82779c56821c0?utm_campaign=1050&utm_source=git)** | Alameda, CA | On Site | Dec 06 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6753b88ac0b82779c56821c1?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6753b88ac0b82779c56821c1?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Dec 06 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6753b88ac0b82779c56821c0?utm_campaign=1050&utm_source=git)** | Alameda, CA | On Site | Dec 06 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[Distribution Summer 2025 Intern](https://jobright.ai/jobs/info/6753b0f0fac229db302454f5?utm_campaign=1050&utm_source=git)** | Smithfield, RI | On Site | Dec 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6754277f28e18257687738b1?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 06 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[Logistics Operations & Continuous Improvement Analyst Summer 2025 Intern](https://jobright.ai/jobs/info/6753a45499bec8a92ebc9cc4?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/67539ceb41bc7f37f25531f2?utm_campaign=1050&utm_source=git)** | Glen Allen, VA | On Site | Dec 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Planning Intern](https://jobright.ai/jobs/info/67537d2e80d343c02efbf72e?utm_campaign=1050&utm_source=git)** | United States-Missouri-Kansas City | On Site | Dec 06 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern based in Richmond VA](https://jobright.ai/jobs/info/675389cbc09c3c1f0407cb34?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 06 |
-| ↳ | **[HOH Program Intern-Operations Manager](https://jobright.ai/jobs/info/675389cbc09c3c1f0407cb33?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

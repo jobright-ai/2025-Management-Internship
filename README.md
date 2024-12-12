@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Supply Chain Planning Year Round Intern](https://jobright.ai/jobs/info/675b3670c2955de7348799e8?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Dec 12 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/675b3061fadff200c30c00de?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 12 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Logistics Intern (Summer 2025)](https://jobright.ai/jobs/info/675b2598df2dc9c6db715b3f?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Dec 12 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Project Management](https://jobright.ai/jobs/info/675b226b27d75763545f9e1c?utm_campaign=1050&utm_source=git)** | Michigan, United States | Hybrid | Dec 12 |
+| **[AF - Group](http://www.afgroup.com)** | **[Internship Project Management](https://jobright.ai/jobs/info/675b16656ce34479f7cb4e2c?utm_campaign=1050&utm_source=git)** | 200 N Grand Ave, Lansing, MI, 48901, US | On Site | Dec 12 |
+| **[Clarios](https://www.clarios.com/)** | **[Operations Intern (Summer 2025)](https://jobright.ai/jobs/info/675b13eff978ab876d88b336?utm_campaign=1050&utm_source=git)** | United States, Missouri, Saint Joseph | On Site | Dec 12 |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Hospitality in Healthcare Internship](https://jobright.ai/jobs/info/675b0fa4762e87789bfcd650?utm_campaign=1050&utm_source=git)** | 2000 Marcus Avenue, New Hyde Park, NY, 11042, US | On Site | Dec 12 |
+| **[Corewell Health](https://corewellhealth.org)** | **[Facilities Intern](https://jobright.ai/jobs/info/675b06215d196f6544311bde?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | Hybrid | Dec 12 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Supply Chain Planning Year Round Intern](https://jobright.ai/jobs/info/675b06215d196f6544311c27?utm_campaign=1050&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Dec 12 |
+| **[University of Michigan](https://www.umich.edu)** | **[OFFICE ASSISTANT-MATH (Work Study Students Only)](https://jobright.ai/jobs/info/675b11b1effe01c644da1ae0?utm_campaign=1050&utm_source=git)** | Dearborn, MI | On Site | Dec 12 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/675b0e6073086800c20b261e?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Dec 12 |
+| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Corporate Credit (MBA Intern)](https://jobright.ai/jobs/info/675b012215d62216c729d5b3?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Dec 12 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[TESS Intern - Spring 2025](https://jobright.ai/jobs/info/675b0ad4074f756e82faf881?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Dec 12 |
+| **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/675aff0555a0574a4f030b1f?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 12 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Distribution Center Ops Intern - Summer 2025 - Pendleton, IN](https://jobright.ai/jobs/info/66cd1444faa688b723043565?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Dec 12 |
 | **[Carboline](https://www.carboline.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/672206885834927935a28f57?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 12 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Robinson Fresh (Summer 2025)](https://jobright.ai/jobs/info/670614cba9dafe84388d22ff?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Dec 12 |
@@ -65,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Program Management Intern - Summer 2025](https://jobright.ai/jobs/info/673d236ca1551df8de9b8da7?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Dec 12 |
 | ↳ | **[Operations Intern- Summer 2025](https://jobright.ai/jobs/info/673e7680bb92aa908d6bc3f6?utm_campaign=1050&utm_source=git)** | Carlisle, PA | On Site | Dec 12 |
 | **[Gartner](http://www.gartner.com)** | **[Finance Leadership Development Internship 2025](https://jobright.ai/jobs/info/675ac14a305618e00a1ac301?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Dec 12 |
-| **[Leidos](https://www.leidos.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/675acffe4e46a615123f2ec2?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 12 |
+| **[Leidos](https://www.leidos.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/675acffe4e46a615123f2ec3?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 12 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - O'Fallon, IL](https://jobright.ai/jobs/info/675ad82fb31343abe5bbd7e7?utm_campaign=1050&utm_source=git)** | O'Fallon, IL | On Site | Dec 11 |
 | ↳ | **[Management Trainee Intern - Edwardsville, IL](https://jobright.ai/jobs/info/675ad82fb31343abe5bbd866?utm_campaign=1050&utm_source=git)** | Glen Carbon, IL | On Site | Dec 11 |
 | **[MCE](https://www.mcecleanenergy.org)** | **[Internal Operations Coordinator or Assistant](https://jobright.ai/jobs/info/675a79068c83cfcf43686119?utm_campaign=1050&utm_source=git)** | San Rafael, CA | Hybrid | Dec 11 |
@@ -88,13 +102,14 @@ For a complete list, click the following sortable link below:
 | **[University of Minnesota](https://twin-cities.umn.edu)** | **[Student Administrative and Events Assistant](https://jobright.ai/jobs/info/675a3ed1d6e2ea18361d3147?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 11 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Logistics and Community Spring 2025 Co-Op (UIUC Research Park)](https://jobright.ai/jobs/info/675a2fc68f8f60e33a435a27?utm_campaign=1050&utm_source=git)** | Champaign, IL | Hybrid | Dec 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Planning](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0a759?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 11 |
-| ↳ | **[Intern- Barbara Bush Children's Hospital Administration](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0a9ff?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 11 |
 | ↳ | **[Intern- Strategy](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0a760?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 11 |
+| ↳ | **[Intern- Barbara Bush Children's Hospital Administration](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0a9ff?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 11 |
 | ↳ | **[Intern- MHMG Operations](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0a75b?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Dec 11 |
 | ↳ | **[Intern- IT Project Management and Communications](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0a77f?utm_campaign=1050&utm_source=git)** | Westbrook, ME | On Site | Dec 11 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Operations Services Intern](https://jobright.ai/jobs/info/675a1ed122142ec86ae379fb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Dec 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- MHMG Endocrinology and Diabetes](https://jobright.ai/jobs/info/675a2f21714abda67bf65eb6?utm_campaign=1050&utm_source=git)** | Scarborough, ME | On Site | Dec 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a6e0a6deb947c5422d029?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 11 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675b0f311211412014a3d11f?utm_campaign=1050&utm_source=git)** | Farmingville, NY | On Site | Dec 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/675a0ee83990bc365b6f7c41?utm_campaign=1050&utm_source=git)** | Mountain View, California, United States | On Site | Dec 11 |
 | ↳ | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/675a0ee83990bc365b6f7cf1?utm_campaign=1050&utm_source=git)** | Redmond, Washington, United States | On Site | Dec 11 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Intern - Edwardsville, IL](https://jobright.ai/jobs/info/675aa11db1a1af7930811f64?utm_campaign=1050&utm_source=git)** | Glen Carbon, IL | On Site | Dec 11 |
@@ -103,15 +118,15 @@ For a complete list, click the following sortable link below:
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, S&OP Process Optimization](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0acc8?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 11 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Intern - O'Fallon, IL](https://jobright.ai/jobs/info/675a94ec761aee87a5c884ee?utm_campaign=1050&utm_source=git)** | East St Louis, IL | On Site | Dec 11 |
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[2025 Summer Intern Program - Operations & Supply Chain](https://jobright.ai/jobs/info/675a148b99b58855b7f7a507?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 11 |
-| **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Fan Development Seasonal Assistant](https://jobright.ai/jobs/info/675a039b9d1e47bd6067964b?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 11 |
+| **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Fan Development Seasonal Assistant](https://jobright.ai/jobs/info/675a039b9d1e47bd6067962a?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a4b8120c6a997e9423a83?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a4b8120c6a997e9423a87?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a4b8120c6a997e9423a8a?utm_campaign=1050&utm_source=git)** | Belle Mead, NJ | On Site | Dec 11 |
 | **[Wayne-Sanderson Farms](http://www.waynesandersonfarms.com)** | **[Plant Operations Intern - Summer 2025 (Process Improvement Study)](https://jobright.ai/jobs/info/675a148b99b58855b7f7a664?utm_campaign=1050&utm_source=git)** | Collins, MS | On Site | Dec 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a4b8120c6a997e9423a90?utm_campaign=1050&utm_source=git)** | Farmingdale, NY | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a4b8120c6a997e9423a92?utm_campaign=1050&utm_source=git)** | Roscoe, IL | On Site | Dec 11 |
-| **[TA Services](http://www.taservices.com/)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/675a2f21714abda67bf660ef?utm_campaign=1050&utm_source=git)** | Mansfield, IN | On Site | Dec 11 |
-| ↳ | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/675a2f21714abda67bf66545?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 11 |
+| **[TA Services](http://www.taservices.com/)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/675a2f21714abda67bf66545?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 11 |
+| ↳ | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/675a2f21714abda67bf660ef?utm_campaign=1050&utm_source=git)** | Mansfield, IN | On Site | Dec 11 |
 | ↳ | **[Supply Chain Internship (Summer 2025)](https://jobright.ai/jobs/info/675a39d1d90b0012bb0b1437?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 11 |
 | ↳ | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/675a2f21714abda67bf66546?utm_campaign=1050&utm_source=git)** | Leeds, AL | On Site | Dec 11 |
 | ↳ | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/675a2f21714abda67bf66547?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 11 |
@@ -123,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Bernhard](https://bernhard.com)** | **[M&V Intern](https://jobright.ai/jobs/info/675a1ed122142ec86ae37c27?utm_campaign=1050&utm_source=git)** | Metairie, LA | On Site | Dec 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/675a0cb88a5abc332d8fa8e5?utm_campaign=1050&utm_source=git)** | Tewksbury, MA | On Site | Dec 11 |
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Tournament Operations](https://jobright.ai/jobs/info/6759f97b2c1b4b44e76fc146?utm_campaign=1050&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Dec 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern](https://jobright.ai/jobs/info/675a09ee49be2e55a9eccfa8?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 11 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Summer 2025 Intern - Albany, NY](https://jobright.ai/jobs/info/675a173d95726f060cb103ab?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Dec 11 |
 | ↳ | **[Field Operations Summer 2025 Intern - Albany, NY](https://jobright.ai/jobs/info/675a173d95726f060cb1038a?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Dec 11 |
 | ↳ | **[Project Management Summer 2025 Intern - Portland, ME](https://jobright.ai/jobs/info/675a02b33b37576643929618?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 11 |
@@ -136,25 +150,11 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Seasonal Hire or Intern in Project Management for Information Technology](https://jobright.ai/jobs/info/6759f97b2c1b4b44e76fc109?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Dec 11 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6759fc2ac87f1d451ade1b51?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Dec 11 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a6e0a6deb947c5422d02c?utm_campaign=1050&utm_source=git)** | West Babylon, NY | On Site | Dec 11 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a6e0a6deb947c5422d030?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Dec 11 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Research Park Logistics and Community Intern  (UIUC Summer 2025 Internship)](https://jobright.ai/jobs/info/6759e8c5e14bd9222e117dea?utm_campaign=1050&utm_source=git)** | Champaign, IL (IL169) | On Site | Dec 11 |
-| **[Allstate](http://www.allstate.com)** | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac83?utm_campaign=1050&utm_source=git)** | USA - DE (Remote) | Remote | Dec 11 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac82?utm_campaign=1050&utm_source=git)** | USA - IN (Remote) | Remote | Dec 11 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac0c?utm_campaign=1050&utm_source=git)** | USA - OK (Remote) | Remote | Dec 11 |
+| **[Allstate](http://www.allstate.com)** | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac85?utm_campaign=1050&utm_source=git)** | USA - MI (Remote) | Remote | Dec 11 |
 | ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac89?utm_campaign=1050&utm_source=git)** | USA - NM (Remote) | Remote | Dec 11 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac84?utm_campaign=1050&utm_source=git)** | USA - ME (Remote) | Remote | Dec 11 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac88?utm_campaign=1050&utm_source=git)** | USA - LA (Remote) | Remote | Dec 11 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac81?utm_campaign=1050&utm_source=git)** | USA - CO (Remote) | Remote | Dec 11 |
 | ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac86?utm_campaign=1050&utm_source=git)** | USA - MS (Remote) | Remote | Dec 11 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac87?utm_campaign=1050&utm_source=git)** | USA - ID (Remote) | Remote | Dec 11 |
-| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac85?utm_campaign=1050&utm_source=git)** | USA - MI (Remote) | Remote | Dec 11 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675ad596d4da9b5baca8b7b8?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Dec 11 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a728a8300ecc4066622a1?utm_campaign=1050&utm_source=git)** | Washington, PA | On Site | Dec 11 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a728a8300ecc4066622a8?utm_campaign=1050&utm_source=git)** | Parker, CO | On Site | Dec 11 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675a728a8300ecc4066622a9?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Dec 11 |
-| **[Entegral](https://Entegral.com)** | **[Summer 2025 Management Trainee Intern - Grand Rapids](https://jobright.ai/jobs/info/675aa11db1a1af7930811f70?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Dec 11 |
-| **[Bernhard](https://bernhard.com)** | **[M&V Intern](https://jobright.ai/jobs/info/6759eefc80e3ffcb34694703?utm_campaign=1050&utm_source=git)** | Metairie, LA | On Site | Dec 11 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Chief Safety Officer Intern Summer 2025](https://jobright.ai/jobs/info/675a2f21714abda67bf66245?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Dec 11 |
-| ↳ | **[Chief Safety Officer Co-op Spring 2025](https://jobright.ai/jobs/info/675a2f21714abda67bf66255?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Dec 11 |
-| **[Lonza](http://www.lonza.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6759e5d3aff328322f23c17c?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Dec 11 |
-| **[CRH](http://crh.com)** | **[Summer Intern - Safety](https://jobright.ai/jobs/info/675ac8de46c48b1723813228?utm_campaign=1050&utm_source=git)** | LaPlace, LA | On Site | Dec 11 |
+| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac83?utm_campaign=1050&utm_source=git)** | USA - DE (Remote) | Remote | Dec 11 |
+| ↳ | **[CEO Communications Intern](https://jobright.ai/jobs/info/6759e4f0458eb853c1afac82?utm_campaign=1050&utm_source=git)** | USA - IN (Remote) | Remote | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/6724eac52cc59c4dfb69f231?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Dec 15 |
+| **[Atrium](https://www.atriumstaff.com)** | **[Operations Interns (1st, 2nd & 3rd shifts) - 152129](https://jobright.ai/jobs/info/6741bf84981b88b3ae7e6d84?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Dec 15 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Consumer Insights & Business Analytics MBA Internship (Summer 2025)](https://jobright.ai/jobs/info/6734abf905915ad98a75a34e?utm_campaign=1050&utm_source=git)** | Racine, WI | On Site | Dec 15 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2025 Agribusiness Claims Intern](https://jobright.ai/jobs/info/675ed221e429c0e73bcc4d77?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Dec 15 |
 | **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Operations Supervisor](https://jobright.ai/jobs/info/675e94794dcd5c10acbdb81c?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Dec 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  Central Washington University](https://jobright.ai/jobs/info/675e9040b217a7d370d8dfa4?utm_campaign=1050&utm_source=git)** | Ellensburg, WA | On Site | Dec 14 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Program Planning and Scheduling](https://jobright.ai/jobs/info/675e6ad5677e5fd6e6cbb77a?utm_campaign=1050&utm_source=git)** | Poway, CA | On Site | Dec 14 |
@@ -67,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Supply Chain, Network Strategy](https://jobright.ai/jobs/info/675daf074070956f4b953c3a?utm_campaign=1050&utm_source=git)** | Home, KS | Remote | Dec 14 |
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/675db840774bb0015f96a223?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE | On Site | Dec 14 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/675e4297ec68d3791b418091?utm_campaign=1050&utm_source=git)** | Bessemer, AL | On Site | Dec 14 |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Site Services Summer Intern](https://jobright.ai/jobs/info/675eb0fc282ba7da022438a6?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Dec 14 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Business Systems Management](https://jobright.ai/jobs/info/675ed221e429c0e73bcc4db6?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 14 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Mechanicsville, VA](https://jobright.ai/jobs/info/6740fbb599e605a12728d8e1?utm_campaign=1050&utm_source=git)** | Mechanicsville, VA | On Site | Dec 14 |
 | ↳ | **[Perishable Distribution Operations Intern - Orlando, FL](https://jobright.ai/jobs/info/6740fbb599e605a12728d8d2?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 14 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Project Manager-Technology, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67515876585147807840c5fe?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Dec 14 |
@@ -105,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Global Procurement](https://jobright.ai/jobs/info/675d44d984b531fd6e9e3858?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Dec 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/675d860803da54f66237161e?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 13 |
 | ↳ | **[Operations Intern - Ball State University](https://jobright.ai/jobs/info/675d860803da54f6623715c9?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 13 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/675d7960235f56695858ac97?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Dec 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Middle Tennessee State University](https://jobright.ai/jobs/info/675d3a85e559d89bab35defa?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 13 |
+| ↳ | **[Operations Intern - Middle Tennessee State University](https://jobright.ai/jobs/info/675d3a85e559d89bab35defa?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 13 |
 | ↳ | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/675d3a85e559d89bab35ded8?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 13 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Wealth Management Intern, Summer 2025 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/675d303da3466ccc3a324e05?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, USA | On Site | Dec 13 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/675d9e45c753e24c653d3a25?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Dec 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Generac](https://www.generac.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/675ca9ab47b4cde302b06372?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Dec 13 |
 | **[Chapman University](https://www.chapman.edu/)** | **[Student Admin / Office Assistant](https://jobright.ai/jobs/info/675cb6f4c64893f98e233111?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | Dec 13 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2025 Summer Internship / Operations - Katy, TX](https://jobright.ai/jobs/info/675d02f74f95ea270f549e55?utm_campaign=1050&utm_source=git)** | Katy, TX | On Site | Dec 13 |
-| **[IMG Academy](https://www.imgacademy.com)** | **[Athletic Administrative Intern](https://jobright.ai/jobs/info/67537fd0ef7ce2280cf2e54d?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Dec 13 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/674064b5f3623302ffd96a7a?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 13 |
-| **[CRH](http://crh.com)** | **[Project Lead Intern - Wilsonville, OR](https://jobright.ai/jobs/info/675ca9ab47b4cde302b06336?utm_campaign=1050&utm_source=git)** | Wilsonville, OR | On Site | Dec 13 |
-| **[Koa Sports League](http://www.koasports.org/)** | **[2025 Summer Baseball Operations Internship](https://jobright.ai/jobs/info/675cb6f4c64893f98e2331ec?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Dec 13 |
-| **[CRH](http://crh.com)** | **[Project Manager and Estimating Intern - Stockon, CA](https://jobright.ai/jobs/info/675cb67f2b2b4ccbfcb39d82?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

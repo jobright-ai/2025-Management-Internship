@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/675e4ea5b2054b91f4cf63c5?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Dec 14 |
+| **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/675e3c9b4fa9a0ed242234dc?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 14 |
+| **[State of Illinois](https://www2.illinois.gov/)** | **[OFFICE ADMINISTRATOR IV](https://jobright.ai/jobs/info/675e2d720a82f74d5cd975f6?utm_campaign=1050&utm_source=git)** | Springfield, IL | Hybrid | Dec 14 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Spring 2026)](https://jobright.ai/jobs/info/675dfff0bae53088b1518dde?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Dec 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Supply Chain, Network Strategy](https://jobright.ai/jobs/info/675daf074070956f4b953c3a?utm_campaign=1050&utm_source=git)** | Home, KS | Remote | Dec 14 |
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/675db840774bb0015f96a223?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE | On Site | Dec 14 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/675e4297ec68d3791b418091?utm_campaign=1050&utm_source=git)** | Bessemer, AL | On Site | Dec 14 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Mechanicsville, VA](https://jobright.ai/jobs/info/6740fbb599e605a12728d8e1?utm_campaign=1050&utm_source=git)** | Mechanicsville, VA | On Site | Dec 14 |
 | ↳ | **[Perishable Distribution Operations Intern - Orlando, FL](https://jobright.ai/jobs/info/6740fbb599e605a12728d8d2?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 14 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Project Manager-Technology, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67515876585147807840c5fe?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Dec 14 |
@@ -74,7 +78,9 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Seasonal Hire or Intern in Project Management for Information Technology](https://jobright.ai/jobs/info/675d830217257060d8639437?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern- Defense & Security, Financial Management - Campus 2025](https://jobright.ai/jobs/info/6726033c92048579056ea452?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Dec 14 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Weymouth, MA](https://jobright.ai/jobs/info/6740fbb599e605a12728d8ec?utm_campaign=1050&utm_source=git)** | Weymouth, MA | On Site | Dec 14 |
-| ↳ | **[Club Operations Intern - Dedham, MA](https://jobright.ai/jobs/info/67415acfcf2618b8390f95a3?utm_campaign=1050&utm_source=git)** | Dedham, MA | On Site | Dec 14 |
+| **[Amplify](http://www.amplify.com)** | **[2025 Summer Intern - Corporate Strategy](https://jobright.ai/jobs/info/6725490f869330b49f30b78b?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 14 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2025 / Toledo](https://jobright.ai/jobs/info/66eb10e4ee42d4b5c1d2fa73?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Dec 14 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Dedham, MA](https://jobright.ai/jobs/info/67415acfcf2618b8390f95a3?utm_campaign=1050&utm_source=git)** | Dedham, MA | On Site | Dec 14 |
 | ↳ | **[Club Operations Intern - Pembroke, FL](https://jobright.ai/jobs/info/67410ef1357107de73e754c2?utm_campaign=1050&utm_source=git)** | Pembroke Pines, FL | On Site | Dec 14 |
 | ↳ | **[Club Operations Intern - Exton, PA](https://jobright.ai/jobs/info/67415acfcf2618b8390f95c8?utm_campaign=1050&utm_source=git)** | Downingtown, PA | On Site | Dec 14 |
 | **[Brother USA](https://brother-usa.com)** | **[Procurement Intern – Summer 2025 Internship Program](https://jobright.ai/jobs/info/67518f2d86d035508caa192e?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 14 |
@@ -109,6 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22829?utm_campaign=1050&utm_source=git)** | Enfield, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/675cf264c211f807074d8435?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22858?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Dec 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Summer 2025 (Nashville)](https://jobright.ai/jobs/info/66ebae7cd7086582e8f26564?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 13 |
+| **[Koa Sports League](http://www.koasports.org/)** | **[2025 Summer T-Bolts Baseball Camp Operations Internship](https://jobright.ai/jobs/info/675e2d1da0672625960e0109?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Dec 13 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/675cd7f74f25a4ab03e6ffb1?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Dec 13 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Operations Analyst Trainee](https://jobright.ai/jobs/info/675cd846b814e06cddb14d12?utm_campaign=1050&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Dec 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Business Systems Management](https://jobright.ai/jobs/info/675d4eebb49d811dc46208a1?utm_campaign=1050&utm_source=git)** | San Diego California | On Site | Dec 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADM](http://www.adm.com)** | **[ARTCo Transportation Intern](https://jobright.ai/jobs/info/66c55693740b3117c17c7a28?utm_campaign=1050&utm_source=git)** | Decatur, IL | On Site | Dec 13 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Global Supply Chain Intern - Lake Charles LA - R10180180](https://jobright.ai/jobs/info/675c9089e03979397246f4e1?utm_campaign=1050&utm_source=git)** | Lake Charles, LA | On Site | Dec 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2025 Intern - VA/DC](https://jobright.ai/jobs/info/66ebae7cd7086582e8f26408?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Dec 13 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Channel Operations Analyst Intern (Summer 2025 Internship)](https://jobright.ai/jobs/info/674f9e06664f760295957e4e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
-| **[Harvard University](http://harvard.edu)** | **[Department of Defense Skillbridge IT Project Manager Internship](https://jobright.ai/jobs/info/675c79077795726c0b486428?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Dec 13 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Business Operations Co-Op](https://jobright.ai/jobs/info/6758a18638b1cc527b96277b?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Dec 13 |
-| ↳ | **[Global Business Operations Intern (Summer 2025)](https://jobright.ai/jobs/info/6758a4e1e9e293b24ebd43e1?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/675c812111609f5f651af8a8?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
-| **[SEKO Logistics](http://sekologistics.com)** | **[International Operations Coordinator - Air Export](https://jobright.ai/jobs/info/670ffc35f5fbb92f91170500?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| **[DDN](http://www.ddn.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/675c8ddb8f6cd4b1dfe0d58a?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 13 |
-| **[CSL](https://www.csl.com)** | **[2025 Summer Process Owner Internship](https://jobright.ai/jobs/info/675c6bb4a46680c4a85a7975?utm_campaign=1050&utm_source=git)** | Kankakee, IL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

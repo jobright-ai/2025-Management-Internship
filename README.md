@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675f8dbcebccb3826610b600?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Dec 15 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/675f8dbcebccb3826610b601?utm_campaign=1050&utm_source=git)** | Gardner, MA | On Site | Dec 15 |
 | **[Midwestern Baptist Theological Seminary](http://www.mbts.edu/)** | **[Administrative Assistant - Institutional Relations - FWS](https://jobright.ai/jobs/info/675f61fa4955b00892556020?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 15 |
 | **[Martin-Harris Construction LLC](http://martinharris.com)** | **[College Internship - Summer 2025](https://jobright.ai/jobs/info/675f5c6cb6bad11f1484875a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Dec 15 |
 | **[University of Mississippi](http://www.olemiss.edu/)** | **[Student Employee (Gameday Operations)](https://jobright.ai/jobs/info/675f5cc416c9dd4e36c73330?utm_campaign=1050&utm_source=git)** | Oxford, MS | On Site | Dec 15 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Management Internship](https://jobright.ai/jobs/info/675f7694c7971d413cf6db23?utm_campaign=1050&utm_source=git)** | Menomonie, WI | On Site | Dec 15 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Houston](https://jobright.ai/jobs/info/675f5b5535fec914fc79b50c?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 15 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Field Operations (Hollywood)](https://jobright.ai/jobs/info/675f5b5535fec914fc79b4f1?utm_campaign=1050&utm_source=git)** | Hollywood, FL | Hybrid | Dec 15 |
 | ↳ | **[2025 Summer Intern - Field Operations (Orlando)](https://jobright.ai/jobs/info/675f5b5535fec914fc79b515?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Dec 15 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/675f4d7221a18ed3f177e6e6?utm_campaign=1050&utm_source=git)** | West Haven, CT | On Site | Dec 15 |
 | **[CCS Facility Services](https://ccsbts.com/)** | **[Supervisor Janitorial - Commercial Cleaner](https://jobright.ai/jobs/info/675f083904aadf1294c0c82f?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Dec 15 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Supply Chain Intern - Summer 2025](https://jobright.ai/jobs/info/675ef6a9bcca9d6c06be9f09?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Dec 15 |
+| **[Haleon](http://www.haleon.com/)** | **[Co-Op, Supply Planning Analyst (6-months, July 2025 Start)](https://jobright.ai/jobs/info/6709786bc6d727f5274722cf?utm_campaign=1050&utm_source=git)** | New Jersey, United States | Hybrid | Dec 15 |
 | **[CoreLogic](https://www.corelogic.com/)** | **[Intern, Client Project Coordinator (Oxford, MS)](https://jobright.ai/jobs/info/67251b779a1c0ae6dd201ead?utm_campaign=1050&utm_source=git)** | Oxford, MS | On Site | Dec 15 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '24-'25 (Northern CA Bay Area)](https://jobright.ai/jobs/info/66ee055b6e26e9858396caa3?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Dec 15 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/6724eac52cc59c4dfb69f231?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Dec 15 |
@@ -80,6 +84,9 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  Central Washington University](https://jobright.ai/jobs/info/675e9040b217a7d370d8dfa4?utm_campaign=1050&utm_source=git)** | Ellensburg, WA | On Site | Dec 14 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Program Planning and Scheduling](https://jobright.ai/jobs/info/675e6ad5677e5fd6e6cbb77a?utm_campaign=1050&utm_source=git)** | Poway, CA | On Site | Dec 14 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/675e4ea5b2054b91f4cf63c5?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Dec 14 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Commack, NY](https://jobright.ai/jobs/info/6740fbb599e605a12728d8dd?utm_campaign=1050&utm_source=git)** | Commack, NY | On Site | Dec 14 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Pittsburgh 2024-2025](https://jobright.ai/jobs/info/66eb10e4ee42d4b5c1d2fa75?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 14 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/6724581fcf4a8cada4c03b88?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Dec 14 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[OFFICE ADMINISTRATOR IV](https://jobright.ai/jobs/info/675e2d720a82f74d5cd975f6?utm_campaign=1050&utm_source=git)** | Springfield, IL | Hybrid | Dec 14 |
 | **[EyeMed Vision Care](https://gethealth24.com/buy-sight-care/)** | **[EyeMed Business Controls and Audit Services Summer 2025 Intern](https://jobright.ai/jobs/info/67350871a1ac560720271a51?utm_campaign=1050&utm_source=git)** | Mason, OH | Hybrid | Dec 14 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/675f494d446a3fead13fbe3d?utm_campaign=1050&utm_source=git)** | Deltona, FL | On Site | Dec 14 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22829?utm_campaign=1050&utm_source=git)** | Enfield, CT | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/675cf264c211f807074d8435?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Dec 13 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/675cef83cc9cad31fae22858?utm_campaign=1050&utm_source=git)** | Torrington, CT | On Site | Dec 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Summer 2025 (Nashville)](https://jobright.ai/jobs/info/66ebae7cd7086582e8f26564?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 13 |
-| **[Koa Sports League](http://www.koasports.org/)** | **[2025 Summer T-Bolts Baseball Camp Operations Internship](https://jobright.ai/jobs/info/675e2d1da0672625960e0109?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Dec 13 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/675cd7f74f25a4ab03e6ffb1?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Dec 13 |
-| **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Operations Analyst Trainee](https://jobright.ai/jobs/info/675cd846b814e06cddb14d12?utm_campaign=1050&utm_source=git)** | 717 N Harwood St, Dallas, TX, 75201, US | On Site | Dec 13 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business Systems Management](https://jobright.ai/jobs/info/675d4eebb49d811dc46208a1?utm_campaign=1050&utm_source=git)** | San Diego California | On Site | Dec 13 |
-| ↳ | **[Intern - Business Systems Management](https://jobright.ai/jobs/info/675d4eebb49d811dc46208cc?utm_campaign=1050&utm_source=git)** | San Diego California | On Site | Dec 13 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Supply Chain Solutions Intern](https://jobright.ai/jobs/info/675ccd9905ccc30faac05538?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
-| **[University of Phoenix](http://www.phoenix.edu)** | **[Intern: Associate Delivery Manager](https://jobright.ai/jobs/info/675cd4e35ffef7a55e23878d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Dec 13 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/6723018d0c7bf578e897511b?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

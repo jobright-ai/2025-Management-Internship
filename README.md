@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Commercial Operations](https://jobright.ai/jobs/info/67615232c8fd5b2f11ed326c?utm_campaign=1050&utm_source=git)** | Cupertino, CA | On Site | Dec 17 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[2025 - Operations Co-op](https://jobright.ai/jobs/info/67615232c8fd5b2f11ed3302?utm_campaign=1050&utm_source=git)** | Greenville, NC | On Site | Dec 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  Montana State University](https://jobright.ai/jobs/info/67613ae7a055778bb2c08741?utm_campaign=1050&utm_source=git)** | Bozeman, MT | On Site | Dec 16 |
 | **[NANA](http://www.nana.com)** | **[NANA Regional - Shareholder Relations Administrative Intern](https://jobright.ai/jobs/info/6761281e00564f4d2776d3bc?utm_campaign=1050&utm_source=git)** | United States | On Site | Dec 16 |
 | **[Ajinomoto Health & Nutrition North America, Inc.](https://www.ajinorthamerica.com)** | **[Innovation Strategy Development Intern - MBA](https://jobright.ai/jobs/info/6761281e00564f4d2776d3aa?utm_campaign=1050&utm_source=git)** | Itasca, IL | On Site | Dec 16 |
@@ -94,22 +96,21 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Internship - Supply Chain Management](https://jobright.ai/jobs/info/6760c60197c850b539ff2c4a?utm_campaign=1050&utm_source=git)** | Wilton Center, CT | On Site | Dec 16 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Store Planning, Americas](https://jobright.ai/jobs/info/6760b8ccb843344c967598fd?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | **[Baker Group](http://thebakergroup.com)** | **[Intern](https://jobright.ai/jobs/info/6760c24d212a4518247eb9f8?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | Dec 16 |
-| **[Android Industries](http://www.android-ind.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67612cf9474ddd3d8a57ac8a?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Dec 16 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management /Operations - Summer 2024 Columbus](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb837?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 16 |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management /Operations - Summer 2024 Columbus](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb82a?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 16 |
 | ↳ | **[Co-Op Project Management - Summer 2024 Cincinnati](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb844?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
 | ↳ | **[Co-Op Project Management - Spring 2025 Cincinnati](https://jobright.ai/jobs/info/6760e2dc50e41fa5596eb845?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
 | ↳ | **[Co-Op Project Management - Fall 2024 Cincinnati](https://jobright.ai/jobs/info/6760ff1cdb53dce157dae14b?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
+| **[Marand Builders, Inc.](https://www.marandbuilders.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/67508e5792f694aabdfbf6ca?utm_campaign=1050&utm_source=git)** | Smyrna, GA | On Site | Dec 16 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/676113fa4519d69b40f50060?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Dec 16 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Logistics Summer '25](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e95a4?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 16 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Project Manager Intern - Summer 2025](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e9340?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 16 |
 | ↳ | **[TPO Closing Intern - Summer 2025](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e9354?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 16 |
 | ↳ | **[Client Experience Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67609ebd7af4d7f178be4e16?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 16 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management /Operations - Summer 2024 Columbus](https://jobright.ai/jobs/info/6760b3a047e06ffc3fb3552b?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 16 |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Summer 2024 Cincinnati](https://jobright.ai/jobs/info/6760b3a047e06ffc3fb3552d?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
 | ↳ | **[Co-Op Project Management - Fall 2024 Cincinnati](https://jobright.ai/jobs/info/6760b3a047e06ffc3fb3552a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
 | ↳ | **[Part Time Administrative Intern (Summer)](https://jobright.ai/jobs/info/6760b3a047e06ffc3fb35534?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 16 |
 | ↳ | **[Co-Op Project Management - Spring 2024 Cincinnati](https://jobright.ai/jobs/info/6760b3a047e06ffc3fb35533?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
-| ↳ | **[Co-Op Project Management - Summer 2024 Cincinnati](https://jobright.ai/jobs/info/6760b3a047e06ffc3fb3552f?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
-| **[dormakaba Americas](http://www.e-data.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e944b?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Dec 16 |
+| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e944b?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Dec 16 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e962f?utm_campaign=1050&utm_source=git)** | Alabaster, AL | On Site | Dec 16 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6760ad9908c3cb24c33e963b?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Dec 16 |
 | **[UC Irvine](http://uci.edu)** | **[Healthcare Admin Intern](https://jobright.ai/jobs/info/6760a78eefa9c407d9934cc7?utm_campaign=1050&utm_source=git)** | Orange County, CA | On Site | Dec 16 |
@@ -127,12 +128,9 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2025 Summer Internship (US) - Global Vertical & Audience Strategy](https://jobright.ai/jobs/info/67609557afc5b08c572d9fb0?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 16 |
 | **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67608f186481a4831617abd1?utm_campaign=1050&utm_source=git)** | Bronx, NY | Hybrid | Dec 16 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Operations Analyst Trainee](https://jobright.ai/jobs/info/675cd076202d7929f41e6118?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 16 |
-| **[Gypsum Management and Supply](http://www.gms.com/)** | **[Office / Operations Intern](https://jobright.ai/jobs/info/67612496c9c09c0d37bbd3a9?utm_campaign=1050&utm_source=git)** | Hazelwood, MO | On Site | Dec 16 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Operations Internship / Las Vegas, NV](https://jobright.ai/jobs/info/67609557afc5b08c572d9f9d?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | Hybrid | Dec 16 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Robinson Fresh (Summer 2025)](https://jobright.ai/jobs/info/670614cba9dafe84388d22ff?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Dec 16 |
 | ↳ | **[Intern - Associate Portfolio Executive Summer 2025](https://jobright.ai/jobs/info/66f7bc9eaa938d7610719487?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | On Site | Dec 16 |
-| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Supply Chain Intern - 1st Shift](https://jobright.ai/jobs/info/6761221054538aa566b2965d?utm_campaign=1050&utm_source=git)** | Harper Woods, MI | On Site | Dec 16 |
-| ↳ | **[SUPPLY CHAIN INTERN - 2nd Shift](https://jobright.ai/jobs/info/676137944edc9201996ac203?utm_campaign=1050&utm_source=git)** | Harper Woods, MI | On Site | Dec 16 |
 | **[Design Ready Controls](http://designreadycontrols.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/676067afba1423873032f705?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 16 |
 | **[CCS Facility Services](https://ccsbts.com/)** | **[Supervisor Janitorial - Commercial Cleaner](https://jobright.ai/jobs/info/676067afba1423873032fc4c?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Dec 16 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Strategy Intern - Strategy](https://jobright.ai/jobs/info/676056a726ad062c37efc7b9?utm_campaign=1050&utm_source=git)** | 55901 | On Site | Dec 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[University Internship (MBA), Strategy & Performance](https://jobright.ai/jobs/info/67402fcb7aefb492560b7792?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 16 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66bf4fcb5a35909648e1837c?utm_campaign=1050&utm_source=git)** | New Brighton, MN | On Site | Dec 16 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Strategic Planning & Analytics](https://jobright.ai/jobs/info/67403a28f0af4d1d43657161?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Software Technical Program Manager Co-op: January to June 2025](https://jobright.ai/jobs/info/67285cbd08592fc3231f4e85?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Dec 16 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast Region)](https://jobright.ai/jobs/info/66d11a86360781c7c8ca4ca9?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

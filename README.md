@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/6762921949127b9611a7ea81?utm_campaign=1050&utm_source=git)** | Charleston, WV | On Site | Dec 18 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6745acaf7612e68e8821e8a8?utm_campaign=1050&utm_source=git)** | Rochester, NH | On Site | Dec 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - Wheeling, WV](https://jobright.ai/jobs/info/6762addbb0bc29b3e26882c0?utm_campaign=1050&utm_source=git)** | Wheeling, WV | On Site | Dec 18 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[SOX Intern](https://jobright.ai/jobs/info/6762c42d5a59fd3e24e515f4?utm_campaign=1050&utm_source=git)** | Federal Way, WA | On Site | Dec 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Summer 2025](https://jobright.ai/jobs/info/6762a306e885464c44ca608a?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Dec 18 |
+| ↳ | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/6762921949127b9611a7ea81?utm_campaign=1050&utm_source=git)** | Charleston, WV | On Site | Dec 18 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Admin Intern](https://jobright.ai/jobs/info/6762732800f87f063abdcd64?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[Arcadis](http://www.arcadis.com)** | **[LACCD Intern NB](https://jobright.ai/jobs/info/6762732800f87f063abdcc3e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | ↳ | **[LACCD Intern NB](https://jobright.ai/jobs/info/676267071f99359d0d0fbfc5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 17 |
 | **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: US Medical - Strategic Business Planning and Operations Summer Intern](https://jobright.ai/jobs/info/6762611b3b06d998b7c4a4e8?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Dec 17 |
-| ↳ | **[2025 U.S Summer Internship Program: GIA Early Pipeline MBA Intern](https://jobright.ai/jobs/info/6762611b3b06d998b7c4a511?utm_campaign=1050&utm_source=git)** | USA - MA - Cambridge - Binney St | Hybrid | Dec 17 |
 | ↳ | **[2025 U.S Summer Internship Program: Strategy & Planning Program Management Intern](https://jobright.ai/jobs/info/6762611b3b06d998b7c4a4b6?utm_campaign=1050&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | On Site | Dec 17 |
+| ↳ | **[2025 U.S Summer Internship Program: GIA Early Pipeline MBA Intern](https://jobright.ai/jobs/info/6762611b3b06d998b7c4a511?utm_campaign=1050&utm_source=git)** | USA - MA - Cambridge - Binney St | Hybrid | Dec 17 |
 | ↳ | **[2025 U.S Summer Internship Program: AGILE/Operational Excellence Intern](https://jobright.ai/jobs/info/6762611b3b06d998b7c4a486?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Dec 17 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Computing Administrative Intern - Summer 2025](https://jobright.ai/jobs/info/67626b3a5b8c08e7051ad924?utm_campaign=1050&utm_source=git)** | Livermore, CA | On Site | Dec 17 |
 | **[Cleaver-Brooks](https://cleaverbrooks.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/676267071f99359d0d0fc01d?utm_campaign=1050&utm_source=git)** | Thomasville, GA | On Site | Dec 17 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/6762470b875716bda6ec6973?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Dec 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship- Spring 2025 (Nashville TN)](https://jobright.ai/jobs/info/676255c29b554984a3f2ace6?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 17 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Global Production Sourcing - Spring 2025](https://jobright.ai/jobs/info/6762313b52d3a2aaf404714f?utm_campaign=1050&utm_source=git)** | Culver City, California | On Site | Dec 17 |
-| **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/6762423846af3380dd8a6b22?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 17 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Plant & Field Ops Intern](https://jobright.ai/jobs/info/6762311f20dee363a2f02cae?utm_campaign=1050&utm_source=git)** | Charleston-Huntington | On Site | Dec 17 |
 | ↳ | **[Land Intern - Coppell, TX](https://jobright.ai/jobs/info/6762311f20dee363a2f02cf1?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Dec 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship- Spring 2025 (Murfreesboro, TN)](https://jobright.ai/jobs/info/6762423846af3380dd8a671b?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Dec 17 |
@@ -100,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Intern Summer 2025](https://jobright.ai/jobs/info/676267071f99359d0d0fc082?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Dec 17 |
 | **[Boston Harbor City Cruises](http://bostonharborcruises.com)** | **[Marine Operations Intern](https://jobright.ai/jobs/info/67621ccb3c7e2fb1c5f5c851?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 17 |
 | **[Entegral](https://Entegral.com)** | **[Summer 2025 Management Internship - Lowell, MA](https://jobright.ai/jobs/info/676287bb1d111031fbb7c534?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Dec 17 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern - Forestar](https://jobright.ai/jobs/info/6762059be6752f5a77da500e?utm_campaign=1050&utm_source=git)** | North Carolina-Charlotte | On Site | Dec 17 |
-| ↳ | **[Summer 2025 Land Intern - Forestar](https://jobright.ai/jobs/info/6762059be6752f5a77da4ff2?utm_campaign=1050&utm_source=git)** | TX-Plano | On Site | Dec 17 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern - Forestar](https://jobright.ai/jobs/info/6762059be6752f5a77da4ff2?utm_campaign=1050&utm_source=git)** | TX-Plano | On Site | Dec 17 |
+| ↳ | **[Summer 2025 Land Intern - Forestar](https://jobright.ai/jobs/info/6762059be6752f5a77da500e?utm_campaign=1050&utm_source=git)** | North Carolina-Charlotte | On Site | Dec 17 |
 | ↳ | **[Summer 2025 Land Intern - Forestar](https://jobright.ai/jobs/info/6762059be6752f5a77da50ca?utm_campaign=1050&utm_source=git)** | TX-Arlington | On Site | Dec 17 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern - Summer 2025](https://jobright.ai/jobs/info/6761fc22050bcdf34f333e8e?utm_campaign=1050&utm_source=git)** | Albuquerque, New Mexico, United States | On Site | Dec 17 |
 | **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/676201604fc81cd2680f35c4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 17 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[First Internet Bank](https://www.firstib.com)** | **[Business Operations Apprentice](https://jobright.ai/jobs/info/676218881719fd51aff3c23a?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Dec 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Houston](https://jobright.ai/jobs/info/676218881719fd51aff3c278?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 17 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Intern - Princeton, WV](https://jobright.ai/jobs/info/676267071f99359d0d0fc0b2?utm_campaign=1050&utm_source=git)** | Princeton, WV | On Site | Dec 17 |
-| ↳ | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/676267071f99359d0d0fc078?utm_campaign=1050&utm_source=git)** | Charleston, WV | On Site | Dec 17 |
 | ↳ | **[Management Trainee Intern - Beckley, WV](https://jobright.ai/jobs/info/676267071f99359d0d0fc091?utm_campaign=1050&utm_source=git)** | Beckley, WV | On Site | Dec 17 |
+| ↳ | **[Management Trainee Intern - Charleston, WV](https://jobright.ai/jobs/info/676267071f99359d0d0fc078?utm_campaign=1050&utm_source=git)** | Charleston, WV | On Site | Dec 17 |
 | ↳ | **[Management Trainee Intern - Cumberland, MD](https://jobright.ai/jobs/info/676267071f99359d0d0fc056?utm_campaign=1050&utm_source=git)** | Cumberland, MD | On Site | Dec 17 |
 | ↳ | **[Management Trainee Intern - Huntington, WV](https://jobright.ai/jobs/info/676287bb1d111031fbb7c542?utm_campaign=1050&utm_source=git)** | Huntington, WV | On Site | Dec 17 |
 | ↳ | **[Management Trainee Intern - Portsmouth, OH](https://jobright.ai/jobs/info/676287bb1d111031fbb7c52e?utm_campaign=1050&utm_source=git)** | Portsmouth, OH | On Site | Dec 17 |
@@ -125,12 +128,12 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Operational Excellence Analyst](https://jobright.ai/jobs/info/676263079bc02c2541c8dbcf?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Dec 17 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Intern - Clarksburg, WV](https://jobright.ai/jobs/info/67628272e2ba3d3fffa5e409?utm_campaign=1050&utm_source=git)** | Clarksburg, WV | On Site | Dec 17 |
 | ↳ | **[Management Trainee Intern - Parkersburg, WV](https://jobright.ai/jobs/info/67628272e2ba3d3fffa5e3e5?utm_campaign=1050&utm_source=git)** | Parkersburg, WV | On Site | Dec 17 |
-| ↳ | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/67628272e2ba3d3fffa5e40c?utm_campaign=1050&utm_source=git)** | Morgantown, WV | On Site | Dec 17 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67620c51d03d46f04888fdcc?utm_campaign=1050&utm_source=git)** | League City, TX | On Site | Dec 17 |
+| **[Entegral](https://Entegral.com)** | **[Management Trainee Intern - Morgantown, WV](https://jobright.ai/jobs/info/67628272e2ba3d3fffa5e40c?utm_campaign=1050&utm_source=git)** | Morgantown, WV | On Site | Dec 17 |
 | ↳ | **[Management Trainee Intern - Wheeling, WV](https://jobright.ai/jobs/info/67628272e2ba3d3fffa5e3e0?utm_campaign=1050&utm_source=git)** | Wheeling, WV | On Site | Dec 17 |
 | **[Fetch Pet Insurance](https://www.fetchpet.com)** | **[Intern (Summer 2025)](https://jobright.ai/jobs/info/67591907b08e22ab38205812?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 17 |
 | **[GPI / Greenman-Pedersen, Inc.](http://www.gpinet.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/67620b89d03d46f04888f9a0?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Dec 17 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Summer 2025 Commodities Intern Smithfield Corporate](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff5016?utm_campaign=1050&utm_source=git)** | Smithfield, VA | On Site | Dec 17 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/67620c51d03d46f04888fdcc?utm_campaign=1050&utm_source=git)** | League City, TX | On Site | Dec 17 |
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder Paid College Summer Intern TSPG Administrative and Project Coordinator](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4e4f?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Dec 17 |
 | ↳ | **[NANA Shareholder Paid College Summer Intern - Project Coordinator](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff4e1d?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Dec 17 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6761f658886460d007352641?utm_campaign=1050&utm_source=git)** | Jericho, NY | On Site | Dec 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Troy University](http://www.troy.edu/)** | **[Graduate Administrative Assistant](https://jobright.ai/jobs/info/676251c096710f2d007f2bdd?utm_campaign=1050&utm_source=git)** | Troy, AL | On Site | Dec 17 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer Intern 2025 - Supply Chain Analyst](https://jobright.ai/jobs/info/6761dc145c5b2b5687e327fe?utm_campaign=1050&utm_source=git)** | Burlington, MA | Hybrid | Dec 17 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Operational Excellence Analyst](https://jobright.ai/jobs/info/6761c4a9fe865acab9886357?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Dec 17 |
-| **[Raft](https://teamraft.com)** | **[Program Controls Intern - Summer 2025](https://jobright.ai/jobs/info/6761c081c634a184d241109e?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 17 |
-| **[Entegral](https://Entegral.com)** | **[Management Trainee Internship- Spring 2025 (Nashville TN)](https://jobright.ai/jobs/info/676267071f99359d0d0fc08e?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 17 |
-| ↳ | **[Management Trainee Internship- Spring 2025 (Antioch,TN)](https://jobright.ai/jobs/info/676267071f99359d0d0fc0c3?utm_campaign=1050&utm_source=git)** | Antioch, TN | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

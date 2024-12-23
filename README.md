@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NEOGOV](http://www.neogov.com)** | **[2025 Intern - Stadium Event Support Intern (4 Positions)](https://jobright.ai/jobs/info/6769155dd2409eb9bd388d5c?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 22 |
+| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Administrator In Training](https://jobright.ai/jobs/info/676857be6067514c0b2f26a2?utm_campaign=1050&utm_source=git)** | Clarksburg, WV | On Site | Dec 22 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - CT, DE, MA, NH, NJ, NY, PA, RI](https://jobright.ai/jobs/info/66c523e212d108705b497770?utm_campaign=1050&utm_source=git)** | Hooksett, NH | On Site | Dec 22 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/67129d975802e555838ebd0c?utm_campaign=1050&utm_source=git)** | Huber Heights, OH | On Site | Dec 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Strategy Development Program Intern (Master's)](https://jobright.ai/jobs/info/67684a847fb56bbfffb250f0?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 22 |
@@ -65,7 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 U.S Summer Internship Program: Strategy & Planning Program Management Intern](https://jobright.ai/jobs/info/6766e444ac07563218eb22dc?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Dec 22 |
 | ↳ | **[MBA Intern - Finance & Strategy Leadership Development Program (Summer 2025)](https://jobright.ai/jobs/info/6768360ff4f1e2af5187cc59?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 22 |
 | **[Watson-Marlow - US](https://www.wmftg.com/us-en/)** | **[Office Manager](https://jobright.ai/jobs/info/67682a34ff5607b3f9371949?utm_campaign=1050&utm_source=git)** | Wilmington, MA | Hybrid | Dec 22 |
-| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Administrator In Training](https://jobright.ai/jobs/info/67680ec764d1ea586ee0ae58?utm_campaign=1050&utm_source=git)** | Clarksburg, WV | On Site | Dec 22 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Assistant( Advanced Energy Apprentice Program)](https://jobright.ai/jobs/info/674af3d7d9ad8d6c554705c5?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Dec 22 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2025 Summer Intern - Procurement](https://jobright.ai/jobs/info/66d8e04ed3042dced447ff06?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 22 |
 | **[Dassault Falcon Jet](http://www.dassaultfalcon.com)** | **[PROJECT MANAGEMENT CO-OP](https://jobright.ai/jobs/info/66f35a8fb939bf2d7c6c4532?utm_campaign=1050&utm_source=git)** | Arkansas, United States | On Site | Dec 22 |
 | **[Vanderbilt University Medical Center](https://www.vumc.org/main/home)** | **[Administrative Intern](https://jobright.ai/jobs/info/6767a2324c90833e356394d0?utm_campaign=1050&utm_source=git)** | Nashville Metro | On Site | Dec 21 |
@@ -107,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2025](https://jobright.ai/jobs/info/66da9e228e888bb6746a9ae5?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | Dec 21 |
 | **[CRH](http://crh.com)** | **[Logistics Summer Intern - Atlanta, GA](https://jobright.ai/jobs/info/6767df0ea1d725c61b24427a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 21 |
 | **[University of Phoenix](http://www.phoenix.edu)** | **[Intern: Associate Delivery Manager](https://jobright.ai/jobs/info/675cd4e35ffef7a55e23878d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Dec 21 |
+| **[Hightower Advisors](http://www.hightoweradvisors.com)** | **[Summer 2025 Intern - Operations](https://jobright.ai/jobs/info/6769263140484fa2605d7404?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 21 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67667c3eb0b38f379e0324de?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Dec 20 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Technology and Economic Development, Remote](https://jobright.ai/jobs/info/674024289f5d03f11863e22f?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | Hybrid | Dec 20 |
 | **[ARIA Resort & Casino](https://aria.mgmresorts.com)** | **[Food & Beverage Hospitality Intern - MGM Springfield](https://jobright.ai/jobs/info/676666d2e72a130e6482fa7a?utm_campaign=1050&utm_source=git)** | Property - MGM Springfield | On Site | Dec 20 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676629b0c272fa59136eb5d3?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676629b0c272fa59136eb5d5?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676629b0c272fa59136eb5d8?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Dec 20 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676629b0c272fa59136eb5dc?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676629b0c272fa59136eb5de?utm_campaign=1050&utm_source=git)** | Framingham, MA | On Site | Dec 20 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676629b0c272fa59136eb5df?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676629b0c272fa59136eb5e0?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 20 |
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/6746b9641e3e38984d44abe2?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Dec 20 |
 | **[Flex](https://flex.com)** | **[Program Management Intern - Summer 2025](https://jobright.ai/jobs/info/67660acc2f8753201f1307f5?utm_campaign=1050&utm_source=git)** | USA, TX, Austin | On Site | Dec 20 |
@@ -142,19 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Wholesale Banking Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61c929?utm_campaign=1050&utm_source=git)** | Kirby - Houston, TX | On Site | Dec 20 |
 | ↳ | **[Capital Markets Intern](https://jobright.ai/jobs/info/6765f84a844d14043c61ca19?utm_campaign=1050&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Dec 20 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Intern – IT Security](https://jobright.ai/jobs/info/6762fdac61151c92e048e966?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Dec 20 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Portfolio Services Center Intern](https://jobright.ai/jobs/info/6765fd41836d5f909243c039?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b18?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Dec 20 |
 | ↳ | **[Finance Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4a14?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Dec 20 |
-| ↳ | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b1c?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Dec 20 |
 | ↳ | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b1d?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Dec 20 |
+| ↳ | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b1c?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Dec 20 |
 | ↳ | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b20?utm_campaign=1050&utm_source=git)** | New Brighton, MN | On Site | Dec 20 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Project Lifecycle](https://jobright.ai/jobs/info/67660e62b7d3d11b751b49fa?utm_campaign=1050&utm_source=git)** | Richland, WA | Hybrid | Dec 20 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/6766012f4c33903e4fdb5215?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Dec 20 |
 | ↳ | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/6766012f4c33903e4fdb5480?utm_campaign=1050&utm_source=git)** | Hanover Park, IL | On Site | Dec 20 |
 | ↳ | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/6766012f4c33903e4fdb548f?utm_campaign=1050&utm_source=git)** | Delavan, WI | On Site | Dec 20 |
-| **[Zoetis](https://www.zoetis.com)** | **[Supply Chain Logistics Operations Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a820570?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 20 |
-| ↳ | **[Supply Chain Logistics Operations Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a820592?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 20 |
+| **[Zoetis](https://www.zoetis.com)** | **[Supply Chain Logistics Operations Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a820592?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 20 |
+| ↳ | **[Supply Chain Logistics Operations Intern](https://jobright.ai/jobs/info/6765f10025e8d1d15a820570?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | Dec 20 |
 | **[Zipline](http://flyzipline.com)** | **[Project Management Intern - Launch Management (Summer 2025)](https://jobright.ai/jobs/info/675d0696805ac30f79005cf2?utm_campaign=1050&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 20 |
-| **[Park National Bank](https://parknationalbank.com/)** | **[Intern](https://jobright.ai/jobs/info/6765f8153079658b09983b23?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 20 |
-| **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672b619363c9c77ab8170318?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

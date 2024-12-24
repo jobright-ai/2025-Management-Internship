@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/676ab4c1a8ce6f0e3edbbddc?utm_campaign=1050&utm_source=git)** | Richardson, TX | Hybrid | Dec 24 |
+| **[Amazon](https://amazon.com)** | **[Amazon Robotics - Program Manager (PM) Summer Intern - 2025](https://jobright.ai/jobs/info/66dacd2c0c03cd8f73b2db00?utm_campaign=1050&utm_source=git)** | Westborough, MA | On Site | Dec 24 |
+| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Hospitality Management Intern](https://jobright.ai/jobs/info/676a87fa6153c13b15eae731?utm_campaign=1050&utm_source=git)** | Charleston County, SC | On Site | Dec 24 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Redwoods Summer Analyst](https://jobright.ai/jobs/info/676a82f0bde79915756798f5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Dec 24 |
 | **[Backroads](https://www.backroads.com)** | **[Hotel Operations Intern](https://jobright.ai/jobs/info/676a747e177084a2b674868a?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Dec 24 |
 | **[Rakuten International](http://rakuten.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/676a4a7833614adb1c79be49?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Dec 23 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Global Pipeline Strategy - Summer 2025](https://jobright.ai/jobs/info/676a433131119bbc5c867de0?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
@@ -73,12 +77,14 @@ For a complete list, click the following sortable link below:
 | **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/676a1dcb458629385ae09831?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 23 |
 | **[Matrix Design Group, Inc.](http://matrixdesigngroup.com)** | **[DOD SkillBridge Intern - GIS](https://jobright.ai/jobs/info/676a459e34faf47aef36b915?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
 | ↳ | **[DOD SkillBridge Intern - GIS](https://jobright.ai/jobs/info/676a3707863d720902c9d43f?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a8d133b47eda15062e467?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Dec 23 |
 | **[Powell](http://www.powellind.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/676a0f940ddc367cb2650f6c?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Dec 23 |
 | **[Valon](https://www.valon.com)** | **[Business Operations Intern (Fannie Mae Future Housing Leaders Program)](https://jobright.ai/jobs/info/6759fd01a41d9ccf7136cf0d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Dec 23 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7f?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Dec 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded593?utm_campaign=1050&utm_source=git)** | East Amherst, NY | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded597?utm_campaign=1050&utm_source=git)** | Farmington, NY | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded59e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded59f?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Dec 23 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a0?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a1?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a2?utm_campaign=1050&utm_source=git)** | Fullerton, CA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a17df0280b1bdcf13db47?utm_campaign=1050&utm_source=git)** | Malibu, CA | On Site | Dec 23 |
@@ -88,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Operations Intern - Start Date 2025 - Straubing](https://jobright.ai/jobs/info/674cd7f6180cd131e80dc707?utm_campaign=1050&utm_source=git)** | St Georges, DE | Hybrid | Dec 23 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Construction Category Supplier Manager](https://jobright.ai/jobs/info/66f69aa063d9816fef789c8d?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Dec 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Strategy Analyst Intern - Missionary](https://jobright.ai/jobs/info/6769ff09caf5165460f386ac?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 23 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2025](https://jobright.ai/jobs/info/676a433131119bbc5c86800b?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Dec 23 |
 | **[SoCalGas](http://www.socalgas.com)** | **[Summer 2025 - Business Administration Intern - Customer Programs and Assistance (Hybrid Schedule)](https://jobright.ai/jobs/info/6769f732e1da286384ab40b1?utm_campaign=1050&utm_source=git)** | LA Metro Area | Hybrid | Dec 23 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2025](https://jobright.ai/jobs/info/6769f732e1da286384ab4147?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Dec 23 |
 | **[Equity Residential](http://equityapartments.com)** | **[Onsite Property Management Internship Summer 2025 - Boston, MA](https://jobright.ai/jobs/info/676a04dd992f8c90580c718f?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Dec 23 |
 | ↳ | **[Onsite Property Management Internship-Mission Viego](https://jobright.ai/jobs/info/676a04dd992f8c90580c717e?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Dec 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/6769f732e1da286384ab414a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Dec 23 |
@@ -103,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hospitality Internship Program](https://jobright.ai/jobs/info/6769eb44e2c74c27807c1720?utm_campaign=1050&utm_source=git)** | Hershey, PA | Hybrid | Dec 23 |
 | **[Watson-Marlow - US](https://www.wmftg.com/us-en/)** | **[Office Manager](https://jobright.ai/jobs/info/67682a34ff5607b3f9371949?utm_campaign=1050&utm_source=git)** | Wilmington, MA | Hybrid | Dec 23 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[Spring 2025 Office Assistant (Work Study)](https://jobright.ai/jobs/info/6769e9ededbf29b43f28a989?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Dec 23 |
-| **[D.R. Horton](http://drhorton.com)** | **[2025 Summer Land Intern - Forestar - Atlanta Central](https://jobright.ai/jobs/info/6769db01fb66ca2873928133?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
-| ↳ | **[2025 Summer Land Intern - Forestar Charleston](https://jobright.ai/jobs/info/6769db01fb66ca287392814d?utm_campaign=1050&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 23 |
+| **[D.R. Horton](http://drhorton.com)** | **[2025 Summer Land Intern - Forestar Charleston](https://jobright.ai/jobs/info/6769db01fb66ca287392814d?utm_campaign=1050&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 23 |
+| ↳ | **[2025 Summer Land Intern - Forestar - Atlanta Central](https://jobright.ai/jobs/info/6769db01fb66ca2873928133?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[2025 Summer Land Intern - Forestar - Atlanta East](https://jobright.ai/jobs/info/6769db01fb66ca2873928118?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[2025 Summer Land Intern - Forestar - Atlanta West](https://jobright.ai/jobs/info/6769db01fb66ca2873928114?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations Manager Intern - Tampa Airport - Summer 2025](https://jobright.ai/jobs/info/6769d7ab4bc9082f52f91b85?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 23 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Entegral](https://Entegral.com)** | **[Summer 2025 Management Internship - Greater Augusta area](https://jobright.ai/jobs/info/6769a50d67dac44cdac0d6d6?utm_campaign=1050&utm_source=git)** | Augusta, ME | On Site | Dec 23 |
 | **[Domtar](http://www.domtar.com)** | **[Supply Chain Logistics Intern - Summer 2025](https://jobright.ai/jobs/info/6769895cdfbe98acccc037c2?utm_campaign=1050&utm_source=git)** | Kingsport, TN | On Site | Dec 23 |
 | **[DC Water](https://dcwater.com/)** | **[Summer Intern, Facilities (25-FAC-204000-090)](https://jobright.ai/jobs/info/67695e767698f9918a7820a1?utm_campaign=1050&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | On Site | Dec 23 |
-| ↳ | **[Summer Intern, Operations (25-P&T-500009-026)](https://jobright.ai/jobs/info/67695e767698f9918a782090?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
-| ↳ | **[Summer Intern, Innovation Management (25-PERF-400003-098)](https://jobright.ai/jobs/info/67695e767698f9918a78207d?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Enterprise Program Management Office (EPMO) (25-PERF-400003-096)](https://jobright.ai/jobs/info/67695e767698f9918a782086?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
+| ↳ | **[Summer Intern, Innovation Management (25-PERF-400003-098)](https://jobright.ai/jobs/info/67695e767698f9918a78207d?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
+| ↳ | **[Summer Intern, Operations (25-P&T-500009-026)](https://jobright.ai/jobs/info/67695e767698f9918a782090?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Procurement-Goods and Services (25-PROC-301003-137)](https://jobright.ai/jobs/info/67695e767698f9918a78208c?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, IT-Project Management (25-IT-601012-087)](https://jobright.ai/jobs/info/67695e767698f9918a782092?utm_campaign=1050&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Procurement-Material Management (25-PROC-301006-139)](https://jobright.ai/jobs/info/67695e767698f9918a782093?utm_campaign=1050&utm_source=git)** | CENTRAL WAREHOUSE MATERIAL MANAGEMENT, Washington, DC, 20032, US | On Site | Dec 23 |
-| **[Mars](https://www.mars.com)** | **[Summer 2025 Mars Wrigley Supply Chain Internship (On-Campus)](https://jobright.ai/jobs/info/66da428023adab47f79ec5da?utm_campaign=1050&utm_source=git)** | Hackettstown, NJ | Hybrid | Dec 23 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66da89014de1e6691530cb7c?utm_campaign=1050&utm_source=git)** | Bethesda, MD | On Site | Dec 23 |
-| **[Protiviti](http://www.protiviti.com)** | **[Tampa Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f63?utm_campaign=1050&utm_source=git)** | Tampa, FL | Hybrid | Dec 23 |
-| **[RapidSOS](https://rapidsos.com)** | **[Strategy & Operations MBA Intern - Summer 2025](https://jobright.ai/jobs/info/67634f3a6754db68f8bfd36c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/66f1092363b0d2ca03a46842?utm_campaign=1050&utm_source=git)** | Palm Beach, FL | On Site | Dec 23 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdae8?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

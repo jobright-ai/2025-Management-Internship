@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, Procurement (Hybrid Schedule)](https://jobright.ai/jobs/info/676b242f6a8b759505a68e1b?utm_campaign=1050&utm_source=git)** | Janelia Research Campus | Hybrid | Dec 24 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Digital Channels](https://jobright.ai/jobs/info/676b24465dac86f08f7ce282?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Fetch Pet Insurance](https://www.fetchpet.com)** | **[Intern (Summer 2025)](https://jobright.ai/jobs/info/67591907b08e22ab38205812?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Redwoods Summer Analyst](https://jobright.ai/jobs/info/676b2eba5c63e5836d1168a3?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Technical Project Management Office Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4adc?utm_campaign=1050&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Summer Intern -Joplin, MO](https://jobright.ai/jobs/info/676badb4ca22887d043e51fd?utm_campaign=1050&utm_source=git)** | Joplin, MO | On Site | Dec 24 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage - J1 Intern/Trainee](https://jobright.ai/jobs/info/676b2869283503ed0682ead7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 24 |
@@ -102,8 +101,10 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/676ab4c1a8ce6f0e3edbbddc?utm_campaign=1050&utm_source=git)** | Richardson, TX | Hybrid | Dec 24 |
 | ↳ | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/676ac23ee699eb44323547c0?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Hybrid | Dec 24 |
 | ↳ | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/676ac23ee699eb44323547c1?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Dec 24 |
+| **[HP](http://www.hp.com)** | **[M&A Integration Intern](https://jobright.ai/jobs/info/675f1d396e2a2a0a324c2a8d?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Dec 24 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/671b758afe1fc4a1f9bc7ee0?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 24 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Program Manager (PM) Summer Intern - 2025](https://jobright.ai/jobs/info/66dacd2c0c03cd8f73b2db00?utm_campaign=1050&utm_source=git)** | Westborough, MA | On Site | Dec 24 |
+| **[Zipline](http://flyzipline.com)** | **[Project Management Intern - Customer Integration (Summer 2025)](https://jobright.ai/jobs/info/675d316cbf995ca16f18f148?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Dec 24 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Hospitality Management Intern](https://jobright.ai/jobs/info/676a87fa6153c13b15eae731?utm_campaign=1050&utm_source=git)** | Charleston County, SC | On Site | Dec 24 |
 | **[Backroads](https://www.backroads.com)** | **[Hotel Operations Intern](https://jobright.ai/jobs/info/676a747e177084a2b674868a?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Dec 24 |
 | **[Rakuten International](http://rakuten.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/676a4a7833614adb1c79be49?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Dec 23 |
@@ -129,12 +130,11 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad0?utm_campaign=1050&utm_source=git)** | East Moline, IL | On Site | Dec 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded593?utm_campaign=1050&utm_source=git)** | East Amherst, NY | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded597?utm_campaign=1050&utm_source=git)** | Farmington, NY | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded59e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded59f?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Dec 23 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a0?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a1?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a2?utm_campaign=1050&utm_source=git)** | Fullerton, CA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a17df0280b1bdcf13db47?utm_campaign=1050&utm_source=git)** | Malibu, CA | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1135f56a271e9662c3cd?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1135f56a271e9662c3ce?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Dec 23 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments Operations Analyst)](https://jobright.ai/jobs/info/66f7d325eec4c3049d278ad3?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Operations Intern - Start Date 2025 - Straubing](https://jobright.ai/jobs/info/674cd7f6180cd131e80dc707?utm_campaign=1050&utm_source=git)** | St Georges, DE | Hybrid | Dec 23 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Chief Innovation Office, Developmental Intern](https://jobright.ai/jobs/info/6769e0a5b216aafa8031e1be?utm_campaign=1050&utm_source=git)** | White Plains, NY | On Site | Dec 23 |
 | **[Watson-Marlow - US](https://www.wmftg.com/us-en/)** | **[Office Manager](https://jobright.ai/jobs/info/67682a34ff5607b3f9371949?utm_campaign=1050&utm_source=git)** | Wilmington, MA | Hybrid | Dec 23 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[Spring 2025 Office Assistant (Work Study)](https://jobright.ai/jobs/info/6769e9ededbf29b43f28a989?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Dec 23 |
-| **[D.R. Horton](http://drhorton.com)** | **[2025 Summer Land Intern - Forestar - Atlanta East](https://jobright.ai/jobs/info/6769db01fb66ca2873928118?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
-| ↳ | **[2025 Summer Land Intern - Forestar Charleston](https://jobright.ai/jobs/info/6769db01fb66ca287392814d?utm_campaign=1050&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 23 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[2025 Summer Land Intern - Forestar Charleston](https://jobright.ai/jobs/info/6769db01fb66ca287392814d?utm_campaign=1050&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 23 |
+| ↳ | **[2025 Summer Land Intern - Forestar - Atlanta East](https://jobright.ai/jobs/info/6769db01fb66ca2873928118?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

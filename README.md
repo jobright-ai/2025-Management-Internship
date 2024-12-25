@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, Conference Services](https://jobright.ai/jobs/info/676b791e859997158aaf68bf?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | On Site | Dec 24 |
+| **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/676bc4d0431cd3aa7f6864a3?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Dec 25 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/676bb2845f6023f5f3d5306e?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Dec 24 |
+| **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[VCU Athletics *Development* Grad Assistant](https://jobright.ai/jobs/info/676b9700d00bc7c0d97de883?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 24 |
+| **[Great Wolf Lodge](http://www.greatwolf.com)** | **[Summer Hospitality Internship Program](https://jobright.ai/jobs/info/676b8e23e4b4588fbc3f84db?utm_campaign=1050&utm_source=git)** | Grapevine, TX | On Site | Dec 24 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/676b871794124e0b057af24d?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Dec 24 |
+| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, Procurement (Hybrid Schedule)](https://jobright.ai/jobs/info/676b8037df2cd99d03dd78f2?utm_campaign=1050&utm_source=git)** | Ashburn, VA | Hybrid | Dec 24 |
+| ↳ | **[Intern, Conference Services](https://jobright.ai/jobs/info/676b791e859997158aaf68bf?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | On Site | Dec 24 |
 | **[Warp](https://www.warp.dev)** | **[Operations Management Intern](https://jobright.ai/jobs/info/676b7d4272ddaad58c355c1e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern -Joplin, MO](https://jobright.ai/jobs/info/676b69c84b016ed2b1d44dce?utm_campaign=1050&utm_source=git)** | Joplin, MO | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Technical Project Management Office Intern](https://jobright.ai/jobs/info/676b6a130334b04a06b03543?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
@@ -76,8 +82,10 @@ For a complete list, click the following sortable link below:
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern - Summer](https://jobright.ai/jobs/info/67672f5562fe98c319dbef0d?utm_campaign=1050&utm_source=git)** | Collierville, TN | On Site | Dec 24 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Intern, Procurement (Hybrid Schedule)](https://jobright.ai/jobs/info/676b242f6a8b759505a68e1b?utm_campaign=1050&utm_source=git)** | Janelia Research Campus | Hybrid | Dec 24 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Digital Channels](https://jobright.ai/jobs/info/676b24465dac86f08f7ce282?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
+| **[Fetch Pet Insurance](https://www.fetchpet.com)** | **[Intern (Summer 2025)](https://jobright.ai/jobs/info/67591907b08e22ab38205812?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Redwoods Summer Analyst](https://jobright.ai/jobs/info/676b2eba5c63e5836d1168a3?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Technical Project Management Office Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4adc?utm_campaign=1050&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| **[Entegral](https://Entegral.com)** | **[Management Trainee Summer Intern -Joplin, MO](https://jobright.ai/jobs/info/676badb4ca22887d043e51fd?utm_campaign=1050&utm_source=git)** | Joplin, MO | On Site | Dec 24 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage - J1 Intern/Trainee](https://jobright.ai/jobs/info/676b2869283503ed0682ead7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 24 |
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Intern](https://jobright.ai/jobs/info/676b2869283503ed0682ea60?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 24 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern,](https://jobright.ai/jobs/info/676b001c6f96f9bf2206cf6c?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Dec 24 |
@@ -99,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Hospitality Management Intern](https://jobright.ai/jobs/info/676a87fa6153c13b15eae731?utm_campaign=1050&utm_source=git)** | Charleston County, SC | On Site | Dec 24 |
 | **[Backroads](https://www.backroads.com)** | **[Hotel Operations Intern](https://jobright.ai/jobs/info/676a747e177084a2b674868a?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Dec 24 |
 | **[Rakuten International](http://rakuten.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/676a4a7833614adb1c79be49?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Dec 23 |
+| **[City of Mountain View](http://mountainview.gov/)** | **[City Manager's Office Intern (Communications and Administration)](https://jobright.ai/jobs/info/676b9c1c8cc1af87984997b9?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Dec 23 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Global Pipeline Strategy - Summer 2025](https://jobright.ai/jobs/info/676a433131119bbc5c867de0?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
 | **[Adventist Health](https://www.adventisthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/676a40ac6ef5f92908eb29fb?utm_campaign=1050&utm_source=git)** | St Helena, CA | On Site | Dec 23 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Supply Chain Internship: Part Time Spring Semester](https://jobright.ai/jobs/info/676a34d718feb7defba49b6c?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Dec 23 |
@@ -120,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6712b1c4a87d0f10529bdad0?utm_campaign=1050&utm_source=git)** | East Moline, IL | On Site | Dec 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded593?utm_campaign=1050&utm_source=git)** | East Amherst, NY | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded597?utm_campaign=1050&utm_source=git)** | Farmington, NY | On Site | Dec 23 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded59e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded59f?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Dec 23 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a0?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a1?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a1b20a8e154a1ddded5a2?utm_campaign=1050&utm_source=git)** | Fullerton, CA | On Site | Dec 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676a17df0280b1bdcf13db47?utm_campaign=1050&utm_source=git)** | Malibu, CA | On Site | Dec 23 |
@@ -142,19 +151,10 @@ For a complete list, click the following sortable link below:
 | **[RapidSOS](https://rapidsos.com)** | **[GTM Strategy & Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67666252c8ae804e279846e4?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Qcells North America](http://www.qcells.com/us)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/676a02415e57dd8dc30c6ac2?utm_campaign=1050&utm_source=git)** | Cartersville, GA | On Site | Dec 23 |
 | **[Beth Israel Deaconess Medical Center](https://www.bidmc.org/)** | **[Co-op, Project Management, HMFP_BIDMC](https://jobright.ai/jobs/info/676a0f940ddc367cb2651055?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Dec 23 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern - Forestar - Atlanta Central](https://jobright.ai/jobs/info/6769db01fb66ca2873928133?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[NYPA Ventures Intern, Developmental Intern](https://jobright.ai/jobs/info/6769e0a5b216aafa8031e1cf?utm_campaign=1050&utm_source=git)** | White Plains, NY | On Site | Dec 23 |
 | ↳ | **[Chief Innovation Office, Developmental Intern](https://jobright.ai/jobs/info/6769e0a5b216aafa8031e1be?utm_campaign=1050&utm_source=git)** | White Plains, NY | On Site | Dec 23 |
 | **[Watson-Marlow - US](https://www.wmftg.com/us-en/)** | **[Office Manager](https://jobright.ai/jobs/info/67682a34ff5607b3f9371949?utm_campaign=1050&utm_source=git)** | Wilmington, MA | Hybrid | Dec 23 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[Spring 2025 Office Assistant (Work Study)](https://jobright.ai/jobs/info/6769e9ededbf29b43f28a989?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Dec 23 |
 | **[D.R. Horton](http://drhorton.com)** | **[2025 Summer Land Intern - Forestar - Atlanta East](https://jobright.ai/jobs/info/6769db01fb66ca2873928118?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[2025 Summer Land Intern - Forestar Charleston](https://jobright.ai/jobs/info/6769db01fb66ca287392814d?utm_campaign=1050&utm_source=git)** | Mount Pleasant, SC | On Site | Dec 23 |
-| ↳ | **[2025 Summer Land Intern - Forestar - Atlanta West](https://jobright.ai/jobs/info/6769db01fb66ca2873928114?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations Manager Intern - Tampa Airport - Summer 2025](https://jobright.ai/jobs/info/6769d7ab4bc9082f52f91b85?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 23 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - Athletics - Administrative Assistant](https://jobright.ai/jobs/info/6769f11e058373b622eb786a?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Dec 23 |
-| **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Hospitality Management Intern](https://jobright.ai/jobs/info/6769db01fb66ca28739281eb?utm_campaign=1050&utm_source=git)** | Arcadia, CA | On Site | Dec 23 |
-| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/6769cf3f65cba2c07f215fa2?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Dec 23 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Engineering Project Manager Intern](https://jobright.ai/jobs/info/6769da9f66734e68b98b4e79?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 23 |
-| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2025 Graduate Internship - Business Technology Services](https://jobright.ai/jobs/info/6769cda120fc5041762ccdf7?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 23 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6769e9ededbf29b43f28a8da?utm_campaign=1050&utm_source=git)** | Madison, CT | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

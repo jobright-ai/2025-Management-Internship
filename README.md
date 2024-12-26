@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[White Cap](https://www.whitecap.com/)** | **[Category Management Intern (Summer 2025)](https://jobright.ai/jobs/info/67333f7fe8ae69aa0d1ef2ae?utm_campaign=1050&utm_source=git)** | Norcross, GA | On Site | Dec 25 |
+| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2025](https://jobright.ai/jobs/info/676cb786aa6224f82dba2cbb?utm_campaign=1050&utm_source=git)** | Cold Springs, NV | On Site | Dec 25 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Admin Intern](https://jobright.ai/jobs/info/676c8bf2bf099b5bb20ee27f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/676c645a9d75b2c6101268c0?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Dec 25 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/676c645a9d75b2c6101268e7?utm_campaign=1050&utm_source=git)** | Mansfield, TX | On Site | Dec 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Strategic Sourcing Analyst Co-op](https://jobright.ai/jobs/info/676c2846a809c5876d46d13a?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Dec 25 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/676bb2845f6023f5f3d5306e?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Dec 24 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[VCU Athletics *Development* Grad Assistant](https://jobright.ai/jobs/info/676b9700d00bc7c0d97de883?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 24 |
@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy & Operations Intern - Summer 2025](https://jobright.ai/jobs/info/676b61b3b1fad9741e46edb7?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | ↳ | **[Strategy & Operations MBA Intern - Summer 2025](https://jobright.ai/jobs/info/676b70805a51f4299399f37a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676b6eba7f6c3f8e3fb19463?utm_campaign=1050&utm_source=git)** | Ronkonkoma, NY | On Site | Dec 24 |
+| **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer - Supply Chain Intern / Co-Op (R11628)](https://jobright.ai/jobs/info/674dfde8914932ffe1ac5129?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Dec 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Administrative](https://jobright.ai/jobs/info/676b716c326512b97cc656eb?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 24 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Retail Operations](https://jobright.ai/jobs/info/676b407c54236f5277b72ea9?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
 | **[Uline](http://www.uline.com)** | **[Distribution Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672b73bf89475b37a705811c?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Dec 24 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Lafayette Square](https://www.lafayettesquare.com/)** | **[Intern](https://jobright.ai/jobs/info/676b2869283503ed0682ea60?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 24 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern,](https://jobright.ai/jobs/info/676b001c6f96f9bf2206cf6c?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Dec 24 |
 | **[Graco](http://graco.com/in/en/)** | **[Global Strategic Sourcing Intern](https://jobright.ai/jobs/info/66da27c4a47203ddff2106a6?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 24 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Digital Channels](https://jobright.ai/jobs/info/676af1303aa3e39a1a218dd0?utm_campaign=1050&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Dec 24 |
-| ↳ | **[Summer Intern- Digital Channels](https://jobright.ai/jobs/info/676af1303aa3e39a1a218e20?utm_campaign=1050&utm_source=git)** | Kirby - Houston, TX | On Site | Dec 24 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Digital Channels](https://jobright.ai/jobs/info/676af1303aa3e39a1a218e20?utm_campaign=1050&utm_source=git)** | Kirby - Houston, TX | On Site | Dec 24 |
+| ↳ | **[Summer Intern- Digital Channels](https://jobright.ai/jobs/info/676af1303aa3e39a1a218dd0?utm_campaign=1050&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Dec 24 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/676af971db4e7e6a179a9918?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Dec 24 |
 | **[Holmes Murphy](http://www.holmesmurphy.com/)** | **[Summer 2025 Project Coordinator Internship](https://jobright.ai/jobs/info/676b3992153b4014937f1a95?utm_campaign=1050&utm_source=git)** | Waukee, IA | On Site | Dec 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  U.S. Value & Access / Contracting, Analytics, Pricing, and Execution](https://jobright.ai/jobs/info/676ad6eb705347bc48561ed4?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 24 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Onsite Property Management Internship-Mission Viego](https://jobright.ai/jobs/info/676a04dd992f8c90580c717e?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Dec 23 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/6769f732e1da286384ab414a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Dec 23 |
 | **[Arup](http://www.arup.com)** | **[Project and Commercial Management Intern (Available June 2025)](https://jobright.ai/jobs/info/66dbb8844fd26a945eb14bf9?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
-| **[HEICO](http://www.heico.com)** | **[Process Improvement Intern](https://jobright.ai/jobs/info/676a0826ac9eadee46b6d95d?utm_campaign=1050&utm_source=git)** | Hollywood, FL | On Site | Dec 23 |
 | **[Qcells North America](http://www.qcells.com/us)** | **[2025 Summer Internship](https://jobright.ai/jobs/info/676a02415e57dd8dc30c6ac2?utm_campaign=1050&utm_source=git)** | Cartersville, GA | On Site | Dec 23 |
 | **[Beth Israel Deaconess Medical Center](https://www.bidmc.org/)** | **[Co-op, Project Management, HMFP_BIDMC](https://jobright.ai/jobs/info/676a0f940ddc367cb2651055?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

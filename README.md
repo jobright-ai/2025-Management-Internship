@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66e1d068fbdd0549049d227f?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Dec 27 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Project Manager](https://jobright.ai/jobs/info/674fc18cb85976fdb30d4153?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | Hybrid | Dec 27 |
 | **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/676e72077c51260e84d628dd?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[CTD Temporary Summer Office Assistant](https://jobright.ai/jobs/info/676e67ee18701a234e9d61d5?utm_campaign=1050&utm_source=git)** | Evanston, IL | Hybrid | Dec 26 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Fairfield County, CT](https://jobright.ai/jobs/info/676e62cd1f8bd068fb7651f5?utm_campaign=1050&utm_source=git)** | Wilton Center, CT | On Site | Dec 26 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/676e62cd1f8bd068fb765200?utm_campaign=1050&utm_source=git)** | Mansfield, TX | On Site | Dec 26 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/676e62cd1f8bd068fb765201?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Dec 26 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Office of the Chief Commercial Officer](https://jobright.ai/jobs/info/676e4559dc4c479e44a37177?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Leidos](https://www.leidos.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/676e26a5333fcf8780f02155?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 26 |
+| **[Leidos](https://www.leidos.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/676e26a5333fcf8780f02178?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[ASPIRE Internship - Gainesville Florida](https://jobright.ai/jobs/info/676e1ffe51a378636ceaff67?utm_campaign=1050&utm_source=git)** | Gainesville Metro | On Site | Dec 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/676e10ea28fac6cb30a83dba?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 26 |
 | **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern – Strategy & Operations, DX Marketing](https://jobright.ai/jobs/info/676e010f7e0e02c845603689?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
@@ -79,10 +81,10 @@ For a complete list, click the following sortable link below:
 | **[RapidSOS](https://rapidsos.com)** | **[GTM Strategy & Operations Intern - Summer 2025](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe461?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Dec 26 |
 | ↳ | **[Strategy & Operations Intern - Summer 2025](https://jobright.ai/jobs/info/676dcf27536d9f689478e156?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Concessions Management Internship, Allianz Field](https://jobright.ai/jobs/info/676e40ecefc8f260376e3f63?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Dec 26 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Empower Qualified Underrepresented Administrative Leaders (EQUAL) Internship](https://jobright.ai/jobs/info/676dca3cc1fc94f623f710e2?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 26 |
 | **[RapidSOS](https://rapidsos.com)** | **[Strategy & Operations MBA Intern - Summer 2025](https://jobright.ai/jobs/info/676dca3cc1fc94f623f710f1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Elastic](https://www.elastic.co)** | **[Analyst, Revenue Strategy &amp; Operations - SkillBridge Intern](https://jobright.ai/jobs/info/676dba0651e384ec62a5e22b?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/676dac53a112766a58ec09db?utm_campaign=1050&utm_source=git)** | Georgetown, DE | On Site | Dec 26 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Empower Qualified Underrepresented Administrative Leaders (EQUAL) Internship](https://jobright.ai/jobs/info/676db70323cbbceb515dd0f8?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 26 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Supply Chain Internship - A&F Co.](https://jobright.ai/jobs/info/676db6e6b27e6b8ea9d0cb04?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 26 |
 | ↳ | **[Supply Chain Internship - A&F Co.](https://jobright.ai/jobs/info/676da3a164c7b39ab8f03924?utm_campaign=1050&utm_source=git)** | Columbus, OH, USA | On Site | Dec 26 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[IT Project Management Office Intern](https://jobright.ai/jobs/info/676d9b45699caef19bbb3008?utm_campaign=1050&utm_source=git)** | United States | On Site | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/676ab4c1a8ce6f0e3edbbddc?utm_campaign=1050&utm_source=git)** | Richardson, TX | Hybrid | Dec 24 |
 | ↳ | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/676ac23ee699eb44323547c0?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Hybrid | Dec 24 |
 | ↳ | **[2025 Summer Intern - Property & Casualty Underwriting & Enterprise Operations](https://jobright.ai/jobs/info/676ac23ee699eb44323547c1?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Dec 24 |
-| **[HP](http://www.hp.com)** | **[M&A Integration Intern](https://jobright.ai/jobs/info/675f1d396e2a2a0a324c2a8d?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Dec 24 |
-| **[IMG Academy](https://www.imgacademy.com)** | **[Hospitality Operations Intern](https://jobright.ai/jobs/info/67575990031ba1a6f0c60a1f?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

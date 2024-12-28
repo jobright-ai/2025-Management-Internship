@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern - Documentation Specialist](https://jobright.ai/jobs/info/676ff9984161680172b2e2a7?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 28 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/675337098aa41e895d5be24c?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Dec 28 |
+| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Per Diem Pharmacy Intern - Mount Sinai Brooklyn](https://jobright.ai/jobs/info/675992385527b42b58ca5ba3?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Dec 28 |
+| **[Emerson Health](https://www.emersonhospital.org/)** | **[Administrative Internship](https://jobright.ai/jobs/info/676fc7e0d3d114e624fa43dd?utm_campaign=1050&utm_source=git)** | Concord, MA | On Site | Dec 28 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Supply Chain (Summer 2025)](https://jobright.ai/jobs/info/676fc1b1f3ccd9f96515aff5?utm_campaign=1050&utm_source=git)** | Nevada, United States | On Site | Dec 28 |
-| **[Emerson Health](https://www.emersonhospital.org/)** | **[Administrative Internship](https://jobright.ai/jobs/info/676fbaef43b05f9a2621c8e5?utm_campaign=1050&utm_source=git)** | Concord, MA | On Site | Dec 27 |
+| **[Emerson Health](https://www.emersonhospital.org/)** | **[Administrative Fellowship](https://jobright.ai/jobs/info/676fd0b927d0e4c2f982807d?utm_campaign=1050&utm_source=git)** | Concord, MA | On Site | Dec 28 |
 | **[Amazon](https://amazon.com)** | **[Operations Intern - Bayern- Start Date 2025](https://jobright.ai/jobs/info/676f7a392c923a0628679a2b?utm_campaign=1050&utm_source=git)** | St Georges, DE | Hybrid | Dec 27 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Facilities Intern](https://jobright.ai/jobs/info/676f65a67577aab4600955e2?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 27 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Field Operations Summer 2025 Intern - Pleasant Valley, NY](https://jobright.ai/jobs/info/676f690c6cfa3345029e329c?utm_campaign=1050&utm_source=git)** | Pleasant Valley, NY | On Site | Dec 27 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Internship- Flemington, NJ](https://jobright.ai/jobs/info/676f25da493a3554a1a1a5fe?utm_campaign=1050&utm_source=git)** | Flemington, NJ | On Site | Dec 27 |
 | **[Wichita State University](http://www.wichita.edu)** | **[Office Assistant](https://jobright.ai/jobs/info/676f335772ebd06f995edf38?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[Park National Bank](https://parknationalbank.com/)** | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d0a4?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d14b?utm_campaign=1050&utm_source=git)** | Newark, OH | On Site | Dec 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d14a?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Dec 27 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d14b?utm_campaign=1050&utm_source=git)** | Newark, OH | On Site | Dec 27 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Management — Intern (Summer 2025)](https://jobright.ai/jobs/info/676f23d123dc2e0978773203?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[University of Northern Colorado](http://www.unco.edu/)** | **[University Aide - Administrative Assistant](https://jobright.ai/jobs/info/676f2dda4a44bca53ad1e9ce?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Dec 27 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Special Projects](https://jobright.ai/jobs/info/676f25da493a3554a1a1a5e0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
@@ -83,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/675232c86ef56a79e3b5b456?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 27 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6742ca270fd16fa2f0b46291?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Dec 27 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2025](https://jobright.ai/jobs/info/6733ec7c497aa959fc66dbfe?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Dec 27 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66f6e6337f26b59b8671fa0b?utm_campaign=1050&utm_source=git)** | Lakeville, MN | On Site | Dec 27 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66f6e6337f26b59b8671fa0b?utm_campaign=1050&utm_source=git)** | Lakeville, MN | On Site | Dec 27 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2025](https://jobright.ai/jobs/info/676f02f3a06b6326f5fc795c?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Dec 27 |
 | ↳ | **[Warehouse Management Internship - Summer 2025](https://jobright.ai/jobs/info/676f073b6478c2873f7f6f23?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Dec 27 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Operations Management Internship, Busch Stadium](https://jobright.ai/jobs/info/676f50b267943b40805f6eb2?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Dec 27 |
@@ -112,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Purchasing Internship](https://jobright.ai/jobs/info/66fc7bb70d3b1adb488e64a0?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | Dec 27 |
 | **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2025](https://jobright.ai/jobs/info/6751b09ab78c28145aa9257b?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 27 |
 | **[Rincon Research Corporation](http://www.rincon.com)** | **[Summer Intern - 2025](https://jobright.ai/jobs/info/6752ce95784e09a183d5e320?utm_campaign=1050&utm_source=git)** | Chantilly, VA | On Site | Dec 27 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66e1d068fbdd0549049d227f?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Dec 27 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66e1d068fbdd0549049d227f?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Dec 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Project Manager](https://jobright.ai/jobs/info/674fc18cb85976fdb30d4153?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | Hybrid | Dec 27 |
 | **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/676e72077c51260e84d628dd?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 27 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[CTD Temporary Summer Office Assistant](https://jobright.ai/jobs/info/676e67ee18701a234e9d61d5?utm_campaign=1050&utm_source=git)** | Evanston, IL | Hybrid | Dec 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  U.S. Value & Access / Contracting, Analytics, Pricing, and Execution](https://jobright.ai/jobs/info/676ad6eb705347bc48561ed4?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 | **[HIROTEC AMERICA, Inc.](http://www.hirotecamerica.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/676d8398557ef9b727318bf5?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Dec 26 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Supply Chain (Summer 2025)](https://jobright.ai/jobs/info/676d661bcc7d46e7039170c0?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Dec 26 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Empower Qualified Underrepresented Administrative Leaders (EQUAL) Internship](https://jobright.ai/jobs/info/676d671b780d078602d675f8?utm_campaign=1050&utm_source=git)** | 55901 | On Site | Dec 26 |
-| **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Supply Chain (Summer 2025)](https://jobright.ai/jobs/info/676d75b0c03730940d317219?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Dec 26 |
-| **[Ørsted](https://orsted.com)** | **[Operations Project Manager Intern](https://jobright.ai/jobs/info/676d6fe55938b1930d18afd7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Distribution Operations Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/672b66b223d491c0e24dbc7c?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

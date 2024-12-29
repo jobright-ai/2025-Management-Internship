@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/677174bbaa51e5772de9cc96?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Dec 29 |
 | **[Clique Hospitality](https://cliquehospitality.com/)** | **[Internship Program - Clique Hospitality](https://jobright.ai/jobs/info/677108711fdca6806e82baf0?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Dec 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/67710434c0a8594c88792088?utm_campaign=1050&utm_source=git)** | Franklin, MA | On Site | Dec 28 |
 | **[Morrison Industries, Inc.](https://morrison.industries)** | **[Management Intern](https://jobright.ai/jobs/info/6770d220d0ac41f0d1c6ef70?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Dec 28 |
+| **[Sanofi](https://www.sanofi.com)** | **[2025 Summer Intern – Supply Chain, Vaccines](https://jobright.ai/jobs/info/6758824d3dc7c75964729529?utm_campaign=1050&utm_source=git)** | Swiftwater, PA | On Site | Dec 28 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Administrator in Training (AIT)](https://jobright.ai/jobs/info/67708e2ca30791dfb4478ec3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 28 |
 | **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Project Management Intern](https://jobright.ai/jobs/info/67708949b58dd78d3e401650?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Dec 28 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Admin Intern](https://jobright.ai/jobs/info/677063a317ff2c2d064d664c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 28 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern,](https://jobright.ai/jobs/info/676b001c6f96f9bf2206cf6c?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Dec 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Operations Intern](https://jobright.ai/jobs/info/67702d5028aa9fe9fb8c526f?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 28 |
 | **[Lineage](https://www.onelineage.com)** | **[DoD SkillBridge Internship - Operations Supervisor](https://jobright.ai/jobs/info/6770070f4c30c65264fad927?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Dec 28 |
+| **[Belk](http://www.belk.com)** | **[Summer 2025 Intern: Distribution Center (Jackson, MS)](https://jobright.ai/jobs/info/6766b0c257b57716cac24a9d?utm_campaign=1050&utm_source=git)** | Greater Jackson Area | On Site | Dec 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern - Documentation Specialist](https://jobright.ai/jobs/info/676ff9984161680172b2e2a7?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 28 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Land Development Internship](https://jobright.ai/jobs/info/67374b7b3aa4b95272bace9f?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Dec 28 |
 | **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/675337098aa41e895d5be24c?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Dec 28 |
@@ -83,15 +86,15 @@ For a complete list, click the following sortable link below:
 | **[IMG Academy](https://www.imgacademy.com)** | **[Hospitality Operations Intern](https://jobright.ai/jobs/info/67575990031ba1a6f0c60a1f?utm_campaign=1050&utm_source=git)** | Bradenton, FL | On Site | Dec 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[HW Project Manager Intern - Summer 2025](https://jobright.ai/jobs/info/676f3bd87ce9564a2f7a091b?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Dec 27 |
 | **[Rakuten International](http://rakuten.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/676f3cd87c8fd50930efc1b0?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Dec 27 |
-| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d018?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Dec 27 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Management — Intern (Summer 2025)](https://jobright.ai/jobs/info/676f29cbf70a153f1fbaaf65?utm_campaign=1050&utm_source=git)** | San Francisco | On Site | Dec 27 |
 | **[Schimenti Construction Company](http://schimenti.com)** | **[Internship- Flemington, NJ](https://jobright.ai/jobs/info/676f25da493a3554a1a1a5fe?utm_campaign=1050&utm_source=git)** | Flemington, NJ | On Site | Dec 27 |
 | **[Wichita State University](http://www.wichita.edu)** | **[Office Assistant](https://jobright.ai/jobs/info/676f335772ebd06f995edf38?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Dec 27 |
 | **[Park National Bank](https://parknationalbank.com/)** | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d0a4?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d14b?utm_campaign=1050&utm_source=git)** | Newark, OH | On Site | Dec 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d14a?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Dec 27 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/676f3123969db1fda088d14b?utm_campaign=1050&utm_source=git)** | Newark, OH | On Site | Dec 27 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Management — Intern (Summer 2025)](https://jobright.ai/jobs/info/676f23d123dc2e0978773203?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[University of Northern Colorado](http://www.unco.edu/)** | **[University Aide - Administrative Assistant](https://jobright.ai/jobs/info/676f2dda4a44bca53ad1e9ce?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Dec 27 |
+| **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Micheal Boulden Memorial Intern](https://jobright.ai/jobs/info/676f18c1fdc409cc9a663378?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Dec 27 |
 | **[The Port Authority of New York & New Jersey](https://panynj.gov/port-authority/en/index.html)** | **[Summer Intern, Special Projects](https://jobright.ai/jobs/info/676f25da493a3554a1a1a5e0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[HW Project Manager Intern - Summer 2025](https://jobright.ai/jobs/info/676f11d9a32783dc5062b2ca?utm_campaign=1050&utm_source=git)** | Plantation, FL | On Site | Dec 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern](https://jobright.ai/jobs/info/67358b26966432d5c593a496?utm_campaign=1050&utm_source=git)** | Farmington, MI | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Entegral](https://Entegral.com)** | **[Summer 2025 Management Trainee Intern - Danbury, CT](https://jobright.ai/jobs/info/676e7295b21286dcff6f8255?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | On Site | Dec 26 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Fairfield County, CT](https://jobright.ai/jobs/info/676e40ecefc8f260376e3f45?utm_campaign=1050&utm_source=git)** | Wilton, CT | On Site | Dec 26 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Internship #871](https://jobright.ai/jobs/info/676de43fece1b588609a445a?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Dec 26 |
-| **[New York Power Authority](http://www.nypa.gov)** | **[AGILe, Developmental Intern](https://jobright.ai/jobs/info/676dd4b052ad27398849f7dc?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Dec 26 |
-| **[Fetch Pet Insurance](https://www.fetchpet.com)** | **[Intern (Summer 2025)](https://jobright.ai/jobs/info/67591907b08e22ab38205812?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 26 |
-| **[RapidSOS](https://rapidsos.com)** | **[GTM Strategy & Operations Intern - Summer 2025](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe461?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

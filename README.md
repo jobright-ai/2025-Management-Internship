@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiewit](http://www.kiewit.com)** | **[Project Controls Intern - Kiewit Industrial & Water Engineering (Summer 2025)](https://jobright.ai/jobs/info/6775c73897efa35726063da0?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Jan 01 |
+| **[Endeavor Air](http://www.endeavorair.com/)** | **[Flight Operations Administration Intern](https://jobright.ai/jobs/info/6775d7aa5b9fb260398c3f51?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 01 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Admin Intern](https://jobright.ai/jobs/info/6775c2065d91eeb196620421?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Supply Chain Intern - Summer 2025- Hormel Foods - Austin, MN or Willmar, MN](https://jobright.ai/jobs/info/67756fe6a6a5cb97b0a76dac?utm_campaign=1050&utm_source=git)** | 1101 North Main Street, Austin, MN, 55912, US | On Site | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Insternship - Supply Chain Management](https://jobright.ai/jobs/info/67753321b8586eef8cf48c5c?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6703eb2280622853ddf77532?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Jan 01 |
@@ -80,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 / Americas / Dallas / Asset Management, Real Estate / Summer Analyst](https://jobright.ai/jobs/info/6774e70eac131bf8e90148cf?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Strategy, Planning & Performance Intern - Masters or MBA](https://jobright.ai/jobs/info/6774d6d91d8ad22a7b7c0d6d?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- IT Project Management and Communications](https://jobright.ai/jobs/info/67750052a5b519cef8e6b480?utm_campaign=1050&utm_source=git)** | Westbrook, ME | On Site | Dec 31 |
-| ↳ | **[Intern- Barbara Bush Children's Hospital Administration](https://jobright.ai/jobs/info/6774e5c0830c36943c42e6e7?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 31 |
 | ↳ | **[Intern- Planning](https://jobright.ai/jobs/info/6774e5c0830c36943c42e8d4?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 31 |
+| ↳ | **[Intern- Barbara Bush Children's Hospital Administration](https://jobright.ai/jobs/info/6774e5c0830c36943c42e6e7?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 31 |
 | **[Frost](https://www.frostbank.com/)** | **[Frost Summer Internship - Permian Basin](https://jobright.ai/jobs/info/6774d3cc4de4f1a1fb3cbd19?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Dec 31 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- MHMG Operations](https://jobright.ai/jobs/info/6774e5c0830c36943c42e900?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Dec 31 |
 | ↳ | **[Intern- MHMG Endocrinology and Diabetes](https://jobright.ai/jobs/info/6774e5c0830c36943c42e901?utm_campaign=1050&utm_source=git)** | Scarborough, ME | On Site | Dec 31 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67746547badf0e1702a683b0?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 31 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6774ebf84b76b67a40e17a7d?utm_campaign=1050&utm_source=git)** | Westminster, MD | On Site | Dec 31 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Summer Intern - Gainesville, FL](https://jobright.ai/jobs/info/6774ed0c95db754b27bf885b?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Dec 31 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Insights Programs - Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/67743f1f49c648314c28bdaa?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Dec 31 |
-| ↳ | **[2026 Commercial & Investment Bank Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/67743f1f49c648314c28bd93?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Dec 31 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/67743f1f49c648314c28bd93?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Dec 31 |
+| ↳ | **[2026 Commercial & Investment Bank Insights Programs - Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/67743f1f49c648314c28bdaa?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Dec 31 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Summer Intern - Jacksonville, FL](https://jobright.ai/jobs/info/67752dd1543e4924e7d24306?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Dec 31 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[HEOR Intern](https://jobright.ai/jobs/info/67743895ed0ca3b6a230a70f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 31 |
 | ↳ | **[HEOR Intern](https://jobright.ai/jobs/info/67743809b92e4004659fa6fd?utm_campaign=1050&utm_source=git)** | Boston, MA, USA | On Site | Dec 31 |
@@ -139,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6774634873ad79609ae73bb1?utm_campaign=1050&utm_source=git)** | East Moline, IL | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67748b6d9018378500b998be?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67748b6d9018378500b998c0?utm_campaign=1050&utm_source=git)** | Stewartville, MN | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf2?utm_campaign=1050&utm_source=git)** | Sturtevant, WI | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf1?utm_campaign=1050&utm_source=git)** | Lowell, IN | On Site | Dec 31 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf2?utm_campaign=1050&utm_source=git)** | Sturtevant, WI | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf3?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf5?utm_campaign=1050&utm_source=git)** | Des Plaines, IL | On Site | Dec 31 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/677455292816e493db1ce490?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Strategy and Operations MBA Intern (Monetization Product)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45f76?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b1c?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Dec 31 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Control Room Intern](https://jobright.ai/jobs/info/67008747aa4635489e9e03e1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
-| **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship - Corporate Real Estate/Facilities](https://jobright.ai/jobs/info/66ebb689c3964f713cfc2d1b?utm_campaign=1050&utm_source=git)** | Fort Washington, PA | On Site | Dec 31 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship - Buckeye, Avondale, Goodyear AZ](https://jobright.ai/jobs/info/6757c96c85306f0f47fac2eb?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Dec 31 |
-| **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4a14?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

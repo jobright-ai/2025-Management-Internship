@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Commercial Operations & Launch Planning](https://jobright.ai/jobs/info/6776047865e5c456c02835b0?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
+| **[Bilin Academy](https://bilin.academy)** | **[Executive Assistant Intern - Bilin Academy](https://jobright.ai/jobs/info/6775f9b69ba3c9fc37cefe44?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 01 |
+| **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/6775f9b69ba3c9fc37cefe60?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jan 01 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Commercial Operations & Launch Planning](https://jobright.ai/jobs/info/6775e84d800fc3a04affe68b?utm_campaign=1050&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Jan 01 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Controls Intern - Kiewit Industrial & Water Engineering (Summer 2025)](https://jobright.ai/jobs/info/6775c73897efa35726063da0?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Jan 01 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Flight Operations Administration Intern](https://jobright.ai/jobs/info/6775d7aa5b9fb260398c3f51?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 01 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Admin Intern](https://jobright.ai/jobs/info/6775c2065d91eeb196620421?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 01 |
+| **[Folio](https://folio.works/)** | **[Strategic Operations Intern (MBA)](https://jobright.ai/jobs/info/6775e6b61213c0842e1ac0ab?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Supply Chain Intern - Summer 2025- Hormel Foods - Austin, MN or Willmar, MN](https://jobright.ai/jobs/info/67756fe6a6a5cb97b0a76dac?utm_campaign=1050&utm_source=git)** | 1101 North Main Street, Austin, MN, 55912, US | On Site | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Insternship - Supply Chain Management](https://jobright.ai/jobs/info/67753321b8586eef8cf48c5c?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6703eb2280622853ddf77532?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Jan 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/677549dc7da063486a826666?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 01 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/677529867d391ad6ceae4fdd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 01 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e36a55ea75b6f96bee2f5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[2025 MBA Summer Intern: Commercial Strategy](https://jobright.ai/jobs/info/675a69c77d57a5bcd3949482?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 01 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Health Data Strategy - Summer Internship](https://jobright.ai/jobs/info/6750a40e77640175b2a7dc21?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Jan 01 |
 | **[Jabil](https://www.jabil.com)** | **[Communication and Change Management Intern](https://jobright.ai/jobs/info/67752c8dbc24b100bf6e9dda?utm_campaign=1050&utm_source=git)** | St Petersburg, FL | On Site | Jan 01 |
@@ -130,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6774cd8ddeec332fb821d394?utm_campaign=1050&utm_source=git)** | Roseville, MN | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6774cd8ddeec332fb821d39a?utm_campaign=1050&utm_source=git)** | Council Bluffs, IA | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f0?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f1?utm_campaign=1050&utm_source=git)** | Crest Hill, IL | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f2?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Dec 31 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f7?utm_campaign=1050&utm_source=git)** | Crest Hill, IL | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f6?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f5?utm_campaign=1050&utm_source=git)** | Tomah, WI | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744a5b27918c99fc35082a?utm_campaign=1050&utm_source=git)** | Hermantown, MN | On Site | Dec 31 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf5?utm_campaign=1050&utm_source=git)** | Des Plaines, IL | On Site | Dec 31 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/677455292816e493db1ce490?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 31 |
 | **[iCapital](https://icapital.com)** | **[Operations - Intern](https://jobright.ai/jobs/info/67741e40c3b32e2c0da45cf8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 31 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Summer 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c2521?utm_campaign=1050&utm_source=git)** | CP AHS SUPPORT CENTER893 HOPE WAY | On Site | Dec 31 |
-| ↳ | **[Supply Chain Intern Summer 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c25bc?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Dec 31 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Summer 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c25bc?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Dec 31 |
+| ↳ | **[Supply Chain Intern Summer 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c2521?utm_campaign=1050&utm_source=git)** | CP AHS SUPPORT CENTER893 HOPE WAY | On Site | Dec 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Corporate Pharmacy Intern](https://jobright.ai/jobs/info/6774b6ff126313b8456b06d2?utm_campaign=1050&utm_source=git)** | Deerfield, IL | On Site | Dec 31 |
-| **[iCapital](https://icapital.com)** | **[Operations - Intern](https://jobright.ai/jobs/info/6773fe11c12a0e829416c80e?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Dec 31 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Workfront Associate - Technology Implementation/Project Management](https://jobright.ai/jobs/info/6773dc68bee903dd727b6c2a?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 31 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Business System Management](https://jobright.ai/jobs/info/6773dc4583e57abdc6924c81?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Strategy and Operations MBA Intern (Monetization Product)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45f76?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
-| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/67660e62b7d3d11b751b4b1c?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Dec 31 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Control Room Intern](https://jobright.ai/jobs/info/67008747aa4635489e9e03e1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

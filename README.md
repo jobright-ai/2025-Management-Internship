@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BIGO](https://www.bigo.sg)** | **[Regional Assistant Intern](https://jobright.ai/jobs/info/67764742edae6df9feb0c5c6?utm_campaign=1050&utm_source=git)** | LA Metro Area | Hybrid | Jan 01 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67765017acc040f20e50249b?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Jan 01 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/6776409b583defff2ee04c5a?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Jan 01 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/6776409b583defff2ee04c71?utm_campaign=1050&utm_source=git)** | Franklin, MA | On Site | Jan 01 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/6776409b583defff2ee04c73?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Jan 01 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/6776409b583defff2ee04c79?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Jan 01 |
+| **[Munich Re](https://www.munichre.com)** | **[Client Operations Intern](https://jobright.ai/jobs/info/677631c50420153ac5725f43?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Jan 01 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Program/Project Assistant Intern](https://jobright.ai/jobs/info/67762a9b8ac5c48a10a0af7b?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 01 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Insights Programs - Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/67765a6825c14493cbe66682?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Commercial Operations & Launch Planning](https://jobright.ai/jobs/info/6776047865e5c456c02835b0?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | Jan 01 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/677648bbcfe590505d2a7020?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/6776536120310bc8c10230e4?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 01 |
 | **[Bilin Academy](https://bilin.academy)** | **[Executive Assistant Intern - Bilin Academy](https://jobright.ai/jobs/info/6775f9b69ba3c9fc37cefe44?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 01 |
-| **[Solenis](http://solenis.com/)** | **[2025 Corporate Intern](https://jobright.ai/jobs/info/6775f9b69ba3c9fc37cefe60?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jan 01 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Commercial Operations & Launch Planning](https://jobright.ai/jobs/info/6775e84d800fc3a04affe68b?utm_campaign=1050&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Jan 01 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Controls Intern - Kiewit Industrial & Water Engineering (Summer 2025)](https://jobright.ai/jobs/info/6775c73897efa35726063da0?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Jan 01 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Flight Operations Administration Intern](https://jobright.ai/jobs/info/6775d7aa5b9fb260398c3f51?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 01 |
@@ -68,10 +78,13 @@ For a complete list, click the following sortable link below:
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Supply Chain Intern - Summer 2025- Hormel Foods - Austin, MN or Willmar, MN](https://jobright.ai/jobs/info/67756fe6a6a5cb97b0a76dac?utm_campaign=1050&utm_source=git)** | 1101 North Main Street, Austin, MN, 55912, US | On Site | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2025 US Undergraduate Insternship - Supply Chain Management](https://jobright.ai/jobs/info/67753321b8586eef8cf48c5c?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/6703eb2280622853ddf77532?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Jan 01 |
+| **[Arthrex](https://www.arthrex.com/)** | **[Strategic Development Intern](https://jobright.ai/jobs/info/67586a51a41b020453dcda2d?utm_campaign=1050&utm_source=git)** | Naples, FL | On Site | Jan 01 |
+| **[Jacobs](http://www.jacobs.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/676201604fc81cd2680f35c4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/677549dc7da063486a826666?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA | On Site | Jan 01 |
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/677529867d391ad6ceae4fdd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/664e36a55ea75b6f96bee2f5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[2025 MBA Summer Intern: Commercial Strategy](https://jobright.ai/jobs/info/675a69c77d57a5bcd3949482?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 01 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Supply Chain Intern - Summer 2025](https://jobright.ai/jobs/info/676ec2e0e278a2f7a920a845?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Jan 01 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Health Data Strategy - Summer Internship](https://jobright.ai/jobs/info/6750a40e77640175b2a7dc21?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Jan 01 |
 | **[Jabil](https://www.jabil.com)** | **[Communication and Change Management Intern](https://jobright.ai/jobs/info/67752c8dbc24b100bf6e9dda?utm_campaign=1050&utm_source=git)** | St Petersburg, FL | On Site | Jan 01 |
 | **[ABB](https://global.abb/group/en)** | **[Business Operations Intern – Summer 2025](https://jobright.ai/jobs/info/66fb7d17cd39b4d3b6f58160?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Jan 01 |
@@ -81,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Flight Center Summer Intern (Dispatch)](https://jobright.ai/jobs/info/677529867d391ad6ceae4fc2?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 01 |
 | **[ABB](https://global.abb/group/en)** | **[Planning & Fulfillment Intern - Summer 2025](https://jobright.ai/jobs/info/66e24a1ed69ecadd2c019ed2?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Jan 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern - Documentation Specialist](https://jobright.ai/jobs/info/67755a9a5365939adbd94b0d?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 31 |
+| **[SciPlay](https://www.sciplay.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6757660868039c984ae31da3?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | Hybrid | Dec 31 |
 | **[Aptima](http://aptima.com)** | **[Business Strategy Intern](https://jobright.ai/jobs/info/67751e901dd2f8b9b2a9b20b?utm_campaign=1050&utm_source=git)** | Fairborn, OH | On Site | Dec 31 |
 | ↳ | **[Business Strategy Intern](https://jobright.ai/jobs/info/6775179820db84c4e48d6b6e?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Dec 31 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern,](https://jobright.ai/jobs/info/6774ed0c95db754b27bf8806?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 31 |
@@ -137,24 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6774cd8ddeec332fb821d39a?utm_campaign=1050&utm_source=git)** | Council Bluffs, IA | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f0?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f2?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f7?utm_campaign=1050&utm_source=git)** | Crest Hill, IL | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f6?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f5?utm_campaign=1050&utm_source=git)** | Tomah, WI | On Site | Dec 31 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744c7fd8b50a4b984f93f7?utm_campaign=1050&utm_source=git)** | Crest Hill, IL | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67744a5b27918c99fc35082a?utm_campaign=1050&utm_source=git)** | Hermantown, MN | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67748da4f479a5071493fcfc?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Dec 31 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/67748da4f479a5071493fcfe?utm_campaign=1050&utm_source=git)** | Lakeville, MN | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67748da4f479a5071493fcfd?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6774634873ad79609ae73bb0?utm_campaign=1050&utm_source=git)** | Mosinee, WI | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6774634873ad79609ae73bb1?utm_campaign=1050&utm_source=git)** | East Moline, IL | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67748b6d9018378500b998be?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67748b6d9018378500b998c0?utm_campaign=1050&utm_source=git)** | Stewartville, MN | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf1?utm_campaign=1050&utm_source=git)** | Lowell, IN | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf2?utm_campaign=1050&utm_source=git)** | Sturtevant, WI | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf3?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Dec 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/67742966019788357f9bcaf5?utm_campaign=1050&utm_source=git)** | Des Plaines, IL | On Site | Dec 31 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/677455292816e493db1ce490?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 31 |
-| **[iCapital](https://icapital.com)** | **[Operations - Intern](https://jobright.ai/jobs/info/67741e40c3b32e2c0da45cf8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 31 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Summer 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c25bc?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Dec 31 |
-| ↳ | **[Supply Chain Intern Summer 2025](https://jobright.ai/jobs/info/6774193c5f3a3f32c96c2521?utm_campaign=1050&utm_source=git)** | CP AHS SUPPORT CENTER893 HOPE WAY | On Site | Dec 31 |
-| **[Walgreens](https://www.walgreens.com)** | **[Corporate Pharmacy Intern](https://jobright.ai/jobs/info/6774b6ff126313b8456b06d2?utm_campaign=1050&utm_source=git)** | Deerfield, IL | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

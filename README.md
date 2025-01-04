@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](http://www.campingworld.com/)** | **[Facilities Management Intern](https://jobright.ai/jobs/info/6779131fbbf7ec332c09b084?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Jan 04 |
+| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Summer 2025 Procurement Intern](https://jobright.ai/jobs/info/673d0833c475c1de90789254?utm_campaign=1050&utm_source=git)** | Smithfield, VA | On Site | Jan 04 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/677902690f9d35fc9785e58c?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Jan 03 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - North Carolina Region 2024 - 2025](https://jobright.ai/jobs/info/6778f35f84221478d54050bd?utm_campaign=1050&utm_source=git)** | Havelock, NC | On Site | Jan 03 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Group Manager, International Outreach, Intl. Engagement & Strategy - IF](https://jobright.ai/jobs/info/6778c0c7ac646737b4138aa2?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jan 03 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[GSO Events & Admin Intern](https://jobright.ai/jobs/info/6778ce192ffc8d3e26d22a81?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 03 |
@@ -95,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/677884182274cb9baaf8db67?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jan 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Capital Projects & Infrastructure, Disaster Recovery & Resiliency - Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e6a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
 | ↳ | **[Intern – Housing & Community Solutions – Campus 2025](https://jobright.ai/jobs/info/677882351464a795e5d36e89?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
-| **[Saddle Creek Logistics Services](https://www.sclogistics.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/677852fdaa9c023802137d2f?utm_campaign=1050&utm_source=git)** | Ft. Worth, TX | On Site | Jan 03 |
+| **[Saddle Creek Logistics Services](https://www.sclogistics.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/677852fdaa9c023802137d32?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Jan 03 |
 | **[Ahlstrom](http://www.ahlstrom.com)** | **[2025 Logistics Planning Intern, Kaukauna, WI (ACO)](https://jobright.ai/jobs/info/6778532731b40106baeb52a6?utm_campaign=1050&utm_source=git)** | Kaukauna, WI | On Site | Jan 03 |
-| **[Saddle Creek Logistics Services](https://www.sclogistics.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/677852fdaa9c023802137d71?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Jan 03 |
+| **[Saddle Creek Logistics Services](https://www.sclogistics.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/677852fdaa9c023802137d70?utm_campaign=1050&utm_source=git)** | Ft. Worth, TX | On Site | Jan 03 |
 | **[The Conservation Fund](https://www.conservationfund.org/)** | **[Intern](https://jobright.ai/jobs/info/67786d85c046903f1cb2e34f?utm_campaign=1050&utm_source=git)** | Niwot, CO | On Site | Jan 03 |
 | **[OneStream Software](http://www.onestreamsoftware.com)** | **[Revenue Enablement Project Manager Intern](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fa95?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Nexus Engineering Group](http://nexusegroup.com)** | **[Project Services Internship (Summer 2025)](https://jobright.ai/jobs/info/67786985a698357e05e83cb7?utm_campaign=1050&utm_source=git)** | Ohio, United States | On Site | Jan 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Strategic Sourcing Intern](https://jobright.ai/jobs/info/66cf934b76510dd90c7215e3?utm_campaign=1050&utm_source=git)** | Minnesota, United States | On Site | Jan 03 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Operations Intern](https://jobright.ai/jobs/info/6750c27c5972738e13bcd1b7?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Jan 03 |
 | **[Blueprint Medicines](http://www.blueprintmedicines.com)** | **[Blueprint MBA Leadership Program – Corporate / Business Development Track](https://jobright.ai/jobs/info/67495e0beb89008afd053aae?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Jan 03 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Purchasing Intern](https://jobright.ai/jobs/info/6778ab84afb4802d3d844fe4?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jan 03 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Business Strategy Specialist Intern (Masters Degree) - Summer 2025](https://jobright.ai/jobs/info/675a6736d539ba9316791f8b?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2025- Salt Lake City, UT](https://jobright.ai/jobs/info/66e3872aa9b8525a785a5628?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

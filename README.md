@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Senior Program Manager (Building Automation / Data Centers)](https://jobright.ai/jobs/info/678463913b1959989f0818c7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 12 |
+| **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking: Insurance Solutions Internship - Summer 2025- New York](https://jobright.ai/jobs/info/678460c93ab70236c1deb63a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 12 |
 | **[State of South Dakota](https://dss.sd.gov)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/67845195858129d2e51280c9?utm_campaign=1050&utm_source=git)** | Corona, SD | On Site | Jan 12 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #871](https://jobright.ai/jobs/info/67844360f7376757c75a25f6?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Jan 12 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67844360f7376757c75a262b?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jan 12 |
@@ -114,14 +116,14 @@ For a complete list, click the following sortable link below:
 | **[Light & Wonder](https://www.lnw.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/673415e715e100c602ee98ac?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Jan 11 |
 | **[Aramark](http://www.aramark.com)** | **[S2L Program 2025- Lodging Intern - Yosemite - Tuolumne Meadows](https://jobright.ai/jobs/info/6782368e85acbf16976e0f91?utm_campaign=1050&utm_source=git)** | Yosemite National Park, CA | On Site | Jan 11 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Digital Health and Experience Innovation Intern](https://jobright.ai/jobs/info/678221d4fbfb9886b60105fa?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jan 10 |
-| **[Aptima](http://aptima.com)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/6782372d221f8f74ee941e40?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
-| ↳ | **[Project Control Analyst Intern](https://jobright.ai/jobs/info/6782372d221f8f74ee941e71?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
+| **[Aptima](http://aptima.com)** | **[Project Control Analyst Intern](https://jobright.ai/jobs/info/6782372d221f8f74ee941e71?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
+| ↳ | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/6782372d221f8f74ee941e40?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 10 |
 | **[Federal Aviation Administration](http://www.faa.gov)** | **[Admin & Office Support-Student Trainee](https://jobright.ai/jobs/info/67821e2a5fcb270f9b122096?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 10 |
 | ↳ | **[Student Trainee (Administrative Support)](https://jobright.ai/jobs/info/67821869df4ab206191449ec?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | Jan 10 |
 | **[HNTB](http://www.hntb.com/)** | **[Business Administration Intern - Summer 2025](https://jobright.ai/jobs/info/677f384a3750a9bf4652fba5?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 10 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Georgetown MBA Venture Fellows Program](https://jobright.ai/jobs/info/67821869df4ab20619144a47?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jan 10 |
 | **[North Texas Tollway Authority](https://www.ntta.org/)** | **[Internship - Business Diversity and Procurement](https://jobright.ai/jobs/info/678204db760c0b7e103db2a7?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jan 10 |
-| **[Maxar Technologies](https://www.maxar.com)** | **[Intern, AIT Project Management](https://jobright.ai/jobs/info/6781fdf96bde33175df65c54?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Jan 10 |
+| **[Maxar Technologies](https://www.maxar.com)** | **[Intern, AIT Project Management](https://jobright.ai/jobs/info/6781fdf96bde33175df65c5d?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Jan 10 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2025 Healthcare Intern - Chicago](https://jobright.ai/jobs/info/6781f085f1e28f26c3916543?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[eTrucks Project Management Intern](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a94fb?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Jan 10 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Commercial Bank Administration](https://jobright.ai/jobs/info/6781f44d09ad6096289857a7?utm_campaign=1050&utm_source=git)** | New Haven, CT | On Site | Jan 10 |
@@ -143,9 +145,9 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6781ca871842f8d6575e7635?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 10 |
 | **[GlobalFoundries](https://gf.com/)** | **[Commercial Operations Intern (Summer 2025)](https://jobright.ai/jobs/info/6781c340a125141197cae640?utm_campaign=1050&utm_source=git)** | USA - Texas - Austin | On Site | Jan 10 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2025 - Professional Tennis Operations](https://jobright.ai/jobs/info/677c704ba4a6427558d5e6ec?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
-| **[Staples](http://www.staples.com)** | **[Fulfillment Center Intern - June 2025 (Ontario, CA)](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88af8?utm_campaign=1050&utm_source=git)** | 1500 South Dupont Ave, Ontario, CA, 91761, US | On Site | Jan 10 |
-| ↳ | **[Fulfillment Center Intern - June 2025 (London, OH)](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88b86?utm_campaign=1050&utm_source=git)** | 500 East High St., London, OH, 43140, US | On Site | Jan 10 |
+| **[Staples](http://www.staples.com)** | **[Fulfillment Center Intern - June 2025 (London, OH)](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88b86?utm_campaign=1050&utm_source=git)** | 500 East High St., London, OH, 43140, US | On Site | Jan 10 |
 | ↳ | **[Fulfillment Center Intern (Transportation) - June 2025 (Ontario, CA)](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88acb?utm_campaign=1050&utm_source=git)** | 1500 S. Dupont Avenue, Ontario, CA, 91761, US | On Site | Jan 10 |
+| ↳ | **[Fulfillment Center Intern - June 2025 (Ontario, CA)](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88af8?utm_campaign=1050&utm_source=git)** | 1500 South Dupont Ave, Ontario, CA, 91761, US | On Site | Jan 10 |
 | ↳ | **[Fulfillment Center Intern - June 2025 (Atlanta, GA)](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88b81?utm_campaign=1050&utm_source=git)** | 7701 Staples Dr., Lithia Springs, GA, 30122, US | On Site | Jan 10 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Program Manager](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88b0a?utm_campaign=1050&utm_source=git)** | San Jose, California, United States of America | On Site | Jan 10 |
 | **[Aptima](http://aptima.com)** | **[Project Control Analyst Intern](https://jobright.ai/jobs/info/6781ba6ec2872ba063f88b47?utm_campaign=1050&utm_source=git)** | Orlando, FL, USA | On Site | Jan 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6776409b583defff2ee04c5a?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Jan 10 |
 | **[Willkie Farr & Gallagher LLP](http://www.willkie.com)** | **[Secretarial Management Team Intern (Year-round) - New York](https://jobright.ai/jobs/info/6781c4cfdf9c07c5777479c2?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Selective Insurance](https://www.selective.com/)** | **[Transformation Office Summer Internship – Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/67619b0fd9017b74c2dda34b?utm_campaign=1050&utm_source=git)** | Branchville, NJ | Hybrid | Jan 10 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern- Savannah 1](https://jobright.ai/jobs/info/6781b72aa00a362879dc7615?utm_campaign=1050&utm_source=git)** | Bloomingdale, GA | On Site | Jan 10 |
-| **[Horton, Inc.](http://hortonww.com)** | **[Supply Chain & Purchasing Intern (Summer 2025)](https://jobright.ai/jobs/info/6781b386557ce9ace3a2e709?utm_campaign=1050&utm_source=git)** | Roseville, MN | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

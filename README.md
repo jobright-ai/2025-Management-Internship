@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Project Manager - Phoenix, AZ (Active-Duty US Military)](https://jobright.ai/jobs/info/678663ee25f18e8aeca6ddce?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Jan 14 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2025 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6764d13526dbe2e3f469eac2?utm_campaign=1050&utm_source=git)** | Cold Spring, MN | On Site | Jan 14 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/675bbf06112eed13d852a9c3?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Jan 14 |
+| **[Trex Company](http://www.trex.com)** | **[2025 Summer Internship Program - Supply Chain](https://jobright.ai/jobs/info/6773ba02020192a764d39598?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Jan 14 |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Processing Operations Intern](https://jobright.ai/jobs/info/66e88bb6c431f474d9125c5f?utm_campaign=1050&utm_source=git)** | Lumber Bridge, NC | On Site | Jan 14 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Scranton/Wilkes Barre](https://jobright.ai/jobs/info/678648cabc5f21440cde164b?utm_campaign=1050&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 14 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/66e28fdd0b58cc61742aa5ea?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Jan 14 |
+| **[Protiviti](http://www.protiviti.com)** | **[Metro DC Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/670d78a8bc1f37b7d62e1f8f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jan 14 |
+| **[Albany International Corp.](http://www.albint.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6746fb13e4f54f662edf490c?utm_campaign=1050&utm_source=git)** | Rochester, NH | On Site | Jan 14 |
+| **[University of Washington](http://www.washington.edu)** | **[PROGRAM COORDINATOR (Hourly/Temporary)](https://jobright.ai/jobs/info/678650363aa5f36cdaa39e03?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 14 |
 | **[UNICEF](https://agora.unicef.org/)** | **[Content and Capacity Development Internship, Programme Strategy and Coordination Hub (PSC), NYHQ, 26 weeks (Full-Time)](https://jobright.ai/jobs/info/678630b117d32389d2cadd0f?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Jan 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6786297c9fd6cd72f936aa22?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Jan 13 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/6786106b2c0dd251ddabf7c2?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Jan 13 |
@@ -109,8 +119,9 @@ For a complete list, click the following sortable link below:
 | **[Wichita State University](http://www.wichita.edu)** | **[Student Office Assistant](https://jobright.ai/jobs/info/6785a1004e1be79d7be6df92?utm_campaign=1050&utm_source=git)** | Wichita, KS | Hybrid | Jan 13 |
 | **[Wachter, Inc.](https://www.wachter.com/)** | **[Project Management Internship - Fall 2025](https://jobright.ai/jobs/info/6785915f29384755cc04a05a?utm_campaign=1050&utm_source=git)** | MT Laurel, NJ | On Site | Jan 13 |
 | **[Middlebury College](http://www.middlebury.edu/)** | **[Vice President's Office Graduate Assistant (AY 24-25 C91162)](https://jobright.ai/jobs/info/67859ee8f1bf43b956aad205?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Jan 13 |
+| **[AssetMark](http://www.assetmark.com)** | **[New Business Intern](https://jobright.ai/jobs/info/67859b9892511b2579d3b325?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 13 |
 | **[Wichita State University](http://www.wichita.edu)** | **[Student Office Assistant](https://jobright.ai/jobs/info/67859413c7eee4021e8ae9b4?utm_campaign=1050&utm_source=git)** | Wichita, KS | Hybrid | Jan 13 |
-| **[Nestlé Nespresso SA](https://www.beckson.com)** | **[Nespresso Logistics and Transportation Internship](https://jobright.ai/jobs/info/67576ad883532e10dd7c5dbc?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
+| **[Nestlé Nespresso SA](https://nestle-nespresso.com)** | **[Nespresso Logistics and Transportation Internship](https://jobright.ai/jobs/info/67576ad883532e10dd7c5dbc?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Final Documents Intern - Summer 2025](https://jobright.ai/jobs/info/67858b2ee8ad8a6ebde1aafc?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 13 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67859740de6019b3f62d6592?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Jan 13 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - Cincinnati, OH](https://jobright.ai/jobs/info/6785838c333eb123d2867011?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 13 |
@@ -120,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Planning Intern - Summer 2025](https://jobright.ai/jobs/info/67818c817ac252e41535d098?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Jan 13 |
 | **[Southeast Community College](http://www.southeast.edu/)** | **[Administrative Assistant I - Student Affairs - PT](https://jobright.ai/jobs/info/67858d3e40e66e889d44dd3a?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Jan 13 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/678587787c876bd395f8c9a5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 13 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/678587787c876bd395f8cd91?utm_campaign=1050&utm_source=git)** | Palatine, IL | On Site | Jan 13 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/678587787c876bd395f8cd90?utm_campaign=1050&utm_source=git)** | Union City, GA | On Site | Jan 13 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/678587787c876bd395f8cd91?utm_campaign=1050&utm_source=git)** | Palatine, IL | On Site | Jan 13 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/67858d3e40e66e889d44dec1?utm_campaign=1050&utm_source=git)** | St Peters, MO | On Site | Jan 13 |
 | **[onsemi](http://www.onsemi.com)** | **[Procurement Corporate Services Summer Internship - Technology & Operations](https://jobright.ai/jobs/info/67857ca3ef948ada470420f0?utm_campaign=1050&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Jan 13 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Internships - Nationwide](https://jobright.ai/jobs/info/67858b2ee8ad8a6ebde1acd3?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Jan 13 |
@@ -130,12 +141,12 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Project Manager and Estimating Intern - Stockton, CA](https://jobright.ai/jobs/info/6785800cf34e5c315878aea6?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Jan 13 |
 | ↳ | **[Project Manager and Estimating Intern - Redding, CA](https://jobright.ai/jobs/info/6785800cf34e5c315878ae99?utm_campaign=1050&utm_source=git)** | Redding, CA | On Site | Jan 13 |
 | **[Entegral](https://Entegral.com)** | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7849?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 13 |
-| ↳ | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7863?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Jan 13 |
 | ↳ | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7844?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 13 |
+| ↳ | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7863?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Jan 13 |
 | ↳ | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7842?utm_campaign=1050&utm_source=git)** | Santa Rosa, CA | On Site | Jan 13 |
-| ↳ | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7857?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jan 13 |
-| ↳ | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f78a1?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Jan 13 |
 | ↳ | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f783f?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jan 13 |
+| ↳ | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f78a1?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Jan 13 |
+| ↳ | **[Management Trainee Summer 2025 Internship](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7857?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jan 13 |
 | ↳ | **[Management Trainee Spring 2025 Internship](https://jobright.ai/jobs/info/67860296998d6bc8f92f82f0?utm_campaign=1050&utm_source=git)** | Santa Rosa, CA | On Site | Jan 13 |
 | **[CRH](http://crh.com)** | **[Project Manager and Estimating Intern - Chowchilla, CA](https://jobright.ai/jobs/info/67857cb902a707367ca88d68?utm_campaign=1050&utm_source=git)** | Chowchilla, CA | On Site | Jan 13 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - UpReach Assistant to the Executive Director (Work Study Only)](https://jobright.ai/jobs/info/67856e54237280d896ac8318?utm_campaign=1050&utm_source=git)** | On-Site (New Hampshire) | On Site | Jan 13 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67856a341e8177d65c4c2c5d?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Jan 13 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67856c82cc602433ec39bd09?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Jan 13 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67856c82cc602433ec39bcd1?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Jan 13 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Utah Region 2024 - 2025](https://jobright.ai/jobs/info/67856ae261583f05fe70f7e1?utm_campaign=1050&utm_source=git)** | SLC Metro Area | On Site | Jan 13 |
-| **[A24](http://a24films.com/)** | **[MBA Internship, Corporate Strategy & Operations ](https://jobright.ai/jobs/info/67855d94a6711ab504587fe1?utm_campaign=1050&utm_source=git)** | New York | On Site | Jan 13 |
-| **[UHY LLP, Certified Public Accountants](https://uhy-us.com/)** | **[2024 Enterprise Winter Intern - Farmington Hills-11](https://jobright.ai/jobs/info/6785573c26980a522610614a?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Jan 13 |
-| **[AssetMark](http://www.assetmark.com)** | **[New Business Intern](https://jobright.ai/jobs/info/6785500472e9dd912e63d19e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jan 13 |
-| **[ABB](https://global.abb/group/en)** | **[IS Portfolio Services Intern-Summer 2025](https://jobright.ai/jobs/info/675b90f2e5a850c720455575?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Jan 13 |
-| **[DAI](http://dai.com)** | **[Operations & Systems Intern](https://jobright.ai/jobs/info/678551390f2f5faefcf5babe?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 13 |
-| **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Business Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67855f991ddb9537d20fcc47?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jan 13 |
-| **[Exiger](http://www.exiger.com)** | **[Product Intelligence Intern](https://jobright.ai/jobs/info/678551390f2f5faefcf5bb7c?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Jan 13 |
-| **[Cartier](http://www.cartier.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67854d43d21f5b159baf2e44?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
-| **[NEOGOV](http://www.neogov.com)** | **[Administrative Intern - Paid (Planning Division)](https://jobright.ai/jobs/info/67854a9a4c55e69d105510d2?utm_campaign=1050&utm_source=git)** | Rosemead, CA | On Site | Jan 13 |
-| **[Entegral](https://Entegral.com)** | **[Management Trainee Intern Summer 2025](https://jobright.ai/jobs/info/6786015b998d6bc8f92f7874?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

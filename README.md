@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Utah Region 2024 - 2025](https://jobright.ai/jobs/info/678bf90612814032bcfd92f0?utm_campaign=1050&utm_source=git)** | SLC Metro Area | On Site | Jan 18 |
+| **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2025 Risk Managment Intern](https://jobright.ai/jobs/info/678bf4043c108f1ac4b06b70?utm_campaign=1050&utm_source=git)** | 999 Waterside Dr, Norfolk, VA 23510, USA | On Site | Jan 18 |
+| ↳ | **[Summer 2025 Risk Managment Intern](https://jobright.ai/jobs/info/678bef3f1eed21eee0eadd88?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Jan 18 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Care Transformation Office Masters Intern](https://jobright.ai/jobs/info/678bfc22bf537e08e2ba5aa9?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Jan 18 |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  R&D Strategy & Operations](https://jobright.ai/jobs/info/678bce4308f044d9cd92d1da?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 18 |
+| ↳ | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/678bf4ad79f17405c7e0723b?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 18 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - San Jose State University AGC Career Fair](https://jobright.ai/jobs/info/678be0ab127bf6d838e89af5?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 18 |
+| **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Project Management Intern](https://jobright.ai/jobs/info/678be7db7a0e08b520116cb2?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Jan 18 |
+| ↳ | **[Project Management Grad Intern](https://jobright.ai/jobs/info/678be7db7a0e08b520116c84?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Jan 18 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Supply Chain - Davenport, IA](https://jobright.ai/jobs/info/678bc7e82e70d0048dda662a?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Jan 18 |
+| **[Horton, Inc.](http://hortonww.com)** | **[Supply Chain & Purchasing Intern (Summer 2025)](https://jobright.ai/jobs/info/678bce4308f044d9cd92d262?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Jan 18 |
 | **[Exyte](https://www.exyte.net/en#)** | **[Intern - Project Controls](https://jobright.ai/jobs/info/678b59a7723a1c590dd6b447?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
 | ↳ | **[Intern - Supply Chain](https://jobright.ai/jobs/info/678b4e18dbee2865ec3344f1?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
 | **[Dole Food Company](http://www.dole.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/678b4577faa000ec7519fe73?utm_campaign=1050&utm_source=git)** | Springfield, OH | On Site | Jan 17 |
@@ -83,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Community Transit](https://www.communitytransit.org/)** | **[Internship - IT Project Assistant](https://jobright.ai/jobs/info/678b15fdc2967b41b8244741?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Jan 17 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b82446f9?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Jan 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b02?utm_campaign=1050&utm_source=git)** | Folsom, CA | On Site | Jan 17 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b01?utm_campaign=1050&utm_source=git)** | Elk Grove, CA | On Site | Jan 17 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518af2?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Jan 17 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b01?utm_campaign=1050&utm_source=git)** | Elk Grove, CA | On Site | Jan 17 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b19?utm_campaign=1050&utm_source=git)** | Yuba City, CA | On Site | Jan 17 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[National Sea Logistics Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b824472a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/678b1d7902fd787705518b93?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Jan 17 |
@@ -95,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/678b1348c3b4a1f321205ae0?utm_campaign=1050&utm_source=git)** | Washington, PA | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/678b1348c3b4a1f321205ae8?utm_campaign=1050&utm_source=git)** | Clarion, PA | On Site | Jan 17 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/678b1348c3b4a1f321205aea?utm_campaign=1050&utm_source=git)** | Souderton, PA | On Site | Jan 17 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/678b1348c3b4a1f321205aec?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Jan 17 |
 | **[Kalderos](https://kalderos.com/)** | **[Business Strategy Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b8244914?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern,](https://jobright.ai/jobs/info/678b15fdc2967b41b8244d56?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Jan 17 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678b029b523846b083689194?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Jan 17 |
@@ -133,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Student Intern, Logan Pharmacy Admin](https://jobright.ai/jobs/info/678ad4981095e1af8934e150?utm_campaign=1050&utm_source=git)** | Logan Heights FHC - San Diego, CA | On Site | Jan 17 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/678ad0b551ed3f3b1b712304?utm_campaign=1050&utm_source=git)** | US - GA - Atlanta | On Site | Jan 17 |
 | ↳ | **[Innovation Intern - Project Management (BODYARMOR)](https://jobright.ai/jobs/info/678ad0b551ed3f3b1b7122ff?utm_campaign=1050&utm_source=git)** | US-NY-WHITESTONE-BASN | On Site | Jan 17 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0ad53?utm_campaign=1050&utm_source=git)** | Santa Clara | On Site | Jan 17 |
-| ↳ | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0acf3?utm_campaign=1050&utm_source=git)** | Pleasanton | On Site | Jan 17 |
+| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0acf3?utm_campaign=1050&utm_source=git)** | Pleasanton | On Site | Jan 17 |
+| ↳ | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0ad53?utm_campaign=1050&utm_source=git)** | Santa Clara | On Site | Jan 17 |
 | **[Commvault](https://www.commvault.com)** | **[Field CTO Intern](https://jobright.ai/jobs/info/678acde01c23798d0fa4d7e4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 17 |
 | ↳ | **[Field CTO Intern](https://jobright.ai/jobs/info/678acde01c23798d0fa4d850?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Jan 17 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Intern, Procurement](https://jobright.ai/jobs/info/678ade853cf4853b1f582936?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/678ad0ca435bda21c80ea396?utm_campaign=1050&utm_source=git)** | Rehoboth Beach, DE | On Site | Jan 17 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Financial Leadership Development Program – Summer Intern (On-Site)](https://jobright.ai/jobs/info/678aee5441240f32e1253fb5?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | On Site | Jan 17 |
 | ↳ | **[Financial Leadership Development Program – Summer Intern (On-Site)](https://jobright.ai/jobs/info/678aefd941240f32e1254571?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 17 |
-| ↳ | **[Financial Leadership Development Program – Summer Intern (On-Site)](https://jobright.ai/jobs/info/678aefd941240f32e1254572?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Jan 17 |
-| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/678aefd941240f32e1254440?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 17 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2025](https://jobright.ai/jobs/info/678b3535f6f381c6bd2ddd3b?utm_campaign=1050&utm_source=git)** | Reston, VA | Hybrid | Jan 17 |
-| **[Schneider Electric](https://www.se.com)** | **[Supply Chain Planning Internship (Summer 2025)](https://jobright.ai/jobs/info/678ad53b2ef675b65243b2e8?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jan 17 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/673be336df790bb4553e4b8f?utm_campaign=1050&utm_source=git)** | Blytheville, AR | On Site | Jan 17 |
-| **[The Caton Companies](https://www.catoncompanies.com/)** | **[Property Management Internship - Summer 2025](https://jobright.ai/jobs/info/678b30c128b40477f146dcd0?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Jan 17 |
-| **[Teradyne](http://www.teradyne.com)** | **[Supply Chain Intern (Teradyne, North Reading)](https://jobright.ai/jobs/info/678acad8cfcf70930946da3b?utm_campaign=1050&utm_source=git)** | North Reading, MA | On Site | Jan 17 |
-| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/678ac4cf1e564f59b35ca660?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 17 |
-| ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/678ad7222ef675b65243b835?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Jan 17 |
-| ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/678ad7222ef675b65243b836?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -59,8 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Midwest BankCentre](http://www.midwestbankcentre.com)** | **[Summer Intern - Loan Operations](https://jobright.ai/jobs/info/678cc22e24f4f85c6040b5bb?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Jan 18 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern- Summer 2025 Intern](https://jobright.ai/jobs/info/678cc22e24f4f85c6040b698?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 18 |
-| **[Freixenet Mionetto USA](https://www.freixenetmionettousa.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/678c7ac577c12685ec08a828?utm_campaign=1050&utm_source=git)** | White Plains, NY | Hybrid | Jan 18 |
-| **[Solenis](http://solenis.com/)** | **[2025 MBA Intern](https://jobright.ai/jobs/info/678c62a9c57c331d85d54310?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jan 18 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2025 Summer Internship - Project Management (Various Locations)](https://jobright.ai/jobs/info/671af62684f40189806e8ff5?utm_campaign=1050&utm_source=git)** | Washington, IL | On Site | Jan 18 |
 | **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Administrator in Training](https://jobright.ai/jobs/info/678c38951d097378613fad29?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jan 18 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Supply Chain - Internship](https://jobright.ai/jobs/info/678c3739434bffc9d3876f0d?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jan 18 |
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, COFA Deans Office](https://jobright.ai/jobs/info/678c70485eef587b25a2b7d7?utm_campaign=1050&utm_source=git)** | Montevallo, AL | On Site | Jan 18 |
@@ -78,9 +77,11 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Supply Chain - Davenport, IA](https://jobright.ai/jobs/info/678bc7e82e70d0048dda662a?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Jan 18 |
 | **[Horton, Inc.](http://hortonww.com)** | **[Supply Chain & Purchasing Intern (Summer 2025)](https://jobright.ai/jobs/info/678bce4308f044d9cd92d262?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Jan 18 |
 | **[Rakuten International](http://rakuten.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/676f3cd87c8fd50930efc1b0?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jan 18 |
+| **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern, Supply Chain Operations (MK)](https://jobright.ai/jobs/info/672e51fd965e0a0138b0132c?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Jan 18 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/678844278d81da83dd29b5eb?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Jan 18 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Category Supply Management](https://jobright.ai/jobs/info/66db8a5d83f082a540d4e07c?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
 | **[Exyte](https://www.exyte.net/en#)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/678b6955caf09692ceb21fa9?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
-| ↳ | **[Intern - Project Controls](https://jobright.ai/jobs/info/678b59a7723a1c590dd6b447?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
+| ↳ | **[Intern - Project Controls](https://jobright.ai/jobs/info/678b4e18dbee2865ec33450e?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
 | **[Dole Food Company](http://www.dole.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/678b4577faa000ec7519fe73?utm_campaign=1050&utm_source=git)** | Springfield, OH | On Site | Jan 17 |
 | **[Egan Company](https://www.eganco.com/)** | **[Assistant Project Manager Intern (InterClad Team) - Summer 2025](https://jobright.ai/jobs/info/673387d10b03dcd3efd34e21?utm_campaign=1050&utm_source=git)** | Champlin, MN | Hybrid | Jan 17 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/678b3f9770357b565a94a3c1?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Community Transit](https://www.communitytransit.org/)** | **[Internship - IT Project Assistant](https://jobright.ai/jobs/info/678b15fdc2967b41b8244741?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Jan 17 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b82446f9?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Jan 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b02?utm_campaign=1050&utm_source=git)** | Folsom, CA | On Site | Jan 17 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b01?utm_campaign=1050&utm_source=git)** | Elk Grove, CA | On Site | Jan 17 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518af2?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Jan 17 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b01?utm_campaign=1050&utm_source=git)** | Elk Grove, CA | On Site | Jan 17 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b19?utm_campaign=1050&utm_source=git)** | Yuba City, CA | On Site | Jan 17 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/678b1d7902fd787705518b93?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Jan 17 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Project Manager Intern - Communications](https://jobright.ai/jobs/info/678b1348c3b4a1f32120597d?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Jan 17 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Student Intern, Logan Pharmacy Admin](https://jobright.ai/jobs/info/678ad4981095e1af8934e150?utm_campaign=1050&utm_source=git)** | Logan Heights FHC - San Diego, CA | On Site | Jan 17 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/678ad0b551ed3f3b1b712304?utm_campaign=1050&utm_source=git)** | US - GA - Atlanta | On Site | Jan 17 |
 | ↳ | **[Innovation Intern - Project Management (BODYARMOR)](https://jobright.ai/jobs/info/678ad0b551ed3f3b1b7122ff?utm_campaign=1050&utm_source=git)** | US-NY-WHITESTONE-BASN | On Site | Jan 17 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0ad53?utm_campaign=1050&utm_source=git)** | Santa Clara | On Site | Jan 17 |
-| ↳ | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0acf3?utm_campaign=1050&utm_source=git)** | Pleasanton | On Site | Jan 17 |
+| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0acf3?utm_campaign=1050&utm_source=git)** | Pleasanton | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

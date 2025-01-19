@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2025 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/671a85a808dcfc93ba30ccb5?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Jan 19 |
 | **[Midwest BankCentre](http://www.midwestbankcentre.com)** | **[Summer Intern - Loan Operations](https://jobright.ai/jobs/info/678cc22e24f4f85c6040b5bb?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Jan 18 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern- Summer 2025 Intern](https://jobright.ai/jobs/info/678cc22e24f4f85c6040b698?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 18 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2025 Summer Internship - Project Management (Various Locations)](https://jobright.ai/jobs/info/671af62684f40189806e8ff5?utm_campaign=1050&utm_source=git)** | Washington, IL | On Site | Jan 18 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Student Office Assistant, COFA Deans Office](https://jobright.ai/jobs/info/678c70485eef587b25a2b7d7?utm_campaign=1050&utm_source=git)** | Montevallo, AL | On Site | Jan 18 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[IT Delivery - Internship](https://jobright.ai/jobs/info/678c29d1471325ad439b7e09?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 18 |
 | ↳ | **[Supply Chain - Internship](https://jobright.ai/jobs/info/678c29d1471325ad439b7e11?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Jan 18 |
+| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Operations Process Improvement Coordinator](https://jobright.ai/jobs/info/677bceabc2a7c13456bc1944?utm_campaign=1050&utm_source=git)** | Byhalia, MS | Hybrid | Jan 18 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Utah Region 2024 - 2025](https://jobright.ai/jobs/info/678bf90612814032bcfd92f0?utm_campaign=1050&utm_source=git)** | SLC Metro Area | On Site | Jan 18 |
 | **[Harbor Group Management Company](http://harborgroupint.com)** | **[Summer 2025 Risk Managment Intern](https://jobright.ai/jobs/info/678bf4043c108f1ac4b06b70?utm_campaign=1050&utm_source=git)** | 999 Waterside Dr, Norfolk, VA 23510, USA | On Site | Jan 18 |
 | ↳ | **[Summer 2025 Risk Managment Intern](https://jobright.ai/jobs/info/678bef3f1eed21eee0eadd88?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Jan 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- MO, IL, MI, WI, IN](https://jobright.ai/jobs/info/66c5296b724e1337930862c1?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Jan 17 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Student Intern, Logan Pharmacy Admin](https://jobright.ai/jobs/info/678ad4981095e1af8934e150?utm_campaign=1050&utm_source=git)** | Logan Heights FHC - San Diego, CA | On Site | Jan 17 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/678ad0b551ed3f3b1b712304?utm_campaign=1050&utm_source=git)** | US - GA - Atlanta | On Site | Jan 17 |
-| ↳ | **[Innovation Intern - Project Management (BODYARMOR)](https://jobright.ai/jobs/info/678ad0b551ed3f3b1b7122ff?utm_campaign=1050&utm_source=git)** | US-NY-WHITESTONE-BASN | On Site | Jan 17 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Facilities Site Services](https://jobright.ai/jobs/info/678acc8a228fdce06cb0acf3?utm_campaign=1050&utm_source=git)** | Pleasanton | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

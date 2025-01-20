@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Operations Analyst - Year Up](https://jobright.ai/jobs/info/678e1835f18de74e4383d539?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 20 |
-| ↳ | **[Operations Analyst - Year Up](https://jobright.ai/jobs/info/678e1835f18de74e4383d538?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 20 |
+| **[Yes Energy](https://www.yesenergy.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/678e45e98222eb78ad7562d6?utm_campaign=1050&utm_source=git)** | Boulder, CO | Hybrid | Jan 20 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/672e53a66c1cd4c4b6e4b148?utm_campaign=1050&utm_source=git)** | York, PA | On Site | Jan 20 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025- MO, IL, MI, WI, IN](https://jobright.ai/jobs/info/66c5296b724e1337930862af?utm_campaign=1050&utm_source=git)** | Channahon, IL | On Site | Jan 20 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2025 Internship - Phoenix, AZ - Hotel Franchise Finance (HFF)](https://jobright.ai/jobs/info/678e360398ca7fa9bd79e98c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 20 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Chambersburg](https://jobright.ai/jobs/info/66c91320afd1cdf31b06c202?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Jan 20 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Operations Analyst - Year Up](https://jobright.ai/jobs/info/678e1835f18de74e4383d538?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 20 |
+| ↳ | **[Operations Analyst - Year Up](https://jobright.ai/jobs/info/678e1835f18de74e4383d539?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 20 |
 | ↳ | **[Operations Analyst - Year Up](https://jobright.ai/jobs/info/678e1835f18de74e4383d53a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/678e11c9cb32c53543c20c94?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 20 |
 | **[Solenis](http://solenis.com/)** | **[2025 MBA Intern](https://jobright.ai/jobs/info/678e0d14a8af5c13b905c68a?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jan 20 |
@@ -90,13 +95,14 @@ For a complete list, click the following sortable link below:
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: Supply Chain - Davenport, IA](https://jobright.ai/jobs/info/678bc7e82e70d0048dda662a?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Jan 18 |
 | **[Horton, Inc.](http://hortonww.com)** | **[Supply Chain & Purchasing Intern (Summer 2025)](https://jobright.ai/jobs/info/678bce4308f044d9cd92d262?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Jan 18 |
 | **[Rakuten International](http://rakuten.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/676f3cd87c8fd50930efc1b0?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jan 18 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2025 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6710336ef8e82fea7431a124?utm_campaign=1050&utm_source=git)** | Booneville, MS | On Site | Jan 18 |
 | **[Cirrus Logic](https://cirrus.com/)** | **[Summer Intern, Supply Chain Operations (MK)](https://jobright.ai/jobs/info/672e51fd965e0a0138b0132c?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Jan 18 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/678844278d81da83dd29b5eb?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Jan 18 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Project Manager Intern - Product Owner](https://jobright.ai/jobs/info/6769cc669b43e47937769c9c?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Jan 17 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Category Supply Management](https://jobright.ai/jobs/info/66db8a5d83f082a540d4e07c?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
 | **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2025](https://jobright.ai/jobs/info/677b883803cca0bf0bf5b04b?utm_campaign=1050&utm_source=git)** | Coolidge, KS | On Site | Jan 17 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[National Sea Logistics Intern](https://jobright.ai/jobs/info/678df6a7aa17d5f3d140ef2e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[Exyte](https://www.exyte.net/en#)** | **[Intern - Project Controls](https://jobright.ai/jobs/info/678b4e18dbee2865ec33450e?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
+| **[Exyte](https://www.exyte.net/en#)** | **[Intern - Project Controls](https://jobright.ai/jobs/info/678b59a7723a1c590dd6b447?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
 | ↳ | **[Intern - Supply Chain](https://jobright.ai/jobs/info/678b4e18dbee2865ec3344f1?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 17 |
 | **[Dole Food Company](http://www.dole.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/678b4577faa000ec7519fe73?utm_campaign=1050&utm_source=git)** | Springfield, OH | On Site | Jan 17 |
 | **[Egan Company](https://www.eganco.com/)** | **[Assistant Project Manager Intern (InterClad Team) - Summer 2025](https://jobright.ai/jobs/info/673387d10b03dcd3efd34e21?utm_campaign=1050&utm_source=git)** | Champlin, MN | Hybrid | Jan 17 |
@@ -123,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Community Transit](https://www.communitytransit.org/)** | **[Internship - IT Project Assistant](https://jobright.ai/jobs/info/678b15fdc2967b41b8244741?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Jan 17 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b82446f9?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Jan 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b02?utm_campaign=1050&utm_source=git)** | Folsom, CA | On Site | Jan 17 |
-| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518af2?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Jan 17 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b01?utm_campaign=1050&utm_source=git)** | Elk Grove, CA | On Site | Jan 17 |
+| ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518af2?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Jan 17 |
 | ↳ | **[Management Trainee Summer Intern](https://jobright.ai/jobs/info/678b1d7902fd787705518b19?utm_campaign=1050&utm_source=git)** | Yuba City, CA | On Site | Jan 17 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/678b1d7902fd787705518b93?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Jan 17 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Project Manager Intern - Communications](https://jobright.ai/jobs/info/678b1348c3b4a1f32120597d?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Jan 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/678af62bb3f558bc73ac5014?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 17 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/678afe0d6437822261e957e5?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Jan 17 |
 | **[Cisco](http://www.cisco.com)** | **[Corporate Strategy Manager MBA (Intern) United States](https://jobright.ai/jobs/info/678af1bd6d6d5583e26a7105?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
-| **[Madison Gas and Electric](https://www.mge.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/67880f12f14bd6dbf9b333a3?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Jan 17 |
-| **[BODYARMOR Sports Nutrition](http://www.drinkbodyarmor.com)** | **[Innovation Intern - Project Management (BODYARMOR)](https://jobright.ai/jobs/info/678aee5441240f32e12539fe?utm_campaign=1050&utm_source=git)** | Whitestone, NY | On Site | Jan 17 |
-| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Procurement and Supply Chain Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253a76?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Jan 17 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/670e5ba2347df6381b2a0514?utm_campaign=1050&utm_source=git)** | Camp Hill, PA | On Site | Jan 17 |
-| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Associate, Program Strategy](https://jobright.ai/jobs/info/6764a8eeb4e76ee02d612272?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Jan 17 |
-| **[Bethpage Federal Credit Union](https://www.bethpagefcu.com/)** | **[HCMS Intern](https://jobright.ai/jobs/info/678af62bb3f558bc73ac5231?utm_campaign=1050&utm_source=git)** | Bethpage, NY | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Woodmark](http://americanwoodmark.com/)** | **[Summer 2025 Internship Program - IT](https://jobright.ai/jobs/info/6793866cec7876b4fe0141f0?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Jan 24 |
+| **[Workiva](http://www.workiva.com)** | **[2025 Summer Intern - Business Operations](https://jobright.ai/jobs/info/67936d058998cf2868ea18f2?utm_campaign=1050&utm_source=git)** | Ames, IA | Remote | Jan 24 |
+| ↳ | **[2025 Summer Intern - Business Operations](https://jobright.ai/jobs/info/67936d058998cf2868ea1917?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Airbus](https://us.airbus.com)** | **[Internship for Project Management A320 Family Program (d/f/m)](https://jobright.ai/jobs/info/67935d29487f9eac3d7a24d9?utm_campaign=1050&utm_source=git)** | Hamburg Area | Hybrid | Jan 24 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Pharmaceutical Development Manufacturing (PDM) - Digital Project Lead](https://jobright.ai/jobs/info/67936d058998cf2868ea1913?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 24 |
 | **[Workiva](http://www.workiva.com)** | **[2025 Summer Intern - CPX Operations](https://jobright.ai/jobs/info/67935950e8723c0fc2dd7361?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations - Thousand Oaks, CA (Summer 2025)](https://jobright.ai/jobs/info/67936d058998cf2868ea18f5?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Jan 24 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2025 Summer Intern Beyond Nicotine - ECOMM & Social Media Undergraduate](https://jobright.ai/jobs/info/67935aa20c2690c9d8f382fc?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Jan 24 |
 | **[Weasler Engineering](http://www.weasler.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67935aa20c2690c9d8f383aa?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Jan 23 |
 | **[Cresa](http://cresa.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/67935aa20c2690c9d8f3849c?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 23 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Operations Analyst Intern - Seattle City Light](https://jobright.ai/jobs/info/67930f7a5d343494cd940954?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 23 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Strategy Office](https://jobright.ai/jobs/info/679308a2333ed4afd810214b?utm_campaign=1050&utm_source=git)** | Oceanside, CA | On Site | Jan 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67932641c81e6b7687d6685f?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jan 23 |
-| **[Solenis](http://solenis.com/)** | **[2025 MBA Intern](https://jobright.ai/jobs/info/6792faac4cab28c3866d8925?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jan 23 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/6780864f8be23add7368f167?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 23 |
 | **[onsemi](http://www.onsemi.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6792f7cfa97dbae7a838623d?utm_campaign=1050&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Jan 23 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Enterprise Strategy Intern, Summer 2025](https://jobright.ai/jobs/info/67930120bf68ba130ccf0e8b?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 23 |
@@ -104,15 +108,15 @@ For a complete list, click the following sortable link below:
 | **[Fervo Energy](https://www.fervoenergy.com)** | **[Strategy Internship](https://jobright.ai/jobs/info/67904caebe204fe67d4f8b69?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 23 |
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Operations Intern (Scottsdale, AZ)](https://jobright.ai/jobs/info/6792ed0809f584cb9dd839b9?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Jan 23 |
 | **[Weasler Engineering](http://www.weasler.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6792dbb9d1cce44f290804f0?utm_campaign=1050&utm_source=git)** | West Bend, WI, USA | On Site | Jan 23 |
-| **[PwC](http://pwc.com)** | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f2908061e?utm_campaign=1050&utm_source=git)** | CA-Los Angeles | On Site | Jan 23 |
+| **[PwC](http://pwc.com)** | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f29080628?utm_campaign=1050&utm_source=git)** | FL-Miami | On Site | Jan 23 |
+| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f29080622?utm_campaign=1050&utm_source=git)** | IL-Rosemont | On Site | Jan 23 |
+| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f2908061d?utm_campaign=1050&utm_source=git)** | TX-Dallas | On Site | Jan 23 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f2908062d?utm_campaign=1050&utm_source=git)** | IL-Chicago | On Site | Jan 23 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f29080627?utm_campaign=1050&utm_source=git)** | CA-San Francisco | On Site | Jan 23 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f29080533?utm_campaign=1050&utm_source=git)** | NY-New York | On Site | Jan 23 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f2908062e?utm_campaign=1050&utm_source=git)** | MA-Boston | On Site | Jan 23 |
-| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f2908061d?utm_campaign=1050&utm_source=git)** | TX-Dallas | On Site | Jan 23 |
+| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f2908061e?utm_campaign=1050&utm_source=git)** | CA-Los Angeles | On Site | Jan 23 |
 | ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f2908061f?utm_campaign=1050&utm_source=git)** | DC-Washington | On Site | Jan 23 |
-| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f29080628?utm_campaign=1050&utm_source=git)** | FL-Miami | On Site | Jan 23 |
-| ↳ | **[Assurance Financial Markets & Real Estate (FMRE) Intern - Summer 2026](https://jobright.ai/jobs/info/6792dbb9d1cce44f29080622?utm_campaign=1050&utm_source=git)** | IL-Rosemont | On Site | Jan 23 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6792d9cdb8de6b784f61a61a?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Jan 23 |
 | **[Infospan Inc](http://www.ispaninc.com/)** | **[Quality Analyst Trainee/Marketing](https://jobright.ai/jobs/info/6792f50e9cfb70e3308580a4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Kearfott Corporation](http://www.kearfott.com)** | **[Supply Chain Intern (Summer 2025)](https://jobright.ai/jobs/info/6792f326899e17819de88a8c?utm_campaign=1050&utm_source=git)** | Black Mountain, NC | On Site | Jan 23 |
@@ -125,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Uber](http://www.uber.com)** | **[2025 Strategy & Planning MBA Intern, US](https://jobright.ai/jobs/info/6792c8e1fbc639ccdb0efdc3?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | ↳ | **[2025 Strategy & Planning MBA Intern, US](https://jobright.ai/jobs/info/6792c8e1fbc639ccdb0efdfc?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | **[Clune Construction Company](http://www.clunegc.com)** | **[Intern](https://jobright.ai/jobs/info/6789d7beffe3ed78b974894a?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jan 23 |
+| **[CareScout](https://www.carescout.com)** | **[CareScout Operations Administrative Intern - Summer 2025](https://jobright.ai/jobs/info/678fd2696cbeb4ea26249a74?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Retail Ops Intern (TX/WI/KY)](https://jobright.ai/jobs/info/6792d369f31169a68afd328f?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jan 23 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2025 Summer Intern: Supply Chain (Virginia ONLY)](https://jobright.ai/jobs/info/6792cb23a318f56a25dd71e4?utm_campaign=1050&utm_source=git)** | Newport News, VA | Hybrid | Jan 23 |
 | **[MetLife](http://www.metlife.com)** | **[MTU 2025 Summer Internship-Proj. Mgmt. Track](https://jobright.ai/jobs/info/6792daa8adcd992e29fab499?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vanderlande](https://www.vanderlande.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/679293604361615c3d1d4c54?utm_campaign=1050&utm_source=git)** | Marietta, GA USA | On Site | Jan 23 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op ESG and Stakeholder](https://jobright.ai/jobs/info/67929a766c03a251db209cbf?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 23 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Royal Palm Beach Warehouse,](https://jobright.ai/jobs/info/6792a128efbde2ac1ed8c736?utm_campaign=1050&utm_source=git)** | Royal Palm Beach, FL | On Site | Jan 23 |
-| ↳ | **[District Manager Intern,](https://jobright.ai/jobs/info/6792a128efbde2ac1ed8c732?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Jan 23 |
-| **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Construction Project Manager - Internship/Co-Op](https://jobright.ai/jobs/info/6792a587a3d006db3394d9a3?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 23 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse,](https://jobright.ai/jobs/info/6792a128efbde2ac1ed8c919?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Jan 23 |
-| **[Textron](http://textron.com)** | **[2025 Summer Intern – Military Sustainment – Fort Worth, TX](https://jobright.ai/jobs/info/67929e32661c93791711f06a?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 23 |
-| **[Cumming Group](https://cumming-group.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6792907d7c8f48ace27da40a?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

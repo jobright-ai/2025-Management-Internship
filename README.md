@@ -57,40 +57,55 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Supply Chain Logistics](https://jobright.ai/jobs/info/679993e27012fffc971a81f4?utm_campaign=1050&utm_source=git)** | Columbia, MO | Hybrid | Jan 28 |
+| **[Kemper](http://kemper.com)** | **[IT Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6799952a0d59e5644bac7137?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 28 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Supply Chain & Logistics (Summer 2025)](https://jobright.ai/jobs/info/679993e27012fffc971a8320?utm_campaign=1050&utm_source=git)** | Salem, VA | On Site | Jan 28 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6799952a0d59e5644bac71c8?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Jan 28 |
+| **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Summer Distribution Intern (Junior/Senior)](https://jobright.ai/jobs/info/6799927255d841c62268bc6d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern,](https://jobright.ai/jobs/info/679981c97911cb7f4ea4a8b8?utm_campaign=1050&utm_source=git)** | South Windsor, CT | On Site | Jan 28 |
+| ↳ | **[District Manager Intern,](https://jobright.ai/jobs/info/679981c97911cb7f4ea4a8ba?utm_campaign=1050&utm_source=git)** | Haines City, FL | On Site | Jan 28 |
+| **[Atlassian](https://www.atlassian.com)** | **[Program Management Intern: Product Launch, 2025 Summer U.S.](https://jobright.ai/jobs/info/67997f766077abaecb04f4f9?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Jan 28 |
+| **[Delta Dental of New Jersey and Connecticut](https://www.deltadentalnj.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6799908da0cf240d8fe5ae12?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 28 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Cultural Resource Management Intern](https://jobright.ai/jobs/info/67998b19cb67896023630469?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Jan 28 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Program Manager - Agile](https://jobright.ai/jobs/info/679987c38df2bae83aec70c8?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 28 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Unpaid Intern - Research and Evaluation](https://jobright.ai/jobs/info/67997a9e0bf61f079ec05d1e?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Jan 28 |
+| **[Macquarie Group](https://www.macquarie.com)** | **[2026 Macquarie Asset Management Summer Internship Program](https://jobright.ai/jobs/info/677c82b13d2b3c29d9745e30?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 28 |
+| **[The Jackson Laboratory](http://www.jax.org)** | **[Facilities Capital Projects Intern](https://jobright.ai/jobs/info/67997a9e0bf61f079ec05bc7?utm_campaign=1050&utm_source=git)** | Bar Harbor, ME | On Site | Jan 28 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Program Coordinator](https://jobright.ai/jobs/info/679981c97911cb7f4ea4a826?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Jan 28 |
 | **[SoFi](https://www.sofi.com)** | **[Intern, IT Supplier Relationship Analyst](https://jobright.ai/jobs/info/67996d27a252f7ed34ef7ae3?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 28 |
 | ↳ | **[Intern, IT Supplier Relationship Analyst](https://jobright.ai/jobs/info/6799691107259e579e7b37f7?utm_campaign=1050&utm_source=git)** | San Francisco County, CA | On Site | Jan 28 |
 | **[Arkansas Children's](http://archildrens.org)** | **[Elevate Summer Internship 2025- Business Operations](https://jobright.ai/jobs/info/6799684d5eee3211c2cf724e?utm_campaign=1050&utm_source=git)** | Little Rock | On Site | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain, Forecasting & Demand Planning Intern](https://jobright.ai/jobs/info/6799691107259e579e7b37ce?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| ↳ | **[Supply Chain Transformation Intern](https://jobright.ai/jobs/info/6799691107259e579e7b37bb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Transformation Intern](https://jobright.ai/jobs/info/6799691107259e579e7b37bb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| ↳ | **[Supply Chain, Forecasting & Demand Planning Intern](https://jobright.ai/jobs/info/6799691107259e579e7b37ce?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf733e?utm_campaign=1050&utm_source=git)** | USA TN Remote | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732e?utm_campaign=1050&utm_source=git)** | USA - Remote, WV | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7330?utm_campaign=1050&utm_source=git)** | USA - Remote, MA | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7335?utm_campaign=1050&utm_source=git)** | USA - Arlington, VA | On Site | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7338?utm_campaign=1050&utm_source=git)** | USA - Remote, GA | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732d?utm_campaign=1050&utm_source=git)** | USA - Remote, OH | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf733c?utm_campaign=1050&utm_source=git)** | USA - Remote, NY | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7328?utm_campaign=1050&utm_source=git)** | USA - Remote, NC | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7298?utm_campaign=1050&utm_source=git)** | USA - Remote, IN | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf733d?utm_campaign=1050&utm_source=git)** | USA - Remote, ME | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf733b?utm_campaign=1050&utm_source=git)** | USA DE Remote | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732c?utm_campaign=1050&utm_source=git)** | USA - Remote, NJ | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7336?utm_campaign=1050&utm_source=git)** | USA - Remote, PA | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7337?utm_campaign=1050&utm_source=git)** | Minneapolis | On Site | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7332?utm_campaign=1050&utm_source=git)** | USA - Remote, MI | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7339?utm_campaign=1050&utm_source=git)** | USA - Remote, DC | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7332?utm_campaign=1050&utm_source=git)** | USA - Remote, MI | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7331?utm_campaign=1050&utm_source=git)** | USA - Remote, NH | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7333?utm_campaign=1050&utm_source=git)** | USA - Remote, SC | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732a?utm_campaign=1050&utm_source=git)** | USA - Remote, CT | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732b?utm_campaign=1050&utm_source=git)** | USA - Remote, VT | Remote | Jan 28 |
-| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7334?utm_campaign=1050&utm_source=git)** | USA - Remote, KY | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7329?utm_campaign=1050&utm_source=git)** | USA - Remote, MD | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf733a?utm_campaign=1050&utm_source=git)** | USA - Remote, RI | Remote | Jan 28 |
 | ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732f?utm_campaign=1050&utm_source=git)** | USA - Remote, FL | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7338?utm_campaign=1050&utm_source=git)** | USA - Remote, GA | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732d?utm_campaign=1050&utm_source=git)** | USA - Remote, OH | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf733c?utm_campaign=1050&utm_source=git)** | USA - Remote, NY | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7328?utm_campaign=1050&utm_source=git)** | USA - Remote, NC | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7335?utm_campaign=1050&utm_source=git)** | USA - Arlington, VA | On Site | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7298?utm_campaign=1050&utm_source=git)** | USA - Remote, IN | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732a?utm_campaign=1050&utm_source=git)** | USA - Remote, CT | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf732b?utm_campaign=1050&utm_source=git)** | USA - Remote, VT | Remote | Jan 28 |
+| ↳ | **[Team Coordinator Intern](https://jobright.ai/jobs/info/6799684d5eee3211c2cf7334?utm_campaign=1050&utm_source=git)** | USA - Remote, KY | Remote | Jan 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Intern - Short Term](https://jobright.ai/jobs/info/67996a54c7186ad481413665?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | **[Lido Advisors, LLC](https://www.lidoadvisors.com/)** | **[Summer 2025 Intern, Operations](https://jobright.ai/jobs/info/6799732d5b02ee9fb06b95ca?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Jan 28 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/67996f5f24120515f43b3021?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2025-Supply Chain-Operations Intern-Newark, OH](https://jobright.ai/jobs/info/67995c652bfe110b61be8ed9?utm_campaign=1050&utm_source=git)** | 1701 Tamarack Road, Newark, OH, 43055, US | On Site | Jan 28 |
-| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Call Audit - Springfield, MO](https://jobright.ai/jobs/info/679959b80a1c22acbfe994cd?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 28 |
+| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Call Audit - Springfield, MO](https://jobright.ai/jobs/info/679959b80a1c22acbfe994b4?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 28 |
 | **[Kemper](http://kemper.com)** | **[IT Operations Intern - Summer 2025](https://jobright.ai/jobs/info/679959b80a1c22acbfe994e1?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Jan 28 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern Program - Genentech Program - Site Operations](https://jobright.ai/jobs/info/679959b80a1c22acbfe9952c?utm_campaign=1050&utm_source=git)** | Oceanside | On Site | Jan 28 |
 | **[Magnolia Pictures](http://www.magpictures.com)** | **[Strategy & Operations Intern, Spring 2025](https://jobright.ai/jobs/info/679955cee6d126f8a0df9943?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
@@ -100,22 +115,19 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/67994eab5716a61439faef6e?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 28 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Operations Management](https://jobright.ai/jobs/info/67995d852c929872d39f271d?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Supply Chain Part Time Internship: Fall Semester](https://jobright.ai/jobs/info/67994eab5716a61439faef53?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Jan 28 |
-| ↳ | **[Supply Chain Summer Internship](https://jobright.ai/jobs/info/6799582d86c3d281b3b9896f?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Jan 28 |
 | **[ADM](http://www.adm.com)** | **[PMO Process Analyst Intern](https://jobright.ai/jobs/info/67995a3002837013eaca6c10?utm_campaign=1050&utm_source=git)** | Erlanger, KY | On Site | Jan 28 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2025- Salt Lake City, UT](https://jobright.ai/jobs/info/6799582d86c3d281b3b989b9?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 28 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67994dbeef6422d768972b0b?utm_campaign=1050&utm_source=git)** | Glastonbury, CT | On Site | Jan 28 |
-| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hospitality Internship Program](https://jobright.ai/jobs/info/6799637b407f466e4da10046?utm_campaign=1050&utm_source=git)** | Hershey, PA | Hybrid | Jan 28 |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hospitality Internship Program](https://jobright.ai/jobs/info/6799637b407f466e4da10043?utm_campaign=1050&utm_source=git)** | Hershey, PA | Hybrid | Jan 28 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/679971bf994851926ecb95f9?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Jan 28 |
 | **[PVH Corp.](https://www.pvh.com)** | **[Intern, Operational Excellence, Supply Planning - PVH Corp.](https://jobright.ai/jobs/info/6799521a31e9a92f64bc6076?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 28 |
 | **[Saint-Gobain](http://www.saint-gobain.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67994eab5716a61439faf032?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | On Site | Jan 28 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[A&R Admin Intern](https://jobright.ai/jobs/info/67995185a80fad7e5e7149a3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 28 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/67994597224369d7a9d6f835?utm_campaign=1050&utm_source=git)** | Van Buren, OH | On Site | Jan 28 |
-| ↳ | **[Operations Internship, Spring 2025- Reno, NV](https://jobright.ai/jobs/info/67994597224369d7a9d6f8e4?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Jan 28 |
 | ↳ | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/67994597224369d7a9d6f866?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | Jan 28 |
+| ↳ | **[Operations Internship, Spring 2025- Reno, NV](https://jobright.ai/jobs/info/67994597224369d7a9d6f8e4?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Jan 28 |
 | ↳ | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/67994597224369d7a9d6f877?utm_campaign=1050&utm_source=git)** | Centralia, WA | On Site | Jan 28 |
-| ↳ | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/67993ddafbaa42731f8e84a4?utm_campaign=1050&utm_source=git)** | Monroe, OH | On Site | Jan 28 |
 | ↳ | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/67993ddafbaa42731f8e84e3?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
-| **[Solenis](http://solenis.com/)** | **[2025 MBA Intern](https://jobright.ai/jobs/info/6799472fb03a06712e30a369?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jan 28 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Organizational Change Management Intern - Seattle City Light](https://jobright.ai/jobs/info/67993fb7bbf48e4aea891a0e?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[Raytheon](http://www.bbn.com)** | **[2025 Intern – Supply Chain Management Intern – Onsite (MA)](https://jobright.ai/jobs/info/67993fb7bbf48e4aea891a89?utm_campaign=1050&utm_source=git)** | Andover, MA | Hybrid | Jan 28 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Summer 2025 Intern-Manchester, NH](https://jobright.ai/jobs/info/6799472fb03a06712e30a161?utm_campaign=1050&utm_source=git)** | Manchester, NH | On Site | Jan 28 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Operations Intern- Summer 2025](https://jobright.ai/jobs/info/6751e119e49dfd66877037f1?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Jan 28 |
 | **[Amcor](http://www.amcor.com/)** | **[Intern -  Supply Chain](https://jobright.ai/jobs/info/6799230843d460bac5f35086?utm_campaign=1050&utm_source=git)** | ARP Ann Arbor MI | On Site | Jan 28 |
 | **[NEOGOV](http://www.neogov.com)** | **[Recreation Intern](https://jobright.ai/jobs/info/67995572a227b500ef62b689?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 28 |
-| ↳ | **[Engineering Project Manager Intern](https://jobright.ai/jobs/info/679916c8ae3e81765c149b51?utm_campaign=1050&utm_source=git)** | Tomball, TX | On Site | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Transformation Intern](https://jobright.ai/jobs/info/679914f268a19b93ffd84caf?utm_campaign=1050&utm_source=git)** | US - GA - Atlanta | On Site | Jan 28 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Global Strategic Alliances Co-op](https://jobright.ai/jobs/info/67991f1590d192e4fe980836?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 28 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Controls Summer Intern 2025](https://jobright.ai/jobs/info/6791701a3942a4ef61f84ee3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Jan 28 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/67892d610dc48dcd7b45eb1e?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 28 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/67991458e10b58dcc01b6db4?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Jan 28 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern](https://jobright.ai/jobs/info/67953667fc1dae7cf8e84f13?utm_campaign=1050&utm_source=git)** | Center Valley, PA | On Site | Jan 28 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Weymouth, MA](https://jobright.ai/jobs/info/6740fbb599e605a12728d8ec?utm_campaign=1050&utm_source=git)** | Weymouth, MA | On Site | Jan 28 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/679917e42fd31baffccb573d?utm_campaign=1050&utm_source=git)** | Rock Hill, NY | Hybrid | Jan 28 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Intern, Summer2025](https://jobright.ai/jobs/info/67990b026dc562c3d71ccb90?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 28 |
-| ↳ | **[JBI Operations Internship, Spring 2025](https://jobright.ai/jobs/info/67991458e10b58dcc01b6d9e?utm_campaign=1050&utm_source=git)** | Haslet, TX | On Site | Jan 28 |
-| ↳ | **[Operations Internship, Spring 2025](https://jobright.ai/jobs/info/67991458e10b58dcc01b6dac?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

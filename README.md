@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Alliance Management Intern](https://jobright.ai/jobs/info/679f3cbd23d41dc499ce16fe?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Feb 01 |
+| **[Siemens](https://www.siemens.com/)** | **[Project Commercial Support Internship(Summer 2025)- Rolling Stock](https://jobright.ai/jobs/info/679f4c33176562075207e23b?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 02 |
 | **[Midwest BankCentre](http://www.midwestbankcentre.com)** | **[Summer Intern - Retail Banking](https://jobright.ai/jobs/info/679f36d2cfc90cd3c93f9793?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Feb 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/679f2f970246d629131972c6?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Feb 01 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/679f2f970246d629131972c7?utm_campaign=1050&utm_source=git)** | Franklin, MA | On Site | Feb 01 |
@@ -94,14 +94,13 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Supply Chain - Summer 2025 Intern](https://jobright.ai/jobs/info/673dc65dce731a1e1a130b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 01 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Enterprise Capabilities](https://jobright.ai/jobs/info/677f0c25ac2a9e3337acfbca?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/67822ad5b731a31efd8e8d63?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 01 |
-| **[KEEN](http://www.keenfootwear.com)** | **[Global Logistics Intern](https://jobright.ai/jobs/info/679f36d2cfc90cd3c93f98e3?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Feb 01 |
+| **[Adient](https://www.adient.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/678844278d81da83dd29b552?utm_campaign=1050&utm_source=git)** | Plymouth, MI | On Site | Feb 01 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Branch Operations Intern (Starting May 2025!)](https://jobright.ai/jobs/info/679df1cb6f0cdfa7177c1a55?utm_campaign=1050&utm_source=git)** | Mount Vernon, IL | On Site | Jan 31 |
 | ↳ | **[Branch Operations Intern (Starting May 2025!)](https://jobright.ai/jobs/info/679de1710ada78bacb9a9321?utm_campaign=1050&utm_source=git)** | Kokomo, IN | On Site | Jan 31 |
-| ↳ | **[Branch Operations Intern (Starting May 2025!)](https://jobright.ai/jobs/info/679de88ceb9844213a7e79df?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jan 31 |
 | ↳ | **[Branch Operations Intern (Starting May 2025!)](https://jobright.ai/jobs/info/679de88ceb9844213a7e79f1?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Jan 31 |
+| ↳ | **[Branch Operations Intern (Starting May 2025!)](https://jobright.ai/jobs/info/679de88ceb9844213a7e79df?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jan 31 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Analytics Lab](https://jobright.ai/jobs/info/679ddfa04f1ffa949ba2fc5b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[LifeNet Health](https://www.lifenethealth.org/)** | **[Summer Internship: Production & Logistics (10302-2025150)](https://jobright.ai/jobs/info/679f2f970246d6291319732c?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Jan 31 |
-| ↳ | **[Summer Internship: Production & Logistics-Operations Management (10302-2025151)](https://jobright.ai/jobs/info/679f2f970246d62913197332?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Jan 31 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/679de1710ada78bacb9a95d2?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Jan 31 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7ed2?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | **[Entegral](https://Entegral.com)** | **[Summer 2025 Management Trainee Internship](https://jobright.ai/jobs/info/679ddac5f684664383aa67f2?utm_campaign=1050&utm_source=git)** | Easley, SC | On Site | Jan 31 |
@@ -126,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Resident Management Intern](https://jobright.ai/jobs/info/679d9c4fde3eca7a7f42c66d?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Jan 31 |
 | **[SAS](http://www.sas.com)** | **[Summer 2025 - Business Operations Intern](https://jobright.ai/jobs/info/679d92d4ffced95ccd0a124e?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Jan 31 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Member Services Summer Intern](https://jobright.ai/jobs/info/679d92d4ffced95ccd0a1286?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
-| ↳ | **[Operations Professional Intern](https://jobright.ai/jobs/info/679d997dc022ee484c62d448?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | ↳ | **[Operations Summer Intern](https://jobright.ai/jobs/info/679d997dc022ee484c62d45d?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
+| ↳ | **[Operations Professional Intern](https://jobright.ai/jobs/info/679d997dc022ee484c62d448?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | **[Volvo Cars](http://www.volvocars.com/)** | **[Monitoring Dashboard Enablement Intern](https://jobright.ai/jobs/info/679d8bce869a96b59a9f7953?utm_campaign=1050&utm_source=git)** | Mahwah, NJ | Hybrid | Jan 31 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Logistics Summer Internship (onsite)](https://jobright.ai/jobs/info/679d89735e6fcfa9a5c7a16b?utm_campaign=1050&utm_source=git)** | North Charleston, SC | On Site | Jan 31 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Operations Internship F&B - Summer 2025](https://jobright.ai/jobs/info/679dab2e9611ad9a664938e7?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Business Affairs Administrator: NYC - Summer 2025](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9aba?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Strategy and Communications, Summer 2025](https://jobright.ai/jobs/info/679a8de3d0b9711e0bc01fb9?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Jan 31 |
 | **[Bank of Clarke](https://www.bankofclarke.bank)** | **[Operations Intern](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3beb?utm_campaign=1050&utm_source=git)** | Berryville, VA, USA | On Site | Jan 31 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/679d85f481a0304a61eef1b2?utm_campaign=1050&utm_source=git)** | McLean, OH | On Site | Jan 31 |
-| ↳ | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/679d85f481a0304a61eef198?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/679d85f481a0304a61eef198?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
+| ↳ | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/679d85f481a0304a61eef1b2?utm_campaign=1050&utm_source=git)** | McLean, OH | On Site | Jan 31 |
 | **[Center for Reproductive Rights](https://reproductiverights.org/)** | **[Internship, Office of the President, Summer 2025](https://jobright.ai/jobs/info/679d68503216e684f1b25c7b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager Software Release, Energy Engineering (Summer 2025)](https://jobright.ai/jobs/info/679d70d096badb40019c941b?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Jan 31 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/679d70d096badb40019c9579?utm_campaign=1050&utm_source=git)** | Sturtevant, WI | On Site | Jan 31 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2025](https://jobright.ai/jobs/info/679d61e945ea19cffe8902dd?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 31 |
+| **[Rakuten International](http://rakuten.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9c4b?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

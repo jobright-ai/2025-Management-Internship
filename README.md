@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Air Brake](http://nyab.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/67a7f17dbc51f9ae056a62f9?utm_campaign=1050&utm_source=git)** | Watertown, NY | On Site | Feb 08 |
+| **[Marous Brothers Construction](https://www.marousbrothers.com)** | **[Summer Project Management Intern](https://jobright.ai/jobs/info/67a7d8152bc7756a4cdc0066?utm_campaign=1050&utm_source=git)** | Willoughby, OH | On Site | Feb 08 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Business Administrator, Internal Medicine, Division of Digestive Diseaes, College of Medicine](https://jobright.ai/jobs/info/67a7c181bcd9158a6d2113cc?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 08 |
 | **[William Blair](http://www.williamblair.com)** | **[Workplace Real Estate Management (WREM) Intern - Summer 2025](https://jobright.ai/jobs/info/67a7ac91fcf368fe1c7e248c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Material Requirement Planning Intern - R10185335](https://jobright.ai/jobs/info/67a7b66076cf4c769820b614?utm_campaign=1050&utm_source=git)** | Sierra Vista, AZ | On Site | Feb 08 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Management Master's Intern](https://jobright.ai/jobs/info/67a79fef3be5b989d917304a?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | Remote | Feb 08 |
 | ↳ | **[Medical Office Administrative Undergrad Intern - Bilingual Preferred](https://jobright.ai/jobs/info/67a79052adf7428229984ea5?utm_campaign=1050&utm_source=git)** | Downey, CA | On Site | Feb 08 |
 | ↳ | **[Strategic Projects Master's Intern](https://jobright.ai/jobs/info/67a7961a9476f16ecb45cdc1?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Feb 08 |
@@ -69,8 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - GA, FL](https://jobright.ai/jobs/info/67528e81cc74de9bc13e4314?utm_campaign=1050&utm_source=git)** | Appling, GA | On Site | Feb 08 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Production Planning Intern](https://jobright.ai/jobs/info/6733f7dfad505cecf9aaf94e?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 08 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2025 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6764d9519fb77033c6858e38?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Feb 08 |
+| **[Oracle](https://www.oracle.com/)** | **[GLAS - Operations Analyst Intern](https://jobright.ai/jobs/info/67887a70d0a32ca338ed38d0?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Feb 08 |
 | **[Centric Brands](https://centricbrands.com)** | **[Project Management Intern - Summer 2025 Internship Program](https://jobright.ai/jobs/info/674528c6918491d68dc15d89?utm_campaign=1050&utm_source=git)** | Greensboro, NC | Hybrid | Feb 08 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/66c78f3900ea364ac1ffa971?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Feb 08 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/678b029b523846b08368922d?utm_campaign=1050&utm_source=git)** | Latrobe, PA | On Site | Feb 08 |
 | **[William Charles Construction Company, LLC](https://www.williamcharlesconstruction.com/)** | **[Intern (Project Management/Estimating)](https://jobright.ai/jobs/info/6795e849524ef30deb0b89ab?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Feb 08 |
 | **[Frost](https://www.frostbank.com/)** | **[Frost Summer Internship - Permian Basin](https://jobright.ai/jobs/info/6774d3cc4de4f1a1fb3cbd19?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Feb 08 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern & Campus Field Intern - Midwest Locations](https://jobright.ai/jobs/info/67a73bdac665f68a42029a5b?utm_campaign=1050&utm_source=git)** | Minot, ND | On Site | Feb 08 |
@@ -87,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[USI Insurance Services](https://www.usi.com/)** | **[Corp Strategy and Business Initiatives Intern](https://jobright.ai/jobs/info/67a73f8fd5e8c34fee13ee3a?utm_campaign=1050&utm_source=git)** | Valhalla, NY | On Site | Feb 08 |
 | **[AXA XL](https://axaxl.com)** | **[Middle Office Intern](https://jobright.ai/jobs/info/672d598f58307283b6898122?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Franchise Planning Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67a715b837cebdf1203c01b7?utm_campaign=1050&utm_source=git)** | Glendale, CA, USA | On Site | Feb 08 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/67a734b0b9072c1028e871ca?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Feb 07 |
 | **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[HEI Hotels and Resorts Internship - Food & Beverage (Outlets)](https://jobright.ai/jobs/info/67a71a01e469ced6902d0fff?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Strategy Analyst, Summer 2025](https://jobright.ai/jobs/info/67a720aa38607c33d5d6de78?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Feb 07 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Summer 2025 / Hotel Operations Internship](https://jobright.ai/jobs/info/67a6f77c18cee046e7d71f71?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
@@ -127,15 +132,18 @@ For a complete list, click the following sortable link below:
 | **[Ann Arbor SPARK](http://www.annarborusa.org/)** | **[Project Management Intern - Summer](https://jobright.ai/jobs/info/67a6a9ad6843194e26464abb?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | Feb 07 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Operations Internship / San Antonio, TX](https://jobright.ai/jobs/info/67a6a8aa78714921bf5fa5ba?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Feb 07 |
 | **[Trail of Bits](https://www.trailofbits.com/)** | **[Business Operations & Systems Summer Intern](https://jobright.ai/jobs/info/67a6c326007f8365c3b01efe?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[Intuitive](https://intusurg.com)** | **[Digital Strategy Operations Intern](https://jobright.ai/jobs/info/677a2f3c162ffa50308056f1?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Feb 07 |
 | **[Equitable](https://equitable.com/)** | **[2025 Summer Intern - Business Unit CFO](https://jobright.ai/jobs/info/67a6946d79b36d0547ca0a31?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Best Buy](https://www.bestbuy.com/)** | **[Supply Chain Order and Customer Experience Intern](https://jobright.ai/jobs/info/67a68f53a62b8d2d7d919eae?utm_campaign=1050&utm_source=git)** | St Paul, MN | Remote | Feb 07 |
 | **[Marco Technologies](https://www.marconet.com/)** | **[Project Manager Intern (Print)](https://jobright.ai/jobs/info/679bff524fb1af735b0568c0?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Feb 07 |
+| **[Haworth](http://www.haworth.com/)** | **[Operations Intern - Holland, MI](https://jobright.ai/jobs/info/6793e4c4f5bbe6966fc97412?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Feb 07 |
 | **[Archer](https://www.archer.com)** | **[Powertrain Program Management  Intern](https://jobright.ai/jobs/info/67a686df20bea9d608de2ce9?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Feb 07 |
 | **[Millennium Space Systems, A Boeing Company](http://www.millennium-space.com/)** | **[Summer 2025 Internship - Business Office](https://jobright.ai/jobs/info/67a68bb33c30ca8d3d9e1d15?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Feb 07 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Intern (Temporary Agency)](https://jobright.ai/jobs/info/67a6946d79b36d0547ca0b5d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[NEOGOV](http://www.neogov.com)** | **[Intern (Temporary Agency)](https://jobright.ai/jobs/info/67a67db64a500824a7cde329?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 07 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - UC Davis](https://jobright.ai/jobs/info/67a68ff1e9ac390289ade5e5?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
-| ↳ | **[Operations Intern - UC Davis](https://jobright.ai/jobs/info/67a68ff1e9ac390289ade23e?utm_campaign=1050&utm_source=git)** | Davis, CA | On Site | Feb 07 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Operations Internship (Summer 2025)](https://jobright.ai/jobs/info/66ccb3391e704b96cf31e5d4?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - UC Davis](https://jobright.ai/jobs/info/67a68ff1e9ac390289ade23e?utm_campaign=1050&utm_source=git)** | Davis, CA | On Site | Feb 07 |
+| ↳ | **[Operations Intern - UC Davis](https://jobright.ai/jobs/info/67a68ff1e9ac390289ade5e5?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 07 |
 | ↳ | **[Operations Intern - UC Davis](https://jobright.ai/jobs/info/67a699bd702de8b3308e1aa4?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 07 |
 | **[Nutanix](http://www.nutanix.com)** | **[2025 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/67a67bbdc7b2e2d2ddb47165?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Feb 07 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Hospitality Internship Program](https://jobright.ai/jobs/info/67a68ff1e9ac390289ade591?utm_campaign=1050&utm_source=git)** | Hershey, PA | Hybrid | Feb 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Entegral](https://Entegral.com)** | **[Summer 2025 Management Trainee Intern - Barre](https://jobright.ai/jobs/info/67a70b86ec4c8892382e36f6?utm_campaign=1050&utm_source=git)** | Barre Town, VT | On Site | Feb 07 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Kingston, NY](https://jobright.ai/jobs/info/67a70b86ec4c8892382e3715?utm_campaign=1050&utm_source=git)** | Kingston, NY | On Site | Feb 07 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Hudson, NY](https://jobright.ai/jobs/info/67a70b86ec4c8892382e36f4?utm_campaign=1050&utm_source=git)** | Hudson, NY | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern - White River Junction, VT](https://jobright.ai/jobs/info/67a70b86ec4c8892382e3713?utm_campaign=1050&utm_source=git)** | White River Junction, VT | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Poughkeepsie, NY](https://jobright.ai/jobs/info/67a70b86ec4c8892382e370d?utm_campaign=1050&utm_source=git)** | Poughkeepsie, NY | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Coral Springs, FL](https://jobright.ai/jobs/info/67a70b86ec4c8892382e36f2?utm_campaign=1050&utm_source=git)** | Coral Springs, FL | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern Port Saint Lucie](https://jobright.ai/jobs/info/67a70b86ec4c8892382e370b?utm_campaign=1050&utm_source=git)** | Port St Lucie, FL | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Glens Falls, NY](https://jobright.ai/jobs/info/67a70b86ec4c8892382e3710?utm_campaign=1050&utm_source=git)** | Glens Falls, NY | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern - Plattsburgh, NY](https://jobright.ai/jobs/info/67a70b86ec4c8892382e36ff?utm_campaign=1050&utm_source=git)** | Plattsburgh, NY | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern Boca Raton](https://jobright.ai/jobs/info/67a70b86ec4c8892382e3700?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | On Site | Feb 07 |
-| ↳ | **[Summer 2025 Management Trainee Intern Jupiter](https://jobright.ai/jobs/info/67a70b86ec4c8892382e3707?utm_campaign=1050&utm_source=git)** | Jupiter, FL | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

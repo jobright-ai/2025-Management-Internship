@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Administrator in Training](https://jobright.ai/jobs/info/67ba66368bb3e8d8e9346aa3?utm_campaign=1050&utm_source=git)** | Culloden, WV | On Site | Feb 22 |
+| **[CommuniCare Health Services](http://www.communicarehealth.com)** | **[Administrator In Training](https://jobright.ai/jobs/info/67ba6be880bb8f2b3a7adaac?utm_campaign=1050&utm_source=git)** | Clarksburg, WV | On Site | Feb 22 |
+| ↳ | **[Administrator in Training](https://jobright.ai/jobs/info/67ba66368bb3e8d8e9346aa3?utm_campaign=1050&utm_source=git)** | Culloden, WV | On Site | Feb 22 |
 | **[The University of Connecticut Foundation, Inc.](https://www.foundation.uconn.edu)** | **[Development Intern (Hybrid)](https://jobright.ai/jobs/info/67ba5f8e91a4f64a6d8504a0?utm_campaign=1050&utm_source=git)** | Storrs, CT | Hybrid | Feb 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Workflow & Content Ops Project Manager Intern-Undergraduate](https://jobright.ai/jobs/info/67ba12f004d6f693e57d0b35?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Business Operations, SRDO](https://jobright.ai/jobs/info/67ba0223afd6aa803742acdc?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Feb 22 |
@@ -101,11 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99900 Administrative Assistant](https://jobright.ai/jobs/info/67b9539a01d4be6fb8f4d02f?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 21 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Supply Chain Management Development Assocaite](https://jobright.ai/jobs/info/67b94b3bc7f8cdc3a1fdc679?utm_campaign=1050&utm_source=git)** | Bloomfield, MO | On Site | Feb 21 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/67b948987a3221678a10acb7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 21 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99912 Administrative Assistant](https://jobright.ai/jobs/info/67b95bc63880833109e4fde4?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 21 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Project Coordinator](https://jobright.ai/jobs/info/67b9539a01d4be6fb8f4d0da?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 21 |
 | **[Frontier Airlines](http://www.flyfrontier.com)** | **[2025 Summer Intern, Airport Strategy](https://jobright.ai/jobs/info/67b9450bea9b1274cf490e69?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 21 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Ride Operations Intern](https://jobright.ai/jobs/info/67b93287289ef9406c39523a?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Feb 21 |
-| ↳ | **[Park Services Intern](https://jobright.ai/jobs/info/67b93287289ef9406c39521c?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Feb 21 |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Park Services Intern](https://jobright.ai/jobs/info/67b93287289ef9406c39521c?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Feb 21 |
+| ↳ | **[Ride Operations Intern](https://jobright.ai/jobs/info/67b93287289ef9406c39523a?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Feb 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67b93d5ebe7d80135fb702c8?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Feb 21 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67b93d5ebe7d80135fb702c9?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Feb 21 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67b93d5ebe7d80135fb702cd?utm_campaign=1050&utm_source=git)** | Pearl City, HI | On Site | Feb 21 |
@@ -136,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[BerlinRosen](https://berlinrosen.com)** | **[Digital Project Management Summer 2025 Internship](https://jobright.ai/jobs/info/67b90bb6462845fc17bf8301?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Administrative Assistant Co-op](https://jobright.ai/jobs/info/67b903709ee9a508ac2c2cd6?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Feb 21 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[IT Rotational 102ki (May 2025 Graduates) 1](https://jobright.ai/jobs/info/67b9e5c73d9a0e46c97b58b6?utm_campaign=1050&utm_source=git)** | Marysville, OH | Hybrid | Feb 21 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Service Operations Analyst Intern](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb573eb?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Feb 21 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/67b8ec56dcf07096ee463979?utm_campaign=1050&utm_source=git)** | Crown Point, IN | On Site | Feb 21 |
 | **[Methodist Health System](http://jobs.methodisthealthsystem.org)** | **[Administrative Student Intern](https://jobright.ai/jobs/info/67b903709ee9a508ac2c2d7e?utm_campaign=1050&utm_source=git)** | Richardson, TX | On Site | Feb 21 |
 | **[Husch Blackwell](http://www.huschblackwell.com/)** | **[Intern - Office Administration Coordinator (OAC)](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb574ef?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern-Sacramento State](https://jobright.ai/jobs/info/67b8f20790567a1457f65a28?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 21 |
 | **[BerlinRosen](https://berlinrosen.com)** | **[Digital Project Management Summer 2025 Internship](https://jobright.ai/jobs/info/67b8e890894454ce6065b533?utm_campaign=1050&utm_source=git)** | New York, N.Y. or Washington, D.C. | On Site | Feb 21 |
 | **[Methodist Health System](http://jobs.methodisthealthsystem.org)** | **[Administrative Student Intern](https://jobright.ai/jobs/info/67b8e263d16d5e688f45d8c2?utm_campaign=1050&utm_source=git)** | Richardson, Texas | On Site | Feb 21 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain Management/Logistics Internship](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb5793a?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

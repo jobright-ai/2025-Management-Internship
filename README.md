@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Graduate Leadership Development Program - Summer Associate](https://jobright.ai/jobs/info/67bdbe5ff20a499244be8f8c?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 25 |
+| **[IntelliSurvey](http://intellisurvey.com)** | **[Project Manager Trainee (Part-Time)](https://jobright.ai/jobs/info/67bdc6b7ab7d9d3578c94d22?utm_campaign=1050&utm_source=git)** | Louisville, KY | Hybrid | Feb 25 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67bd8db0af42b33c8e3b8318?utm_campaign=1050&utm_source=git)** | Mansfield, TX | On Site | Feb 25 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/67bd8db0af42b33c8e3b8319?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Feb 25 |
 | **[MannKind Corporation](http://mannkindcorp.com)** | **[Commercial Leadership Program](https://jobright.ai/jobs/info/67bd869f0ac11d8870a3ebe3?utm_campaign=1050&utm_source=git)** | Westlake Village, CA | On Site | Feb 25 |
-| **[NANA](http://www.nana.com)** | **[NANA High School Intern, Shareholder Relations  Paid Internship- Kivalina, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/67bd8db0af42b33c8e3b81ab?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
+| **[NANA](http://nana.com)** | **[NANA High School Intern, Shareholder Relations  Paid Internship- Kivalina, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/67bd8db0af42b33c8e3b81ab?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
 | ↳ | **[NANA High School Intern, Shareholder Relations  Paid Internship- Deering, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/67bd8db0af42b33c8e3b81d3?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
+| ↳ | **[NANA High School Intern, Shareholder Relations  Paid Internship - Buckland, AK (Open to NANA Shareholders Only)](https://jobright.ai/jobs/info/67bd9502fff430e871c6a98e?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Facilities Coordinator Intern/Student Worker](https://jobright.ai/jobs/info/67bd8f2eaf42b33c8e3b85a5?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Feb 24 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Sample Coordinator Intern, Summer 2025](https://jobright.ai/jobs/info/67bd865ba5d29d187b249c85?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Middle Tennessee State University](https://jobright.ai/jobs/info/67bd8f2eaf42b33c8e3b8609?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Feb 24 |
@@ -83,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Raytheon](http://www.bbn.com)** | **[2025 Intern – Procurement Intern – Remote](https://jobright.ai/jobs/info/67bd2ec7ddaa3aab85b1d9f1?utm_campaign=1050&utm_source=git)** | Yuma, AZ | Hybrid | Feb 24 |
 | **[Swift Transportation](http://www.swifttrans.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e9a5d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 24 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Summer Internship: Club Wyndham Kona Coast Resort](https://jobright.ai/jobs/info/67bd30b0754d56b779feba0d?utm_campaign=1050&utm_source=git)** | Kailua-Kona, HI | On Site | Feb 24 |
+| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Career Connection Office Manager](https://jobright.ai/jobs/info/67bd9d1cc881d0eb414b0968?utm_campaign=1050&utm_source=git)** | Delaware, OH | On Site | Feb 24 |
 | **[Michelin](http://www.michelin.com/)** | **[2025 Summer Health & Safety Intern Emporia KS](https://jobright.ai/jobs/info/67bd1c0552e1a0dadf207fb5?utm_campaign=1050&utm_source=git)** | Emporia, KS | On Site | Feb 24 |
 | **[CBIZ](http://www.cbiz.com)** | **[Office Assistant](https://jobright.ai/jobs/info/67bd266b2277159480df1a1a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 24 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Arizona Region 2024 - 2025](https://jobright.ai/jobs/info/67bd38c36ab12c2ba61e987a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 24 |
@@ -138,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Michelin](http://www.michelin.com/)** | **[2025 Summer Health & Safety Intern Emporia KS](https://jobright.ai/jobs/info/67bcd7e3066b1436e12805ae?utm_campaign=1050&utm_source=git)** | EMPORIA, KS | On Site | Feb 24 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Operations Intern - Summer 2025](https://jobright.ai/jobs/info/67bceeebcc9bbe12ff44643d?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | On Site | Feb 24 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/67bce0bf336fd825c6fce858?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
-| ↳ | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/67bcd61bac28ea8bbecfd655?utm_campaign=1050&utm_source=git)** | South Gate, CA | On Site | Feb 24 |
 | **[Posillico Civil, Inc.](http://posillicoinc.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/67bd426b8ebced36c34e0b7c?utm_campaign=1050&utm_source=git)** | Falls Church, VA | On Site | Feb 24 |
 | **[Wolverine Advanced Materials](http://www.wamglobal.com/)** | **[Purchasing Assistant Intern / Co-op](https://jobright.ai/jobs/info/67bce6f48cdaa1b350cba7d9?utm_campaign=1050&utm_source=git)** | Virginia, United States | On Site | Feb 24 |
 | **[AEVEX Aerospace](https://www.aevex.com/)** | **[Supply Chain Analyst- Intern](https://jobright.ai/jobs/info/67bcdd3798676fe0b6ded892?utm_campaign=1050&utm_source=git)** | Tampa, Florida, United States | On Site | Feb 24 |
@@ -146,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Endo](http://www.endo.com)** | **[Intern, Operations Support](https://jobright.ai/jobs/info/67bcfbc3007d54b38224085e?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Feb 24 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Ryan Opera Center (ROC) Intern](https://jobright.ai/jobs/info/67bd67614f4a29d3ecaa615f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
 | **[YU & Associates](http://yu-associates.com)** | **[Internship](https://jobright.ai/jobs/info/67bd4a4597c45d2acaa420a4?utm_campaign=1050&utm_source=git)** | Elmwood Park, NJ | On Site | Feb 24 |
-| **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Business Administration Intern  Paid Internship](https://jobright.ai/jobs/info/67bd74a45194e389c713f3e6?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Business Administration Intern  Paid Internship](https://jobright.ai/jobs/info/67bd74a45194e389c713f3e6?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Business Administration Intern  Paid Internship](https://jobright.ai/jobs/info/67bd74a45194e389c713f3df?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
 | ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern  Paid Internship](https://jobright.ai/jobs/info/67bd74a45194e389c713f451?utm_campaign=1050&utm_source=git)** | United States | On Site | Feb 24 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Corporate Operations- Supply Chain](https://jobright.ai/jobs/info/67bcdd3798676fe0b6dedd73?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Feb 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Silvi Materials](http://silvi.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/67bd765c5194e389c713f90b?utm_campaign=1050&utm_source=git)** | Fairless Hills, PA | On Site | Feb 24 |
 | ↳ | **[CDP - Logistics Development Program](https://jobright.ai/jobs/info/67bd765c5194e389c713f93d?utm_campaign=1050&utm_source=git)** | Vincentown, NJ | On Site | Feb 24 |
 | **[Equity Residential](http://equityapartments.com)** | **[Onsite Property Management Internship-Summer 2025- Irvine](https://jobright.ai/jobs/info/67bcd71a88420bdbe18dd848?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 24 |
-| ↳ | **[Onsite Property Management Internship-Summer 2025- Bay Area](https://jobright.ai/jobs/info/67bcd71a88420bdbe18dd823?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 24 |
-| ↳ | **[Onsite Property Management Internship-Summer 2025- San Francisco Bay Area](https://jobright.ai/jobs/info/67bcd71a88420bdbe18dd832?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 24 |
-| **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- Procurement](https://jobright.ai/jobs/info/67bcc8f2a1e35d53310eb86c?utm_campaign=1050&utm_source=git)** | Connecticut, Bethany - Bld2 | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

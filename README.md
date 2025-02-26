@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/67a29cf1b804ba4367bd1e07?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/675cef83cc9cad31fae22828?utm_campaign=1050&utm_source=git)** | Northampton, MA | On Site | Feb 26 |
+| **[CesiumAstro](https://www.cesiumastro.com)** | **[Strategy Analyst Intern](https://jobright.ai/jobs/info/67a2d1b8cb8690ca3ff26169?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 26 |
+| **[Spectrum](https://www.spectrum.com)** | **[Project Manager Summer 2025 Intern - Field Service](https://jobright.ai/jobs/info/67a32b378ace96599852baaa?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Feb 26 |
+| **[CME Group](http://www.cmegroup.com)** | **[Global Command Center Intern - Summer 2025](https://jobright.ai/jobs/info/67beee47af59b574356efe5d?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Washington](https://jobright.ai/jobs/info/67bee0656a6a0ad56479f3cf?utm_campaign=1050&utm_source=git)** | Wenatchee, WA | On Site | Feb 25 |
 | ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/67bee0656a6a0ad56479f69e?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Feb 25 |
 | ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/67bee0656a6a0ad56479f69f?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 25 |
+| **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern - Equipment Finance](https://jobright.ai/jobs/info/67bef2a8a5865a9d95738665?utm_campaign=1050&utm_source=git)** | Lancaster, PA | Hybrid | Feb 25 |
 | **[Cargill](https://www.cargill.com/home)** | **[Corporate Strategy Associate Intern 2025](https://jobright.ai/jobs/info/67bea70794d030b43337f641?utm_campaign=1050&utm_source=git)** | Wayzata, MN | On Site | Feb 25 |
 | **[REsurety](https://resurety.com/)** | **[Summer 2025 Operations Intern](https://jobright.ai/jobs/info/67be94aa8d0a93dba2d53193?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Feb 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant HawkReach Counseling, Tahlequah N99532](https://jobright.ai/jobs/info/67be9f55933a00b7d4bcaa2b?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 25 |
@@ -77,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[FUJIFILM Diosynth Biotechnologies](http://www.fujifilmdiosynth.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67be8b596c1075eb36db2f0e?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Feb 25 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Summer 2025 - Supply Chain Intern](https://jobright.ai/jobs/info/67b8194242d668ef9249ead1?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 25 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[General Administrative Intern](https://jobright.ai/jobs/info/67be6f66a26f73013ec7acfc?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Feb 25 |
-| **[Avea Life](https://avea-life.com)** | **[Business Operations Intern - Spain](https://jobright.ai/jobs/info/67be8b596c1075eb36db2ffa?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 25 |
+| **[AVEA](https://avea-life.com)** | **[Business Operations Intern - Spain](https://jobright.ai/jobs/info/67be8b596c1075eb36db2ffa?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 25 |
 | **[TRIUMPH](http://www.triumphgroup.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/67be757a925bf8faa8113487?utm_campaign=1050&utm_source=git)** | Clemmons, NC | On Site | Feb 25 |
 | ↳ | **[Intern, Supply Chain](https://jobright.ai/jobs/info/67be757a925bf8faa8113490?utm_campaign=1050&utm_source=git)** | Clemmons, NC | On Site | Feb 25 |
 | ↳ | **[Intern, Bus Mgmt](https://jobright.ai/jobs/info/67be757a925bf8faa81134bc?utm_campaign=1050&utm_source=git)** | Clemmons, NC | On Site | Feb 25 |
@@ -98,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Project Management, Digital](https://jobright.ai/jobs/info/67be6064d111079a283e14f8?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/67be66e9445bdf698182c5c9?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 25 |
 | **[Manhattan Construction Company](http://www.manhattanconstruction.com)** | **[Internship - Summer 2025](https://jobright.ai/jobs/info/67be6f66a26f73013ec7b440?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Feb 25 |
-| **[Fingerpaint Group](https://www.fingerpaint.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/67be948b7b01018200097d99?utm_campaign=1050&utm_source=git)** | Cedar Knolls, NJ | Hybrid | Feb 25 |
+| **[Fingerpaint Group](https://www.fingerpaint.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/67be948b7b01018200097d94?utm_campaign=1050&utm_source=git)** | Cedar Knolls, NJ | Hybrid | Feb 25 |
 | **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[General Administrative Intern](https://jobright.ai/jobs/info/67be78f9ac04acdcaae0a931?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Feb 25 |
 | **[NSM Insurance Group](http://nsminc.com)** | **[HR/Office Administration Intern](https://jobright.ai/jobs/info/67be78f9ac04acdcaae0a965?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Feb 25 |
 | **[RNGD](http://www.rngd.com)** | **[2025 Internship](https://jobright.ai/jobs/info/67be969a7b0101820009844b?utm_campaign=1050&utm_source=git)** | Metairie, LA | On Site | Feb 25 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Brailsford & Dunlavey, Inc.](http://programmanagers.com)** | **[Project Intern](https://jobright.ai/jobs/info/67be20bcf842c4911604f652?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 25 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Upper Midwest (MN-IA-SD-ND-WI),](https://jobright.ai/jobs/info/67b8e890894454ce6065b6f2?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Feb 25 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Undergrad Intern, Strategic Portfolio and Planning](https://jobright.ai/jobs/info/67be39939a4703b92b37d3dc?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 25 |
-| **[Fifth Third Bank](http://53.com)** | **[Capital Markets / CIB Early Insights](https://jobright.ai/jobs/info/67be1ebbaf38a1f79a6c9586?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
-| ↳ | **[Capital Markets / CIB Early Insights](https://jobright.ai/jobs/info/67be1ebbaf38a1f79a6c9585?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 25 |
-| **[Cleveland Clinic](http://my.clevelandclinic.org)** | **[Administrative College Intern - Center for Youth and College Education](https://jobright.ai/jobs/info/67be28ea008b92e321275a16?utm_campaign=1050&utm_source=git)** | Cleveland, OH | Hybrid | Feb 25 |
-| **[C1](http://www.spanlink.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/67be065344e96e2888025d9c?utm_campaign=1050&utm_source=git)** | Bloomington, MN | On Site | Feb 25 |
-| **[Beazer Homes](http://beazer.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67b79ef745c83f846ef9bc30?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Feb 25 |
-| **[School Specialty](http://www.schoolspecialty.com)** | **[Supply Chain and Logistics Internship (Transportation Focus)- Starting Part Time Spring Semester](https://jobright.ai/jobs/info/67be0e6227fdd299b932754a?utm_campaign=1050&utm_source=git)** | Greenville, WI | On Site | Feb 25 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin,](https://jobright.ai/jobs/info/67b8e00c5d3321910ebea751?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Feb 25 |
-| **[Omnicom Health Group](http://www.omnicomhealthgroup.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/67be17fbcc090b67517b818e?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
+| **[Fifth Third Bank](http://53.com)** | **[Capital Markets / CIB Early Insights](https://jobright.ai/jobs/info/67be1ebbaf38a1f79a6c9585?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 25 |
+| ↳ | **[Capital Markets / CIB Early Insights](https://jobright.ai/jobs/info/67be1ebbaf38a1f79a6c9586?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

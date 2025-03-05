@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2025](https://jobright.ai/jobs/info/677b883803cca0bf0bf5b04b?utm_campaign=1050&utm_source=git)** | Coolidge, KS | On Site | Mar 05 |
+| **[Pure Storage](http://www.purestorage.com)** | **[Technical Project Manager Intern (Summer 2025)](https://jobright.ai/jobs/info/67ac365ba68a7e69b36bf942?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 05 |
+| **[Northeast Georgia Health System](http://www.nghs.com/)** | **[Intern-Operational Excellence](https://jobright.ai/jobs/info/67c82a8d8bd21f94dfe6deda?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Mar 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Middle Tennessee State University](https://jobright.ai/jobs/info/67c8234984045b509cd749e0?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Mar 05 |
+| ↳ | **[Operations Intern - Middle Tennessee State University](https://jobright.ai/jobs/info/67c8234984045b509cd749e1?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Mar 05 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Oceanside Strategy Office (Change Management, Communications)](https://jobright.ai/jobs/info/67c811c89da1b1ec24b50d3a?utm_campaign=1050&utm_source=git)** | Oceanside, CA | On Site | Mar 05 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Strategy and Analytics Grad Intern](https://jobright.ai/jobs/info/67c8059df16d6799147bcf7c?utm_campaign=1050&utm_source=git)** | Newark, DE | Hybrid | Mar 04 |
 | ↳ | **[Strategy and Analytics Grad Intern](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b156?utm_campaign=1050&utm_source=git)** | New Castle, DE | Hybrid | Mar 04 |
 | **[ABB](https://global.abb/group/en)** | **[Transportation and Logistics Intern - Summer 2025](https://jobright.ai/jobs/info/67c7f402b7b82c8cdcf37b38?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Mar 04 |
+| **[Imerys](https://imerys.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67b3c6c4d96230a68a5c6a7f?utm_campaign=1050&utm_source=git)** | Roswell, GA | On Site | Mar 04 |
 | **[Elgin Sweeper](http://elginsweeper.com)** | **[Intern - Supply Chain/Procurement/ Purchasing](https://jobright.ai/jobs/info/67c7f30182cef2fb71879fb2?utm_campaign=1050&utm_source=git)** | University Park, IL | On Site | Mar 04 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Flight Operations – Operations Support, Technology &amp; Business Strategy (Fall 2025)](https://jobright.ai/jobs/info/67c7dac919768f1483f5b92b?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Mar 04 |
 | **[Leidos](https://www.leidos.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/67c7f864af8d8f81cb73b139?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Mar 04 |
@@ -87,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67c7a10f665256b5f082d7c0?utm_campaign=1050&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Mar 04 |
 | **[Dundee Bank](https://www.dundeebanking.com)** | **[Dundee Bank Internship - Summer 2025](https://jobright.ai/jobs/info/67c7b297b12b25da0ac83d0f?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Mar 04 |
 | **[Western Digital](https://www.westerndigital.com)** | **[Summer 2025 Intern, Global Supply Chain & Procurement](https://jobright.ai/jobs/info/67c7a10f665256b5f082d961?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[2025 Summer Intern – Project Management Function (PMF)](https://jobright.ai/jobs/info/679c26986587864b140894e5?utm_campaign=1050&utm_source=git)** | Swiftwater, PA | On Site | Mar 04 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67c7bbec49a4146e0cc9c75d?utm_campaign=1050&utm_source=git)** | La Grange, IL | On Site | Mar 04 |
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Executive Administrative Assistant](https://jobright.ai/jobs/info/67c7a0bde6f48842641a4646?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Mar 04 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Graduate Leadership Development Program - Summer Associate](https://jobright.ai/jobs/info/67c7a0bde6f48842641a46c3?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 04 |
@@ -135,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Warehouse Operations](https://jobright.ai/jobs/info/67c7ca4cfe1f3da7a4917223?utm_campaign=1050&utm_source=git)** | Plainfield, IN United States of America | On Site | Mar 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2025 Intern - InSilico CMC](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf468?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Mar 04 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[2023 Supply Chain Internship - South Brunswick, NJ](https://jobright.ai/jobs/info/67c7697c1b6939ce2fde8fcb?utm_campaign=1050&utm_source=git)** | South Brunswick, NJ | On Site | Mar 04 |
-| **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf5de?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Mar 04 |
-| ↳ | **[Member Services Intern](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf4ed?utm_campaign=1050&utm_source=git)** | New York, New York | Hybrid | Mar 04 |
+| **[Progyny, Inc.](https://www.progyny.com/)** | **[Member Services Intern](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf4ed?utm_campaign=1050&utm_source=git)** | New York, New York | Hybrid | Mar 04 |
+| ↳ | **[Member Services Intern](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf5de?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Mar 04 |
 | **[Emerson](http://www.emerson.com)** | **[MBA leadership Program - Internship - Information Technology Analyst - Class of 2026](https://jobright.ai/jobs/info/67c75b52ba0a4780df2de06b?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Mar 04 |
 | **[Hartford HealthCare](https://hartfordhealthcare.org)** | **[Student Intern - Primary Care Administration](https://jobright.ai/jobs/info/67c7615f6f371335c751361f?utm_campaign=1050&utm_source=git)** | Wethersfield, CT | On Site | Mar 04 |
 | **[Summit Materials](http://www.summit-materials.com)** | **[Summer Internship Program - Kilgore Construction (Waitlist) 1](https://jobright.ai/jobs/info/67c7594f96c4838741515bcd?utm_campaign=1050&utm_source=git)** | Paris, TX | On Site | Mar 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Office Operations Intern](https://jobright.ai/jobs/info/67c74f74f0643d0250dc0a20?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[MedTech Supply Chain Summer Intern](https://jobright.ai/jobs/info/67c7b315ae62bfa906a24c48?utm_campaign=1050&utm_source=git)** | Somerville, NJ | On Site | Mar 04 |
 | ↳ | **[MedTech Supply Chain Summer Intern](https://jobright.ai/jobs/info/67c7c2bb37a392d664643dba?utm_campaign=1050&utm_source=git)** | Spring House, PA | On Site | Mar 04 |
-| ↳ | **[MedTech Supply Chain Summer Intern](https://jobright.ai/jobs/info/67c7c2bb37a392d664643f84?utm_campaign=1050&utm_source=git)** | Raynham, MA | On Site | Mar 04 |
-| **[Hilton](https://www.hilton.com/en/)** | **[Commercial Intern](https://jobright.ai/jobs/info/67c733797681920b2180291a?utm_campaign=1050&utm_source=git)** | Hilton Boston Park Plaza50 Park Plaza at Arlington St. | On Site | Mar 04 |
-| ↳ | **[Operations Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/67c733797681920b218028fa?utm_campaign=1050&utm_source=git)** | Hilton Boston Park Plaza50 Park Plaza at Arlington St. | On Site | Mar 04 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[MedTech Supply Chain Summer Intern](https://jobright.ai/jobs/info/67c7de3516ecbbf139395019?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Mar 04 |
-| ↳ | **[MedTech Supply Chain Summer Intern](https://jobright.ai/jobs/info/67c7de3516ecbbf13939501a?utm_campaign=1050&utm_source=git)** | Somerset, NJ | On Site | Mar 04 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Supply Chain Master's Intern](https://jobright.ai/jobs/info/67c3edeaf22c590878eda1dc?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Mar 04 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[MedTech Supply Chain Summer Intern](https://jobright.ai/jobs/info/67c7e8a78b6485ad2fe14a35?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

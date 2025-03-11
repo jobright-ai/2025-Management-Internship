@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Louisville](http://louisville.edu/research/offices/technology-transfer/)** | **[Temporary Housing Summer Hall Director Intern (Part-Time)](https://jobright.ai/jobs/info/6777dbc75bcc93d32dca35d8?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Mar 11 |
+| **[Rich Products Corporation](https://rich.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/67b3ec559861bf490cf3f64f?utm_campaign=1050&utm_source=git)** | Buffalo, NY | Hybrid | Mar 11 |
 | **[Atlas](http://www.atlasvanlines.com)** | **[International Logistics Intern (paid)](https://jobright.ai/jobs/info/67cffa328f247734d7df8344?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Mar 11 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/67cfdd30677ceacde90ae08a?utm_campaign=1050&utm_source=git)** | Medina, OH | On Site | Mar 10 |
 | **[Beth Israel Deaconess Medical Center](https://www.bidmc.org/)** | **[Co-op, Project Management, HMFP_BIDMC](https://jobright.ai/jobs/info/67cfdeda86f4ba4d8deb9568?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Mar 10 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Elgin Sweeper](http://elginsweeper.com)** | **[Intern - Supply Chain/Procurement/ Purchasing](https://jobright.ai/jobs/info/67c7f30182cef2fb71879fb2?utm_campaign=1050&utm_source=git)** | University Park, IL | On Site | Mar 10 |
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Executive Assistant (Only Interns)](https://jobright.ai/jobs/info/67cf7342e6cf3ddfa5d58f84?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Mar 10 |
 | **[Veolia North America](http://growingblue.com/)** | **[Junior Project Manager Intern](https://jobright.ai/jobs/info/67cf80eef0df9a21f9749aae?utm_campaign=1050&utm_source=git)** | Paramus, NJ | On Site | Mar 10 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Culture & Office Ops Summer Internship](https://jobright.ai/jobs/info/67cf7abd9516d0156129d33d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 10 |
-| ↳ | **[C3 Presents - Culture & Office Ops Fall 2025 Internship](https://jobright.ai/jobs/info/67cf7abd9516d0156129d323?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Culture & Office Ops Fall 2025 Internship](https://jobright.ai/jobs/info/67cf7abd9516d0156129d323?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 10 |
+| ↳ | **[C3 Presents - Culture & Office Ops Summer Internship](https://jobright.ai/jobs/info/67cf7abd9516d0156129d33d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 10 |
 | **[WM](https://www.wm.com/)** | **[MBA Intern](https://jobright.ai/jobs/info/67cf785e1595a2a93ee4916a?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 10 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Controls Intern - Kiewit Power Delivery](https://jobright.ai/jobs/info/67cf6fb0a052d359f58818cd?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Mar 10 |
 | **[AARP](http://www.aarp.org)** | **[Business Management and Operations Intern (Summer start)](https://jobright.ai/jobs/info/67cf6ceb9edab706b6533eef?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
@@ -122,16 +124,16 @@ For a complete list, click the following sortable link below:
 | **[James Hardie](http://www.jameshardie.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/67cf4b2fdc707f0006793bd9?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | Hybrid | Mar 10 |
 | **[ConnectDER](http://connectDER.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/67cf3ce0622ed6c0c6bdab34?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[Summit Materials](http://www.summit-materials.com)** | **[Summer Internship - South Region](https://jobright.ai/jobs/info/67cf41c3aad90b2fce25cb3a?utm_campaign=1050&utm_source=git)** | Paris, TX | On Site | Mar 10 |
+| **[Las Vegas Sands Corp.](http://sands.com)** | **[Intern - Las Vegas Sands Corp.](https://jobright.ai/jobs/info/673d40ca9fa50218df9703af?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Mar 10 |
 | **[Meijer](https://www.meijer.com/)** | **[Supply Chain Planning Intern- Summer 2025](https://jobright.ai/jobs/info/67cf3803d69b1328faf4fc98?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Mar 10 |
 | **[Cotter Consulting, Inc.](http://cotterconsulting.com)** | **[Intern - Construction Management / Project Management](https://jobright.ai/jobs/info/67cf3803d69b1328faf4fd05?utm_campaign=1050&utm_source=git)** | Chicago | On Site | Mar 10 |
-| **[Gallagher Re](https://www.capsicumre.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/67cfda690fd6164e96faba69?utm_campaign=1050&utm_source=git)** | Rolling Meadows, Illinois | On Site | Mar 10 |
-| **[Cotter Consulting, Inc.](http://cotterconsulting.com)** | **[Intern - Construction Management / Project Management](https://jobright.ai/jobs/info/67cf39f06094862eb65903bb?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
+| ↳ | **[Intern - Construction Management / Project Management](https://jobright.ai/jobs/info/67cf39f06094862eb65903bb?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[CBRE](https://www.cbre.com)** | **[2025 CBRE MBA Executive Strategy Summer Associate Program](https://jobright.ai/jobs/info/67cf3654d648bf1118ed7305?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 10 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/67cf268fef209e02ff228c3e?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Mar 10 |
 | **[Arcadis](http://www.arcadis.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/67cf268fef209e02ff228c71?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Mar 10 |
 | **[HSA Bank, a division of Webster Bank, N.A.](http://www.hsabank.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67cf1f69d18eaba142794bde?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 10 |
-| **[Veolia North America](http://growingblue.com/)** | **[Intern](https://jobright.ai/jobs/info/67cf21803ed3962f6bab38cc?utm_campaign=1050&utm_source=git)** | Haworth, NJ | On Site | Mar 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67cf268fef209e02ff228cdc?utm_campaign=1050&utm_source=git)** | Haworth, NJ | On Site | Mar 10 |
+| **[Veolia North America](http://growingblue.com/)** | **[Intern](https://jobright.ai/jobs/info/67cf21803ed3962f6bab38ca?utm_campaign=1050&utm_source=git)** | Haworth, NJ | On Site | Mar 10 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67cf21803ed3962f6bab38cc?utm_campaign=1050&utm_source=git)** | Haworth, NJ | On Site | Mar 10 |
 | **[Pandora](https://www.pandoragroup.com)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/67cf19f290398c4030258d39?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | ↳ | **[Retail Operations Intern](https://jobright.ai/jobs/info/67cf19f290398c4030258d1d?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Mar 10 |
 | **[Trace3](http://trace3.com/)** | **[Operations Specialist Intern](https://jobright.ai/jobs/info/67cf19948318a93f4dc4623b?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Mar 10 |
@@ -141,20 +143,18 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[MedTech Competitive Insights & Forecasting Co-Op](https://jobright.ai/jobs/info/67cf16b286934527979f49f2?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[American Red Cross](http://redcross.org)** | **[Business Strategy Intern](https://jobright.ai/jobs/info/67cfe0bf86f4ba4d8deb98a9?utm_campaign=1050&utm_source=git)** | Iowa, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/67cfe0bf86f4ba4d8deb98ac?utm_campaign=1050&utm_source=git)** | Nebraska, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/67cfe0bf86f4ba4d8deb98b1?utm_campaign=1050&utm_source=git)** | Oklahoma, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Strategy Intern](https://jobright.ai/jobs/info/67cfe0bf86f4ba4d8deb98b3?utm_campaign=1050&utm_source=git)** | Oregon, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/67cfe0bf86f4ba4d8deb98b1?utm_campaign=1050&utm_source=git)** | Oklahoma, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/67cfe0bf86f4ba4d8deb98b7?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
 | ↳ | **[Business Strategy Intern](https://jobright.ai/jobs/info/67cfe0bf86f4ba4d8deb98b8?utm_campaign=1050&utm_source=git)** | Missouri, United States | Hybrid | Mar 10 |
 | **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/67cf0d28e5f9bf87675a3000?utm_campaign=1050&utm_source=git)** | Breinigsville, PA | On Site | Mar 10 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2025 Intern - Procurement](https://jobright.ai/jobs/info/67c4c7c1608cd81a21e4ca93?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Mar 10 |
-| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern - Forestar](https://jobright.ai/jobs/info/67cf08c86cebe3ced1cfaa59?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 10 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern - Forestar](https://jobright.ai/jobs/info/67cf08c86cebe3ced1cfaa59?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - CT, DE, MA, NH, NJ, NY, PA, RI](https://jobright.ai/jobs/info/675d52f75d06d507a5d1c953?utm_campaign=1050&utm_source=git)** | North Andover, MA | On Site | Mar 10 |
 | ↳ | **[Amazon Robotics - Program Manager (PM) Summer Intern - 2025](https://jobright.ai/jobs/info/66dacd2c0c03cd8f73b2db00?utm_campaign=1050&utm_source=git)** | Westborough, MA | On Site | Mar 10 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- TN, AR, LA, AL, MS](https://jobright.ai/jobs/info/66c5296b724e1337930862a8?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Mar 10 |
 | ↳ | **[Fulfillment Area Manager Intern 2025- KY, OH](https://jobright.ai/jobs/info/66c5296b724e1337930862b3?utm_campaign=1050&utm_source=git)** | Etna, OH | On Site | Mar 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[MedTech Competitive Insights & Forecasting Co-Op](https://jobright.ai/jobs/info/67cf06b5717784f8ec31a2fb?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Mar 10 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Creative Services Project Management Intern](https://jobright.ai/jobs/info/6780927f66ae6f1b2e663b87?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Mar 10 |
-| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66ed55d5ea3dac19f538aecc?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Mar 10 |
-| **[MullenLowe U.S.](https://mullen.com)** | **[Strategy Intern - Summer 2025 Inkternship](https://jobright.ai/jobs/info/67b0d224d344684d4f9d8b6a?utm_campaign=1050&utm_source=git)** | Boston, NY | Hybrid | Mar 10 |
-| **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) within A350 Programme Management](https://jobright.ai/jobs/info/67cee9400d319f8dfc6102df?utm_campaign=1050&utm_source=git)** | Hamburg Area | Hybrid | Mar 10 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/66ed55d5ea3dac19f538aecc?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

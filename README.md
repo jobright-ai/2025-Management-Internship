@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67d6bfcb95bcef3899f0181b?utm_campaign=1050&utm_source=git)** | Alamo, TN | On Site | Mar 16 |
+| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern – Strategy & Operations, DX Marketing](https://jobright.ai/jobs/info/67d6a1518a8518bad966dca6?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Mar 16 |
 | **[The Chefs'​ Warehouse](http://www.chefswarehouse.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67d679dcf4a39ffce645bffd?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Mar 15 |
 | **[HP](http://www.hp.com)** | **[HP Inc. Workforce Services & Solutions Team Business Management Internship](https://jobright.ai/jobs/info/67d67485c102a0578fc91705?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Mar 15 |
 | **[Seattle Children's](https://www.seattlechildrens.org/)** | **[Summer Non-Clinical Internship - Research Administration](https://jobright.ai/jobs/info/67d67927b0889e7768e1aeb2?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Mar 15 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Internship - Retail Operations - Omni Support](https://jobright.ai/jobs/info/67d5d336b38807640d63b24a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 15 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Intern Global Supply Chain - R10189496](https://jobright.ai/jobs/info/67d5d97fb134bb36e19c4470?utm_campaign=1050&utm_source=git)** | Redondo Beach, CA | On Site | Mar 15 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Internship - Facility Management/CARB](https://jobright.ai/jobs/info/67d5a6d08edf5ec7837ac876?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 15 |
+| **[Performance Team](http://performanceteam.net)** | **[Operations Internship](https://jobright.ai/jobs/info/67b9c6ebc40702e82611158c?utm_campaign=1050&utm_source=git)** | Carteret, NJ | Hybrid | Mar 15 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/679d3e7b6cf67dfba4ec6469?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Mar 15 |
 | **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- Clinical Trial Management](https://jobright.ai/jobs/info/679c1537a5929ce8a6a66f06?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Mar 15 |
 | **[Securitas Technology ](https://www.securitastechnology.com)** | **[Corrections Intern](https://jobright.ai/jobs/info/679bd101863a31f163b9173a?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Mar 15 |
@@ -80,18 +83,21 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship & Management Trainee Program](https://jobright.ai/jobs/info/67d58b86f76d3b744494eb72?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Mar 15 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/67b8ec56dcf07096ee463979?utm_campaign=1050&utm_source=git)** | Crown Point, IN | On Site | Mar 15 |
 | **[Husch Blackwell](http://www.huschblackwell.com/)** | **[Intern - Office Administration Coordinator (OAC)](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb574ef?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Mar 15 |
+| **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/67d463c60ee6100623c415c7?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 15 |
+| **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Software Automation Intern (DeltaV)](https://jobright.ai/jobs/info/6761fbf630dcf6c5c5ff51d7?utm_campaign=1050&utm_source=git)** | Marlborough, MA | On Site | Mar 15 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Summer Intern, Logistics Analyst](https://jobright.ai/jobs/info/67b9539a01d4be6fb8f4d00a?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Mar 15 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[Strategy and Innovation Intern Summer 2025](https://jobright.ai/jobs/info/67985646797cecda46d30260?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Mar 15 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Resident Management Intern](https://jobright.ai/jobs/info/679c3455211c722b4aaff227?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Mar 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/679c412b65988d7a51c74a17?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Mar 15 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/67c7de3516ecbbf13939508e?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Mar 15 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/67d56471708043b0549a9f7a?utm_campaign=1050&utm_source=git)** | Circle, MT | Hybrid | Mar 15 |
 | **[Viant Technology](http://viantinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67b8fd7e91e665388b50c762?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Mar 15 |
-| **[GRUNDFOS](https://www.grundfos.com)** | **[Supply Chain Planner Intern - Summer 2025](https://jobright.ai/jobs/info/67b8e890894454ce6065b6ad?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Mar 15 |
 | **[ADM](http://www.adm.com)** | **[ARTCo Transportation Intern](https://jobright.ai/jobs/info/679be6d6f0f49d1493210928?utm_campaign=1050&utm_source=git)** | Decatur, IL | On Site | Mar 15 |
 | **[Northside Hospital](http://www.northside.com)** | **[Facilities Planning Intern](https://jobright.ai/jobs/info/67d55b87c73c0b58711cd1ef?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 15 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Property Management Intern - Newark Airport](https://jobright.ai/jobs/info/67cc7867ec4271dbcc2fc525?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Mar 14 |
 | **[Redscout](http://www.redscout.com)** | **[Strategy and Client Services Intern](https://jobright.ai/jobs/info/67d6621d2466a2be555f02b3?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Mar 14 |
 | **[Atlantic Health System](http://www.atlantichealth.org)** | **[Program Assistant (Atlantic Adult Day Center) Summer Intern](https://jobright.ai/jobs/info/67b4fc4961958567b10bbaf5?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 14 |
+| **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Protein (Multiple U.S. Locations)](https://jobright.ai/jobs/info/67d46dc22a29eb8fbc289fae?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Mar 14 |
 | **[OTG Management](http://www.otgexp.com/)** | **[Project Manager - Intern](https://jobright.ai/jobs/info/67d6537e7551a7960f899bab?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Terex Corporation](http://www.terex.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67d50232189c31c28dcad560?utm_campaign=1050&utm_source=git)** | Watertown, SD | On Site | Mar 14 |
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Co-Op Technical Project Management](https://jobright.ai/jobs/info/67d4e65e6b716febb730dee9?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Mar 14 |
@@ -141,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/67d49b190fb231c2e4d70031?utm_campaign=1050&utm_source=git)** | North Attleboro, MA | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/67d49b190fb231c2e4d7000e?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c8a1?utm_campaign=1050&utm_source=git)** | Enfield, CT | On Site | Mar 14 |
-| ↳ | **[Summer 2025 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c85f?utm_campaign=1050&utm_source=git)** | Warwick, RI | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c8ab?utm_campaign=1050&utm_source=git)** | Northampton, MA | On Site | Mar 14 |
+| ↳ | **[Summer 2025 Management Trainee Intern - T.F. Green Airport](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c85f?utm_campaign=1050&utm_source=git)** | Warwick, RI | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern -  West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c813?utm_campaign=1050&utm_source=git)** | West Hartford, CT | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - North Kingstown/Middletown Rhode Island](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c843?utm_campaign=1050&utm_source=git)** | North Kingstown, RI | On Site | Mar 14 |
 | ↳ | **[Summer 2025 Management Trainee Intern - East Hartford/Glastonbury/Manchester/Colchester, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c82e?utm_campaign=1050&utm_source=git)** | East Hartford, CT | On Site | Mar 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Internship - Project and Communication Manager](https://jobright.ai/jobs/info/67d4800da3334c4feac75660?utm_campaign=1050&utm_source=git)** | San Diego, CA, USA | On Site | Mar 14 |
 | **[Lactalis Heritage Dairy](https://www.linkedin.com/company/80164640)** | **[Organizational Change Management Intern](https://jobright.ai/jobs/info/67d48c4b198cd85b02aa0bcf?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Mar 14 |
 | **[Lil' Drug Store Products](http://lildrugstore.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67d4807abb1f78302b3e9be4?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Mar 14 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[Graduate Administrative Assistant](https://jobright.ai/jobs/info/67d48d7553167d6e5673410a?utm_campaign=1050&utm_source=git)** | Jacksonville, AL | On Site | Mar 14 |
-| **[AECOM](http://www.aecom.com/)** | **[Program & Project Management Intern](https://jobright.ai/jobs/info/67d47944fb73df64d3bdd852?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 14 |
-| **[Komatsu](http://www.ehrbar.com)** | **[Subcontract Intern](https://jobright.ai/jobs/info/67d4792a132b431144d8197e?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Mar 14 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2025 - Dallas, TX](https://jobright.ai/jobs/info/67d484bde01c43e8d30d7057?utm_campaign=1050&utm_source=git)** | Balch Springs, TX | On Site | Mar 14 |
-| **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Organizational Change Management Intern](https://jobright.ai/jobs/info/67d477b53a0d71f466e0ba2a?utm_campaign=1050&utm_source=git)** | CHICAGO, IL CORPORATE | On Site | Mar 14 |
-| **[Avnet](https://www.avnet.com)** | **[Supply Chain Products Intern](https://jobright.ai/jobs/info/67d483153a8d4111c10db3bd?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

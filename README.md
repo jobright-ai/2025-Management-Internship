@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[PCI Group](http://www.pcigroup.com)** | **[SUMMER INTERN OPERATIONS](https://jobright.ai/jobs/info/67e087540d495444e46af058?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | On Site | Mar 23 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Intern](https://jobright.ai/jobs/info/67e08405060e10c5ec48a85e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Mar 23 |
 | **[PCI Group](http://www.pcigroup.com)** | **[SUMMER INTERN OPERATIONS](https://jobright.ai/jobs/info/67e08405060e10c5ec48a869?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 23 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, Tahlequah N99865](https://jobright.ai/jobs/info/67e0255bcef6d7820961c67d?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Mar 23 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2025 - WA, OR, ID, NV](https://jobright.ai/jobs/info/66c5296b724e1337930861d2?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Mar 23 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[IT Project Coordinator Intern](https://jobright.ai/jobs/info/67d14d49ccf613f7e4143f58?utm_campaign=1050&utm_source=git)** | Carlisle, PA | On Site | Mar 23 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Land Intern](https://jobright.ai/jobs/info/673fff2bfdb7f6a17626adca?utm_campaign=1050&utm_source=git)** | Smyrna, DE | On Site | Mar 23 |
@@ -106,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Patients & Purpose](http://patientsandpurpose.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/67c2969efae6c7ddb9d38937?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Remington Hospitality](http://www.remingtonhotels.com)** | **[Hotel Operations Intern](https://jobright.ai/jobs/info/67c23671695f970b79747d50?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Mar 22 |
 | **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Strategy Intern](https://jobright.ai/jobs/info/67c23f4ae525c3192c86f74d?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/67c21d7ee311e8ac0200985a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
+| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/67c2654df9278ff2fa73a094?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, IT Project Delivery](https://jobright.ai/jobs/info/67a3ec183620dc2505482ebb?utm_campaign=1050&utm_source=git)** | Oakland, CA | Hybrid | Mar 22 |
 | **[Uline](http://www.uline.com)** | **[Logistics Analyst Internship - Summer 2025](https://jobright.ai/jobs/info/67a4b76122414c8d0eb1a6f4?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Mar 22 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/67dd2720d87b880852ee4333?utm_campaign=1050&utm_source=git)** | South Gate, CA | On Site | Mar 22 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Admin Clerk - Seasonal](https://jobright.ai/jobs/info/67de99f6940760072e1e1d75?utm_campaign=1050&utm_source=git)** | Century City, CA | On Site | Mar 22 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Strategy + Data Execution Intern](https://jobright.ai/jobs/info/67c20b03dd35f37c8a34b87f?utm_campaign=1050&utm_source=git)** | Versailles, OH | On Site | Mar 22 |
 | **[Signify](https://www.signify.com)** | **[Project Manager Intern - Summer 2025](https://jobright.ai/jobs/info/67c24110a589e6254029f017?utm_campaign=1050&utm_source=git)** | Peachtree City, GA | On Site | Mar 22 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de91a4d5e015ca29582c6d?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 22 |
-| ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de91a4d5e015ca29582c6c?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 22 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de91a4d5e015ca29582c6c?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Mar 22 |
+| ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de91a4d5e015ca29582c6d?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Mar 22 |
 | ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de91a4d5e015ca29582c6e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Mar 22 |
 | ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de91a4d5e015ca29582c6f?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Mar 22 |
 | ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de91a4d5e015ca29582c70?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Mar 22 |
@@ -136,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/67de7f9ee80acbf5888a8172?utm_campaign=1050&utm_source=git)** | Cypress, TX | On Site | Mar 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de99f6940760072e1e1fed?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Mar 22 |
 | ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de7f9ee80acbf5888a8182?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Mar 22 |
-| ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de8175e80acbf5888a8c96?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 22 |
 | ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de8175e80acbf5888a8c97?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Mar 22 |
+| ↳ | **[Operations Intern - Louisiana State University](https://jobright.ai/jobs/info/67de8175e80acbf5888a8c96?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Mar 22 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[IT - Project Management - Intern](https://jobright.ai/jobs/info/67c149afd2160f0ef304a65e?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 22 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Program Manager Internship](https://jobright.ai/jobs/info/67de61dc3189b4bac8306a64?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Mar 21 |
 | **[FUJIFILM Diosynth Biotechnologies](http://www.fujifilmdiosynth.com)** | **[Operations Intern](https://jobright.ai/jobs/info/67de627255be9ca3159248aa?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Mar 21 |
@@ -145,8 +144,10 @@ For a complete list, click the following sortable link below:
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Land Acquisition Internship](https://jobright.ai/jobs/info/67de3037048ef31f40ed81ef?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 21 |
 | **[Steffes](http://www.steffes.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/67de44106fed32fda1866c87?utm_campaign=1050&utm_source=git)** | Dickinson, ND | On Site | Mar 21 |
 | **[Veolia North America](http://growingblue.com/)** | **[On Site Specialist - Internship](https://jobright.ai/jobs/info/67ca4784f396a0b1481b9b52?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Mar 21 |
+| **[B & I Contractors Inc.](http://bandiflorida.com)** | **[Summer Internship - Project Management Department](https://jobright.ai/jobs/info/67e0cfabc18fe01ac5626255?utm_campaign=1050&utm_source=git)** | Tamarac, FL | On Site | Mar 21 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern-Strategic Sourcing/Supply Chain (Summer 2025)](https://jobright.ai/jobs/info/67de2c3089f0463a130c27db?utm_campaign=1050&utm_source=git)** | Brillion, WI | On Site | Mar 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship](https://jobright.ai/jobs/info/67de21bb054822f4254928c3?utm_campaign=1050&utm_source=git)** | Westfield, MA | On Site | Mar 21 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Leadership and Enterprise Development - Intern](https://jobright.ai/jobs/info/67c149afd2160f0ef304a647?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Mar 21 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/67de0df2fdcabd4be458247e?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Mar 21 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[IT Transformation Trainee, CORP - Summer/Fall 2025](https://jobright.ai/jobs/info/67de06d5c83f9b0552a75149?utm_campaign=1050&utm_source=git)** | Culver City, California | On Site | Mar 21 |
 | **[Hyatt Centric](https://www.hyatt.com/brands/hyatt-centric)** | **[Operations Internship](https://jobright.ai/jobs/info/67de0add3bd0b896121af699?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/67de0cc11046cc372312ae63?utm_campaign=1050&utm_source=git)** | Laurel, MD | Hybrid | Mar 21 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2024-2025 Leadership Development Program - Full Time & Summer Internship](https://jobright.ai/jobs/info/67a41d60ce324c85d7793e8e?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Mar 21 |
 | **[Amoroso Construction](https://www.sjamoroso.com)** | **[Internship](https://jobright.ai/jobs/info/67c7873ac4e4922660fa372c?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Mar 21 |
-| **[Finnegan, Henderson, Farabow, Garrett & Dunner, LLP](http://www.finnegan.com)** | **[Summer Intern](https://jobright.ai/jobs/info/67de01ed6efee23d378f5b14?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

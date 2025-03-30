@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Facilities Management-Fleet Shop](https://jobright.ai/jobs/info/67e867328c5836a60e0a413f?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Mar 29 |
+| **[Metrea](https://www.metrea.aero)** | **[Project Management Intern](https://jobright.ai/jobs/info/67e867328c5836a60e0a4153?utm_campaign=1050&utm_source=git)** | Temecula, CA | On Site | Mar 29 |
 | **[C1](http://www.spanlink.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/67e82d12e26a7ef15b04512c?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Operations and Quality Intern](https://jobright.ai/jobs/info/67e83444ea212db7b1e1f10c?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 29 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/67e82902cad7d23c84e91f13?utm_campaign=1050&utm_source=git)** | United States | Remote | Mar 29 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Global Real Estate Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/67e82196d52fa609dffe1334?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Mar 29 |
 | **[US LBM](http://uslbm.com)** | **[Supply Chain Fulfillment Intern](https://jobright.ai/jobs/info/67e7ff1749004f266ae735c2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 29 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Business Operations Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/67e7f617319951664c719c9c?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Mar 29 |
+| **[Carmeuse](https://www.carmeusena.com)** | **[Project Management Co-Op](https://jobright.ai/jobs/info/67cb3274e8e9122c125be37c?utm_campaign=1050&utm_source=git)** | Bettsville, OH | On Site | Mar 29 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Supply Chain Planning & Analytics Intern](https://jobright.ai/jobs/info/67e7e803e650d77c6a89c1f7?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Mar 29 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Purchasing Internship](https://jobright.ai/jobs/info/67e7da363c92abe7963ceb38?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Mar 29 |
 | **[Intrado](https://www.intrado.com/)** | **[Summer Intern - Business Continuity](https://jobright.ai/jobs/info/67d90b74af105a41f0022aa0?utm_campaign=1050&utm_source=git)** | Longmont, CO | Hybrid | Mar 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D Strategic Business Operations Summer Internship](https://jobright.ai/jobs/info/67e69bf2e8ab24528ee0cb74?utm_campaign=1050&utm_source=git)** | Spring House, PA | Hybrid | Mar 28 |
 | **[PROPELLER](https://www.propellercommunicates.com/)** | **[Experience Strategy, Intern](https://jobright.ai/jobs/info/67c9d2b82e7a1e30554271d6?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Admin Clerk - Seasonal](https://jobright.ai/jobs/info/67e77ab79fdea0c6efc040a1?utm_campaign=1050&utm_source=git)** | Ventura County, CA | On Site | Mar 28 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-Op, Operations Analytics (Fall 2025)](https://jobright.ai/jobs/info/67ad259053f315d1bc44f735?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[R&D Strategic Business Operations Summer Internship](https://jobright.ai/jobs/info/67e68ed38d665142b31e12ac?utm_campaign=1050&utm_source=git)** | Raritan, NJ | Hybrid | Mar 28 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship](https://jobright.ai/jobs/info/67e68ed38d665142b31e12ae?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

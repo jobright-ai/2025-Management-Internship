@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bone Dry Roofing](https://www.bonedry.com/indianapolis/)** | **[Construction Management Internship - 2025*](https://jobright.ai/jobs/info/67f24a8a8b57874c41eef278?utm_campaign=1050&utm_source=git)** | Indiana, United States | On Site | Apr 06 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Global Procurement Intern](https://jobright.ai/jobs/info/67f24a8a8b57874c41eef2d6?utm_campaign=1050&utm_source=git)** | Morrisville, NC | On Site | Apr 06 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Capacity Manager](https://jobright.ai/jobs/info/67f21283c628e364d5d6a7df?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Apr 05 |
 | ↳ | **[HOH Program Intern - Capacity Manager](https://jobright.ai/jobs/info/67f20c8e53e45b5f466689bd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Apr 05 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Assistant - IE](https://jobright.ai/jobs/info/67f1c456ee915c106e6a7013?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Apr 05 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Co-Op Technical Project Management](https://jobright.ai/jobs/info/67da5995bfb201d8355d44a1?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Apr 05 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - East Hartford/Glastonbury/Manchester/Colchester, CT](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c82e?utm_campaign=1050&utm_source=git)** | East Hartford, CT | On Site | Apr 05 |
 | **[Performance Team](http://performanceteam.net)** | **[Operations Intern](https://jobright.ai/jobs/info/67f128a2cafbc78152385950?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Apr 05 |
+| **[Kemper](http://kemper.com)** | **[Life Operations Intern - Summer 2025](https://jobright.ai/jobs/info/679ad3e6d58324d6f39616fa?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Apr 05 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Property Management](https://jobright.ai/jobs/info/67ad8a9ee49033116f847853?utm_campaign=1050&utm_source=git)** | Fairfield, NJ | On Site | Apr 05 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Resident Management Intern](https://jobright.ai/jobs/info/679c3455211c722b4aaff0db?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 05 |
 | **[Pima County](https://webcms.pima.gov/)** | **[Performance & Quality Improvement Graduate Intern (1946 - Intern)](https://jobright.ai/jobs/info/67f139f320badec0665895c6?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Apr 05 |
@@ -105,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67f092de2f5227c61391d3a7?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Apr 04 |
 | **[Vital Voices Global Partnership](http://www.vitalvoices.org/)** | **[Operations Intern (part-time) Summer 25](https://jobright.ai/jobs/info/67f0988abc5898b815594545?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Apr 04 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Research & Development – Emerging Leaders Camp – 2026 Internships (Freshman)](https://jobright.ai/jobs/info/67f08ff5aca5fbd44fb41c5a?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Apr 04 |
-| ↳ | **[Research & Development – Emerging Leaders Camp – 2026 Internships (Freshman)](https://jobright.ai/jobs/info/67f08ff5aca5fbd44fb41c5d?utm_campaign=1050&utm_source=git)** | St Bernard, OH | On Site | Apr 04 |
 | ↳ | **[Research & Development – Emerging Leaders Camp – 2026 Internships (Freshman)](https://jobright.ai/jobs/info/67f08ff5aca5fbd44fb41c5b?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Apr 04 |
+| ↳ | **[Research & Development – Emerging Leaders Camp – 2026 Internships (Freshman)](https://jobright.ai/jobs/info/67f08ff5aca5fbd44fb41c5d?utm_campaign=1050&utm_source=git)** | St Bernard, OH | On Site | Apr 04 |
 | ↳ | **[Supply Network Operations Emerging Leaders - 2026 Internship (Sophomores)](https://jobright.ai/jobs/info/67f08ff5aca5fbd44fb41c64?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 04 |
 | **[Celldex Therapeutics](http://celldex.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/67f089d19cc5cde0df754a62?utm_campaign=1050&utm_source=git)** | Fall River, MA | On Site | Apr 04 |
 | **[FUJIFILM Diosynth Biotechnologies](http://www.fujifilmdiosynth.com)** | **[CAPEX Business Continuity Intern](https://jobright.ai/jobs/info/67f084045ce27685bc86aade?utm_campaign=1050&utm_source=git)** | College Station, TX | On Site | Apr 04 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67f0839270be78aa200ff6f3?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Apr 04 |
 | **[VML](https://www.vmlyr.com/)** | **[Intern - Program Delivery (Ford)](https://jobright.ai/jobs/info/67f08efa2965e48a70af843f?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 04 |
 | **[Las Vegas Sands Corp.](http://sands.com)** | **[Intern - Las Vegas Sands Corp.](https://jobright.ai/jobs/info/673d40ca9fa50218df9703af?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 04 |
+| **[Teknor Apex Company](http://www.teknorapex.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/67f084045ce27685bc86ad09?utm_campaign=1050&utm_source=git)** | Pawtucket, RI | On Site | Apr 04 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Procurement and Supply Chain Intern](https://jobright.ai/jobs/info/67f071ed2aba6d8390038267?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Apr 04 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales, Inventory & Operations Planning Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2468?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Apr 04 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Material Planning & Logistics Intern](https://jobright.ai/jobs/info/67f064f7a0a05eaa9162bff4?utm_campaign=1050&utm_source=git)** | Lexington, VA | On Site | Apr 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2025 Internship – Basketball Operations Intern](https://jobright.ai/jobs/info/67f03ed21ad4e104601a2f34?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
 | **[Tarkett](https://www.tarkett-group.com/en/)** | **[Logistics Intern](https://jobright.ai/jobs/info/67f029e688fc7e3c4175e5af?utm_campaign=1050&utm_source=git)** | Calhoun, GA | Hybrid | Apr 04 |
 | **[GROB Systems, Inc](https://grobsystems.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/67f03ed21ad4e104601a328f?utm_campaign=1050&utm_source=git)** | Bluffton, OH | On Site | Apr 04 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Manager Intern-Undergraduate](https://jobright.ai/jobs/info/67f033e84f5d2e802a1592d0?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 04 |
-| **[nVent](https://www.nvent.com/)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/67f016d68dd4bef39a3aa543?utm_campaign=1050&utm_source=git)** | Solon OH, US | On Site | Apr 04 |
-| **[Gridworks](https://www.gridworks.energy)** | **[Summer Field Coordinator Intern](https://jobright.ai/jobs/info/67ef25adc343c6e79581b671?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Apr 04 |
-| **[The Hartford](http://www.thehartford.com)** | **[CTO IT Stability Performance Engineering Intern](https://jobright.ai/jobs/info/67f016d68dd4bef39a3aa509?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

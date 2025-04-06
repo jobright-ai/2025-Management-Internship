@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN  (NON-CAREER)](https://jobright.ai/jobs/info/67f17fe3ab95e873e94bcadb?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Apr 05 |
 | **[Frequentis](http://www.frequentis.com/)** | **[Frequentis Internship](https://jobright.ai/jobs/info/67d45d7ff34dfc9f9c47dd85?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Apr 05 |
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Innovation Fund Intern (Part-Time/Hybrid) - Office of Technology Management](https://jobright.ai/jobs/info/67f155bcefb8bc125ceaa1c3?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Apr 05 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant HawkReach Counseling, Tahlequah N99532](https://jobright.ai/jobs/info/67f155bcefb8bc125ceaa2d3?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Apr 05 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/67d463c60ee6100623c415c7?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Apr 05 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/679c412b65988d7a51c74a17?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Apr 05 |
 | **[ASML](https://www.asml.com)** | **[Internship - Project and Communication Manager](https://jobright.ai/jobs/info/67d4b7e39dde376a48d80ce8?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Apr 05 |
@@ -85,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2025 Management Trainee Intern - Brooklyn Park](https://jobright.ai/jobs/info/67f11bc9e9e506649e104c6d?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Apr 05 |
 | **[Juniper Networks](http://www.juniper.net)** | **[Strategy & Corporate Development – AI & Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67b7cb2b6ae01bcdc053fde7?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Apr 05 |
 | **[SAIC](http://www.saic.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/67f10549b380263660409343?utm_campaign=1050&utm_source=git)** | Hanahan, SC | On Site | Apr 05 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67f101ee994402990d46020b?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Apr 05 |
 | **[Metal Exchange](http://metalexchangecorp.com)** | **[Intern, Procurement Specialist](https://jobright.ai/jobs/info/67f101ee994402990d45fdb4?utm_campaign=1050&utm_source=git)** | Leetonia, OH | Hybrid | Apr 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/67f181dc135263be1c568b56?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Apr 05 |
 | **[Uber](http://www.uber.com)** | **[2025 Strategy & Operations Analyst Intern, US](https://jobright.ai/jobs/info/67f0b86dc39e4151645c8489?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Apr 04 |
@@ -94,6 +92,8 @@ For a complete list, click the following sortable link below:
 | **[OTG Management](http://www.otgexp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67f0ac76015cd57062ce6fff?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[HelloFresh](https://www.hellofresh.com)** | **[Continuous Improvement Fulfillment Intern](https://jobright.ai/jobs/info/67f09c5ec2036e220a9f91b6?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Apr 04 |
 | ↳ | **[Procurement Operations Intern](https://jobright.ai/jobs/info/67f09c5ec2036e220a9f91b5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/67f1f6798c365ebaea1cf2f4?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Apr 04 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern](https://jobright.ai/jobs/info/67f1edfe1e3c8cc846a3ddab?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Apr 04 |
 | **[Shake Shack](http://shakeshack.com)** | **[Hospitality Operations Intern](https://jobright.ai/jobs/info/67f0ac76015cd57062ce7113?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Apr 04 |
 | **[Acosta Group](https://www.acosta.group)** | **[Intern](https://jobright.ai/jobs/info/67f0ac76015cd57062ce6c65?utm_campaign=1050&utm_source=git)** | Fayetteville, AR | On Site | Apr 04 |
 | **[Pennex](http://www.pennexaluminum.com)** | **[Intern, Procurement Specialist](https://jobright.ai/jobs/info/67f0988abc5898b8155943c9?utm_campaign=1050&utm_source=git)** | Leetonia, OH | On Site | Apr 04 |
@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67f0839270be78aa200ff6f3?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Apr 04 |
 | **[VML](https://www.vmlyr.com/)** | **[Intern - Program Delivery (Ford)](https://jobright.ai/jobs/info/67f08efa2965e48a70af843f?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Apr 04 |
 | **[Las Vegas Sands Corp.](http://sands.com)** | **[Intern - Las Vegas Sands Corp.](https://jobright.ai/jobs/info/673d40ca9fa50218df9703af?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Apr 04 |
+| **[Teknor Apex Company](http://www.teknorapex.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/67f084045ce27685bc86ad09?utm_campaign=1050&utm_source=git)** | Pawtucket, RI | On Site | Apr 04 |
 | **[WIN Waste Innovations](https://www.win-waste.com)** | **[Procurement and Supply Chain Intern](https://jobright.ai/jobs/info/67f071ed2aba6d8390038267?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Apr 04 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Sales, Inventory & Operations Planning Intern](https://jobright.ai/jobs/info/67f07b5ec2d841b76fca2468?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Apr 04 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Material Planning & Logistics Intern](https://jobright.ai/jobs/info/67f064f7a0a05eaa9162bff4?utm_campaign=1050&utm_source=git)** | Lexington, VA | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[nVent](https://www.nvent.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67f01bddbc2af10e7c05279c?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Apr 04 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/67f0096341eed88aa39c3e55?utm_campaign=1050&utm_source=git)** | Solon OH, US | On Site | Apr 04 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship](https://jobright.ai/jobs/info/67f01708ba92eb874814fadf?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 04 |
-| **[Atmus Filtration Technologies](https://www.atmus.com)** | **[Project Management- Systems Co-op 2025](https://jobright.ai/jobs/info/67effd299e9e4fe9cbcec06f?utm_campaign=1050&utm_source=git)** | Cookeville, TN | Hybrid | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

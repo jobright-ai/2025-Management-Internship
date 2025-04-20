@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/6804c3e5f8c25b5d332b5d8a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 20 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/68047e89912b862558f282ab?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | Apr 19 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Office Assistant](https://jobright.ai/jobs/info/68047e89912b862558f282ed?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Apr 19 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, Transfer Student Services, Tahlequah](https://jobright.ai/jobs/info/68046e09d7e15b68fd0fb86b?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Apr 19 |
@@ -68,15 +69,14 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Supply Chain Intern - Inventory Control](https://jobright.ai/jobs/info/6803cf653bdfa5c042808075?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Apr 19 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Co-Op IT - Project Management / Data - 2 roles](https://jobright.ai/jobs/info/67e77211fb2bebb18e7effc5?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 19 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/6803b7b9772683aaf388a581?utm_campaign=1050&utm_source=git)** | Redmond, WA | Hybrid | Apr 19 |
+| **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Intern - Resource Management](https://jobright.ai/jobs/info/67e73992fbfbea8269c00fc8?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Apr 19 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Supply Chain Management Development Associate](https://jobright.ai/jobs/info/67e6cd8d2add8a8c6f6d3b01?utm_campaign=1050&utm_source=git)** | Bloomfield, MO | On Site | Apr 19 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67aea36b14df40e58476b39d?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Apr 19 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/68039c8534ae72833a0c7a9e?utm_campaign=1050&utm_source=git)** | Windsor Locks, CT | On Site | Apr 19 |
-| **[Shape Corp.](https://www.shapecorp.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6804696e1f9492e041dd8246?utm_campaign=1050&utm_source=git)** | Grand Haven, MI | On Site | Apr 19 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68047591fe39b0e0dcba2218?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Apr 19 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/67f24c578b57874c41eefcf4?utm_campaign=1050&utm_source=git)** | Troy Hills, NJ | On Site | Apr 19 |
-| **[iFIT](http://www.ifit.com)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/680498b2b812cd6155e324c3?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Apr 19 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Supply Chain Management Development Associate](https://jobright.ai/jobs/info/67e6cd8d2add8a8c6f6d3b07?utm_campaign=1050&utm_source=git)** | Clinton, IA | On Site | Apr 19 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68045cc3e834cf7826bfe5f5?utm_campaign=1050&utm_source=git)** | Lewisville, TX | Hybrid | Apr 19 |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/67ca3539c2a40c2fccb84a0c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Apr 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Fleet Administrator Intern](https://jobright.ai/jobs/info/6803807e36b08c938b8232da?utm_campaign=1050&utm_source=git)** | Norwell, MA | On Site | Apr 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Strategy and Research Intern (Global Business Solutions-MSO-SMB) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/67e67bd2129318a2b7c5ed53?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Intern I&C Project Managment](https://jobright.ai/jobs/info/678fcf97c6a171e8f6c2a99e?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Apr 19 |

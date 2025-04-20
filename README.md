@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exyte](https://www.exyte.net/en#)** | **[Intern - Project Controls](https://jobright.ai/jobs/info/6804435d812ada8f321e20a4?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Apr 19 |
 | **[CoinDesk](http://www.coindesk.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68042b517411750aec73f730?utm_campaign=1050&utm_source=git)** | United States | Remote | Apr 19 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Operations Intern](https://jobright.ai/jobs/info/680417a5ea78b335aa9be1fd?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | Apr 19 |
 | **[NORY, Inc.](http://www.nory.co)** | **[Summer Operations Internship (Paid): Education Startup, NYC](https://jobright.ai/jobs/info/68040e21c19f5608c7ec42b5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Apr 19 |
@@ -67,9 +68,13 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Supply Chain Management Development Associate](https://jobright.ai/jobs/info/67e6cd8d2add8a8c6f6d3b01?utm_campaign=1050&utm_source=git)** | Bloomfield, MO | On Site | Apr 19 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/67aea36b14df40e58476b39d?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Apr 19 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2025](https://jobright.ai/jobs/info/68039c8534ae72833a0c7a9e?utm_campaign=1050&utm_source=git)** | Windsor Locks, CT | On Site | Apr 19 |
+| **[Shape Corp.](https://www.shapecorp.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6804696e1f9492e041dd8246?utm_campaign=1050&utm_source=git)** | Grand Haven, MI | On Site | Apr 19 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Supply Chain Management Development Associate](https://jobright.ai/jobs/info/67e6cd8d2add8a8c6f6d3b07?utm_campaign=1050&utm_source=git)** | Clinton, IA | On Site | Apr 19 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68045cc3e834cf7826bfe5f5?utm_campaign=1050&utm_source=git)** | Lewisville, TX | Hybrid | Apr 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Fleet Administrator Intern](https://jobright.ai/jobs/info/6803807e36b08c938b8232da?utm_campaign=1050&utm_source=git)** | Norwell, MA | On Site | Apr 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Intern I&C Project Managment](https://jobright.ai/jobs/info/678fcf97c6a171e8f6c2a99e?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Apr 19 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/680462be1fb9a04ead94f25a?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Apr 19 |
+| ↳ | **[Estimating Intern](https://jobright.ai/jobs/info/680463df4c40142314de3cec?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Apr 19 |
 | **[Universal Studios Hollywood](http://www.universalstudioshollywood.com)** | **[Universal Destinations & Experiences Summer 2025 Internship - Entertainment Production Center Operations](https://jobright.ai/jobs/info/680375deed4312fcd4444bac?utm_campaign=1050&utm_source=git)** | Universal City, CA | On Site | Apr 19 |
 | **[Hollingsworth & Vose](https://www.hollingsworth-vose.com)** | **[Supply Chain Intern – Class of 2026](https://jobright.ai/jobs/info/67e71f343e1a51cadc26119d?utm_campaign=1050&utm_source=git)** | East Walpole, MA | On Site | Apr 19 |
 | **[New Jersey Resources](http://www.njresources.com/)** | **[Decarbonization Intern](https://jobright.ai/jobs/info/68037067404852ddba9da135?utm_campaign=1050&utm_source=git)** | Wall, NJ | Hybrid | Apr 19 |
@@ -105,13 +110,13 @@ For a complete list, click the following sortable link below:
 | **[Razorfish](http://www.amnesia.com.au)** | **[Intern, Program Management](https://jobright.ai/jobs/info/67e683e8fbf5ae2cf00a9779?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Apr 18 |
 | **[Akima](https://www.akima.com)** | **[NANA Shareholder College Summer Intern – Program Assistant](https://jobright.ai/jobs/info/67f5730b8f6733d0d8f2827b?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | Apr 18 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - VelocityCare - Blacksburg - FLEX](https://jobright.ai/jobs/info/6802a92baff5ecb953fb5ad1?utm_campaign=1050&utm_source=git)** | Blacksburg, VA | On Site | Apr 18 |
-| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/6802a6a2648905efca60d4e8?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | Apr 18 |
-| ↳ | **[Property Management Intern](https://jobright.ai/jobs/info/6802a6a2648905efca60d2ea?utm_campaign=1050&utm_source=git)** | Guttenberg, NJ | On Site | Apr 18 |
+| **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Property Management Intern](https://jobright.ai/jobs/info/6802a6a2648905efca60d2ea?utm_campaign=1050&utm_source=git)** | Guttenberg, NJ | On Site | Apr 18 |
+| ↳ | **[Property Management Intern](https://jobright.ai/jobs/info/6802a6a2648905efca60d4e8?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | Apr 18 |
 | ↳ | **[Property Management Intern](https://jobright.ai/jobs/info/6802a6a2648905efca60d2e7?utm_campaign=1050&utm_source=git)** | Canton, MA | On Site | Apr 18 |
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/6802a2cb0bb0012479f033bc?utm_campaign=1050&utm_source=git)** | New Brighton, MN | On Site | Apr 18 |
 | **[Froedtert Health](http://www.froedtert.com)** | **[HIGH SCHOOL INTERN, FCP - PATIENT CARE GENERAL - PLANK RD](https://jobright.ai/jobs/info/6802a2cb0bb0012479f03201?utm_campaign=1050&utm_source=git)** | Wauwatosa, WI | On Site | Apr 18 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Fremont](https://jobright.ai/jobs/info/68029ecf50444f5c302793b6?utm_campaign=1050&utm_source=git)** | Fremont, OH | On Site | Apr 18 |
-| ↳ | **[Intern - Cincinnati](https://jobright.ai/jobs/info/68029ecf50444f5c302793b3?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 18 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Cincinnati](https://jobright.ai/jobs/info/68029ecf50444f5c302793b3?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Apr 18 |
+| ↳ | **[Intern - Fremont](https://jobright.ai/jobs/info/68029ecf50444f5c302793b6?utm_campaign=1050&utm_source=git)** | Fremont, OH | On Site | Apr 18 |
 | ↳ | **[Intern - Columbus](https://jobright.ai/jobs/info/680297d4dc7452c41a828370?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Apr 18 |
 | ↳ | **[Intern - Saint Albans](https://jobright.ai/jobs/info/680297d4dc7452c41a82836e?utm_campaign=1050&utm_source=git)** | St Albans, WV | On Site | Apr 18 |
 | **[Southeastern Freight Lines](https://www.sefl.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/680295c95eb01a8b9dbea4a9?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Apr 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Infoblox](http://www.infoblox.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/67e4af65b299e7a5562bc481?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Apr 17 |
 | **[Carilion Clinic](https://www.carilionclinic.org)** | **[Intern - 10 MTN PCU - FLEX](https://jobright.ai/jobs/info/6801b1e4a0a289f16822eaa3?utm_campaign=1050&utm_source=git)** | Roanoke, VA | On Site | Apr 17 |
 | **[MCN Build](http://mcnbuild.com)** | **[Real Estate & Property Management Intern](https://jobright.ai/jobs/info/6801afd22e42f8f7b952e1f3?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Apr 17 |
-| **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Project Management Intern](https://jobright.ai/jobs/info/6801ad690b2b8b7c4be990da?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Apr 17 |
-| **[First Internet Bank](https://www.firstib.com)** | **[Facilities Intern](https://jobright.ai/jobs/info/6801ad690b2b8b7c4be9920f?utm_campaign=1050&utm_source=git)** | Fishers, IN | Hybrid | Apr 17 |
-| **[Crescent City Schools](http://www.crescentcityschools.org)** | **[Summer 2025 Internship with Crescent City Schools (Paid)](https://jobright.ai/jobs/info/6801a940e8817ae1513a3626?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Apr 17 |
-| **[Antunes](http://www.ajantunes.com)** | **[Business Administrative Intern](https://jobright.ai/jobs/info/6801a940e8817ae1513a352b?utm_campaign=1050&utm_source=git)** | Carol Stream, IL | On Site | Apr 17 |
-| **[Valley Health](https://www.valleyhealthlink.com/)** | **[Intern, Administration - 2231](https://jobright.ai/jobs/info/6801c0bbf5fa19f83798f094?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WeDriveU](https://www.wedriveu.com)** | **[Transportation Business Intern Hyde Park](https://jobright.ai/jobs/info/68173f262c56c9ab5e85bfc4?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 04 |
 | **[The University of New Mexico](http://unm.edu)** | **[Administration Aid](https://jobright.ai/jobs/info/68170341187c39d1029d096a?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | May 03 |
 | **[College of Coastal Georgia](http://www.ccga.edu/)** | **[Resident Assistant - CPA](https://jobright.ai/jobs/info/6816f5a02cadb2def8f8b8b6?utm_campaign=1050&utm_source=git)** | Brunswick, GA | On Site | May 03 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[Office Assistant BSU Cape Cod Non Work Study](https://jobright.ai/jobs/info/6816ef50b4bfcd0170161bbc?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | May 03 |
@@ -75,13 +76,12 @@ For a complete list, click the following sortable link below:
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern](https://jobright.ai/jobs/info/6815b0335ba4b605188226d3?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | May 02 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-ORSP-Administrative](https://jobright.ai/jobs/info/6815aef03d4bf88570c95787?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | May 02 |
 | **[Shriners Children's](https://www.shrinerschildrens.org)** | **[Administrative Intern - Per Diem](https://jobright.ai/jobs/info/6815a6fa1cc33ac2455ddcbc?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | May 02 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - Athletics -  Administrative Assistant](https://jobright.ai/jobs/info/68159f5a25d44ea7e9c4b024?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | May 02 |
-| ↳ | **[Student Employee-Dept of Mass Communications-Office Assistant (Summer Only - Student Worker)](https://jobright.ai/jobs/info/68159f5a25d44ea7e9c4b036?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | May 02 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Dept of Mass Communications-Office Assistant (Summer Only - Student Worker)](https://jobright.ai/jobs/info/68159f5a25d44ea7e9c4b036?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | May 02 |
+| ↳ | **[Student Employee - Athletics -  Administrative Assistant](https://jobright.ai/jobs/info/68159f5a25d44ea7e9c4b024?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | May 02 |
 | **[HUB International](https://www.hubinternational.com)** | **[Administrative Intern, Rail](https://jobright.ai/jobs/info/68159f5a25d44ea7e9c4b0cc?utm_campaign=1050&utm_source=git)** | Port Austin, MI | On Site | May 02 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6816e218bbbcd9131f123543?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | May 02 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Project Management FTC Intern](https://jobright.ai/jobs/info/67f832a0e4436ba6585b1ce5?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | May 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c76d?utm_campaign=1050&utm_source=git)** | North Bay Shore, NY | On Site | May 02 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c5da?utm_campaign=1050&utm_source=git)** | Medford, NY | On Site | May 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c5da?utm_campaign=1050&utm_source=git)** | Medford, NY | On Site | May 02 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c76d?utm_campaign=1050&utm_source=git)** | North Bay Shore, NY | On Site | May 02 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[WVUIC Office Manager Intern](https://jobright.ai/jobs/info/68157b30113b5ed12f5cd337?utm_campaign=1050&utm_source=git)** | Morgantown, WV | On Site | May 02 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/68157a98b67581849c2c83d6?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | May 02 |
 | **[Centerra Gold Inc.](http://centerragold.com/)** | **[Summer Student, Administrative](https://jobright.ai/jobs/info/68157a98b67581849c2c83e1?utm_campaign=1050&utm_source=git)** | Clayton, ID | On Site | May 02 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Research Campus Event/Activities Coordinator Fall 2025 Co-Op](https://jobright.ai/jobs/info/68156b674c332b980109e27a?utm_campaign=1050&utm_source=git)** | West Glocester, RI | On Site | May 02 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[PMO Intern](https://jobright.ai/jobs/info/68156b54cfc3e6ef7a8222c8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | May 02 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/681568f9f13e1ac6de8159bb?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | May 02 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6815643a6c775f24ff6f0e82?utm_campaign=1050&utm_source=git)** | Leased Off - Fort Worth, TX - 397 | On Site | May 02 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6815643a6c775f24ff6f14c0?utm_campaign=1050&utm_source=git)** | Ft. Worth | On Site | May 02 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/6815643a6c775f24ff6f0e82?utm_campaign=1050&utm_source=git)** | Leased Off - Fort Worth, TX - 397 | On Site | May 02 |
 | **[CSM Group](http://csmgroup.com)** | **[Project Field Intern](https://jobright.ai/jobs/info/6815643a6c775f24ff6f0fe1?utm_campaign=1050&utm_source=git)** | Kalamazoo, Michigan | On Site | May 02 |
 | **[Apex Companies, LLC](https://www.apexcos.com)** | **[Intern - Office](https://jobright.ai/jobs/info/68156076b2e8c7dead2e8f79?utm_campaign=1050&utm_source=git)** | Signal Hill, CA | On Site | May 02 |
 | **[Union Bank & Trust](https://ubt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68155dd284bacfa994548586?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | May 02 |
@@ -110,14 +110,14 @@ For a complete list, click the following sortable link below:
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Administrative Assistant - IE](https://jobright.ai/jobs/info/68153ec9c9ec0b79053a6ea8?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | May 02 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/68153b931f7b869405e8f9e2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 02 |
 | **[Kidwell](https://www.kidwellinc.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68153b1c9f0708d873b5a7e6?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | May 02 |
-| **[Zoetis](https://www.zoetis.com)** | **[Operations EBR Specialist - Intern](https://jobright.ai/jobs/info/681539dcb778c8899792ea9d?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | May 02 |
-| ↳ | **[Operations EBR Specialist - Intern](https://jobright.ai/jobs/info/681539dcb778c8899792ea9e?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | May 02 |
+| **[Zoetis](https://www.zoetis.com)** | **[Operations EBR Specialist - Intern](https://jobright.ai/jobs/info/681539dcb778c8899792ea9e?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | May 02 |
+| ↳ | **[Operations EBR Specialist - Intern](https://jobright.ai/jobs/info/681539dcb778c8899792ea9d?utm_campaign=1050&utm_source=git)** | Kalamazoo - Kilgore Road | On Site | May 02 |
 | **[HUB International](https://www.hubinternational.com)** | **[Administrative Intern, Rail](https://jobright.ai/jobs/info/681539dcb778c8899792eb66?utm_campaign=1050&utm_source=git)** | Port Austin, MI | On Site | May 02 |
 | **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/681534712331b2ed68ebac05?utm_campaign=1050&utm_source=git)** | Canon City, CO | On Site | May 02 |
 | **[Aimbridge Hospitality](http://www.aimbridgehospitality.com/)** | **[Marriott Dallas Addison Quorum By The Galleria - Hospitality Management Intern](https://jobright.ai/jobs/info/68152b4d4327ef58a1476859?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | May 02 |
 | **[SB Energy](https://sbenergy.com)** | **[PM/CM Coordinator Intern ](https://jobright.ai/jobs/info/681528ca30975211f2bf6cfb?utm_campaign=1050&utm_source=git)** | Kern County, CA | On Site | May 02 |
-| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Supplier Sourcing Intern - OVIP](https://jobright.ai/jobs/info/681527ba0638f72a73c7298a?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
-| ↳ | **[OCI Data Center Supplier Sourcing Intern - OVIP](https://jobright.ai/jobs/info/681527ba0638f72a73c7298e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 02 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Supplier Sourcing Intern - OVIP](https://jobright.ai/jobs/info/681527ba0638f72a73c7298e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 02 |
+| ↳ | **[OCI Data Center Supplier Sourcing Intern - OVIP](https://jobright.ai/jobs/info/681527ba0638f72a73c7298a?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
 | **[Rich Products Corporation](https://rich.com)** | **[Planning Intern](https://jobright.ai/jobs/info/681525bc1b612dfbfe18ff6d?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | May 02 |
 | **[ChargerGoGo](https://www.chargergogo.com/)** | **[Operations Management Trainee](https://jobright.ai/jobs/info/681525bc1b612dfbfe1900d6?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | May 02 |
 | **[SB Energy](https://sbenergy.com)** | **[PM/CM Coordinator Intern](https://jobright.ai/jobs/info/681522f7b4fdf9402c4fff81?utm_campaign=1050&utm_source=git)** | Kern County, CA | On Site | May 02 |
@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Mativ](https://mativ.com)** | **[Supply Chain Planner Intern](https://jobright.ai/jobs/info/681520612634be03b4563c50?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | May 02 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[Supply Chain & Logistics Intern](https://jobright.ai/jobs/info/681520046b5903779db537a5?utm_campaign=1050&utm_source=git)** | Ravenna,Ohio,United States | On Site | May 02 |
 | ↳ | **[Supply Chain & Logistics Intern](https://jobright.ai/jobs/info/681520046b5903779db53516?utm_campaign=1050&utm_source=git)** | Akron,Ohio,United States | On Site | May 02 |
-| **[Oracle](https://www.oracle.com/)** | **[APEX Technical Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c699a?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
-| ↳ | **[ORCL Project Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c6975?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
+| **[Oracle](https://www.oracle.com/)** | **[ORCL Project Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c6975?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
+| ↳ | **[APEX Technical Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c699a?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
 | **[Ornua](http://www.ornua.com/#)** | **[Production Manager](https://jobright.ai/jobs/info/67c26bfd7f50e54d945c0f5a?utm_campaign=1050&utm_source=git)** | Whitehall, WI | On Site | May 02 |
 | **[PwC](http://pwc.com)** | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/6815174cfffae26a2eeff3dc?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | May 02 |
 | ↳ | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/6815174cfffae26a2eeff3dd?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | May 02 |

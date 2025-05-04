@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of New Mexico](http://unm.edu)** | **[Administration Aid](https://jobright.ai/jobs/info/68170341187c39d1029d096a?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | May 03 |
+| **[College of Coastal Georgia](http://www.ccga.edu/)** | **[Resident Assistant - CPA](https://jobright.ai/jobs/info/6816f5a02cadb2def8f8b8b6?utm_campaign=1050&utm_source=git)** | Brunswick, GA | On Site | May 03 |
+| **[Bridgewater State University](http://www.bridgew.edu/)** | **[Office Assistant BSU Cape Cod Non Work Study](https://jobright.ai/jobs/info/6816ef50b4bfcd0170161bbc?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | May 03 |
 | **[City of Santa Monica](https://www.santamonica.gov)** | **[Administrative Intern (As Needed)](https://jobright.ai/jobs/info/68166034528085a8f539f272?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | May 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Medical Group Admin Master's Intern](https://jobright.ai/jobs/info/68165115b601bc0ddefef173?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | May 03 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Physician Assistant Studies](https://jobright.ai/jobs/info/6816d5bf726b270a499b8ddf?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | May 03 |
@@ -76,8 +79,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Employee-Dept of Mass Communications-Office Assistant (Summer Only - Student Worker)](https://jobright.ai/jobs/info/68159f5a25d44ea7e9c4b036?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | May 02 |
 | **[HUB International](https://www.hubinternational.com)** | **[Administrative Intern, Rail](https://jobright.ai/jobs/info/68159f5a25d44ea7e9c4b0cc?utm_campaign=1050&utm_source=git)** | Port Austin, MI | On Site | May 02 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6816e218bbbcd9131f123543?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | May 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c5da?utm_campaign=1050&utm_source=git)** | Medford, NY | On Site | May 02 |
-| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c76d?utm_campaign=1050&utm_source=git)** | North Bay Shore, NY | On Site | May 02 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Project Management FTC Intern](https://jobright.ai/jobs/info/67f832a0e4436ba6585b1ce5?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | May 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c76d?utm_campaign=1050&utm_source=git)** | North Bay Shore, NY | On Site | May 02 |
+| ↳ | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/68157f85264b4ddb9408c5da?utm_campaign=1050&utm_source=git)** | Medford, NY | On Site | May 02 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[WVUIC Office Manager Intern](https://jobright.ai/jobs/info/68157b30113b5ed12f5cd337?utm_campaign=1050&utm_source=git)** | Morgantown, WV | On Site | May 02 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/68157a98b67581849c2c83d6?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | May 02 |
 | **[Centerra Gold Inc.](http://centerragold.com/)** | **[Summer Student, Administrative](https://jobright.ai/jobs/info/68157a98b67581849c2c83e1?utm_campaign=1050&utm_source=git)** | Clayton, ID | On Site | May 02 |
@@ -127,15 +131,15 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[APEX Technical Program Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c699a?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
 | ↳ | **[ORCL Project Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c6975?utm_campaign=1050&utm_source=git)** | United States | Remote | May 02 |
 | **[Ornua](http://www.ornua.com/#)** | **[Production Manager](https://jobright.ai/jobs/info/67c26bfd7f50e54d945c0f5a?utm_campaign=1050&utm_source=git)** | Whitehall, WI | On Site | May 02 |
-| **[PwC](http://pwc.com)** | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/6815174cfffae26a2eeff3dd?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | May 02 |
-| ↳ | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/6815174cfffae26a2eeff3dc?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | May 02 |
+| **[PwC](http://pwc.com)** | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/6815174cfffae26a2eeff3dc?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | May 02 |
+| ↳ | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/6815174cfffae26a2eeff3dd?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | May 02 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Business Operations](https://jobright.ai/jobs/info/6815174cfffae26a2eeff174?utm_campaign=1050&utm_source=git)** | Novi, MI | Hybrid | May 02 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Demand Planning Intern - Year Round](https://jobright.ai/jobs/info/6815164a0d00178e9e660ce4?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | May 02 |
 | **[Lemartec Corporation, a MasTec company](http://lemartec.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6815149fab15d1c57445fcf1?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | May 02 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Program Planning &amp; Integration Intern / Orlando, FL](https://jobright.ai/jobs/info/681511ecf8de9f27ec04a135?utm_campaign=1050&utm_source=git)** | Florida | On Site | May 02 |
 | ↳ | **[Program Planning &amp; Integration Intern / Orlando, FL](https://jobright.ai/jobs/info/681511abf8de9f27ec04984a?utm_campaign=1050&utm_source=git)** | Possible | On Site | May 02 |
-| **[PwC](http://pwc.com)** | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/68150cb9ecf1387d1d9164e0?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | May 02 |
-| ↳ | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/68150cb9ecf1387d1d9163ac?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 02 |
+| **[PwC](http://pwc.com)** | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/68150cb9ecf1387d1d9163ac?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 02 |
+| ↳ | **[Health PLS Managed Services Intern - Summer 2025](https://jobright.ai/jobs/info/68150cb9ecf1387d1d9164e0?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | May 02 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Property Management](https://jobright.ai/jobs/info/68150a4a4d2d7c5bf6d35958?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | May 02 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors/Masters - Project Controls](https://jobright.ai/jobs/info/68150a4a4d2d7c5bf6d358b4?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | May 02 |
 | **[Bethel University](http://bethel.edu)** | **[Assistant Director of Athletic Operations and External Relations (Internship)](https://jobright.ai/jobs/info/68150a4a4d2d7c5bf6d358b8?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | May 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant](https://jobright.ai/jobs/info/68123b6e7f5c762e112e700d?utm_campaign=1050&utm_source=git)** | Dearborn, MI | On Site | May 02 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Workplace Infrastructure and Logistics - Communications Specialist)](https://jobright.ai/jobs/info/67f88f48016f5467a8a3fb8f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | May 02 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[WVUIC Office Manager Intern](https://jobright.ai/jobs/info/6814ca48e8468b85e0f123c3?utm_campaign=1050&utm_source=git)** | WVU Innovations Corporation | On Site | May 02 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Business Operations](https://jobright.ai/jobs/info/6814ca48e8468b85e0f123d6?utm_campaign=1050&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | Hybrid | May 02 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/67f899d1847e9522dd615025?utm_campaign=1050&utm_source=git)** | Rabun Gap, GA | On Site | May 02 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operation Manager Intern - Minneapolis Airport - Summer 2025](https://jobright.ai/jobs/info/68031c705fbdf25d526de068?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 02 |
-| **[Cosm](https://www.cosm.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/67f8a9eb7d95fe4250176a0a?utm_campaign=1050&utm_source=git)** | Chadds Ford, PA | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

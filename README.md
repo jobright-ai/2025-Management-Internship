@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Management](https://jobright.ai/jobs/info/6833db1bfa20d99299d1439a?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 25 |
+| ↳ | **[Distribution Operations Administrative Intern](https://jobright.ai/jobs/info/6833db1bfa20d99299d14390?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 25 |
+| **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6833c5204ce82bb1ff045579?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | May 25 |
 | **[NANA](http://www.nana.com)** | **[NANA Shareholder College Summer Intern - Project Management](https://jobright.ai/jobs/info/6833846984f48a170821750d?utm_campaign=1050&utm_source=git)** | Herndon, VA | On Site | May 25 |
-| **[Precision General Commercial Contractors, Inc. | Certified B Corporation](https://www.precisiongc.com)** | **[Construction Project Intern](https://jobright.ai/jobs/info/683382d2e0f93e13e936a292?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 25 |
+| **[Midea America](https://www.midea.com/us/)** | **[Logistics Import - Intern](https://jobright.ai/jobs/info/6833c54772da03c50aabf4ba?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | May 25 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Site Administration Internship](https://jobright.ai/jobs/info/6833d0679933389b6993b1cb?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 25 |
 | **[University of North Carolina Wilmington](https://uncw.edu/)** | **[Administrative Specialist](https://jobright.ai/jobs/info/6832f48b5d5c1a1ae2d6965f?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | May 25 |
 | **[Puyallup School District](https://www.puyallupsd.org)** | **[OPERATIONS INTERN](https://jobright.ai/jobs/info/6832e27771b44ac3efcc584c?utm_campaign=1050&utm_source=git)** | Puyallup, WA | On Site | May 25 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #934](https://jobright.ai/jobs/info/6833e227cc00804430767122?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | May 25 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Data Center Supplier Sourcing Intern - OVIP](https://jobright.ai/jobs/info/681522284d48109cb7ee6ecf?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | May 24 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-LSC-Kat Klub Assistant - 5 employees](https://jobright.ai/jobs/info/683240df6a810053d781d153?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | May 24 |
 | **[Colorado School of Mines](http://www.mines.edu/)** | **[Temporary Administrative Support Pool](https://jobright.ai/jobs/info/683215e91c2af18846bf897a?utm_campaign=1050&utm_source=git)** | Golden, CO | On Site | May 24 |
 | **[Baptist Health System](https://www.baptisthealthsystem.com)** | **[Administrative Intern Per Diem Days](https://jobright.ai/jobs/info/683213b84d00e5c733ae07d1?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | May 24 |
@@ -82,15 +88,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ORCL Project Manager Intern - OVIP](https://jobright.ai/jobs/info/68151d0de6775692bb7c6975?utm_campaign=1050&utm_source=git)** | United States | Remote | May 24 |
 | ↳ | **[OCI Data Center Supplier Sourcing Intern - OVIP](https://jobright.ai/jobs/info/681527ba0638f72a73c7298a?utm_campaign=1050&utm_source=git)** | United States | Remote | May 24 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Intern - Psych Holding Unit Methodist Hospital (PRN, Days)](https://jobright.ai/jobs/info/68316f142db73455aa8b7a76?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | May 24 |
-| **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e1295?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 23 |
+| **[Zipline](http://flyzipline.com)** | **[Operational Excellence Program Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e12ac?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 23 |
+| ↳ | **[Technical Program Manager Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e1295?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 23 |
 | ↳ | **[Logistics Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e129c?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 23 |
-| ↳ | **[Operational Excellence Program Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e12ac?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | May 23 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - President's Office Assistant](https://jobright.ai/jobs/info/6831667c3a8d7c225a907801?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | May 23 |
 | **[Otterbein University](http://www.otterbein.edu/)** | **[Graduate Assistant Intern, Event and Conference](https://jobright.ai/jobs/info/683150b5becb8c7519c900eb?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | May 23 |
-| **[Hendrick Automotive Group](http://www.hendrickauto.com/)** | **[Intern (Autoguard)](https://jobright.ai/jobs/info/6831aeb9fbf6eedcab07a268?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | May 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/683133bc6dd3ba9b593d85c2?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | May 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/683133bc6dd3ba9b593d85ea?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | May 23 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68312195da2f5e273b61541e?utm_campaign=1050&utm_source=git)** | Hilliard, OH | On Site | May 23 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Development](https://jobright.ai/jobs/info/6833d8d60b6643eaaf239def?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | May 23 |
+| **[Scoular](http://www.scoular.com/)** | **[High School Summer Intern](https://jobright.ai/jobs/info/6833d8d60b6643eaaf239e81?utm_campaign=1050&utm_source=git)** | Wellington, KS | On Site | May 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68312195da2f5e273b61541e?utm_campaign=1050&utm_source=git)** | Hilliard, OH | On Site | May 23 |
 | **[Raymond James](http://www.raymondjames.com)** | **[Branch Intern - Norfolk, VA 3VC](https://jobright.ai/jobs/info/683120197c2805cb7d11bda0?utm_campaign=1050&utm_source=git)** | Norfolk, Virginia - United States | On Site | May 23 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[MBA Intern](https://jobright.ai/jobs/info/683120197c2805cb7d11bd9b?utm_campaign=1050&utm_source=git)** | San Mateo, California, United States of America | On Site | May 23 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/68311d09a1d356f491f5176d?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | May 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Co-Op Intern, Health Services Project Management](https://jobright.ai/jobs/info/67fae90cce713da22c8f39e7?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | May 23 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-2636 - Summer Intern - Administrative](https://jobright.ai/jobs/info/67fe9f0b12a7f80e719b1a34?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | May 23 |
 | **[Leidos](https://www.leidos.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6830216a431bdd2526c11d1b?utm_campaign=1050&utm_source=git)** | Bridgewater, VA | On Site | May 23 |
-| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | May 22 |
-| **[Munich Airport NJ LLC](http://www.munich-airport.com/nj)** | **[Supply Chain/Procurement Intern](https://jobright.ai/jobs/info/68300bbb057baf87b95e0f90?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | May 22 |
-| **[Anaplan](https://www.anaplan.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/683008551cf0adf9b21fead2?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 22 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6832af7f86fd6bdcd450fed8?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | May 22 |
-| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/683159b0a034cee0bac92589?utm_campaign=1050&utm_source=git)** | Norcross, GA | On Site | May 22 |
-| **[Sirva](https://www.sirva.com)** | **[International Logistics Summer Intern](https://jobright.ai/jobs/info/68329330db76aa509d5afe70?utm_campaign=1050&utm_source=git)** | Oakbrook Terrace, IL | On Site | May 22 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/682ff0d54dc3fbea61b6fd39?utm_campaign=1050&utm_source=git)** | Sylvania, OH | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

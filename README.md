@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Project Controls Intern_PTIN5C](https://jobright.ai/jobs/info/683502e2b1a4db78a9865254?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 26 |
+| **[The Citco Group Limited](https://www.citco.com)** | **[Administration Intern](https://jobright.ai/jobs/info/6835199407bd7f252c8778bd?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | Hybrid | May 26 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Site Administration Internship](https://jobright.ai/jobs/info/68351091471ad232cf6a9440?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 26 |
+| ↳ | **[Project Controls Intern_PTIN5C](https://jobright.ai/jobs/info/683502e2b1a4db78a9865254?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 26 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Administration Intern](https://jobright.ai/jobs/info/6834ea73fa9b41e4c3612aed?utm_campaign=1050&utm_source=git)** | 5900 North Andrews Avenue, Fort Lauderdale, FL, 33309, US | On Site | May 26 |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Distribution Operations Administrative Intern](https://jobright.ai/jobs/info/6834b64b9513d7cd2f0ba69a?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 26 |
-| ↳ | **[Site Administration Internship](https://jobright.ai/jobs/info/6834b0da2c63e13490a60f4e?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 26 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Intern](https://jobright.ai/jobs/info/6834b0b32dae0c42976d4ca1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Management](https://jobright.ai/jobs/info/6834aebaffc551893161d672?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 26 |
-| ↳ | **[Intern, Project Development](https://jobright.ai/jobs/info/6834ac6bda30868fc49974f5?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 26 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Development](https://jobright.ai/jobs/info/6834ac6bda30868fc49974f5?utm_campaign=1050&utm_source=git)** | Iowa City, IA | Hybrid | May 26 |
 | **[Raven Industries](http://ravenind.com)** | **[Project Management Co-op](https://jobright.ai/jobs/info/6834859f7f387484eaa3d589?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | May 26 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Project Controls Intern_PTIN5C](https://jobright.ai/jobs/info/6834b4139a4e085def329d0b?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 26 |
+| **[Remington Hospitality](http://www.remingtonhotels.com)** | **[Hotel Operations Intern](https://jobright.ai/jobs/info/6835301396e2fd7bc73af733?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | May 26 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Division Chief - Internal Medicine - Endocrinology and Metabolism - Chicago (Downtown)-12089](https://jobright.ai/jobs/info/66c53b3a33e3d96dc7762349?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | May 26 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE](https://jobright.ai/jobs/info/68343c36d925ebc83e9ae215?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | May 26 |
 | **[Metro State University](http://www.metrostate.edu)** | **[Student Office Assistant for the Womens and LGBTQIA+ Center](https://jobright.ai/jobs/info/683446cea303f1abf000994e?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | May 26 |
@@ -109,7 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/683133bc6dd3ba9b593d85c2?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | May 23 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68312195da2f5e273b61541e?utm_campaign=1050&utm_source=git)** | Hilliard, OH | On Site | May 23 |
 | **[Raymond James](http://www.raymondjames.com)** | **[Branch Intern - Norfolk, VA 3VC](https://jobright.ai/jobs/info/683120197c2805cb7d11bda0?utm_campaign=1050&utm_source=git)** | Norfolk, Virginia - United States | On Site | May 23 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[MBA Intern](https://jobright.ai/jobs/info/683120197c2805cb7d11bd9e?utm_campaign=1050&utm_source=git)** | San Mateo, California, United States of America | On Site | May 23 |
+| **[Franklin Templeton](http://www.franklintempleton.com)** | **[MBA Intern](https://jobright.ai/jobs/info/683120197c2805cb7d11bd9b?utm_campaign=1050&utm_source=git)** | San Mateo, California, United States of America | On Site | May 23 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/68311d09a1d356f491f5176d?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | May 23 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Production Supervisor Assist](https://jobright.ai/jobs/info/68311d09a1d356f491f516e3?utm_campaign=1050&utm_source=git)** | Fort Valley, GA | On Site | May 23 |
 | **[Hyundai AutoEver America](https://www.autoeveramerica.com)** | **[Intern - Project Administrator, CMC Development](https://jobright.ai/jobs/info/683119fbeb1acb6b01655e19?utm_campaign=1050&utm_source=git)** | Costa Mesa, CA | On Site | May 23 |

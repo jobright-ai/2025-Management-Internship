@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Education Curriculum and Instruction, Tahlequah](https://jobright.ai/jobs/info/683b23d57d7b6ed29eb93810?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | May 31 |
+| **[Canfor](http://www.canfor.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/682a9ce967558dc35818979d?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | May 31 |
+| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/683b0d96663f85d87392333e?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 31 |
+| **[Canfor](http://www.canfor.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/682a9d2b67558dc35818a020?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | May 31 |
+| **[Jacobs](http://www.jacobs.com)** | **[Aviation Project Controls/Management Intern - Summer 2025](https://jobright.ai/jobs/info/6838407470de35fc7ec367ca?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 31 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Management — Intern (Summer 2025)](https://jobright.ai/jobs/info/676f23d123dc2e0978773203?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 31 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1114](https://jobright.ai/jobs/info/683ada3adb36acb9144d1b2c?utm_campaign=1050&utm_source=git)** | Holmen, WI | On Site | May 31 |
 | **[Crescendo](https://www.crescendo.ai)** | **[BizOps & Strategy Intern](https://jobright.ai/jobs/info/683aac657ea91a696b71684d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 31 |
@@ -93,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Austin Independent School District](https://www.austinisd.org)** | **[GF Intern Administrative](https://jobright.ai/jobs/info/680c3700943c1d6f10296fac?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 30 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Intern -- Facilities](https://jobright.ai/jobs/info/6839fe9a5ae2eb9b7f7d0c72?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 30 |
 | **[ARA](https://www.ara.com)** | **[Administrative Intern 1](https://jobright.ai/jobs/info/683afa7b929a523df6c2b0bc?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | May 30 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f98fc?utm_campaign=1050&utm_source=git)** | Zachary, LA | On Site | May 30 |
-| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f97b0?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f97b0?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f98fc?utm_campaign=1050&utm_source=git)** | Zachary, LA | On Site | May 30 |
 | **[InComm Payments](https://www.incomm.com/)** | **[IT Budget Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9652?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 30 |
 | **[Veolia North America](http://www.veolianorthamerica.com/)** | **[Intern](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce9220c?utm_campaign=1050&utm_source=git)** | Chappaqua, NY | On Site | May 30 |
 | **[Apple](https://www.apple.com)** | **[MBA Internships - Summer 2026](https://jobright.ai/jobs/info/6839e63e668b3729cabba59c?utm_campaign=1050&utm_source=git)** | United States | Remote | May 30 |
@@ -133,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Student Office Assistant for August](https://jobright.ai/jobs/info/6838ebf46b8a53079d3a8f61?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | On Site | May 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68391379a5ea390cbb45e693?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | May 29 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/6838e939a7bb7d65a7a263d1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 29 |
-| **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Supply Chain and Project Procurement Intern](https://jobright.ai/jobs/info/67f9fd2174b1c49d41baa26b?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | May 29 |
 | **[Metrolink](https://metrolinktrains.com/)** | **[Intern - Facilities & Non-Revenue](https://jobright.ai/jobs/info/6838c97fc95e593d1672be99?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 29 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Redwoods Summer Analyst](https://jobright.ai/jobs/info/6838c5dd7b3cf31ee5efaca6?utm_campaign=1050&utm_source=git)** | 05555 - Casa del Mundo Office (Denver HQ) | On Site | May 29 |
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Program Manager Intern](https://jobright.ai/jobs/info/682d1f64e774a365707b8991?utm_campaign=1050&utm_source=git)** | Portage, MI | On Site | May 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Platform Operations Intern](https://jobright.ai/jobs/info/6838984b9cb6b35dca8a04d7?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | May 29 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science, New York](https://jobright.ai/jobs/info/68388c21cfbb8e0196457bc6?utm_campaign=1050&utm_source=git)** | New York | Hybrid | May 29 |
 | **[Option Care Health](https://optioncarehealth.com)** | **[Intern, IT Product Engineering, Technical Writer/Analyst - Part Time](https://jobright.ai/jobs/info/68388405094a75bdb72c2e6a?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 29 |
-| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Chattanooga, TN](https://jobright.ai/jobs/info/6677c6c964f2e472ffd62522?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | May 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6838cc82b1ec984dc787c52a?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | May 29 |
-| **[Klaviyo](http://www.klaviyo.com)** | **[Lead, Internal Communications](https://jobright.ai/jobs/info/681bc6b4c5f04e060e0255c6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | May 29 |
-| ↳ | **[Lead, Internal Communications](https://jobright.ai/jobs/info/681bc6b4c5f04e060e025623?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

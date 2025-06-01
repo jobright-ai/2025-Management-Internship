@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Worley](https://www.worley.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/683b97e8448c6bd6d9d2c0c1?utm_campaign=1050&utm_source=git)** | West Baton Rouge Parish County, LA | On Site | May 31 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - ACE](https://jobright.ai/jobs/info/683b70484aade06b1f0db8e4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | May 31 |
+| **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/67f9fd2174b1c49d41baa1f0?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | May 31 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Education Curriculum and Instruction, Tahlequah](https://jobright.ai/jobs/info/683b23d57d7b6ed29eb93810?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | May 31 |
 | **[Canfor](http://www.canfor.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/682a9ce967558dc35818979d?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | May 31 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/683b0d96663f85d87392333e?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 31 |
@@ -143,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Program Manager Intern](https://jobright.ai/jobs/info/682d1f64e774a365707b8991?utm_campaign=1050&utm_source=git)** | Portage, MI | On Site | May 29 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Digital Project Management Summer 2025 Internship](https://jobright.ai/jobs/info/6838c16727208a923cb06085?utm_campaign=1050&utm_source=git)** | New York, N.Y. or Remote | Remote | May 29 |
 | ↳ | **[Digital Project Management Internship](https://jobright.ai/jobs/info/6838c04e23dbc049590ce436?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | May 29 |
-| **[Milacron](https://www.milacronindia.com/)** | **[Administrative Services Intern/Co-op](https://jobright.ai/jobs/info/6838ba9777728fa07be72f5c?utm_campaign=1050&utm_source=git)** | Coperion | On Site | May 29 |
-| ↳ | **[Administrative Services Intern/Co-op](https://jobright.ai/jobs/info/6838ba9777728fa07be72ca1?utm_campaign=1050&utm_source=git)** | Grand Rapids, Michigan | On Site | May 29 |
+| **[Milacron](https://www.milacronindia.com/)** | **[Administrative Services Intern/Co-op](https://jobright.ai/jobs/info/6838ba9777728fa07be72ca1?utm_campaign=1050&utm_source=git)** | Grand Rapids, Michigan | On Site | May 29 |
+| ↳ | **[Administrative Services Intern/Co-op](https://jobright.ai/jobs/info/6838ba9777728fa07be72f5c?utm_campaign=1050&utm_source=git)** | Coperion | On Site | May 29 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy/Pharmacist-Grad Intern](https://jobright.ai/jobs/info/6838b2ccca59e619ac81064e?utm_campaign=1050&utm_source=git)** | 2550 Lake Circle Dr, Indianapolis, IN, 46268, US | On Site | May 29 |
 | **[Cherry Health](https://www.cherryhealth.org/)** | **[Pharmacy Intern](https://jobright.ai/jobs/info/6838b2ccca59e619ac81093d?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2025 Intern - VA/DC](https://jobright.ai/jobs/info/6838cc77f327e455709874a4?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | May 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/6838a2e993e00f03c5a8096c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | May 29 |
 | **[Babcock & Wilcox](https://www.babcock.com)** | **[International Project Specialist](https://jobright.ai/jobs/info/6838a2e993e00f03c5a809b5?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | May 29 |
 | **[Flexential](https://www.flexential.com/)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/6839226e337637dcae4138d7?utm_campaign=1050&utm_source=git)** | Orange County, CA | On Site | May 29 |
-| **[S&P Global](https://www.spglobal.com)** | **[Platform Operations Intern](https://jobright.ai/jobs/info/6838984b9cb6b35dca8a04d7?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | May 29 |
-| **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science, New York](https://jobright.ai/jobs/info/68388c21cfbb8e0196457bc6?utm_campaign=1050&utm_source=git)** | New York | Hybrid | May 29 |
-| **[Option Care Health](https://optioncarehealth.com)** | **[Intern, IT Product Engineering, Technical Writer/Analyst - Part Time](https://jobright.ai/jobs/info/68388405094a75bdb72c2e6a?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

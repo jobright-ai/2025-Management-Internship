@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/683e69642610193cf206959d?utm_campaign=1050&utm_source=git)** | Pittston, PA | On Site | Jun 02 |
+| **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/683e664e983606171a3c4589?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jun 02 |
+| **[R+L Global Logistics](http://rlglobal.com)** | **[Intern-Domestic Logistics](https://jobright.ai/jobs/info/683e5c7c80526921e33110dc?utm_campaign=1050&utm_source=git)** | Ocala, FL | On Site | Jun 02 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Operations Support Intern – Fall 2025 through Spring 2026](https://jobright.ai/jobs/info/683e4d6a5b5f5868c008c939?utm_campaign=1050&utm_source=git)** | West Des Moines, IA, US | On Site | Jun 02 |
+| **[VALRHONA](https://www.valrhona.us/)** | **[Supply Chain Associate - Internship](https://jobright.ai/jobs/info/683e44439994d71654486981?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[xAI](https://x.ai)** | **[DC Administrative Intern](https://jobright.ai/jobs/info/683e1a591ef6a607193d3c08?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jun 02 |
-| **[Net Power](http://www.netpower.com)** | **[Office Administrator (Internship - Part-time)](https://jobright.ai/jobs/info/683e10e6563abef2856f674b?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jun 02 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d512e?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 02 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/683e27d43aca1b69e5b0abff?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 02 |
 | **[Nemours](http://www.nemours.org)** | **[Project Intern-Ophthalmology](https://jobright.ai/jobs/info/683e04dedbe5773c7d1300f9?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Jun 02 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[AKG of America](https://www.akg-america.com/akg-of-america/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/683e04dedbe5773c7d130171?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Jun 02 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[SkillBridge Intern](https://jobright.ai/jobs/info/683e00124175f48eaf0152bb?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Jun 02 |
 | **[Precision Castparts](http://precast.com)** | **[2025 Business co-op and Internship opportunities](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124df9?utm_campaign=1050&utm_source=git)** | Toronto, OH | On Site | Jun 02 |
+| **[Net Power](http://www.netpower.com)** | **[Office Administrator (Internship - Part-time)](https://jobright.ai/jobs/info/683df9ac5a4d18208cf5e2b5?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jun 02 |
 | **[Nemours](http://www.nemours.org)** | **[Project Intern-Ophthalmology](https://jobright.ai/jobs/info/683df9ac5a4d18208cf5de7b?utm_campaign=1050&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Jun 02 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Administrative-Intern-Flat Rate](https://jobright.ai/jobs/info/683df3ea03306e9ff5198ff0?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jun 02 |
 | **[Safe Horizon](https://www.safehorizon.org)** | **[Program Assistant Temporary (summer job)](https://jobright.ai/jobs/info/683e158e40ae1ed84eccd349?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jun 02 |
@@ -73,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/683de13dd24764bed6c6ee8b?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Jun 02 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship -Front Office Rooms / Summer 2025](https://jobright.ai/jobs/info/683de13dd24764bed6c6ee92?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jun 02 |
 | **[Kleinfelder](http://www.kleinfelder.com/)** | **[Innovation Program Intern](https://jobright.ai/jobs/info/683de13dd24764bed6c6edd6?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jun 02 |
-| **[Midsouth Steel LLC.](https://midsouthsteel.net)** | **[Executive Assistant To CEO Summer Internship](https://jobright.ai/jobs/info/683dcff933c535607ff93453?utm_campaign=1050&utm_source=git)** | College Park, GA | On Site | Jun 02 |
 | **[Children's Wisconsin](https://childrenswi.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/683dc0965ae40d186f055af1?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jun 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Operations Project Manager Intern, full-time, Salt Lake City](https://jobright.ai/jobs/info/683da07cb88633abea850b88?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 02 |
 | **[DB Schenker](https://d4s.dbschenker.com/)** | **[Intern](https://jobright.ai/jobs/info/683d9d144f03118ff266d64b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jun 02 |
@@ -89,10 +93,10 @@ For a complete list, click the following sortable link below:
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Administrative Assistant - FWS](https://jobright.ai/jobs/info/683caec51ba359c7ff78e03f?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Jun 01 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Catalyst Summer Internship](https://jobright.ai/jobs/info/683c60e86e4e034196e22532?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Jun 01 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, Psychiatry Research (per diem, temporary)](https://jobright.ai/jobs/info/68031c6016c783f42116a194?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jun 01 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/683d0b773bd6bbbedf8578c3?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Jun 01 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/683c4c549ce48afe5e603a9f?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jun 01 |
 | **[Community College of Aurora](http://www.ccaurora.edu/)** | **[TRIO Student Office Assistant](https://jobright.ai/jobs/info/683d31dd30498eac273c9c87?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Jun 01 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Administrative Support Coordinator II (11/12) INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/683c374d6b0dc6eab019fa34?utm_campaign=1050&utm_source=git)** | Chico, CA | On Site | Jun 01 |
+| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/683e5fa347805523bfe57b62?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | May 31 |
 | **[Worley](https://www.worley.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/683b97e8448c6bd6d9d2c0c1?utm_campaign=1050&utm_source=git)** | West Baton Rouge Parish County, LA | On Site | May 31 |
 | **[ARA](https://www.ara.com)** | **[IP Portfolio Automation Intern](https://jobright.ai/jobs/info/681e5ca9553b9239d9a169ab?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | May 31 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/67f9fd2174b1c49d41baa1f0?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | May 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/683a9f08c3f671efb9b89b71?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | May 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Office Intern - Summer 2025](https://jobright.ai/jobs/info/682e0809dba9accc17f917ea?utm_campaign=1050&utm_source=git)** | Allen Park, MI | On Site | May 29 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/68365ad7bde18298466c38ab?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 29 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Power Electronics Technical Program Manager Engineer, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/68391733e3bca59dacc15c16?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | May 29 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Intern to the Chief Financial Officer (CFO)](https://jobright.ai/jobs/info/683909e05d9db6c6efa74eaf?utm_campaign=1050&utm_source=git)** | US-FL-Tampa | On Site | May 29 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6839059e53f71a4389a60c97?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | May 29 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Cincinnati](https://jobright.ai/jobs/info/68390247a42a5d6b87ced628?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

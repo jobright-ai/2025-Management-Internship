@@ -57,20 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Global Risk Control Project Intern (Risk Control) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/683ee615623da3cfc2adf94c?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 03 |
+| ↳ | **[Global Risk Control Project Intern (Risk Control) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/683ee615623da3cfc2adf90b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 03 |
+| **[Scoular](http://www.scoular.com/)** | **[High School Summer Intern](https://jobright.ai/jobs/info/683edc4837ebdb04f754717b?utm_campaign=1050&utm_source=git)** | Coolidge, KS | On Site | Jun 03 |
+| **[Drexel University](http://drexel.edu)** | **[Project Coordinator](https://jobright.ai/jobs/info/683ecd2e17fc965ee12d0266?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jun 03 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/683eae7d13eddd8a09e09536?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | Jun 03 |
 | **[Evident Scientific](https://www.evidentscientific.com)** | **[Intern, Supply Chain Planning](https://jobright.ai/jobs/info/683ea02026a7683db05f5b58?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | Jun 03 |
 | **[Atlas](https://www.oneatlas.com)** | **[Project Assistant - Intern](https://jobright.ai/jobs/info/683e9af9fb6832dce529a720?utm_campaign=1050&utm_source=git)** | Williston, VT | On Site | Jun 02 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Operations Analyst - Year Up](https://jobright.ai/jobs/info/683e95e160ff29f06a6a469b?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jun 02 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/683e69642610193cf206959d?utm_campaign=1050&utm_source=git)** | Pittston, PA | On Site | Jun 02 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/683e664e983606171a3c4589?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jun 02 |
-| **[R+L Global Logistics](http://rlglobal.com)** | **[Intern-Domestic Logistics](https://jobright.ai/jobs/info/683e5c7c80526921e33110dc?utm_campaign=1050&utm_source=git)** | Ocala, FL | On Site | Jun 02 |
 | **[WuXi Biologics](https://www.wuxibiologics.com/)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/67f9fd2174b1c49d41baa1f0?utm_campaign=1050&utm_source=git)** | Cranbury, NJ | On Site | Jun 02 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Agency Operations Support Intern – Fall 2025 through Spring 2026](https://jobright.ai/jobs/info/683e4d6a5b5f5868c008c939?utm_campaign=1050&utm_source=git)** | West Des Moines, IA, US | On Site | Jun 02 |
 | **[VALRHONA](https://www.valrhona.us/)** | **[Supply Chain Associate - Internship](https://jobright.ai/jobs/info/683e44439994d71654486981?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Shaw Industries](https://shawinc.com)** | **[Intern - Commercial Strategy & Insights](https://jobright.ai/jobs/info/68375651bce8907e4a93acac?utm_campaign=1050&utm_source=git)** | Dalton, GA | On Site | Jun 02 |
 | **[xAI](https://x.ai)** | **[DC Administrative Intern](https://jobright.ai/jobs/info/683e1a591ef6a607193d3c08?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jun 02 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/683e0b6ea41241a3a99d512e?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States | On Site | Jun 02 |
-| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/683e27d43aca1b69e5b0abff?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 02 |
 | **[Nemours](http://www.nemours.org)** | **[Project Intern-Ophthalmology](https://jobright.ai/jobs/info/683e04dedbe5773c7d1300f9?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Jun 02 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/683e04dedbe5773c7d1304bc?utm_campaign=1050&utm_source=git)** | Middleburg Heights, OH | Hybrid | Jun 02 |
 | **[AKG of America](https://www.akg-america.com/akg-of-america/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/683e04dedbe5773c7d130171?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Jun 02 |
@@ -111,6 +113,8 @@ For a complete list, click the following sortable link below:
 | **[ARA](https://www.ara.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebb1c?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | May 31 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Management — Intern (Summer 2025)](https://jobright.ai/jobs/info/676f23d123dc2e0978773203?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | May 31 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1114](https://jobright.ai/jobs/info/683ada3adb36acb9144d1b2c?utm_campaign=1050&utm_source=git)** | Holmen, WI | On Site | May 31 |
+| **[Avancez LLC](https://www.avancezassembly.com/)** | **[Operations Intern (On-Site in Fort Wayne)](https://jobright.ai/jobs/info/6836861d5f8738c7e04b9a57?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | May 31 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Global Innovation & Design Center Intern - Fall 2025](https://jobright.ai/jobs/info/681da5c8df7c7209071aebd0?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | May 31 |
 | **[Crescendo](https://www.crescendo.ai)** | **[BizOps & Strategy Intern](https://jobright.ai/jobs/info/683aac657ea91a696b71684d?utm_campaign=1050&utm_source=git)** | United States | Remote | May 31 |
 | **[Bio-Rad Laboratories](http://www.bio-rad.com/)** | **[Global Supply Chain - Intern](https://jobright.ai/jobs/info/683a9c0a70ff09f53ec7db2f?utm_campaign=1050&utm_source=git)** | Hercules, CA | Hybrid | May 30 |
 | **[Net Health](https://www.nethealth.com)** | **[Intern - REMOTE](https://jobright.ai/jobs/info/683be54086d1fc2ec8b3ebab?utm_campaign=1050&utm_source=git)** | United States | Remote | May 30 |
@@ -122,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Administrative Intern - Summer 2025](https://jobright.ai/jobs/info/683a64211cc06e0f03f7f04a?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | May 30 |
 | **[Continental](https://www.continental.com)** | **[Intern - Sea Freight Logistics, Year-Round](https://jobright.ai/jobs/info/683a64211cc06e0f03f7eff5?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | On Site | May 30 |
 | **[First Mid](http://firstmid.com)** | **[Intern](https://jobright.ai/jobs/info/683a5ce38585670ac0ce74ed?utm_campaign=1050&utm_source=git)** | Forsyth, IL | On Site | May 30 |
-| **[Penske Motor Group](http://penskemotorgroup.com)** | **[Longo Toyota & Lexus Summer Internship](https://jobright.ai/jobs/info/683a7e16bb588a23d4182e22?utm_campaign=1050&utm_source=git)** | El Monte, CA | On Site | May 30 |
 | **[Milliman](http://www.milliman.com)** | **[Office/Facilities High School Work Study](https://jobright.ai/jobs/info/683a59be9f02644afac3bfea?utm_campaign=1050&utm_source=git)** | Brookfield, WI | On Site | May 30 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Administrative Intern, part-time (ELS)](https://jobright.ai/jobs/info/681dac344d7b30d51d905bbf?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | May 30 |
 | **[School Specialty](http://www.schoolspecialty.com)** | **[Order Management Internship (Summer 2025- Onsite Mansfield OH)](https://jobright.ai/jobs/info/683a4df75ec1cd85f6a7869d?utm_campaign=1050&utm_source=git)** | Mansfield, OH | On Site | May 30 |
@@ -140,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Austin Independent School District](https://www.austinisd.org)** | **[GF Intern Administrative](https://jobright.ai/jobs/info/680c3700943c1d6f10296fac?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | May 30 |
 | **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Intern -- Facilities](https://jobright.ai/jobs/info/6839fe9a5ae2eb9b7f7d0c72?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | May 30 |
 | **[ARA](https://www.ara.com)** | **[Administrative Intern 1](https://jobright.ai/jobs/info/683afa7b929a523df6c2b0bc?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | May 30 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f98fc?utm_campaign=1050&utm_source=git)** | Zachary, LA | On Site | May 30 |
-| ↳ | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f97b0?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f97b0?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | May 30 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f98fc?utm_campaign=1050&utm_source=git)** | Zachary, LA | On Site | May 30 |
 | **[InComm Payments](https://www.incomm.com/)** | **[IT Budget Operations Intern](https://jobright.ai/jobs/info/6839fbeee59f9dd56e1f9652?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 30 |
 | **[Veolia North America](http://growingblue.com/)** | **[Intern](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce9220c?utm_campaign=1050&utm_source=git)** | Chappaqua, NY | On Site | May 30 |
 | **[Apple](https://www.apple.com)** | **[MBA Internships - Summer 2026](https://jobright.ai/jobs/info/6839e63e668b3729cabba59c?utm_campaign=1050&utm_source=git)** | United States | Remote | May 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/681eb864a273b8b4577b04f8?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | May 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Operations & Finance, Global Sponsorship](https://jobright.ai/jobs/info/6839a18a257f6f759e632800?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | May 30 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Strategic Finance- MBA](https://jobright.ai/jobs/info/681edb098ede92fc0cf855c0?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | May 30 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Digital Strategy (Fall 2025)](https://jobright.ai/jobs/info/67ab8e16448ee698a1c159eb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | May 30 |
-| **[Android Industries](http://www.android-ind.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6839542a1d73768bcfc01473?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | May 30 |
-| **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science, New York](https://jobright.ai/jobs/info/683966f66a425a4cfa6cd151?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | May 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

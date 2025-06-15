@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern -Summer](https://jobright.ai/jobs/info/684dcb903dd451d16f944919?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jun 14 |
 | **[Wayfair](https://www.wayfair.com)** | **[Supply Chain Leadership Development Internship ](https://jobright.ai/jobs/info/684dbc6042ca6a2b7ad079d8?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Jun 14 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Property Management Intern - Leasing Professional](https://jobright.ai/jobs/info/684dd540fb9160260bc41db0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jun 14 |
+| **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/684e37ebb6a955464d6dc2db?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Jun 14 |
 | **[Zipline](http://flyzipline.com)** | **[Operational Excellence Program Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e12ac?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jun 14 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/684d4008c9c2e47f6e33cbeb?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jun 14 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/684d59312c0723c7e31d1523?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jun 14 |
@@ -121,11 +122,11 @@ For a complete list, click the following sortable link below:
 | **[MAN Energy Solutions](https://www.man-es.com/)** | **[Logistics - Intern](https://jobright.ai/jobs/info/6837f7523df1f73d2b39d594?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Jun 12 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 MBA Internship Program - AMERS](https://jobright.ai/jobs/info/684b962f79166fc6420e75c9?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb362?utm_campaign=1050&utm_source=git)** | Hoover, AL | On Site | Jun 12 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025-Supply Chain Analytics Intern-KTC Nashville, TN](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0df?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jun 12 |
-| ↳ | **[Fall 2025-Supply Chain Intern-Newark, OH](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0de?utm_campaign=1050&utm_source=git)** | Newark, OH | On Site | Jun 12 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025-Supply Chain Operations Intern-Elgin, SC](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0bf?utm_campaign=1050&utm_source=git)** | Elgin, SC | On Site | Jun 12 |
 | ↳ | **[Fall 2025-Supply Chain-Operations Intern- Cincinnati, OH](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb115?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 12 |
+| ↳ | **[Fall 2025-Supply Chain Analytics Intern-KTC Nashville, TN](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0df?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jun 12 |
+| ↳ | **[Fall 2025-Supply Chain Intern-Newark, OH](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0de?utm_campaign=1050&utm_source=git)** | Newark, OH | On Site | Jun 12 |
 | ↳ | **[Fall 2025-Supply Chain-Finance Intern-State Ave. Cincinnati, OH](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0ff?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 12 |
-| ↳ | **[Fall 2025-Supply Chain Operations Intern-Elgin, SC](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0bf?utm_campaign=1050&utm_source=git)** | Elgin, SC | On Site | Jun 12 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Student Intern, General Internal Medicine Research (Temporary)](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb0ea?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jun 12 |
 | **[Arclin](http://arclin.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/684c9f42335456891b9db0f5?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | Jun 12 |
 | **[Delaware County Christian School](https://www.dccs.org)** | **[Game Day Operations and Athletic Facilities Intern: Part-Time](https://jobright.ai/jobs/info/684cbcb4def7ff5c2e7903d5?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | Jun 12 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/68361a1ac51ec81a929dc4ef?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/684b122f4084419ccd42677a?utm_campaign=1050&utm_source=git)** | Missouri City, TX | On Site | Jun 12 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Business Management Intern, Chartwells Higher Ed / SUNY - Old Westbury](https://jobright.ai/jobs/info/684b122f4084419ccd4263bc?utm_campaign=1050&utm_source=git)** | Old Westbury, NY | On Site | Jun 12 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Operations Control Analyst - Year Up](https://jobright.ai/jobs/info/684b0df2b2026e55d27ffae3?utm_campaign=1050&utm_source=git)** | Jacksonville | On Site | Jun 12 |
-| ↳ | **[Operations Control Analyst - Year Up](https://jobright.ai/jobs/info/684b0df2b2026e55d27ff8dd?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | Jun 12 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Operations Control Analyst - Year Up](https://jobright.ai/jobs/info/684b0df2b2026e55d27ff8dd?utm_campaign=1050&utm_source=git)** | Charlotte | On Site | Jun 12 |
+| ↳ | **[Operations Control Analyst - Year Up](https://jobright.ai/jobs/info/684b0df2b2026e55d27ffae3?utm_campaign=1050&utm_source=git)** | Jacksonville | On Site | Jun 12 |
 | **[Soda](https://www.soda.io/)** | **[Chief of Staff Intern](https://jobright.ai/jobs/info/684b98e9b51378c69bb8e0de?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 12 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[CP-Leadership Intern](https://jobright.ai/jobs/info/684b0392dc445df121e4d102?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Jun 12 |
-| ↳ | **[CP-Leadership Intern](https://jobright.ai/jobs/info/684b0392dc445df121e4d101?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 12 |
 | ↳ | **[CP-Leadership Intern](https://jobright.ai/jobs/info/684b0392dc445df121e4ceb4?utm_campaign=1050&utm_source=git)** | CP AHS HEADQUARTERS900 HOPE WAY | On Site | Jun 12 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Jun 12 |
+| ↳ | **[CP-Leadership Intern](https://jobright.ai/jobs/info/684b0392dc445df121e4d101?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

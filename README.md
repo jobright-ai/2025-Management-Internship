@@ -147,14 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Project Management (Posting)](https://jobright.ai/jobs/info/668e3b6dff127ff38d3a6dca?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Jun 16 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da2100?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jun 16 |
 | **[SCS Global Services](https://www.scsglobalservices.com/)** | **[General Consideration](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6ae9?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Jun 16 |
-| **[ISC Constructors, L.L.C.](http://www.iscgrp.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/684fdb8750bdcbd7df503604?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Jun 16 |
-| ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/684fdb8750bdcbd7df50367c?utm_campaign=1050&utm_source=git)** | Lebanon, IN | On Site | Jun 16 |
+| **[ISC Constructors, L.L.C.](http://www.iscgrp.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/684fdb8750bdcbd7df50367c?utm_campaign=1050&utm_source=git)** | Lebanon, IN | On Site | Jun 16 |
+| ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/684fdb8750bdcbd7df503604?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Jun 16 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Operations Development Summer Analyst Program - 2026](https://jobright.ai/jobs/info/684fc592e2161bf0dee62657?utm_campaign=1050&utm_source=git)** | Greater Phoenix Area | On Site | Jun 16 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[2025 Fall/Winter Internship - Digital & Technology Services](https://jobright.ai/jobs/info/684fc4414f26c0a625779264?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Jun 16 |
 | **[Nextracker Inc.](http://nextracker.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/684fc33800806d40fc3608eb?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Jun 16 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Strategy & Enterprise Platforms Summer 2026 Analyst](https://jobright.ai/jobs/info/684fc33800806d40fc3608de?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jun 16 |
 | **[Troon](http://www.troon.com/)** | **[Golf Operations Intern](https://jobright.ai/jobs/info/68241b65fbe7ee2962c69e83?utm_campaign=1050&utm_source=git)** | St Michaels, MD | On Site | Jun 15 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Continuing Education - Broken Arrow Campus](https://jobright.ai/jobs/info/684ee164a4e9834185d063ec?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Jun 15 |
-| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/684ec7ee7b32c0aa2403fb5e?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jun 15 |
-| ↳ | **[Estimating Intern](https://jobright.ai/jobs/info/684ec7ee7b32c0aa2403fb61?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jun 15 |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/684ec7ee7b32c0aa2403fb5d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jun 15 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/684ec7ee7b32c0aa2403fb5e?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

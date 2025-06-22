@@ -68,14 +68,13 @@ For a complete list, click the following sortable link below:
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Administrative Intern, part-time (ELS)](https://jobright.ai/jobs/info/681dac344d7b30d51d905bbf?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Jun 21 |
 | **[Vigor, LLC](http://vigor.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/68564d3eb2fdfa6fc037c587?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Jun 20 |
 | **[Acosta Group](https://www.acosta.group)** | **[Intern](https://jobright.ai/jobs/info/68566f1d503e4733e868f8aa?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Jun 20 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/685625ec50c9ebcea96ec1d1?utm_campaign=1050&utm_source=git)** | Heidenheimer, TX | On Site | Jun 20 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/685625ec50c9ebcea96ec1d3?utm_campaign=1050&utm_source=git)** | Cumberland, NC | On Site | Jun 20 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/685625ec50c9ebcea96ec1d3?utm_campaign=1050&utm_source=git)** | Cumberland, NC | On Site | Jun 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/685625ec50c9ebcea96ec1a6?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jun 20 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/685625ec50c9ebcea96ec1d1?utm_campaign=1050&utm_source=git)** | Heidenheimer, TX | On Site | Jun 20 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/685625ec50c9ebcea96ec1a7?utm_campaign=1050&utm_source=git)** | Pitcairn, PA | On Site | Jun 20 |
 | **[Young Life](https://sworlando.younglife.org)** | **[LoneHollow Ranch Seasonal Intern](https://jobright.ai/jobs/info/685625e1bc541e6170c50493?utm_campaign=1050&utm_source=git)** | Vanderpool, TX | On Site | Jun 20 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Graduate Intern, Executive Office- Strategy](https://jobright.ai/jobs/info/685625e1bc541e6170c50421?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | **[Sigma](http://sigmacomputing.com)** | **[Junior Technical Program Manager](https://jobright.ai/jobs/info/68541df6c213963d3667f8b3?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jun 20 |
-| **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[Wellbeing Center Project Coordinator Intern](https://jobright.ai/jobs/info/68561cf0371c9555b19f2e19?utm_campaign=1050&utm_source=git)** | Pullman, WA | On Site | Jun 20 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-op (Summer 2025)](https://jobright.ai/jobs/info/68561cf0371c9555b19f2ea5?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jun 20 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern](https://jobright.ai/jobs/info/685618e92979da0334187747?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jun 20 |
 | **[Liberty Alliance](https://libertyalliance.com)** | **[Intern](https://jobright.ai/jobs/info/6856158e335b55b54b62a2a9?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jun 20 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Bits](https://www.getbits.app)** | **[Founders Associate - Summer Internship](https://jobright.ai/jobs/info/68535511984967489aa7af5d?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Jun 18 |
 | ↳ | **[Founders Associate - In-Term Internships (Fall/Spring)](https://jobright.ai/jobs/info/68535511984967489aa7af74?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Jun 18 |
 | **[Injective](https://injectivelabs.org)** | **[community manager pipeline](https://jobright.ai/jobs/info/685331d5a372cfa7941ab4ea?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 18 |
+| **[ABF Freight](https://arcb.com/abf-freight)** | **[Intern Operations](https://jobright.ai/jobs/info/67fd4f5ba65d1903dadbb65e?utm_campaign=1050&utm_source=git)** | Camp Hill, PA | On Site | Jun 18 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Supply Chain/Procurement Intern](https://jobright.ai/jobs/info/685321753fed2a4bea25248f?utm_campaign=1050&utm_source=git)** | Crystal Springs, MS | On Site | Jun 18 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/6853193608e0d604dd713c91?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WinnCompanies](https://www.winncompanies.com)** | **[Part Time Summer Intern - Operation Pathways (Calvin Mowbray and Stephen Camper Park)](https://jobright.ai/jobs/info/6859c641f9454895c408b6c1?utm_campaign=1050&utm_source=git)** | Cambridge, MD | On Site | Jun 23 |
+| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[System Perioperative Supply Chain Intern](https://jobright.ai/jobs/info/6859bc700763eb08076e8431?utm_campaign=1050&utm_source=git)** | Unity Hospital | On Site | Jun 23 |
+| ↳ | **[System Perioperative Supply Chain Intern](https://jobright.ai/jobs/info/6859bc700763eb08076e80a5?utm_campaign=1050&utm_source=git)** | Rochester General Hospital (RGH) | On Site | Jun 23 |
+| **[Rokid Corporation Ltd](http://rokid.ai)** | **[Operational Specialist Internship](https://jobright.ai/jobs/info/6859b9709fd382d77ee20e07?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jun 23 |
+| **[HEI Hotels & Resorts](http://www.heihotels.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6859aec2d789c639a55ea6db?utm_campaign=1050&utm_source=git)** | HEI Hotels and Resorts Corporate Office - Norwalk, CT | On Site | Jun 23 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Air Logistics Intern](https://jobright.ai/jobs/info/6859ab177cc82b34be908152?utm_campaign=1050&utm_source=git)** | East Point, GA | On Site | Jun 23 |
 | **[Skydio](https://www.skydio.com)** | **[Logistics Coordinator / RMA Intern - Summer 2025](https://jobright.ai/jobs/info/685999ee90e3e2ff27fa1d9c?utm_campaign=1050&utm_source=git)** | San Mateo, CA | Hybrid | Jun 23 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Summer Office Assistant](https://jobright.ai/jobs/info/685999ee90e3e2ff27fa1d60?utm_campaign=1050&utm_source=git)** | Lansdowne, VA | On Site | Jun 23 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[DOD Skillbridge PM Fellowship](https://jobright.ai/jobs/info/685995317df804ca525caff9?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Jun 23 |
 | **[Endo](http://www.endo.com)** | **[Co-op - Project Management, Quality Control](https://jobright.ai/jobs/info/685993f4bec56e76c8eb8163?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Jun 23 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - C2C](https://jobright.ai/jobs/info/685991b222173ada4997fb3c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Jun 23 |
@@ -77,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Benchmark](http://www.bench.com)** | **[Intern - Project Management / Documentation Control Intern](https://jobright.ai/jobs/info/68580fdfb2d78a446c619e79?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Jun 22 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6858de54b4b98c47aa8dd4ff?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jun 22 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6857ba43483482f83d082343?utm_campaign=1050&utm_source=git)** | Lawton, OK | On Site | Jun 22 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6857b30a9e3c7af5f976bf32?utm_campaign=1050&utm_source=git)** | Haughton, LA | On Site | Jun 22 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6857b30a9e3c7af5f976bf05?utm_campaign=1050&utm_source=git)** | Dothan, AL | On Site | Jun 22 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6857b30a9e3c7af5f976bf32?utm_campaign=1050&utm_source=git)** | Haughton, LA | On Site | Jun 22 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6857b00db9725b96a128aebf?utm_campaign=1050&utm_source=git)** | Cedar Hill, TX | On Site | Jun 22 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/685798e33a082001f146c8c1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jun 21 |
 | **[FM](https://www.fmglobal.com)** | **[Fall 2025 Part-Time Intern: Research Campus Activities Coordinator](https://jobright.ai/jobs/info/685701de8855bb7f447b56eb?utm_campaign=1050&utm_source=git)** | West Glocester, RI | On Site | Jun 21 |
@@ -105,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Global Risk Control Project Intern (Risk Control) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d94?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jun 20 |
 | ↳ | **[Global Risk Control Project Intern (Risk Control) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8eea?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 20 |
 | ↳ | **[Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d877d?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2025 Intern - VA/DC](https://jobright.ai/jobs/info/6838cc77f327e455709874a4?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Jun 20 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6855a7b2eb8282c01188640d?utm_campaign=1050&utm_source=git)** | Pooler, GA | On Site | Jun 20 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Food & Beverage Intern](https://jobright.ai/jobs/info/6837a29080b21311efdd77be?utm_campaign=1050&utm_source=git)** | Shakopee, MN | On Site | Jun 20 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6856447759822f6bdd3d2732?utm_campaign=1050&utm_source=git)** | Milledgeville, GA | On Site | Jun 20 |
@@ -129,12 +134,13 @@ For a complete list, click the following sortable link below:
 | **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/6854cd3ebd9dbbea69c4ed0c?utm_campaign=1050&utm_source=git)** | Avon, IN | On Site | Jun 19 |
 | **[Target](https://www.target.com)** | **[Current Interns Only- Operations Manager -Summer 2025 DC Intern](https://jobright.ai/jobs/info/6854a176c18036900d45a35b?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Jun 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/68549f2d5eed717bde47e540?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Jun 19 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Logistics / Supply Chain Intern / Co-op](https://jobright.ai/jobs/info/685480849df7a3eac8cff052?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Jun 19 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Summer 2026 Internship](https://jobright.ai/jobs/info/6837625e83f7e75365d679f9?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jun 19 |
 | **[TransPerfect](http://www.transperfect.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/685450c9579f1e32eb4dfa17?utm_campaign=1050&utm_source=git)** | US-New York, NY (1250 Broadway) | On Site | Jun 19 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/684a34017dddeb59e647f5d6?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jun 19 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business co-op and Internship opportunities](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124e63?utm_campaign=1050&utm_source=git)** | Toronto, OH | On Site | Jun 19 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Logistics / Supply Chain Intern / Co-op](https://jobright.ai/jobs/info/68543d84cc6527ea57f1eb90?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Jun 19 |
 | **[Target](https://www.target.com)** | **[Current Interns Only- Operations Manager -Summer 2025 DC Intern](https://jobright.ai/jobs/info/68543d84cc6527ea57f1ebaa?utm_campaign=1050&utm_source=git)** | 3105 N Mango Ave, Rialto,CA 92377-4901 | On Site | Jun 19 |
-| **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy MHB](https://jobright.ai/jobs/info/685436a2ac7f96cf909f4820?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jun 19 |
+| **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy MHB](https://jobright.ai/jobs/info/68543662ac7f96cf909f3e70?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jun 19 |
 | **[Georgetown University](http://www.georgetown.edu)** | **[Research Assistant, Temporary](https://jobright.ai/jobs/info/6850bb634bc4e2d9774a97f1?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jun 19 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[MIS Project Manager Co-Op](https://jobright.ai/jobs/info/685426c623e28bb2ac1411e3?utm_campaign=1050&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Jun 19 |
 | **[Georgetown University](http://www.georgetown.edu)** | **[Research Assistant, Temporary](https://jobright.ai/jobs/info/6850bb634bc4e2d9774a9813?utm_campaign=1050&utm_source=git)** | Greater Madison Area | On Site | Jun 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6854fa28b989029ee092d7b1?utm_campaign=1050&utm_source=git)** | Kaneohe, HI | On Site | Jun 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6854fa28b989029ee092d7b8?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Jun 18 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6853d5a193f7ca4446273440?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jun 18 |
-| **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/68361a1ac51ec81a929dc4ef?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 18 |
-| **[MANN+HUMMEL](https://www.mann-hummel.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/683f5ee928df15755e198889?utm_campaign=1050&utm_source=git)** | Gastonia, NC | On Site | Jun 18 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Executive Office-Executive Support Intern](https://jobright.ai/jobs/info/6842977129732509155beebe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 18 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Assistant, CancerBridge](https://jobright.ai/jobs/info/68576dfef14bf40383622e2d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jun 18 |
-| **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - Premium Audit - Schaumburg (Summer 2025)](https://jobright.ai/jobs/info/6853de39dee22b2fb328156e?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Jun 18 |
-| **[Create Music Group](https://www.createmusicgroup.com/)** | **[M&A Project Management Internship](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724f62?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

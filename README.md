@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Education Curriculum and Instruction, Tahlequah](https://jobright.ai/jobs/info/685e10be6f010823bc8e4587?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jun 26 |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/685df96c8224a9d2f18ee9ea?utm_campaign=1050&utm_source=git)** | UT | On Site | Jun 26 |
+| ↳ | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/685df96c8224a9d2f18ee9c0?utm_campaign=1050&utm_source=git)** | Orem | On Site | Jun 26 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Intern](https://jobright.ai/jobs/info/685dee6d65012444e1a266ab?utm_campaign=1050&utm_source=git)** | US-FL-Orlando | On Site | Jun 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/685dee6d65012444e1a26aed?utm_campaign=1050&utm_source=git)** | ADVENTHEALTH PERF IMPRV OFF2005 NORTH ORANGE AVENUE | On Site | Jun 26 |
+| **[Celldex Therapeutics](http://celldex.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/685e0435043a59c0a53722d9?utm_campaign=1050&utm_source=git)** | Fall River, MA | On Site | Jun 26 |
 | **[iQor](http://www.iqor.com)** | **[Intern](https://jobright.ai/jobs/info/685ddef01f273616bc49fd22?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Jun 26 |
 | **[Philips](https://www.usa.philips.com)** | **[Intern – Project Management – Bothell, WA– Summer 2025](https://jobright.ai/jobs/info/685dc2d56a04fbdb63038a7a?utm_campaign=1050&utm_source=git)** | Bothell | On Site | Jun 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2025 (Huntsville)](https://jobright.ai/jobs/info/685db93cebb2cfbfca29d36e?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Jun 26 |
+| **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Office Assistant](https://jobright.ai/jobs/info/685e10be6f010823bc8e46c3?utm_campaign=1050&utm_source=git)** | Richmond, KY | On Site | Jun 26 |
 | **[Mercedes-Benz Financial Services USA LLC](https://www.mbfs.com/home)** | **[Executive Assistant Internship](https://jobright.ai/jobs/info/685db6168f5566bc57021d14?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Jun 26 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2025 (Huntsville, AL)](https://jobright.ai/jobs/info/685dacf692471452f2c9ea5e?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Jun 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Homeland Relationship Management Team](https://jobright.ai/jobs/info/685da65ade406219dfe4f0e3?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 26 |
@@ -81,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/685d24ccd1ff1770fcc65a76?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jun 26 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Meetings and Events Intern](https://jobright.ai/jobs/info/684200627c40b03d2fa066ad?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Jun 25 |
 | **[ENGIE Global Energy Management & Sales (GEMS)](https://gems.engie.com)** | **[Intern, Retail Operations Analyst (Transaction Management)](https://jobright.ai/jobs/info/685cad0abee1ebee8277b029?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jun 25 |
-| **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/685cab9b3c088b537bde9a39?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jun 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Missionary Travel) (6 Months)](https://jobright.ai/jobs/info/685ca45da29f87dcb3e013a4?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jun 25 |
 | ↳ | **[Process Improvement Intern - Meetinghouse Facilities](https://jobright.ai/jobs/info/685ca45da29f87dcb3e013a9?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/685cc3002490dd803831e7d0?utm_campaign=1050&utm_source=git)** | Pitcairn, PA | On Site | Jun 25 |
@@ -123,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/682407bfe9d89e67af143a41?utm_campaign=1050&utm_source=git)** | Sevierville, TN | On Site | Jun 25 |
 | **[Ovivo](https://www.ovivowater.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6823b58de34378a7f83373ec?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jun 25 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Meetings and Events Intern](https://jobright.ai/jobs/info/685bfc59daa3aeaa9f5f53ff?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Jun 25 |
-| **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Center for the Arts Administrative Assistant (Work Study Only)](https://jobright.ai/jobs/info/685bfbdf9b731955c3d50b06?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 25 |
-| ↳ | **[Student - Racial Unity Team Virtual Office Manager (Work Study Only)](https://jobright.ai/jobs/info/685bfbdf9b731955c3d50af7?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 25 |
+| **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Racial Unity Team Virtual Office Manager (Work Study Only)](https://jobright.ai/jobs/info/685bfbdf9b731955c3d50af7?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 25 |
+| ↳ | **[Student - Center for the Arts Administrative Assistant (Work Study Only)](https://jobright.ai/jobs/info/685bfbdf9b731955c3d50b06?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 25 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
 | **[FreshDirect](http://freshdirect.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/683f97664bf15f6970a6cfb0?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jun 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/685b3453605301f162a78706?utm_campaign=1050&utm_source=git)** | Alameda, CA | On Site | Jun 24 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/685b3453605301f162a78723?utm_campaign=1050&utm_source=git)** | Fort Belvoir, VA | On Site | Jun 24 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/685b52d2960682eefd696db1?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Jun 24 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Intern Program Lead](https://jobright.ai/jobs/info/685b5297960682eefd69682c?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Jun 24 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025-Supply Chain-  Continuous  Improvement Intern- Crawfordsville, IN ](https://jobright.ai/jobs/info/685b1505669ff10cebb0d4d1?utm_campaign=1050&utm_source=git)** | 800 N Englewood Dr, Crawfordsville, IN, 47933, US | On Site | Jun 24 |
-| ↳ | **[Fall 2025-Supply Chain-Operations Intern- Crawfordsville, IN ](https://jobright.ai/jobs/info/685b1505669ff10cebb0d4ad?utm_campaign=1050&utm_source=git)** | 800 N Englewood Dr, Crawfordsville, IN, 47933, US | On Site | Jun 24 |
-| **[Bertram Capital](https://bcap.com/)** | **[MBA Thesis Internship: Fall 2025](https://jobright.ai/jobs/info/685b1036eb4542877f091e85?utm_campaign=1050&utm_source=git)** | United States | Remote | Jun 24 |
-| **[The MIL Corporation](https://www.milcorp.com/)** | **[Administrative Assistant I](https://jobright.ai/jobs/info/685b61470467819e1a8da8ae?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Jun 24 |
-| **[MedStar Health](http://www.medstarhealth.org)** | **[Admin Intern](https://jobright.ai/jobs/info/685b06cad8fe2cf3865dc300?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[McLaren Health Care](http://www.mclaren.org)** | **[Intern, Special Projects, Hospital Administration](https://jobright.ai/jobs/info/685fe878d664471342b13723?utm_campaign=1050&utm_source=git)** | Pontiac, MI | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Clerical (Off-Campus) - Spring Eternal](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5db?utm_campaign=1050&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/6724eac52cc59c4dfb69f231?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jun 28 |
+| ↳ | **[2025 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1050&utm_source=git)** | Connecticut, United States | On Site | Jun 28 |
 | **[Zeta Charter Schools](https://zetaschools.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/685fcae03b284811a5289678?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #934](https://jobright.ai/jobs/info/685fcae03b284811a5289813?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Jun 28 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Program Management Intern, Part-Time Fall 2025](https://jobright.ai/jobs/info/685fb5d0a514215069b9a29c?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jun 28 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Partner/SHIFT Program Management Intern](https://jobright.ai/jobs/info/685e225ccd9c8a34d956c475?utm_campaign=1050&utm_source=git)** | 2100 Washington Blvd, Arlington, VA, 22204, US | On Site | Jun 26 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Student Office Assistant - Office of the Provost - 2025/26](https://jobright.ai/jobs/info/685e13f9aec3ffe223a09265?utm_campaign=1050&utm_source=git)** | South Orange, NJ | On Site | Jun 26 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Education Curriculum and Instruction, Tahlequah](https://jobright.ai/jobs/info/685e10be6f010823bc8e4587?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jun 26 |
-| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/685df96c8224a9d2f18ee9c0?utm_campaign=1050&utm_source=git)** | Orem | On Site | Jun 26 |
-| ↳ | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/685df96c8224a9d2f18ee9ea?utm_campaign=1050&utm_source=git)** | UT | On Site | Jun 26 |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/685df96c8224a9d2f18ee9ea?utm_campaign=1050&utm_source=git)** | UT | On Site | Jun 26 |
+| ↳ | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/685df96c8224a9d2f18ee9c0?utm_campaign=1050&utm_source=git)** | Orem | On Site | Jun 26 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Intern](https://jobright.ai/jobs/info/685dee6d65012444e1a26aed?utm_campaign=1050&utm_source=git)** | ADVENTHEALTH PERF IMPRV OFF2005 NORTH ORANGE AVENUE | On Site | Jun 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/685dee6d65012444e1a26aee?utm_campaign=1050&utm_source=git)** | US-FL-Orlando | On Site | Jun 26 |
 | **[Automotive Product Consultants, LLC.](https://www.linkedin.com/company/35672384)** | **[Part-time Administrative Assistant Intern](https://jobright.ai/jobs/info/685ef390bad40fb8047ec829?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Jun 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intuitive Machines](https://intuitivemachines.com)** | **[Office Aide - Intern](https://jobright.ai/jobs/info/685c661ffeff698b7278a9d6?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/685ce4e182b9d8fb9e9c12bd?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jun 25 |
 | ↳ | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/685cd63334670cd8c040f289?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jun 25 |
-| **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Intern - Supply Chain Optimization (part-time)](https://jobright.ai/jobs/info/685c5d288e1b065e2b909f2b?utm_campaign=1050&utm_source=git)** | Waltham, MA | Remote | Jun 25 |
-| **[Austin Community College](http://austincc.edu)** | **[Intern - Strategic Planning (Hourly)](https://jobright.ai/jobs/info/685c595d8e477378e74de5b5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

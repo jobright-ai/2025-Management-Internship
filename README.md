@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #874](https://jobright.ai/jobs/info/686ce99727fa671097d90c00?utm_campaign=1050&utm_source=git)** | Chisago City, MN | On Site | Jul 08 |
+| ↳ | **[Retail Management Intern #871](https://jobright.ai/jobs/info/686ce99727fa671097d90c01?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Jul 08 |
 | **[City of Garden Grove](https://ggcity.org/)** | **[Intern](https://jobright.ai/jobs/info/686cd62e303f7f63cb03f88c?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Jul 08 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/686c91c735584b65426c11f7?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jul 07 |
 | **[Travelers](https://www.travelers.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Geospatial Intern](https://jobright.ai/jobs/info/686c761135584b6542d377b5?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Jul 07 |
@@ -111,21 +113,23 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Strategy & Enterprise Platforms Summer 2026 Analyst](https://jobright.ai/jobs/info/684fc33800806d40fc3608de?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 07 |
 | ↳ | **[Global Operations Development Summer Analyst Program - 2026](https://jobright.ai/jobs/info/684fc592e2161bf0dee62657?utm_campaign=1050&utm_source=git)** | Greater Phoenix Area | On Site | Jul 07 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8ca15?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 07 |
+| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletic Graduate Intern - Baseball (Player D](https://jobright.ai/jobs/info/686cf37cdd515a24b79af94c?utm_campaign=1050&utm_source=git)** | Boiling Springs, NC | On Site | Jul 07 |
+| ↳ | **[Athletic Graduate Intern - Baseball (Operatio](https://jobright.ai/jobs/info/686cf37cdd515a24b79af941?utm_campaign=1050&utm_source=git)** | Boiling Springs, NC | On Site | Jul 07 |
 | **[PCI Services Ltd](https://pciservices.ca)** | **[Maintenance Operations Intern](https://jobright.ai/jobs/info/686cd62e303f7f63cb03fc5f?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Jul 07 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Strategy & Management Summer Analyst Program - 2026](https://jobright.ai/jobs/info/686b66d335584b654212ad12?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 06 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Broken Arrow](https://jobright.ai/jobs/info/686b514a35584b6542b75091?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Jul 06 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[Executive Assistant Intern- August 2025 to December 2025](https://jobright.ai/jobs/info/686c577c35584b65422c7934?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Jul 06 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/686b062935584b654258d3e7?utm_campaign=1050&utm_source=git)** | Anderson, SC | On Site | Jul 06 |
 | **[Bowling Green State University](http://www.bgsu.edu/)** | **[Office Assistant](https://jobright.ai/jobs/info/686af1b535584b6542fad269?utm_campaign=1050&utm_source=git)** | Bowling Green, OH | On Site | Jul 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Mission Coordinator (SkillBridge Intern) - 21488](https://jobright.ai/jobs/info/673cc155ef3abad3c8013204?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Jul 06 |
 | **[Zipline](http://flyzipline.com)** | **[Operational Excellence Program Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e12ac?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jul 06 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Associate - Summer 2025](https://jobright.ai/jobs/info/684cb29129f761926462607e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 06 |
 | **[Sigma](http://sigmacomputing.com)** | **[Junior Technical Program Manager](https://jobright.ai/jobs/info/68541df6c213963d3667f8b3?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jul 05 |
 | **[Travelers](https://www.travelers.com)** | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee74?utm_campaign=1050&utm_source=git)** | TX - Richardson | On Site | Jul 05 |
-| ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee36?utm_campaign=1050&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
-| ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee70?utm_campaign=1050&utm_source=git)** | GA - Alpharetta | On Site | Jul 05 |
+| ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee72?utm_campaign=1050&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Geospatial Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee7d?utm_campaign=1050&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Geospatial Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee3c?utm_campaign=1050&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
-| ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee72?utm_campaign=1050&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
+| ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee70?utm_campaign=1050&utm_source=git)** | GA - Alpharetta | On Site | Jul 05 |
+| ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee36?utm_campaign=1050&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
 | **[Albuquerque Public Schools](https://www.aps.edu/)** | **[District Program Intern](https://jobright.ai/jobs/info/6869992c35584b654237abb5?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 | ↳ | **[Program Manager/ DECA Officer](https://jobright.ai/jobs/info/6869992035584b6542376b02?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 | ↳ | **[Office Intern](https://jobright.ai/jobs/info/6869990e35584b654237161d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moroch](https://www.moroch.com/)** | **[Fall 2025 Dallas Internship](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd93?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jul 04 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/686caa1e35584b6542eb7c9c?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
 | **[Cuyahoga Community College](http://www.tri-c.edu)** | **[Fall Intern, Office Assistant](https://jobright.ai/jobs/info/67ebab2316ee0aea4912c959?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 03 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/686732bf248efa6b3dc7ca66?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 03 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Program Management Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c915?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 03 |
-| ↳ | **[Program Quality and Measurement Field Office Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c94f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 03 |
-| ↳ | **[Field Administration Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8dc?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

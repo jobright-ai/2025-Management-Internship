@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/686e2da52a385a9f5448b334?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Jul 08 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/686e03b5a64d005d86c0f6b7?utm_campaign=1050&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 08 |
 | **[Target](https://www.target.com)** | **[Current Interns Only- Operations Manager -Summer 2025 DC Intern](https://jobright.ai/jobs/info/686dfe9e62a3550e1136c8b9?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Jul 08 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/686ddb71718936f2b3ad65e2?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jul 08 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Broken Arrow](https://jobright.ai/jobs/info/686df595c2e288d4ae602983?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Jul 08 |
 | ↳ | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/686df595c2e288d4ae602947?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jul 08 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/686dc9d0b9d41c6a02699dba?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 08 |
@@ -104,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/686c7ffe35584b65421732bf?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 07 |
 | **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/686c45ff35584b6542c3e22d?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Soccer Operations Internship](https://jobright.ai/jobs/info/686c38b335584b65426da0b3?utm_campaign=1050&utm_source=git)** | Milford, OH | On Site | Jul 07 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Fall 2025 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/686c304c35584b65423c4b6f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 07 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Canyon Promotions - Administrative Support (FWS/NFWS)](https://jobright.ai/jobs/info/686c2f1e35584b654232fa1f?utm_campaign=1050&utm_source=git)** | AZ Phoenix | On Site | Jul 07 |
 | **[Protiviti](http://www.protiviti.com)** | **[Houston Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686c29a535584b65420cafbf?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jul 07 |
 | ↳ | **[Boston Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686c299e35584b65420c7ff0?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 07 |
@@ -154,7 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee74?utm_campaign=1050&utm_source=git)** | TX - Richardson | On Site | Jul 05 |
 | ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee36?utm_campaign=1050&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
 | ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee72?utm_campaign=1050&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
-| ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Geospatial Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee3c?utm_campaign=1050&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
 | ↳ | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee70?utm_campaign=1050&utm_source=git)** | GA - Alpharetta | On Site | Jul 05 |
+| ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Geospatial Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee3c?utm_campaign=1050&utm_source=git)** | MN - St. Paul | On Site | Jul 05 |
 | ↳ | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Geospatial Intern](https://jobright.ai/jobs/info/6869fab733fe4bfc6108ee7d?utm_campaign=1050&utm_source=git)** | CT - Hartford | On Site | Jul 05 |
+| **[Albuquerque Public Schools](https://www.aps.edu/)** | **[District Program Intern](https://jobright.ai/jobs/info/6869992c35584b654237abb5?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
+| ↳ | **[Program Manager/ DECA Officer](https://jobright.ai/jobs/info/6869992035584b6542376b02?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

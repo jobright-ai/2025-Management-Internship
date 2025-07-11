@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[UHG Leadership Experience - ULE - Internship Consortium - Remote](https://jobright.ai/jobs/info/6870684ea5ae807a59cf81c5?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Hybrid | Jul 10 |
+| **[Caris Life Sciences](http://www.carislifesciences.com)** | **[Innovation's Intern](https://jobright.ai/jobs/info/6870628401cc0956e7e818b0?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jul 10 |
 | **[MSC Cruises](http://www.msccruisesusa.com.)** | **[Logistics Intern](https://jobright.ai/jobs/info/68705847a5ae807a59cf7be7?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 10 |
 | **[Project Renewal](https://www.projectrenewal.org/)** | **[NSIP Internship Cohorts 52](https://jobright.ai/jobs/info/687055c006ad7073463bd178?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 10 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687053cea5ae807a59cf797a?utm_campaign=1050&utm_source=git)** | Stone Mountain, GA | On Site | Jul 10 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Crew Tracking - Operations Travel Desk (Spring 2026)](https://jobright.ai/jobs/info/6870287da5ae807a59cf63df?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Supply Chain Part Time Internship: Fall Semester](https://jobright.ai/jobs/info/6870278da5ae807a59cf634e?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Jul 10 |
 | **[Lumitex](http://www.lumitex.com)** | **[Part-time Planning Intern(ship)](https://jobright.ai/jobs/info/6870126fa5ae807a59cf5707?utm_campaign=1050&utm_source=git)** | Brecksville, OH | On Site | Jul 10 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efafc3?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Jul 10 |
-| ↳ | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efb04f?utm_campaign=1050&utm_source=git)** | CP AHS SUPPORT CENTER893 HOPE WAY | On Site | Jul 10 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efb04f?utm_campaign=1050&utm_source=git)** | CP AHS SUPPORT CENTER893 HOPE WAY | On Site | Jul 10 |
+| ↳ | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efafc3?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Jul 10 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Information Services (IT/IS) Co-op/Intern- Fall 2025](https://jobright.ai/jobs/info/686fe47c06ad7073463b99a0?utm_campaign=1050&utm_source=git)** | Marysville, OH | On Site | Jul 10 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Fall 2025 Internship](https://jobright.ai/jobs/info/6837625e83f7e75365d679f1?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Planner Co-op/Intern](https://jobright.ai/jobs/info/6826b04778eb994ae6e3276a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 10 |
@@ -90,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Administrative Student Assistant (Student)](https://jobright.ai/jobs/info/686f0628de69584b9e37a0db?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Microsoft Power Platform Program Services)](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d75eb?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Jul 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/686f01eba983a7f8b8184ad4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 09 |
-| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
-| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
+| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
 | ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
+| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/686efc4758dd0e900799607f?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 09 |
 | **[HelloFresh](https://www.hellofresh.com)** | **[Intern, Executive Analytics & Tools](https://jobright.ai/jobs/info/686ee7b0ec8c0d02f748f01b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Jul 09 |
 | **[Kenvue](https://www.kenvue.com)** | **[Customer Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/686edfffd3be750a94a3b1ab?utm_campaign=1050&utm_source=git)** | Rogers, AR | Hybrid | Jul 09 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/686d91a202d6881bf8489647?utm_campaign=1050&utm_source=git)** | Alameda, CA | Hybrid | Jul 08 |
 | **[Centric Brands](https://centricbrands.com)** | **[Allocation Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d7cab7ca8d01b2625a9b4?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jul 08 |
 | **[University of Central Arkansas](http://www.uca.edu/)** | **[Graduate Administrative Assistant (GAA)](https://jobright.ai/jobs/info/686d91a202d6881bf8489a3c?utm_campaign=1050&utm_source=git)** | Conway, AR | On Site | Jul 08 |
-| **[Pinnacle Group, Inc.](http://pinnacle1.com)** | **[Corporate Intern](https://jobright.ai/jobs/info/686d7197e46684f583ca8aff?utm_campaign=1050&utm_source=git)** | Headquarters, KY | On Site | Jul 08 |
 | **[Husch Blackwell](http://www.huschblackwell.com/)** | **[Intern - Office Administration Coordinator (OAC)](https://jobright.ai/jobs/info/686d7197e46684f583ca8b8b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jul 08 |
 | **[Nelnet](https://nelnetinc.com)** | **[Pathway Intern - Product/Project Management - Starting August 2025](https://jobright.ai/jobs/info/686d6618b494246d3922f534?utm_campaign=1050&utm_source=git)** | Lincoln, NE | Hybrid | Jul 08 |
 | **[Grand Hyatt](https://www.hyatt.com/brands/grand-hyatt)** | **[Hotel Operations Intern](https://jobright.ai/jobs/info/686d82a035d173f099671c79?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/686c904d35584b654263dfa8?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jul 07 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/686c7ffe35584b65421732bf?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 07 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Admin Intern](https://jobright.ai/jobs/info/686ee386c5ab7b79ee666be0?utm_campaign=1050&utm_source=git)** | 270-05 76th Ave, New Hyde Park, NY, 11040, US | On Site | Jul 07 |
-| **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/686c45ff35584b6542c3e22d?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Troon](http://www.troon.com/)** | **[Gameday Operations Assistant Intern / Eventive Sports](https://jobright.ai/jobs/info/68717380a5ae807a59cffa1d?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 11 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/68716532a5ae807a59cff529?utm_campaign=1050&utm_source=git)** | Towson, MD | On Site | Jul 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Chicago Intern](https://jobright.ai/jobs/info/68715df8a5ae807a59cff324?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 11 |
 | **[Nokia](http://www.nokia.com)** | **[Operations & Transformation Co-op](https://jobright.ai/jobs/info/68715be54b595fce1666f8cb?utm_campaign=1050&utm_source=git)** | 3201 Olympus Boulevard, Dallas, Texas, 75019, US | On Site | Jul 11 |
@@ -78,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687053cea5ae807a59cf797a?utm_campaign=1050&utm_source=git)** | Stone Mountain, GA | On Site | Jul 10 |
 | **[Lone Wolf Technologies](https://www.lwolf.com)** | **[Project Control Analyst - Internship](https://jobright.ai/jobs/info/68704cffa5ae807a59cf76a3?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Jul 10 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6870774001cc0956e7e8208e?utm_campaign=1050&utm_source=git)** | Fayetteville, NC | On Site | Jul 10 |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Center For Rehabilitation Research](https://jobright.ai/jobs/info/687026f906ad7073463bb83c?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Corporate Affairs Intern -Fry's](https://jobright.ai/jobs/info/687025e3c07d40c7603b9892?utm_campaign=1050&utm_source=git)** | 500 South 99Th Ave., Tolleson, AZ, 85353, US | On Site | Jul 10 |
 | **[Caris Life Sciences](http://www.carislifesciences.com)** | **[Innovation's Intern](https://jobright.ai/jobs/info/687023c21923f89fd073e8df?utm_campaign=1050&utm_source=git)** | Irving - HQ | On Site | Jul 10 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern C, Program Management (Fall 2025 - Cincinnati, OH)](https://jobright.ai/jobs/info/6870400406ad7073463bc770?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 10 |
-| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Center For Rehabilitation Research](https://jobright.ai/jobs/info/68704240a5ae807a59cf7302?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 10 |
 | **[Lumitex](http://www.lumitex.com)** | **[Part-time Planning Intern(ship)](https://jobright.ai/jobs/info/68700f569a77984d3d150f74?utm_campaign=1050&utm_source=git)** | Brecksville | On Site | Jul 10 |
 | ↳ | **[Part-time Planning Intern(ship)](https://jobright.ai/jobs/info/68700f169a77984d3d150bee?utm_campaign=1050&utm_source=git)** | Hybrid Remote | On Site | Jul 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Crew Tracking - Operations Travel Desk (Spring 2026)](https://jobright.ai/jobs/info/6870287da5ae807a59cf63df?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/686d91a202d6881bf8489647?utm_campaign=1050&utm_source=git)** | Alameda, CA | Hybrid | Jul 08 |
 | **[Centric Brands](https://centricbrands.com)** | **[Allocation Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d7cab7ca8d01b2625a9b4?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jul 08 |
 | **[University of Central Arkansas](http://www.uca.edu/)** | **[Graduate Administrative Assistant (GAA)](https://jobright.ai/jobs/info/686d91a202d6881bf8489a3c?utm_campaign=1050&utm_source=git)** | Conway, AR | On Site | Jul 08 |
-| **[Husch Blackwell](http://www.huschblackwell.com/)** | **[Intern - Office Administration Coordinator (OAC)](https://jobright.ai/jobs/info/686d7197e46684f583ca8b8b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

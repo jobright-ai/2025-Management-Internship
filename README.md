@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/6838a2e993e00f03c5a8096c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/68726d2d06ad7073463cc332?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Jul 12 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #246](https://jobright.ai/jobs/info/6872435e06ad7073463cbaee?utm_campaign=1050&utm_source=git)** | Austin, MN | On Site | Jul 12 |
+| **[ByteDance](http://bytedance.com)** | **[Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d877d?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[AVI-SPL](https://avispl.com/)** | **[Associate Project Manager (SkillBridge Program)](https://jobright.ai/jobs/info/685e3b6d5589a324a4938838?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 12 |
 | **[Smart Data Solutions](https://sdata.us/)** | **[Mailroom Operations Optimization Intern](https://jobright.ai/jobs/info/6871c86406ad7073463c7378?utm_campaign=1050&utm_source=git)** | Eagan, MN | On Site | Jul 11 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/6871c5bca5ae807a59d01924?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 11 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Operations & Transformation Co-op](https://jobright.ai/jobs/info/68715be54b595fce1666f8cb?utm_campaign=1050&utm_source=git)** | 3201 Olympus Boulevard, Dallas, Texas, 75019, US | On Site | Jul 11 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Project Management Co-op](https://jobright.ai/jobs/info/683438a2318a3a24b77cb3bb?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jul 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Administration for S4Hana Cloud Finance Content](https://jobright.ai/jobs/info/68715372a5ae807a59cff008?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 11 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Project Controls Intern_PTIN5C](https://jobright.ai/jobs/info/6841133a79179c5555f0b4b8?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Chicago Intern](https://jobright.ai/jobs/info/687122c9c7cafdc11690d548?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 11 |
 | **[moomoo ](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68378e7a0107b2eb81650992?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 11 |
 | **[Circle K](http://www.circlek.com)** | **[Manager In Training](https://jobright.ai/jobs/info/6828d26c6f3b0a9e40597f53?utm_campaign=1050&utm_source=git)** | Seabrook, NH | On Site | Jul 11 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Administrative Student Assistant (Student)](https://jobright.ai/jobs/info/686f0628de69584b9e37a0db?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Microsoft Power Platform Program Services)](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d75eb?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Jul 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/686f01eba983a7f8b8184ad4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 09 |
-| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
-| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
+| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
+| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
 | ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/686efc4758dd0e900799607f?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 09 |
 | **[Kenvue](https://www.kenvue.com)** | **[Customer Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/686edfffd3be750a94a3b1ab?utm_campaign=1050&utm_source=git)** | Rogers, AR | Hybrid | Jul 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/686f44a5813c0b3b5c39b5c0?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Jul 09 |
 | **[RailPros](http://railpros.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6870d2a701cc0956e7e85c74?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jul 08 |
 | **[Town of Oro Valley](https://www.orovalleyaz.gov)** | **[Town Manager's Office Intern - Unpaid](https://jobright.ai/jobs/info/686e2da52a385a9f5448b334?utm_campaign=1050&utm_source=git)** | Oro Valley, AZ | On Site | Jul 08 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/6872129706ad7073463cafeb?utm_campaign=1050&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 08 |
-| **[Target](https://www.target.com)** | **[Current Interns Only- Operations Manager -Summer 2025 DC Intern](https://jobright.ai/jobs/info/686dfe9e62a3550e1136c8b9?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

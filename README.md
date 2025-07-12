@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2025 Fall Intern, Clinical Affairs](https://jobright.ai/jobs/info/68719d2ca5ae807a59d00c2f?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 11 |
 | **[Troon](http://www.troon.com/)** | **[Gameday Operations Assistant Intern / Eventive Sports](https://jobright.ai/jobs/info/68717380a5ae807a59cffa1d?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 11 |
+| **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator - Intern](https://jobright.ai/jobs/info/68718e2306ad7073463c5e24?utm_campaign=1050&utm_source=git)** | GS - Jersey City | On Site | Jul 11 |
+| **[DGA Group](https://www.dentonsglobaladvisors.com)** | **[DGA Group Internship Program- Fall 2025](https://jobright.ai/jobs/info/68718d9006ad7073463c5dc6?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 11 |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68718ce1a5ae807a59d005ae?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 11 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/68716532a5ae807a59cff529?utm_campaign=1050&utm_source=git)** | Towson, MD | On Site | Jul 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Chicago Intern](https://jobright.ai/jobs/info/68715df8a5ae807a59cff324?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 11 |
 | **[Nokia](http://www.nokia.com)** | **[Operations & Transformation Co-op](https://jobright.ai/jobs/info/68715be54b595fce1666f8cb?utm_campaign=1050&utm_source=git)** | 3201 Olympus Boulevard, Dallas, Texas, 75019, US | On Site | Jul 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Administration for S4Hana Cloud Finance Content](https://jobright.ai/jobs/info/68715372a5ae807a59cff008?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Chicago Intern](https://jobright.ai/jobs/info/687122c9c7cafdc11690d548?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, USA | On Site | Jul 11 |
 | **[moomoo ](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68378e7a0107b2eb81650992?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 11 |
+| **[Circle K](http://www.circlek.com)** | **[Manager In Training](https://jobright.ai/jobs/info/6828d26c6f3b0a9e40597f53?utm_campaign=1050&utm_source=git)** | Seabrook, NH | On Site | Jul 11 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/6837625e83f7e75365d67a18?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jul 11 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/6871260ea5ae807a59cfe1c1?utm_campaign=1050&utm_source=git)** | Altamonte Springs, FL | On Site | Jul 11 |
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Logistics Analyst Intern](https://jobright.ai/jobs/info/68375340a4a8b1b302203be3?utm_campaign=1050&utm_source=git)** | Waterbury, CT | On Site | Jul 11 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Office Assistant](https://jobright.ai/jobs/info/6870ff2506ad7073463c2b6b?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Jul 11 |
@@ -79,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687053cea5ae807a59cf797a?utm_campaign=1050&utm_source=git)** | Stone Mountain, GA | On Site | Jul 10 |
 | **[Lone Wolf Technologies](https://www.lwolf.com)** | **[Project Control Analyst - Internship](https://jobright.ai/jobs/info/68704cffa5ae807a59cf76a3?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Jul 10 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6870774001cc0956e7e8208e?utm_campaign=1050&utm_source=git)** | Fayetteville, NC | On Site | Jul 10 |
-| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Center For Rehabilitation Research](https://jobright.ai/jobs/info/687026f906ad7073463bb83c?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Corporate Affairs Intern -Fry's](https://jobright.ai/jobs/info/687025e3c07d40c7603b9892?utm_campaign=1050&utm_source=git)** | 500 South 99Th Ave., Tolleson, AZ, 85353, US | On Site | Jul 10 |
 | **[Caris Life Sciences](http://www.carislifesciences.com)** | **[Innovation's Intern](https://jobright.ai/jobs/info/687023c21923f89fd073e8df?utm_campaign=1050&utm_source=git)** | Irving - HQ | On Site | Jul 10 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Intern C, Program Management (Fall 2025 - Cincinnati, OH)](https://jobright.ai/jobs/info/6870400406ad7073463bc770?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 10 |
+| **[The MetroHealth System (Cleveland, OH)](http://www.metrohealth.org)** | **[College Intern-Center For Rehabilitation Research](https://jobright.ai/jobs/info/68704240a5ae807a59cf7302?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 10 |
 | **[Lumitex](http://www.lumitex.com)** | **[Part-time Planning Intern(ship)](https://jobright.ai/jobs/info/68700f569a77984d3d150f74?utm_campaign=1050&utm_source=git)** | Brecksville | On Site | Jul 10 |
 | ↳ | **[Part-time Planning Intern(ship)](https://jobright.ai/jobs/info/68700f169a77984d3d150bee?utm_campaign=1050&utm_source=git)** | Hybrid Remote | On Site | Jul 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Crew Tracking - Operations Travel Desk (Spring 2026)](https://jobright.ai/jobs/info/6870287da5ae807a59cf63df?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
@@ -136,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, In-Flight Services Program Integration Project Coordinator - JFK, NYC (Fall 2025)](https://jobright.ai/jobs/info/686eafbea84e67badc26bb2a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 09 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Admin Intern](https://jobright.ai/jobs/info/686ee386c5ab7b79ee666bea?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Jul 09 |
 | **[FreshDirect](http://freshdirect.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/686e7c1c7594915a187205ee?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jul 09 |
-| ↳ | **[Supply Chain Strategy & Analytical Intern](https://jobright.ai/jobs/info/686e7c077594915a1871ffd8?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jul 09 |
 | ↳ | **[Test Kitchen Operations Intern](https://jobright.ai/jobs/info/686e7c077594915a1871ff70?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jul 09 |
+| ↳ | **[Supply Chain Strategy & Analytical Intern](https://jobright.ai/jobs/info/686e7c077594915a1871ffd8?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jul 09 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op / Intern - Fall 2025 (Nashville)](https://jobright.ai/jobs/info/67ea17ef5dc360faf1a4232a?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jul 09 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Supply Chain Intern](https://jobright.ai/jobs/info/6852080396a63c79dcded2d5?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 09 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Markets Chief Operating Office Summer Analyst Program - 2026](https://jobright.ai/jobs/info/6851cb02ceb7ca31d8b9ac5e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Centric](https://www.hyatt.com/brands/hyatt-centric)** | **[Operations Internship](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c5800?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 08 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Operations](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bac?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 08 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/686db47eb3502aea3b92da17?utm_campaign=1050&utm_source=git)** | Huntsville, AL | Hybrid | Jul 08 |
-| **[Dr. Reddy's Laboratories](http://www.drreddys.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/686db47eb3502aea3b92da4a?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Jul 08 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Cell Manufacturing (Fall 2025)](https://jobright.ai/jobs/info/686d948bb495f664a24eb80e?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Jul 08 |
-| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Operations](https://jobright.ai/jobs/info/686d91a202d6881bf84896ac?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 08 |
-| **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/686d91a202d6881bf8489647?utm_campaign=1050&utm_source=git)** | Alameda, CA | Hybrid | Jul 08 |
-| **[Centric Brands](https://centricbrands.com)** | **[Allocation Intern – Fall 2025 (On-site)](https://jobright.ai/jobs/info/686d7cab7ca8d01b2625a9b4?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jul 08 |
-| **[University of Central Arkansas](http://www.uca.edu/)** | **[Graduate Administrative Assistant (GAA)](https://jobright.ai/jobs/info/686d91a202d6881bf8489a3c?utm_campaign=1050&utm_source=git)** | Conway, AR | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,21 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CourseCareers](http://coursecareers.com)** | **[Future CEO Internship](https://jobright.ai/jobs/info/6873fe3a4001e95011b1b85d?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
-| ↳ | **[Executive Assistant to CEO Internship](https://jobright.ai/jobs/info/6873fdfb01889204ff8f5e49?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
-| ↳ | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873f6544001e95011b1b73a?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
-| ↳ | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873f61a4001e95011b1b6f2?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
-| ↳ | **[Future Founder Internship](https://jobright.ai/jobs/info/6873f5e727d5e6163cae7018?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
-| ↳ | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873f5e601889204ff8f5d1f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
+| **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/687422a801889204ff8f60dc?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Jul 13 |
+| **[CourseCareers](http://coursecareers.com)** | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873f5e601889204ff8f5d1f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | ↳ | **[Executive Support Internship](https://jobright.ai/jobs/info/6873f59627d5e6163cae6fc5?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | **[ARA](https://www.ara.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebb1c?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
 | ↳ | **[IP Portfolio Automation Intern](https://jobright.ai/jobs/info/681e5ca9553b9239d9a169ab?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Executive Support Internship](https://jobright.ai/jobs/info/6873bf5601889204ff8f5884?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Executive Assistant to CEO Internship](https://jobright.ai/jobs/info/6873c05227d5e6163cae6bdb?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873bf8d27d5e6163cae6b77?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873bf9027d5e6163cae6b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b505?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 13 |
+| **[CourseCareers](http://coursecareers.com)** | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873c08d27d5e6163cae6bf4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | ↳ | **[Future Founder Internship](https://jobright.ai/jobs/info/6873c04201889204ff8f58ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873c08d27d5e6163cae6bf4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Executive Assistant to CEO Internship](https://jobright.ai/jobs/info/6873c05227d5e6163cae6bdb?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873bf9027d5e6163cae6b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873bf8d27d5e6163cae6b77?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | ↳ | **[Future CEO Internship](https://jobright.ai/jobs/info/6873cbe14001e95011b1a115?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[LOGIX Program Manager (BD) (SkillBridge Intern) - 19811](https://jobright.ai/jobs/info/6856a46dae0608f715a8a3a8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jul 12 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/6838a2e993e00f03c5a8096c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 12 |
@@ -143,18 +139,22 @@ For a complete list, click the following sortable link below:
 | **[Travelers](https://www.travelers.com)** | **[Operations Leadership Development Program (OLDP) Intern](https://jobright.ai/jobs/info/686c732a35584b6542c761f3?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Jul 09 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/686f1e28cd4d4665c60403fc?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[St. Louis Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686c27db35584b6542fe3842?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Jul 09 |
-| **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 09 |
-| ↳ | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c3?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Jul 09 |
+| **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c3?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Jul 09 |
+| ↳ | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 09 |
 | **[American University](http://american.edu)** | **[Administrative Student Assistant (Student)](https://jobright.ai/jobs/info/686f0628de69584b9e37a0db?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Microsoft Power Platform Program Services)](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d75eb?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Jul 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/686f01eba983a7f8b8184ad4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 09 |
-| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
-| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
+| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
 | ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
+| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/686efc4758dd0e900799607f?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 09 |
 | **[Kenvue](https://www.kenvue.com)** | **[Customer Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/686edfffd3be750a94a3b1ab?utm_campaign=1050&utm_source=git)** | Rogers, AR | Hybrid | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Boston Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686edd7e9f5f2363699bbfed?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 09 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, In-Flight Services Program Integration Project Coordinator - JFK, NYC (Fall 2025)](https://jobright.ai/jobs/info/686edc4431d2354c436aa56d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 09 |
 | **[ABF Freight](https://arcb.com/abf-freight)** | **[Intern Operations](https://jobright.ai/jobs/info/67fd53eca7aad40f3d9656c2?utm_campaign=1050&utm_source=git)** | Eagan, MN | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686c27d035584b6542fdc7f3?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Jul 09 |
+| ↳ | **[Houston Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686ecde75cc4111d9fe60c51?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jul 09 |
+| **[Flint Hills Resources](http://www.fhr.com)** | **[Summer 2026 Project Manager Intern (Electrical Engineer)](https://jobright.ai/jobs/info/686ecde75cc4111d9fe609fb?utm_campaign=1050&utm_source=git)** | Rosemount, MN | On Site | Jul 09 |
+| **[American University](http://american.edu)** | **[Administrative Student Assistant (Student)](https://jobright.ai/jobs/info/686ec7d29a71f471a478abce?utm_campaign=1050&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jul 09 |
+| **[Danfoss](https://www.danfoss.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/686ec4019ac195524dc1d385?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

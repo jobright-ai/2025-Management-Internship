@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARA](https://www.ara.com)** | **[IP Portfolio Automation Intern](https://jobright.ai/jobs/info/681e5ca9553b9239d9a169ab?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
+| **[CourseCareers](http://coursecareers.com)** | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873c08d27d5e6163cae6bf4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Future Founder Internship](https://jobright.ai/jobs/info/6873c04201889204ff8f58ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873bf8d27d5e6163cae6b77?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Future CEO Internship](https://jobright.ai/jobs/info/6873cbe14001e95011b1a115?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873bf9027d5e6163cae6b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Executive Assistant to CEO Internship](https://jobright.ai/jobs/info/6873c05227d5e6163cae6bdb?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Executive Support Internship](https://jobright.ai/jobs/info/6873bf5601889204ff8f5884?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/6838a2e993e00f03c5a8096c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/68726d2d06ad7073463cc332?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Jul 12 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/6838e939a7bb7d65a7a263d1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 12 |
@@ -77,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/68739d044001e95011b17f63?utm_campaign=1050&utm_source=git)** | Mount Pleasant, MI | On Site | Jul 11 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Chicago Intern](https://jobright.ai/jobs/info/68715df8a5ae807a59cff324?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 11 |
 | **[Nokia](http://www.nokia.com)** | **[Operations & Transformation Co-op](https://jobright.ai/jobs/info/68715be54b595fce1666f8cb?utm_campaign=1050&utm_source=git)** | 3201 Olympus Boulevard, Dallas, Texas, 75019, US | On Site | Jul 11 |
+| **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator - Intern](https://jobright.ai/jobs/info/6873cfef4001e95011b1a3b2?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 11 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68736ee64001e95011b14efd?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 11 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Project Management Co-op](https://jobright.ai/jobs/info/683438a2318a3a24b77cb3bb?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jul 11 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Administration for S4Hana Cloud Finance Content](https://jobright.ai/jobs/info/68715372a5ae807a59cff008?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 11 |
@@ -130,9 +139,9 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Administrative Student Assistant (Student)](https://jobright.ai/jobs/info/686f0628de69584b9e37a0db?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Microsoft Power Platform Program Services)](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d75eb?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Jul 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/686f01eba983a7f8b8184ad4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 09 |
-| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
+| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
+| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
 | ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
-| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/686efc4758dd0e900799607f?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 09 |
 | **[Kenvue](https://www.kenvue.com)** | **[Customer Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/686edfffd3be750a94a3b1ab?utm_campaign=1050&utm_source=git)** | Rogers, AR | Hybrid | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[Boston Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686edd7e9f5f2363699bbfed?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 09 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Los Angeles Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68643f5353eb2f5985836bf5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 09 |
 | ↳ | **[Metro DC Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af293a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jul 09 |
 | ↳ | **[Indianapolis Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af293c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Jul 09 |
-| ↳ | **[Minneapolis Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68658af4dacc710e97af293b?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 09 |
-| ↳ | **[Miami Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/6865f41a7166d16714b68db1?utm_campaign=1050&utm_source=git)** | Coral Gables, FL | Hybrid | Jul 09 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, In-Flight Services Program Integration Project Coordinator - JFK, NYC (Fall 2025)](https://jobright.ai/jobs/info/686eafbea84e67badc26bb2a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 09 |
-| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Admin Intern](https://jobright.ai/jobs/info/686ee386c5ab7b79ee666bea?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Jul 09 |
-| **[FreshDirect](http://freshdirect.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/686e7c1c7594915a187205ee?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jul 09 |
-| ↳ | **[Test Kitchen Operations Intern](https://jobright.ai/jobs/info/686e7c077594915a1871ff70?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jul 09 |
-| ↳ | **[Supply Chain Strategy & Analytical Intern](https://jobright.ai/jobs/info/686e7c077594915a1871ffd8?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jul 09 |
-| **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Supply Chain Intern](https://jobright.ai/jobs/info/6852080396a63c79dcded2d5?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 09 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Markets Chief Operating Office Summer Analyst Program - 2026](https://jobright.ai/jobs/info/6851cb02ceb7ca31d8b9ac5e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

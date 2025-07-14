@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clozd](https://www.clozd.com)** | **[Operations Analyst - Outreach & Scheduling](https://jobright.ai/jobs/info/687569a5299cbc74b8754953?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Jul 14 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/687565db299cbc74b875470b?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
 | **[RF-SMART](http://rfsmart.com/)** | **[IT Project Manager Intern- Fall 2025](https://jobright.ai/jobs/info/687552f75cebcd1dd51bf888?utm_campaign=1050&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jul 14 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68754b76299cbc74b875377a?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Jul 14 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6875499c5cebcd1dd51bf270?utm_campaign=1050&utm_source=git)** | Florence, AL | On Site | Jul 14 |
@@ -66,16 +68,17 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[Branch Intern - Orlando, FL 33G](https://jobright.ai/jobs/info/687524d5ae2f413e4a5a4185?utm_campaign=1050&utm_source=git)** | Orlando, Florida - United States | On Site | Jul 14 |
 | ↳ | **[Branch Intern - Coral Gables, FL 3QD](https://jobright.ai/jobs/info/687524cf5cebcd1dd51be11c?utm_campaign=1050&utm_source=git)** | Coral Gables, Florida - United States | On Site | Jul 14 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6874d7485cebcd1dd51bc5ea?utm_campaign=1050&utm_source=git)** | Milford, IA | On Site | Jul 14 |
+| **[AMETEK](http://www.ametek.com)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/68589b405e246785242206fb?utm_campaign=1050&utm_source=git)** | Aurora, IL | On Site | Jul 14 |
 | **[Charleston Southern University](charlestonsouthern.edu)** | **[Financial Aid Office Assistant](https://jobright.ai/jobs/info/6874b99d5cebcd1dd51bc226?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Jul 14 |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/687422a801889204ff8f60dc?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Jul 13 |
 | **[CourseCareers](http://coursecareers.com)** | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873f5e601889204ff8f5d1f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | **[ARA](https://www.ara.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebb1c?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
 | ↳ | **[IP Portfolio Automation Intern](https://jobright.ai/jobs/info/681e5ca9553b9239d9a169ab?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b505?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Future Founder Internship](https://jobright.ai/jobs/info/6873c04201889204ff8f58ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873bf9027d5e6163cae6b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Future CEO Internship](https://jobright.ai/jobs/info/6873cbe14001e95011b1a115?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| **[CourseCareers](http://coursecareers.com)** | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873bf9027d5e6163cae6b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Future Founder Internship](https://jobright.ai/jobs/info/6873c04201889204ff8f58ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | ↳ | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873c08d27d5e6163cae6bf4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Future CEO Internship](https://jobright.ai/jobs/info/6873cbe14001e95011b1a115?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[LOGIX Program Manager (BD) (SkillBridge Intern) - 19811](https://jobright.ai/jobs/info/6856a46dae0608f715a8a3a8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jul 12 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/6838a2e993e00f03c5a8096c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/68726d2d06ad7073463cc332?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Jul 12 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[AVI-SPL](https://avispl.com/)** | **[Associate Project Manager (SkillBridge Program)](https://jobright.ai/jobs/info/685e3b6d5589a324a4938838?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d877d?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/68747c365cebcd1dd51b9f4d?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jul 11 |
-| **[Smart Data Solutions](https://sdata.us/)** | **[Mailroom Operations Optimization Intern](https://jobright.ai/jobs/info/6871c86406ad7073463c7378?utm_campaign=1050&utm_source=git)** | Eagan, MN | On Site | Jul 11 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/68730fbca5ae807a59d07722?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 11 |
 | **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator - Intern](https://jobright.ai/jobs/info/6871b722a5ae807a59d014f0?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 11 |
 | ↳ | **[Event Administrative Coordinator (Logistics/Supply Chain) - Intern](https://jobright.ai/jobs/info/6871b414a5ae807a59d013a8?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Hybrid | Jul 11 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Interra International, LLC.](http://interrainternational.com)** | **[Office Specialist](https://jobright.ai/jobs/info/68738f2c4001e95011b174cd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 09 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/686f1e28cd4d4665c60403fc?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jul 09 |
 | **[Protiviti](http://www.protiviti.com)** | **[St. Louis Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686c27db35584b6542fe3842?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Jul 09 |
-| **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c3?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Jul 09 |
-| ↳ | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 09 |
+| **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 09 |
+| ↳ | **[Administrative Intern - El Segundo, CA - Fall 2025](https://jobright.ai/jobs/info/686f094b94781b34e39f48c3?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Jul 09 |
 | **[American University](http://american.edu)** | **[Administrative Student Assistant (Student)](https://jobright.ai/jobs/info/686f0628de69584b9e37a0db?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Microsoft Power Platform Program Services)](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d75eb?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Jul 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/686f01eba983a7f8b8184ad4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
 | ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/686efc4758dd0e900799607f?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 09 |
-| **[Kenvue](https://www.kenvue.com)** | **[Customer Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/686edfffd3be750a94a3b1ab?utm_campaign=1050&utm_source=git)** | Rogers, AR | Hybrid | Jul 09 |
-| **[Protiviti](http://www.protiviti.com)** | **[Boston Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686edd7e9f5f2363699bbfed?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

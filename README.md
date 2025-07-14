@@ -58,16 +58,16 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/687422a801889204ff8f60dc?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Executive Assistant to CEO Internship](https://jobright.ai/jobs/info/6873fdfb01889204ff8f5e49?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
+| **[CourseCareers](http://coursecareers.com)** | **[Future Founder Internship](https://jobright.ai/jobs/info/6873f5e727d5e6163cae7018?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
+| ↳ | **[Executive Support Internship](https://jobright.ai/jobs/info/6873f59627d5e6163cae6fc5?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | **[ARA](https://www.ara.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebb1c?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
 | ↳ | **[IP Portfolio Automation Intern](https://jobright.ai/jobs/info/681e5ca9553b9239d9a169ab?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b505?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873c08d27d5e6163cae6bf4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Future Founder Internship](https://jobright.ai/jobs/info/6873c04201889204ff8f58ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873bf9027d5e6163cae6b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| **[CourseCareers](http://coursecareers.com)** | **[Executive Assistant to CEO Internship](https://jobright.ai/jobs/info/6873c05227d5e6163cae6bdb?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873c08d27d5e6163cae6bf4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | ↳ | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873bf8d27d5e6163cae6b77?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | ↳ | **[Future CEO Internship](https://jobright.ai/jobs/info/6873cbe14001e95011b1a115?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
-| ↳ | **[Executive Support Internship](https://jobright.ai/jobs/info/6873bf5601889204ff8f5884?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873bf9027d5e6163cae6b79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[LOGIX Program Manager (BD) (SkillBridge Intern) - 19811](https://jobright.ai/jobs/info/6856a46dae0608f715a8a3a8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jul 12 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/6838a2e993e00f03c5a8096c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 12 |
 | **[First Student](http://www.firststudentinc.com)** | **[Intern](https://jobright.ai/jobs/info/68726d2d06ad7073463cc332?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Jul 12 |
@@ -120,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Crew Tracking - Operations Travel Desk (Spring 2026)](https://jobright.ai/jobs/info/6870287da5ae807a59cf63df?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
 | **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Supply Chain Part Time Internship: Fall Semester](https://jobright.ai/jobs/info/6870278da5ae807a59cf634e?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Jul 10 |
 | **[Lumitex](http://www.lumitex.com)** | **[Part-time Planning Intern(ship)](https://jobright.ai/jobs/info/6870126fa5ae807a59cf5707?utm_campaign=1050&utm_source=git)** | Brecksville, OH | On Site | Jul 10 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efafc3?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Jul 10 |
-| ↳ | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efb04f?utm_campaign=1050&utm_source=git)** | CP AHS SUPPORT CENTER893 HOPE WAY | On Site | Jul 10 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efb04f?utm_campaign=1050&utm_source=git)** | CP AHS SUPPORT CENTER893 HOPE WAY | On Site | Jul 10 |
+| ↳ | **[Supply Chain Intern Fall 2025](https://jobright.ai/jobs/info/686fee0fb2f4879380efafc3?utm_campaign=1050&utm_source=git)** | US-FL-Altamonte Springs | On Site | Jul 10 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Chattanooga, TN](https://jobright.ai/jobs/info/68708dfb01cc0956e7e82df6?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Jul 10 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain - Supplier Development Project](https://jobright.ai/jobs/info/681c17fa51162154c8dcdafc?utm_campaign=1050&utm_source=git)** | Lancaster, NY | On Site | Jul 10 |
 | **[Precision Castparts](http://precast.com)** | **[Planner Co-op/Intern](https://jobright.ai/jobs/info/6826b04778eb994ae6e3276a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 10 |
@@ -143,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Administrative Student Assistant (Student)](https://jobright.ai/jobs/info/686f0628de69584b9e37a0db?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Microsoft Power Platform Program Services)](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d75eb?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Jul 09 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/686f01eba983a7f8b8184ad4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 09 |
-| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
-| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
+| **[Baker Group](http://thebakergroup.com)** | **[2026 Internship](https://jobright.ai/jobs/info/686f26d790d7b66951c27751?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 09 |
+| ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bf0?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Jul 09 |
 | ↳ | **[2026 Internship](https://jobright.ai/jobs/info/686f26f690d7b66951c27bef?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Jul 09 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/686efc4758dd0e900799607f?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 09 |
 | **[Kenvue](https://www.kenvue.com)** | **[Customer Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/686edfffd3be750a94a3b1ab?utm_campaign=1050&utm_source=git)** | Rogers, AR | Hybrid | Jul 09 |

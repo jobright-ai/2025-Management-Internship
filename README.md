@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6875b3e15cebcd1dd51c2de9?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jul 14 |
 | **[American University](http://american.edu)** | **[CAS Administrative Support (Student)(FWS)](https://jobright.ai/jobs/info/6875a801299cbc74b8756b71?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 14 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6875a6e7ae2f413e4a5a8b50?utm_campaign=1050&utm_source=git)** | Odessa, TX | On Site | Jul 14 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6875a624299cbc74b875691f?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Jul 14 |
+| **[tms](https://themarketingstore.com)** | **[Supply Chain Project Coordinator Intern (8-12 month contract)](https://jobright.ai/jobs/info/6875c9c9ae2f413e4a5a9c37?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern - Burlington, Vermont](https://jobright.ai/jobs/info/6875990fae2f413e4a5a859a?utm_campaign=1050&utm_source=git)** | Burlington, VT | On Site | Jul 14 |
-| **[Humana](http://www.humana.com)** | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595ad299cbc74b8756240?utm_campaign=1050&utm_source=git)** | Miramar Beach, FL | Remote | Jul 14 |
-| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595ad299cbc74b8756241?utm_campaign=1050&utm_source=git)** | Miami Beach, FL | Remote | Jul 14 |
+| **[Humana](http://www.humana.com)** | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595ad299cbc74b8756241?utm_campaign=1050&utm_source=git)** | Miami Beach, FL | Remote | Jul 14 |
+| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595ad299cbc74b8756240?utm_campaign=1050&utm_source=git)** | Miramar Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595a3299cbc74b8756238?utm_campaign=1050&utm_source=git)** | Daytona Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595a3299cbc74b8756239?utm_campaign=1050&utm_source=git)** | New Smyrna Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/68759595299cbc74b875622d?utm_campaign=1050&utm_source=git)** | Dania Beach, FL | Remote | Jul 14 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/68759564299cbc74b8756210?utm_campaign=1050&utm_source=git)** | North Palm Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/68759564299cbc74b8756211?utm_campaign=1050&utm_source=git)** | Eglin AFB, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/68759553299cbc74b8756203?utm_campaign=1050&utm_source=git)** | MacDill AFB, FL | Remote | Jul 14 |
-| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595435cebcd1dd51c1e94?utm_campaign=1050&utm_source=git)** | Deerfield Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595435cebcd1dd51c1e96?utm_campaign=1050&utm_source=git)** | Tampa, FL | Remote | Jul 14 |
+| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595435cebcd1dd51c1e94?utm_campaign=1050&utm_source=git)** | Deerfield Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687595435cebcd1dd51c1e95?utm_campaign=1050&utm_source=git)** | Fort Walton Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/6875951c299cbc74b87561da?utm_campaign=1050&utm_source=git)** | Hallandale Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/68759515ae2f413e4a5a842b?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | Remote | Jul 14 |
@@ -79,22 +81,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/6875950cae2f413e4a5a8423?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/68759503ae2f413e4a5a841a?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594faae2f413e4a5a8412?utm_campaign=1050&utm_source=git)** | Boynton Beach, FL | Remote | Jul 14 |
-| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594e0ae2f413e4a5a8408?utm_campaign=1050&utm_source=git)** | Delray Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594e0ae2f413e4a5a8407?utm_campaign=1050&utm_source=git)** | Niceville, FL | Remote | Jul 14 |
+| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594e0ae2f413e4a5a8408?utm_campaign=1050&utm_source=git)** | Delray Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594ceae2f413e4a5a83fd?utm_campaign=1050&utm_source=git)** | Fernandina Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594c7ae2f413e4a5a83f8?utm_campaign=1050&utm_source=git)** | Royal Palm Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594c7ae2f413e4a5a83f7?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594b5ae2f413e4a5a83ef?utm_campaign=1050&utm_source=git)** | Remote Florida - Jacksonville | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594b05cebcd1dd51c1e37?utm_campaign=1050&utm_source=git)** | North Miami Beach, FL | Remote | Jul 14 |
-| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594ab5cebcd1dd51c1e34?utm_campaign=1050&utm_source=git)** | Remote Florida | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594ab5cebcd1dd51c1e32?utm_campaign=1050&utm_source=git)** | Pompano Beach, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594ab5cebcd1dd51c1e33?utm_campaign=1050&utm_source=git)** | Mayport, FL | Remote | Jul 14 |
+| ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594ab5cebcd1dd51c1e34?utm_campaign=1050&utm_source=git)** | Remote Florida | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/687594a15cebcd1dd51c1e2e?utm_campaign=1050&utm_source=git)** | Palm Beach Gardens, FL | Remote | Jul 14 |
 | ↳ | **[Telephonic Behavior Health Care Manager](https://jobright.ai/jobs/info/6875949e5cebcd1dd51c1e2a?utm_campaign=1050&utm_source=git)** | Apollo Beach, FL | Remote | Jul 14 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Publishing - Administrative Assistant - NFWS](https://jobright.ai/jobs/info/687590925cebcd1dd51c1d52?utm_campaign=1050&utm_source=git)** | AZ Phoenix | On Site | Jul 14 |
 | **[Synchrony](https://www.synchrony.com/)** | **[UConn Stamford Digital Technology Center Intern - Fall 2025](https://jobright.ai/jobs/info/68648828c09904860c4e4cf5?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Jul 14 |
 | **[American University](http://american.edu)** | **[CAS Administrative Support (Student)(FWS)](https://jobright.ai/jobs/info/68757b5d5cebcd1dd51c12f8?utm_campaign=1050&utm_source=git)** | Main Campus (Washington, DC) | On Site | Jul 14 |
-| **[Clozd](https://www.clozd.com)** | **[Operations Analyst - Outreach & Scheduling](https://jobright.ai/jobs/info/687572deae2f413e4a5a71fe?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Jul 14 |
+| **[Clozd](https://www.clozd.com)** | **[Operations Analyst - Outreach & Scheduling](https://jobright.ai/jobs/info/687569a5299cbc74b8754953?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Jul 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/687565db299cbc74b875470b?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
 | **[RF-SMART](http://rfsmart.com/)** | **[IT Project Manager Intern- Fall 2025](https://jobright.ai/jobs/info/687552f75cebcd1dd51bf888?utm_campaign=1050&utm_source=git)** | Jacksonville, Florida, United States | On Site | Jul 14 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68754b76299cbc74b875377a?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Jul 14 |
@@ -110,12 +112,12 @@ For a complete list, click the following sortable link below:
 | **[Clyde Companies, Inc.](https://www.clydeinc.com/)** | **[Tech Project Manager Intern](https://jobright.ai/jobs/info/687422a801889204ff8f60dc?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Jul 13 |
 | **[CourseCareers](http://coursecareers.com)** | **[Founder Apprenticeship](https://jobright.ai/jobs/info/6873f6544001e95011b1b73a?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | ↳ | **[CEO Apprenticeship](https://jobright.ai/jobs/info/6873f61a4001e95011b1b6f2?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
-| ↳ | **[Future Founder Internship](https://jobright.ai/jobs/info/6873f5e727d5e6163cae7018?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | ↳ | **[CEO's Shadow Internship](https://jobright.ai/jobs/info/6873f5e601889204ff8f5d1f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 13 |
 | **[ARA](https://www.ara.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/682d5fd09d56317f5ccebb1c?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
 | ↳ | **[IP Portfolio Automation Intern](https://jobright.ai/jobs/info/681e5ca9553b9239d9a169ab?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jul 13 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b505?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 13 |
-| **[CourseCareers](http://coursecareers.com)** | **[Future CEO Internship](https://jobright.ai/jobs/info/6873cbe14001e95011b1a115?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| **[CourseCareers](http://coursecareers.com)** | **[Future Founder Internship](https://jobright.ai/jobs/info/6873c04201889204ff8f58ea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
+| ↳ | **[Future CEO Internship](https://jobright.ai/jobs/info/6873cbe14001e95011b1a115?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[LOGIX Program Manager (BD) (SkillBridge Intern) - 19811](https://jobright.ai/jobs/info/6856a46dae0608f715a8a3a8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jul 12 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Operations Intern Summer 2025](https://jobright.ai/jobs/info/6838a2e993e00f03c5a8096c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 12 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/6838e939a7bb7d65a7a263d1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68709690a5ae807a59cf99f4?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jul 10 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[UHG Leadership Experience - ULE - Internship Consortium - Remote](https://jobright.ai/jobs/info/6870684ea5ae807a59cf81c5?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | Hybrid | Jul 10 |
 | **[MSC Cruises](http://www.msccruisesusa.com.)** | **[Logistics Intern](https://jobright.ai/jobs/info/68705847a5ae807a59cf7be7?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Jul 10 |
-| **[Project Renewal](https://www.projectrenewal.org/)** | **[NSIP Internship Cohorts 52](https://jobright.ai/jobs/info/687055c006ad7073463bd178?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 10 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687053cea5ae807a59cf797a?utm_campaign=1050&utm_source=git)** | Stone Mountain, GA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

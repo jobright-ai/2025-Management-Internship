@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Asset Management Products Summer Analyst Program](https://jobright.ai/jobs/info/687a224bed63844c944a17f3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Operations (Fall 2025)](https://jobright.ai/jobs/info/6879efd3a7fc8904e39671d5?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 17 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6879ab14a7fc8904e3964751?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jul 17 |
 | **[Northwest Cascade Inc.](http://www.nwcascade.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/687997262097a271a897892b?utm_campaign=1050&utm_source=git)** | PUYALLUP, WA | On Site | Jul 17 |
 | **[DAT Freight & Analytics](https://www.dat.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68797e89a7fc8904e39633f5?utm_campaign=1050&utm_source=git)** | Beaverton, OR, USA | Hybrid | Jul 17 |
 | **[Impulse](http://impulse.net/)** | **[Administrative Trainee - Part-Time](https://jobright.ai/jobs/info/68799eb6ed63844c9449cf58?utm_campaign=1050&utm_source=git)** | Goleta, CA | On Site | Jul 17 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6879636da7fc8904e3962546?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Jul 17 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6879649c2097a271a8977222?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Jul 17 |
 | **[Kings III Emergency Communications](https://www.kingsiii.com/)** | **[Logistics & Supply Chain Internship](https://jobright.ai/jobs/info/68796141a7fc8904e39624b4?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Jul 17 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[General Intern](https://jobright.ai/jobs/info/6879701c2097a271a89778f7?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Jul 17 |
 | **[Warren Averett](http://warrenaverett.com/)** | **[2026 Spring Administrative Intern](https://jobright.ai/jobs/info/68794d2a2097a271a8976628?utm_campaign=1050&utm_source=git)** | Destin, FL | On Site | Jul 17 |
@@ -138,10 +139,10 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Program Management](https://jobright.ai/jobs/info/6876c7f7299cbc74b876095c?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Jul 15 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern](https://jobright.ai/jobs/info/6876be36299cbc74b8760395?utm_campaign=1050&utm_source=git)** | 500 Lafayette East, Detroit, MI, 48226, US | On Site | Jul 15 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Supply Chain Co-op/Intern - Spring 2026](https://jobright.ai/jobs/info/6876b099299cbc74b875f944?utm_campaign=1050&utm_source=git)** | US - Tampa, FL (Lithia area) | On Site | Jul 15 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Administration](https://jobright.ai/jobs/info/687712d35cebcd1dd51cef37?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Fall 2025](https://jobright.ai/jobs/info/6876a9be299cbc74b875f50b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[GF Piping Systems](https://www.gfps.com)** | **[Project Specialist](https://jobright.ai/jobs/info/6876c50fae2f413e4a5b3667?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jul 15 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Administration](https://jobright.ai/jobs/info/6876a637299cbc74b875f16f?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Jul 15 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Corporate Strategy Internship - Cleveland](https://jobright.ai/jobs/info/6876ca4eae2f413e4a5b3ab5?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 15 |
+| **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Fall 2025](https://jobright.ai/jobs/info/6876cb675cebcd1dd51cc801?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[WEX](http://www.wexinc.com)** | **[Technology Operations Intern](https://jobright.ai/jobs/info/6876902d299cbc74b875e3d5?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Jul 15 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Logistics Fall '25](https://jobright.ai/jobs/info/6876bb585cebcd1dd51cbda7?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Jul 15 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student-Office Manager](https://jobright.ai/jobs/info/68767950ae2f413e4a5b0068?utm_campaign=1050&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 15 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 15 |
 | **[Zimmer Biomet](https://www.zimmerbiomet.com/en)** | **[2025 Fall Intern, Clinical Affairs](https://jobright.ai/jobs/info/687614be5cebcd1dd51c6716?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 15 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Operations Office Student Assistant](https://jobright.ai/jobs/info/68763800299cbc74b875b93c?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Jul 15 |
+| **[Benchmark](http://www.bench.com)** | **[Intern - Project Management / Documentation Control Intern](https://jobright.ai/jobs/info/68580fdfb2d78a446c619e79?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Jul 15 |
 | **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy SCH](https://jobright.ai/jobs/info/68767f19ae2f413e4a5b03af?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jul 15 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68761bdeae2f413e4a5acfd8?utm_campaign=1050&utm_source=git)** | Greenwood, MS | On Site | Jul 14 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
 | **[NPower](http://www.npower.org/)** | **[Project Manager - Tech Training Opportunity](https://jobright.ai/jobs/info/687605e3299cbc74b875a00b?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Jul 14 |
 | **[Belmont University](http://www.belmont.edu/)** | **[Belmont Mansion - Office Assistant](https://jobright.ai/jobs/info/687865ef866a435525ab8fbe?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jul 14 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6875b3e15cebcd1dd51c2de9?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jul 14 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6875a6e7ae2f413e4a5a8b50?utm_campaign=1050&utm_source=git)** | Odessa, TX | On Site | Jul 14 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6875a624299cbc74b875691f?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

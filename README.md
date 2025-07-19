@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Confidential Jobs](https://execthread.com)** | **[Temporary Administrative Support](https://jobright.ai/jobs/info/687afb5d2097a271a8982128?utm_campaign=1050&utm_source=git)** | Holbrook, NY | Hybrid | Jul 18 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b1f6ded63844c944a6ab1?utm_campaign=1050&utm_source=git)** | Dothan, AL | On Site | Jul 18 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b565a764c3d7411c32086?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Jul 18 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b1f6ded63844c944a6ab1?utm_campaign=1050&utm_source=git)** | Dothan, AL | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b40eaed63844c944a70ab?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jul 18 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b5835ed63844c944a764f?utm_campaign=1050&utm_source=git)** | El Dorado Hills, CA | On Site | Jul 18 |
 | **[Jobright.ai](https://jobright.ai)** | **[Website Project Manager, Internship, (Remote)](https://jobright.ai/jobs/info/687b29dfed63844c944a6c58?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/687b35d9ed63844c944a6e4a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Co-op/Intern: Global Logistics/Transportation (Spring 2026)](https://jobright.ai/jobs/info/687b24812097a271a89828cf?utm_campaign=1050&utm_source=git)** | Murrysville, PA | Hybrid | Jul 18 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6877f2aaae2f413e4a5be4b4?utm_campaign=1050&utm_source=git)** | Mission, TX | On Site | Jul 16 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - CAREER EXPLORATION PROGRAM (2025 COHORT 3)](https://jobright.ai/jobs/info/6877ee8fae2f413e4a5be352?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jul 16 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/687808545cebcd1dd51d7294?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Jul 16 |
-| **[SAIC](http://www.saic.com)** | **[Program Management Operations Intern](https://jobright.ai/jobs/info/6877e9cfae2f413e4a5be12e?utm_campaign=1050&utm_source=git)** | Reston, VA | Remote | Jul 16 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-Project SEARCH Intern - Houston, TX](https://jobright.ai/jobs/info/6877df77ae2f413e4a5bdd1e?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 16 |
 | **[Health Dimensions Group](http://healthdimensionsgroup.com)** | **[Office Assistant Internship](https://jobright.ai/jobs/info/68229d7a2c167bd8cb6a2ce1?utm_campaign=1050&utm_source=git)** | Owen, WI | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern Jupiter & Stuart](https://jobright.ai/jobs/info/685ac7491451c57921b2e46e?utm_campaign=1050&utm_source=git)** | Jupiter, FL | On Site | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Reynolds Lake Oconee](http://reynoldslakeoconee.com)** | **[Intern - Golf Operations](https://jobright.ai/jobs/info/6876ed1a5cebcd1dd51cda5d?utm_campaign=1050&utm_source=git)** | Greensboro, GA | On Site | Jul 15 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6877042b299cbc74b8762b1d?utm_campaign=1050&utm_source=git)** | Lake Jackson, TX | On Site | Jul 15 |
 | ↳ | **[Branch Operations Intern (Bilingual Preferred)](https://jobright.ai/jobs/info/687706cb5cebcd1dd51ce8c8?utm_campaign=1050&utm_source=git)** | Lufkin, TX | On Site | Jul 15 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6876f7535cebcd1dd51ce01f?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

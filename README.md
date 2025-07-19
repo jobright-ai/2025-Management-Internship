@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Confidential Jobs](https://execthread.com)** | **[Temporary Administrative Support](https://jobright.ai/jobs/info/687afb5d2097a271a8982128?utm_campaign=1050&utm_source=git)** | Holbrook, NY | Hybrid | Jul 18 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/687aba45ed63844c944a53fd?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | **[The University of Kansas](http://www.spencerart.ku.edu/)** | **[Office Assistant](https://jobright.ai/jobs/info/687aa1cced63844c944a48ea?utm_campaign=1050&utm_source=git)** | Lawrence, KS | On Site | Jul 18 |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/687b089d2097a271a8982486?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 18 |
 | **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Strategy Analyst (Summer 2026 Start Dates)](https://jobright.ai/jobs/info/687aa022ed63844c944a483a?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 18 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Co-op/Intern: Global Logistics/Transportation (Spring 2026)](https://jobright.ai/jobs/info/687a9ec5ed63844c944a4787?utm_campaign=1050&utm_source=git)** | Murrysville, Pennsylvania | Hybrid | Jul 18 |
 | **[Raymond James](http://www.raymondjames.com)** | **[Branch Intern - Lakeland, FL 3HU](https://jobright.ai/jobs/info/687a980e2097a271a897ff0b?utm_campaign=1050&utm_source=git)** | Lakeland, Florida - United States | On Site | Jul 18 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-Op, Airport Customer Service PMO (Fall 2025)](https://jobright.ai/jobs/info/68784232ae2f413e4a5c0d73?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68783d465cebcd1dd51d8a95?utm_campaign=1050&utm_source=git)** | Richland, MI | On Site | Jul 16 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b505?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| **[Scoular](http://www.scoular.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6878361a5cebcd1dd51d88cf?utm_campaign=1050&utm_source=git)** | Minneapolis, KS | On Site | Jul 16 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/687835455cebcd1dd51d8863?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 16 |
 | **[American University](http://american.edu)** | **[Administrative Support (Student)(FWS)](https://jobright.ai/jobs/info/687850f7ae2f413e4a5c1763?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 16 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68785ca1ae2f413e4a5c1dac?utm_campaign=1050&utm_source=git)** | Cleveland, MS | On Site | Jul 16 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Program Management](https://jobright.ai/jobs/info/6876c7f7299cbc74b876095c?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Jul 15 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern](https://jobright.ai/jobs/info/6876be36299cbc74b8760395?utm_campaign=1050&utm_source=git)** | 500 Lafayette East, Detroit, MI, 48226, US | On Site | Jul 15 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Supply Chain Co-op/Intern - Spring 2026](https://jobright.ai/jobs/info/6876b099299cbc74b875f944?utm_campaign=1050&utm_source=git)** | US - Tampa, FL (Lithia area) | On Site | Jul 15 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Administration](https://jobright.ai/jobs/info/687712d35cebcd1dd51cef37?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Fall 2025](https://jobright.ai/jobs/info/6876a9be299cbc74b875f50b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[GF Piping Systems](https://www.gfps.com)** | **[Project Specialist](https://jobright.ai/jobs/info/6876c50fae2f413e4a5b3667?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jul 15 |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Administration](https://jobright.ai/jobs/info/6876a637299cbc74b875f16f?utm_campaign=1050&utm_source=git)** | Paramus, NJ | Hybrid | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

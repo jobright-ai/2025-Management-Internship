@@ -107,6 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Avancez LLC](https://www.avancezassembly.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6840f2c2aa581d89a8330b44?utm_campaign=1050&utm_source=git)** | Greater Lansing | On Site | Jul 18 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/67f43e51b7dffe15a48a0823?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jul 18 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Workplace Operations (Fall 2025)](https://jobright.ai/jobs/info/6879efd3a7fc8904e39671d5?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 17 |
+| **[UBS](https://www.ubs.com)** | **[Internship](https://jobright.ai/jobs/info/687c7f87764c3d7411c38868?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/687c6958ed63844c944ad4b5?utm_campaign=1050&utm_source=git)** | Sewickley, PA | On Site | Jul 17 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6879ab14a7fc8904e3964751?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jul 17 |
 | **[SBA Communications](http://www.sbasite.com)** | **[Corporate Sustainability Intern](https://jobright.ai/jobs/info/685c30540ae4e22c5a9cd230?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | On Site | Jul 17 |
 | **[Northwest Cascade Inc.](http://www.nwcascade.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/687997262097a271a897892b?utm_campaign=1050&utm_source=git)** | PUYALLUP, WA | On Site | Jul 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025/Spring 2026 - Project Management Intern - 90396189 - New York](https://jobright.ai/jobs/info/687801a6866a435525ab5f35?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Northern Texas PGA](https://www.ntpga.com)** | **[East Texas Junior Tour Tournament Operations Internship (Tyler, Longview) - Northern Texas PGA (Tyler · TX)](https://jobright.ai/jobs/info/68782265866a435525ab6fd7?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Jul 16 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern- Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c38178?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Jul 16 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/68781a02866a435525ab6bdf?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jul 16 |
-| **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6877f4c15cebcd1dd51d65d6?utm_campaign=1050&utm_source=git)** | BUFFALO, NY CORPORATE | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

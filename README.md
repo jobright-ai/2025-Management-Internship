@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Website Project Manager, Internship, (Remote)](https://jobright.ai/jobs/info/687cbc1bed63844c944b12e7?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 20 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee- University Hotel- Service Staff Lead](https://jobright.ai/jobs/info/687cbc17ed63844c944b12e3?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jul 20 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Office Assistant-2](https://jobright.ai/jobs/info/687cb769764c3d7411c3b8a5?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Jul 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - 2nd Term](https://jobright.ai/jobs/info/687cb73ced63844c944b12b7?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Jul 20 |
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[CSS Student Office Assistant](https://jobright.ai/jobs/info/687cb702764c3d7411c3b889?utm_campaign=1050&utm_source=git)** | Oberlin, OH | On Site | Jul 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TriHealth](http://www.trihealth.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/68782be0866a435525ab74b5?utm_campaign=1050&utm_source=git)** | 625 Eden Park Dr, CINCINNATI, OH, 45202, US | On Site | Jul 16 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Work Study: Administrative Intern - Dept. of Nutritional Sciences](https://jobright.ai/jobs/info/68782666ae2f413e4a5c02e9?utm_campaign=1050&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 16 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/685b3453605301f162a78723?utm_campaign=1050&utm_source=git)** | Fort Belvoir, VA | On Site | Jul 16 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department - Strategy & Industry Research Intern](https://jobright.ai/jobs/info/687887455cebcd1dd51db751?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| **[City of Gainesville](http://www.cityofgainesville.org/)** | **[Fleet Intern](https://jobright.ai/jobs/info/6878193fae2f413e4a5bfcae?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

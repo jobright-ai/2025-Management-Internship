@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Office Assistant-2](https://jobright.ai/jobs/info/687cb769764c3d7411c3b8a5?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Jul 20 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - 2nd Term](https://jobright.ai/jobs/info/687cb73ced63844c944b12b7?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Jul 20 |
+| **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[CSS Student Office Assistant](https://jobright.ai/jobs/info/687cb702764c3d7411c3b889?utm_campaign=1050&utm_source=git)** | Oberlin, OH | On Site | Jul 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c513eed63844c944acb47?utm_campaign=1050&utm_source=git)** | Pickens, SC | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c473eed63844c944aca0a?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bad31764c3d7411c34bac?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Jul 19 |
@@ -82,8 +85,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b40eaed63844c944a70ab?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b96e1764c3d7411c33f9e?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Jul 18 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b5835ed63844c944a764f?utm_campaign=1050&utm_source=git)** | El Dorado Hills, CA | On Site | Jul 18 |
+| **[CoxHealth](https://www.coxhealth.com/)** | **[Lead Warehouse Technician - Warehouse Operations - Internal Only](https://jobright.ai/jobs/info/687caa82764c3d7411c3af2c?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jul 18 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[PMO and Clerical Support Intern (IT Intern 1)](https://jobright.ai/jobs/info/687c9da12097a271a898be94?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Jul 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/687b35d9ed63844c944a6e4a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| ↳ | **[Special Project Coordinator](https://jobright.ai/jobs/info/687c8831764c3d7411c38d83?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Co-op/Intern: Global Logistics/Transportation (Spring 2026)](https://jobright.ai/jobs/info/687b24812097a271a89828cf?utm_campaign=1050&utm_source=git)** | Murrysville, PA | Hybrid | Jul 18 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 18 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68296f36e24209bb5e385c59?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 18 |
@@ -115,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[SBA Communications](http://www.sbasite.com)** | **[Corporate Sustainability Intern](https://jobright.ai/jobs/info/685c30540ae4e22c5a9cd230?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | On Site | Jul 17 |
 | **[Northwest Cascade Inc.](http://www.nwcascade.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/687997262097a271a897892b?utm_campaign=1050&utm_source=git)** | PUYALLUP, WA | On Site | Jul 17 |
 | **[DAT Freight & Analytics](https://www.dat.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68797e89a7fc8904e39633f5?utm_campaign=1050&utm_source=git)** | Beaverton, OR, USA | Hybrid | Jul 17 |
+| **[Impulse](http://impulse.net/)** | **[Administrative Trainee - Part-Time](https://jobright.ai/jobs/info/68799eb6ed63844c9449cf58?utm_campaign=1050&utm_source=git)** | Goleta, CA | On Site | Jul 17 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6879636da7fc8904e3962546?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Jul 17 |
 | **[Kings III Emergency Communications](https://www.kingsiii.com/)** | **[Logistics & Supply Chain Internship](https://jobright.ai/jobs/info/68796141a7fc8904e39624b4?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Jul 17 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[General Intern](https://jobright.ai/jobs/info/6879701c2097a271a89778f7?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Jul 17 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/687835455cebcd1dd51d8863?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 16 |
 | **[American University](http://american.edu)** | **[Administrative Support (Student)(FWS)](https://jobright.ai/jobs/info/687850f7ae2f413e4a5c1763?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 16 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68785ca1ae2f413e4a5c1dac?utm_campaign=1050&utm_source=git)** | Cleveland, MS | On Site | Jul 16 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Work Study: Administrative Intern - Dept. of Nutritional Sciences](https://jobright.ai/jobs/info/68782cca5cebcd1dd51d8581?utm_campaign=1050&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 16 |
 | **[TriHealth](http://www.trihealth.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/68782be0866a435525ab74b5?utm_campaign=1050&utm_source=git)** | 625 Eden Park Dr, CINCINNATI, OH, 45202, US | On Site | Jul 16 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Work Study: Administrative Intern - Dept. of Nutritional Sciences](https://jobright.ai/jobs/info/68782666ae2f413e4a5c02e9?utm_campaign=1050&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 16 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/685b3453605301f162a78723?utm_campaign=1050&utm_source=git)** | Fort Belvoir, VA | On Site | Jul 16 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department - Strategy & Industry Research Intern](https://jobright.ai/jobs/info/687887455cebcd1dd51db751?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[City of Gainesville](http://www.cityofgainesville.org/)** | **[Fleet Intern](https://jobright.ai/jobs/info/6878193fae2f413e4a5bfcae?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Jul 16 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68782b74ae2f413e4a5c0592?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jul 16 |
-| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Logistics Internship - Fall 2025](https://jobright.ai/jobs/info/68780677ae2f413e4a5bf26b?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Jul 16 |
-| **[Formlabs](http://www.formlabs.com)** | **[Sourcing Program Management Intern (Fall 2025)](https://jobright.ai/jobs/info/687805c7ae2f413e4a5bf20a?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Jul 16 |
-| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Intern](https://jobright.ai/jobs/info/687802e8866a435525ab5fba?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
-| **[Amtrak](https://amtrakstations.com/)** | **[Fall 2025/Spring 2026 - Project Management Intern - 90396189 - New York](https://jobright.ai/jobs/info/687801a6866a435525ab5f35?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

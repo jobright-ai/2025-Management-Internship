@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c473eed63844c944aca0a?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bad31764c3d7411c34bac?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Jul 19 |
 | **[Maximus](http://www.maximus.com/)** | **[Technical Program Manager - Skillbridge (Transitioning Military) Program](https://jobright.ai/jobs/info/6847b7ddd9bfeccf6f35b558?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[Website Project Manager, Internship, (Remote)](https://jobright.ai/jobs/info/687bc4952097a271a8987370?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - CAREER EXPLORATION PROGRAM (2025 COHORT 3)](https://jobright.ai/jobs/info/6877ee8fae2f413e4a5be352?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jul 16 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/687808545cebcd1dd51d7294?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Jul 16 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-Project SEARCH Intern - Houston, TX](https://jobright.ai/jobs/info/6877df77ae2f413e4a5bdd1e?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 16 |
-| **[Health Dimensions Group](http://healthdimensionsgroup.com)** | **[Office Assistant Internship](https://jobright.ai/jobs/info/68229d7a2c167bd8cb6a2ce1?utm_campaign=1050&utm_source=git)** | Owen, WI | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

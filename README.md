@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Logistics Internship](https://jobright.ai/jobs/info/687e5c4bdb19f31cf0d69a6f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[Raymond James](http://www.raymondjames.com)** | **[Branch Intern - Gainesville, FL 3HB](https://jobright.ai/jobs/info/687e5be22097a271a899480b?utm_campaign=1050&utm_source=git)** | Gainesville, Florida - United States | On Site | Jul 21 |
+| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Supply Chain & Operations Internship](https://jobright.ai/jobs/info/687e567f764c3d7411c42c25?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Internship #1149](https://jobright.ai/jobs/info/687e5032db19f31cf0d696f1?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Jul 21 |
+| **[UNC Health](https://www.unchealth.org)** | **[Administrative Fellow - UNC System Operations Admin](https://jobright.ai/jobs/info/687e4486db19f31cf0d69097?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | Jul 21 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1114](https://jobright.ai/jobs/info/687e19ad2097a271a89931ce?utm_campaign=1050&utm_source=git)** | Holmen, WI | On Site | Jul 21 |
 | ↳ | **[Retail Management Intern #874](https://jobright.ai/jobs/info/687e1430764c3d7411c41494?utm_campaign=1050&utm_source=git)** | Chisago City, MN | On Site | Jul 21 |
 | ↳ | **[Retail Management Intern #275](https://jobright.ai/jobs/info/687e1366d0683e0ce5860e81?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Jul 21 |
@@ -98,7 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b5835ed63844c944a764f?utm_campaign=1050&utm_source=git)** | El Dorado Hills, CA | On Site | Jul 18 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Lead Warehouse Technician - Warehouse Operations - Internal Only](https://jobright.ai/jobs/info/687caa82764c3d7411c3af2c?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jul 18 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[PMO and Clerical Support Intern (IT Intern 1)](https://jobright.ai/jobs/info/687c9da12097a271a898be94?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Jul 18 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/687b35d9ed63844c944a6e4a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 18 |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/687c8831764c3d7411c38d83?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Co-op/Intern: Global Logistics/Transportation (Spring 2026)](https://jobright.ai/jobs/info/687b24812097a271a89828cf?utm_campaign=1050&utm_source=git)** | Murrysville, PA | Hybrid | Jul 18 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jul 18 |
 | ↳ | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68296f36e24209bb5e385c59?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Logistics Intern (September-December)](https://jobright.ai/jobs/info/687857ccae2f413e4a5c1ad9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 16 |
 | **[Slate Studios](http://slate-nyc.com)** | **[Executive Assistant Intern (Freelance) - Los Angeles](https://jobright.ai/jobs/info/68785713866a435525ab884f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
 | **[TriHealth](http://www.trihealth.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/68786070866a435525ab8ce5?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 16 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-Op, Airport Customer Service PMO (Fall 2025)](https://jobright.ai/jobs/info/68784232ae2f413e4a5c0d73?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68783d465cebcd1dd51d8a95?utm_campaign=1050&utm_source=git)** | Richland, MI | On Site | Jul 16 |
-| **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b505?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 16 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/687835455cebcd1dd51d8863?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 16 |
-| **[American University](http://american.edu)** | **[Administrative Support (Student)(FWS)](https://jobright.ai/jobs/info/687850f7ae2f413e4a5c1763?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

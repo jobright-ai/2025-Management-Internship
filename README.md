@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1114](https://jobright.ai/jobs/info/687e19ad2097a271a89931ce?utm_campaign=1050&utm_source=git)** | Holmen, WI | On Site | Jul 21 |
+| ↳ | **[Retail Management Intern #874](https://jobright.ai/jobs/info/687e1430764c3d7411c41494?utm_campaign=1050&utm_source=git)** | Chisago City, MN | On Site | Jul 21 |
+| ↳ | **[Retail Management Intern #275](https://jobright.ai/jobs/info/687e1366d0683e0ce5860e81?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Jul 21 |
+| ↳ | **[Retail Management Intern #615](https://jobright.ai/jobs/info/687e1292d0683e0ce5860dd9?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Jul 21 |
+| ↳ | **[Retail Management Intern #301](https://jobright.ai/jobs/info/687e11f9764c3d7411c41373?utm_campaign=1050&utm_source=git)** | River Falls, WI | On Site | Jul 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687da2f0ed63844c944b2e4d?utm_campaign=1050&utm_source=git)** | Rocky Mount, VA | On Site | Jul 20 |
 | ↳ | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/687d9499ed63844c944b2d31?utm_campaign=1050&utm_source=git)** | Cathedral City, CA | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2025 Program Intern (BS/MS)](https://jobright.ai/jobs/info/687b8bd42097a271a8984fc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 20 |
@@ -64,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee- University Hotel- Service Staff Lead](https://jobright.ai/jobs/info/687cbc17ed63844c944b12e3?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jul 20 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Office Assistant-2](https://jobright.ai/jobs/info/687cb769764c3d7411c3b8a5?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Jul 20 |
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[CSS Student Office Assistant](https://jobright.ai/jobs/info/687cb702764c3d7411c3b889?utm_campaign=1050&utm_source=git)** | Oberlin, OH | On Site | Jul 20 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Program Management Support (Energy Conservation Measures)](https://jobright.ai/jobs/info/685f3da57339be0635a28a20?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2025 (Memphis)](https://jobright.ai/jobs/info/687dabcbed63844c944b33df?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 19 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c513eed63844c944acb47?utm_campaign=1050&utm_source=git)** | Pickens, SC | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c473eed63844c944aca0a?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jul 19 |
@@ -122,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Northwest Cascade Inc.](http://www.nwcascade.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/687997262097a271a897892b?utm_campaign=1050&utm_source=git)** | PUYALLUP, WA | On Site | Jul 17 |
 | **[DAT Freight & Analytics](https://www.dat.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68797e89a7fc8904e39633f5?utm_campaign=1050&utm_source=git)** | Beaverton, OR, USA | Hybrid | Jul 17 |
 | **[Impulse](http://impulse.net/)** | **[Administrative Trainee - Part-Time](https://jobright.ai/jobs/info/68799eb6ed63844c9449cf58?utm_campaign=1050&utm_source=git)** | Goleta, CA | On Site | Jul 17 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6879649c2097a271a8977222?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Jul 17 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6879636da7fc8904e3962546?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | Hybrid | Jul 17 |
 | **[Kings III Emergency Communications](https://www.kingsiii.com/)** | **[Logistics & Supply Chain Internship](https://jobright.ai/jobs/info/68796141a7fc8904e39624b4?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Jul 17 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[General Intern](https://jobright.ai/jobs/info/6879701c2097a271a89778f7?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Jul 17 |
 | **[Warren Averett](http://warrenaverett.com/)** | **[2026 Spring Administrative Intern](https://jobright.ai/jobs/info/68794d2a2097a271a8976628?utm_campaign=1050&utm_source=git)** | Destin, FL | On Site | Jul 17 |
@@ -143,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern-Indianapolis](https://jobright.ai/jobs/info/687dbfcc764c3d7411c3e520?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Fall 2025](https://jobright.ai/jobs/info/685ac7491451c57921b2e40b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
 | **[Commonwealth Corporation](http://commcorp.org/)** | **[Program Operations Intern (Fall 2025 Cohort)](https://jobright.ai/jobs/info/6879c1fb2097a271a8979ee0?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Jul 16 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Logistics Intern (September - December)](https://jobright.ai/jobs/info/68785d765cebcd1dd51d9c5d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL Internship & Co-Op 2025](https://jobright.ai/jobs/info/687dabafed63844c944b3388?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 16 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Logistics Intern (September-December)](https://jobright.ai/jobs/info/687857ccae2f413e4a5c1ad9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 16 |
 | **[Slate Studios](http://slate-nyc.com)** | **[Executive Assistant Intern (Freelance) - Los Angeles](https://jobright.ai/jobs/info/68785713866a435525ab884f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68783d465cebcd1dd51d8a95?utm_campaign=1050&utm_source=git)** | Richland, MI | On Site | Jul 16 |
 | **[Dime Community Bank](https://www.dime.com)** | **[Part-Time Project Assistant - Reporting](https://jobright.ai/jobs/info/686df0510d3f4c14b0e5b505?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Executive Director of the Ralston Institute for Behavioral Health and Developmental Disabilities](https://jobright.ai/jobs/info/687835455cebcd1dd51d8863?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jul 16 |
-| **[American University](http://american.edu)** | **[Administrative Support (Student)(FWS)](https://jobright.ai/jobs/info/687850f7ae2f413e4a5c1763?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 16 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68785ca1ae2f413e4a5c1dac?utm_campaign=1050&utm_source=git)** | Cleveland, MS | On Site | Jul 16 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Work Study: Administrative Intern - Dept. of Nutritional Sciences](https://jobright.ai/jobs/info/68782cca5cebcd1dd51d8581?utm_campaign=1050&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 16 |
-| **[TriHealth](http://www.trihealth.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/68782be0866a435525ab74b5?utm_campaign=1050&utm_source=git)** | 625 Eden Park Dr, CINCINNATI, OH, 45202, US | On Site | Jul 16 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/685b3453605301f162a78723?utm_campaign=1050&utm_source=git)** | Fort Belvoir, VA | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

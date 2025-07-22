@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Campus Recreation-Operations Staff (CWS Eligible)](https://jobright.ai/jobs/info/687f5bc69f728042457031fe?utm_campaign=1050&utm_source=git)** | Huntsville, TX | Hybrid | Jul 22 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Office Assistant for CCPD](https://jobright.ai/jobs/info/687f59cf9f72804245703156?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Jul 22 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-ORSP-Administrative](https://jobright.ai/jobs/info/687f5898764c3d7411c4b11e?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jul 22 |
+| **[Jetvoy.com](https://www.jetvoy.com/)** | **[Management Intern](https://jobright.ai/jobs/info/687f1b1c764c3d7411c4935a?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Jul 21 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - COMMUNICATIONS](https://jobright.ai/jobs/info/687f33b72097a271a899bbca?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jul 21 |
 | **[RailPros](http://railpros.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/687ef88edb19f31cf0d6e787?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jul 21 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Soccer Operations Internship](https://jobright.ai/jobs/info/687f00502097a271a8999876?utm_campaign=1050&utm_source=git)** | Terrace Park, OH | On Site | Jul 21 |
@@ -78,6 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687f06aa764c3d7411c48433?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jul 21 |
 | **[Synchrony](https://www.synchrony.com/)** | **[UConn Stamford Digital Technology Center Intern - Fall 2025](https://jobright.ai/jobs/info/68648828c09904860c4e4cf5?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Jul 21 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/685b3453605301f162a78723?utm_campaign=1050&utm_source=git)** | Fort Belvoir, VA | On Site | Jul 21 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Programme Management
+Job ID : 261305](https://jobright.ai/jobs/info/687eabfe2097a271a8996e76?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[MYR Group](https://myrgroup.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/687ea4e9db19f31cf0d6be86?utm_campaign=1050&utm_source=git)** | Santa Fe Springs, California | On Site | Jul 21 |
 | **[Teleflex](http://www.teleflex.com)** | **[International Distribution Center Supervisor](https://jobright.ai/jobs/info/687e9fbc2097a271a899689a?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Jul 21 |
 | **[Health Dimensions Group](http://healthdimensionsgroup.com)** | **[Office Assistant Internship](https://jobright.ai/jobs/info/687e9f462097a271a8996867?utm_campaign=1050&utm_source=git)** | Owen, WI | On Site | Jul 21 |
@@ -108,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[Genworth](https://www.genworth.com)** | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96ef2097a271a8996407?utm_campaign=1050&utm_source=git)** | Remote (Tennessee) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96cbdb19f31cf0d6b746?utm_campaign=1050&utm_source=git)** | Remote (Florida) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96a32097a271a89963df?utm_campaign=1050&utm_source=git)** | Remote (Georgia) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a40?utm_campaign=1050&utm_source=git)** | Remote (Raleigh) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a41?utm_campaign=1050&utm_source=git)** | Remote (Washington, DC Metro - Virginia) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c2097a271a89963ce?utm_campaign=1050&utm_source=git)** | Remote (North Dakota) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a40?utm_campaign=1050&utm_source=git)** | Remote (Raleigh) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968b2097a271a89963c7?utm_campaign=1050&utm_source=git)** | Remote (Indiana) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9689db19f31cf0d6b70c?utm_campaign=1050&utm_source=git)** | Remote (South Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9665764c3d7411c44a1f?utm_campaign=1050&utm_source=git)** | Remote (Missouri) | Remote | Jul 21 |
@@ -155,6 +158,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c513eed63844c944acb47?utm_campaign=1050&utm_source=git)** | Pickens, SC | On Site | Jul 19 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687c473eed63844c944aca0a?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jul 19 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/685213ffb601b8126382fe26?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
-| ↳ | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/685ce4e182b9d8fb9e9c12bd?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
-| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/6724eac52cc59c4dfb69f231?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

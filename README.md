@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687f93b8764c3d7411c4bc01?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 22 |
+| **[Acosta](https://www.acosta.com)** | **[Intern](https://jobright.ai/jobs/info/6822ce469781b4fdfbd9bc01?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Technical Program Manager, Internship, (Remote)](https://jobright.ai/jobs/info/687f755f9f728042457035de?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 CPDC Office Assistant (Work Study)](https://jobright.ai/jobs/info/687f5f9e764c3d7411c4b317?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Jul 22 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Campus Recreation-Operations Staff (CWS Eligible)](https://jobright.ai/jobs/info/687f5bc69f728042457031fe?utm_campaign=1050&utm_source=git)** | Huntsville, TX | Hybrid | Jul 22 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/687ed90e764c3d7411c46a92?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Jul 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/687ed08bdb19f31cf0d6d492?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Jul 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/687f06aa764c3d7411c48433?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jul 21 |
+| **[Synchrony](https://www.synchrony.com/)** | **[UConn Stamford Digital Technology Center Intern - Fall 2025](https://jobright.ai/jobs/info/68648828c09904860c4e4cf5?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Jul 21 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/685b3453605301f162a78723?utm_campaign=1050&utm_source=git)** | Fort Belvoir, VA | On Site | Jul 21 |
 | **[MYR Group](https://myrgroup.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/687ea4e9db19f31cf0d6be86?utm_campaign=1050&utm_source=git)** | Santa Fe Springs, California | On Site | Jul 21 |
 | **[Teleflex](http://www.teleflex.com)** | **[International Distribution Center Supervisor](https://jobright.ai/jobs/info/687e9fbc2097a271a899689a?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Jul 21 |
@@ -105,9 +108,9 @@ For a complete list, click the following sortable link below:
 | **[Genworth](https://www.genworth.com)** | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96ef2097a271a8996407?utm_campaign=1050&utm_source=git)** | Remote (Tennessee) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96cbdb19f31cf0d6b746?utm_campaign=1050&utm_source=git)** | Remote (Florida) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96a32097a271a89963df?utm_campaign=1050&utm_source=git)** | Remote (Georgia) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c2097a271a89963ce?utm_campaign=1050&utm_source=git)** | Remote (North Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a40?utm_campaign=1050&utm_source=git)** | Remote (Raleigh) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a41?utm_campaign=1050&utm_source=git)** | Remote (Washington, DC Metro - Virginia) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c2097a271a89963ce?utm_campaign=1050&utm_source=git)** | Remote (North Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968b2097a271a89963c7?utm_campaign=1050&utm_source=git)** | Remote (Indiana) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9689db19f31cf0d6b70c?utm_campaign=1050&utm_source=git)** | Remote (South Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9665764c3d7411c44a1f?utm_campaign=1050&utm_source=git)** | Remote (Missouri) | Remote | Jul 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/685213ffb601b8126382fe26?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
 | ↳ | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/685ce4e182b9d8fb9e9c12bd?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 19 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/6724eac52cc59c4dfb69f231?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jul 19 |
-| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bad31764c3d7411c34bac?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Jul 19 |
-| **[Maximus](http://www.maximus.com/)** | **[Technical Program Manager - Skillbridge (Transitioning Military) Program](https://jobright.ai/jobs/info/6847b7ddd9bfeccf6f35b558?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Jul 19 |
-| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bbccf764c3d7411c35461?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

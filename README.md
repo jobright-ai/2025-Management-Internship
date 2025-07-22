@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - COMMUNICATIONS](https://jobright.ai/jobs/info/687f33b72097a271a899bbca?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jul 21 |
 | **[RailPros](http://railpros.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/687ef88edb19f31cf0d6e787?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jul 21 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Soccer Operations Internship](https://jobright.ai/jobs/info/687f00502097a271a8999876?utm_campaign=1050&utm_source=git)** | Terrace Park, OH | On Site | Jul 21 |
 | **[MYR Group](https://myrgroup.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/687ee2f02097a271a8998840?utm_campaign=1050&utm_source=git)** | Santa Fe Springs, CA | On Site | Jul 21 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97d62097a271a89964bf?utm_campaign=1050&utm_source=git)** | Remote (NYC Metro - New York) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97cd764c3d7411c44b3e?utm_campaign=1050&utm_source=git)** | Remote (Nebraska) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97c92097a271a89964ac?utm_campaign=1050&utm_source=git)** | Remote (New Hampshire) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bd2097a271a899649e?utm_campaign=1050&utm_source=git)** | Remote (Massachusetts) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bddb19f31cf0d6b813?utm_campaign=1050&utm_source=git)** | Remote (Kentucky) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bd2097a271a899649e?utm_campaign=1050&utm_source=git)** | Remote (Massachusetts) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97b5764c3d7411c44b2a?utm_campaign=1050&utm_source=git)** | Remote (Kansas) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97682097a271a899645a?utm_campaign=1050&utm_source=git)** | Remote (Alabama) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e975f2097a271a8996454?utm_campaign=1050&utm_source=git)** | Remote (North Carolina) | Remote | Jul 21 |
@@ -98,9 +99,9 @@ For a complete list, click the following sortable link below:
 | **[Genworth](https://www.genworth.com)** | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96ef2097a271a8996407?utm_campaign=1050&utm_source=git)** | Remote (Tennessee) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96cbdb19f31cf0d6b746?utm_campaign=1050&utm_source=git)** | Remote (Florida) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96a32097a271a89963df?utm_campaign=1050&utm_source=git)** | Remote (Georgia) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a41?utm_campaign=1050&utm_source=git)** | Remote (Washington, DC Metro - Virginia) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c2097a271a89963ce?utm_campaign=1050&utm_source=git)** | Remote (North Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a40?utm_campaign=1050&utm_source=git)** | Remote (Raleigh) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c2097a271a89963ce?utm_campaign=1050&utm_source=git)** | Remote (North Dakota) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a41?utm_campaign=1050&utm_source=git)** | Remote (Washington, DC Metro - Virginia) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968b2097a271a89963c7?utm_campaign=1050&utm_source=git)** | Remote (Indiana) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9689db19f31cf0d6b70c?utm_campaign=1050&utm_source=git)** | Remote (South Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9665764c3d7411c44a1f?utm_campaign=1050&utm_source=git)** | Remote (Missouri) | Remote | Jul 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant, K-12 Student Success](https://jobright.ai/jobs/info/687ba183764c3d7411c345b5?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 19 |
 | **[Vigor, LLC](http://vigor.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/687bb010764c3d7411c34d50?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687c6170ed63844c944ad24e?utm_campaign=1050&utm_source=git)** | Norcross, GA | On Site | Jul 18 |
-| **[Confidential Jobs](https://execthread.com)** | **[Temporary Administrative Support](https://jobright.ai/jobs/info/687afb5d2097a271a8982128?utm_campaign=1050&utm_source=git)** | Holbrook, NY | Hybrid | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

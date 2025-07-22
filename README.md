@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97d62097a271a89964bf?utm_campaign=1050&utm_source=git)** | Remote (NYC Metro - New York) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97cd764c3d7411c44b3e?utm_campaign=1050&utm_source=git)** | Remote (Nebraska) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97c92097a271a89964ac?utm_campaign=1050&utm_source=git)** | Remote (New Hampshire) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bddb19f31cf0d6b813?utm_campaign=1050&utm_source=git)** | Remote (Kentucky) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bd2097a271a899649e?utm_campaign=1050&utm_source=git)** | Remote (Massachusetts) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bddb19f31cf0d6b813?utm_campaign=1050&utm_source=git)** | Remote (Kentucky) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97b5764c3d7411c44b2a?utm_campaign=1050&utm_source=git)** | Remote (Kansas) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97682097a271a899645a?utm_campaign=1050&utm_source=git)** | Remote (Alabama) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e975f2097a271a8996454?utm_campaign=1050&utm_source=git)** | Remote (North Carolina) | Remote | Jul 21 |
@@ -98,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Genworth](https://www.genworth.com)** | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96ef2097a271a8996407?utm_campaign=1050&utm_source=git)** | Remote (Tennessee) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96cbdb19f31cf0d6b746?utm_campaign=1050&utm_source=git)** | Remote (Florida) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96a32097a271a89963df?utm_campaign=1050&utm_source=git)** | Remote (Georgia) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a40?utm_campaign=1050&utm_source=git)** | Remote (Raleigh) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c2097a271a89963ce?utm_campaign=1050&utm_source=git)** | Remote (North Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a41?utm_campaign=1050&utm_source=git)** | Remote (Washington, DC Metro - Virginia) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c2097a271a89963ce?utm_campaign=1050&utm_source=git)** | Remote (North Dakota) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968c764c3d7411c44a40?utm_campaign=1050&utm_source=git)** | Remote (Raleigh) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e968b2097a271a89963c7?utm_campaign=1050&utm_source=git)** | Remote (Indiana) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9689db19f31cf0d6b70c?utm_campaign=1050&utm_source=git)** | Remote (South Dakota) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9665764c3d7411c44a1f?utm_campaign=1050&utm_source=git)** | Remote (Missouri) | Remote | Jul 21 |
@@ -114,6 +114,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e960c764c3d7411c449e3?utm_campaign=1050&utm_source=git)** | Remote (West Virginia) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e95e1764c3d7411c449c3?utm_campaign=1050&utm_source=git)** | Remote (Richmond) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9589764c3d7411c44984?utm_campaign=1050&utm_source=git)** | Remote (Maryland) | Remote | Jul 21 |
+| **[The New York Foundling](https://www.nyfoundling.org/)** | **[Project Assistant](https://jobright.ai/jobs/info/687f14d92097a271a899a67e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 21 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager - The Villages](https://jobright.ai/jobs/info/687f11ef2097a271a899a518?utm_campaign=1050&utm_source=git)** | The Villages, FL | On Site | Jul 21 |
+| ↳ | **[Psychology Program Manager](https://jobright.ai/jobs/info/687f0cb42097a271a899a348?utm_campaign=1050&utm_source=git)** | Clarksville, TN | On Site | Jul 21 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[Corporate Restaurant Operations Intern](https://jobright.ai/jobs/info/687eb4f2764c3d7411c45a3a?utm_campaign=1050&utm_source=git)** | Miami Beach, FL | On Site | Jul 21 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Operations & Finance Leadership Internship Program (Summer 2026 Start)](https://jobright.ai/jobs/info/687eae922097a271a8996fa7?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 21 |
 | **[Wellpath](https://wellpathcare.com)** | **[Intern](https://jobright.ai/jobs/info/687eadeadb19f31cf0d6c332?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jul 21 |
@@ -128,6 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern #615](https://jobright.ai/jobs/info/687e1292d0683e0ce5860dd9?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Jul 21 |
 | ↳ | **[Retail Management Intern #301](https://jobright.ai/jobs/info/687e11f9764c3d7411c41373?utm_campaign=1050&utm_source=git)** | River Falls, WI | On Site | Jul 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687da2f0ed63844c944b2e4d?utm_campaign=1050&utm_source=git)** | Rocky Mount, VA | On Site | Jul 20 |
+| **[Hanwha Aerospace USA](https://www.hanwhaaerospaceusa.com/)** | **[Intern - Facilities](https://jobright.ai/jobs/info/687f13622097a271a899a60b?utm_campaign=1050&utm_source=git)** | Cheshire, CT | On Site | Jul 20 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Production Supervisor](https://jobright.ai/jobs/info/6827da85b56c7fab935217a5?utm_campaign=1050&utm_source=git)** | Arkansas City, KS | On Site | Jul 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/687d9499ed63844c944b2d31?utm_campaign=1050&utm_source=git)** | Cathedral City, CA | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2025 Program Intern (BS/MS)](https://jobright.ai/jobs/info/687b8bd42097a271a8984fc3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vigor, LLC](http://vigor.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/687bb010764c3d7411c34d50?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687c6170ed63844c944ad24e?utm_campaign=1050&utm_source=git)** | Norcross, GA | On Site | Jul 18 |
 | **[Confidential Jobs](https://execthread.com)** | **[Temporary Administrative Support](https://jobright.ai/jobs/info/687afb5d2097a271a8982128?utm_campaign=1050&utm_source=git)** | Holbrook, NY | Hybrid | Jul 18 |
-| **[Marketech International Corporation USA](https://www.micb2b.com/en/)** | **[Warehouse Staff Intern](https://jobright.ai/jobs/info/687c89abed63844c944aee08?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 18 |
-| **[FORVIA](http://www.forvia.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/687b9ff02097a271a898603d?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Jul 18 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b565a764c3d7411c32086?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Jul 18 |
-| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/687b94572097a271a8985a2e?utm_campaign=1050&utm_source=git)** | Danielsville, PA | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

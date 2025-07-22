@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Technical Program Manager, Internship, (Remote)](https://jobright.ai/jobs/info/687f755f9f728042457035de?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 CPDC Office Assistant (Work Study)](https://jobright.ai/jobs/info/687f5f9e764c3d7411c4b317?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Jul 22 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Campus Recreation-Operations Staff (CWS Eligible)](https://jobright.ai/jobs/info/687f5bc69f728042457031fe?utm_campaign=1050&utm_source=git)** | Huntsville, TX | Hybrid | Jul 22 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Office Assistant for CCPD](https://jobright.ai/jobs/info/687f59cf9f72804245703156?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Jul 22 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-ORSP-Administrative](https://jobright.ai/jobs/info/687f5898764c3d7411c4b11e?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jul 22 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97d62097a271a89964bf?utm_campaign=1050&utm_source=git)** | Remote (NYC Metro - New York) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97cd764c3d7411c44b3e?utm_campaign=1050&utm_source=git)** | Remote (Nebraska) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97c92097a271a89964ac?utm_campaign=1050&utm_source=git)** | Remote (New Hampshire) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bddb19f31cf0d6b813?utm_campaign=1050&utm_source=git)** | Remote (Kentucky) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bd2097a271a899649e?utm_campaign=1050&utm_source=git)** | Remote (Massachusetts) | Remote | Jul 21 |
+| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97bddb19f31cf0d6b813?utm_campaign=1050&utm_source=git)** | Remote (Kentucky) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97b5764c3d7411c44b2a?utm_campaign=1050&utm_source=git)** | Remote (Kansas) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e97682097a271a899645a?utm_campaign=1050&utm_source=git)** | Remote (Alabama) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e975f2097a271a8996454?utm_campaign=1050&utm_source=git)** | Remote (North Carolina) | Remote | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bad31764c3d7411c34bac?utm_campaign=1050&utm_source=git)** | Fairbanks, AK | On Site | Jul 19 |
 | **[Maximus](http://www.maximus.com/)** | **[Technical Program Manager - Skillbridge (Transitioning Military) Program](https://jobright.ai/jobs/info/6847b7ddd9bfeccf6f35b558?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Jul 19 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bbccf764c3d7411c35461?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jul 19 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/685cd63334670cd8c040f289?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 19 |
-| ↳ | **[2026 COO Chief Administrative Office Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c0a88f493779c0156791?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

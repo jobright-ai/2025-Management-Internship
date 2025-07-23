@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688071a62097a271a89a4cac?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 22 |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Albany, GA](https://jobright.ai/jobs/info/688075332097a271a89a4e8e?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Jul 22 |
+| **[BASF](https://www.basf.com/)** | **[MBA Leadership Development Program (LDP) Internship - Summer 2026](https://jobright.ai/jobs/info/688069a09f7280424570af67?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | Hybrid | Jul 22 |
 | **[Shambaugh & Son, L.P.](http://shambaugh.com)** | **[Intern](https://jobright.ai/jobs/info/68805aa49f72804245709d2e?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jul 22 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Administrative Intern - Orlando](https://jobright.ai/jobs/info/68804fdc2097a271a89a2bea?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 22 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Team Sports Operations](https://jobright.ai/jobs/info/688060d89f7280424570a462?utm_campaign=1050&utm_source=git)** | USA-CA - Los Angeles HQ | Hybrid | Jul 22 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[IS Communications & OCM Intern](https://jobright.ai/jobs/info/68804e249f7280424570921d?utm_campaign=1050&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Jul 22 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025-Supply Chain Operations Intern-Murfreesboro, TN](https://jobright.ai/jobs/info/6880475d764c3d7411c50c51?utm_campaign=1050&utm_source=git)** | 1100 New Salem Hwy, Murfreesboro, TN, 37129, US | On Site | Jul 22 |
 | **[NorthStar Memorial Group](http://nsmg.com)** | **[Funeral Director Intern – Nationwide Pipeline Application](https://jobright.ai/jobs/info/6880448a764c3d7411c509ca?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 22 |
@@ -83,10 +87,12 @@ For a complete list, click the following sortable link below:
 | **[Expeditors](http://www.expeditors.com)** | **[Internship - PHX](https://jobright.ai/jobs/info/687f48032097a271a899c61e?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 21 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - COMMUNICATIONS](https://jobright.ai/jobs/info/687f33b72097a271a899bbca?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jul 21 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Project Coordinator](https://jobright.ai/jobs/info/687f12089f72804245700ccd?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 21 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Business Processes and Knowledge Management (Spring, 2025)](https://jobright.ai/jobs/info/688062b42097a271a89a3dca?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/687f01812097a271a8999906?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Jul 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/687f00aedb19f31cf0d6ebc4?utm_campaign=1050&utm_source=git)** | Warren, OH | On Site | Jul 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/687effa32097a271a8999826?utm_campaign=1050&utm_source=git)** | Omaha Metropolitan Area | On Site | Jul 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/687efd6f2097a271a89996b1?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jul 21 |
+| **[TERREPOWER (formerly BBB Industries)](https://www.terrepower.com/)** | **[Program Manager-Intern](https://jobright.ai/jobs/info/68461cd97a49672582cb6693?utm_campaign=1050&utm_source=git)** | Dearborn, MI | On Site | Jul 21 |
 | **[RailPros](http://railpros.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/687ef88edb19f31cf0d6e787?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jul 21 |
 | **[GPD Group](http://gpdgroup.com)** | **[Planning intern](https://jobright.ai/jobs/info/6722853afa7379bc6c6a622c?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Jul 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/687f1bd5764c3d7411c493a3?utm_campaign=1050&utm_source=git)** | Bellevue, NE | On Site | Jul 21 |
@@ -152,10 +158,4 @@ Job ID : 261305](https://jobright.ai/jobs/info/687eabfe2097a271a8996e76?utm_camp
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e9652764c3d7411c44a12?utm_campaign=1050&utm_source=git)** | Remote (South Carolina) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e963f2097a271a89963a6?utm_campaign=1050&utm_source=git)** | Remote (Virginia) | Remote | Jul 21 |
 | ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96392097a271a89963a1?utm_campaign=1050&utm_source=git)** | Remote (Washington, DC Metro - Maryland) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e96322097a271a899639c?utm_campaign=1050&utm_source=git)** | Remote (Washington, DC Metro) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e962edb19f31cf0d6b6cc?utm_campaign=1050&utm_source=git)** | Remote (Lynchburg) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e962d2097a271a8996398?utm_campaign=1050&utm_source=git)** | Remote (Minnesota) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e961a764c3d7411c449ef?utm_campaign=1050&utm_source=git)** | Remote (Wisconsin) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e960c764c3d7411c449e3?utm_campaign=1050&utm_source=git)** | Remote (West Virginia) | Remote | Jul 21 |
-| ↳ | **[CareScout Operations Administrative Intern – Summer 2026](https://jobright.ai/jobs/info/687e95e1764c3d7411c449c3?utm_campaign=1050&utm_source=git)** | Remote (Richmond) | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

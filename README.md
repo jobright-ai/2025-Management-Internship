@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
+| **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/68829859835a903aa07ef29a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688289b2835a903aa07ee8aa?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Jul 24 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/688286f3b54cac0f1e7301f5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Third Way](http://www.thirdway.org/)** | **[Development Intern, Development & External Affairs Program (Fall 2025)](https://jobright.ai/jobs/info/688286406fcd973d15ad9b9f?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 24 |
 | ↳ | **[Operations & Project Intern, Business Operations (Fall 2025)](https://jobright.ai/jobs/info/6882858a6fcd973d15ad9a6f?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 24 |
+| **[The Asia Group](http://the-asia-group.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6882a1ae835a903aa07ef80d?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68828121835a903aa07edf7c?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
 | **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Program Development Intern](https://jobright.ai/jobs/info/68827a0f6fcd973d15ad9557?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68829ff7b54cac0f1e7317b7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/688276166fcd973d15ad944f?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Jul 24 |
 | ↳ | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/68827129b54cac0f1e72f8ef?utm_campaign=1050&utm_source=git)** | Mountain Top, PA | On Site | Jul 24 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68828a076fcd973d15ada292?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Jul 24 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Strategy Summer Scholar](https://jobright.ai/jobs/info/68825f9e6fcd973d15ad8adb?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 24 |
 | ↳ | **[Deloitte - Technology Packages Summer Scholar](https://jobright.ai/jobs/info/6882564d835a903aa07ecbf0?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68825813835a903aa07eccb2?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Jul 24 |
-| **[i9 Sports](http://www.i9sports.com)** | **[Sports Management Internship](https://jobright.ai/jobs/info/68825789b54cac0f1e72ed09?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Jul 24 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882358c6fcd973d15ad75b3?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235826fcd973d15ad75a5?utm_campaign=1050&utm_source=git)** | San Marcos, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882356fb54cac0f1e72dc00?utm_campaign=1050&utm_source=git)** | Houston, Texas | Hybrid | Jul 24 |
@@ -87,18 +91,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235626fcd973d15ad7581?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823561835a903aa07ebc05?utm_campaign=1050&utm_source=git)** | San Antonio, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882355a6fcd973d15ad7576?utm_campaign=1050&utm_source=git)** | Winston Salem, North Carolina | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7566?utm_campaign=1050&utm_source=git)** | New Orleans, Louisiana | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7565?utm_campaign=1050&utm_source=git)** | Denton, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7566?utm_campaign=1050&utm_source=git)** | New Orleans, Louisiana | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354ab54cac0f1e72dbd7?utm_campaign=1050&utm_source=git)** | Rogers, Arkansas | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe5?utm_campaign=1050&utm_source=git)** | Oklahoma City, Oklahoma | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe4?utm_campaign=1050&utm_source=git)** | Dallas, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe3?utm_campaign=1050&utm_source=git)** | Denver, Colorado | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe4?utm_campaign=1050&utm_source=git)** | Dallas, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe5?utm_campaign=1050&utm_source=git)** | Oklahoma City, Oklahoma | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823540b54cac0f1e72dbcc?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823538b54cac0f1e72dbc0?utm_campaign=1050&utm_source=git)** | Austin, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235376fcd973d15ad7559?utm_campaign=1050&utm_source=git)** | Frisco, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb5?utm_campaign=1050&utm_source=git)** | Corpus Christi, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb4?utm_campaign=1050&utm_source=git)** | El Paso, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb3?utm_campaign=1050&utm_source=git)** | Tampa, Florida | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb5?utm_campaign=1050&utm_source=git)** | Corpus Christi, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb6?utm_campaign=1050&utm_source=git)** | Tulsa, Oklahoma | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb7?utm_campaign=1050&utm_source=git)** | Lubbock, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823514835a903aa07ebbaf?utm_campaign=1050&utm_source=git)** | Harlingen, Texas | Hybrid | Jul 24 |
@@ -115,8 +119,8 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68819a4529ad6b2744ae34ea?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Jul 23 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Contracting Admin - Intern](https://jobright.ai/jobs/info/6881962329ad6b2744ae337b?utm_campaign=1050&utm_source=git)** | Norwell, MA | On Site | Jul 23 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Project Management Intern - Fuel Team](https://jobright.ai/jobs/info/68818f60f4f06100f3a27d6d?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
+| **[Penn State University](http://psu.edu)** | **[Kinesiology Part Time Administrative Student Workers](https://jobright.ai/jobs/info/6882a3d8b54cac0f1e7318d6?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Jul 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881897d16ea5743a3739d79?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6881a56329ad6b2744ae3cde?utm_campaign=1050&utm_source=git)** | Odessa, TX | On Site | Jul 23 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818634f4f06100f3a27ad4?utm_campaign=1050&utm_source=git)** | Freeport (TX, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818613f4f06100f3a27aac?utm_campaign=1050&utm_source=git)** | Wilmington (DE, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688185cff4f06100f3a27a55?utm_campaign=1050&utm_source=git)** | Deer Park (TX, USA) | On Site | Jul 23 |
@@ -154,8 +158,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | ↳ | **[Internship](https://jobright.ai/jobs/info/688165e716ea5743a3738cd2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/688165e016ea5743a3738ccd?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jul 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881641129ad6b2744ae1ca4?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 23 |
-| **[Hour Children, Inc.](https://www.hourchildren.org)** | **[Volunteer: Office Clean up](https://jobright.ai/jobs/info/6881b00416ea5743a373b61b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 23 |
-| **[Teamworks](http://www.teamworks.com)** | **[Operations Intern (Fall Semester) - Remote](https://jobright.ai/jobs/info/6881a01916ea5743a373a897?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 23 |
-| **[DYASPURA Digital](www.dyaspura.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/68823095835a903aa07eba94?utm_campaign=1050&utm_source=git)** | Greater Tampa Bay Area | On Site | Jul 23 |
-| **[Uplift Solutions](https://upliftsolutions.org)** | **[Uplift Solutions Internship](https://jobright.ai/jobs/info/68816073f4f06100f3a267f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

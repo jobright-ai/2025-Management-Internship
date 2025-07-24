@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Office Assistant - Health Sciences](https://jobright.ai/jobs/info/68820e95e36ab438ac259a77?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Jul 24 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Strategic Coordination and Management Support
 Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 24 |
 | **[Miravida Living](https://www.miravidaliving.com)** | **[Intern](https://jobright.ai/jobs/info/6881ea27ee15177ae9718ea2?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Jul 24 |
@@ -94,8 +95,8 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688183f029ad6b2744ae2b8c?utm_campaign=1050&utm_source=git)** | Knoxville (TN, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688183ab16ea5743a37399dd?utm_campaign=1050&utm_source=git)** | Collegeville (PA, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881839c29ad6b2744ae2b23?utm_campaign=1050&utm_source=git)** | Elizabethtown (KY, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836e16ea5743a3739979?utm_campaign=1050&utm_source=git)** | Victoria (TX, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836e16ea5743a373997a?utm_campaign=1050&utm_source=git)** | Kankakee (IL, USA) | On Site | Jul 23 |
+| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836e16ea5743a3739979?utm_campaign=1050&utm_source=git)** | Victoria (TX, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836616ea5743a373996d?utm_campaign=1050&utm_source=git)** | Beaumont (TX, USA) | On Site | Jul 23 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Administrative Assistant, Markets Team](https://jobright.ai/jobs/info/6881a70116ea5743a373adb8?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Pinnacle Petroleum, Inc.](http://www.pinnaclepetroleum.com)** | **[Part-Time Filing Clerk/Office Assistant](https://jobright.ai/jobs/info/68816ae229ad6b2744ae205e?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA | On Site | Jul 23 |
@@ -128,8 +129,8 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/68810137f4f06100f3a22e4b?utm_campaign=1050&utm_source=git)** | BRG-Baltimore MD | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881012416ea5743a3734e2a?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881010ff4f06100f3a22e27?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 23 |
-| ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da2?utm_campaign=1050&utm_source=git)** | Emeryville, CA | Hybrid | Jul 23 |
+| ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100b7f4f06100f3a22d95?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100adf4f06100f3a22d87?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881000229ad6b2744addf84?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
@@ -144,6 +145,7 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be6?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
 | ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701b4?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 23 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/68811bf516ea5743a373621d?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | Jul 23 |
+| **[GUESS?, Inc.](http://guess.com/en/)** | **[GUESS Jeans Intern](https://jobright.ai/jobs/info/68821cb34b37ff1fba97bd39?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Jul 23 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern, Mission Critical](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88034070?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6880df0016ea5743a3733923?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jul 23 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/6880da45f4f06100f3a21650?utm_campaign=1050&utm_source=git)** | Medina, OH | On Site | Jul 23 |
@@ -156,6 +158,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | **[Volo Sports](https://www.volosports.com)** | **[Sports Management Internship - Summer/Fall 2025](https://jobright.ai/jobs/info/6881ceaeee15177ae971767f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 22 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - President's Office Assistant](https://jobright.ai/jobs/info/6881d9e81321092fa0061f51?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jul 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688071a62097a271a89a4cac?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 22 |
-| **[Bigeye](https://www.bigeyeagency.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6881cd44ee15177ae971757c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jul 22 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6880a5cc70ad650948c57ffa?utm_campaign=1050&utm_source=git)** | Galesburg, IL | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

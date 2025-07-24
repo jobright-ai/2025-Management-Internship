@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/6881b1f4f4f06100f3a293f5?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Jul 23 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881afa316ea5743a373b5d9?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68819a4529ad6b2744ae34ea?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Jul 23 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Contracting Admin - Intern](https://jobright.ai/jobs/info/6881962329ad6b2744ae337b?utm_campaign=1050&utm_source=git)** | Norwell, MA | On Site | Jul 23 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Project Management Intern - Fuel Team](https://jobright.ai/jobs/info/68818f60f4f06100f3a27d6d?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
@@ -99,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship](https://jobright.ai/jobs/info/688165e716ea5743a3738cd2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/688165e016ea5743a3738ccd?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jul 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881641129ad6b2744ae1ca4?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 23 |
+| **[Hour Children, Inc.](https://www.hourchildren.org)** | **[Volunteer: Office Clean up](https://jobright.ai/jobs/info/6881b00416ea5743a373b61b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Teamworks](http://www.teamworks.com)** | **[Operations Intern (Fall Semester) - Remote](https://jobright.ai/jobs/info/6881a01916ea5743a373a897?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 23 |
 | **[Uplift Solutions](https://upliftsolutions.org)** | **[Uplift Solutions Internship](https://jobright.ai/jobs/info/68816073f4f06100f3a267f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/68815c1729ad6b2744ae1961?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Jul 23 |
@@ -122,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/68810137f4f06100f3a22e4b?utm_campaign=1050&utm_source=git)** | BRG-Baltimore MD | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881012416ea5743a3734e2a?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881010ff4f06100f3a22e27?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 23 |
-| ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da2?utm_campaign=1050&utm_source=git)** | Emeryville, CA | Hybrid | Jul 23 |
+| ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100b7f4f06100f3a22d95?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100adf4f06100f3a22d87?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881000229ad6b2744addf84?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
@@ -136,7 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Summer Intern](https://jobright.ai/jobs/info/6880f3ff29ad6b2744add7b4?utm_campaign=1050&utm_source=git)** | Charlotte, NC - 1001 Blythe Blvd | On Site | Jul 23 |
 | **[Jaws Youth Playbook](https://linktr.ee/jawsyouthplaybook)** | **[Special Events Intern](https://jobright.ai/jobs/info/68811caa29ad6b2744adf41e?utm_campaign=1050&utm_source=git)** | West Deptford, NJ | On Site | Jul 23 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be6?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701b4?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 23 |
+| **[i9 Sports](http://www.i9sports.com)** | **[Sports Management Intern](https://jobright.ai/jobs/info/6881b719f4f06100f3a295f5?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701b4?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 23 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/68811bf516ea5743a373621d?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | Jul 23 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern, Mission Critical](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88034070?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 23 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6880df0016ea5743a3733923?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jul 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688087829f7280424570c4c4?utm_campaign=1050&utm_source=git)** | Pitcairn, PA | On Site | Jul 22 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Albany, GA](https://jobright.ai/jobs/info/688075332097a271a89a4e8e?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Jul 22 |
 | **[State of Washington](http://access.wa.gov/)** | **[Climate Pollution Reduction Operations Administrative Assistant (Administrative Assistant 3)](https://jobright.ai/jobs/info/68817f67f4f06100f3a275f3?utm_campaign=1050&utm_source=git)** | Walla Walla, WA | Hybrid | Jul 22 |
-| **[Kalamazoo Wings](http://www.kwings.com)** | **[Game Operations Intern / Wings Event Center](https://jobright.ai/jobs/info/68815b30f4f06100f3a2665e?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jul 22 |
-| **[BASF](https://www.basf.com/)** | **[MBA Leadership Development Program (LDP) Internship - Summer 2026](https://jobright.ai/jobs/info/688069a09f7280424570af67?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | Hybrid | Jul 22 |
-| **[Belmont University](http://www.belmont.edu/)** | **[Faith Based Engagement & Church Relations - Office Assistant](https://jobright.ai/jobs/info/68817ce2f4f06100f3a274ca?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jul 22 |
-| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Athletics Hourly Assistant Positions](https://jobright.ai/jobs/info/6880864e9f7280424570c37f?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

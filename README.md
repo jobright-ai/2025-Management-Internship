@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68819a4529ad6b2744ae34ea?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Jul 23 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Contracting Admin - Intern](https://jobright.ai/jobs/info/6881962329ad6b2744ae337b?utm_campaign=1050&utm_source=git)** | Norwell, MA | On Site | Jul 23 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Project Management Intern - Fuel Team](https://jobright.ai/jobs/info/68818f60f4f06100f3a27d6d?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[Better Health](https://joinbetter.com/)** | **[Chief of Staff – MBA Grad](https://jobright.ai/jobs/info/6881899c29ad6b2744ae2eb5?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881897d16ea5743a3739d79?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6881a56329ad6b2744ae3cde?utm_campaign=1050&utm_source=git)** | Odessa, TX | On Site | Jul 23 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818634f4f06100f3a27ad4?utm_campaign=1050&utm_source=git)** | Freeport (TX, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818613f4f06100f3a27aac?utm_campaign=1050&utm_source=git)** | Wilmington (DE, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688185cff4f06100f3a27a55?utm_campaign=1050&utm_source=git)** | Deer Park (TX, USA) | On Site | Jul 23 |
@@ -86,15 +89,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688183f029ad6b2744ae2b8c?utm_campaign=1050&utm_source=git)** | Knoxville (TN, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688183ab16ea5743a37399dd?utm_campaign=1050&utm_source=git)** | Collegeville (PA, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881839c29ad6b2744ae2b23?utm_campaign=1050&utm_source=git)** | Elizabethtown (KY, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836e16ea5743a3739979?utm_campaign=1050&utm_source=git)** | Victoria (TX, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836e16ea5743a373997a?utm_campaign=1050&utm_source=git)** | Kankakee (IL, USA) | On Site | Jul 23 |
+| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836e16ea5743a3739979?utm_campaign=1050&utm_source=git)** | Victoria (TX, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881836616ea5743a373996d?utm_campaign=1050&utm_source=git)** | Beaumont (TX, USA) | On Site | Jul 23 |
+| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Administrative Assistant, Markets Team](https://jobright.ai/jobs/info/6881a70116ea5743a373adb8?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Pinnacle Petroleum, Inc.](http://www.pinnaclepetroleum.com)** | **[Part-Time Filing Clerk/Office Assistant](https://jobright.ai/jobs/info/68816ae229ad6b2744ae205e?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA | On Site | Jul 23 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/68816a0f29ad6b2744ae2007?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1050&utm_source=git)** | San Antonio, Texas, United States | On Site | Jul 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/688165e716ea5743a3738cd2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/688165e016ea5743a3738ccd?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jul 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881641129ad6b2744ae1ca4?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 23 |
+| **[Teamworks](http://www.teamworks.com)** | **[Operations Intern (Fall Semester) - Remote](https://jobright.ai/jobs/info/6881a01916ea5743a373a897?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Jul 23 |
 | **[Uplift Solutions](https://upliftsolutions.org)** | **[Uplift Solutions Internship](https://jobright.ai/jobs/info/68816073f4f06100f3a267f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/68815c1729ad6b2744ae1961?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Jul 23 |
 | **[Schaeffler](https://www.schaeffler.us)** | **[Administrative Assistant Co-op - Fall 2025](https://jobright.ai/jobs/info/68815b34f4f06100f3a26661?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | On Site | Jul 23 |
@@ -117,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/68810137f4f06100f3a22e4b?utm_campaign=1050&utm_source=git)** | BRG-Baltimore MD | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881012416ea5743a3734e2a?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881010ff4f06100f3a22e27?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 23 |
-| ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da2?utm_campaign=1050&utm_source=git)** | Emeryville, CA | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da1?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
+| ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100d516ea5743a3734da2?utm_campaign=1050&utm_source=git)** | Emeryville, CA | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100b7f4f06100f3a22d95?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/688100adf4f06100f3a22d87?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | ↳ | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6881000229ad6b2744addf84?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BASF](https://www.basf.com/)** | **[MBA Leadership Development Program (LDP) Internship - Summer 2026](https://jobright.ai/jobs/info/688069a09f7280424570af67?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | Hybrid | Jul 22 |
 | **[Belmont University](http://www.belmont.edu/)** | **[Faith Based Engagement & Church Relations - Office Assistant](https://jobright.ai/jobs/info/68817ce2f4f06100f3a274ca?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jul 22 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Athletics Hourly Assistant Positions](https://jobright.ai/jobs/info/6880864e9f7280424570c37f?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Jul 22 |
-| **[Kentucky State University](http://www.kysu.edu/)** | **[FWS Athletics/Game Day Assistant](https://jobright.ai/jobs/info/68813f8e29ad6b2744ae090c?utm_campaign=1050&utm_source=git)** | Frankfort, KY | On Site | Jul 22 |
-| **[Shambaugh & Son, L.P.](http://shambaugh.com)** | **[Intern](https://jobright.ai/jobs/info/68805aa49f72804245709d2e?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jul 22 |
-| **[BASF](https://www.basf.com/)** | **[Supply Chain Professional Development Program (PDP) Internship -Summer 2026](https://jobright.ai/jobs/info/68809ccc70ad650948c57c28?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | Jul 22 |
-| **[Tetra Tech](http://www.tetratech.com)** | **[Administrative Intern - Orlando](https://jobright.ai/jobs/info/68804fdc2097a271a89a2bea?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Jul 22 |
-| **[Better Health](https://joinbetter.com/)** | **[Chief of Staff – MBA Grad](https://jobright.ai/jobs/info/6881697329ad6b2744ae1f9d?utm_campaign=1050&utm_source=git)** | Remote  | Remote | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

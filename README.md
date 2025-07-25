@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6882c0f36fcd973d15adc277?utm_campaign=1050&utm_source=git)** | Picayune, MS | On Site | Jul 24 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882ba896fcd973d15adc05d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Facilities Intern - The Landmark, NYC](https://jobright.ai/jobs/info/6882b9b0835a903aa07f0690?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/68829859835a903aa07ef29a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
@@ -87,12 +91,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235826fcd973d15ad75a5?utm_campaign=1050&utm_source=git)** | San Marcos, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882356fb54cac0f1e72dc00?utm_campaign=1050&utm_source=git)** | Houston, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823564b54cac0f1e72dbf5?utm_campaign=1050&utm_source=git)** | Greenville, South Carolina | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235626fcd973d15ad7582?utm_campaign=1050&utm_source=git)** | Pearland, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235626fcd973d15ad7581?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235626fcd973d15ad7582?utm_campaign=1050&utm_source=git)** | Pearland, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823561835a903aa07ebc05?utm_campaign=1050&utm_source=git)** | San Antonio, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882355a6fcd973d15ad7576?utm_campaign=1050&utm_source=git)** | Winston Salem, North Carolina | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7565?utm_campaign=1050&utm_source=git)** | Denton, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7566?utm_campaign=1050&utm_source=git)** | New Orleans, Louisiana | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7565?utm_campaign=1050&utm_source=git)** | Denton, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354ab54cac0f1e72dbd7?utm_campaign=1050&utm_source=git)** | Rogers, Arkansas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe3?utm_campaign=1050&utm_source=git)** | Denver, Colorado | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe4?utm_campaign=1050&utm_source=git)** | Dallas, Texas | Hybrid | Jul 24 |
@@ -100,11 +104,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823540b54cac0f1e72dbcc?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823538b54cac0f1e72dbc0?utm_campaign=1050&utm_source=git)** | Austin, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235376fcd973d15ad7559?utm_campaign=1050&utm_source=git)** | Frisco, Texas | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb5?utm_campaign=1050&utm_source=git)** | Corpus Christi, Texas | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb4?utm_campaign=1050&utm_source=git)** | El Paso, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb3?utm_campaign=1050&utm_source=git)** | Tampa, Florida | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb6?utm_campaign=1050&utm_source=git)** | Tulsa, Oklahoma | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb4?utm_campaign=1050&utm_source=git)** | El Paso, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb5?utm_campaign=1050&utm_source=git)** | Corpus Christi, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb7?utm_campaign=1050&utm_source=git)** | Lubbock, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb6?utm_campaign=1050&utm_source=git)** | Tulsa, Oklahoma | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823514835a903aa07ebbaf?utm_campaign=1050&utm_source=git)** | Harlingen, Texas | Hybrid | Jul 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Flight Operations – Project Development Office (Spring 2026)](https://jobright.ai/jobs/info/6865f60aec0c6df7ad34d965?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Operations Analyst Program - Summer Analyst (New York Metro & Chicago)](https://jobright.ai/jobs/info/68656e6a4d83b43c7ad63bc5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
@@ -121,6 +125,7 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | **[Maverik, Inc.](https://maverik.com/)** | **[Project Management Intern - Fuel Team](https://jobright.ai/jobs/info/68818f60f4f06100f3a27d6d?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[Penn State University](http://psu.edu)** | **[Kinesiology Part Time Administrative Student Workers](https://jobright.ai/jobs/info/6882a3d8b54cac0f1e7318d6?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Jul 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881897d16ea5743a3739d79?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6881a56329ad6b2744ae3cde?utm_campaign=1050&utm_source=git)** | Odessa, TX | On Site | Jul 23 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818634f4f06100f3a27ad4?utm_campaign=1050&utm_source=git)** | Freeport (TX, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818613f4f06100f3a27aac?utm_campaign=1050&utm_source=git)** | Wilmington (DE, USA) | On Site | Jul 23 |
 | ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688185cff4f06100f3a27a55?utm_campaign=1050&utm_source=git)** | Deer Park (TX, USA) | On Site | Jul 23 |
@@ -153,9 +158,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/6881f3f541fbda106ee6f229?utm_camp
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Administrative Assistant, Markets Team](https://jobright.ai/jobs/info/6881a70116ea5743a373adb8?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Pinnacle Petroleum, Inc.](http://www.pinnaclepetroleum.com)** | **[Part-Time Filing Clerk/Office Assistant](https://jobright.ai/jobs/info/68816ae229ad6b2744ae205e?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA | On Site | Jul 23 |
 | **[Better Health](https://joinbetter.com/)** | **[Chief of Staff](https://jobright.ai/jobs/info/6881899c29ad6b2744ae2eb5?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 23 |
-| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/68816a0f29ad6b2744ae2007?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 23 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/688166fd16ea5743a3738d48?utm_campaign=1050&utm_source=git)** | San Antonio, Texas, United States | On Site | Jul 23 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/688165e716ea5743a3738cd2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jul 23 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/688165e016ea5743a3738ccd?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jul 23 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881641129ad6b2744ae1ca4?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

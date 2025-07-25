@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Ohio](https://jobright.ai/jobs/info/686727788b88049fa28b5a2d?utm_campaign=1050&utm_source=git)** | Batavia, OH | On Site | Jul 25 |
+| **[Colorado State University](http://www.colostate.edu/)** | **[Humanitarian Logistics Internship](https://jobright.ai/jobs/info/68836beab54cac0f1e737d08?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | Hybrid | Jul 25 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Minnesota](https://jobright.ai/jobs/info/686727788b88049fa28b5a48?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 25 |
+| **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
+| **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
+| ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68831d80835a903aa07f3b9a?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Jul 24 |
@@ -90,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[The Asia Group](http://the-asia-group.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6882a1ae835a903aa07ef80d?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68828121835a903aa07edf7c?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
 | **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Program Development Intern](https://jobright.ai/jobs/info/68827a0f6fcd973d15ad9557?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
-| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/68829ff7b54cac0f1e7317b7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/688276166fcd973d15ad944f?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Jul 24 |
 | ↳ | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/68827129b54cac0f1e72f8ef?utm_campaign=1050&utm_source=git)** | Mountain Top, PA | On Site | Jul 24 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68830192b54cac0f1e7347aa?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jul 24 |
@@ -98,12 +103,12 @@ For a complete list, click the following sortable link below:
 | **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Program Development Intern](https://jobright.ai/jobs/info/68826662b54cac0f1e72f3c8?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Operations Intern](https://jobright.ai/jobs/info/68828301835a903aa07ee0a6?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Jul 24 |
 | **[Security First Insurance](http://www.securityfirstflorida.com)** | **[Intern](https://jobright.ai/jobs/info/68825ed66fcd973d15ad8a86?utm_campaign=1050&utm_source=git)** | Ormond Beach, FL | On Site | Jul 24 |
+| **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Championship Management](https://jobright.ai/jobs/info/6883a6ca6fcd973d15ae22bd?utm_campaign=1050&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jul 24 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Continuity Internship](https://jobright.ai/jobs/info/688256196fcd973d15ad8615?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Jul 24 |
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Players Trust Operations Internship](https://jobright.ai/jobs/info/688250c1835a903aa07eca2f?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 24 |
 | **[HUB Sports Boston](https://hubsportsboston.com/)** | **[Sports Management & Operations Intern](https://jobright.ai/jobs/info/68825078b54cac0f1e72e9ef?utm_campaign=1050&utm_source=git)** | Greater Boston | On Site | Jul 24 |
 | **[Raymond James](http://www.raymondjames.com)** | **[Branch Intern - Newport Beach, CA 3AE](https://jobright.ai/jobs/info/68824f266fcd973d15ad82df?utm_campaign=1050&utm_source=git)** | Newport Beach, California - United States | On Site | Jul 24 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Logistics Internship](https://jobright.ai/jobs/info/68824998b54cac0f1e72e58a?utm_campaign=1050&utm_source=git)** | Atlanta,Georgia,United States | On Site | Jul 24 |
-| **[i9 Sports](http://www.i9sports.com)** | **[Sports Management Internship](https://jobright.ai/jobs/info/6883207cb54cac0f1e735f97?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Jul 24 |
 | **[City of New York](http://www1.nyc.gov)** | **[COLLEGE AIDE](https://jobright.ai/jobs/info/688242fa6fcd973d15ad7be9?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Jul 24 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Deloitte - Technology Strategy Summer Scholar](https://jobright.ai/jobs/info/68825f9e6fcd973d15ad8adb?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 24 |
 | ↳ | **[Deloitte - Technology Packages Summer Scholar](https://jobright.ai/jobs/info/6882564d835a903aa07ecbf0?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 24 |
@@ -119,23 +124,27 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7565?utm_campaign=1050&utm_source=git)** | Denton, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7566?utm_campaign=1050&utm_source=git)** | New Orleans, Louisiana | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354ab54cac0f1e72dbd7?utm_campaign=1050&utm_source=git)** | Rogers, Arkansas | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe4?utm_campaign=1050&utm_source=git)** | Dallas, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe3?utm_campaign=1050&utm_source=git)** | Denver, Colorado | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe5?utm_campaign=1050&utm_source=git)** | Oklahoma City, Oklahoma | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe4?utm_campaign=1050&utm_source=git)** | Dallas, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823540b54cac0f1e72dbcc?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823538b54cac0f1e72dbc0?utm_campaign=1050&utm_source=git)** | Austin, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235376fcd973d15ad7559?utm_campaign=1050&utm_source=git)** | Frisco, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb5?utm_campaign=1050&utm_source=git)** | Corpus Christi, Texas | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb3?utm_campaign=1050&utm_source=git)** | Tampa, Florida | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb4?utm_campaign=1050&utm_source=git)** | El Paso, Texas | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb7?utm_campaign=1050&utm_source=git)** | Lubbock, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb3?utm_campaign=1050&utm_source=git)** | Tampa, Florida | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb6?utm_campaign=1050&utm_source=git)** | Tulsa, Oklahoma | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb7?utm_campaign=1050&utm_source=git)** | Lubbock, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823514835a903aa07ebbaf?utm_campaign=1050&utm_source=git)** | Harlingen, Texas | Hybrid | Jul 24 |
+| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/687565db299cbc74b875470b?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jul 24 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Cincinnati](https://jobright.ai/jobs/info/6864431af84fe8d668248b1a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Flight Operations – Project Development Office (Spring 2026)](https://jobright.ai/jobs/info/6865f60aec0c6df7ad34d965?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jul 24 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Operations Analyst Program - Summer Analyst (New York Metro & Chicago)](https://jobright.ai/jobs/info/68656e6a4d83b43c7ad63bc5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | ↳ | **[2026 Operations Analyst Program - Summer Analyst (AZ, DE, OH, TX)](https://jobright.ai/jobs/info/68657710cb2592b1e49b563d?utm_campaign=1050&utm_source=git)** | Newark, DE | On Site | Jul 24 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Office Assistant - Health Sciences](https://jobright.ai/jobs/info/68820e95e36ab438ac259a77?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Jul 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Flight Operations – Business Strategy (Spring 2026)](https://jobright.ai/jobs/info/6865a407db6d75b5ce700856?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/6878f14fed63844c9449763b?utm_campaign=1050&utm_source=git)** | Alexandria, VA | On Site | Jul 24 |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701bc?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jul 24 |
 | **[Miravida Living](https://www.miravidaliving.com)** | **[Intern](https://jobright.ai/jobs/info/6881ea27ee15177ae9718ea2?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Jul 24 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Corporate Strategy Internship - Cleveland](https://jobright.ai/jobs/info/6876ca4eae2f413e4a5b3ab5?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jul 24 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701b6?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jul 23 |
@@ -147,14 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Maverik, Inc.](https://maverik.com/)** | **[Project Management Intern - Fuel Team](https://jobright.ai/jobs/info/68818f60f4f06100f3a27d6d?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
 | **[Penn State University](http://psu.edu)** | **[Kinesiology Part Time Administrative Student Workers](https://jobright.ai/jobs/info/6882a3d8b54cac0f1e7318d6?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Jul 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[U.S. Team Acquisitions Internship](https://jobright.ai/jobs/info/6881897d16ea5743a3739d79?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 23 |
-| **[Dow](https://www.dowchemical.com)** | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818634f4f06100f3a27ad4?utm_campaign=1050&utm_source=git)** | Freeport (TX, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818613f4f06100f3a27aac?utm_campaign=1050&utm_source=git)** | Wilmington (DE, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688185cff4f06100f3a27a55?utm_campaign=1050&utm_source=git)** | Deer Park (TX, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688185caf4f06100f3a27a4b?utm_campaign=1050&utm_source=git)** | Plaquemine (LA, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688185a7f4f06100f3a27a1d?utm_campaign=1050&utm_source=git)** | Auburn (MI, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/688185a029ad6b2744ae2dbe?utm_campaign=1050&utm_source=git)** | Hayward (CA, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881858bf4f06100f3a279ec?utm_campaign=1050&utm_source=git)** | Angleton (TX, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/68818583f4f06100f3a279e0?utm_campaign=1050&utm_source=git)** | Texas City (TX, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881857a16ea5743a3739c6f?utm_campaign=1050&utm_source=git)** | Kendallville (IN, USA) | On Site | Jul 23 |
-| ↳ | **[2025-2026 US Operations Intern/Co-op – FALL POSTING](https://jobright.ai/jobs/info/6881856329ad6b2744ae2d6e?utm_campaign=1050&utm_source=git)** | Greensburg (LA, USA) | On Site | Jul 23 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Foreign Pharmacy Grad - International Pharmacy Intern](https://jobright.ai/jobs/info/6881a56329ad6b2744ae3cde?utm_campaign=1050&utm_source=git)** | Odessa, TX | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

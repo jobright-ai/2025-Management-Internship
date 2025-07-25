@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235626fcd973d15ad7581?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823561835a903aa07ebc05?utm_campaign=1050&utm_source=git)** | San Antonio, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882355a6fcd973d15ad7576?utm_campaign=1050&utm_source=git)** | Winston Salem, North Carolina | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7566?utm_campaign=1050&utm_source=git)** | New Orleans, Louisiana | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7565?utm_campaign=1050&utm_source=git)** | Denton, Texas | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354b6fcd973d15ad7566?utm_campaign=1050&utm_source=git)** | New Orleans, Louisiana | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882354ab54cac0f1e72dbd7?utm_campaign=1050&utm_source=git)** | Rogers, Arkansas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe4?utm_campaign=1050&utm_source=git)** | Dallas, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823545835a903aa07ebbe3?utm_campaign=1050&utm_source=git)** | Denver, Colorado | Hybrid | Jul 24 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823538b54cac0f1e72dbc0?utm_campaign=1050&utm_source=git)** | Austin, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688235376fcd973d15ad7559?utm_campaign=1050&utm_source=git)** | Frisco, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb5?utm_campaign=1050&utm_source=git)** | Corpus Christi, Texas | Hybrid | Jul 24 |
-| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb4?utm_campaign=1050&utm_source=git)** | El Paso, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb3?utm_campaign=1050&utm_source=git)** | Tampa, Florida | Hybrid | Jul 24 |
+| ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882352cb54cac0f1e72dbb4?utm_campaign=1050&utm_source=git)** | El Paso, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb7?utm_campaign=1050&utm_source=git)** | Lubbock, Texas | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/6882351d835a903aa07ebbb6?utm_campaign=1050&utm_source=git)** | Tulsa, Oklahoma | Hybrid | Jul 24 |
 | ↳ | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/68823514835a903aa07ebbaf?utm_campaign=1050&utm_source=git)** | Harlingen, Texas | Hybrid | Jul 24 |

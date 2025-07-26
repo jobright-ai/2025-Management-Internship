@@ -98,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Third Way](http://www.thirdway.org/)** | **[Development Intern, Development & External Affairs Program (Fall 2025)](https://jobright.ai/jobs/info/688452484174df41e0f91ae5?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | ↳ | **[Operations & Project Intern, Business Operations (Fall 2025)](https://jobright.ai/jobs/info/6883db8a6fcd973d15ae3e2c?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern, Mission Critical](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88034070?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 25 |
-| **[ticker](https://www.tickerapp.io)** | **[Business Operations & Strategy Intern](https://jobright.ai/jobs/info/6883b1adb54cac0f1e738df5?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/688484e74174df41e0f94969?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Jul 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6883c38c6fcd973d15ae2fb1?utm_campaign=1050&utm_source=git)** | Antigo, WI | On Site | Jul 25 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6883c4bbb54cac0f1e73969b?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | Jul 25 |
@@ -116,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |
@@ -158,4 +157,5 @@ Job ID : 260592](https://jobright.ai/jobs/info/68844daffbbf032d0006713b?utm_camp
 | ↳ | **[Operations & Project Intern, Business Operations (Fall 2025)](https://jobright.ai/jobs/info/6882858a6fcd973d15ad9a6f?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 24 |
 | **[The Asia Group](http://the-asia-group.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6882a1ae835a903aa07ef80d?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68828121835a903aa07edf7c?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
+| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Program Development Intern](https://jobright.ai/jobs/info/68827a0f6fcd973d15ad9557?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

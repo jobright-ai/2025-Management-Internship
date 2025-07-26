@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Digital Technology Co-op (Internship)](https://jobright.ai/jobs/info/68852edc4174df41e0f96589?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[FLHD Administrative Assistant](https://jobright.ai/jobs/info/6885145ffbbf032d0006beb0?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Jul 26 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
 | **[State of Arizona](https://gaming.az.gov)** | **[PROJECT ASSISTANT INTERN](https://jobright.ai/jobs/info/6884cc7afbbf032d0006b0e2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 26 |
+| **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/684b33e54c5ab8819961d105?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Manager Intern (TikTok Local Services) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b64dd764c3d7411c324bc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/688457954174df41e0f91e0a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Operations Coordinator](https://jobright.ai/jobs/info/688457594174df41e0f91de8?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
@@ -156,6 +158,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/68844daffbbf032d0006713b?utm_camp
 | **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688289b2835a903aa07ee8aa?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Jul 24 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/688286f3b54cac0f1e7301f5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 24 |
-| **[Third Way](http://www.thirdway.org/)** | **[Development Intern, Development & External Affairs Program (Fall 2025)](https://jobright.ai/jobs/info/688286406fcd973d15ad9b9f?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 24 |
-| ↳ | **[Operations & Project Intern, Business Operations (Fall 2025)](https://jobright.ai/jobs/info/6882858a6fcd973d15ad9a6f?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

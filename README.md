@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Utah University](http://www.suu.edu/)** | **[FLHD Administrative Assistant](https://jobright.ai/jobs/info/6885145ffbbf032d0006beb0?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Jul 26 |
+| **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
 | **[State of Arizona](https://gaming.az.gov)** | **[PROJECT ASSISTANT INTERN](https://jobright.ai/jobs/info/6884cc7afbbf032d0006b0e2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Manager Intern (TikTok Local Services) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b64dd764c3d7411c324bc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/688457954174df41e0f91e0a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
@@ -91,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Operations Analytics Intern](https://jobright.ai/jobs/info/6883d5036fcd973d15ae39fc?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Jul 25 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Facilities Support Management, Emerging Talent Intern](https://jobright.ai/jobs/info/6883d4df6fcd973d15ae39bd?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/6883d3a0b54cac0f1e739efc?utm_campaign=1050&utm_source=git)** | Boston, MA, US | On Site | Jul 25 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Jul 25 |
 | **[Related Group](http://relatedgroup.com/)** | **[The Related Group Internship](https://jobright.ai/jobs/info/688457d8fbbf032d00067b79?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jul 25 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Strategic Insights Intern](https://jobright.ai/jobs/info/6883ccb1b54cac0f1e739956?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Sturdy Health](https://www.sturdyhealth.org)** | **[Performance Excellence Co-Op; Per Diem](https://jobright.ai/jobs/info/6883c813835a903aa07f7901?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Jul 25 |
@@ -155,7 +158,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/68844daffbbf032d0006713b?utm_camp
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/688286f3b54cac0f1e7301f5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Third Way](http://www.thirdway.org/)** | **[Development Intern, Development & External Affairs Program (Fall 2025)](https://jobright.ai/jobs/info/688286406fcd973d15ad9b9f?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 24 |
 | ↳ | **[Operations & Project Intern, Business Operations (Fall 2025)](https://jobright.ai/jobs/info/6882858a6fcd973d15ad9a6f?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 24 |
-| **[The Asia Group](http://the-asia-group.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6882a1ae835a903aa07ef80d?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 24 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68828121835a903aa07edf7c?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jul 24 |
-| **[Search for Common Ground](https://www.sfcg.org/)** | **[Internship: Global Program Development Intern](https://jobright.ai/jobs/info/68827a0f6fcd973d15ad9557?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

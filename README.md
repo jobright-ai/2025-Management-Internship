@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAMBC Inc. ](http://www.aambc.org)** | **[Literary Project Management Intern](https://jobright.ai/jobs/info/68855f034174df41e0f968cd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jul 26 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688549dbb651c92cb78ab8a4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Strategy Project Manager, I, Internship, (Remote)](https://jobright.ai/jobs/info/6885364a4174df41e0f965ed?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
 | ↳ | **[Digital Technology Co-op (Internship)](https://jobright.ai/jobs/info/68852edc4174df41e0f96589?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Joyson Safety Systems](https://www.joysonsafety.com/)** | **[Program Manager Co-op](https://jobright.ai/jobs/info/6883f731835a903aa07f9633?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Jul 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/6883f492835a903aa07f9495?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 25 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/6883f1df6fcd973d15ae4a63?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Program Management Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c915?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Summer 2026 Risk Advisory Intern - Business Risk Services](https://jobright.ai/jobs/info/6883ec9e6fcd973d15ae47ab?utm_campaign=1050&utm_source=git)** | USA DC Washington DC | On Site | Jul 25 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Graduate Assistant, Administrative](https://jobright.ai/jobs/info/6883eb96835a903aa07f8d9c?utm_campaign=1050&utm_source=git)** | AZ Phoenix | On Site | Jul 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/6883e866835a903aa07f8b80?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Jul 25 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Alaka`ina Foundation Family of Companies](https://www.alakainafoundation.com/)** | **[Office Coordinator – Intern (Part-Time)](https://jobright.ai/jobs/info/6867522b7697e06279b4ac6a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jul 25 |
 | **[OPmobility](https://www.opmobility.com)** | **[SITE SUPPLY CHAIN Internship](https://jobright.ai/jobs/info/68799cb32097a271a8978cfa?utm_campaign=1050&utm_source=git)** | Tennessee, United States | Hybrid | Jul 25 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/67beb55b57b9acf3a9a5a0f6?utm_campaign=1050&utm_source=git)** | McLean, OH | On Site | Jul 25 |
-| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship - Administration](https://jobright.ai/jobs/info/68845dc9b651c92cb78a7634?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Jul 25 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Field Administration Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8dc?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 25 |
 | ↳ | **[Program Quality and Measurement Field Office Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c94f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Capital Region BOCES](https://www.capitalregionboces.org/)** | **[Student Administrative Systems Support Specialist (PROGRAM COORDINATOR I-ADMINISTRATIVE SERVICES)](https://jobright.ai/jobs/info/68838948b54cac0f1e73827c?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Jul 25 |
@@ -122,7 +123,7 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |
@@ -157,5 +158,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/68844daffbbf032d0006713b?utm_camp
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/68829859835a903aa07ef29a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

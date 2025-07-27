@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Chino](https://www.chinopd.org)** | **[Management Intern, Part-time (Assigned to Public Works)](https://jobright.ai/jobs/info/6885d713fbbf032d0006f142?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Jul 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6885902afbbf032d0006ce69?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
 | **[AAMBC Inc. ](http://www.aambc.org)** | **[Literary Project Management Intern](https://jobright.ai/jobs/info/68855f034174df41e0f968cd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jul 26 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688549dbb651c92cb78ab8a4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 26 |
@@ -73,21 +74,17 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688444dcb651c92cb78a5c76?utm_campaign=1050&utm_source=git)** | Cedar Hill, TX | On Site | Jul 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688473e24174df41e0f939b0?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Jul 25 |
 | **[OPmobility](https://www.opmobility.com)** | **[LOGISTICS INTERN](https://jobright.ai/jobs/info/687959fced63844c9449ae67?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 25 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1266](https://jobright.ai/jobs/info/68842fca6fcd973d15ae621d?utm_campaign=1050&utm_source=git)** | Circle Pines, MN | On Site | Jul 25 |
-| ↳ | **[Retail Management Intern #180](https://jobright.ai/jobs/info/68842e47835a903aa07faa38?utm_campaign=1050&utm_source=git)** | New Ulm, MN | On Site | Jul 25 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #180](https://jobright.ai/jobs/info/68842e47835a903aa07faa38?utm_campaign=1050&utm_source=git)** | New Ulm, MN | On Site | Jul 25 |
 | ↳ | **[Retail Management Intern #1154](https://jobright.ai/jobs/info/68842d2e835a903aa07fa9d2?utm_campaign=1050&utm_source=git)** | Sheldon, IA | On Site | Jul 25 |
-| ↳ | **[Retail Management Intern #286](https://jobright.ai/jobs/info/68842cf4835a903aa07fa9bd?utm_campaign=1050&utm_source=git)** | Waverly, IA | On Site | Jul 25 |
 | **[GlobalFoundries](https://gf.com/)** | **[MBA Internship – Business Strategy & Leadership Development](https://jobright.ai/jobs/info/68842beeb54cac0f1e73c89b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 25 |
 | **[Curtiss-Wright Corporation](https://curtisswright.com/home/default.aspx)** | **[Intern, Supply Chain & Operations](https://jobright.ai/jobs/info/688427d7b54cac0f1e73c6af?utm_campaign=1050&utm_source=git)** | Brecksville, OH | On Site | Jul 25 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #1012](https://jobright.ai/jobs/info/688448f5fbbf032d00066bb7?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Jul 25 |
-| ↳ | **[Retail Management Intern #330](https://jobright.ai/jobs/info/688444184174df41e0f909c2?utm_campaign=1050&utm_source=git)** | Belle Plaine, MN | On Site | Jul 25 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #330](https://jobright.ai/jobs/info/688444184174df41e0f909c2?utm_campaign=1050&utm_source=git)** | Belle Plaine, MN | On Site | Jul 25 |
 | ↳ | **[Retail Management Intern #200](https://jobright.ai/jobs/info/68844a11b651c92cb78a6007?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Jul 25 |
 | **[Little Rock Zoo](https://www.littlerockzoo.com)** | **[Executive Administration Intern](https://jobright.ai/jobs/info/688435ee6fcd973d15ae6777?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jul 25 |
 | **[Baker Tilly US](http://www.bakertilly.com)** | **[Summer 2026 Risk Advisory Intern - Business Risk Services](https://jobright.ai/jobs/info/68841269b54cac0f1e73bee9?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Fall 2025 Executive Internship at Reproductive Freedom for All](https://jobright.ai/jobs/info/68844afa4174df41e0f910ba?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[GlobalFoundries](https://gf.com/)** | **[MBA Internship – Business Strategy & Leadership Development](https://jobright.ai/jobs/info/688409e6835a903aa07f9c6b?utm_campaign=1050&utm_source=git)** | Austin | On Site | Jul 25 |
 | ↳ | **[MBA Internship – Business Strategy & Leadership Development](https://jobright.ai/jobs/info/6884099f6fcd973d15ae5438?utm_campaign=1050&utm_source=git)** | Essex Junction | On Site | Jul 25 |
-| **[CSU Spur](https://www.csuspur.org/)** | **[Humanitarian Logistics Internship](https://jobright.ai/jobs/info/688402c16fcd973d15ae5190?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | Hybrid | Jul 25 |
 | **[Kirkhill, Inc. ](https://kirkhill.com/)** | **[Leadership Development Program](https://jobright.ai/jobs/info/688402a9b54cac0f1e73b912?utm_campaign=1050&utm_source=git)** | Brea, CA | On Site | Jul 25 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Executive Intern](https://jobright.ai/jobs/info/68840262b54cac0f1e73b8e3?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Joyson Safety Systems](https://www.joysonsafety.com/)** | **[Program Manager Co-op](https://jobright.ai/jobs/info/6883f731835a903aa07f9633?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Jul 25 |
@@ -124,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/68829859835a903aa07ef29a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688289b2835a903aa07ee8aa?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Jul 24 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/688286f3b54cac0f1e7301f5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

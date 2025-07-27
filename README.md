@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[City of Chino](https://www.chinopd.org)** | **[Management Intern, Part-time (Assigned to Public Works)](https://jobright.ai/jobs/info/6885d713fbbf032d0006f142?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Jul 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6885902afbbf032d0006ce69?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
 | **[AAMBC Inc. ](http://www.aambc.org)** | **[Literary Project Management Intern](https://jobright.ai/jobs/info/68855f034174df41e0f968cd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jul 26 |
@@ -64,10 +65,12 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Strategy Project Manager, I, Internship, (Remote)](https://jobright.ai/jobs/info/6885364a4174df41e0f965ed?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
 | ↳ | **[Digital Technology Co-op (Internship)](https://jobright.ai/jobs/info/68852edc4174df41e0f96589?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[FLHD Administrative Assistant](https://jobright.ai/jobs/info/6885145ffbbf032d0006beb0?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Jul 26 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Associate - Summer 2025](https://jobright.ai/jobs/info/684cb29129f761926462607e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
 | **[State of Arizona](https://gaming.az.gov)** | **[PROJECT ASSISTANT INTERN](https://jobright.ai/jobs/info/6884cc7afbbf032d0006b0e2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 26 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/684b33e54c5ab8819961d105?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Manager Intern (TikTok Local Services) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b64dd764c3d7411c324bc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
+| **[Everllence](www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/6837f7523df1f73d2b39d594?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Jul 26 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/688457954174df41e0f91e0a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Operations Coordinator](https://jobright.ai/jobs/info/688457594174df41e0f91de8?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship - Administration](https://jobright.ai/jobs/info/6885a70cb651c92cb78ad04b?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Jul 25 |
@@ -121,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |
@@ -134,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68831ab8835a903aa07f38a3?utm_campaign=1050&utm_source=git)** | Effingham, IL | On Site | Jul 24 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68831ab16fcd973d15adf332?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Jul 24 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68831916b54cac0f1e735829?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Jul 24 |
-| **[Vishram International Services](https://vishraminternationalservices.com/)** | **[Management Intern](https://jobright.ai/jobs/info/6883098ab54cac0f1e734f5e?utm_campaign=1050&utm_source=git)** | Dothan, AL | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchant Operations Project Intern (TikTok Shop - US Operation) - 2025 Start(BS/MS)](https://jobright.ai/jobs/info/688305e06fcd973d15ade616?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 24 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Sports Management Intern](https://jobright.ai/jobs/info/6882fbb2b54cac0f1e7342c4?utm_campaign=1050&utm_source=git)** | Bay Shore Acres, FL | Remote | Jul 24 |
 | **[ASM Global](https://asmglobal.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/68831afeb54cac0f1e735a3d?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/68829859835a903aa07ef29a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 24 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
-| **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Return Internships](https://jobright.ai/jobs/info/688289b2835a903aa07ee8aa?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Jul 24 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/688286f3b54cac0f1e7301f5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

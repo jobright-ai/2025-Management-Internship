@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
+| ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[City of Chino](https://www.chinopd.org)** | **[Management Intern, Part-time (Assigned to Public Works)](https://jobright.ai/jobs/info/6885d713fbbf032d0006f142?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Jul 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6885902afbbf032d0006ce69?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Facilities Intern - The Landmark, NYC](https://jobright.ai/jobs/info/6882b9b0835a903aa07f0690?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
-| **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/68829859835a903aa07ef29a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 24 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

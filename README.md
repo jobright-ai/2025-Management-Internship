@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Southern Utah University](http://www.suu.edu/)** | **[FLHD Administrative Assistant](https://jobright.ai/jobs/info/6885145ffbbf032d0006beb0?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Jul 26 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Associate - Summer 2025](https://jobright.ai/jobs/info/684cb29129f761926462607e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern (Fall 2025)](https://jobright.ai/jobs/info/6875f2f85cebcd1dd51c4f16?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jul 26 |
 | **[State of Arizona](https://az.gov/)** | **[PROJECT ASSISTANT INTERN](https://jobright.ai/jobs/info/6884cc7afbbf032d0006b0e2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 26 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/684b33e54c5ab8819961d105?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Manager Intern (TikTok Local Services) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b64dd764c3d7411c324bc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Related Group](http://relatedgroup.com/)** | **[The Related Group Internship](https://jobright.ai/jobs/info/688457d8fbbf032d00067b79?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jul 25 |
 | **[Municipal Credit Union](https://nymcu.org)** | **[Strategic Insights Intern](https://jobright.ai/jobs/info/6883ccb1b54cac0f1e739956?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Sturdy Health](https://www.sturdyhealth.org)** | **[Performance Excellence Co-Op; Per Diem](https://jobright.ai/jobs/info/6883c813835a903aa07f7901?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Jul 25 |
-| **[City of Chino](https://www.chinopd.org)** | **[Management Intern, Part-time (Assigned to Public Works)](https://jobright.ai/jobs/info/6883e5796fcd973d15ae4352?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Jul 25 |
 | **[Third Way](http://www.thirdway.org/)** | **[Development Intern, Development & External Affairs Program (Fall 2025)](https://jobright.ai/jobs/info/688452484174df41e0f91ae5?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | ↳ | **[Operations & Project Intern, Business Operations (Fall 2025)](https://jobright.ai/jobs/info/6883db8a6fcd973d15ae3e2c?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jul 25 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern, Mission Critical](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88034070?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Operations/Finance- (Bridgeport Office Only)](https://jobright.ai/jobs/info/6882fb28b54cac0f1e73423e?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | Jul 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882ba896fcd973d15adc05d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Facilities Intern - The Landmark, NYC](https://jobright.ai/jobs/info/6882b9b0835a903aa07f0690?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

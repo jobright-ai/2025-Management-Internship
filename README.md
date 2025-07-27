@@ -141,8 +141,6 @@ For a complete list, click the following sortable link below:
 | **[New College of Florida](http://www.ncf.edu/)** | **[Sports Management Intern](https://jobright.ai/jobs/info/6882fbb2b54cac0f1e7342c4?utm_campaign=1050&utm_source=git)** | Bay Shore Acres, FL | Remote | Jul 24 |
 | **[ASM Global](https://asmglobal.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/68831afeb54cac0f1e735a3d?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Jul 24 |
 | **[Harvest Table Culinary Group](https://harvesttableculinary.com)** | **[HOSPITALITY INTERN - High Point Univ - Kahn Hotel & Alo Res](https://jobright.ai/jobs/info/68845e48b651c92cb78a76ff?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | Jul 24 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Strategic Coordination and Management Support
-Job ID : 260592](https://jobright.ai/jobs/info/68844daffbbf032d0006713b?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jul 24 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/6882f0de6fcd973d15add3fc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jul 24 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Facilities Intern - The Landmark, NYC](https://jobright.ai/jobs/info/6882e085835a903aa07f14d1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 24 |
 | **[Search For Common Ground Nigeria](http://www.sfcg.org/Nigeria)** | **[Internship: Global Program Development Intern](https://jobright.ai/jobs/info/6882f891835a903aa07f20bd?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
@@ -158,4 +156,5 @@ Job ID : 260592](https://jobright.ai/jobs/info/68844daffbbf032d0006713b?utm_camp
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/68829859835a903aa07ef29a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 24 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/688292a2835a903aa07eefea?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
+| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/688693cfb651c92cb78af73f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 27 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Analytics Lab](https://jobright.ai/jobs/info/682f86657811351de0f66951?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
+| ↳ | **[2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6882c0f36fcd973d15adc277?utm_campaign=1050&utm_source=git)** | Picayune, MS | On Site | Jul 24 |
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Operations/Finance- (Bridgeport Office Only)](https://jobright.ai/jobs/info/6882fb28b54cac0f1e73423e?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | Jul 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882ba896fcd973d15adc05d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Facilities Intern - The Landmark, NYC](https://jobright.ai/jobs/info/6882b9b0835a903aa07f0690?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

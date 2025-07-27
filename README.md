@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
+| **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[City of Chino](https://www.chinopd.org)** | **[Management Intern, Part-time (Assigned to Public Works)](https://jobright.ai/jobs/info/6885d713fbbf032d0006f142?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Jul 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6885902afbbf032d0006ce69?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
@@ -69,10 +70,11 @@ For a complete list, click the following sortable link below:
 | **[Southern Utah University](http://www.suu.edu/)** | **[FLHD Administrative Assistant](https://jobright.ai/jobs/info/6885145ffbbf032d0006beb0?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Jul 26 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Associate - Summer 2025](https://jobright.ai/jobs/info/684cb29129f761926462607e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
-| **[State of Arizona](https://gaming.az.gov)** | **[PROJECT ASSISTANT INTERN](https://jobright.ai/jobs/info/6884cc7afbbf032d0006b0e2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 26 |
+| **[State of Arizona](https://az.gov/)** | **[PROJECT ASSISTANT INTERN](https://jobright.ai/jobs/info/6884cc7afbbf032d0006b0e2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 26 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Fellow](https://jobright.ai/jobs/info/684b33e54c5ab8819961d105?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Jul 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Manager Intern (TikTok Local Services) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b64dd764c3d7411c324bc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 26 |
 | **[Everllence](www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/6837f7523df1f73d2b39d594?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Jul 26 |
+| **[Capital Region BOCES](https://www.capitalregionboces.org/)** | **[Student Administrative Systems Support Specialist (PROGRAM COORDINATOR I-ADMINISTRATIVE SERVICES)](https://jobright.ai/jobs/info/68838948b54cac0f1e73827c?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Jul 25 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/688457954174df41e0f91e0a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Operations Coordinator](https://jobright.ai/jobs/info/688457594174df41e0f91de8?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship - Administration](https://jobright.ai/jobs/info/6885a70cb651c92cb78ad04b?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Jul 25 |
@@ -121,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Field Administration Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8dc?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 25 |
 | ↳ | **[Program Quality and Measurement Field Office Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c94f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Ohio](https://jobright.ai/jobs/info/686727788b88049fa28b5a2d?utm_campaign=1050&utm_source=git)** | Batavia, OH | On Site | Jul 25 |
-| **[Colorado State University](http://www.colostate.edu/)** | **[Humanitarian Logistics Internship](https://jobright.ai/jobs/info/68836beab54cac0f1e737d08?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | Hybrid | Jul 25 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Minnesota](https://jobright.ai/jobs/info/686727788b88049fa28b5a48?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 25 |
+| ↳ | **[Resident Internship - Minnesota](https://jobright.ai/jobs/info/686727788b88049fa28b5a48?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jul 25 |
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882ba896fcd973d15adc05d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Facilities Intern - The Landmark, NYC](https://jobright.ai/jobs/info/6882b9b0835a903aa07f0690?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
-| **[CBRE](https://www.cbre.com)** | **[HOH Program Intern - Project Manager](https://jobright.ai/jobs/info/6882a5316fcd973d15adb3b5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

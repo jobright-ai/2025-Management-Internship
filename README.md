@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Capital Region BOCES](https://www.capitalregionboces.org/)** | **[Student Administrative Systems Support Specialist (PROGRAM COORDINATOR I-ADMINISTRATIVE SERVICES)](https://jobright.ai/jobs/info/68838948b54cac0f1e73827c?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Jul 25 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/688457954174df41e0f91e0a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
 | ↳ | **[Operations Coordinator](https://jobright.ai/jobs/info/688457594174df41e0f91de8?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jul 25 |
-| **[City of Bloomington, IL](https://www.bloomingtonil.gov)** | **[Internship - Administration](https://jobright.ai/jobs/info/6885a70cb651c92cb78ad04b?utm_campaign=1050&utm_source=git)** | Bloomington, IL | On Site | Jul 25 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688444dcb651c92cb78a5c76?utm_campaign=1050&utm_source=git)** | Cedar Hill, TX | On Site | Jul 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688473e24174df41e0f939b0?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Jul 25 |
 | **[OPmobility](https://www.opmobility.com)** | **[LOGISTICS INTERN](https://jobright.ai/jobs/info/687959fced63844c9449ae67?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 25 |
@@ -128,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Institute for Refugees and Immigrants](https://cirict.org)** | **[INTERNSHIP- Operations/Finance- (Bridgeport Office Only)](https://jobright.ai/jobs/info/6882fb28b54cac0f1e73423e?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | Jul 24 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882ba896fcd973d15adc05d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Facilities Intern - The Landmark, NYC](https://jobright.ai/jobs/info/6882b9b0835a903aa07f0690?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Fall 2025](https://jobright.ai/jobs/info/6882b7d3b54cac0f1e732592?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

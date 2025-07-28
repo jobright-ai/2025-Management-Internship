@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Operations Intern](https://jobright.ai/jobs/info/688693cfb651c92cb78af73f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Thompson Engineering](http://thompsonengineering.com)** | **[Assistant Admin I](https://jobright.ai/jobs/info/6886a3f3b651c92cb78af816?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Analytics Lab](https://jobright.ai/jobs/info/682f86657811351de0f66951?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | ↳ | **[2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
@@ -129,7 +129,7 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |

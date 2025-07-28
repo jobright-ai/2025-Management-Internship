@@ -57,20 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Hospitality](https://jobright.ai/jobs/info/6887c93773e3e13cbd94022e?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy/Pharmacist/Grad Intern](https://jobright.ai/jobs/info/6887c810fbbf032d0007665c?utm_campaign=1050&utm_source=git)** | 11700 Olio Rd, Fishers, IN, 46037, US | On Site | Jul 28 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Community Operations Intern](https://jobright.ai/jobs/info/6887c6174174df41e0fa0555?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Formlabs](http://www.formlabs.com)** | **[Event Logistics Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/6887c5e673e3e13cbd93fd94?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Jul 28 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/6887b85e4174df41e0fa0109?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 28 |
 | ↳ | **[College Intern](https://jobright.ai/jobs/info/6887ab8a73e3e13cbd93f13c?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 28 |
 | **[UF Health](https://ufhealth.org/)** | **[Office of Advancement Fall 2025 Intern](https://jobright.ai/jobs/info/6887ab3073e3e13cbd93f0c3?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Jul 28 |
 | **[Pyramid Healthcare](https://www.pyramidhc.com)** | **[Project Management Intern- Fall 2025](https://jobright.ai/jobs/info/6887aaadfbbf032d00075680?utm_campaign=1050&utm_source=git)** | Altoona, PA | On Site | Jul 28 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6887a913fbbf032d000755c3?utm_campaign=1050&utm_source=git)** | US - Remote | Hybrid | Jul 28 |
-| **[Belmont University](http://www.belmont.edu/)** | **[COM, Office of Dean - Administrative Assistant](https://jobright.ai/jobs/info/68879a09fbbf032d00075108?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6887994e4174df41e0f9f228?utm_campaign=1050&utm_source=git)** | Hammond, IN | On Site | Jul 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/688798c0fbbf032d00075099?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Jul 28 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Supply Chain Associate I (Intern/Co-op Conversion)](https://jobright.ai/jobs/info/688797d0fbbf032d00074fea?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Jul 28 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Project Management (Posting)](https://jobright.ai/jobs/info/6887978cfbbf032d00074fa5?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Jul 28 |
+| **[Belmont University](http://www.belmont.edu/)** | **[COM, Office of Dean - Administrative Assistant](https://jobright.ai/jobs/info/68879a09fbbf032d00075108?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 28 |
 | **[e-regio GmbH & Co. KG](https://www.e-regio.de)** | **[Kaufleute für Büromanagement (m/w/d) 2026](https://jobright.ai/jobs/info/68877fbb73e3e13cbd93e071?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Jul 28 |
 | **[Adjuvant Health](https://adjuvant.health/)** | **[Intern](https://jobright.ai/jobs/info/688779f6fbbf032d000745a0?utm_campaign=1050&utm_source=git)** | Allied Pediatrics and Family Medicine of Bellmore-Merrick | On Site | Jul 28 |
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/68874ccb4174df41e0f9d8f8?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 28 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Strategy & Management Summer Analyst Program - 2026](https://jobright.ai/jobs/info/686b66d335584b654212ad12?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 28 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Strategy & Enterprise Platforms Summer 2026 Analyst](https://jobright.ai/jobs/info/684fc33800806d40fc3608de?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 28 |
+| ↳ | **[Strategy & Management Summer Analyst Program - 2026](https://jobright.ai/jobs/info/686b66d335584b654212ad12?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688741674174df41e0f9d675?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 28 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Secretary 2(Connecticut State Police Training Academy)](https://jobright.ai/jobs/info/688737c94174df41e0f9d5c0?utm_campaign=1050&utm_source=git)** | Meriden, CT | On Site | Jul 28 |
 | **[Amazon](https://amazon.com)** | **[2026 Program Manager Intern](https://jobright.ai/jobs/info/688722d9b651c92cb78b1f1f?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
@@ -80,8 +85,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886deefb651c92cb78afdc2?utm_campaign=1050&utm_source=git)** | McKees Rocks, PA | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886dec24174df41e0f9abbc?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886d899b651c92cb78afc42?utm_campaign=1050&utm_source=git)** | Pitcairn, PA | On Site | Jul 27 |
+| **[Amphenol Borisch Technologies](http://www.borisch.com/)** | **[Supply Chain Intern- Fall 2025](https://jobright.ai/jobs/info/6887bc47fbbf032d00076072?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Jul 27 |
 | **[SunFlare Brands Company](www.SunFlareCandles.com)** | **[Operations Coordinator](https://jobright.ai/jobs/info/6886bfe84174df41e0f9a7f9?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Jul 27 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Assistant Admin I](https://jobright.ai/jobs/info/6886a3f3b651c92cb78af816?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jul 27 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688693e2fbbf032d000703cd?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Coordinator](https://jobright.ai/jobs/info/684f847cfb54403ef3ae417d?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 27 |
 | **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/684c7a57dcc3603e717afb03?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 27 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician – Medical Director, CICU - Internal Medicine – Cardiology – Chicago (Downtown)-13135](https://jobright.ai/jobs/info/66fb37e79ba4ba107cc8e308?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 27 |
@@ -90,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern Fall 2025](https://jobright.ai/jobs/info/68140f465043caa7afaeabed?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[ADMIN ASST (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6886f0a7fbbf032d000715b0?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Jul 26 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Jul 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
-| **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
-| **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
-| **[Human Touch Home Health Care](https://www.humantouchhomecare.com/contact-us/colorado-springs)** | **[Paid Summer Intern – Executive &amp; Operations Support](https://jobright.ai/jobs/info/6883c6f2b54cac0f1e739772?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 24 |
-| ↳ | **[Paid Intern – Property Management Apprenticeship](https://jobright.ai/jobs/info/6883c5e86fcd973d15ae30c9?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 24 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68831d80835a903aa07f3b9a?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,31 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[16VC](http://16vc.co/)** | **[Management Intern](https://jobright.ai/jobs/info/6886eca4fbbf032d00071316?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 27 |
+| **[Amazon](https://amazon.com)** | **[2026 Program Manager Intern](https://jobright.ai/jobs/info/688722d9b651c92cb78b1f1f?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
+| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Intern Assistant](https://jobright.ai/jobs/info/68871a49fbbf032d00072ad2?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886eaa24174df41e0f9b2f6?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886e9284174df41e0f9b1ef?utm_campaign=1050&utm_source=git)** | Apple Valley, CA | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886e74bfbbf032d00070e7c?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886deefb651c92cb78afdc2?utm_campaign=1050&utm_source=git)** | McKees Rocks, PA | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886dec24174df41e0f9abbc?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Jul 27 |
-| **[Jobright.ai](https://jobright.ai)** | **[Project Manager - Internship](https://jobright.ai/jobs/info/6886de9e4174df41e0f9abb2?utm_campaign=1050&utm_source=git)** | Poway, CA | On Site | Jul 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886d899b651c92cb78afc42?utm_campaign=1050&utm_source=git)** | Pitcairn, PA | On Site | Jul 27 |
-| **[Jobright.ai](https://jobright.ai)** | **[Project Management (Internship)](https://jobright.ai/jobs/info/6886d7a64174df41e0f9aa22?utm_campaign=1050&utm_source=git)** | Mahwah, NJ | On Site | Jul 27 |
+| ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886d899b651c92cb78afc42?utm_campaign=1050&utm_source=git)** | Pitcairn, PA | On Site | Jul 27 |
 | **[SunFlare Brands Company](www.SunFlareCandles.com)** | **[Operations Coordinator](https://jobright.ai/jobs/info/6886bfe84174df41e0f9a7f9?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Jul 27 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Assistant Admin I](https://jobright.ai/jobs/info/6886a3f3b651c92cb78af816?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jul 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688693e2fbbf032d000703cd?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Analytics Lab](https://jobright.ai/jobs/info/682f86657811351de0f66951?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | ↳ | **[2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[City of Chino](https://www.chinopd.org)** | **[Management Intern, Part-time (Assigned to Public Works)](https://jobright.ai/jobs/info/6885d713fbbf032d0006f142?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Jul 27 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern Fall 2025](https://jobright.ai/jobs/info/68140f465043caa7afaeabed?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[ADMIN ASST (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6886f0a7fbbf032d000715b0?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Jul 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6885902afbbf032d0006ce69?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Jul 26 |
 | **[AAMBC Inc. ](http://www.aambc.org)** | **[Literary Project Management Intern](https://jobright.ai/jobs/info/68855f034174df41e0f968cd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jul 26 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688549dbb651c92cb78ab8a4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 26 |
-| **[Jobright.ai](https://jobright.ai)** | **[Strategy Project Manager, I, Internship, (Remote)](https://jobright.ai/jobs/info/6885364a4174df41e0f965ed?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
-| ↳ | **[Digital Technology Co-op (Internship)](https://jobright.ai/jobs/info/68852edc4174df41e0f96589?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jul 26 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[FLHD Administrative Assistant](https://jobright.ai/jobs/info/6885145ffbbf032d0006beb0?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Jul 26 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Associate - Summer 2025](https://jobright.ai/jobs/info/684cb29129f761926462607e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jul 26 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Operations Analyst Program - Summer Analyst (New York Metro & Chicago)](https://jobright.ai/jobs/info/6886ffa3fbbf032d00071b8a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchant Operations Project Intern (TikTok Shop - US Operation) - 2025 Start(BS/MS)](https://jobright.ai/jobs/info/688305e06fcd973d15ade616?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 24 |
 | **[New College of Florida](http://www.ncf.edu/)** | **[Sports Management Intern](https://jobright.ai/jobs/info/6882fbb2b54cac0f1e7342c4?utm_campaign=1050&utm_source=git)** | Bay Shore Acres, FL | Remote | Jul 24 |
+| **[ASM Global](https://asmglobal.com/)** | **[Food & Beverage Intern](https://jobright.ai/jobs/info/68831afeb54cac0f1e735a3d?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Jul 24 |
+| **[Harvest Table Culinary Group](https://harvesttableculinary.com)** | **[HOSPITALITY INTERN - High Point Univ - Kahn Hotel & Alo Res](https://jobright.ai/jobs/info/68845e48b651c92cb78a76ff?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

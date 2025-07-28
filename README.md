@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688741674174df41e0f9d675?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 28 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Secretary 2(Connecticut State Police Training Academy)](https://jobright.ai/jobs/info/688737c94174df41e0f9d5c0?utm_campaign=1050&utm_source=git)** | Meriden, CT | On Site | Jul 28 |
 | **[Amazon](https://amazon.com)** | **[2026 Program Manager Intern](https://jobright.ai/jobs/info/688722d9b651c92cb78b1f1f?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Intern Assistant](https://jobright.ai/jobs/info/68871a49fbbf032d00072ad2?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886eaa24174df41e0f9b2f6?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886e9284174df41e0f9b1ef?utm_campaign=1050&utm_source=git)** | Apple Valley, CA | On Site | Jul 27 |
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886e74bfbbf032d00070e7c?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Jul 27 |
@@ -67,13 +68,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/6886d899b651c92cb78afc42?utm_campaign=1050&utm_source=git)** | Pitcairn, PA | On Site | Jul 27 |
 | **[SunFlare Brands Company](www.SunFlareCandles.com)** | **[Operations Coordinator](https://jobright.ai/jobs/info/6886bfe84174df41e0f9a7f9?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Jul 27 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Assistant Admin I](https://jobright.ai/jobs/info/6886a3f3b651c92cb78af816?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jul 27 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688693e2fbbf032d000703cd?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Analytics Lab](https://jobright.ai/jobs/info/682f86657811351de0f66951?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | ↳ | **[2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
-| **[City of Chino](https://www.chinopd.org)** | **[Management Intern, Part-time (Assigned to Public Works)](https://jobright.ai/jobs/info/6885d713fbbf032d0006f142?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Jul 27 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern Fall 2025](https://jobright.ai/jobs/info/68140f465043caa7afaeabed?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[ADMIN ASST (STUDENT/WORK STUDY)](https://jobright.ai/jobs/info/6886f0a7fbbf032d000715b0?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Jul 26 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern – Grad](https://jobright.ai/jobs/info/6885902afbbf032d0006ce69?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jul 26 |
@@ -139,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/688365d36fcd973d15ae14b3?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 25 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Texas](https://jobright.ai/jobs/info/68671fac20a7ad900a5f0673?utm_campaign=1050&utm_source=git)** | Bryan, TX | On Site | Jul 25 |
 | ↳ | **[Resident Internship - Georgia](https://jobright.ai/jobs/info/686732bf248efa6b3dc7c8ce?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Jul 25 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Jul 25 |
 | **[Wallick](https://www.wallick.com)** | **[Project Management, Intern](https://jobright.ai/jobs/info/688351f76fcd973d15ae0faf?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Jul 25 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688321bd835a903aa07f3e89?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 24 |

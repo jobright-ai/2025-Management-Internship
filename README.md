@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6888eca9aab47a17f66fda73?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Jul 29 |
+| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6888ec39aab47a17f66fd9cb?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Jul 29 |
+| **[Able Aerospace](www.ableaerospace.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/6888eb0baab47a17f66fd87f?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/6888e96a9f961617fe21033d?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Jul 29 |
+| **[National Research Group](http://nrgmr.com)** | **[NFL VoF Project Assistant (Internship – Current/recent graduate students)](https://jobright.ai/jobs/info/686c004135584b6542fefd3e?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jul 29 |
+| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager (PCMHI) - EDRP Approved](https://jobright.ai/jobs/info/6888e3ab9f961617fe210194?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Jul 29 |
+| **[Franciscan Missionaries of Our Lady Health System](https://fmolhs.org)** | **[Administrative Intern - Lake Foundation](https://jobright.ai/jobs/info/6888e10509808a6103e4335c?utm_campaign=1050&utm_source=git)** | 5000 HENNESSY BLVD, BATON ROUGE, LA, 70808, US | On Site | Jul 29 |
+| **[Franciscan Missionaries of Our Lady University](https://www.franu.edu/)** | **[Administrative Intern - Lake Foundation](https://jobright.ai/jobs/info/6888e082aab47a17f66fd47a?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 29 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee -Facilities Management - Landscape Services](https://jobright.ai/jobs/info/6888b190aab47a17f66fc9bf?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jul 29 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Intern](https://jobright.ai/jobs/info/6888b15c9f961617fe20f5e8?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jul 29 |
 | **[DRW](http://drw.com/)** | **[Leadership Rotation Network Intern](https://jobright.ai/jobs/info/686c128035584b654271a750?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
@@ -98,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Tripalink](https://www.tripalink.com)** | **[Property Management - Summer Internship - Seattle WA](https://jobright.ai/jobs/info/68884c4ffbbf032d0007a4dc?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6888424f73e3e13cbd943742?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 28 |
 | **[Rapiscan Systems](http://www.rapiscansystems.com/)** | **[Intern](https://jobright.ai/jobs/info/6888608873e3e13cbd944fca?utm_campaign=1050&utm_source=git)** | Hawthorne, CA | On Site | Jul 28 |
+| **[Formlabs](http://www.formlabs.com)** | **[Event Logistics Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/6887f2e173e3e13cbd94167b?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Jul 28 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - DART](https://jobright.ai/jobs/info/6887ee98fbbf032d000779aa?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | Jul 28 |
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship – Supply Chain](https://jobright.ai/jobs/info/6887ee2f4174df41e0fa1ba8?utm_campaign=1050&utm_source=git)** | Midland (MI, USA) | On Site | Jul 28 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Management Intern - DART](https://jobright.ai/jobs/info/6887eddcfbbf032d000778a7?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | Jul 28 |
@@ -108,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Hospitality](https://jobright.ai/jobs/info/6887c93773e3e13cbd94022e?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacy/Pharmacist/Grad Intern](https://jobright.ai/jobs/info/6887c810fbbf032d0007665c?utm_campaign=1050&utm_source=git)** | 11700 Olio Rd, Fishers, IN, 46037, US | On Site | Jul 28 |
 | **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Community Operations Intern](https://jobright.ai/jobs/info/6887c6174174df41e0fa0555?utm_campaign=1050&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Formlabs](http://www.formlabs.com)** | **[Event Logistics Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/6887c5e673e3e13cbd93fd94?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Jul 28 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/6887b85e4174df41e0fa0109?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 28 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68885116fbbf032d0007a854?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Jul 28 |
 | **[Wichita State University](http://www.wichita.edu)** | **[NIAR Executive Office Front Desk Student Assistant](https://jobright.ai/jobs/info/6888559173e3e13cbd944759?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jul 28 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shearer Companies](http://www.shearercompanies.com)** | **[LOGISTICS INTERN](https://jobright.ai/jobs/info/6887e80073e3e13cbd941086?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | Jul 27 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Assistant Admin I](https://jobright.ai/jobs/info/6886a3f3b651c92cb78af816?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jul 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Coordinator](https://jobright.ai/jobs/info/684f847cfb54403ef3ae417d?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 27 |
-| **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/684c7a57dcc3603e717afb03?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 27 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician – Medical Director, CICU - Internal Medicine – Cardiology – Chicago (Downtown)-13135](https://jobright.ai/jobs/info/66fb37e79ba4ba107cc8e308?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 27 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Assistant Vice President Internship - CIB Functions, Analytics Lab](https://jobright.ai/jobs/info/682f86657811351de0f66951?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
-| ↳ | **[2026 - Summer Analyst Internship – CIB Functions, Enterprise Services](https://jobright.ai/jobs/info/6880c81b29ad6b2744adbe7b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
-| ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
-| **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

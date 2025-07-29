@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Med 44 Arcadia](http://med44arcadia.com)** | **[Front Office Coordinator/Clinical Assistant- Level 1 Internship](https://jobright.ai/jobs/info/68885cf1fbbf032d0007b248?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[CST Intern](https://jobright.ai/jobs/info/688838d773e3e13cbd9430fa?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[Ontic](http://www.ontic.com/)** | **[Intern - Operations and Analytics](https://jobright.ai/jobs/info/688836564174df41e0fa368f?utm_campaign=1050&utm_source=git)** | Chatsworth, CA | On Site | Jul 28 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688858074174df41e0fa54a2?utm_campaign=1050&utm_source=git)** | Norfolk, NE | On Site | Jul 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/688856a5fbbf032d0007af0b?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Jul 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688856a5fbbf032d0007af0b?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Jul 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/688858074174df41e0fa54a2?utm_campaign=1050&utm_source=git)** | Norfolk, NE | On Site | Jul 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/688858dcfbbf032d0007b013?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Jul 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68885df773e3e13cbd944e8d?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Jul 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/688851804174df41e0fa4c6a?utm_campaign=1050&utm_source=git)** | Burlington, WI | On Site | Jul 28 |
@@ -146,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[International Institute of New England](https://iine.org/)** | **[Operations Internship (IINE Boston)](https://jobright.ai/jobs/info/6887fcdb4174df41e0fa224d?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jul 27 |
 | **[Shearer Companies](http://www.shearercompanies.com)** | **[LOGISTICS INTERN](https://jobright.ai/jobs/info/6887e80073e3e13cbd941086?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | Jul 27 |
 | **[Thompson Engineering](http://thompsonengineering.com)** | **[Assistant Admin I](https://jobright.ai/jobs/info/6886a3f3b651c92cb78af816?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jul 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688693e2fbbf032d000703cd?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Coordinator](https://jobright.ai/jobs/info/684f847cfb54403ef3ae417d?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Jul 27 |
 | **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/684c7a57dcc3603e717afb03?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 27 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician – Medical Director, CICU - Internal Medicine – Cardiology – Chicago (Downtown)-13135](https://jobright.ai/jobs/info/66fb37e79ba4ba107cc8e308?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 27 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern Fall 2025](https://jobright.ai/jobs/info/68140f465043caa7afaeabed?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 26 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

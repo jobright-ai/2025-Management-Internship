@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee -Facilities Management - Landscape Services](https://jobright.ai/jobs/info/6888b190aab47a17f66fc9bf?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jul 29 |
+| **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Intern](https://jobright.ai/jobs/info/6888b15c9f961617fe20f5e8?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jul 29 |
+| **[DRW](http://drw.com/)** | **[Leadership Rotation Network Intern](https://jobright.ai/jobs/info/686c128035584b654271a750?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68886f7bc2947d673c175e7a?utm_campaign=1050&utm_source=git)** | Anderson, SC | On Site | Jul 28 |
 | ↳ | **[Management Trainee Fall 2025 Internship](https://jobright.ai/jobs/info/68886b508168d45fe878d033?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | Jul 28 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6888680d4174df41e0fa5f38?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Jul 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #316](https://jobright.ai/jobs/info/6885facab651c92cb78aeaac?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Jul 27 |
 | ↳ | **[Retail Management Intern #761](https://jobright.ai/jobs/info/6885fa9eb651c92cb78aeaa2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Jul 27 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant: High School Registrar](https://jobright.ai/jobs/info/68861cec4174df41e0f99b51?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Jul 27 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6885eccbfbbf032d0006f6de?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 27 |
-| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern Fall 2025](https://jobright.ai/jobs/info/68140f465043caa7afaeabed?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jul 26 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

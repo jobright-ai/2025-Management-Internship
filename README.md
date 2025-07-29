@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BBYO](https://www.bbyo.org)** | **[International Convention Operations Intern](https://jobright.ai/jobs/info/688921359f961617fe2120e3?utm_campaign=1050&utm_source=git)** | (Remote) Washington, DC Preferred | Remote | Jul 29 |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893fd39f961617fe213171?utm_campaign=1050&utm_source=git)** | US, Indianapolis IN | On Site | Jul 29 |
+| ↳ | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893f6caab47a17f67003c0?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Jul 29 |
+| ↳ | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893f1f09808a6103e46286?utm_campaign=1050&utm_source=git)** | US: Research Triangle Park NC | On Site | Jul 29 |
+| ↳ | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893eb29f961617fe212fc7?utm_campaign=1050&utm_source=git)** | US, Concord NC | On Site | Jul 29 |
+| **[BBYO](https://www.bbyo.org)** | **[Movement Experience Intern - Medical Operations](https://jobright.ai/jobs/info/68893a71aab47a17f670013c?utm_campaign=1050&utm_source=git)** | Washington, DC Preferred | On Site | Jul 29 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Saint Albans](https://jobright.ai/jobs/info/6889340eaab47a17f66ffd96?utm_campaign=1050&utm_source=git)** | St Albans, WV | On Site | Jul 29 |
+| **[BBYO](https://www.bbyo.org)** | **[Movement Experience Intern - Medical Operations](https://jobright.ai/jobs/info/6889286f9f961617fe2124fd?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Jul 29 |
+| ↳ | **[International Convention Operations Intern](https://jobright.ai/jobs/info/688921359f961617fe2120e3?utm_campaign=1050&utm_source=git)** | (Remote) Washington, DC Preferred | Remote | Jul 29 |
 | **[LUG Sports Group](https://www.lugsports.com)** | **[Campus Commissioner - Michigan Tech](https://jobright.ai/jobs/info/68891558aab47a17f66fea8b?utm_campaign=1050&utm_source=git)** | Houghton, MI | Hybrid | Jul 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688913f79f961617fe211651?utm_campaign=1050&utm_source=git)** | Foley, AL | On Site | Jul 29 |
+| **[SCJ Alliance](http://scjalliance.com)** | **[SCJ Internship](https://jobright.ai/jobs/info/68893642aab47a17f66ffeb8?utm_campaign=1050&utm_source=git)** | Washington, United States | On Site | Jul 29 |
 | **[Textron](http://textron.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/688909a69f961617fe211247?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
 | ↳ | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/6889040baab47a17f66fe3e1?utm_campaign=1050&utm_source=git)** | US-Arizona-Mesa | On Site | Jul 29 |
 | **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/6888fe349f961617fe210da7?utm_campaign=1050&utm_source=git)** | Bloomington, MN, United States | On Site | Jul 29 |
@@ -116,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Dow](https://www.dowchemical.com)** | **[2025-2026 Campus Internship – Supply Chain](https://jobright.ai/jobs/info/68881537fbbf032d00078900?utm_campaign=1050&utm_source=git)** | Midland, MI | On Site | Jul 28 |
 | **[Avery Dennison](http://www.averydennison.com)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/68881516fbbf032d000788f5?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Jul 28 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacy/Pharmacist/Grad Intern](https://jobright.ai/jobs/info/6888143a4174df41e0fa2a07?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Jul 28 |
+| **[Indy Fuel Hockey Club](https://www.indyfuelhockey.com)** | **[Hockey Operations Intern](https://jobright.ai/jobs/info/688935ed9f961617fe212b55?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Americas Regional Supply Chain Intern](https://jobright.ai/jobs/info/686d595a67a5d82a06070602?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jul 28 |
 | **[City of Somerville](http://www.somervillema.gov)** | **[Part-time Project Assistant](https://jobright.ai/jobs/info/68880c2e73e3e13cbd941f26?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Jul 28 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern, Mission Critical](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88034070?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Jul 28 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Belmont University](http://www.belmont.edu/)** | **[COM, Office of Dean - Administrative Assistant](https://jobright.ai/jobs/info/68879a09fbbf032d00075108?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 28 |
 | **[e-regio GmbH & Co. KG](https://www.e-regio.de)** | **[Kaufleute für Büromanagement (m/w/d) 2026](https://jobright.ai/jobs/info/68877fbb73e3e13cbd93e071?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Jul 28 |
 | **[Adjuvant Health](https://adjuvant.health/)** | **[Intern](https://jobright.ai/jobs/info/688779f6fbbf032d000745a0?utm_campaign=1050&utm_source=git)** | Allied Pediatrics and Family Medicine of Bellmore-Merrick | On Site | Jul 28 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Securities Services Leadership Program - Summer Analyst Program](https://jobright.ai/jobs/info/67f9f1bc8569a044bfa8ca15?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 28 |
-| **[SCS Global Services](https://www.scsglobalservices.com/)** | **[General Consideration](https://jobright.ai/jobs/info/67f9a48a256beec5cddb6ae9?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Jul 28 |
-| **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/68874ccb4174df41e0f9d8f8?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Jul 28 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Strategy & Enterprise Platforms Summer 2026 Analyst](https://jobright.ai/jobs/info/684fc33800806d40fc3608de?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jul 28 |
-| ↳ | **[Strategy & Management Summer Analyst Program - 2026](https://jobright.ai/jobs/info/686b66d335584b654212ad12?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 28 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/688741674174df41e0f9d675?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Jul 28 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Secretary 2(Connecticut State Police Training Academy)](https://jobright.ai/jobs/info/688737c94174df41e0f9d5c0?utm_campaign=1050&utm_source=git)** | Meriden, CT | On Site | Jul 28 |
-| **[Amazon](https://amazon.com)** | **[2026 Program Manager Intern](https://jobright.ai/jobs/info/688722d9b651c92cb78b1f1f?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Mission Coordinator (SkillBridge Intern) - 21488](https://jobright.ai/jobs/info/673cc155ef3abad3c8013204?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

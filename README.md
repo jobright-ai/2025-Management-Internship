@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68895d569f961617fe213da5?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Jul 29 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temp Hire](https://jobright.ai/jobs/info/6889570aaab47a17f6700ef1?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jul 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6889566c09808a6103e46d8f?utm_campaign=1050&utm_source=git)** | Anderson, SC | On Site | Jul 29 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68894b519f961617fe213620?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Project Manager (Fall 2025)](https://jobright.ai/jobs/info/68894510aab47a17f6700716?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 29 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893fd39f961617fe213171?utm_campaign=1050&utm_source=git)** | US, Indianapolis IN | On Site | Jul 29 |
 | ↳ | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893f6caab47a17f67003c0?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Jul 29 |
 | ↳ | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893f1f09808a6103e46286?utm_campaign=1050&utm_source=git)** | US: Research Triangle Park NC | On Site | Jul 29 |
@@ -68,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[LUG Sports Group](https://www.lugsports.com)** | **[Campus Commissioner - Michigan Tech](https://jobright.ai/jobs/info/68891558aab47a17f66fea8b?utm_campaign=1050&utm_source=git)** | Houghton, MI | Hybrid | Jul 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688913f79f961617fe211651?utm_campaign=1050&utm_source=git)** | Foley, AL | On Site | Jul 29 |
 | **[SCJ Alliance](http://scjalliance.com)** | **[SCJ Internship](https://jobright.ai/jobs/info/68893642aab47a17f66ffeb8?utm_campaign=1050&utm_source=git)** | Washington, United States | On Site | Jul 29 |
-| **[Textron](http://textron.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/688909a69f961617fe211247?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
-| ↳ | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/6889040baab47a17f66fe3e1?utm_campaign=1050&utm_source=git)** | US-Arizona-Mesa | On Site | Jul 29 |
+| **[Textron](http://textron.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/68890ce0aab47a17f66fe7aa?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
+| ↳ | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/6889044409808a6103e442ec?utm_campaign=1050&utm_source=git)** | US-Arizona-Mesa | On Site | Jul 29 |
 | **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/6888fe349f961617fe210da7?utm_campaign=1050&utm_source=git)** | Bloomington, MN, United States | On Site | Jul 29 |
 | **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Intern, Operations](https://jobright.ai/jobs/info/6888fa8509808a6103e43ee4?utm_campaign=1050&utm_source=git)** | Bloomington, MN, United States | On Site | Jul 29 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Intern, Operations](https://jobright.ai/jobs/info/6888f9c609808a6103e43e1a?utm_campaign=1050&utm_source=git)** | Bloomington, MN, United States | On Site | Jul 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6888502673e3e13cbd94441b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6887994e4174df41e0f9f228?utm_campaign=1050&utm_source=git)** | Hammond, IN | On Site | Jul 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/688798c0fbbf032d00075099?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Jul 28 |
-| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Supply Chain Associate I (Intern/Co-op Conversion)](https://jobright.ai/jobs/info/688797d0fbbf032d00074fea?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Jul 28 |
-| **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Project Management (Posting)](https://jobright.ai/jobs/info/6887978cfbbf032d00074fa5?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Jul 28 |
-| **[Belmont University](http://www.belmont.edu/)** | **[COM, Office of Dean - Administrative Assistant](https://jobright.ai/jobs/info/68879a09fbbf032d00075108?utm_campaign=1050&utm_source=git)** | USA | On Site | Jul 28 |
-| **[e-regio GmbH & Co. KG](https://www.e-regio.de)** | **[Kaufleute für Büromanagement (m/w/d) 2026](https://jobright.ai/jobs/info/68877fbb73e3e13cbd93e071?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Jul 28 |
-| **[Adjuvant Health](https://adjuvant.health/)** | **[Intern](https://jobright.ai/jobs/info/688779f6fbbf032d000745a0?utm_campaign=1050&utm_source=git)** | Allied Pediatrics and Family Medicine of Bellmore-Merrick | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

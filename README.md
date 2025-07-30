@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/688a20fc9f961617fe2198db?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Jul 30 |
+| **[MSU Residential and Hospitality Services](sle.msu.edu)** | **[Clerical Aide](https://jobright.ai/jobs/info/688a204f9f961617fe21988d?utm_campaign=1050&utm_source=git)** | House, NM | On Site | Jul 30 |
+| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Stadium and Event Operations Intern - Fall 2025](https://jobright.ai/jobs/info/686d7197e46684f583ca8cbb?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Jul 30 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/6872129706ad7073463cafeb?utm_campaign=1050&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 30 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Supply Chain](https://jobright.ai/jobs/info/6889fb0209808a6103e4c3a4?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jul 30 |
 | ↳ | **[2026 Summer Corporate Intern - Procurement](https://jobright.ai/jobs/info/6889f78caab47a17f67063d0?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jul 30 |
 | ↳ | **[2026 Summer Corporate Intern - Business Operations](https://jobright.ai/jobs/info/6889f6a5aab47a17f670639f?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jul 30 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/688997f6aab47a17f6702f40?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6889980f09808a6103e48e51?utm_campaign=1050&utm_source=git)** | Lancaster, SC | On Site | Jul 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/68898f1609808a6103e4891f?utm_campaign=1050&utm_source=git)** | Lake Charles, LA | On Site | Jul 29 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68894b519f961617fe213620?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Project Manager (Fall 2025)](https://jobright.ai/jobs/info/68894510aab47a17f6700716?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jul 29 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893fd39f961617fe213171?utm_campaign=1050&utm_source=git)** | US, Indianapolis IN | On Site | Jul 29 |
 | ↳ | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/68893f6caab47a17f67003c0?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Jul 29 |
@@ -103,7 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Convention Operations Intern](https://jobright.ai/jobs/info/688921359f961617fe2120e3?utm_campaign=1050&utm_source=git)** | (Remote) Washington, DC Preferred | Remote | Jul 29 |
 | ↳ | **[International Convention Operations Intern](https://jobright.ai/jobs/info/6889966e09808a6103e48d5b?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jul 29 |
 | **[Park Nicollet Health Services](http://www.parknicollet.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/688996ca09808a6103e48d8d?utm_campaign=1050&utm_source=git)** | Bloomington, MN | On Site | Jul 29 |
-| **[LUG Sports Group](https://www.lugsports.com)** | **[Campus Commissioner - Michigan Tech](https://jobright.ai/jobs/info/68891558aab47a17f66fea8b?utm_campaign=1050&utm_source=git)** | Houghton, MI | Hybrid | Jul 29 |
+| **[LUG Sports Group ](https://www.lugsports.com)** | **[Campus Commissioner - Michigan Tech](https://jobright.ai/jobs/info/68891558aab47a17f66fea8b?utm_campaign=1050&utm_source=git)** | Houghton, MI | Hybrid | Jul 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688913f79f961617fe211651?utm_campaign=1050&utm_source=git)** | Foley, AL | On Site | Jul 29 |
 | **[SCJ Alliance](http://scjalliance.com)** | **[SCJ Internship](https://jobright.ai/jobs/info/68893642aab47a17f66ffeb8?utm_campaign=1050&utm_source=git)** | Washington, United States | On Site | Jul 29 |
 | **[Textron](http://textron.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/688909a69f961617fe211247?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jul 29 |
@@ -124,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Franciscan Missionaries of Our Lady University](https://www.franu.edu/)** | **[Administrative Intern - Lake Foundation](https://jobright.ai/jobs/info/6888e082aab47a17f66fd47a?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 29 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist (Program Manager)](https://jobright.ai/jobs/info/6889188509808a6103e44b11?utm_campaign=1050&utm_source=git)** | Hyannis, MA | On Site | Jul 29 |
 | **[Castleton Commodities International](http://www.cci.com/)** | **[Operations & Finance Leadership Internship Program (Summer 2026 Start)](https://jobright.ai/jobs/info/687eae922097a271a8996fa7?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jul 29 |
+| **[Porsche Cars North America](http://www.porscheusa.com)** | **[IT Projects and Governance Intern](https://jobright.ai/jobs/info/686bfb7335584b6542e3133d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jul 29 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee -Facilities Management - Landscape Services](https://jobright.ai/jobs/info/6888b190aab47a17f66fc9bf?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jul 29 |
 | **[Graphic Packaging International](http://www.graphicpkg.com)** | **[Intern](https://jobright.ai/jobs/info/6888b15c9f961617fe20f5e8?utm_campaign=1050&utm_source=git)** | Visalia, CA | On Site | Jul 29 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Operations Development Summer Analyst Program - 2026](https://jobright.ai/jobs/info/684fc592e2161bf0dee62657?utm_campaign=1050&utm_source=git)** | Greater Phoenix Area | On Site | Jul 29 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Med 44 Arcadia](http://med44arcadia.com)** | **[Front Office Coordinator/Clinical Assistant- Level 1 Internship](https://jobright.ai/jobs/info/68885cf1fbbf032d0007b248?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jul 28 |
 | **[Ascension](https://healthcare.ascension.org)** | **[CST Intern](https://jobright.ai/jobs/info/688838d773e3e13cbd9430fa?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jul 28 |
 | **[Ontic](http://www.ontic.com/)** | **[Intern - Operations and Analytics](https://jobright.ai/jobs/info/688836564174df41e0fa368f?utm_campaign=1050&utm_source=git)** | Chatsworth, CA | On Site | Jul 28 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688858074174df41e0fa54a2?utm_campaign=1050&utm_source=git)** | Norfolk, NE | On Site | Jul 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/688856a5fbbf032d0007af0b?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Jul 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/688858dcfbbf032d0007b013?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Jul 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68885df773e3e13cbd944e8d?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Jul 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/688851804174df41e0fa4c6a?utm_campaign=1050&utm_source=git)** | Burlington, WI | On Site | Jul 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688856a5fbbf032d0007af0b?utm_campaign=1050&utm_source=git)** | St Croix Falls, WI | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

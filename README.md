@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A24](http://a24films.com/)** | **[Workplace Experience Intern (NYC)](https://jobright.ai/jobs/info/688c48063a30793eb9641c38?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688c400d906ac06e1d1d24eb?utm_campaign=1050&utm_source=git)** | Lewis Center, OH | On Site | Jul 31 |
+| **[Seton Hall University](http://www.shu.edu/)** | **[Office Assistant - Arts & Sciences - 2025/26](https://jobright.ai/jobs/info/688c3fb63a30793eb9641701?utm_campaign=1050&utm_source=git)** | South Orange, NJ | On Site | Jul 31 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688c3e7e906ac06e1d1d243f?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Jul 31 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/688c3e2e1808534a89cb9e15?utm_campaign=1050&utm_source=git)** | Washington, IL | On Site | Jul 31 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Academic Affairs, Tahlequah](https://jobright.ai/jobs/info/688c38701808534a89cb97a6?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jul 31 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/688c37853a30793eb9640f99?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jul 31 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688c36643a30793eb9640ef1?utm_campaign=1050&utm_source=git)** | Rapid City, SD | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Program Innovation & Design Intern – Spring 2026](https://jobright.ai/jobs/info/688c24691808534a89cb8b3a?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/688c3f26906ac06e1d1d2489?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Jul 31 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Amazon Program Manager Intern at Amazon](https://jobright.ai/jobs/info/688c0c7e1808534a89cb7f1c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Project Management Intern – Spring 2026](https://jobright.ai/jobs/info/688c18431808534a89cb8510?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
 | ↳ | **[Latin America Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688c16011808534a89cb8449?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
@@ -73,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Championship Management](https://jobright.ai/jobs/info/688bfccb906ac06e1d1cff43?utm_campaign=1050&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jul 31 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688c1dae3a30793eb9640199?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Jul 31 |
 | **[Calspan](http://www.calspan.com)** | **[Calspan LEAP Intern](https://jobright.ai/jobs/info/688bfa42906ac06e1d1cfdff?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jul 31 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688c34613a30793eb9640dcd?utm_campaign=1050&utm_source=git)** | Holland, OH | On Site | Jul 31 |
-| **[Boone Supported Living](https://boonesupportedliving.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/688c38573a30793eb9641006?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Jul 31 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688c3fe4906ac06e1d1d24da?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Jul 31 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/688c34613a30793eb9640dcd?utm_campaign=1050&utm_source=git)** | Holland, OH | On Site | Jul 31 |
 | **[The Cancer & Hematology Centers ](https://www.chcwm.com)** | **[Intern - Administrative Assistant](https://jobright.ai/jobs/info/688bf871906ac06e1d1cfd23?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temp Hire](https://jobright.ai/jobs/info/688bf7253a30793eb963f054?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jul 31 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Basketball Operations](https://jobright.ai/jobs/info/688bf185906ac06e1d1cf9ec?utm_campaign=1050&utm_source=git)** | USA-CA - California Remote | Remote | Jul 31 |
@@ -144,17 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/688b81021808534a89cb3857?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 31 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688b7f27906ac06e1d1cbd09?utm_campaign=1050&utm_source=git)** | Aurora, Colorado, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688b7f27906ac06e1d1cbd0a?utm_campaign=1050&utm_source=git)** | Davenport, Iowa, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688b7f1e906ac06e1d1cbcfe?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/688b7f1e906ac06e1d1cbcff?utm_campaign=1050&utm_source=git)** | Tucson, Arizona, USA | On Site | Jul 31 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688b7f1e906ac06e1d1cbcfe?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/688b7f1e906ac06e1d1cbd01?utm_campaign=1050&utm_source=git)** | West Jordan, Utah, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688b7f15906ac06e1d1cbcf3?utm_campaign=1050&utm_source=git)** | West Jefferson, Ohio, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/688b7f0f906ac06e1d1cbcec?utm_campaign=1050&utm_source=git)** | Tanner, Alabama, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688b7f0f906ac06e1d1cbcea?utm_campaign=1050&utm_source=git)** | Rossford, Ohio, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/688b7f00906ac06e1d1cbcdb?utm_campaign=1050&utm_source=git)** | Rochester, New York, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/688b7ef8906ac06e1d1cbcd2?utm_campaign=1050&utm_source=git)** | Pasco, Washington, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/688b7eef906ac06e1d1cbcc2?utm_campaign=1050&utm_source=git)** | Rialto, California, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/688b7eef906ac06e1d1cbcc1?utm_campaign=1050&utm_source=git)** | Fishersville, Virginia, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/688b7ee7906ac06e1d1cbcb8?utm_campaign=1050&utm_source=git)** | Orlando, Florida, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/688b7ee7906ac06e1d1cbcb7?utm_campaign=1050&utm_source=git)** | Bakersfield, California, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688b7ee7906ac06e1d1cbcb9?utm_campaign=1050&utm_source=git)** | Monee, Illinois, USA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

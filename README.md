@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/688c695b3a30793eb9643164?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 01 |
+| **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57c6906ac06e1d1d3683?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Jul 31 |
+| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57b6906ac06e1d1d3676?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas, United States of America | On Site | Jul 31 |
+| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57ad1808534a89cbaf2f?utm_campaign=1050&utm_source=git)** | Boulder, Colorado, United States of America | On Site | Jul 31 |
+| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57a51808534a89cbaf1d?utm_campaign=1050&utm_source=git)** | Memphis, Tennessee, United States of America | On Site | Jul 31 |
+| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c5793906ac06e1d1d364d?utm_campaign=1050&utm_source=git)** | Irvine, California, United States of America | On Site | Jul 31 |
 | **[A24](http://a24films.com/)** | **[Workplace Experience Intern (NYC)](https://jobright.ai/jobs/info/688c48063a30793eb9641c38?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688c400d906ac06e1d1d24eb?utm_campaign=1050&utm_source=git)** | Lewis Center, OH | On Site | Jul 31 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Office Assistant - Arts & Sciences - 2025/26](https://jobright.ai/jobs/info/688c3fb63a30793eb9641701?utm_campaign=1050&utm_source=git)** | South Orange, NJ | On Site | Jul 31 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/688b81021808534a89cb3857?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 31 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688b7f27906ac06e1d1cbd09?utm_campaign=1050&utm_source=git)** | Aurora, Colorado, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688b7f27906ac06e1d1cbd0a?utm_campaign=1050&utm_source=git)** | Davenport, Iowa, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/688b7f1e906ac06e1d1cbcff?utm_campaign=1050&utm_source=git)** | Tucson, Arizona, USA | On Site | Jul 31 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688b7f1e906ac06e1d1cbcfe?utm_campaign=1050&utm_source=git)** | Erlanger, Kentucky, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/688b7f1e906ac06e1d1cbd01?utm_campaign=1050&utm_source=git)** | West Jordan, Utah, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688b7f15906ac06e1d1cbcf3?utm_campaign=1050&utm_source=git)** | West Jefferson, Ohio, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/688b7f0f906ac06e1d1cbcec?utm_campaign=1050&utm_source=git)** | Tanner, Alabama, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688b7f0f906ac06e1d1cbcea?utm_campaign=1050&utm_source=git)** | Rossford, Ohio, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/688b7f00906ac06e1d1cbcdb?utm_campaign=1050&utm_source=git)** | Rochester, New York, USA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

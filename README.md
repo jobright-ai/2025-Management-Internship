@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ontic](http://www.ontic.com/)** | **[Intern - Operations and Analytics](https://jobright.ai/jobs/info/688ca7c81808534a89cbe25e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
+| **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 RLH Office Assistant (Work Study)](https://jobright.ai/jobs/info/688ca79227f9022553c06295?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Aug 01 |
+| **[State of Illinois](https://www2.illinois.gov/)** | **[OFFICE COORDINATOR](https://jobright.ai/jobs/info/688ca6ac3a30793eb9645a4d?utm_campaign=1050&utm_source=git)** | Jacksonville, IL | Hybrid | Aug 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/688ca9561808534a89cbe312?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Aug 01 |
 | **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/688c695b3a30793eb9643164?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 01 |
-| **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57b6906ac06e1d1d3676?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas, United States of America | On Site | Jul 31 |
-| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57a51808534a89cbaf1d?utm_campaign=1050&utm_source=git)** | Memphis, Tennessee, United States of America | On Site | Jul 31 |
-| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57973a30793eb964260a?utm_campaign=1050&utm_source=git)** | Boulder, Colorado, United States of America | On Site | Jul 31 |
-| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57973a30793eb964260b?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Jul 31 |
+| **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57c6906ac06e1d1d3683?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Jul 31 |
+| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57b6906ac06e1d1d3676?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas, United States of America | On Site | Jul 31 |
+| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57ad1808534a89cbaf2f?utm_campaign=1050&utm_source=git)** | Boulder, Colorado, United States of America | On Site | Jul 31 |
+| ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57a8906ac06e1d1d366d?utm_campaign=1050&utm_source=git)** | Memphis, Tennessee, United States of America | On Site | Jul 31 |
 | ↳ | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c5793906ac06e1d1d364d?utm_campaign=1050&utm_source=git)** | Irvine, California, United States of America | On Site | Jul 31 |
 | **[A24](http://a24films.com/)** | **[Workplace Experience Intern (NYC)](https://jobright.ai/jobs/info/688c48063a30793eb9641c38?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688c400d906ac06e1d1d24eb?utm_campaign=1050&utm_source=git)** | Lewis Center, OH | On Site | Jul 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Masters Supply Chain Rotational Program (SCALE) - Intern to Full Time](https://jobright.ai/jobs/info/688b82193a30793eb963b0ca?utm_campaign=1050&utm_source=git)** | US: Research Triangle Park NC | On Site | Jul 31 |
 | ↳ | **[Masters Supply Chain Rotational Program (SCALE) - Intern to Full Time](https://jobright.ai/jobs/info/688b81de906ac06e1d1cbde4?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Jul 31 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688b9f6c1808534a89cb47c7?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jul 31 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/688ba000906ac06e1d1ccd61?utm_campaign=1050&utm_source=git)** | Mason City, IA | On Site | Jul 31 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/688b81021808534a89cb3857?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jul 31 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688b7f27906ac06e1d1cbd09?utm_campaign=1050&utm_source=git)** | Aurora, Colorado, USA | On Site | Jul 31 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/688b7f27906ac06e1d1cbd0a?utm_campaign=1050&utm_source=git)** | Davenport, Iowa, USA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

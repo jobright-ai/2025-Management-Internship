@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Operations & Finance, Global Sponsorship](https://jobright.ai/jobs/info/688cbcc627f9022553c06ad6?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/688cb4e73a30793eb9645e37?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Aug 01 |
+| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/688caaaa27f9022553c0643c?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Aug 01 |
 | **[Ontic](http://www.ontic.com/)** | **[Intern - Operations and Analytics](https://jobright.ai/jobs/info/688ca7c81808534a89cbe25e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 RLH Office Assistant (Work Study)](https://jobright.ai/jobs/info/688ca79227f9022553c06295?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Aug 01 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[OFFICE COORDINATOR](https://jobright.ai/jobs/info/688ca6ac3a30793eb9645a4d?utm_campaign=1050&utm_source=git)** | Jacksonville, IL | Hybrid | Aug 01 |
+| **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688cc0121808534a89cbea0a?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/688ca9561808534a89cbe312?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Aug 01 |
 | **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/688c695b3a30793eb9643164?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 01 |
 | **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688c57c6906ac06e1d1d3683?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota, United States of America | On Site | Jul 31 |
@@ -92,13 +96,10 @@ For a complete list, click the following sortable link below:
 | **[Calspan](http://www.calspan.com)** | **[Calspan LEAP Intern](https://jobright.ai/jobs/info/688bfa42906ac06e1d1cfdff?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jul 31 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/688c3fe4906ac06e1d1d24da?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Jul 31 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/688c34613a30793eb9640dcd?utm_campaign=1050&utm_source=git)** | Holland, OH | On Site | Jul 31 |
-| **[The Cancer & Hematology Centers ](https://www.chcwm.com)** | **[Intern - Administrative Assistant](https://jobright.ai/jobs/info/688bf871906ac06e1d1cfd23?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temp Hire](https://jobright.ai/jobs/info/688bf7253a30793eb963f054?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jul 31 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Basketball Operations](https://jobright.ai/jobs/info/688bf185906ac06e1d1cf9ec?utm_campaign=1050&utm_source=git)** | USA-CA - California Remote | Remote | Jul 31 |
 | **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/688bf0e3906ac06e1d1cf908?utm_campaign=1050&utm_source=git)** | Glenside, PA | Hybrid | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Project Management Intern – Spring 2026](https://jobright.ai/jobs/info/688be43e906ac06e1d1cf4c3?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Analyst Intern (Melbourne, FL)](https://jobright.ai/jobs/info/688be41d1808534a89cb701e?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Jul 31 |
-| **[OneOncology](https://oneoncology.com/)** | **[Intern - Administrative Assistant](https://jobright.ai/jobs/info/688be3cd906ac06e1d1cf3fb?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Project Management Intern – Spring 2026](https://jobright.ai/jobs/info/688be3bd1808534a89cb6fef?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | ↳ | **[South Asia Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3b0906ac06e1d1cf3d0?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 | ↳ | **[South Asia Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3ad1808534a89cb6fd3?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Masters Supply Chain Rotational Program (SCALE) - Intern to Full Time](https://jobright.ai/jobs/info/688b82353a30793eb963b0e6?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Jul 31 |
 | ↳ | **[Masters Supply Chain Rotational Program (SCALE) - Intern to Full Time](https://jobright.ai/jobs/info/688b82193a30793eb963b0ca?utm_campaign=1050&utm_source=git)** | US: Research Triangle Park NC | On Site | Jul 31 |
 | ↳ | **[Masters Supply Chain Rotational Program (SCALE) - Intern to Full Time](https://jobright.ai/jobs/info/688b81de906ac06e1d1cbde4?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Jul 31 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/688b9f6c1808534a89cb47c7?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Operations Manager / Team Lead (Intern)](https://jobright.ai/jobs/info/688f2d686a4aac5783cdd025?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Aug 03 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d936a4aac5783cdc97f?utm_campaign=1050&utm_source=git)** | Syracuse, UT | On Site | Aug 03 |
 | ↳ | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d8de5cead4afd4600cb?utm_campaign=1050&utm_source=git)** | Clearfield, UT | On Site | Aug 03 |
 | ↳ | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0c98e5cead4afd460075?utm_campaign=1050&utm_source=git)** | Great Falls, MT | On Site | Aug 03 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[moomoo ](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68378e7a0107b2eb81650992?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Aug 02 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/68716532a5ae807a59cff529?utm_campaign=1050&utm_source=git)** | Towson, MD | On Site | Aug 02 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Office Specialist V](https://jobright.ai/jobs/info/688edb85e5cead4afd45dbf5?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Aug 02 |
-| **[PROJXON](www.projxon.com)** | **[Project Manager / Management Intern](https://jobright.ai/jobs/info/688dcd446a4aac5783cd78dc?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Aug 02 |
 | **[ABB](https://global.abb/group/en)** | **[Project Operations Internship](https://jobright.ai/jobs/info/688dcb2ecdbd821a3663f9fd?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Operation Intern for CI](https://jobright.ai/jobs/info/688dc918e5cead4afd45ac1d?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/688dc90fe5cead4afd45ac15?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
@@ -116,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d65063a30793eb964aaa7?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 01 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d63ce27f9022553c0b187?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d621727f9022553c0b05e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
-| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/688d7e12cdbd821a3663a8e6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/688d7f07e5cead4afd455e58?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 01 |
+| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/688d7f07e5cead4afd455e58?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 01 |
+| ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/688d7e12cdbd821a3663a8e6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/688d7b776a4aac5783cd2574?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Aug 01 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6255](https://jobright.ai/jobs/info/688d5e723a30793eb964a6ef?utm_campaign=1050&utm_source=git)** | Kodiak, AK | On Site | Aug 01 |
 | **[Pheronym](https://www.pheronym.com/)** | **[Intern: Business and administrative](https://jobright.ai/jobs/info/688eca81e5cead4afd45d54b?utm_campaign=1050&utm_source=git)** | Woodland, CA | On Site | Aug 01 |
@@ -142,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[Student Assistant (Strategic Analytics)](https://jobright.ai/jobs/info/688d27811808534a89cc148f?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Aug 01 |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Operations Intern, Fall 2025 (Part-Time)](https://jobright.ai/jobs/info/688dbc31cdbd821a3663e984?utm_campaign=1050&utm_source=git)** | Orono, ME | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Operations Intern (TikTok LIVE-AMS)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688e2c47cdbd821a36640c78?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[1st Team Admin 2025 MLS Season Intern](https://jobright.ai/jobs/info/688e326dcdbd821a36640f1d?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Aug 01 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[BreakingTaboo](https://breaking-taboo.org)** | **[Assistant to CEO Internship Position](https://jobright.ai/jobs/info/688d1c543a30793eb9648a53?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship (LDP Intern Conversion)](https://jobright.ai/jobs/info/688d1ae23a30793eb96488dc?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 01 |
 | **[University of Kentucky](https://ccm.med.uky.edu/)** | **[FWS Fall 2025, Library Administration W.T. Young Library Graduate Intern 3rd Shift & Weekends](https://jobright.ai/jobs/info/688d1aad3a30793eb96488c4?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Aug 01 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/688d16833a30793eb96486e3?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Aug 01 |
 | **[Endorize](https://endorize.com)** | **[Medical Doctor Intern](https://jobright.ai/jobs/info/688d11943a30793eb964850b?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 01 |

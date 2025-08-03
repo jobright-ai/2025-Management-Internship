@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/688f92e6e5cead4afd460f33?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 03 |
 | **[Pacific Coast Building Products](https://paccoast.com/)** | **[Office Intern](https://jobright.ai/jobs/info/688f489f6a4aac5783cdd1ea?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Aug 03 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/688f45b3e5cead4afd4608bd?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d877d?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d936a4aac5783cdc97f?utm_campaign=1050&utm_source=git)** | Syracuse, UT | On Site | Aug 03 |
 | ↳ | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d8de5cead4afd4600cb?utm_campaign=1050&utm_source=git)** | Clearfield, UT | On Site | Aug 03 |
 | ↳ | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0c98e5cead4afd460075?utm_campaign=1050&utm_source=git)** | Great Falls, MT | On Site | Aug 03 |
-| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/688ef5f7e5cead4afd45f20d?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 02 |
 | **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Internship Program (Houston, TX/ Baton Rouge, LA/ Decatur, IL) - Austin Industrial](https://jobright.ai/jobs/info/688ed95dcdbd821a366428f9?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Aug 02 |
 | ↳ | **[2026 Summer Internship Program (Houston, TX/ Baton Rouge, LA/ Decatur, IL) - Austin Industrial](https://jobright.ai/jobs/info/688ed8bccdbd821a366428cb?utm_campaign=1050&utm_source=git)** | Decatur, IL | On Site | Aug 02 |
 | ↳ | **[2026 Summer Internship Program (Houston, TX/ Baton Rouge, LA/ Decatur, IL) - Austin Industrial](https://jobright.ai/jobs/info/688ed1f8e5cead4afd45d707?utm_campaign=1050&utm_source=git)** | La Porte, TX | On Site | Aug 02 |
@@ -125,7 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d68333a30793eb964ac3d?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/688d679c1808534a89cc3178?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d65063a30793eb964aaa7?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 01 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d63ce27f9022553c0b187?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d632927f9022553c0b0d3?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d621727f9022553c0b05e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/688d7f07e5cead4afd455e58?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/688d7b776a4aac5783cd2574?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Aug 01 |

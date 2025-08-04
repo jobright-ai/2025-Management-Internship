@@ -68,6 +68,7 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | **[Teamworks](http://www.teamworks.com)** | **[Operations Intern (Fall Semester) - Remote](https://jobright.ai/jobs/info/6881118f16ea5743a37359dc?utm_campaign=1050&utm_source=git)** | Remote (United States) | Hybrid | Aug 03 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d877d?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
+| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/688f92e6e5cead4afd460f33?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 03 |
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/6838e939a7bb7d65a7a263d1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Pacific Coast Building Products](https://paccoast.com/)** | **[Office Intern](https://jobright.ai/jobs/info/688f489f6a4aac5783cdd1ea?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Aug 03 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/688f45b3e5cead4afd4608bd?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
@@ -76,7 +77,6 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d936a4aac5783cdc97f?utm_campaign=1050&utm_source=git)** | Syracuse, UT | On Site | Aug 03 |
 | ↳ | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d8de5cead4afd4600cb?utm_campaign=1050&utm_source=git)** | Clearfield, UT | On Site | Aug 03 |
 | ↳ | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0c98e5cead4afd460075?utm_campaign=1050&utm_source=git)** | Great Falls, MT | On Site | Aug 03 |
-| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/688ef5f7e5cead4afd45f20d?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 02 |
 | **[Austin Industries](http://www.austin-ind.com)** | **[2026 Summer Internship Program (Houston, TX/ Baton Rouge, LA/ Decatur, IL) - Austin Industrial](https://jobright.ai/jobs/info/688ed95dcdbd821a366428f9?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Aug 02 |
 | ↳ | **[2026 Summer Internship Program (Houston, TX/ Baton Rouge, LA/ Decatur, IL) - Austin Industrial](https://jobright.ai/jobs/info/688ed8bccdbd821a366428cb?utm_campaign=1050&utm_source=git)** | Decatur, IL | On Site | Aug 02 |
 | ↳ | **[2026 Summer Internship Program (Houston, TX/ Baton Rouge, LA/ Decatur, IL) - Austin Industrial](https://jobright.ai/jobs/info/688ed1f8e5cead4afd45d707?utm_campaign=1050&utm_source=git)** | La Porte, TX | On Site | Aug 02 |
@@ -106,7 +106,6 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | **[ABB](https://global.abb/group/en)** | **[Project Operations Internship](https://jobright.ai/jobs/info/688dcb2ecdbd821a3663f9fd?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Operation Intern for CI](https://jobright.ai/jobs/info/688dc918e5cead4afd45ac1d?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/688dc90fe5cead4afd45ac15?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/688dc7f7e5cead4afd45ab5f?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Order Management Intern](https://jobright.ai/jobs/info/688dc76de5cead4afd45aafc?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | ↳ | **[Intern-Planning and purchasing assistant](https://jobright.ai/jobs/info/688dc4e96a4aac5783cd7361?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 | **[Affinity Home Health Care Inc](http://www.affinityhomehealthcare.com/)** | **[Registered Nurse Residency-Nursing Internship-St. Frances Cabrini](https://jobright.ai/jobs/info/688dc418cdbd821a3663f3b1?utm_campaign=1050&utm_source=git)** | Woodworth, LA | On Site | Aug 02 |
@@ -158,4 +157,5 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | **[HNTB](http://www.hntb.com/)** | **[Returning Intern/Co-Op Project Controls/Planner -  MAD Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/688aef2c09808a6103e526cd?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 01 |
 | **[TabaPay](https://www.tabapay.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/688d473127f9022553c0a7c9?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Aug 01 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern, Mission Critical](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88034070?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 01 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Business Administration Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/688a60779f961617fe21b16d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

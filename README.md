@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mike & Mike's Desserts™ ](http://www.mikeandmikesdesserts.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6890f2404c7e851b90acacab?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Aug 04 |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/6890e525f5ee707a15dba8ae?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Aug 04 |
+| **[We Crush Events](https://www.wecrushevents.com/)** | **[Admin/Events Paid Intern](https://jobright.ai/jobs/info/6890e449f5ee707a15dba7a8?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
+| **[Western States Fire Protection](https://www.wsfp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6890df82f47efe2113951018?utm_campaign=1050&utm_source=git)** | Lake Oswego, OR | On Site | Aug 04 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Business Operations Intern - Part Time](https://jobright.ai/jobs/info/6890da75f5ee707a15dba364?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Aug 04 |
 | **[DocPlace](https://www.docplace.io)** | **[Administrative Operations Intern](https://jobright.ai/jobs/info/6890d70cf47efe2113950cca?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Aug 04 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Operations  Intern](https://jobright.ai/jobs/info/6890d531f47efe2113950c05?utm_campaign=1050&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Aug 04 |
 | **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship (LDP Intern Conversion)](https://jobright.ai/jobs/info/688d1ae23a30793eb96488dc?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
 | **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Administrative Resident](https://jobright.ai/jobs/info/6890cc63f47efe21139505fb?utm_campaign=1050&utm_source=git)** | 2100 Sherman Ave, Norwood, OH, 45212, US | On Site | Aug 04 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Program Manager (SkillBridge Intern) - 21625](https://jobright.ai/jobs/info/6858509b25fb735695528e6b?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Aug 04 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #816](https://jobright.ai/jobs/info/68909c92f5ee707a15db80a5?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Aug 04 |
 | **[University of Portland](http://www.up.edu)** | **[Social Sciences Office Assistant](https://jobright.ai/jobs/info/68909a844c7e851b90ac7e99?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Aug 04 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Administrative Support Internship at DMAX Foundation](https://jobright.ai/jobs/info/6890b1eaf47efe211394f822?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
@@ -152,10 +158,4 @@ Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_camp
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68296f36e24209bb5e385c59?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d68b227f9022553c0b4cd?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Aug 01 |
 | ↳ | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d68333a30793eb964ac3d?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/688d679c1808534a89cc3178?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 01 |
-| **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d65063a30793eb964aaa7?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 01 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d632927f9022553c0b0d3?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
-| **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d621727f9022553c0b05e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
-| **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/688d7b776a4aac5783cd2574?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Aug 01 |
-| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6255](https://jobright.ai/jobs/info/688d5e723a30793eb964a6ef?utm_campaign=1050&utm_source=git)** | Kodiak, AK | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

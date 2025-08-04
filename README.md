@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Intern - San Miguel](https://jobright.ai/jobs/info/6890773df47efe211394d5c1?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Aug 04 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN – STRATEGIC PLANNING
+Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 04 |
+| **[Washington University in St. Louis](https://wustl.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/68906fc4f5ee707a15db6bb7?utm_campaign=1050&utm_source=git)** | Greater St. Louis | Remote | Aug 04 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Fixed Income, Business Support & Operations Internship Program](https://jobright.ai/jobs/info/68904b50f5ee707a15db5f32?utm_campaign=1050&utm_source=git)** | Newark, NJ | Hybrid | Aug 03 |
 | **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Intern Personal Assistant](https://jobright.ai/jobs/info/68904b16f5ee707a15db5f23?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68904609f5ee707a15db58b6?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 03 |
@@ -155,7 +159,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | ↳ | **[Returning Business Administration Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/688a68abaab47a17f6708719?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Orange Blossom Classic ®](http://www.orangeblossomclassic.com/)** | **[Team and Game Operations Intern](https://jobright.ai/jobs/info/688e10e6e5cead4afd45ba69?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Aug 01 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Intern/Co-Op Project Controls/Planner -  MAD Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/688aef2c09808a6103e526cd?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 01 |
-| **[TabaPay](https://www.tabapay.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/688d473127f9022553c0a7c9?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Aug 01 |
-| **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern, Mission Critical](https://jobright.ai/jobs/info/6851fb95ca7b0c1d88034070?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Aug 01 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Business Administration Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/688a60779f961617fe21b16d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

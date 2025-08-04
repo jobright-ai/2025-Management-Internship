@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #816](https://jobright.ai/jobs/info/68909c92f5ee707a15db80a5?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Aug 04 |
+| **[University of Portland](http://www.up.edu)** | **[Social Sciences Office Assistant](https://jobright.ai/jobs/info/68909a844c7e851b90ac7e99?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Aug 04 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Intern - San Miguel](https://jobright.ai/jobs/info/6890773df47efe211394d5c1?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Aug 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN – STRATEGIC PLANNING
 Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 04 |
@@ -67,8 +69,6 @@ Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_camp
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Academic Affairs, Tahlequah](https://jobright.ai/jobs/info/6890291d6a4aac5783cdee0c?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 03 |
 | **[Endorize](https://endorize.com)** | **[Medical Doctor Intern](https://jobright.ai/jobs/info/68901e4ccdbd821a36646973?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Ai2Market](https://ai2market.com/)** | **[Workflow Manager](https://jobright.ai/jobs/info/688ff74ce5cead4afd4616b3?utm_campaign=1050&utm_source=git)** | Laguna Beach, CA | Remote | Aug 03 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Strategic Coordination and Management Support
-Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Teamworks](http://www.teamworks.com)** | **[Operations Intern (Fall Semester) - Remote](https://jobright.ai/jobs/info/6881118f16ea5743a37359dc?utm_campaign=1050&utm_source=git)** | Remote (United States) | Hybrid | Aug 03 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6882f6c7b54cac0f1e733e79?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/685639617d54b6be490d877d?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
@@ -76,7 +76,9 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/6838e939a7bb7d65a7a263d1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Pacific Coast Building Products](https://paccoast.com/)** | **[Office Intern](https://jobright.ai/jobs/info/688f489f6a4aac5783cdd1ea?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Aug 03 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/688f45b3e5cead4afd4608bd?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Aug 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co-Op 2025](https://jobright.ai/jobs/info/687872fb5cebcd1dd51daae9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 03 |
 | **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Office Assistant](https://jobright.ai/jobs/info/688f3e146a4aac5783cdd0c7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 03 |
+| **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator (Logistics/Supply Chain) - Intern](https://jobright.ai/jobs/info/6871b414a5ae807a59d013a8?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 03 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[SUPPLY CHAIN INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/6881b7d316ea5743a373baf4?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Aug 03 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d936a4aac5783cdc97f?utm_campaign=1050&utm_source=git)** | Syracuse, UT | On Site | Aug 03 |
 | ↳ | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/688f0d8de5cead4afd4600cb?utm_campaign=1050&utm_source=git)** | Clearfield, UT | On Site | Aug 03 |
@@ -146,7 +148,7 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | ↳ | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d68333a30793eb964ac3d?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/688d679c1808534a89cc3178?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d65063a30793eb964aaa7?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 01 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d632927f9022553c0b0d3?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d63ce27f9022553c0b187?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d621727f9022553c0b05e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/688d7b776a4aac5783cd2574?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Aug 01 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6255](https://jobright.ai/jobs/info/688d5e723a30793eb964a6ef?utm_campaign=1050&utm_source=git)** | Kodiak, AK | On Site | Aug 01 |
@@ -156,7 +158,4 @@ Job ID : 260592](https://jobright.ai/jobs/info/688fd485e5cead4afd461482?utm_camp
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Facilities Operations – Emerging Talent Intern](https://jobright.ai/jobs/info/688d7c2ce5cead4afd455c8c?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Aug 01 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Intern/Co-Op Project Controls/Planner -  MAD Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/688ae7d6aab47a17f670c553?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Aug 01 |
 | ↳ | **[Returning Business Administration Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/688a55eb09808a6103e4dd99?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | Aug 01 |
-| ↳ | **[Returning Business Administration Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/688a68abaab47a17f6708719?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
-| **[Orange Blossom Classic ®](http://www.orangeblossomclassic.com/)** | **[Team and Game Operations Intern](https://jobright.ai/jobs/info/688e10e6e5cead4afd45ba69?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Aug 01 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Intern/Co-Op Project Controls/Planner -  MAD Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/688aef2c09808a6103e526cd?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

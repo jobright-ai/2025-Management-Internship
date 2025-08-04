@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DocPlace](https://www.docplace.io)** | **[Administrative Operations Intern](https://jobright.ai/jobs/info/6890d70cf47efe2113950cca?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Aug 04 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Operations  Intern](https://jobright.ai/jobs/info/6890d531f47efe2113950c05?utm_campaign=1050&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Aug 04 |
+| **[Truist](https://www.truist.com)** | **[2026 Technology and Innovation Internship (LDP Intern Conversion)](https://jobright.ai/jobs/info/688d1ae23a30793eb96488dc?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
+| **[The Christ Hospital Health Network](https://www.thechristhospital.com/)** | **[Administrative Resident](https://jobright.ai/jobs/info/6890cc63f47efe21139505fb?utm_campaign=1050&utm_source=git)** | 2100 Sherman Ave, Norwood, OH, 45212, US | On Site | Aug 04 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #816](https://jobright.ai/jobs/info/68909c92f5ee707a15db80a5?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Aug 04 |
 | **[University of Portland](http://www.up.edu)** | **[Social Sciences Office Assistant](https://jobright.ai/jobs/info/68909a844c7e851b90ac7e99?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Aug 04 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Administrative Support Internship at DMAX Foundation](https://jobright.ai/jobs/info/6890b1eaf47efe211394f822?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 04 |
@@ -125,7 +129,6 @@ Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_camp
 | **[HNTB](http://www.hntb.com/)** | **[Returning Intern/Co-Op Project Controls/Planner -  MAD Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/688ab94209808a6103e50cbb?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 01 |
 | ↳ | **[Returning Business Administration Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/688a570d9f961617fe21acb0?utm_campaign=1050&utm_source=git)** | Allen Park, MI | On Site | Aug 01 |
 | **[Tu Cha](www.tu-cha.com)** | **[Intern](https://jobright.ai/jobs/info/688d8f0ce5cead4afd457064?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
-| **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/6890389ff5ee707a15db4a8d?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 01 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68903516f5ee707a15db489a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 01 |
 | ↳ | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/688ee0bbcdbd821a36642e9c?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/688ee04c6a4aac5783cdaa89?utm_campaign=1050&utm_source=git)** | Kaneohe, HI | On Site | Aug 01 |
@@ -151,11 +154,8 @@ Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_camp
 | ↳ | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d68333a30793eb964ac3d?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 01 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/688d679c1808534a89cc3178?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d65063a30793eb964aaa7?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 01 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d63ce27f9022553c0b187?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
+| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Acquisitions Management](https://jobright.ai/jobs/info/688d632927f9022553c0b0d3?utm_campaign=1050&utm_source=git)** | Richland, Washington | Hybrid | Aug 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Commercial Internship Program - Summer 2026](https://jobright.ai/jobs/info/688d621727f9022553c0b05e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 01 |
 | **[Orange Bowl Committee](https://www.orangebowl.org/)** | **[Administration Intern](https://jobright.ai/jobs/info/688d7b776a4aac5783cd2574?utm_campaign=1050&utm_source=git)** | Hialeah, FL | On Site | Aug 01 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6255](https://jobright.ai/jobs/info/688d5e723a30793eb964a6ef?utm_campaign=1050&utm_source=git)** | Kodiak, AK | On Site | Aug 01 |
-| **[Pheronym](https://www.pheronym.com/)** | **[Intern: Business and administrative](https://jobright.ai/jobs/info/688eca81e5cead4afd45d54b?utm_campaign=1050&utm_source=git)** | Woodland, CA | On Site | Aug 01 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Facilities Support Management, Emerging Talent Intern](https://jobright.ai/jobs/info/688d9197e5cead4afd4575d0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Kids in the Game ](http://kidsinthegame.com/)** | **[Business Administration Intern](https://jobright.ai/jobs/info/688d85a2e5cead4afd456552?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

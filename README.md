@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/689211fff47efe2113959b22?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (New York, NY)](https://jobright.ai/jobs/info/68921dcdf47efe2113959ecd?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (New York, NY)](https://jobright.ai/jobs/info/68921ae6f47efe2113959e19?utm_campaign=1050&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Pittsburgh, PA)](https://jobright.ai/jobs/info/68921ab04c7e851b90ad3396?utm_campaign=1050&utm_source=git)** | 500 Ross Street, Pittsburgh, PA, 15262, US | On Site | Aug 05 |
+| **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/68921a6af47efe2113959dda?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Pittsburgh, PA)](https://jobright.ai/jobs/info/689213d74c7e851b90ad30dc?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (Lake Mary, FL)](https://jobright.ai/jobs/info/68921183f5ee707a15dc3003?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
 | **[Thizzler On The Roof](https://www.thizzler.com)** | **[Operations Admin Intern](https://jobright.ai/jobs/info/68920ea9f5ee707a15dc2ef4?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Aug 05 |
 | **[Year Up United](http://yearup.org)** | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/68920d39f5ee707a15dc2ec5?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891e4a7f47efe2113959125?utm_campaign=1050&utm_source=git)** | 500 Grant Street, Pittsburgh, PA, 15258, US | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (Lake Mary, FL)](https://jobright.ai/jobs/info/6891e499f5ee707a15dc2661?utm_campaign=1050&utm_source=git)** | 300 Colonial Center Parkway, Lake Mary, FL, 32746, US | On Site | Aug 05 |
-| ↳ | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/6891e48df5ee707a15dc264f?utm_campaign=1050&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
 | **[RF-SMART](http://rfsmart.com/)** | **[IT Project Manager Intern- Fall 2025](https://jobright.ai/jobs/info/6875496d5cebcd1dd51bf266?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 05 |
+| **[Pathways, Inc.](https://www.pathwaysforyou.org)** | **[Summer Clerical/Scanning Assistant](https://jobright.ai/jobs/info/68922226f47efe211395a011?utm_campaign=1050&utm_source=git)** | Bath, NY | On Site | Aug 05 |
 | **[Surplus](https://www.surpluszorg.nl)** | **[Stage Sociaal Werk Moerdijk](https://jobright.ai/jobs/info/6891dd084c7e851b90ad251d?utm_campaign=1050&utm_source=git)** | Richhill, PA | On Site | Aug 05 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 LGCIE Office Assistant (Work Study)](https://jobright.ai/jobs/info/68920bb6f5ee707a15dc2e74?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Aug 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6891cf99f5ee707a15dc224e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 05 |
@@ -89,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Supply Chain Intern](https://jobright.ai/jobs/info/689170c2f47efe21139553b7?utm_campaign=1050&utm_source=git)** | Maple Grove, MN | Hybrid | Aug 04 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Paid Intern (6 to 12 months)](https://jobright.ai/jobs/info/68916eeaf5ee707a15dbe69c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 | **[ARCO](https://www.arco1952.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c884c7e851b90ace72c?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | Aug 04 |
-| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace718?utm_campaign=1050&utm_source=git)** | Austin, Texas | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace719?utm_campaign=1050&utm_source=git)** | St. Louis Park, Minnesota | On Site | Aug 04 |
+| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace718?utm_campaign=1050&utm_source=git)** | Austin, Texas | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c72f47efe21139551f9?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c4f4c7e851b90ace6dc?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c4a4c7e851b90ace6d4?utm_campaign=1050&utm_source=git)** | Ft. Lauderdale, Florida | On Site | Aug 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Construction Project Management, Infrastructure (Winter/Spring 2026)](https://jobright.ai/jobs/info/6890ff2c4c7e851b90acb119?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Aug 04 |
 | **[ConocoPhillips](http://www.conocophillips.com)** | **[Intern, Commercial 2026](https://jobright.ai/jobs/info/689194bcf5ee707a15dc00f1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 04 |
 | ↳ | **[Intern, Supply Chain 2026](https://jobright.ai/jobs/info/689190d0f47efe2113956b16?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 04 |
-| **[K-State Student Union](https://union.k-state.edu/)** | **[Administrative Assistant  Cat Trax (Student Position)](https://jobright.ai/jobs/info/6890fb59f47efe2113951b57?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Aug 04 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op](https://jobright.ai/jobs/info/6890f9cff5ee707a15dbb0e8?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Aug 04 |
-| **[Mike & Mike's Desserts™ ](http://www.mikeandmikesdesserts.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6890f2404c7e851b90acacab?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Aug 04 |
-| **[K-State Student Union](https://union.k-state.edu/)** | **[Administrative Assistant  Student Programs (Student Position)](https://jobright.ai/jobs/info/6891a8cb4c7e851b90ad14f9?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2026 Program Manager Intern](https://jobright.ai/jobs/info/68867415fbbf032d00070160?utm_campaign=1050&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 04 |
+| **[KerberRose](http://kerberrose.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/689142364c7e851b90acd429?utm_campaign=1050&utm_source=git)** | Marquette, WI | On Site | Aug 04 |
+| **[Launch That](http://launchthat.com)** | **[Technology Operations Intern (Hybrid - Orlando, FL)](https://jobright.ai/jobs/info/68914166f47efe2113953edd?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Aug 04 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/689140ac4c7e851b90acd399?utm_campaign=1050&utm_source=git)** | Warrensville Heights, OH | On Site | Aug 04 |
 | **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689129fd4c7e851b90acca31?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Aug 04 |
 | ↳ | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6891296cf5ee707a15dbc9da?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
 | ↳ | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68912947f47efe2113953460?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Aug 04 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Macquarie Group](https://www.macquarie.com)** | **[2026 Macquarie Asset Management Summer Internship Program](https://jobright.ai/jobs/info/68911920f5ee707a15dbc09d?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 04 |
 | **[Protiviti](http://www.protiviti.com)** | **[New York City Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/689118b54c7e851b90acbfe5?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
 | ↳ | **[St. Louis Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68911669f47efe21139529a2?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Aug 04 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68913555f47efe2113953980?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 04 |
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Administrator In-Training](https://jobright.ai/jobs/info/68911218f5ee707a15dbbe9f?utm_campaign=1050&utm_source=git)** | Bloomington, MN | On Site | Aug 04 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[General Management Corporate Internship Program - Returning Intern](https://jobright.ai/jobs/info/68910e53f5ee707a15dbbb94?utm_campaign=1050&utm_source=git)** | CT - Hartford | Hybrid | Aug 04 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Project SEARCH](https://jobright.ai/jobs/info/68910e4df47efe21139524e2?utm_campaign=1050&utm_source=git)** | Clinton, IA | On Site | Aug 04 |
@@ -80,15 +85,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/68910722f47efe2113952011?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 04 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/6891071b4c7e851b90acb6e9?utm_campaign=1050&utm_source=git)** | Salt Lake City | On Site | Aug 04 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/68910710f47efe2113951ff6?utm_campaign=1050&utm_source=git)** | Arlington Heights | On Site | Aug 04 |
-| **[Launch That](http://launchthat.com)** | **[Technology Operations Intern (Hybrid - Orlando, FL)](https://jobright.ai/jobs/info/68910670f47efe2113951f5c?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Aug 04 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/6891059a4c7e851b90acb4f6?utm_campaign=1050&utm_source=git)** | West Milwaukee | On Site | Aug 04 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/6891059a4c7e851b90acb4f6?utm_campaign=1050&utm_source=git)** | West Milwaukee | On Site | Aug 04 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/68910598f5ee707a15dbb4c0?utm_campaign=1050&utm_source=git)** | Florence SC USA | On Site | Aug 04 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/6891041b4c7e851b90acb375?utm_campaign=1050&utm_source=git)** | Waukesha | On Site | Aug 04 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[LR218032 Modern Apprentice-Business Administration](https://jobright.ai/jobs/info/689121fe4c7e851b90acc583?utm_campaign=1050&utm_source=git)** | Summerfield, MI | On Site | Aug 04 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Construction Project Management, Infrastructure (Winter/Spring 2026)](https://jobright.ai/jobs/info/6890ff2c4c7e851b90acb119?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Aug 04 |
 | **[K-State Student Union](https://union.k-state.edu/)** | **[Administrative Assistant  Cat Trax (Student Position)](https://jobright.ai/jobs/info/6890fb59f47efe2113951b57?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Aug 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op](https://jobright.ai/jobs/info/6890f9cff5ee707a15dbb0e8?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Aug 04 |
-| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/6890f5554c7e851b90acadb1?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 04 |
 | **[Mike & Mike's Desserts™ ](http://www.mikeandmikesdesserts.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6890f2404c7e851b90acacab?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Aug 04 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/6890e525f5ee707a15dba8ae?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Aug 04 |
 | **[Western States Fire Protection](https://www.wsfp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6890df82f47efe2113951018?utm_campaign=1050&utm_source=git)** | Lake Oswego, OR | On Site | Aug 04 |
@@ -111,6 +114,7 @@ Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_camp
 | **[Washington University in St. Louis](https://wustl.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/68906fc4f5ee707a15db6bb7?utm_campaign=1050&utm_source=git)** | Greater St. Louis | Remote | Aug 04 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Fixed Income, Business Support & Operations Internship Program](https://jobright.ai/jobs/info/68904b50f5ee707a15db5f32?utm_campaign=1050&utm_source=git)** | Newark, NJ | Hybrid | Aug 03 |
 | **[Headline Sports Group](http://headlinesportsgroup.com)** | **[Intern Personal Assistant](https://jobright.ai/jobs/info/68904b16f5ee707a15db5f23?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68904609f5ee707a15db58b6?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 03 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Assistant, Academic Affairs, Tahlequah](https://jobright.ai/jobs/info/6890291d6a4aac5783cdee0c?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 03 |
 | **[Endorize](https://endorize.com)** | **[Medical Doctor Intern](https://jobright.ai/jobs/info/68901e4ccdbd821a36646973?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Ai2Market](https://ai2market.com/)** | **[Workflow Manager](https://jobright.ai/jobs/info/688ff74ce5cead4afd4616b3?utm_campaign=1050&utm_source=git)** | Laguna Beach, CA | Remote | Aug 03 |
@@ -154,8 +158,4 @@ Job ID : 262088](https://jobright.ai/jobs/info/68907739f47efe211394d5c0?utm_camp
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20ba?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Aug 02 |
 | **[Precision Castparts](http://precast.com)** | **[2026 Business co-op and Internship opportunities](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124e63?utm_campaign=1050&utm_source=git)** | Toronto, OH | On Site | Aug 02 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Intern/Co-Op Project Controls/Planner -  MAD Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/688ab94caab47a17f670ae0c?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Aug 02 |
-| ↳ | **[Returning Business Administration Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/688a57f009808a6103e4de90?utm_campaign=1050&utm_source=git)** | Ashwaubenon, WI | On Site | Aug 02 |
-| **[Jefferson County Public Schools](http://www.jefferson.kyschools.us/)** | **[Executive Director Extended Programs and Student Learning (2025-2026)](https://jobright.ai/jobs/info/688a379d9f961617fe219f3e?utm_campaign=1050&utm_source=git)** | Louisville Metro | On Site | Aug 02 |
-| **[ABB](https://global.abb/group/en)** | **[Project Operations Internship](https://jobright.ai/jobs/info/688dcb2ecdbd821a3663f9fd?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
-| ↳ | **[Operation Intern for CI](https://jobright.ai/jobs/info/688dc918e5cead4afd45ac1d?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

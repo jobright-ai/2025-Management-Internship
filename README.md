@@ -57,17 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/689211fff47efe2113959b22?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Operations (Lake Mary, FL)](https://jobright.ai/jobs/info/68921183f5ee707a15dc3003?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
+| **[Thizzler On The Roof](https://www.thizzler.com)** | **[Operations Admin Intern](https://jobright.ai/jobs/info/68920ea9f5ee707a15dc2ef4?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Aug 05 |
+| **[Year Up United](http://yearup.org)** | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/68920d39f5ee707a15dc2ec5?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891e4a7f47efe2113959125?utm_campaign=1050&utm_source=git)** | 500 Grant Street, Pittsburgh, PA, 15258, US | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (Lake Mary, FL)](https://jobright.ai/jobs/info/6891e499f5ee707a15dc2661?utm_campaign=1050&utm_source=git)** | 300 Colonial Center Parkway, Lake Mary, FL, 32746, US | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/6891e48df5ee707a15dc264f?utm_campaign=1050&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
 | **[RF-SMART](http://rfsmart.com/)** | **[IT Project Manager Intern- Fall 2025](https://jobright.ai/jobs/info/6875496d5cebcd1dd51bf266?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 05 |
 | **[Surplus](https://www.surpluszorg.nl)** | **[Stage Sociaal Werk Moerdijk](https://jobright.ai/jobs/info/6891dd084c7e851b90ad251d?utm_campaign=1050&utm_source=git)** | Richhill, PA | On Site | Aug 05 |
+| **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 LGCIE Office Assistant (Work Study)](https://jobright.ai/jobs/info/68920bb6f5ee707a15dc2e74?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Aug 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6891cf99f5ee707a15dc224e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 05 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6891c5a5f47efe2113958b18?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - BNY Investments (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891bed1f47efe2113958a28?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | **[ABB](https://global.abb/group/en)** | **[Digital Tools Intern](https://jobright.ai/jobs/info/688dc2e86a4aac5783cd71f3?utm_campaign=1050&utm_source=git)** | Location, WV | Hybrid | Aug 05 |
 | **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/6891b4a3f5ee707a15dc19af?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 05 |
 | **[Teleflex](http://www.teleflex.com)** | **[International Distribution Center Supervisor](https://jobright.ai/jobs/info/6891aac9f5ee707a15dc1581?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Aug 04 |
+| **[Medtronic](https://www.medtronic.com)** | **[Supply Chain/Supply Management Intern – Summer 2026](https://jobright.ai/jobs/info/688cc0121808534a89cbea0a?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/688dc90fe5cead4afd45ac15?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 04 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689191aef5ee707a15dbff59?utm_campaign=1050&utm_source=git)** | New Ulm, MN | On Site | Aug 04 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6891905d4c7e851b90acffd5?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Aug 04 |
@@ -83,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Supply Chain Intern](https://jobright.ai/jobs/info/689170c2f47efe21139553b7?utm_campaign=1050&utm_source=git)** | Maple Grove, MN | Hybrid | Aug 04 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Paid Intern (6 to 12 months)](https://jobright.ai/jobs/info/68916eeaf5ee707a15dbe69c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 | **[ARCO](https://www.arco1952.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c884c7e851b90ace72c?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | Aug 04 |
-| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace719?utm_campaign=1050&utm_source=git)** | St. Louis Park, Minnesota | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace718?utm_campaign=1050&utm_source=git)** | Austin, Texas | On Site | Aug 04 |
+| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace719?utm_campaign=1050&utm_source=git)** | St. Louis Park, Minnesota | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c72f47efe21139551f9?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c4f4c7e851b90ace6dc?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c4a4c7e851b90ace6d4?utm_campaign=1050&utm_source=git)** | Ft. Lauderdale, Florida | On Site | Aug 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op](https://jobright.ai/jobs/info/6890f9cff5ee707a15dbb0e8?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Aug 04 |
 | **[Mike & Mike's Desserts™ ](http://www.mikeandmikesdesserts.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6890f2404c7e851b90acacab?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Aug 04 |
 | **[K-State Student Union](https://union.k-state.edu/)** | **[Administrative Assistant  Student Programs (Student Position)](https://jobright.ai/jobs/info/6891a8cb4c7e851b90ad14f9?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Aug 04 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Undergrad Supply Chain - Intern - Intern](https://jobright.ai/jobs/info/6890e525f5ee707a15dba8ae?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Aug 04 |
-| **[Western States Fire Protection](https://www.wsfp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6890df82f47efe2113951018?utm_campaign=1050&utm_source=git)** | Lake Oswego, OR | On Site | Aug 04 |
-| **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/6891ae7d4c7e851b90ad17da?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Aug 04 |
-| ↳ | **[Edge intern 2026](https://jobright.ai/jobs/info/68919d63f47efe2113957806?utm_campaign=1050&utm_source=git)** | Herndon, VA | Hybrid | Aug 04 |
-| ↳ | **[Edge intern 2026](https://jobright.ai/jobs/info/68919ba74c7e851b90ad0b6a?utm_campaign=1050&utm_source=git)** | Annapolis, MD | Hybrid | Aug 04 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Operations  Intern](https://jobright.ai/jobs/info/6890d531f47efe2113950c05?utm_campaign=1050&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

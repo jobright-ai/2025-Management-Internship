@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virginia's Community College System](https://www.vccs.edu/)** | **[Apprenticeship Project Manager](https://jobright.ai/jobs/info/68929698f5ee707a15dc6e04?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 05 |
+| **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/689288bbf5ee707a15dc6831?utm_campaign=1050&utm_source=git)** | McCarran, NV | On Site | Aug 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategy Operations Intern-(MSO) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689281204c7e851b90ad65a9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 05 |
+| **[Diaza Football](http://www.diaza.com)** | **[FALL INTERNSHIP — PROJECT MANAGEMENT (IN-PERSON)](https://jobright.ai/jobs/info/68928034f5ee707a15dc639f?utm_campaign=1050&utm_source=git)** | Linden, NJ | On Site | Aug 05 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[ELEMIS - Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/68927d47f5ee707a15dc62be?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Supply Chain Internship Program, Summer 2026](https://jobright.ai/jobs/info/68927a56f5ee707a15dc607c?utm_campaign=1050&utm_source=git)** | USA - Utah – Salt Lake City | On Site | Aug 05 |
 | ↳ | **[Supply Chain Internship Program, Summer 2026](https://jobright.ai/jobs/info/68927a344c7e851b90ad627f?utm_campaign=1050&utm_source=git)** | USA - California – Irvine | On Site | Aug 05 |
 | **[Munich Re](https://www.munichre.com)** | **[Summer Leadership Development Intern - Underwriting](https://jobright.ai/jobs/info/6892786a4c7e851b90ad60a3?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Remote | Aug 05 |
@@ -133,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Supply Chain Intern](https://jobright.ai/jobs/info/689170c2f47efe21139553b7?utm_campaign=1050&utm_source=git)** | Maple Grove, MN | Hybrid | Aug 04 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Paid Intern (6 to 12 months)](https://jobright.ai/jobs/info/68916eeaf5ee707a15dbe69c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
 | **[ARCO](https://www.arco1952.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c884c7e851b90ace72c?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | Aug 04 |
-| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace718?utm_campaign=1050&utm_source=git)** | Austin, Texas | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace719?utm_campaign=1050&utm_source=git)** | St. Louis Park, Minnesota | On Site | Aug 04 |
+| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace718?utm_campaign=1050&utm_source=git)** | Austin, Texas | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c72f47efe21139551f9?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c4f4c7e851b90ace6dc?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Aug 04 |
 | ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c4a4c7e851b90ace6d4?utm_campaign=1050&utm_source=git)** | Ft. Lauderdale, Florida | On Site | Aug 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68915934f5ee707a15dbdc7c?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 04 |
 | **[AM Mechanical](https://www.am-mech.com/)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/689159314c7e851b90acdbeb?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | On Site | Aug 04 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/689157f54c7e851b90acdb6b?utm_campaign=1050&utm_source=git)** | Trussville, AL | On Site | Aug 04 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/6891567bf5ee707a15dbdbe0?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Aug 04 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/689155d1f5ee707a15dbdb96?utm_campaign=1050&utm_source=git)** | Pearl, MS | On Site | Aug 04 |
-| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Office Assistant - IE](https://jobright.ai/jobs/info/68914b18f47efe21139542c8?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Aug 04 |
-| **[University of Michigan](https://www.umich.edu)** | **[OFFICE ASSISTANT (Work-study Student)](https://jobright.ai/jobs/info/6891487df5ee707a15dbd7e1?utm_campaign=1050&utm_source=git)** | Dearborn, MI | On Site | Aug 04 |
-| **[TIH](https://www.truistinsurance.com/)** | **[2026 Technology and Innovation Internship (LDP Intern Conversion)](https://jobright.ai/jobs/info/6891713bf47efe21139553e8?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

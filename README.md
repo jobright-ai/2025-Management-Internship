@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/689350bca9199876488dcbdb?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68933dfaa9199876488dc8b5?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Aug 06 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68933c61f47efe21139634c4?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Aug 06 |
 | **[RAM Aviation, Space & Defense](https://ramasd.com)** | **[Supply Chain Intern/Associate (Part Time)](https://jobright.ai/jobs/info/68933c24a9199876488dc81f?utm_campaign=1050&utm_source=git)** | St George, UT | On Site | Aug 06 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/689253c2f47efe211395b515?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Aug 05 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Operations Improvement Associate (INTERNSHIP)](https://jobright.ai/jobs/info/68925302f47efe211395b4c4?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Aug 05 |
 | **[Stone International Wellness Center](https://stoneiwc.com)** | **[Fall 2025 Internship](https://jobright.ai/jobs/info/6892e5c1f47efe21139607bb?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 05 |
-| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68924be74c7e851b90ad471b?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/689249e9f5ee707a15dc45da?utm_campaign=1050&utm_source=git)** | Statesboro, GA | On Site | Aug 05 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6892490b4c7e851b90ad45e9?utm_campaign=1050&utm_source=git)** | Augusta, GA | On Site | Aug 05 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/689248e5f5ee707a15dc457d?utm_campaign=1050&utm_source=git)** | Augusta, GA | On Site | Aug 05 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/68923c7af5ee707a15dc3fb1?utm_campaign=1050&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
 | **[We Crush Events](https://www.wecrushevents.com/)** | **[Admin/Events Paid Intern](https://jobright.ai/jobs/info/68923c5cf5ee707a15dc3f77?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Aug 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/689237fe4c7e851b90ad3f2d?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Aug 05 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Clarksville Operations Year-Round Intern ](https://jobright.ai/jobs/info/689233514c7e851b90ad3c90?utm_campaign=1050&utm_source=git)** | Clarksville Plant - Clarksville, Arkansas | On Site | Aug 05 |
-| **[Yusen Logistics](https://www.yusen-logistics.com/en/europe/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6892302af47efe211395a642?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 05 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Clarksville Operations Year-Round Intern ](https://jobright.ai/jobs/info/689233f04c7e851b90ad3d1d?utm_campaign=1050&utm_source=git)** | Clarksville Plant - Clarksville, Arkansas | On Site | Aug 05 |
+| **[Yusen Logistics](https://www.yusen-logistics.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6892302af47efe211395a642?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/689276d5f5ee707a15dc5df4?utm_campaign=1050&utm_source=git)** | Salinas, CA | On Site | Aug 05 |
 | **[VX Media](https://www.vxmedia.co)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/68924cf8f47efe211395b29d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

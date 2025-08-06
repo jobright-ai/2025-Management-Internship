@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Spanish Fork City](https://www.spanishfork.org)** | **[Administrative Engineering Intern](https://jobright.ai/jobs/info/6892b385f5ee707a15dc7afa?utm_campaign=1050&utm_source=git)** | Spanish Fork, UT | On Site | Aug 05 |
+| **[Oxy](https://www.oxy.com)** | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cf794c7e851b90ad8e6d?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Aug 05 |
+| ↳ | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cc2ff47efe211395f2e6?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Aug 05 |
+| ↳ | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cbb5f47efe211395f29f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 05 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6892cafd4c7e851b90ad87cc?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (AIGC - Monetization Product) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/6892ca7ef5ee707a15dc86d6?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
+| **[Profitable Ideas Exchange](https://www.profitableideas.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6892babbf47efe211395e87b?utm_campaign=1050&utm_source=git)** | Bozeman, Montana, United States | On Site | Aug 05 |
+| **[Troon](http://www.troon.com/)** | **[Operations Assistant Intern](https://jobright.ai/jobs/info/6892ba18f47efe211395e814?utm_campaign=1050&utm_source=git)** | Norman, OK | On Site | Aug 05 |
+| **[The National WWII Museum](http://www.nationalww2museum.org/)** | **[Board and Stakeholder Relations Intern](https://jobright.ai/jobs/info/6892b9d14c7e851b90ad7d6c?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Aug 05 |
+| **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Spring 2026 Construction Project Management Intern](https://jobright.ai/jobs/info/6892b957f5ee707a15dc7d03?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
+| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Per Diem Pharmacy Intern - Mount Sinai Brooklyn](https://jobright.ai/jobs/info/6892b8aaf47efe211395e799?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Aug 05 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6892ad75f5ee707a15dc7850?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/6892ad52f47efe211395e31b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/6892aa88f5ee707a15dc771c?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 05 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Controls](https://jobright.ai/jobs/info/6892a9fc4c7e851b90ad76d5?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Aug 05 |
-| **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Spring 2026 Construction Project Management Intern](https://jobright.ai/jobs/info/6892a6eef5ee707a15dc759f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Department Manager FT 6356](https://jobright.ai/jobs/info/6892d0604c7e851b90ad8f2d?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Aug 05 |
 | **[RAM Aviation, Space & Defense](https://ramasd.com)** | **[Supply Chain Intern/Associate (Part Time)](https://jobright.ai/jobs/info/6892a63bf5ee707a15dc7470?utm_campaign=1050&utm_source=git)** | RAM Aviation, Space & Defense | On Site | Aug 05 |
 | **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/6892a417f47efe211395ddd2?utm_campaign=1050&utm_source=git)** | Nevada, United States | On Site | Aug 05 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Intramural Referee/Site Manager (Labor) - Wellness Center](https://jobright.ai/jobs/info/6892a288f5ee707a15dc720d?utm_campaign=1050&utm_source=git)** | Edmond, OK | On Site | Aug 05 |
@@ -73,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6892999ff5ee707a15dc6ecb?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 05 |
 | ↳ | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6892989d4c7e851b90ad6f2b?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Aug 05 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Apprenticeship Project Manager](https://jobright.ai/jobs/info/68929698f5ee707a15dc6e04?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 05 |
+| **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6892cd13f47efe211395f353?utm_campaign=1050&utm_source=git)** | Pittston, PA | On Site | Aug 05 |
 | **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/689288bbf5ee707a15dc6831?utm_campaign=1050&utm_source=git)** | McCarran, NV | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Operations Intern-(MSO) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689281204c7e851b90ad65a9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 05 |
 | **[Diaza Football](http://www.diaza.com)** | **[FALL INTERNSHIP — PROJECT MANAGEMENT (IN-PERSON)](https://jobright.ai/jobs/info/68928034f5ee707a15dc639f?utm_campaign=1050&utm_source=git)** | Linden, NJ | On Site | Aug 05 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68917c624c7e851b90acf04b?utm_campaign=1050&utm_source=git)** | Cambridge, MN | On Site | Aug 04 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68919e20f47efe2113957890?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Aug 04 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/689176f54c7e851b90acedae?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Aug 04 |
-| **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68917466f5ee707a15dbe9f3?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Aug 04 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68917438f5ee707a15dbe9e6?utm_campaign=1050&utm_source=git)** | Superior, WI | On Site | Aug 04 |
-| **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689172f24c7e851b90ace9c7?utm_campaign=1050&utm_source=git)** | Twin Cities Area | On Site | Aug 04 |
-| ↳ | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689171cff47efe2113955469?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 04 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Supply Chain Intern](https://jobright.ai/jobs/info/689170c2f47efe21139553b7?utm_campaign=1050&utm_source=git)** | Maple Grove, MN | Hybrid | Aug 04 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Travel Paid Intern (6 to 12 months)](https://jobright.ai/jobs/info/68916eeaf5ee707a15dbe69c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 04 |
-| **[ARCO](https://www.arco1952.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c884c7e851b90ace72c?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | Aug 04 |
-| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace718?utm_campaign=1050&utm_source=git)** | Austin, Texas | On Site | Aug 04 |
-| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c7b4c7e851b90ace719?utm_campaign=1050&utm_source=git)** | St. Louis Park, Minnesota | On Site | Aug 04 |
-| ↳ | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68916c72f47efe21139551f9?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

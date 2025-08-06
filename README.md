@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/6892f1c0f47efe2113961255?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 05 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6892effcf5ee707a15dca6f1?utm_campaign=1050&utm_source=git)** | Crowley, TX | On Site | Aug 05 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Office Assistant, Veterans Upward Bound](https://jobright.ai/jobs/info/6892d94ef47efe211395fed3?utm_campaign=1050&utm_source=git)** | Richmond, KY | On Site | Aug 05 |
 | **[MARA](www.mara.com)** | **[Technical Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/6892d75ef5ee707a15dc9254?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 05 |
 | **[Oxy](https://www.oxy.com)** | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892d71ef47efe211395fd14?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Aug 05 |
 | ↳ | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cf794c7e851b90ad8e6d?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Aug 05 |
-| ↳ | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cc2ff47efe211395f2e6?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Aug 05 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6892f9794c7e851b90adafac?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Aug 05 |
+| **[Oxy](https://www.oxy.com)** | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cc2ff47efe211395f2e6?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Aug 05 |
 | ↳ | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cbb5f47efe211395f29f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6892cafd4c7e851b90ad87cc?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (AIGC - Monetization Product) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/6892ca7ef5ee707a15dc86d6?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Per Diem Pharmacy Intern - Mount Sinai Brooklyn](https://jobright.ai/jobs/info/6892b8aaf47efe211395e799?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Aug 05 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6892ad75f5ee707a15dc7850?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | ↳ | **[Program Management Intern](https://jobright.ai/jobs/info/6892ad52f47efe211395e31b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| **[SKF Group](http://www.skf.com/)** | **[Demand and Supply Planning Intern](https://jobright.ai/jobs/info/6892aa88f5ee707a15dc771c?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | Hybrid | Aug 05 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Project Controls](https://jobright.ai/jobs/info/6892a9fc4c7e851b90ad76d5?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Aug 05 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Department Manager FT 6356](https://jobright.ai/jobs/info/6892d0604c7e851b90ad8f2d?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Aug 05 |
 | **[McKenney's, Inc.](https://www.mckenneys.com)** | **[Spring 2026 Construction Project Management Intern](https://jobright.ai/jobs/info/6892a6eef5ee707a15dc759f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
@@ -132,10 +134,9 @@ For a complete list, click the following sortable link below:
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/68923c7af5ee707a15dc3fb1?utm_campaign=1050&utm_source=git)** | 240 Greenwich Street, New York, NY, 10286, US | On Site | Aug 05 |
 | **[We Crush Events](https://www.wecrushevents.com/)** | **[Admin/Events Paid Intern](https://jobright.ai/jobs/info/68923c5cf5ee707a15dc3f77?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Aug 05 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/689237fe4c7e851b90ad3f2d?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Aug 05 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Clarksville Operations Year-Round Intern ](https://jobright.ai/jobs/info/689233514c7e851b90ad3c90?utm_campaign=1050&utm_source=git)** | Clarksville Plant - Clarksville, Arkansas | On Site | Aug 05 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Clarksville Operations Year-Round Intern ](https://jobright.ai/jobs/info/689233f04c7e851b90ad3d1d?utm_campaign=1050&utm_source=git)** | Clarksville Plant - Clarksville, Arkansas | On Site | Aug 05 |
 | **[Yusen Logistics](https://www.yusen-logistics.com/en/europe/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6892302af47efe211395a642?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/689276d5f5ee707a15dc5df4?utm_campaign=1050&utm_source=git)** | Salinas, CA | On Site | Aug 05 |
-| **[Solar Cellz USA LLC](https://www.solarcellzusa.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68922cd4f47efe211395a4bc?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 05 |
 | **[VX Media](https://www.vxmedia.co)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/68924cf8f47efe211395b29d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689245094c7e851b90ad4513?utm_campaign=1050&utm_source=git)** | Rice Lake, WI | On Site | Aug 05 |
 | **[RTX](http://www.raytheon.com)** | **[2025 Intern Conversion - Security](https://jobright.ai/jobs/info/689227ddf47efe211395a225?utm_campaign=1050&utm_source=git)** | VA111: 1300 N 17th Street, Arlington 1300 North 17th Street Suite 400, Arlington, VA, 22209 USA | Hybrid | Aug 05 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Pittsburgh, PA)](https://jobright.ai/jobs/info/689213d74c7e851b90ad30dc?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (Lake Mary, FL)](https://jobright.ai/jobs/info/68921183f5ee707a15dc3003?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Aug 05 |
 | **[Thizzler On The Roof](https://www.thizzler.com)** | **[Operations Admin Intern](https://jobright.ai/jobs/info/68920ea9f5ee707a15dc2ef4?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - BNY Investments (New York, NY)](https://jobright.ai/jobs/info/6892f773f5ee707a15dcaa5f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[Year Up United](http://yearup.org)** | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/68920d39f5ee707a15dc2ec5?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891e4a7f47efe2113959125?utm_campaign=1050&utm_source=git)** | 500 Grant Street, Pittsburgh, PA, 15258, US | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (Lake Mary, FL)](https://jobright.ai/jobs/info/6891e499f5ee707a15dc2661?utm_campaign=1050&utm_source=git)** | 300 Colonial Center Parkway, Lake Mary, FL, 32746, US | On Site | Aug 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6892ecf3f47efe211396103b?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Aug 05 |
 | **[RF-SMART](http://rfsmart.com/)** | **[IT Project Manager Intern- Fall 2025](https://jobright.ai/jobs/info/6875496d5cebcd1dd51bf266?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 05 |
 | **[Pathways, Inc.](https://www.pathwaysforyou.org)** | **[Summer Clerical/Scanning Assistant](https://jobright.ai/jobs/info/68922226f47efe211395a011?utm_campaign=1050&utm_source=git)** | Bath, NY | On Site | Aug 05 |
 | **[Surplus](https://www.surpluszorg.nl)** | **[Stage Sociaal Werk Moerdijk](https://jobright.ai/jobs/info/6891dd084c7e851b90ad251d?utm_campaign=1050&utm_source=git)** | Richhill, PA | On Site | Aug 05 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 LGCIE Office Assistant (Work Study)](https://jobright.ai/jobs/info/68920bb6f5ee707a15dc2e74?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Aug 05 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/6891cf99f5ee707a15dc224e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 05 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6891c5a5f47efe2113958b18?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 05 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - BNY Investments (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891bed1f47efe2113958a28?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

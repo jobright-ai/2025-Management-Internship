@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6896335f8c6d6b442677f903?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Aug 08 |
+| **[Warren Averett](http://warrenaverett.com/)** | **[2026 Spring Administration Intern](https://jobright.ai/jobs/info/68962c488c6d6b442677f704?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Aug 08 |
+| **[U.S. House of Representatives](http://www.house.gov/)** | **[District Office Intern](https://jobright.ai/jobs/info/68962a1c73b3a600fe88d289?utm_campaign=1050&utm_source=git)** | Eagan, MN | On Site | Aug 08 |
+| **[Woolpert](http://www.woolpert.com)** | **[DoD SkillBridge Internship - Engineer Project Manager, Airfield Design](https://jobright.ai/jobs/info/6896246573b3a600fe88cfeb?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 08 |
+| **[Kwest Group](https://kwestgroup.com/)** | **[2026 Internships - General Category](https://jobright.ai/jobs/info/689622231b9e81727f18e538?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | On Site | Aug 08 |
+| ↳ | **[2027 Internships - General Category](https://jobright.ai/jobs/info/6896219c8c6d6b442677f285?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | On Site | Aug 08 |
 | **[Hopscotch Primary Care](https://www.hellohopscotch.com/)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/689610fc73b3a600fe88c770?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Catalyst Summer Internship](https://jobright.ai/jobs/info/68960f1d1b9e81727f18dcbd?utm_campaign=1050&utm_source=git)** | New Orleans - New Orleans Region - Louisiana | On Site | Aug 08 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687c6170ed63844c944ad24e?utm_campaign=1050&utm_source=git)** | Norcross, GA | On Site | Aug 08 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6896247e73b3a600fe88d001?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Aug 08 |
 | **[Amazon](https://amazon.com)** | **[2025 Area Manager Intern, Operations](https://jobright.ai/jobs/info/6896055e8c6d6b442677e50b?utm_campaign=1050&utm_source=git)** | Heatherwood, SC | On Site | Aug 08 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68898eb4aab47a17f6702924?utm_campaign=1050&utm_source=git)** | Sevierville, TN | On Site | Aug 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - 2nd Term](https://jobright.ai/jobs/info/6895f4071b9e81727f18d097?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Aug 08 |
@@ -87,11 +94,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-Op - Supply Chain (Spring 2026)](https://jobright.ai/jobs/info/6895550e73b3a600fe886ab7?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
 | ↳ | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Aug 07 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68957ab473b3a600fe887e76?utm_campaign=1050&utm_source=git)** | Onalaska, WI | On Site | Aug 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895794773b3a600fe887dd9?utm_campaign=1050&utm_source=git)** | Lima, OH | On Site | Aug 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689579028c6d6b442677a260?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Aug 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578648c6d6b442677a21e?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Aug 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578bb73b3a600fe887da7?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895789f4ed2ea559ca56310?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Aug 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895794773b3a600fe887dd9?utm_campaign=1050&utm_source=git)** | Lima, OH | On Site | Aug 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578648c6d6b442677a21e?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Aug 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689579028c6d6b442677a260?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Aug 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578bb73b3a600fe887da7?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68957a888c6d6b442677a2f4?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/68954f998c6d6b4426778dd2?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Supply Chain Logistics Associate](https://jobright.ai/jobs/info/68954c0e4ed2ea559ca54cc8?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Executive Intern](https://jobright.ai/jobs/info/6895009f8c6d6b44267766f1?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 07 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/689572a873b3a600fe887997?utm_campaign=1050&utm_source=git)** | Easton, PA | On Site | Aug 07 |
 | **[Social Llama Events](http://www.socialllamaevents.com)** | **[Operations, Events and Rentals Internship](https://jobright.ai/jobs/info/68959eaf8c6d6b442677bb5e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 07 |
-| **[Risepoint](http://www.risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6894f73573b3a600fe883b12?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 07 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Administrative Operation Systems Intern](https://jobright.ai/jobs/info/6895186373b3a600fe88516e?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Aug 07 |
-| **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Supply Chain Management Development Associate](https://jobright.ai/jobs/info/6894eb9373b3a600fe883552?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Aug 07 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Production Administration Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/6894e4258c6d6b442677568b?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Aug 07 |
-| **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Part-Time Administrative Operation Systems Intern](https://jobright.ai/jobs/info/6894d9044ed2ea559ca50fb3?utm_campaign=1050&utm_source=git)** | Penn State University Park | On Site | Aug 07 |
-| **[Emerson](http://www.emerson.com)** | **[Supply Chain Co Op](https://jobright.ai/jobs/info/6894d87173b3a600fe8829d3?utm_campaign=1050&utm_source=git)** | 400 Clark Street, Elyria, OH, 44035, US | On Site | Aug 07 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Intern - San Miguel](https://jobright.ai/jobs/info/6894d8244ed2ea559ca50e9a?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

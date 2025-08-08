@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hopscotch Primary Care](https://www.hellohopscotch.com/)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/689610fc73b3a600fe88c770?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
+| **[Ochsner Health](https://www.ochsner.org/)** | **[Catalyst Summer Internship](https://jobright.ai/jobs/info/68960f1d1b9e81727f18dcbd?utm_campaign=1050&utm_source=git)** | New Orleans - New Orleans Region - Louisiana | On Site | Aug 08 |
+| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687c6170ed63844c944ad24e?utm_campaign=1050&utm_source=git)** | Norcross, GA | On Site | Aug 08 |
+| **[Amazon](https://amazon.com)** | **[2025 Area Manager Intern, Operations](https://jobright.ai/jobs/info/6896055e8c6d6b442677e50b?utm_campaign=1050&utm_source=git)** | Heatherwood, SC | On Site | Aug 08 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68898eb4aab47a17f6702924?utm_campaign=1050&utm_source=git)** | Sevierville, TN | On Site | Aug 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - 2nd Term](https://jobright.ai/jobs/info/6895f4071b9e81727f18d097?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Aug 08 |
 | **[Nanook](https://nanookagency.com)** | **[Event Project Manager Internship in Dallas, Texas](https://jobright.ai/jobs/info/6895e7ac73b3a600fe88b5aa?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Aug 08 |
@@ -83,11 +87,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern/Co-Op - Supply Chain (Spring 2026)](https://jobright.ai/jobs/info/6895550e73b3a600fe886ab7?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 07 |
 | ↳ | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Aug 07 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68957ab473b3a600fe887e76?utm_campaign=1050&utm_source=git)** | Onalaska, WI | On Site | Aug 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895794773b3a600fe887dd9?utm_campaign=1050&utm_source=git)** | Lima, OH | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/689579028c6d6b442677a260?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578648c6d6b442677a21e?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Aug 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895789f4ed2ea559ca56310?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578bb73b3a600fe887da7?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Aug 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895794773b3a600fe887dd9?utm_campaign=1050&utm_source=git)** | Lima, OH | On Site | Aug 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895789f4ed2ea559ca56310?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68957a888c6d6b442677a2f4?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/68954f998c6d6b4426778dd2?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Supply Chain Logistics Associate](https://jobright.ai/jobs/info/68954c0e4ed2ea559ca54cc8?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 07 |
@@ -123,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Spring 2026)](https://jobright.ai/jobs/info/68951c294ed2ea559ca5391d?utm_campaign=1050&utm_source=git)** | San Antonio, Texas | On Site | Aug 07 |
 | ↳ | **[Intern/Co-Op - Supply Chain (Spring 2026)](https://jobright.ai/jobs/info/68951c248c6d6b4426777801?utm_campaign=1050&utm_source=git)** | Garyville, Louisiana | On Site | Aug 07 |
 | ↳ | **[Intern/Co-Op - Supply Chain (Spring 2026)](https://jobright.ai/jobs/info/68951bae4ed2ea559ca5387e?utm_campaign=1050&utm_source=git)** | Findlay, Ohio | On Site | Aug 07 |
+| **[Avante Art Foundation](https://www.linkedin.com/company/104814061)** | **[General Assistant Intern](https://jobright.ai/jobs/info/6895fab573b3a600fe88bb8a?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Aug 07 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (New York, NY)](https://jobright.ai/jobs/info/6895151873b3a600fe88500d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/689512688c6d6b44267772e8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/6895111c4ed2ea559ca53329?utm_campaign=1050&utm_source=git)** | San Antonio, Texas | On Site | Aug 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Part-Time Administrative Operation Systems Intern](https://jobright.ai/jobs/info/6894d9044ed2ea559ca50fb3?utm_campaign=1050&utm_source=git)** | Penn State University Park | On Site | Aug 07 |
 | **[Emerson](http://www.emerson.com)** | **[Supply Chain Co Op](https://jobright.ai/jobs/info/6894d87173b3a600fe8829d3?utm_campaign=1050&utm_source=git)** | 400 Clark Street, Elyria, OH, 44035, US | On Site | Aug 07 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Intern - San Miguel](https://jobright.ai/jobs/info/6894d8244ed2ea559ca50e9a?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Aug 07 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Tech Project Manager paid intern  (Sept start)](https://jobright.ai/jobs/info/6894d78f8c6d6b4426774d3e?utm_campaign=1050&utm_source=git)** | Riverton, UT, United States | On Site | Aug 07 |
-| **[Risepoint](http://www.risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6894d7784ed2ea559ca50dbd?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Aug 07 |
-| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6894d44573b3a600fe8826fb?utm_campaign=1050&utm_source=git)** | Feasterville-Trevose, PA | On Site | Aug 07 |
-| **[moomoo ](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6894d1fc4ed2ea559ca50bee?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Aug 07 |
-| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687903cced63844c94497e42?utm_campaign=1050&utm_source=git)** | Pelham, AL | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

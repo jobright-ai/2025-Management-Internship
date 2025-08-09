@@ -58,4 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Strategy and Planning Year-Round Intern](https://jobright.ai/jobs/info/6896a6c973b3a600fe891db1?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Aug 08 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Facilities Manager / Security Officer (SkillBridge Intern) - 21158](https://jobright.ai/jobs/info/6716dc926a17b09c402efe61?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Jul 31 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Mission Coordinator (SkillBridge Intern) - 21488](https://jobright.ai/jobs/info/673cc155ef3abad3c8013204?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Jul 27 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician – Medical Director, CICU - Internal Medicine – Cardiology – Chicago (Downtown)-13135](https://jobright.ai/jobs/info/66fb37e79ba4ba107cc8e308?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jul 27 |
+| **[GPD Group](http://gpdgroup.com)** | **[Planning intern](https://jobright.ai/jobs/info/6722853afa7379bc6c6a622c?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Jul 21 |
+| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2025 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1050&utm_source=git)** | Connecticut, United States | On Site | Jul 19 |
+| ↳ | **[Department of Administrative Services Internships #CTEXEC-INTERN-DAS](https://jobright.ai/jobs/info/6724eac52cc59c4dfb69f231?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

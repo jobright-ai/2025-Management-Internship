@@ -64,7 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[Supply Chain (Winter Undergraduate Co-op)](https://jobright.ai/jobs/info/6896799b8c6d6b4426781ebf?utm_campaign=1050&utm_source=git)** | San Mateo, CA United States | On Site | Aug 08 |
 | **[Creative Funding Agency](https://www.creativefundingagency.com/agency)** | **[Opperations Intern](https://jobright.ai/jobs/info/689674ae8c6d6b4426781daf?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Aug 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Supply Chain (Winter/Spring 2026)](https://jobright.ai/jobs/info/689671538c6d6b4426781cc4?utm_campaign=1050&utm_source=git)** | Fremont, CA | On Site | Aug 08 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Strategy and Planning Year-Round Intern](https://jobright.ai/jobs/info/68966f4e1b9e81727f190d6f?utm_campaign=1050&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Aug 08 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Strategy and Planning Year-Round Intern](https://jobright.ai/jobs/info/68966f3c1b9e81727f190d51?utm_campaign=1050&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Aug 08 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/68966bf173b3a600fe88f4bd?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Aug 08 |
 | **[Porter Novelli](http://www.porternovelli.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/68966b421b9e81727f190ad7?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | Aug 08 |
 | **[World Monuments Fund](http://www.wmf.org/)** | **[WMF Executive Office Intern](https://jobright.ai/jobs/info/689669461b9e81727f190a94?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 08 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68957ab473b3a600fe887e76?utm_campaign=1050&utm_source=git)** | Onalaska, WI | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895789f4ed2ea559ca56310?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578bb73b3a600fe887da7?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Aug 07 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578648c6d6b442677a21e?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6895794773b3a600fe887dd9?utm_campaign=1050&utm_source=git)** | Lima, OH | On Site | Aug 07 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/689578648c6d6b442677a21e?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/689579028c6d6b442677a260?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Aug 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68957a888c6d6b442677a2f4?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Aug 07 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Intern](https://jobright.ai/jobs/info/68954f998c6d6b4426778dd2?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 07 |

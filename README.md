@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0e6ffaa4e875e8255703?utm_campaign=1050&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0e3dfaa4e875e82556e7?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0de05574fd6bc0c7f51b?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689a09505574fd6bc0c7f2e2?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Asset Servicing (Boston, MA)](https://jobright.ai/jobs/info/6899c5f0faa4e875e8254099?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| ↳ | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899b65483d13d1f5b694254?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2025 Program Intern (BS/MS)](https://jobright.ai/jobs/info/688f0563cdbd821a366449ef?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899b65483d13d1f5b694254?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6899b64e5574fd6bc0c7dd0d?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 11 |
 | **[SUNY Polytechnic Institute](https://www.sunypoly.edu)** | **[Administrative Assistant 1 (Trainee) (NYHELPS) - Athletics Department - SUNY Polytechnic Institute](https://jobright.ai/jobs/info/6899b64d83d13d1f5b69424a?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Lake Mary, FL)](https://jobright.ai/jobs/info/6899b3895574fd6bc0c7dcd1?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Aug 11 |
@@ -91,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Upstate New York Area,](https://jobright.ai/jobs/info/689802318c6d6b44267947c6?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Aug 09 |
 | ↳ | **[District Manager Intern - Upstate New York Area](https://jobright.ai/jobs/info/6898331483d13d1f5b68b914?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Aug 09 |
 | **[The Fifth Avenue Hotel](http://www.thefifthavenuehotel.com)** | **[Hotel Rooms Intern](https://jobright.ai/jobs/info/6897aa9173b3a600fe89d664?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Aug 09 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/687c8831764c3d7411c38d83?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[Maximus](http://www.maximus.com/)** | **[Technical Program Manager - Skillbridge (Transitioning Military) Program](https://jobright.ai/jobs/info/6847b7ddd9bfeccf6f35b558?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Aug 09 |
 | **[Ochsner Health](https://www.ochsner.org/)** | **[Catalyst Summer Internship](https://jobright.ai/jobs/info/68983a0083d13d1f5b68c3b9?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Aug 09 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/685cd63334670cd8c040f289?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 09 |
@@ -99,15 +103,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68980f2373b3a600fe8a231e?utm_campaign=1050&utm_source=git)** | Wilmington, OH | On Site | Aug 09 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68980af473b3a600fe8a20ce?utm_campaign=1050&utm_source=git)** | Wyoming, MN | On Site | Aug 09 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68980d5473b3a600fe8a2217?utm_campaign=1050&utm_source=git)** | Roseau, MN | On Site | Aug 09 |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/687b35d9ed63844c944a6e4a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[Werkstudent (m/w/d) im Bereich Value Chain Management](https://jobright.ai/jobs/info/688dc2ddcdbd821a3663f2ae?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | ↳ | **[Intern-Planning and purchasing assistant](https://jobright.ai/jobs/info/688dc4e96a4aac5783cd7361?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | ↳ | **[Operation Intern for CI](https://jobright.ai/jobs/info/688dc918e5cead4afd45ac1d?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/689859605574fd6bc0c78a64?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a04d8c6d6b442678f043?utm_campaign=1050&utm_source=git)** | Fernley, NV | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6898514d5574fd6bc0c7810d?utm_campaign=1050&utm_source=git)** | Vermillion, SD | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897d1978c6d6b4426792700?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6898393b83d13d1f5b68c29e?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Aug 09 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68983b0183d13d1f5b68c543?utm_campaign=1050&utm_source=git)** | Osceola, WI | On Site | Aug 09 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897d1978c6d6b4426792700?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6898514d5574fd6bc0c7810d?utm_campaign=1050&utm_source=git)** | Vermillion, SD | On Site | Aug 09 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6898393b83d13d1f5b68c29e?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Aug 09 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a04d8c6d6b442678f043?utm_campaign=1050&utm_source=git)** | Fernley, NV | On Site | Aug 09 |
 | **[ABB](https://global.abb/group/en)** | **[Digital Tools Intern](https://jobright.ai/jobs/info/688dc2e86a4aac5783cd71f3?utm_campaign=1050&utm_source=git)** | Location, WV | Hybrid | Aug 09 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2025 (Memphis)](https://jobright.ai/jobs/info/687dabcbed63844c944b33df?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Aug 09 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Macquarie Asset Management Summer Internship Program at Macquarie](https://jobright.ai/jobs/info/6897aacc8c6d6b442678ff1f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 09 |
@@ -123,16 +128,16 @@ Job ID : 261969](https://jobright.ai/jobs/info/68984f4afaa4e875e824dffc?utm_camp
 | **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy SCH](https://jobright.ai/jobs/info/689833bd5574fd6bc0c7561b?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Aug 08 |
 | **[Precision Castparts](http://precast.com)** | **[Summer 2025 Business/Administrative co-op](https://jobright.ai/jobs/info/685d8e2ec9a5e2dd13b3dcf5?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | Aug 08 |
 | **[ABB](https://global.abb/group/en)** | **[IS Intern](https://jobright.ai/jobs/info/689857345574fd6bc0c7865f?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 08 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897ab501b9e81727f19f24b?utm_campaign=1050&utm_source=git)** | Vermillion, SD, USA | On Site | Aug 08 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a8981b9e81727f19eda8?utm_campaign=1050&utm_source=git)** | Huntsville, AL, USA | On Site | Aug 08 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897ad6d1b9e81727f19f565?utm_campaign=1050&utm_source=git)** | Osceola, WI, USA | On Site | Aug 08 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897af1e73b3a600fe89de06?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA, USA | On Site | Aug 08 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a94973b3a600fe89d481?utm_campaign=1050&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897ad6d1b9e81727f19f565?utm_campaign=1050&utm_source=git)** | Osceola, WI, USA | On Site | Aug 08 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897aa598c6d6b442678fe53?utm_campaign=1050&utm_source=git)** | Medina, MN, USA | On Site | Aug 08 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897aef873b3a600fe89ddb1?utm_campaign=1050&utm_source=git)** | Wyoming, MN, USA | On Site | Aug 08 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897b2158c6d6b4426790b06?utm_campaign=1050&utm_source=git)** | Wilmington, OH, USA | On Site | Aug 08 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a31373b3a600fe89ca7f?utm_campaign=1050&utm_source=git)** | Fernley, NV, USA | On Site | Aug 08 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a94973b3a600fe89d481?utm_campaign=1050&utm_source=git)** | Plymouth, MN, USA | On Site | Aug 08 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897ae578c6d6b4426790480?utm_campaign=1050&utm_source=git)** | Roseau, MN, USA | On Site | Aug 08 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a8981b9e81727f19eda8?utm_campaign=1050&utm_source=git)** | Huntsville, AL, USA | On Site | Aug 08 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897b2158c6d6b4426790b06?utm_campaign=1050&utm_source=git)** | Wilmington, OH, USA | On Site | Aug 08 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897ab501b9e81727f19f24b?utm_campaign=1050&utm_source=git)** | Vermillion, SD, USA | On Site | Aug 08 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897af1e73b3a600fe89de06?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA, USA | On Site | Aug 08 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a31373b3a600fe89ca7f?utm_campaign=1050&utm_source=git)** | Fernley, NV, USA | On Site | Aug 08 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/68975e3c1b9e81727f1993a0?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Aug 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Supply Chain Planner: Internship Opportunities](https://jobright.ai/jobs/info/68982fd0faa4e875e824b3c6?utm_campaign=1050&utm_source=git)** | Redmond, WA | Hybrid | Aug 08 |
 | **[Ridgecrest Conference Center](https://ridgecrestconferencecenter.com)** | **[Internship: Facilities Admin -Live on-site](https://jobright.ai/jobs/info/68983aea83d13d1f5b68c51c?utm_campaign=1050&utm_source=git)** | Black Mountain, NC | On Site | Aug 08 |
@@ -148,14 +153,9 @@ Job ID : 261969](https://jobright.ai/jobs/info/68984f4afaa4e875e824dffc?utm_camp
 | **[MSU Residential and Hospitality Services](sle.msu.edu)** | **[Clerical Aide](https://jobright.ai/jobs/info/6898612f5574fd6bc0c79846?utm_campaign=1050&utm_source=git)** | House, NM | On Site | Aug 08 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/6898677483d13d1f5b690199?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 08 |
 | ↳ | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68983344faa4e875e824b942?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 08 |
-| **[Washington University in St. Louis](https://washu.edu/)** | **[Research Administration Intern (Remote/Time-Limited) - Office of the Vice Chancellor for Research](https://jobright.ai/jobs/info/689743fe73b3a600fe895d0b?utm_campaign=1050&utm_source=git)** | Greater St. Louis | Remote | Aug 08 |
 | **[Crossroads Live North America](http://troika.com)** | **[ARTS ADMINISTRATION APPRENTICESHIP](https://jobright.ai/jobs/info/68974b858c6d6b4426788cfa?utm_campaign=1050&utm_source=git)** | North Township, IN | On Site | Aug 08 |
 | **[TabaPay](https://www.tabapay.com)** | **[Project Coordinator, Internship](https://jobright.ai/jobs/info/6897275e8c6d6b4426785e7a?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Aug 08 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Intern - Business Operations](https://jobright.ai/jobs/info/68984cb883d13d1f5b68d769?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 08 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Administrative Assistant Intern (Unpaid)](https://jobright.ai/jobs/info/6897a31773b3a600fe89ca87?utm_campaign=1050&utm_source=git)** | Waterloo,IA,US | On Site | Aug 08 |
 | **[TabaPay](https://www.tabapay.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/689859a183d13d1f5b68ee40?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Aug 08 |
-| **[HNTB](http://www.hntb.com/)** | **[WED Intern Planner (For Current/Previous HNTB Interns ONLY) (Summer 2026)](https://jobright.ai/jobs/info/6893e574a9199876488e0e0f?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Aug 08 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6898679d83d13d1f5b6901e2?utm_campaign=1050&utm_source=git)** | Brookhaven, MS | On Site | Aug 08 |
-| **[Verkada](https://www.verkada.com)** | **[Supply Chain (Winter Undergraduate Co-op)](https://jobright.ai/jobs/info/6897312b8c6d6b4426786c90?utm_campaign=1050&utm_source=git)** | San Mateo, CA United States | On Site | Aug 08 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Intern - Business Operations](https://jobright.ai/jobs/info/6897e87d73b3a600fe8a13dc?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

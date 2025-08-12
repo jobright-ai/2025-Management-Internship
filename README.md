@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volo Sports](https://www.volosports.com)** | **[Sports Management Internship - Winter 2025](https://jobright.ai/jobs/info/689b942079a9f9666253188b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Aug 12 |
+| **[FC Dallas](http://www.fcdallas.com)** | **[1st Team Admin 2025 MLS Season Intern](https://jobright.ai/jobs/info/689b8f0279a9f96662531371?utm_campaign=1050&utm_source=git)** | Frisco, Texas | On Site | Aug 12 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/689b8e8579a9f9666253126e?utm_campaign=1050&utm_source=git)** | Glendale, AZ | On Site | Aug 12 |
+| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/689b8c1f83d13d1f5b6a0b9b?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 12 |
 | **[GlobalFoundries](https://gf.com/)** | **[Manufacturing Planning Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/689b7e08faa4e875e82608a6?utm_campaign=1050&utm_source=git)** | USA - Vermont - Essex Junction | On Site | Aug 12 |
 | **[C2I Accelerator](https://www.creagenincubator.com)** | **[Business Administration and Operations Intern](https://jobright.ai/jobs/info/689b755479a9f9666253090a?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Aug 12 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Administrative Assistant - ODAS](https://jobright.ai/jobs/info/689b6e3afaa4e875e82603a7?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Aug 12 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689b6c5379a9f966625305ce?utm_campaign=1050&utm_source=git)** | Johnson Creek, WI | On Site | Aug 12 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Project Management Office (PMO) Intern](https://jobright.ai/jobs/info/689b6bf3faa4e875e8260246?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Aug 12 |
 | **[Fifth Third Bank](http://53.com)** | **[IT Audit Internship - Summer 2026](https://jobright.ai/jobs/info/689b624483d13d1f5b69fe33?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
-| **[City of Gainesville](http://www.cityofgainesville.org/)** | **[Fleet Intern](https://jobright.ai/jobs/info/689b5fd779a9f9666252fed2?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Aug 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689b5fbafaa4e875e825fb8e?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Aug 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Associate Program Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689b5ce083d13d1f5b69f9e9?utm_campaign=1050&utm_source=git)** | Redwood City, CA, United States | On Site | Aug 12 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/687f0098db19f31cf0d6ebb6?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
@@ -77,8 +80,7 @@ For a complete list, click the following sortable link below:
 Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_campaign=1050&utm_source=git)** | Lima, IN | On Site | Aug 12 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/689aeaed83d13d1f5b69e12c?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ae6045574fd6bc0c87586?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
-| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/689addaafaa4e875e825d3aa?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 11 |
-| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adb855574fd6bc0c86caa?utm_campaign=1050&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adb855574fd6bc0c86caa?utm_campaign=1050&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adaa6faa4e875e825cf68?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Project Development Intern (Innovative Mobility Solutions)](https://jobright.ai/jobs/info/689ad9f25574fd6bc0c86a56?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/689aae945574fd6bc0c84b4e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 11 |
@@ -156,6 +158,4 @@ Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_camp
 | ↳ | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689a0de05574fd6bc0c7f51b?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689a09505574fd6bc0c7f2e2?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Aug 11 |
 | **[Nicole Fisher Interior Design](http://www.nicolefisher.com)** | **[Design & Project Management Internship](https://jobright.ai/jobs/info/689ad4abfaa4e875e825cc27?utm_campaign=1050&utm_source=git)** | Hudson, NY | On Site | Aug 11 |
-| **[QuidelOrtho](http://quidelortho.com)** | **[DoD Skillbridge - Enterprise Resource Planning (ERP) Program Management Intern](https://jobright.ai/jobs/info/6880cb3529ad6b2744adc125?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Aug 11 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Production Supervisor](https://jobright.ai/jobs/info/6827da85b56c7fab935217a5?utm_campaign=1050&utm_source=git)** | Arkansas City, KS | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/687f0098db19f31cf0d6ebb6?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 12 |
+| **[Groot Hospitality](https://groothospitality.com/)** | **[Corporate Restaurant Operations Intern](https://jobright.ai/jobs/info/689b37e079a9f9666252f397?utm_campaign=1050&utm_source=git)** | Miami Beach, FL | On Site | Aug 12 |
+| **[County of Los Angeles](https://lacounty.gov/)** | **[VETERAN INTERN, ADMINISTRATIVE SUPPORT](https://jobright.ai/jobs/info/689b3423faa4e875e825ef3a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Hotel Operations Internship (Food & Beverage)(](https://jobright.ai/jobs/info/689b26adfaa4e875e825ed36?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Aug 12 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Co-op Supply Chain Analyst](https://jobright.ai/jobs/info/689b229f83d13d1f5b69ed12?utm_campaign=1050&utm_source=git)** | Glenolden, PA | On Site | Aug 12 |
+| **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/67eec162357dc4681d86420d?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 12 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern RCO Perú
 Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_campaign=1050&utm_source=git)** | Lima, IN | On Site | Aug 12 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/689aeaed83d13d1f5b69e12c?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 12 |
@@ -126,9 +130,9 @@ Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_camp
 | **[FreshDirect](http://freshdirect.com)** | **[Supply Chain & Strategy Analytics Intern](https://jobright.ai/jobs/info/689a37a283d13d1f5b696ec7?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Aug 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/689a34b0faa4e875e8256a88?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Aug 11 |
 | **[Skanska](http://skanska.com)** | **[Fall Internship](https://jobright.ai/jobs/info/689a3448faa4e875e8256a52?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 11 |
+| **[Canteen North America](http://Canteen.com)** | **[Operations Intern, Canteen / University of Texas at Dallas / Carrollton, TX](https://jobright.ai/jobs/info/689a2e8a83d13d1f5b696a59?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
 | **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[Seasonal Internship - General Office Operations](https://jobright.ai/jobs/info/689a2fd65574fd6bc0c807b2?utm_campaign=1050&utm_source=git)** | Paterson, NJ | On Site | Aug 11 |
 | **[Grainger](https://www.grainger.com)** | **[Global Supply Chain Intern](https://jobright.ai/jobs/info/689a2f24faa4e875e825685a?utm_campaign=1050&utm_source=git)** | Lake Forest, IL | Hybrid | Aug 11 |
-| **[Canteen North America](http://Canteen.com)** | **[Operations Intern, Canteen / University of Texas at Denton / Carrollton, TX](https://jobright.ai/jobs/info/689a2e8a83d13d1f5b696a59?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 11 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Publishing - Administrative Assistant - NFWS](https://jobright.ai/jobs/info/689a2abd83d13d1f5b696973?utm_campaign=1050&utm_source=git)** | AZ Phoenix | On Site | Aug 11 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management Specialist (Intern/Co-Op Conversion)](https://jobright.ai/jobs/info/689a29acfaa4e875e825657e?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Aug 11 |
 | **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/689aca1f5574fd6bc0c860b1?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 11 |
@@ -145,6 +149,7 @@ Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_camp
 | **[Nicole Fisher Interior Design](http://www.nicolefisher.com)** | **[Design & Project Management Internship](https://jobright.ai/jobs/info/689ad4abfaa4e875e825cc27?utm_campaign=1050&utm_source=git)** | Hudson, NY | On Site | Aug 11 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[DoD Skillbridge - Enterprise Resource Planning (ERP) Program Management Intern](https://jobright.ai/jobs/info/6880cb3529ad6b2744adc125?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Asset Servicing (Boston, MA)](https://jobright.ai/jobs/info/6899c5f0faa4e875e8254099?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6882f4ba6fcd973d15add5a6?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Aug 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2025 Program Intern (BS/MS)](https://jobright.ai/jobs/info/688f0563cdbd821a366449ef?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899b65483d13d1f5b694254?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6899b64e5574fd6bc0c7dd0d?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 11 |
@@ -153,9 +158,4 @@ Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_camp
 | ↳ | **[2026 BNY Summer Internship Program - Operations (Lake Mary, FL)](https://jobright.ai/jobs/info/6899a2a05574fd6bc0c7dba0?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Aug 11 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899d2d75574fd6bc0c7e0a0?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
 | ↳ | **[2026 BNY Summer Internship Program - Operations (New York, NY)](https://jobright.ai/jobs/info/6899a10183d13d1f5b6940fa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 11 |
-| ↳ | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (New York, NY)](https://jobright.ai/jobs/info/6899d2cafaa4e875e82541fe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 11 |
-| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Clerk Typist - Night School (Temporary)(Office/On-site)](https://jobright.ai/jobs/info/68999ba383d13d1f5b693e79?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | Aug 11 |
-| **[BASF](https://www.basf.com/)** | **[Supply Chain Professional Development Program (PDP) Internship -Summer 2026](https://jobright.ai/jobs/info/68809ccc70ad650948c57c28?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | Aug 10 |
-| **[The Fifth Avenue Hotel](http://www.thefifthavenuehotel.com)** | **[Hotel Rooms Intern](https://jobright.ai/jobs/info/68995a5b83d13d1f5b691c0f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 10 |
-| **[ARB Interactive](https://arbinteractive.com)** | **[Intern (Fall 2025)](https://jobright.ai/jobs/info/6899e1f683d13d1f5b694a75?utm_campaign=1050&utm_source=git)** | Miami, Florida | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

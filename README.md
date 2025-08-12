@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern RCO Perú
+Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_campaign=1050&utm_source=git)** | Lima, IN | On Site | Aug 12 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/689aeaed83d13d1f5b69e12c?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ae6045574fd6bc0c87586?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
 | **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/689addaafaa4e875e825d3aa?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 11 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/689aa135faa4e875e825a5cd?utm_campaign=1050&utm_source=git)** | Mitchell, SD | On Site | Aug 11 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2025 Internship - Supply Chain](https://jobright.ai/jobs/info/689a9dcf83d13d1f5b69a668?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Aug 11 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science, New York - October Start](https://jobright.ai/jobs/info/689a9c2f5574fd6bc0c840b5?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Aug 11 |
+| **[The New York Foundling](https://www.nyfoundling.org/)** | **[Project Assistant - MIP](https://jobright.ai/jobs/info/687f14d92097a271a899a67e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/689a9210faa4e875e8259c53?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 11 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Intern / Management Trainee - Inspire Leadership Development Program](https://jobright.ai/jobs/info/689a8986faa4e875e8259812?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 11 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Bay Area Projects Intern at Biocom California Institute](https://jobright.ai/jobs/info/689a858b5574fd6bc0c832db?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
@@ -155,6 +158,4 @@ For a complete list, click the following sortable link below:
 | **[ARB Interactive](https://arbinteractive.com)** | **[Intern (Fall 2025)](https://jobright.ai/jobs/info/6899e1f683d13d1f5b694a75?utm_campaign=1050&utm_source=git)** | Miami, Florida | On Site | Aug 10 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f910252e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 10 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2025 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1050&utm_source=git)** | Connecticut, United States | On Site | Aug 10 |
-| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bbccf764c3d7411c35461?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 10 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/685ce4e182b9d8fb9e9c12bd?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

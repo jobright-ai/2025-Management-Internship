@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Hotel Operations Internship (Food & Beverage)(](https://jobright.ai/jobs/info/689b26adfaa4e875e825ed36?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Aug 12 |
+| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Co-op Supply Chain Analyst](https://jobright.ai/jobs/info/689b229f83d13d1f5b69ed12?utm_campaign=1050&utm_source=git)** | Glenolden, PA | On Site | Aug 12 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern RCO Perú
 Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_campaign=1050&utm_source=git)** | Lima, IN | On Site | Aug 12 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/689aeaed83d13d1f5b69e12c?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 12 |
@@ -156,6 +158,4 @@ Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_camp
 | **[BASF](https://www.basf.com/)** | **[Supply Chain Professional Development Program (PDP) Internship -Summer 2026](https://jobright.ai/jobs/info/68809ccc70ad650948c57c28?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | Aug 10 |
 | **[The Fifth Avenue Hotel](http://www.thefifthavenuehotel.com)** | **[Hotel Rooms Intern](https://jobright.ai/jobs/info/68995a5b83d13d1f5b691c0f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[ARB Interactive](https://arbinteractive.com)** | **[Intern (Fall 2025)](https://jobright.ai/jobs/info/6899e1f683d13d1f5b694a75?utm_campaign=1050&utm_source=git)** | Miami, Florida | On Site | Aug 10 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f910252e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 10 |
-| **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2025 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1050&utm_source=git)** | Connecticut, United States | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

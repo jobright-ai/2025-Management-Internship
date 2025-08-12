@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalFoundries](https://gf.com/)** | **[Manufacturing Planning Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/689b7e08faa4e875e82608a6?utm_campaign=1050&utm_source=git)** | USA - Vermont - Essex Junction | On Site | Aug 12 |
+| **[C2I Accelerator](https://www.creagenincubator.com)** | **[Business Administration and Operations Intern](https://jobright.ai/jobs/info/689b755479a9f9666253090a?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Aug 12 |
+| **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Student Administrative Assistant - ODAS](https://jobright.ai/jobs/info/689b6e3afaa4e875e82603a7?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Aug 12 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Associate Program Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/689b6e2dfaa4e875e8260394?utm_campaign=1050&utm_source=git)** | Redwood City, CA, United States | On Site | Aug 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689b6c5379a9f966625305ce?utm_campaign=1050&utm_source=git)** | Johnson Creek, WI | On Site | Aug 12 |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Project Management Office (PMO) Intern](https://jobright.ai/jobs/info/689b6bf3faa4e875e8260246?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Aug 12 |
 | **[Fifth Third Bank](http://53.com)** | **[IT Audit Internship - Summer 2026](https://jobright.ai/jobs/info/689b624483d13d1f5b69fe33?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 12 |
 | **[City of Gainesville](http://www.cityofgainesville.org/)** | **[Fleet Intern](https://jobright.ai/jobs/info/689b5fd779a9f9666252fed2?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Aug 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689b5fbafaa4e875e825fb8e?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Aug 12 |
@@ -152,10 +158,4 @@ Job ID : 261609](https://jobright.ai/jobs/info/689afe4dfaa4e875e825e827?utm_camp
 | **[Nicole Fisher Interior Design](http://www.nicolefisher.com)** | **[Design & Project Management Internship](https://jobright.ai/jobs/info/689ad4abfaa4e875e825cc27?utm_campaign=1050&utm_source=git)** | Hudson, NY | On Site | Aug 11 |
 | **[QuidelOrtho](http://quidelortho.com)** | **[DoD Skillbridge - Enterprise Resource Planning (ERP) Program Management Intern](https://jobright.ai/jobs/info/6880cb3529ad6b2744adc125?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Aug 11 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Production Supervisor](https://jobright.ai/jobs/info/6827da85b56c7fab935217a5?utm_campaign=1050&utm_source=git)** | Arkansas City, KS | On Site | Aug 11 |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Asset Servicing (Boston, MA)](https://jobright.ai/jobs/info/6899c5f0faa4e875e8254099?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6882f4ba6fcd973d15add5a6?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Aug 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2025 Program Intern (BS/MS)](https://jobright.ai/jobs/info/688f0563cdbd821a366449ef?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899b65483d13d1f5b694254?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6899b64e5574fd6bc0c7dd0d?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 11 |
-| **[SUNY Polytechnic Institute](https://www.sunypoly.edu)** | **[Administrative Assistant 1 (Trainee) (NYHELPS) - Athletics Department - SUNY Polytechnic Institute](https://jobright.ai/jobs/info/6899b64d83d13d1f5b69424a?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

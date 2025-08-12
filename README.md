@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/689aeaed83d13d1f5b69e12c?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 12 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689ae6045574fd6bc0c87586?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Aug 11 |
+| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/689addaafaa4e875e825d3aa?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 11 |
+| **[Capital One](http://www.capitalone.com)** | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adb855574fd6bc0c86caa?utm_campaign=1050&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
+| ↳ | **[Former Discover Intern, Management Rotation Program Associate - 2026](https://jobright.ai/jobs/info/689adaa6faa4e875e825cf68?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
+| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Project Development Intern (Innovative Mobility Solutions)](https://jobright.ai/jobs/info/689ad9f25574fd6bc0c86a56?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/689aae945574fd6bc0c84b4e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 11 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Commercial Strategy (Summer 2026)](https://jobright.ai/jobs/info/689aad445574fd6bc0c849ec?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/689aad1a83d13d1f5b69af6e?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Aug 11 |
@@ -100,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/689abef95574fd6bc0c85a13?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
 | **[Panasonic Connect North America](https://connect.na.panasonic.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689a4af9faa4e875e8257965?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Aug 11 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Bachelor Apprenticeship Program - Workforce Productivity - Schaumburg, IL (January 2026)](https://jobright.ai/jobs/info/689a4ae55574fd6bc0c81885?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Aug 11 |
+| **[Woolpert](http://www.woolpert.com)** | **[DoD SkillBridge Internship - Engineer Project Manager, Aviation and Airfield Design](https://jobright.ai/jobs/info/689ae472faa4e875e825d921?utm_campaign=1050&utm_source=git)** | SLC Metro Area | Hybrid | Aug 11 |
 | **[Bank of Hawaii](https://www.boh.com/personal/)** | **[Student Assistant (Trust Administration)](https://jobright.ai/jobs/info/689a4a36faa4e875e8257881?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Aug 11 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Men’s Basketball Administrative Assistant)](https://jobright.ai/jobs/info/689a47095574fd6bc0c8137e?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Aug 11 |
 | **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/689a4408faa4e875e825741b?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2025 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1050&utm_source=git)** | Connecticut, United States | On Site | Aug 10 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bbccf764c3d7411c35461?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 10 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/685ce4e182b9d8fb9e9c12bd?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 10 |
-| **[Snohomish School District](www.sno.wednet.edu)** | **[Main Office Secretary](https://jobright.ai/jobs/info/6898743083d13d1f5b69044b?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Aug 10 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/68986e4f83d13d1f5b69041e?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Aug 10 |
-| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Operations (Pittsburgh, PA)](https://jobright.ai/jobs/info/68989debfaa4e875e8250431?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 10 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Student Office Assistant](https://jobright.ai/jobs/info/689854b1faa4e875e824e47f?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 09 |
-| **[ARB Interactive](https://arbinteractive.com)** | **[Intern (Fall 2025)](https://jobright.ai/jobs/info/689abab883d13d1f5b69bce1?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Aug 09 |
-| **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/688dc90fe5cead4afd45ac15?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 09 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/689806438c6d6b442679492c?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

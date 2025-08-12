@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Planning Intern](https://jobright.ai/jobs/info/689a9210faa4e875e8259c53?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 11 |
+| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Intern / Management Trainee - Inspire Leadership Development Program](https://jobright.ai/jobs/info/689a8986faa4e875e8259812?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 11 |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Bay Area Projects Intern at Biocom California Institute](https://jobright.ai/jobs/info/689a858b5574fd6bc0c832db?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 11 |
+| **[Arbella Insurance Group](http://arbella.com)** | **[Operations Internship - Fall 2025](https://jobright.ai/jobs/info/689a840afaa4e875e82595b3?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Aug 11 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Production Planning Intern](https://jobright.ai/jobs/info/689a805ffaa4e875e825929a?utm_campaign=1050&utm_source=git)** | IL Oak Brook | Hybrid | Aug 11 |
 | **[Cleveland Electric Company](http://www.clevelandelectric.com/)** | **[2026 Summer Internship - Assistant Project Manager](https://jobright.ai/jobs/info/689a805b5574fd6bc0c83049?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2024 - College Intern - Corporate Resort Operations (Orlando, FL)](https://jobright.ai/jobs/info/689a7fad5574fd6bc0c82fd7?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 11 |
@@ -119,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[BASF](https://www.basf.com/)** | **[Supply Chain Professional Development Program (PDP) Internship -Summer 2026](https://jobright.ai/jobs/info/68809ccc70ad650948c57c28?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | Aug 10 |
 | **[The Fifth Avenue Hotel](http://www.thefifthavenuehotel.com)** | **[Hotel Rooms Intern](https://jobright.ai/jobs/info/68995a5b83d13d1f5b691c0f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 10 |
 | **[ARB Interactive](https://arbinteractive.com)** | **[Intern (Fall 2025)](https://jobright.ai/jobs/info/6899e1f683d13d1f5b694a75?utm_campaign=1050&utm_source=git)** | Miami, Florida | On Site | Aug 10 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/6850c590d48c52e5f910252e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 10 |
 | **[State of Connecticut](http://ct.gov/ctstatejobs)** | **[2025 Executive Branch Agency Internship Links #CTEXEC-INTERN-001](https://jobright.ai/jobs/info/662543263f7bae0344290f99?utm_campaign=1050&utm_source=git)** | Connecticut, United States | On Site | Aug 10 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/687bbccf764c3d7411c35461?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 10 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Wealth & Investment Management Summer Internship - Early Careers](https://jobright.ai/jobs/info/685ce4e182b9d8fb9e9c12bd?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 10 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Planning and purchasing assistant](https://jobright.ai/jobs/info/688dc4e96a4aac5783cd7361?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | ↳ | **[Operation Intern for CI](https://jobright.ai/jobs/info/688dc918e5cead4afd45ac1d?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 09 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/689859605574fd6bc0c78a64?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897d1978c6d6b4426792700?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6898393b83d13d1f5b68c29e?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68983b0183d13d1f5b68c543?utm_campaign=1050&utm_source=git)** | Osceola, WI | On Site | Aug 09 |
-| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a04d8c6d6b442678f043?utm_campaign=1050&utm_source=git)** | Fernley, NV | On Site | Aug 09 |
 | ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6898514d5574fd6bc0c7810d?utm_campaign=1050&utm_source=git)** | Vermillion, SD | On Site | Aug 09 |
-| **[ABB](https://global.abb/group/en)** | **[Digital Tools Intern](https://jobright.ai/jobs/info/688dc2e86a4aac5783cd71f3?utm_campaign=1050&utm_source=git)** | Location, WV | Hybrid | Aug 09 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2025 (Memphis)](https://jobright.ai/jobs/info/687dabcbed63844c944b33df?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Aug 09 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897d1978c6d6b4426792700?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Aug 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

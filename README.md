@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis & Program Support Internship](https://jobright.ai/jobs/info/689de5f4faa4e875e8275284?utm_campaign=1050&utm_source=git)** | USA MD Home Office (MDHOME) | Hybrid | Aug 14 |
+| ↳ | **[Summer 2026 Business Analysis & Program Support Internship](https://jobright.ai/jobs/info/689de5c779a9f96662545612?utm_campaign=1050&utm_source=git)** | USA VA Home Office (VAHOME) | Hybrid | Aug 14 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Lake Mary, FL)](https://jobright.ai/jobs/info/68926d86f5ee707a15dc59da?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Aug 14 |
+| ↳ | **[2026 BNY Summer Internship Program - Chief Administration Office (CAO) (Pittsburgh, PA)](https://jobright.ai/jobs/info/68925b20f47efe211395bb05?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 14 |
+| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Project Development Intern (Innovative Mobility Solutions)](https://jobright.ai/jobs/info/689dd75083d13d1f5b6b4930?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/689dd16983d13d1f5b6b4890?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Office Specialist III](https://jobright.ai/jobs/info/689daa0979a9f96662543363?utm_campaign=1050&utm_source=git)** | Salina, KS | Hybrid | Aug 14 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/689da5fafaa4e875e82729e2?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 14 |
 | **[Mercy Care ](https://mercyatlanta.org)** | **[Planning Intern](https://jobright.ai/jobs/info/689db58cfaa4e875e8273bcb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 14 |
@@ -90,18 +96,17 @@ For a complete list, click the following sortable link below:
 | **[Platform Accounting Group](https://platformag.com)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/689d356979a9f9666253e21c?utm_campaign=1050&utm_source=git)** | Holladay, UT | On Site | Aug 13 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Operations (IC)](https://jobright.ai/jobs/info/689d32b9faa4e875e826dcbd?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Aug 13 |
 | **[New York City Housing Development Corporation](http://www.nychdc.com/)** | **[Strategic Operations Intern (Fall)](https://jobright.ai/jobs/info/689d32a979a9f9666253e09d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 13 |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Project Development Intern (Innovative Mobility Solutions)](https://jobright.ai/jobs/info/689d2fcf79a9f9666253df85?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 13 |
 | **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/689d2cd783d13d1f5b6adb03?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Aug 13 |
 | ↳ | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/689d2c8e79a9f9666253ddfa?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Aug 13 |
 | **[Dallas Wings](http://dallaswingsbasketball.com)** | **[Basketball Operations Intern - FALL - Credit ONLY](https://jobright.ai/jobs/info/689d2c6a83d13d1f5b6ad9f1?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Aug 13 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/689d28ecfaa4e875e826d8bb?utm_campaign=1050&utm_source=git)** | Mauk, GA | On Site | Aug 13 |
 | **[RepRally](https://www.reprally.com/)** | **[Intern, Growth & Product Operations Summer 2025](https://jobright.ai/jobs/info/689d6d3783d13d1f5b6b0029?utm_campaign=1050&utm_source=git)** | New York Metropolitan | On Site | Aug 13 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/689d252afaa4e875e826d78c?utm_campaign=1050&utm_source=git)** | Huntsville, AL | Hybrid | Aug 13 |
-| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689d225583d13d1f5b6ad777?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Aug 13 |
 | **[International Institute of New England](https://iine.org/)** | **[Operations Internship (IINE Boston)](https://jobright.ai/jobs/info/689d207479a9f9666253d908?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
 | **[Elanco](https://www.elanco.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/689d1f5c83d13d1f5b6ad563?utm_campaign=1050&utm_source=git)** | Winslow, ME | On Site | Aug 13 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Special Project Coordinator](https://jobright.ai/jobs/info/689d1c34faa4e875e826d1be?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Strategy and Research Department - Strategy & Industry Research Intern](https://jobright.ai/jobs/info/687887455cebcd1dd51db751?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689d12a083d13d1f5b6acf95?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Aug 13 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern](https://jobright.ai/jobs/info/689d129783d13d1f5b6acf78?utm_campaign=1050&utm_source=git)** | Charlotte, NC - 1021 Morehead Medical Dr | On Site | Aug 13 |
 | **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Project Planner](https://jobright.ai/jobs/info/689d11d679a9f9666253d215?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 13 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Intern, Executive Analytics & Tools](https://jobright.ai/jobs/info/689d109683d13d1f5b6ace86?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Aug 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/6880da45f4f06100f3a21650?utm_campaign=1050&utm_source=git)** | Medina, OH | On Site | Aug 13 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/689c91cefaa4e875e8268e38?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 13 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Albany, GA](https://jobright.ai/jobs/info/688075332097a271a89a4e8e?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Aug 13 |
-| **[GlobalFoundries](https://gf.com/)** | **[MBA Internship – Business Strategy & Leadership Development](https://jobright.ai/jobs/info/68842beeb54cac0f1e73c89b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op / Intern - Fall 2025 (Nashville)](https://jobright.ai/jobs/info/689c7de7faa4e875e8268942?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Aug 13 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Operations (Spring 2026)](https://jobright.ai/jobs/info/689738a773b3a600fe894fb9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
-| **[Pieper Electric, Inc.](http://pieperpower.com)** | **[Project Management Trainee](https://jobright.ai/jobs/info/6879eca62097a271a897baae?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Aug 13 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Supply Planning](https://jobright.ai/jobs/info/6880cbe8f4f06100f3a21145?utm_campaign=1050&utm_source=git)** | Fairfield, NJ | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

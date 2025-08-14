@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Office Specialist III](https://jobright.ai/jobs/info/689daa0979a9f96662543363?utm_campaign=1050&utm_source=git)** | Salina, KS | Hybrid | Aug 14 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/689da5fafaa4e875e82729e2?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 14 |
+| **[Mercy Care ](https://mercyatlanta.org)** | **[Planning Intern](https://jobright.ai/jobs/info/689db58cfaa4e875e8273bcb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 14 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Planning Intern](https://jobright.ai/jobs/info/689d85dd83d13d1f5b6b1122?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
 | **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Concrete Project Manager Intern or Co-op (Summer 2026)](https://jobright.ai/jobs/info/689d8331faa4e875e8271015?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
 | ↳ | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Aug 13 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect](http://www.transperfect.com)** | **[Operations Intern (ONSITE)](https://jobright.ai/jobs/info/689cb4c083d13d1f5b6aa054?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/689cab33faa4e875e82698e9?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 13 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Key's Technology, Operations & Services (Business Risk & Controls Track) Internship - Cleveland](https://jobright.ai/jobs/info/689ca6a883d13d1f5b6a962c?utm_campaign=1050&utm_source=git)** | Remote, United States | Remote | Aug 13 |
-| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/689d90f4faa4e875e8271d2e?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Aug 13 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/689d90e6faa4e875e8271ced?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Aug 13 |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/689d90e6faa4e875e8271ced?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Aug 13 |
+| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/689d90f4faa4e875e8271d2e?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Aug 13 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/68811bf516ea5743a373621d?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | Aug 13 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/6880da45f4f06100f3a21650?utm_campaign=1050&utm_source=git)** | Medina, OH | On Site | Aug 13 |
 | **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/689c91cefaa4e875e8268e38?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Operations (Spring 2026)](https://jobright.ai/jobs/info/689738a773b3a600fe894fb9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 13 |
 | **[Pieper Electric, Inc.](http://pieperpower.com)** | **[Project Management Trainee](https://jobright.ai/jobs/info/6879eca62097a271a897baae?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Aug 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Supply Planning](https://jobright.ai/jobs/info/6880cbe8f4f06100f3a21145?utm_campaign=1050&utm_source=git)** | Fairfield, NJ | Hybrid | Aug 13 |
-| **[Ideal Mechanical](https://www.pieperpower.com/ideal-mechanical)** | **[Project Management Trainee](https://jobright.ai/jobs/info/68578e103eaa982d4d012496?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

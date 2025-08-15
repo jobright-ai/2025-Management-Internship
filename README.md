@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Merchant Operations Project Intern (TikTok Shop - US Operation) - 2025 Start(BS/MS)](https://jobright.ai/jobs/info/688305e06fcd973d15ade616?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 15 |
 | **[The University of Texas at El Paso](http://www.utep.edu/)** | **[Administrative Associate - Liberal Arts - IOH & BDHC](https://jobright.ai/jobs/info/689f00b3faa4e875e82842aa?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 15 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Aviation Office Assistant (Work Study)](https://jobright.ai/jobs/info/689f002e79a9f9666255448a?utm_campaign=1050&utm_source=git)** | Bridgewater, MA | On Site | Aug 15 |
 | **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Student Office Assistant](https://jobright.ai/jobs/info/689f002279a9f9666255447d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 15 |
@@ -65,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Senior Psychologist Program Manager - Community and Residential Care Services (CRCS)](https://jobright.ai/jobs/info/689ef0c579a9f96662553d29?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 15 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Co-Op - Office of the CFO Solutions - CF - Boston, MA](https://jobright.ai/jobs/info/689ed64ffaa4e875e8282a67?utm_campaign=1050&utm_source=git)** | United States, Massachusetts, Boston | On Site | Aug 14 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Strategy & Management Summer Associate Program - 2026](https://jobright.ai/jobs/info/689ed473faa4e875e828234c?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 14 |
-| **[Providence Health & Services](https://www.providence.org/)** | **[Specialty Fellow - Administration](https://jobright.ai/jobs/info/689ed02283d13d1f5b6c20dc?utm_campaign=1050&utm_source=git)** | Cerritos, CA | Remote | Aug 14 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2026 Summer Analyst Program: Information Technology - Tampa, FL](https://jobright.ai/jobs/info/689ecff983d13d1f5b6c20be?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Aug 14 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Dallas Metro Area / Platform Solutions / Summer Analyst](https://jobright.ai/jobs/info/689ef0b379a9f96662553d16?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 14 |
 | ↳ | **[2026 / Americas / Dallas Metro Area / Operations / Summer Analyst](https://jobright.ai/jobs/info/689eefe983d13d1f5b6c38bd?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 14 |

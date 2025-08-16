@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PROJXON](www.projxon.com)** | **[Information Technology Project Manager Intern](https://jobright.ai/jobs/info/68a0dc63faa4e875e8291cd1?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Aug 16 |
+| **[Kalamazoo Wings](http://www.kwings.com)** | **[Game Operations Intern / Wings Event Center](https://jobright.ai/jobs/info/68a0ec58cc9ee94dc9120c71?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Aug 16 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68a0dc5cfaa4e875e8291cb4?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 16 |
 | **[Wagner Engineering](www.wagnerengineerusa.com)** | **[Business Administration Student Intern (Unpaid)](https://jobright.ai/jobs/info/68a0a403cc9ee94dc911ff23?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Aug 16 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68a09d4683d13d1f5b6d0e13?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Aug 16 |
+| ↳ | **[College Aide](https://jobright.ai/jobs/info/68a09d3983d13d1f5b6d0ddb?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Aug 16 |
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Office Internship- Rail Infrastructure(Summer 2026)](https://jobright.ai/jobs/info/68a09e7dcc9ee94dc911fd10?utm_campaign=1050&utm_source=git)** | Homestead, PA | On Site | Aug 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68a07acbfaa4e875e829071c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 16 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Program Quality and Measurement Field Office Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/68a07a93cc9ee94dc911f510?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 16 |
@@ -117,15 +118,15 @@ For a complete list, click the following sortable link below:
 | **[Chainguard](https://www.chainguard.dev)** | **[Senior Manager, Internal Communications](https://jobright.ai/jobs/info/689fcd50faa4e875e828b408?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Connecticut College](http://www.conncoll.edu/)** | **[Director of Operations - Center for International Studies and the Liberal Arts](https://jobright.ai/jobs/info/689fca3cfaa4e875e828b27b?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Aug 15 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[SAP Customer Evolution CoE iXp Intern – Digital Supply Chain Program Manager at SAP America, Inc.](https://jobright.ai/jobs/info/689fc9e2faa4e875e828b153?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
-| **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc4affaa4e875e828b063?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Aug 15 |
+| **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc69ccc9ee94dc9119b54?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Aug 15 |
 | **[SAP](https://www.sap.com)** | **[SAP Customer Evolution CoE iXp Intern - Digital Supply Chain Program Manager](https://jobright.ai/jobs/info/689fc496faa4e875e828b00b?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Aug 15 |
-| **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc3b1faa4e875e828af87?utm_campaign=1050&utm_source=git)** | St. Louis, MO | Hybrid | Aug 15 |
+| **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc3b6faa4e875e828af9d?utm_campaign=1050&utm_source=git)** | St. Louis, MO | Hybrid | Aug 15 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Technical Project Management (IC) - Customer Proposals](https://jobright.ai/jobs/info/689fc39ecc9ee94dc9119a5f?utm_campaign=1050&utm_source=git)** | San Jose, California | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb72583d13d1f5b6ca936?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb704cc9ee94dc911950c?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb704cc9ee94dc911950a?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca89a?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
+| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb704cc9ee94dc911950c?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca899?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
+| ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca89a?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6fdfaa4e875e828aa16?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f8faa4e875e828a9f8?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern - Collateral and Release Operations](https://jobright.ai/jobs/info/689fb6f3faa4e875e828a9ec?utm_campaign=1050&utm_source=git)** | San Antonio, TX - One Frost | On Site | Aug 15 |
@@ -140,7 +141,9 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Internship: Business Operations Intern](https://jobright.ai/jobs/info/689f96a683d13d1f5b6c9d7a?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Publishing - Administrative Assistant - NFWS](https://jobright.ai/jobs/info/689f95a0faa4e875e8289e12?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
 | **[Arizona State University](http://www.asu.edu)** | **[Nutrition Management Intern](https://jobright.ai/jobs/info/689f93cfb3e889632cf08c4d?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f92acfaa4e875e8289d8e?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Fall 2025 - Supply Chain Intern - Iowa](https://jobright.ai/jobs/info/689f6ab283d13d1f5b6c665e?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f9134b3e889632cf08bdb?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Inventory/Logistics Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f8f68faa4e875e8289c02?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | ↳ | **[Program Management Intern (Carlsbad, CA)](https://jobright.ai/jobs/info/689f8e2ab3e889632cf08a3a?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Aug 15 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f8cb983d13d1f5b6c97b6?utm_campaign=1050&utm_source=git)** | San Bruno, CA | On Site | Aug 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f875dfaa4e875e82895f0?utm_campaign=1050&utm_source=git)** | Clearlake, CA | On Site | Aug 15 |
 | ↳ | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f8727b3e889632cf084df?utm_campaign=1050&utm_source=git)** | Eureka, CA | On Site | Aug 15 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/689f86e9b3e889632cf08496?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 15 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f86e0b3e889632cf08494?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689f8398b3e889632cf082d8?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Aug 15 |
-| **[TransTech](https://www.transtechenergy.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/689f8372faa4e875e82891f9?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/68a1f90f83d13d1f5b6d5480?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Aug 17 |
+| **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/68a1f67383d13d1f5b6d53c3?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Aug 17 |
+| **[SEMCOG Technologies](https:semcog.ai)** | **[🧠 Executive Assistant Intern (90-Day Remote Internship – U.S. Only)](https://jobright.ai/jobs/info/68a1eb4bfaa4e875e829538a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Aug 17 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Coordinator](https://jobright.ai/jobs/info/684f847cfb54403ef3ae417d?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 17 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Operations and Strategy Intern (Great Pay) at CareYaya Health Technologies Inc.](https://jobright.ai/jobs/info/68a1c38b83d13d1f5b6d4fb2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68a1a7e2cc9ee94dc9123c15?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68a19ea9faa4e875e8294e37?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Aug 17 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Wagner Engineering](www.wagnerengineerusa.com)** | **[Business Administration Student Intern (Unpaid)](https://jobright.ai/jobs/info/68a0a403cc9ee94dc911ff23?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Aug 16 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68a09d4683d13d1f5b6d0e13?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Aug 16 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/688484e74174df41e0f94969?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Aug 16 |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Aug 16 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Office Intern](https://jobright.ai/jobs/info/68a14c16faa4e875e8292d74?utm_campaign=1050&utm_source=git)** | Roseland, NJ | On Site | Aug 16 |
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Office Internship- Rail Infrastructure(Summer 2026)](https://jobright.ai/jobs/info/68a09e7dcc9ee94dc911fd10?utm_campaign=1050&utm_source=git)** | Homestead, PA | On Site | Aug 16 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68a07acbfaa4e875e829071c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 16 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Publishing - Administrative Assistant - NFWS](https://jobright.ai/jobs/info/689f95a0faa4e875e8289e12?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
 | **[Arizona State University](http://www.asu.edu)** | **[Nutrition Management Intern](https://jobright.ai/jobs/info/689f93cfb3e889632cf08c4d?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f92acfaa4e875e8289d8e?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f9134b3e889632cf08bdb?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Inventory/Logistics Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f8f68faa4e875e8289c02?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | ↳ | **[Program Management Intern (Carlsbad, CA)](https://jobright.ai/jobs/info/689f8e2ab3e889632cf08a3a?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Aug 15 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f8cb983d13d1f5b6c97b6?utm_campaign=1050&utm_source=git)** | San Bruno, CA | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f8c5cfaa4e875e8289add?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Orlando, FL](https://jobright.ai/jobs/info/689f8b9ffaa4e875e8289943?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68a01f95faa4e875e828e440?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
-| **[Core & Main](https://coreandmain.com/)** | **[Intern - Corporate](https://jobright.ai/jobs/info/689f894983d13d1f5b6c938e?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f881ffaa4e875e82896a5?utm_campaign=1050&utm_source=git)** | Santa Rosa, CA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

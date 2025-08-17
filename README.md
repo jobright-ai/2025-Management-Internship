@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68a19ea9faa4e875e8294e37?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Aug 17 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68a1976483d13d1f5b6d4d3e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 17 |
 | **[GOGREENLOCALLY ORG.](https://www.gogreenlocally.org)** | **[Volunteer Sustainability Project Admin & Operations Internship (unpaid)](https://jobright.ai/jobs/info/68a18981cc9ee94dc9123ae8?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68a1714483d13d1f5b6d3ace?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 16 |
 | **[Kalamazoo Wings](http://www.kwings.com)** | **[Game Operations Intern / Wings Event Center](https://jobright.ai/jobs/info/68a0ec58cc9ee94dc9120c71?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Aug 16 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68a0dc5cfaa4e875e8291cb4?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 16 |
 | **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/688bf0e3906ac06e1d1cf908?utm_campaign=1050&utm_source=git)** | Glenside, PA | Hybrid | Aug 16 |
-| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68a0b980faa4e875e82914f6?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 16 |
 | **[Wagner Engineering](www.wagnerengineerusa.com)** | **[Business Administration Student Intern (Unpaid)](https://jobright.ai/jobs/info/68a0a403cc9ee94dc911ff23?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Aug 16 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Aide](https://jobright.ai/jobs/info/68a09d4683d13d1f5b6d0e13?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Aug 16 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/688484e74174df41e0f94969?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Aug 16 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Superintendent Intern (New Graduate Opportunity)](https://jobright.ai/jobs/info/68a07accfaa4e875e8290726?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Aug 16 |
 | ↳ | **[Assistant Superintendent Intern (New Graduate Opportunity)](https://jobright.ai/jobs/info/68a0a406faa4e875e829126d?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 16 |
 | **[ABB](https://global.abb/group/en)** | **[Intern Procurement](https://jobright.ai/jobs/info/68a02c9fcc9ee94dc911dab4?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 16 |
+| **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68a01dbefaa4e875e828dc2d?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 15 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Summer 2026 Intern - MA](https://jobright.ai/jobs/info/68a172b1cc9ee94dc9122b1a?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 15 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68a1637583d13d1f5b6d36dd?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 15 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Specialty Fellow - Administration](https://jobright.ai/jobs/info/68a15a7883d13d1f5b6d342d?utm_campaign=1050&utm_source=git)** | Cerritos, CA | On Site | Aug 15 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07ecc9ee94dc911a637?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/689fe07bcc9ee94dc911a632?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain Internship Program- Summer 2026](https://jobright.ai/jobs/info/689fe07b83d13d1f5b6cb969?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07a83d13d1f5b6cb95c?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07a83d13d1f5b6cb964?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07a83d13d1f5b6cb964?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07a83d13d1f5b6cb95c?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychologist Program Manager](https://jobright.ai/jobs/info/689fdc30cc9ee94dc911a5cc?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Aug 15 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/689fdc2983d13d1f5b6cb89a?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Aug 15 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Summer Analyst - Central Hub](https://jobright.ai/jobs/info/689fd963faa4e875e828b9b8?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
@@ -128,10 +130,10 @@ For a complete list, click the following sortable link below:
 | **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc3b1faa4e875e828af87?utm_campaign=1050&utm_source=git)** | St. Louis, MO | Hybrid | Aug 15 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Technical Project Management (IC) - Customer Proposals](https://jobright.ai/jobs/info/689fc39ecc9ee94dc9119a5f?utm_campaign=1050&utm_source=git)** | San Jose, California | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb72583d13d1f5b6ca936?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb704cc9ee94dc911950c?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb704cc9ee94dc911950a?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca899?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
+| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb704cc9ee94dc911950c?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca89a?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
+| ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70083d13d1f5b6ca899?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6fdfaa4e875e828aa16?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6f8faa4e875e828a9f8?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | **[Frost](https://www.frostbank.com/)** | **[College Intern - Collateral and Release Operations](https://jobright.ai/jobs/info/689fb6f3faa4e875e828a9ec?utm_campaign=1050&utm_source=git)** | San Antonio, TX - One Frost | On Site | Aug 15 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Internship: Business Operations Intern](https://jobright.ai/jobs/info/689f96a683d13d1f5b6c9d7a?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 15 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Publishing - Administrative Assistant - NFWS](https://jobright.ai/jobs/info/689f95a0faa4e875e8289e12?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
 | **[Arizona State University](http://www.asu.edu)** | **[Nutrition Management Intern](https://jobright.ai/jobs/info/689f93cfb3e889632cf08c4d?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f92acfaa4e875e8289d8e?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Inventory/Logistics Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f8f68faa4e875e8289c02?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Aug 15 |
 | ↳ | **[Program Management Intern (Carlsbad, CA)](https://jobright.ai/jobs/info/689f8e2ab3e889632cf08a3a?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Aug 15 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f8cb983d13d1f5b6c97b6?utm_campaign=1050&utm_source=git)** | San Bruno, CA | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f8c5cfaa4e875e8289add?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f8bfefaa4e875e8289a17?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Orlando, FL](https://jobright.ai/jobs/info/689f8b9ffaa4e875e8289943?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68a01f95faa4e875e828e440?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Corporate](https://jobright.ai/jobs/info/689f894983d13d1f5b6c938e?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Aug 15 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f881ffaa4e875e82896a5?utm_campaign=1050&utm_source=git)** | Santa Rosa, CA | On Site | Aug 15 |
 | ↳ | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f87e5b3e889632cf085b7?utm_campaign=1050&utm_source=git)** | Ukiah, CA | On Site | Aug 15 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Management - Fall Semester 2025 Cincinnati](https://jobright.ai/jobs/info/689f87bffaa4e875e8289645?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 15 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager- Primary Care Mental Health Integration (PCMHI)](https://jobright.ai/jobs/info/689f876cfaa4e875e82895fd?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

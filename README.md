@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anduril Industries](https://www.anduril.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/68a40fbb541cc34798409eee?utm_campaign=1050&utm_source=git)** | Costa Mesa, CA | On Site | Aug 18 |
+| **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - North New Jersey (Starting Summer 2026)](https://jobright.ai/jobs/info/68a408852d2a252445cd5034?utm_campaign=1050&utm_source=git)** | Kearny, NJ | Hybrid | Aug 18 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/68a404c9e9f1c744da11ff4c?utm_campaign=1050&utm_source=git)** | Costa Mesa, California, United States | On Site | Aug 18 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a3ea4ae9f1c744da11f315?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Aug 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3ea0a2d2a252445cd4210?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Aug 18 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern to Intern Conversion Only - Corporate Risk and Broking - Internship - Broking- 2026](https://jobright.ai/jobs/info/68a3e6282d2a252445cd3df0?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a3df992d2a252445cd3adf?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3df632d2a252445cd3a54?utm_campaign=1050&utm_source=git)** | Machesney Park, IL | On Site | Aug 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3df632d2a252445cd3a53?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Aug 18 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3df632d2a252445cd3a54?utm_campaign=1050&utm_source=git)** | Machesney Park, IL | On Site | Aug 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[IT Project Management Internship - Fall 2025](https://jobright.ai/jobs/info/68a3dba3403ad4363b1c4468?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Aug 18 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a3d7bb403ad4363b1c43b4?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Aug 18 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a3d7ab403ad4363b1c439e?utm_campaign=1050&utm_source=git)** | West Allis, WI | On Site | Aug 18 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Anderson Sport and Wellness a Physical Therapy Corporation](https://andersonswpt.com)** | **[Student Office Management Internship](https://jobright.ai/jobs/info/68a3f03fe9f1c744da11f46a?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 18 |
 | **[Columbus City Schools - Ohio](https://www.ccsoh.us)** | **[***INTERNAL BID***-INTERVENTION AIDE-TRANSPORTATION -Bid#2025621503](https://jobright.ai/jobs/info/68a3c344403ad4363b1c37d1?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 18 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Category Management Intern Summer 2026](https://jobright.ai/jobs/info/68a3c00e403ad4363b1c3760?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 18 |
+| **[Founder Institute](http://www.fi.co)** | **[Founder Institute: Accelerator Program Intern (New York)](https://jobright.ai/jobs/info/68a40bfe541cc34798409d71?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 18 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Supply Planning](https://jobright.ai/jobs/info/68a3bb43403ad4363b1c349b?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Remote | Aug 18 |
 | **[The University of Texas at El Paso](http://www.utep.edu/)** | **[Administrative Associate - Liberal Arts - IOH & BDHC](https://jobright.ai/jobs/info/68a3bb2b37d3cc6b0d57916f?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 18 |
 | **[Wyoming Business Council](https://wyomingbusiness.org/business/financing/equity/)** | **[Southwest Regional Director](https://jobright.ai/jobs/info/68a3ba1f1ab5f8579e8a7ce1?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Aug 18 |
@@ -114,8 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Laveer Engineering](https://laveer.ca/)** | **[Category Management Intern Summer 2026](https://jobright.ai/jobs/info/68a3e6662d2a252445cd3ee0?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | On Site | Aug 18 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 IT Retail & Logistics Internship](https://jobright.ai/jobs/info/68a397c2403ad4363b1c27cf?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Aug 18 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Controllership Intern (Winter 2026)](https://jobright.ai/jobs/info/68a396d71ab5f8579e8a7095?utm_campaign=1050&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Aug 18 |
-| **[Alfred](http://www.helloalfred.com)** | **[Office & Operations Intern](https://jobright.ai/jobs/info/68a3941037d3cc6b0d5783fe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 18 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/68a3902f37d3cc6b0d578098?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Aug 18 |
 | **[Oriana House, Inc.](https://www.orianahouse.org/)** | **[Resident Supervisor Intern – [Tiffin, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/68a389a4403ad4363b1c21f6?utm_campaign=1050&utm_source=git)** | Tiffin, OH | On Site | Aug 18 |
 | ↳ | **[Resident Supervisor Intern – [Akron, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/68a38966403ad4363b1c21d7?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Aug 18 |
 | ↳ | **[Resident Supervisor Intern – [Marietta, OH] (Unpaid, Fall 2025 & Spring 2026)](https://jobright.ai/jobs/info/68a388981ab5f8579e8a6aa5?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Aug 18 |
@@ -132,6 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68a3805c1ab5f8579e8a6735?utm_campaign=1050&utm_source=git)** | Chardon, OH | On Site | Aug 18 |
 | ↳ | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68a37fff1ab5f8579e8a66aa?utm_campaign=1050&utm_source=git)** | Delavan, WI | On Site | Aug 18 |
 | **[Able Aerospace](www.ableaerospace.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/68a37ff01ab5f8579e8a669d?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Aug 18 |
+| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68a3f8b22d2a252445cd4574?utm_campaign=1050&utm_source=git)** | Apex, NC | On Site | Aug 18 |
+| ↳ | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68a3f988541cc34798409432?utm_campaign=1050&utm_source=git)** | Ashland, OH | On Site | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single-Family Business Intern- Summer 2026](https://jobright.ai/jobs/info/68a37d9e403ad4363b1c1a46?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[GALLO](https://www.gallo.com)** | **[IT Program Analyst Internship 2026](https://jobright.ai/jobs/info/68a37d7537d3cc6b0d577751?utm_campaign=1050&utm_source=git)** | Modesto, CA | Hybrid | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Risk Management Graduate Intern – Business- Summer 2026](https://jobright.ai/jobs/info/68a37d5037d3cc6b0d57771b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Aug 18 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[GALLO](https://www.gallo.com)** | **[Technical Management Development Program 2026](https://jobright.ai/jobs/info/68a37bca1ab5f8579e8a62e3?utm_campaign=1050&utm_source=git)** | Livingston, CA | On Site | Aug 18 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/68a37b6a1ab5f8579e8a6267?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Aug 18 |
 | **[onsemi](http://www.onsemi.com)** | **[Fall 2025 Strategic Procurement Intern – Corporate Services](https://jobright.ai/jobs/info/68a37a7937d3cc6b0d5775b4?utm_campaign=1050&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Aug 18 |
+| **[GALLO](https://www.gallo.com)** | **[Technical Management Development Program 2026](https://jobright.ai/jobs/info/68a40fa4e9f1c744da1203a7?utm_campaign=1050&utm_source=git)** | Fort Lawn, SC | On Site | Aug 18 |
+| ↳ | **[Technical Management Development Program 2026](https://jobright.ai/jobs/info/68a40ddd2d2a252445cd545d?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 18 |
 | **[Raben](https://www.raben.co/)** | **[Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/68a3783d1ab5f8579e8a5ff0?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Intern -USA](https://jobright.ai/jobs/info/68a3780a403ad4363b1c152a?utm_campaign=1050&utm_source=git)** | Southfield, Michigan USA | Hybrid | Aug 18 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Supply Chain Risk & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68a37769403ad4363b1c13ec?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Aug 18 |
 | **[Fairview Health Services](http://www.fairview.org/)** | **[Administrative Fellow](https://jobright.ai/jobs/info/689f7eacb3e889632cf07a42?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 18 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Project Management](https://jobright.ai/jobs/info/68a376e11ab5f8579e8a5c44?utm_campaign=1050&utm_source=git)** | United States-Florida-Melbourne | On Site | Aug 18 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/68a375ca37d3cc6b0d5770bd?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a37549403ad4363b1c12ed?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3752937d3cc6b0d576fbf?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a374bf403ad4363b1c1222?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a374b237d3cc6b0d576f49?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a37478403ad4363b1c11b6?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a37477403ad4363b1c11b0?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

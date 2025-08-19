@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Airport Customer Service, Cargo, and Clean Project Management (Fall 2025)](https://jobright.ai/jobs/info/68a461a2e9f1c744da121a47?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 19 |
+| **[e-regio GmbH & Co. KG](https://www.e-regio.de)** | **[Kaufleute für Büromanagement (m/w/d) 2026](https://jobright.ai/jobs/info/68877fbb73e3e13cbd93e071?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Aug 19 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - OPERATIONS, I
+Job ID : 262892](https://jobright.ai/jobs/info/68a44e2e2d2a252445cd6819?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/689fe07bcc9ee94dc911a632?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern to Intern Conversion Only - Corporate Risk and Broking - Internship - Broking- 2026](https://jobright.ai/jobs/info/68a42193541cc3479840ab73?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
 | **[GROB Systems, Inc](https://grobsystems.com)** | **[Supply Chain Intern- Fall](https://jobright.ai/jobs/info/68a41a982d2a252445cd5ab5?utm_campaign=1050&utm_source=git)** | Bluffton, OH | On Site | Aug 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/68a40fbb541cc34798409eee?utm_campaign=1050&utm_source=git)** | Costa Mesa, CA | On Site | Aug 18 |
@@ -66,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3ea0a2d2a252445cd4210?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Aug 18 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Intern to Intern Conversion Only - Corporate Risk and Broking - Internship - Broking- 2026](https://jobright.ai/jobs/info/68a3e6282d2a252445cd3df0?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a3df992d2a252445cd3adf?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Aug 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3df632d2a252445cd3a53?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Aug 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3df632d2a252445cd3a54?utm_campaign=1050&utm_source=git)** | Machesney Park, IL | On Site | Aug 18 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a3df632d2a252445cd3a53?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Aug 18 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[IT Project Management Internship - Fall 2025](https://jobright.ai/jobs/info/68a3dba3403ad4363b1c4468?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Aug 18 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a4120de9f1c744da120979?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Aug 18 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a3d7bb403ad4363b1c43b4?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Aug 18 |
@@ -153,8 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/68a37b6a1ab5f8579e8a6267?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Aug 18 |
 | **[onsemi](http://www.onsemi.com)** | **[Fall 2025 Strategic Procurement Intern – Corporate Services](https://jobright.ai/jobs/info/68a37a7937d3cc6b0d5775b4?utm_campaign=1050&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Aug 18 |
 | **[GALLO](https://www.gallo.com)** | **[Operations Management Development Program 2026](https://jobright.ai/jobs/info/68a41155541cc3479840a2cc?utm_campaign=1050&utm_source=git)** | Fort Lawn, SC | On Site | Aug 18 |
-| ↳ | **[Technical Management Development Program 2026](https://jobright.ai/jobs/info/68a40fa4e9f1c744da1203a7?utm_campaign=1050&utm_source=git)** | Fort Lawn, SC | On Site | Aug 18 |
-| ↳ | **[Technical Management Development Program 2026](https://jobright.ai/jobs/info/68a40ddd2d2a252445cd545d?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 18 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Intern Project Management](https://jobright.ai/jobs/info/68a379a537d3cc6b0d5773ae?utm_campaign=1050&utm_source=git)** | United States-Florida-Melbourne | On Site | Aug 18 |
-| **[Raben](https://www.raben.co/)** | **[Operations Intern (Fall 2025)](https://jobright.ai/jobs/info/68a3783d1ab5f8579e8a5ff0?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

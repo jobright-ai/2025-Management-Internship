@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com/)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/68a5ce3a758f2e4ac3fe09b1?utm_campaign=1050&utm_source=git)** | Cypress, CA | On Site | Aug 20 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6889b61d9f961617fe217786?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Aug 20 |
+| **[Textron](http://textron.com)** | **[2026 Textron Leadership Development Internship Program – Finance & Accounting](https://jobright.ai/jobs/info/68a5c921b6a3617d7fa73271?utm_campaign=1050&utm_source=git)** | US-Rhode Island-Providence | On Site | Aug 20 |
+| **[US Anesthesia Partners](http://www.usap.com)** | **[Spring 2026 Operations Intern](https://jobright.ai/jobs/info/68a5c8f0b6a3617d7fa7325f?utm_campaign=1050&utm_source=git)** | US-FL-Maitland | On Site | Aug 20 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68a58cab33dd7158bbc9b202?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 20 |
 | **[Forvis Mazars US](https://www.forvismazars.us/)** | **[Intern Healthcare Performance Improvement Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a588bdb6a3617d7fa728f2?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Aug 20 |
 | ↳ | **[Intern Healthcare Performance Improvement Summer 2026 / Multiple Locations](https://jobright.ai/jobs/info/68a5a18cb6a3617d7fa72c1a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 20 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Diamondback Energy](http://www.diamondbackenergy.com/)** | **[2026 Land Admin Summer Intern](https://jobright.ai/jobs/info/68a50da7b6a3617d7fa6e2ba?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Aug 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68a50d4833dd7158bbc96bef?utm_campaign=1050&utm_source=git)** | Fayetteville, NC | On Site | Aug 19 |
 | **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern - Gilbert](https://jobright.ai/jobs/info/68a50d1933dd7158bbc96bab?utm_campaign=1050&utm_source=git)** | Gilbert, MN | On Site | Aug 19 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Supply Chain Internship – Summer 2026 at Uline](https://jobright.ai/jobs/info/68a50cca33dd7158bbc96b65?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[KW Commercial](https://communities.kw.com/community/kw-commercial/)** | **[Real Estate Administrative Assistant](https://jobright.ai/jobs/info/68a565a7758f2e4ac3fdeb9a?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Aug 19 |
 | **[Caldwell Companies](http://caldwellcos.com)** | **[Caldwell Companies Internship Program](https://jobright.ai/jobs/info/68a5388eb6a3617d7fa6f7a5?utm_campaign=1050&utm_source=git)** | Cypress, TX | On Site | Aug 19 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Walt Disney World Costuming Project Analyst Intern, Spring 2026](https://jobright.ai/jobs/info/68a4fb10b6a3617d7fa6dbf3?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 19 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a4bf902d2a252445cd8cbc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Aug 19 |
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68a4bea22d2a252445cd8b88?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Aug 19 |
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Fall 2025 - Broker Administration](https://jobright.ai/jobs/info/68a4bc6ae9f1c744da123afb?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Aug 19 |
-| **[Aviagen](http://en.aviagen.com/languages)** | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4bab52d2a252445cd89fc?utm_campaign=1050&utm_source=git)** | Pikeville, TN | On Site | Aug 19 |
+| **[Aviagen](http://www.avigen.com)** | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4bab52d2a252445cd89fc?utm_campaign=1050&utm_source=git)** | Pikeville, TN | On Site | Aug 19 |
+| ↳ | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4baaa2d2a252445cd89f1?utm_campaign=1050&utm_source=git)** | Walpole, NH | On Site | Aug 19 |
 | **[Arsenal Solutions Group](https://arsenalsolutionsgroup.com/)** | **[Office Intern](https://jobright.ai/jobs/info/68a5663533dd7158bbc99e0b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
-| **[Aviagen](http://en.aviagen.com/languages)** | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4b865e9f1c744da12390b?utm_campaign=1050&utm_source=git)** | Albertville, AL | On Site | Aug 19 |
+| **[Aviagen](http://www.avigen.com)** | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4b865e9f1c744da12390b?utm_campaign=1050&utm_source=git)** | Albertville, AL | On Site | Aug 19 |
 | **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68a4b39ee9f1c744da1235ca?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 19 |
-| **[Aviagen](http://en.aviagen.com/languages)** | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a54d9f33dd7158bbc98e37?utm_campaign=1050&utm_source=git)** | Huntsville-Decatur Area | On Site | Aug 19 |
+| **[Aviagen](http://www.avigen.com)** | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a54d9f33dd7158bbc98e37?utm_campaign=1050&utm_source=git)** | Huntsville-Decatur Area | On Site | Aug 19 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Norfolk)](https://jobright.ai/jobs/info/68a4b2812d2a252445cd862c?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Aug 19 |
-| **[Aviagen](http://en.aviagen.com/languages)** | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4ac64e9f1c744da123471?utm_campaign=1050&utm_source=git)** | Watertown, NY | On Site | Aug 19 |
-| ↳ | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4a973e9f1c744da1233a1?utm_campaign=1050&utm_source=git)** | Huntsville, Alabama - Corporate Office | On Site | Aug 19 |
-| ↳ | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4a96e541cc3479840cecf?utm_campaign=1050&utm_source=git)** | Crossville, TN | On Site | Aug 19 |
-| ↳ | **[Aviagen College Internship Application](https://jobright.ai/jobs/info/68a4a96b2d2a252445cd83df?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

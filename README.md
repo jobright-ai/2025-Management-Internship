@@ -57,23 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8c979d627244576e358b8?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
+| **[Charter Steel](http://www.chartersteel.com/)** | **[Operations Intern - Year Round](https://jobright.ai/jobs/info/68a8c915758f2e4ac3ff54d1?utm_campaign=1050&utm_source=git)** | Charter Steel - Cleveland, OH | On Site | Aug 22 |
+| **[Jade Global](https://www.jadeglobal.com)** | **[Project Manager Analyst](https://jobright.ai/jobs/info/68a8c51ad627244576e355fb?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Aug 22 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68a8c4fbd627244576e355d7?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 22 |
+| **[Builders Vision](https://www.buildersvision.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/68a8b9bad627244576e34d51?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
+| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Project Management](https://jobright.ai/jobs/info/68a8b92c758f2e4ac3ff4914?utm_campaign=1050&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Internship- Supply Chain- Summer 2026](https://jobright.ai/jobs/info/68a8b81f6acf96396f721fda?utm_campaign=1050&utm_source=git)** | Muscatine, IA | Hybrid | Aug 22 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Greenwood Warehouse](https://jobright.ai/jobs/info/68a8ae1d758f2e4ac3ff4560?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Aug 22 |
+| ↳ | **[District Manager Intern - Northern Ohio](https://jobright.ai/jobs/info/68a8adfbd627244576e348d8?utm_campaign=1050&utm_source=git)** | Hinckley, OH | On Site | Aug 22 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technical Project Management](https://jobright.ai/jobs/info/68a8adba758f2e4ac3ff4503?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
 | **[VX Media](https://www.vxmedia.co)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/68a8ace8758f2e4ac3ff4465?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technology Project Management](https://jobright.ai/jobs/info/68a8ace16acf96396f721c5e?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Aug 22 |
+| ↳ | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68a8acd96acf96396f721c57?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Aug 22 |
 | ↳ | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68a8acaa758f2e4ac3ff442f?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Aug 22 |
 | **[Drinks Food Life](www.drinksfoodlife.com)** | **[Executive Assistant Internship](https://jobright.ai/jobs/info/68a8ac656acf96396f721bfa?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Development Projects Internship](https://jobright.ai/jobs/info/68a8abde6acf96396f721b88?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Demand Planning](https://jobright.ai/jobs/info/68a8ab4a758f2e4ac3ff436a?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | Hybrid | Aug 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8ab21758f2e4ac3ff434a?utm_campaign=1050&utm_source=git)** | Merrimack, NH | Hybrid | Aug 22 |
 | **[Covestro](https://www.covestro.com)** | **[Supply Chain & Logistics Interns](https://jobright.ai/jobs/info/68a8aae4758f2e4ac3ff4300?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - International Logistics](https://jobright.ai/jobs/info/68a8aae0758f2e4ac3ff42fa?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | Hybrid | Aug 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aac0758f2e4ac3ff42d8?utm_campaign=1050&utm_source=git)** | Covington, KY | Hybrid | Aug 22 |
-| ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aa596acf96396f721b1d?utm_campaign=1050&utm_source=git)** | Smithfield, RI | Hybrid | Aug 22 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Development Projects Internship](https://jobright.ai/jobs/info/68a8aab9758f2e4ac3ff42c9?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aa596acf96396f721b1d?utm_campaign=1050&utm_source=git)** | Smithfield, RI | Hybrid | Aug 22 |
 | ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aa24d627244576e34767?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Aug 22 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Integrated Planning](https://jobright.ai/jobs/info/68a8aa15d627244576e34752?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | Hybrid | Aug 22 |
 | ↳ | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68a8aa0ed627244576e34740?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | On Site | Aug 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8a9f9d627244576e34719?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68a8a9e7d627244576e346f6?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Aug 22 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8a9c16acf96396f721a8a?utm_campaign=1050&utm_source=git)** | Westlake, TX | Hybrid | Aug 22 |
+| ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/68a8a9c16acf96396f721a8a?utm_campaign=1050&utm_source=git)** | Westlake, TX | Hybrid | Aug 22 |
 | ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/68a8a9596acf96396f721a34?utm_campaign=1050&utm_source=git)** | Durham, NC | Hybrid | Aug 22 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Retail Banking Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a8056acf96396f721944?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Aug 22 |
 | **[Walgreens](https://www.walgreens.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68a8a6546acf96396f7217ac?utm_campaign=1050&utm_source=git)** | Deerfield, IL | On Site | Aug 22 |
@@ -85,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Covestro](https://www.covestro.com)** | **[Site Logistics Intern, Baytown](https://jobright.ai/jobs/info/68a89b90758f2e4ac3ff3a3a?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Aug 22 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/68a89b63758f2e4ac3ff39e7?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[Riley Pope & Laney, LLC](https://rplfirm.com/)** | **[Administrative Assistant / Runner](https://jobright.ai/jobs/info/68a89b1b6acf96396f721321?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Aug 22 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68a89a706acf96396f7211c7?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Aug 22 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a88ec9d627244576e338bc?utm_campaign=1050&utm_source=git)** | 42 Commerce Pkwy, West Jefferson,OH 43162-9419 | Hybrid | Aug 22 |
 | **[Carrier HVAC](https://www.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/68a88eb6758f2e4ac3ff34e6?utm_campaign=1050&utm_source=git)** | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA | On Site | Aug 22 |
 | **[HealthTrust Performance Group](https://healthtrustpg.com/)** | **[Sourcing Operations Intern](https://jobright.ai/jobs/info/68a886bc758f2e4ac3ff2fba?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Aug 22 |
@@ -125,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68a86fc26acf96396f71fd78?utm_campaign=1050&utm_source=git)** | Charleston, TN | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a86fb56acf96396f71fd6f?utm_campaign=1050&utm_source=git)** | West Jefferson, OH | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/688bb20a1808534a89cb5229?utm_campaign=1050&utm_source=git)** | Stoughton, MA | On Site | Aug 22 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/688bb7441808534a89cb54fb?utm_campaign=1050&utm_source=git)** | Tanner, AL | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/68a86f316acf96396f71fd3e?utm_campaign=1050&utm_source=git)** | North Haven, CT | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/688bb6461808534a89cb546a?utm_campaign=1050&utm_source=git)** | Fishkill, NY | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/688bb76e906ac06e1d1cda88?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Aug 22 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/688bb866906ac06e1d1cdb1f?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688baf83906ac06e1d1cd664?utm_campaign=1050&utm_source=git)** | Hebron, KY | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/688bb4d0906ac06e1d1cd915?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Aug 22 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a869e96acf96396f71fc06?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Aug 22 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688bb390906ac06e1d1cd86a?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Aug 22 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68a869206acf96396f71fba8?utm_campaign=1050&utm_source=git)** | Republic, MO | On Site | Aug 22 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a868f16acf96396f71fb93?utm_campaign=1050&utm_source=git)** | Monee, IL | On Site | Aug 22 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68a8672a758f2e4ac3ff23b1?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 22 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Administrative Strategy Intern](https://jobright.ai/jobs/info/68a8654fd627244576e3261e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Aug 22 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Executive Administration Intern – Spring 2026](https://jobright.ai/jobs/info/688c34e6906ac06e1d1d1bb3?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | On Site | Aug 22 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Rosenberg Warehouse,](https://jobright.ai/jobs/info/688c403b1808534a89cb9f19?utm_campaign=1050&utm_source=git)** | Rosenberg, TX | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

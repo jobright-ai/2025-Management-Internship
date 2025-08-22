@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - CONSTRUCTION MANAGEMENT](https://jobright.ai/jobs/info/68a7afded627244576e2e016?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Aug 21 |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Spring Co-Op 2026-MA](https://jobright.ai/jobs/info/68a7a68c33dd7158bbca890d?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 21 |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Operations (Spring, 2026)](https://jobright.ai/jobs/info/68a7a663d627244576e2dd3d?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Aug 21 |
+| **[Juniper Communities](https://junipercommunities.com/)** | **[Executive Director Internship](https://jobright.ai/jobs/info/68a7a595d627244576e2dc7d?utm_campaign=1050&utm_source=git)** | Bensalem, PA | On Site | Aug 21 |
 | **[Drexel University](http://drexel.edu)** | **[Operations Coordinator](https://jobright.ai/jobs/info/68a78a2fd627244576e2d42c?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/68a7871033dd7158bbca7fcc?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Real Estate INTERN Summer 2026 - Chicago](https://jobright.ai/jobs/info/68a785f5d627244576e2d1bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
@@ -84,13 +88,12 @@ For a complete list, click the following sortable link below:
 | **[Chi-Chack LLC](https://www.chi-chack.com/)** | **[High School Student-Office Intern](https://jobright.ai/jobs/info/68a75efb758f2e4ac3feb80a?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Aug 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/68a7577433dd7158bbca6664?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a755b7758f2e4ac3feb459?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 21 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/68a75337d627244576e2b6aa?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 21 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Management Intern, Orrville, OH, Summer 2026](https://jobright.ai/jobs/info/68a750f433dd7158bbca6187?utm_campaign=1050&utm_source=git)** | Orrville, OH | On Site | Aug 21 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - Mayor's Office](https://jobright.ai/jobs/info/68a74c22758f2e4ac3feae33?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | Aug 21 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Management Intern - Mayor's Office](https://jobright.ai/jobs/info/68a74ad333dd7158bbca5d74?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | Aug 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a746c4758f2e4ac3feaa9f?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO | On Site | Aug 21 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/68a74074758f2e4ac3fea643?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 21 |
-| ↳ | **[Project Assistant Intern](https://jobright.ai/jobs/info/68a73d38d627244576e2a973?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Management Intern, Orrville, OH, Summer 2026](https://jobright.ai/jobs/info/68a73d9b758f2e4ac3fea574?utm_campaign=1050&utm_source=git)** | Orrville, OH | On Site | Aug 21 |
+| **[A-C Electric Company](http://a-celectric.com)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/68a73d38d627244576e2a973?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
 | ↳ | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/68a73842d627244576e2a7c0?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a7367d758f2e4ac3fea3a7?utm_campaign=1050&utm_source=git)** | Evergreen Park, IL | On Site | Aug 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a7362e758f2e4ac3fea373?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | Aug 21 |
@@ -104,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68a7214833dd7158bbca4acd?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Aug 21 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68a720af33dd7158bbca4a55?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Aug 21 |
 | ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/688b575f906ac06e1d1caad5?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
+| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/688aa85b9f961617fe21d41d?utm_campaign=1050&utm_source=git)** | Summerville, SC | On Site | Aug 21 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/688ab05a9f961617fe21d6f9?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Aug 21 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68a71f81758f2e4ac3fe98f9?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Aug 21 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ae82f9f961617fe21f264?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Aug 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68a65200b6a3617d7fa76d6b?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Aug 20 |
 | **[empirical Foods](https://empiricalfoods.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68a6c39d33dd7158bbca2af4?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | On Site | Aug 20 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - New York City (Starting Summer 2026)](https://jobright.ai/jobs/info/68a64120b6a3617d7fa768d4?utm_campaign=1050&utm_source=git)** | 258 8th Ave, New York,NY 10011-1619 | Hybrid | Aug 20 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - New York City (Starting Summer 2026)](https://jobright.ai/jobs/info/68a6404633dd7158bbc9f0a3?utm_campaign=1050&utm_source=git)** | 112 W 34th St, New York,NY 10120-0101 | Hybrid | Aug 20 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - New York City (Starting Summer 2026)](https://jobright.ai/jobs/info/68a63fec758f2e4ac3fe3e6b?utm_campaign=1050&utm_source=git)** | 5200 Kings Hwy, Ste A, Brooklyn,NY 11234-1130 | Hybrid | Aug 20 |
-| ↳ | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - New York City (Starting Summer 2026)](https://jobright.ai/jobs/info/68a63fc933dd7158bbc9effb?utm_campaign=1050&utm_source=git)** | 445 Albee Square West, BROOKLYN,NY 11201-3016 | Hybrid | Aug 20 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Facilities Operations – Emerging Talent Intern](https://jobright.ai/jobs/info/68a69623758f2e4ac3fe5d34?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

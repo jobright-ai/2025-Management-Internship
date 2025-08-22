@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68a82e5cd627244576e31cfc?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 22 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op – Inventory & Planning Analyst](https://jobright.ai/jobs/info/68a80132d627244576e301b5?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Aug 21 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Loan Production Intern - Summer 2026](https://jobright.ai/jobs/info/68a7fb14758f2e4ac3fefa6d?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Aug 21 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - New York City (Starting Summer 2026)](https://jobright.ai/jobs/info/68a7fadcd627244576e2fee3?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 21 |
@@ -119,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Summer 2026 Intern-Princeton, NJ](https://jobright.ai/jobs/info/68a7c544d627244576e2ebb5?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Aug 21 |
 | ↳ | **[Project Management Spring Co-Op 2026-Westchester, NY](https://jobright.ai/jobs/info/68a7c19f758f2e4ac3fee341?utm_campaign=1050&utm_source=git)** | Yonkers, NY | On Site | Aug 21 |
 | ↳ | **[Project Management Summer 2026 Intern-USVI](https://jobright.ai/jobs/info/68a80815758f2e4ac3ff020e?utm_campaign=1050&utm_source=git)** | Benton, WI | On Site | Aug 21 |
-| ↳ | **[Special Projects Summer Intern 2026 - MA](https://jobright.ai/jobs/info/68a809e233dd7158bbcab4c3?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 21 |
 | ↳ | **[Project Management Spring Co-Op 2026-Princeton, NJ](https://jobright.ai/jobs/info/68a80b9733dd7158bbcab637?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Aug 21 |
+| ↳ | **[Special Projects Summer Intern 2026 - MA](https://jobright.ai/jobs/info/68a809e233dd7158bbcab4c3?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 21 |
 | ↳ | **[Project Management Summer 2026 Intern-Washington, D.C.](https://jobright.ai/jobs/info/68a80d2b758f2e4ac3ff0435?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | **[Drexel University](http://drexel.edu)** | **[Operations Coordinator](https://jobright.ai/jobs/info/68a78a2fd627244576e2d42c?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/68a7871033dd7158bbca7fcc?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Diamond Nation](https://diamondnation.com)** | **[Baseball Operations Internship](https://jobright.ai/jobs/info/68a8127133dd7158bbcaba85?utm_campaign=1050&utm_source=git)** | Flemington, NJ | On Site | Aug 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/68a7577433dd7158bbca6664?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a755b7758f2e4ac3feb459?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 21 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Management Intern, Orrville, OH, Summer 2026](https://jobright.ai/jobs/info/68a750f433dd7158bbca6187?utm_campaign=1050&utm_source=git)** | Orrville, OH | On Site | Aug 21 |
 | **[EdPlus at Arizona State University](https://edplus.asu.edu/)** | **[Management Intern - Mayor's Office](https://jobright.ai/jobs/info/68a74c22758f2e4ac3feae33?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | Aug 21 |
 | **[ASU Gammage](https://www.asugammage.com/)** | **[Management Intern - Mayor's Office](https://jobright.ai/jobs/info/68a74ad333dd7158bbca5d74?utm_campaign=1050&utm_source=git)** | Campus: Tempe | On Site | Aug 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a746c4758f2e4ac3feaa9f?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO | On Site | Aug 21 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/68a74074758f2e4ac3fea643?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 21 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Management Intern, Orrville, OH, Summer 2026](https://jobright.ai/jobs/info/68a73d9b758f2e4ac3fea574?utm_campaign=1050&utm_source=git)** | Orrville, OH | On Site | Aug 21 |
-| **[A-C Electric Company](http://a-celectric.com)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/68a73d38d627244576e2a973?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
+| ↳ | **[Project Assistant Intern](https://jobright.ai/jobs/info/68a73d38d627244576e2a973?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
 | ↳ | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/68a73842d627244576e2a7c0?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a7367d758f2e4ac3fea3a7?utm_campaign=1050&utm_source=git)** | Evergreen Park, IL | On Site | Aug 21 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a7362e758f2e4ac3fea373?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

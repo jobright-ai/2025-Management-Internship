@@ -57,7 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68a874c16acf96396f72014f?utm_campaign=1050&utm_source=git)** | West Columbia, SC | On Site | Aug 22 |
+| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a88ec9d627244576e338bc?utm_campaign=1050&utm_source=git)** | 42 Commerce Pkwy, West Jefferson,OH 43162-9419 | Hybrid | Aug 22 |
+| **[Carrier HVAC](https://www.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/68a88eb6758f2e4ac3ff34e6?utm_campaign=1050&utm_source=git)** | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA | On Site | Aug 22 |
+| **[HealthTrust Performance Group](https://healthtrustpg.com/)** | **[Sourcing Operations Intern](https://jobright.ai/jobs/info/68a886bc758f2e4ac3ff2fba?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Aug 22 |
+| **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68a885cb6acf96396f7207b5?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Aug 22 |
+| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a884d6758f2e4ac3ff2eec?utm_campaign=1050&utm_source=git)** | 1 Walker Way, West Jefferson,OH 43162-9406 | Hybrid | Aug 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/688cb4e73a30793eb9645e37?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Aug 22 |
+| **[Sonoco](https://www.sonoco.com/)** | **[Intern- Supply Management RPC](https://jobright.ai/jobs/info/68a87bf1758f2e4ac3ff2c18?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Aug 22 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Tampa Bay,](https://jobright.ai/jobs/info/68a876cad627244576e32ebf?utm_campaign=1050&utm_source=git)** | Haines City, FL | On Site | Aug 22 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68a87679d627244576e32e3f?utm_campaign=1050&utm_source=git)** | Mills River, NC | On Site | Aug 22 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Greenwood Warehouse,](https://jobright.ai/jobs/info/68a87610d627244576e32d72?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Aug 22 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/68a875e4d627244576e32d31?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 22 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a875b0d627244576e32cd9?utm_campaign=1050&utm_source=git)** | Shakopee, MN | On Site | Aug 22 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/68a87578758f2e4ac3ff28d2?utm_campaign=1050&utm_source=git)** | Somerset County, NJ | On Site | Aug 22 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68a874c16acf96396f72014f?utm_campaign=1050&utm_source=git)** | West Columbia, SC | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68a874516acf96396f72011c?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a874186acf96396f720106?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688bb07a3a30793eb963c9a1?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Aug 22 |
@@ -94,8 +107,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68a86bee758f2e4ac3ff2488?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/68a86bcbd627244576e3285b?utm_campaign=1050&utm_source=git)** | Sparrows Point, MD | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68a86ba7758f2e4ac3ff246c?utm_campaign=1050&utm_source=git)** | West Jordan, UT | On Site | Aug 22 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/68a86b2bd627244576e32815?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68a86b2bd627244576e32814?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 22 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/68a86b2bd627244576e32815?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68a86b1a758f2e4ac3ff2432?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a86af9758f2e4ac3ff2423?utm_campaign=1050&utm_source=git)** | Salem, OR | On Site | Aug 22 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a86aee758f2e4ac3ff241c?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Aug 22 |
@@ -113,6 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68a8672a758f2e4ac3ff23b1?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 22 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Administrative Strategy Intern](https://jobright.ai/jobs/info/68a8654fd627244576e3261e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Aug 22 |
 | **[ATMI Precast](https://atmiprecast.com)** | **[Internship](https://jobright.ai/jobs/info/68a857f6d627244576e323a4?utm_campaign=1050&utm_source=git)** | Aurora, IL | On Site | Aug 22 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Crew Tracking - Operations Travel Desk (Spring 2026)](https://jobright.ai/jobs/info/68956e208c6d6b4426779a5f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 22 |
+| **[Protiviti](http://www.protiviti.com)** | **[Chicago Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/686c27cc35584b6542fda796?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
 | **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Logistics Operations Excellence Internship - Summer 2026](https://jobright.ai/jobs/info/688c0615906ac06e1d1d02a6?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68a82e5cd627244576e31cfc?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 22 |
 | **[BASF](https://www.basf.com/)** | **[Supply Chain Professional Development Program (PDP) Internship -Summer 2026](https://jobright.ai/jobs/info/68809ccc70ad650948c57c28?utm_campaign=1050&utm_source=git)** | Florham Park, NJ | On Site | Aug 21 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Northern Ohio,](https://jobright.ai/jobs/info/68a7c3f1d627244576e2ea90?utm_campaign=1050&utm_source=git)** | Hinckley, OH | On Site | Aug 21 |
 | **[Spartronics](https://www.spartronics.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/68a7c1f8d627244576e2e938?utm_campaign=1050&utm_source=git)** | North Logan, UT | On Site | Aug 21 |
 | **[ATMI Precast](https://atmiprecast.com)** | **[Internship](https://jobright.ai/jobs/info/68a7c1b333dd7158bbca95c0?utm_campaign=1050&utm_source=git)** | ATMI Precast | On Site | Aug 21 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Spring Co-Op 2026-MA](https://jobright.ai/jobs/info/68a7a68c33dd7158bbca890d?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 21 |
-| ↳ | **[Scheduling Spring 2026 Co-Op-Milford, MA](https://jobright.ai/jobs/info/68a7c04ad627244576e2e6c7?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-Hartford, CT](https://jobright.ai/jobs/info/68a7c009d627244576e2e682?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-Manchester, NH](https://jobright.ai/jobs/info/68a7bf9fd627244576e2e610?utm_campaign=1050&utm_source=git)** | Manchester, NH | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-NYC](https://jobright.ai/jobs/info/68a7bf8fd627244576e2e5f8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Inventory & Supply Chain Co-Op/Intern - Spring 2026](https://jobright.ai/jobs/info/68a7bf28d627244576e2e57e?utm_campaign=1050&utm_source=git)** | Mulberry, FL | On Site | Aug 21 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Summer 2026 Intern-Albany, NY](https://jobright.ai/jobs/info/68a7bf27d627244576e2e57a?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Aug 21 |
-| ↳ | **[Project Management Spring Co-Op 2026-NYC](https://jobright.ai/jobs/info/68a7be73d627244576e2e4b7?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-Fairfield, CT](https://jobright.ai/jobs/info/68a7be45758f2e4ac3fee10b?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-Providence, RI](https://jobright.ai/jobs/info/68a7be1bd627244576e2e45d?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-Westchester, NY](https://jobright.ai/jobs/info/68a7be08758f2e4ac3fee0cb?utm_campaign=1050&utm_source=git)** | Yonkers, NY | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-Pleasant Valley, NY](https://jobright.ai/jobs/info/68a7be08758f2e4ac3fee0cc?utm_campaign=1050&utm_source=git)** | Pleasant Valley, NY | On Site | Aug 21 |
-| ↳ | **[Project Management Spring Co-Op 2026-Albany, NY](https://jobright.ai/jobs/info/68a7bddcd627244576e2e416?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Aug 21 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Delivery Manager Intern](https://jobright.ai/jobs/info/68a7bd82758f2e4ac3fee056?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 21 |
-| **[Fifth Third Bank](http://53.com)** | **[Commercial Real Estate INTERN Summer 2026 - Chicago](https://jobright.ai/jobs/info/68a7bd2233dd7158bbca9216?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

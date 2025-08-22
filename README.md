@@ -57,11 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op – Inventory & Planning Analyst](https://jobright.ai/jobs/info/68a80132d627244576e301b5?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Aug 21 |
+| **[Merchants Capital](https://www.merchantscapital.com/)** | **[Loan Production Intern - Summer 2026](https://jobright.ai/jobs/info/68a7fb14758f2e4ac3fefa6d?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Aug 21 |
+| **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - New York City (Starting Summer 2026)](https://jobright.ai/jobs/info/68a7fadcd627244576e2fee3?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 21 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/68a7fa53d627244576e2fddc?utm_campaign=1050&utm_source=git)** | Shamokin Dam, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Williamsport](https://jobright.ai/jobs/info/68a7fa45d627244576e2fdc1?utm_campaign=1050&utm_source=git)** | Williamsport, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Bloomsburg](https://jobright.ai/jobs/info/68a7fa0ad627244576e2fd6d?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Wilkes Barre](https://jobright.ai/jobs/info/68a7f978d627244576e2fcb6?utm_campaign=1050&utm_source=git)** | Wilkes-Barre, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68a7f79c758f2e4ac3fef942?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Easton](https://jobright.ai/jobs/info/68a7f77b33dd7158bbcaab65?utm_campaign=1050&utm_source=git)** | Easton, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/68a7f6df758f2e4ac3fef861?utm_campaign=1050&utm_source=git)** | Stroudsburg, PA | On Site | Aug 21 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Bethlehem](https://jobright.ai/jobs/info/68a7f61233dd7158bbcaa8fe?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Aug 21 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68a7e6c633dd7158bbcaa309?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Aug 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a7e65833dd7158bbcaa2aa?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Aug 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a7e62233dd7158bbcaa283?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Aug 21 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68a7e5d4758f2e4ac3fef12b?utm_campaign=1050&utm_source=git)** | Evendale, OH | On Site | Aug 21 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68a7d805d627244576e2f0db?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 21 |
+| **[Spartronics](https://www.spartronics.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/68a7f8cbd627244576e2fb98?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68a7d0a3758f2e4ac3feeaf0?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[UAB Medicine](https://www.uabmedicine.org)** | **[Intern - Hospital Administration - Days (802 & 804)](https://jobright.ai/jobs/info/68a7cb36758f2e4ac3fee942?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Aug 21 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations](https://jobright.ai/jobs/info/68a7caebd627244576e2ee30?utm_campaign=1050&utm_source=git)** | US-VA-Lorton | On Site | Aug 21 |
@@ -81,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Spring Co-Op 2026-NYC](https://jobright.ai/jobs/info/68a7be73d627244576e2e4b7?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | ↳ | **[Project Management Summer 2026 Intern-Fairfield, CT](https://jobright.ai/jobs/info/68a7be45758f2e4ac3fee10b?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Aug 21 |
 | ↳ | **[Project Management Summer 2026 Intern-Providence, RI](https://jobright.ai/jobs/info/68a7be1bd627244576e2e45d?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | Aug 21 |
-| ↳ | **[Project Management Summer 2026 Intern-Westchester, NY](https://jobright.ai/jobs/info/68a7be08758f2e4ac3fee0cb?utm_campaign=1050&utm_source=git)** | Yonkers, NY | On Site | Aug 21 |
 | ↳ | **[Project Management Summer 2026 Intern-Pleasant Valley, NY](https://jobright.ai/jobs/info/68a7be08758f2e4ac3fee0cc?utm_campaign=1050&utm_source=git)** | Pleasant Valley, NY | On Site | Aug 21 |
+| ↳ | **[Project Management Summer 2026 Intern-Westchester, NY](https://jobright.ai/jobs/info/68a7be08758f2e4ac3fee0cb?utm_campaign=1050&utm_source=git)** | Yonkers, NY | On Site | Aug 21 |
 | ↳ | **[Project Management Spring Co-Op 2026-Albany, NY](https://jobright.ai/jobs/info/68a7bddcd627244576e2e416?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Aug 21 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Delivery Manager Intern](https://jobright.ai/jobs/info/68a7bd82758f2e4ac3fee056?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 21 |
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Real Estate INTERN Summer 2026 - Chicago](https://jobright.ai/jobs/info/68a7bd2233dd7158bbca9216?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
@@ -99,11 +111,10 @@ For a complete list, click the following sortable link below:
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - CONSTRUCTION MANAGEMENT](https://jobright.ai/jobs/info/68a7afded627244576e2e016?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Aug 21 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Operations (Spring, 2026)](https://jobright.ai/jobs/info/68a7a663d627244576e2dd3d?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Aug 21 |
 | **[Juniper Communities](https://junipercommunities.com/)** | **[Executive Director Internship](https://jobright.ai/jobs/info/68a7a595d627244576e2dc7d?utm_campaign=1050&utm_source=git)** | Bensalem, PA | On Site | Aug 21 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Management Intern, Edgerton, KS, Summer 2026](https://jobright.ai/jobs/info/68a7a50bd627244576e2dbe7?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Aug 21 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Spring Co-Op 2026-Portland, ME](https://jobright.ai/jobs/info/68a7c12833dd7158bbca943e?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Aug 21 |
 | ↳ | **[Project Management Spring Co-Op 2026-USVI](https://jobright.ai/jobs/info/68a7c186758f2e4ac3fee2ef?utm_campaign=1050&utm_source=git)** | Benton, WI | On Site | Aug 21 |
-| ↳ | **[Project Management Spring Co-Op 2026-Westchester, NY](https://jobright.ai/jobs/info/68a7c19f758f2e4ac3fee341?utm_campaign=1050&utm_source=git)** | Yonkers, NY | On Site | Aug 21 |
 | ↳ | **[Project Management Summer 2026 Intern-Princeton, NJ](https://jobright.ai/jobs/info/68a7c544d627244576e2ebb5?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Aug 21 |
+| ↳ | **[Project Management Spring Co-Op 2026-Westchester, NY](https://jobright.ai/jobs/info/68a7c19f758f2e4ac3fee341?utm_campaign=1050&utm_source=git)** | Yonkers, NY | On Site | Aug 21 |
 | **[Drexel University](http://drexel.edu)** | **[Operations Coordinator](https://jobright.ai/jobs/info/68a78a2fd627244576e2d42c?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 21 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Special Projects, Emerging Talent Intern](https://jobright.ai/jobs/info/68a7871033dd7158bbca7fcc?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
 | **[Fifth Third Bank](http://53.com)** | **[Commercial Real Estate INTERN Summer 2026 - Chicago](https://jobright.ai/jobs/info/68a785f5d627244576e2d1bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 21 |
@@ -124,6 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/68a76ddf758f2e4ac3febf57?utm_campaign=1050&utm_source=git)** | 104 WILMOT RD,DEERFIELD,IL 60015 | On Site | Aug 21 |
 | **[Infinite Management Solutions, LLC](https://teamims.net)** | **[SkillBridge: Program Manager](https://jobright.ai/jobs/info/68a76dc733dd7158bbca71a0?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Aug 21 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2025 Fall Intern - Rochester](https://jobright.ai/jobs/info/68a76d97758f2e4ac3febecc?utm_campaign=1050&utm_source=git)** | Rochester, NY, US | On Site | Aug 21 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Operations Management Intern, Edgerton, KS, Summer 2026](https://jobright.ai/jobs/info/68a76cee33dd7158bbca6f58?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Aug 21 |
 | **[TW Metals LLC](http://www.twmetals.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68a76ccf33dd7158bbca6f20?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Aug 21 |
 | **[First Palmetto Bank](https://www.firstpalmetto.com/)** | **[Technology Project Management Intern (In-Person - Columbia, SC)](https://jobright.ai/jobs/info/68a76c7333dd7158bbca6e5e?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Aug 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Fall 2025](https://jobright.ai/jobs/info/68a7577433dd7158bbca6664?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 21 |
@@ -144,17 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/68a728bbd627244576e2a1ea?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Aug 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68a72778d627244576e2a040?utm_campaign=1050&utm_source=git)** | Summerville, SC | On Site | Aug 21 |
 | ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/688ab7019f961617fe21da69?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Aug 21 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68a7214833dd7158bbca4acd?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Aug 21 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68a720af33dd7158bbca4a55?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Aug 21 |
-| ↳ | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/688b575f906ac06e1d1caad5?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Aug 21 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/688aa85b9f961617fe21d41d?utm_campaign=1050&utm_source=git)** | Summerville, SC | On Site | Aug 21 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/688ab05a9f961617fe21d6f9?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Aug 21 |
-| ↳ | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68a71f81758f2e4ac3fe98f9?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Aug 21 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ae82f9f961617fe21f264?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Aug 21 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Analyst Program, Early Careers - Corporate & Investment Banking (CIB) Chief Operating Office (COO)](https://jobright.ai/jobs/info/68a71c15d627244576e29b63?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| ↳ | **[2026 Summer Analyst Program, Early Careers - Corporate & Investment Banking (CIB) Chief Operating Office (COO)](https://jobright.ai/jobs/info/68a71974758f2e4ac3fe972c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 21 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/68a37b6a1ab5f8579e8a6267?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Aug 21 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68a7121a758f2e4ac3fe927a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 21 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Technology, Data, AI & Ventures Summer Internship Program - Business Operations Intern](https://jobright.ai/jobs/info/688b238109808a6103e5532b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| **[Precision Castparts](http://precast.com)** | **[Planner Co-op/Intern](https://jobright.ai/jobs/info/68a703f833dd7158bbca40f7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 21 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae0baaab47a17f670c01b?utm_campaign=1050&utm_source=git)** | Cold Spring, MN | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

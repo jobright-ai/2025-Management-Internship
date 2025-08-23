@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Asset Management & Retirement Planning Intern](https://jobright.ai/jobs/info/68a9ece26acf96396f729432?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Aug 23 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Asset Management & Investment Strategy Intern](https://jobright.ai/jobs/info/68a9e2f26acf96396f72933c?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Aug 23 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Student Office Assistant for August](https://jobright.ai/jobs/info/68a9d1786acf96396f729113?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | On Site | Aug 23 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Denton Warehouse,](https://jobright.ai/jobs/info/68a9cc05758f2e4ac3ffb6e8?utm_campaign=1050&utm_source=git)** | Denton, TX | On Site | Aug 23 |
 | ↳ | **[Warehouse Operations Intern - Frederick Warehouse,](https://jobright.ai/jobs/info/68a9caa26acf96396f728e88?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Aug 23 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/68a9dfc6758f2e4ac3ffba87?utm_campaign=1050&utm_source=git)** | Hot Springs, AR | On Site | Aug 23 |
@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Program Manager, Data Center Intern Programs](https://jobright.ai/jobs/info/68a9848bd627244576e3aeec?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 22 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Project Controls Internship (2025 - 2026 Season)](https://jobright.ai/jobs/info/68a95d886acf96396f72693b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Aug 22 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a95cf46acf96396f726886?utm_campaign=1050&utm_source=git)** | Chardon, OH | On Site | Aug 22 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Asset Management & Business Strategy Intern](https://jobright.ai/jobs/info/68a96895758f2e4ac3ff9692?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Remote | Aug 22 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Sr Administrative Coordinator / Division of Hematology/Oncology / SOM Dept of Internal Medicine](https://jobright.ai/jobs/info/68a9475a6acf96396f725f89?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68a9461f758f2e4ac3ff8694?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Aug 22 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Lead Administrative Assistant - US/Canada Field Operations - BYU-Pathway Worldwide (Full-time Intern)](https://jobright.ai/jobs/info/68a92f68758f2e4ac3ff7e92?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 22 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Able Aerospace](www.ableaerospace.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/68a8d08cd627244576e35cbf?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Aug 22 |
 | **[Medegen Medical Products](http://www.medegenmed.com)** | **[0100 - Management Improvement - WPS - WORK PROGRAM/STUDENT](https://jobright.ai/jobs/info/68a8ca0c6acf96396f722bdb?utm_campaign=1050&utm_source=git)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Aug 22 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8c979d627244576e358b8?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
-| **[Covestro](https://www.covestro.com)** | **[Site Logistics Intern, Baytown](https://jobright.ai/jobs/info/68a8c5f7758f2e4ac3ff52f4?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Aug 22 |
 | **[Jade Global](https://www.jadeglobal.com)** | **[Project Manager Analyst](https://jobright.ai/jobs/info/68a8c51ad627244576e355fb?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Aug 22 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68a8c4fbd627244576e355d7?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 22 |
 | **[Sigma](http://sigmacomputing.com)** | **[Junior Technical Program Manager](https://jobright.ai/jobs/info/68a6177133dd7158bbc9d950?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
 | **[Builders Vision](https://www.buildersvision.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/68a8b9bad627244576e34d51?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
+| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Project Management](https://jobright.ai/jobs/info/68a8b92c758f2e4ac3ff4914?utm_campaign=1050&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
+| **[MAHLE](https://www.mahle.com)** | **[Logistics Planning Intern](https://jobright.ai/jobs/info/68a4cfa0e9f1c744da124a12?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

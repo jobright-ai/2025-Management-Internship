@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Asset Management & Investment Strategy Intern](https://jobright.ai/jobs/info/68a9e2f26acf96396f72933c?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Aug 23 |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Student Office Assistant for August](https://jobright.ai/jobs/info/68a9d1786acf96396f729113?utm_campaign=1050&utm_source=git)** | Notre Dame, IN | On Site | Aug 23 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Denton Warehouse,](https://jobright.ai/jobs/info/68a9cc05758f2e4ac3ffb6e8?utm_campaign=1050&utm_source=git)** | Denton, TX | On Site | Aug 23 |
+| ↳ | **[Warehouse Operations Intern - Frederick Warehouse,](https://jobright.ai/jobs/info/68a9caa26acf96396f728e88?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Aug 23 |
+| **[Integrity](https://www.integritymarketing.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/68a9dfc6758f2e4ac3ffba87?utm_campaign=1050&utm_source=git)** | Hot Springs, AR | On Site | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Game Day Experience Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b5cd6acf96396f728ace?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Administrative Strategy Intern](https://jobright.ai/jobs/info/68a9b4e3d627244576e3b47b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Aug 23 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Integrated Planning](https://jobright.ai/jobs/info/68a9b4436acf96396f72898c?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Aug 23 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Office and Brand Assistant](https://jobright.ai/jobs/info/68a99e246acf96396f7287d3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 23 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Head of Internal Communications](https://jobright.ai/jobs/info/6836670a160314196aa435f3?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 23 |
 | **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Administrative Assistant (Work Study)](https://jobright.ai/jobs/info/68a9966ed627244576e3b179?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 23 |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Administrative Strategy Intern](https://jobright.ai/jobs/info/68a9b162758f2e4ac3ffb0b4?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Aug 23 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant Career Center](https://jobright.ai/jobs/info/68a98db26acf96396f7285bd?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Aug 23 |
 | **[Pacific University](http://www.pacificu.edu/)** | **[FWS Office Assistant Registrars Office](https://jobright.ai/jobs/info/68a98a09d627244576e3aff6?utm_campaign=1050&utm_source=git)** | Forest Grove, OR | On Site | Aug 23 |
 | **[Southern Utah University](http://www.suu.edu/)** | **[College Office Assistant](https://jobright.ai/jobs/info/68a983e0d627244576e3ae97?utm_campaign=1050&utm_source=git)** | Cedar City, UT | On Site | Aug 23 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Able Aerospace](www.ableaerospace.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/68a8d08cd627244576e35cbf?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Aug 22 |
 | **[Medegen Medical Products](http://www.medegenmed.com)** | **[0100 - Management Improvement - WPS - WORK PROGRAM/STUDENT](https://jobright.ai/jobs/info/68a8ca0c6acf96396f722bdb?utm_campaign=1050&utm_source=git)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Aug 22 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8c979d627244576e358b8?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
+| **[Covestro](https://www.covestro.com)** | **[Site Logistics Intern, Baytown](https://jobright.ai/jobs/info/68a8c5f7758f2e4ac3ff52f4?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Aug 22 |
 | **[Jade Global](https://www.jadeglobal.com)** | **[Project Manager Analyst](https://jobright.ai/jobs/info/68a8c51ad627244576e355fb?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Aug 22 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68a8c4fbd627244576e355d7?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 22 |
 | **[Sigma](http://sigmacomputing.com)** | **[Junior Technical Program Manager](https://jobright.ai/jobs/info/68a6177133dd7158bbc9d950?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68a8bea0758f2e4ac3ff4d40?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Aug 22 |
 | **[Builders Vision](https://www.buildersvision.com/)** | **[Special Projects Intern](https://jobright.ai/jobs/info/68a8b9bad627244576e34d51?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
-| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Internship - Project Management](https://jobright.ai/jobs/info/68a8b92c758f2e4ac3ff4914?utm_campaign=1050&utm_source=git)** | Greater Cincinnati | On Site | Aug 22 |
-| **[MAHLE](https://www.mahle.com)** | **[Logistics Planning Intern](https://jobright.ai/jobs/info/68a4cfa0e9f1c744da124a12?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Aug 22 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Greenwood Warehouse](https://jobright.ai/jobs/info/68a8ae1d758f2e4ac3ff4560?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Aug 22 |
-| ↳ | **[District Manager Intern - Northern Ohio](https://jobright.ai/jobs/info/68a8adfbd627244576e348d8?utm_campaign=1050&utm_source=git)** | Hinckley, OH | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

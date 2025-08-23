@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Administrative Production Assistant – Part-time Job](https://jobright.ai/jobs/info/68a968bb758f2e4ac3ff96ae?utm_campaign=1050&utm_source=git)** | Location, WV | Hybrid | Aug 23 |
+| **[M.C. Dean, Inc.](http://mcdean.com)** | **[Project Controls Internship (2025 - 2026 Season)](https://jobright.ai/jobs/info/68a95d886acf96396f72693b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Aug 22 |
+| **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a95cf46acf96396f726886?utm_campaign=1050&utm_source=git)** | Chardon, OH | On Site | Aug 22 |
+| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Asset Management & Business Strategy Intern](https://jobright.ai/jobs/info/68a96895758f2e4ac3ff9692?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Remote | Aug 22 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Sr Administrative Coordinator / Division of Hematology/Oncology / SOM Dept of Internal Medicine](https://jobright.ai/jobs/info/68a9475a6acf96396f725f89?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68a9461f758f2e4ac3ff8694?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Aug 22 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Lead Administrative Assistant - US/Canada Field Operations - BYU-Pathway Worldwide (Full-time Intern)](https://jobright.ai/jobs/info/68a92f68758f2e4ac3ff7e92?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 22 |
@@ -91,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68a901a0d627244576e36d79?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68a90143d627244576e36d2d?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Aug 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a8ffc1758f2e4ac3ff697e?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 22 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8fefd6acf96396f7240a6?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8fec66acf96396f724082?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/68a92154758f2e4ac3ff783f?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a8f976758f2e4ac3ff6657?utm_campaign=1050&utm_source=git)** | West Jefferson, OH | Hybrid | Aug 22 |
@@ -121,8 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68a8d221758f2e4ac3ff59e9?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Aug 22 |
 | **[Able Aerospace](www.ableaerospace.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/68a8d08cd627244576e35cbf?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Aug 22 |
 | **[Medegen Medical Products](http://www.medegenmed.com)** | **[0100 - Management Improvement - WPS - WORK PROGRAM/STUDENT](https://jobright.ai/jobs/info/68a8ca0c6acf96396f722bdb?utm_campaign=1050&utm_source=git)** | 9 Peach Tree Hill Rd, Livingston, NJ 07039, USA | On Site | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8c979d627244576e358b8?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
-| **[Covestro](https://www.covestro.com)** | **[Site Logistics Intern, Baytown](https://jobright.ai/jobs/info/68a8c5f7758f2e4ac3ff52f4?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Aug 22 |
 | **[Jade Global](https://www.jadeglobal.com)** | **[Project Manager Analyst](https://jobright.ai/jobs/info/68a8c51ad627244576e355fb?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Aug 22 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68a8c4fbd627244576e355d7?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 22 |
 | **[Sigma](http://sigmacomputing.com)** | **[Junior Technical Program Manager](https://jobright.ai/jobs/info/68a6177133dd7158bbc9d950?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Aug 22 |
@@ -135,13 +138,13 @@ For a complete list, click the following sortable link below:
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technical Project Management](https://jobright.ai/jobs/info/68a8adba758f2e4ac3ff4503?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
 | **[VX Media](https://www.vxmedia.co)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/68a8ace8758f2e4ac3ff4465?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[Drinks Food Life](www.drinksfoodlife.com)** | **[Executive Assistant Internship](https://jobright.ai/jobs/info/68a8ac656acf96396f721bfa?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Development Projects Internship](https://jobright.ai/jobs/info/68a8abde6acf96396f721b88?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Demand Planning](https://jobright.ai/jobs/info/68a8ab4a758f2e4ac3ff436a?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | Hybrid | Aug 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8ab21758f2e4ac3ff434a?utm_campaign=1050&utm_source=git)** | Merrimack, NH | Hybrid | Aug 22 |
 | **[Covestro](https://www.covestro.com)** | **[Supply Chain & Logistics Interns](https://jobright.ai/jobs/info/68a8aae4758f2e4ac3ff4300?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 22 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - International Logistics](https://jobright.ai/jobs/info/68a8aae0758f2e4ac3ff42fa?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | Hybrid | Aug 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aac0758f2e4ac3ff42d8?utm_campaign=1050&utm_source=git)** | Covington, KY | Hybrid | Aug 22 |
-| ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aa596acf96396f721b1d?utm_campaign=1050&utm_source=git)** | Smithfield, RI | Hybrid | Aug 22 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Development Projects Internship](https://jobright.ai/jobs/info/68a8aab9758f2e4ac3ff42c9?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aa596acf96396f721b1d?utm_campaign=1050&utm_source=git)** | Smithfield, RI | Hybrid | Aug 22 |
 | ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/68a8aa24d627244576e34767?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Aug 22 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Integrated Planning](https://jobright.ai/jobs/info/68a8aa15d627244576e34752?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | Hybrid | Aug 22 |
 | ↳ | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68a8aa0ed627244576e34740?utm_campaign=1050&utm_source=git)** | St. Paul, Minnesota, USA | On Site | Aug 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Walgreens](https://www.walgreens.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68a8a6546acf96396f7217ac?utm_campaign=1050&utm_source=git)** | Deerfield, IL | On Site | Aug 22 |
 | **[Textron](http://textron.com)** | **[2025 Fall High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/68a8a4d9d627244576e34428?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Aug 22 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/68296d6a5120b11ad0422dba?utm_campaign=1050&utm_source=git)** | Jamaica, NY | On Site | Aug 22 |
-| **[Riley Pope & Laney, LLC](https://rplfirm.com/)** | **[Administrative Assistant / Runner](https://jobright.ai/jobs/info/68a89b1b6acf96396f721321?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Aug 22 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a88ec9d627244576e338bc?utm_campaign=1050&utm_source=git)** | 42 Commerce Pkwy, West Jefferson,OH 43162-9419 | Hybrid | Aug 22 |
-| **[Carrier HVAC](https://www.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/68a88eb6758f2e4ac3ff34e6?utm_campaign=1050&utm_source=git)** | CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

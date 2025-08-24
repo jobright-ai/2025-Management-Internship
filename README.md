@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Waverly, NE / Summer 2026](https://jobright.ai/jobs/info/68a902aed627244576e36e30?utm_campaign=1050&utm_source=git)** | Waverly, NE | On Site | Aug 22 |
 | **[SAP](https://www.sap.com)** | **[SAP SA&E iXp Intern - Project Manager](https://jobright.ai/jobs/info/68a902a4d627244576e36e28?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 22 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db3?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
-| ↳ | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Aug 22 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Aug 22 |
+| ↳ | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db3?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68a901a0d627244576e36d79?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68a90143d627244576e36d2d?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Aug 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a8ffc1758f2e4ac3ff697e?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 22 |

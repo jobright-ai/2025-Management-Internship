@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AVI-SPL](https://avispl.com/)** | **[Associate Project Manager (SkillBridge Program)](https://jobright.ai/jobs/info/684bb7dc78c499054dfec50e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 24 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[2025-2026 Administrative Resident (Full-Time, On-Site)](https://jobright.ai/jobs/info/68aab614d627244576e3e5ba?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 23 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68aa7ad3758f2e4ac3ffcb17?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 23 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68aa741e758f2e4ac3ffc9a3?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Aug 23 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68a901a0d627244576e36d79?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68a90143d627244576e36d2d?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Aug 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a8ffc1758f2e4ac3ff697e?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8fefd6acf96396f7240a6?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8fec66acf96396f724082?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/68a92154758f2e4ac3ff783f?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a8f976758f2e4ac3ff6657?utm_campaign=1050&utm_source=git)** | West Jefferson, OH | Hybrid | Aug 22 |

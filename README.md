@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68aa6ed2d627244576e3cc62?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Aug 23 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68aa7ad3758f2e4ac3ffcb17?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 23 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68aa741e758f2e4ac3ffc9a3?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Aug 23 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa73f4758f2e4ac3ffc992?utm_campaign=1050&utm_source=git)** | Schererville, IN | On Site | Aug 23 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa7216d627244576e3cce0?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Aug 23 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa7216d627244576e3cce1?utm_campaign=1050&utm_source=git)** | Richmond Heights, MO | On Site | Aug 23 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa71dbd627244576e3ccc6?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Aug 23 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa6ed2d627244576e3cc62?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Aug 23 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa66f66acf96396f72a0f8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
 | ↳ | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa3275d627244576e3c6b8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Management and Administration Intern](https://jobright.ai/jobs/info/68aa2919758f2e4ac3ffc323?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Aug 23 |
 | **[Virtual, Inc.](http://virtualmgmt.com)** | **[Fall 2025 Project & Quality Management Intern](https://jobright.ai/jobs/info/68aa21f6758f2e4ac3ffc258?utm_campaign=1050&utm_source=git)** | Wakefield, MA | On Site | Aug 23 |
 | **[Timberline Bank](https://www.timberlinebank.com)** | **[Intern](https://jobright.ai/jobs/info/68aa1e886acf96396f729a84?utm_campaign=1050&utm_source=git)** | Grand Junction, CO | On Site | Aug 23 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/68aa14c0d627244576e3c3b1?utm_campaign=1050&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 23 |
@@ -100,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a95cf46acf96396f726886?utm_campaign=1050&utm_source=git)** | Chardon, OH | On Site | Aug 22 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Sr Administrative Coordinator / Division of Hematology/Oncology / SOM Dept of Internal Medicine](https://jobright.ai/jobs/info/68a9475a6acf96396f725f89?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68a9461f758f2e4ac3ff8694?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Aug 22 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Internship- Supply Chain- Summer 2026](https://jobright.ai/jobs/info/68aa8c156acf96396f72aad0?utm_campaign=1050&utm_source=git)** | Muscatine, IA | Hybrid | Aug 22 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Lead Administrative Assistant - US/Canada Field Operations - BYU-Pathway Worldwide (Full-time Intern)](https://jobright.ai/jobs/info/68a92f68758f2e4ac3ff7e92?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68a927da6acf96396f7251f7?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 22 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68a9267d758f2e4ac3ff79cf?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 22 |
@@ -109,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68a91d616acf96396f724ee4?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 22 |
 | **[Too Lost](https://www.toolost.com)** | **[Operations Intern - Fall 2025](https://jobright.ai/jobs/info/68a91ca7758f2e4ac3ff76d6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[Frontline Insurance](https://www.frontlineinsurance.com)** | **[Corporate Internship](https://jobright.ai/jobs/info/68a948c86acf96396f726136?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Aug 22 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/688bb7bd1808534a89cb5548?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Aug 22 |
 | **[ByteDance](http://bytedance.com)** | **[Strategy Operations Intern-(MSO) 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68a9179fd627244576e37759?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Lead Administrative Assistant - US/Canada Field Operations - BYU-Pathway Worldwide (Full-time Intern)](https://jobright.ai/jobs/info/68a916ec758f2e4ac3ff7447?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 22 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Waco, TX / Summer 2026](https://jobright.ai/jobs/info/68a9119d6acf96396f7249ba?utm_campaign=1050&utm_source=git)** | Woodway, TX | On Site | Aug 22 |
@@ -132,6 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68a901a0d627244576e36d79?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68a90143d627244576e36d2d?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Aug 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a8ffc1758f2e4ac3ff697e?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 22 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8fefd6acf96396f7240a6?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8fec66acf96396f724082?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/68a92154758f2e4ac3ff783f?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a8f976758f2e4ac3ff6657?utm_campaign=1050&utm_source=git)** | West Jefferson, OH | Hybrid | Aug 22 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3b3d627244576e3651f?utm_campaign=1050&utm_source=git)** | US - MA, Boston | On Site | Aug 22 |
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3916acf96396f723919?utm_campaign=1050&utm_source=git)** | US - GA, Atlanta | On Site | Aug 22 |
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e380d627244576e36510?utm_campaign=1050&utm_source=git)** | US - NY, New York | On Site | Aug 22 |
-| **[A-C Electric Company](http://a-celectric.com)** | **[2026 Project Assistant Summer Internship](https://jobright.ai/jobs/info/68a8e3366acf96396f7238f0?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e335d627244576e364ef?utm_campaign=1050&utm_source=git)** | US - PA, Philadelphia | On Site | Aug 22 |
-| **[A-C Electric Company](http://a-celectric.com)** | **[2026 Project Assistant Summer Internship](https://jobright.ai/jobs/info/68a8e3256acf96396f7238ea?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 22 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Intern](https://jobright.ai/jobs/info/68a624ebb6a3617d7fa75bef?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Aug 22 |
-| ↳ | **[Program Manager Intern](https://jobright.ai/jobs/info/68a623e1b6a3617d7fa75abb?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Aug 22 |
-| **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Operations Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/68a8dd6c758f2e4ac3ff5eee?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Aug 22 |
-| **[BlueHalo, an AV company](https://www.bluehalo.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68a8dce4758f2e4ac3ff5ea4?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 22 |
-| **[Laveer Engineering](https://laveer.ca/)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a8dc7c6acf96396f7235f8?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

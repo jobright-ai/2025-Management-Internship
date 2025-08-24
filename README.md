@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[AAsset Management Intern](https://jobright.ai/jobs/info/68ab6c2cd627244576e3f9b4?utm_campaign=1050&utm_source=git)** | Los Angeles County, CA | Remote | Aug 24 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Asset Management & Institutional Services Intern](https://jobright.ai/jobs/info/68ab5ad9daf1431824c8ec4b?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Aug 24 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Management and Adminstration Intern](https://jobright.ai/jobs/info/68ab4b9c758f2e4ac3fff44b?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Aug 24 |
 | **[Vial](https://vial.com)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/68ab3ddbd627244576e3f63d?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Asset Management & Retirement Planning Intern](https://jobright.ai/jobs/info/68ab2595758f2e4ac3fff1ae?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Aug 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Enterprise Project Management Office Summer Intern](https://jobright.ai/jobs/info/68a8e4ae758f2e4ac3ff6151?utm_campaign=1050&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e482758f2e4ac3ff6137?utm_campaign=1050&utm_source=git)** | US - CA, Los Angeles | On Site | Aug 22 |
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e4196acf96396f723985?utm_campaign=1050&utm_source=git)** | US - IL, Chicago | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3f86acf96396f723973?utm_campaign=1050&utm_source=git)** | US - CO, Boulder | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3b3d627244576e3651f?utm_campaign=1050&utm_source=git)** | US - MA, Boston | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

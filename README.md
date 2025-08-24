@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KeyBank](https://www.key.com)** | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa3275d627244576e3c6b8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68aa6ed2d627244576e3cc62?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Aug 23 |
+| **[KeyBank](https://www.key.com)** | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa66f66acf96396f72a0f8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
+| ↳ | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa3275d627244576e3c6b8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Management and Administration Intern](https://jobright.ai/jobs/info/68aa2919758f2e4ac3ffc323?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Aug 23 |
 | **[Virtual, Inc.](http://virtualmgmt.com)** | **[Fall 2025 Project & Quality Management Intern](https://jobright.ai/jobs/info/68aa21f6758f2e4ac3ffc258?utm_campaign=1050&utm_source=git)** | Wakefield, MA | On Site | Aug 23 |
 | **[Timberline Bank](https://www.timberlinebank.com)** | **[Intern](https://jobright.ai/jobs/info/68aa1e886acf96396f729a84?utm_campaign=1050&utm_source=git)** | Grand Junction, CO | On Site | Aug 23 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Warehouse Operations Intern - Frederick Warehouse,](https://jobright.ai/jobs/info/68a9caa26acf96396f728e88?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Aug 23 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/688d679c1808534a89cc3178?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Game Day Experience Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b5cd6acf96396f728ace?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Administrative Strategy Intern](https://jobright.ai/jobs/info/68a9b4e3d627244576e3b47b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Aug 23 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Integrated Planning](https://jobright.ai/jobs/info/68a9b4436acf96396f72898c?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Aug 23 |
 | ↳ | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68a9b440d627244576e3b40d?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Aug 23 |
 | ↳ | **[Supply Chain Intern - International Logistics](https://jobright.ai/jobs/info/68a9b43bd627244576e3b409?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Aug 23 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68a901a0d627244576e36d79?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68a90143d627244576e36d2d?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Aug 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a8ffc1758f2e4ac3ff697e?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68a8fefd6acf96396f7240a6?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8fec66acf96396f724082?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 22 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Student Assistant - FWS](https://jobright.ai/jobs/info/68a92154758f2e4ac3ff783f?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Aug 22 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, West Jefferson, Ohio](https://jobright.ai/jobs/info/68a8f976758f2e4ac3ff6657?utm_campaign=1050&utm_source=git)** | West Jefferson, OH | Hybrid | Aug 22 |

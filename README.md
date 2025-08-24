@@ -70,7 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Warehouse Operations Intern - Denton Warehouse](https://jobright.ai/jobs/info/68aa01356acf96396f729640?utm_campaign=1050&utm_source=git)** | Denton, TX | On Site | Aug 23 |
 | ↳ | **[Warehouse Operations Intern - Denton Warehouse,](https://jobright.ai/jobs/info/68a9cc05758f2e4ac3ffb6e8?utm_campaign=1050&utm_source=git)** | Denton, TX | On Site | Aug 23 |
 | ↳ | **[Warehouse Operations Intern - Frederick Warehouse,](https://jobright.ai/jobs/info/68a9caa26acf96396f728e88?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Aug 23 |
-| **[Integrity](https://www.integritymarketing.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/68a9dfc6758f2e4ac3ffba87?utm_campaign=1050&utm_source=git)** | Hot Springs, AR | On Site | Aug 23 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/688d679c1808534a89cc3178?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Game Day Experience Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b5cd6acf96396f728ace?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Administrative Strategy Intern](https://jobright.ai/jobs/info/68a9b4e3d627244576e3b47b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Aug 23 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Integrated Planning](https://jobright.ai/jobs/info/68a9b4436acf96396f72898c?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Aug 23 |
@@ -126,8 +126,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Waverly, NE / Summer 2026](https://jobright.ai/jobs/info/68a902aed627244576e36e30?utm_campaign=1050&utm_source=git)** | Waverly, NE | On Site | Aug 22 |
 | **[SAP](https://www.sap.com)** | **[SAP SA&E iXp Intern - Project Manager](https://jobright.ai/jobs/info/68a902a4d627244576e36e28?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 22 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db3?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
-| ↳ | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Aug 22 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Aug 22 |
+| ↳ | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db3?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68a901a0d627244576e36d79?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68a90143d627244576e36d2d?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Aug 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a8ffc1758f2e4ac3ff697e?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 22 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[A-C Electric Company](http://a-celectric.com)** | **[2026 Project Assistant Summer Internship](https://jobright.ai/jobs/info/68a8e3366acf96396f7238f0?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e335d627244576e364ef?utm_campaign=1050&utm_source=git)** | US - PA, Philadelphia | On Site | Aug 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[2026 Project Assistant Summer Internship](https://jobright.ai/jobs/info/68a8e3256acf96396f7238ea?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Aug 22 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Intern](https://jobright.ai/jobs/info/68a624ebb6a3617d7fa75bef?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Aug 22 |
+| ↳ | **[Program Manager Intern](https://jobright.ai/jobs/info/68a623e1b6a3617d7fa75abb?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Aug 22 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Operations Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/68a8dd6c758f2e4ac3ff5eee?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Aug 22 |
 | **[BlueHalo, an AV company](https://www.bluehalo.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68a8dce4758f2e4ac3ff5ea4?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 22 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a8dc7c6acf96396f7235f8?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 22 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68a8d7356acf96396f723379?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Aug 22 |
-| **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[Part Time Intern - Commercial](https://jobright.ai/jobs/info/68a8d4ff758f2e4ac3ff5a9a?utm_campaign=1050&utm_source=git)** | Seguin, Texas | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

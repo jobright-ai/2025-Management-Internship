@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[2025-2026 Administrative Resident (Full-Time, On-Site)](https://jobright.ai/jobs/info/68aab614d627244576e3e5ba?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 23 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68aa7ad3758f2e4ac3ffcb17?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 23 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68aa741e758f2e4ac3ffc9a3?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Aug 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa73f4758f2e4ac3ffc992?utm_campaign=1050&utm_source=git)** | Schererville, IN | On Site | Aug 23 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Program Manager, Data Center Intern Programs](https://jobright.ai/jobs/info/68a9848bd627244576e3aeec?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 22 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Project Controls Internship (2025 - 2026 Season)](https://jobright.ai/jobs/info/68a95d886acf96396f72693b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Aug 22 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a95cf46acf96396f726886?utm_campaign=1050&utm_source=git)** | Chardon, OH | On Site | Aug 22 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Project Management Intern – Spring 2026](https://jobright.ai/jobs/info/688c18431808534a89cb8510?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 22 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Sr Administrative Coordinator / Division of Hematology/Oncology / SOM Dept of Internal Medicine](https://jobright.ai/jobs/info/68a9475a6acf96396f725f89?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Aug 22 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/68aaa6b4d627244576e3e007?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 22 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68a9461f758f2e4ac3ff8694?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Aug 22 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Lead Administrative Assistant - US/Canada Field Operations - BYU-Pathway Worldwide (Full-time Intern)](https://jobright.ai/jobs/info/68a92f68758f2e4ac3ff7e92?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 22 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68a927da6acf96396f7251f7?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e4196acf96396f723985?utm_campaign=1050&utm_source=git)** | US - IL, Chicago | On Site | Aug 22 |
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3f86acf96396f723973?utm_campaign=1050&utm_source=git)** | US - CO, Boulder | On Site | Aug 22 |
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3b3d627244576e3651f?utm_campaign=1050&utm_source=git)** | US - MA, Boston | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3916acf96396f723919?utm_campaign=1050&utm_source=git)** | US - GA, Atlanta | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

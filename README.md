@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Timberline Bank](https://www.timberlinebank.com)** | **[Intern](https://jobright.ai/jobs/info/68aa1e886acf96396f729a84?utm_campaign=1050&utm_source=git)** | Grand Junction, CO | On Site | Aug 23 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/68aa14c0d627244576e3c3b1?utm_campaign=1050&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 23 |
 | **[Repped Sports](https://repped-sports.webflow.io)** | **[Fall Administrative Intern](https://jobright.ai/jobs/info/68aa0f096acf96396f72988b?utm_campaign=1050&utm_source=git)** | Austin, TX | Remote | Aug 23 |
-| **[EASTEAM](easteamny.com)** | **[Excecutive Assistant Intern](https://jobright.ai/jobs/info/68aa07d6758f2e4ac3ffbeca?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 23 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68aa0492d627244576e3c14d?utm_campaign=1050&utm_source=git)** | Accomac, VA | On Site | Aug 23 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68aa04376acf96396f729658?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 23 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Frederick Warehouse](https://jobright.ai/jobs/info/68aa0157d627244576e3c123?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Aug 23 |
@@ -136,8 +135,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Waverly, NE / Summer 2026](https://jobright.ai/jobs/info/68a902aed627244576e36e30?utm_campaign=1050&utm_source=git)** | Waverly, NE | On Site | Aug 22 |
 | **[SAP](https://www.sap.com)** | **[SAP SA&E iXp Intern - Project Manager](https://jobright.ai/jobs/info/68a902a4d627244576e36e28?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Aug 22 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Aug 22 |
-| ↳ | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db3?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db3?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
+| ↳ | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68a901a0d627244576e36d79?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68a90143d627244576e36d2d?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Aug 22 |
 | **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student/Work Study)](https://jobright.ai/jobs/info/68a8ffc1758f2e4ac3ff697e?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Aug 22 |
@@ -148,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Lead Administrative Assistant - US/Canada Field Operations - BYU-Pathway Worldwide (Full-time Intern)](https://jobright.ai/jobs/info/68a8f20ad627244576e36820?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 22 |
 | **[Emergence Health Network](https://emergencehealthnetwork.org/)** | **[Lead Custodian (Internal)](https://jobright.ai/jobs/info/68a8f0db758f2e4ac3ff64d0?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 22 |
 | **[Too Lost](https://www.toolost.com)** | **[Operations Intern - Fall 2025](https://jobright.ai/jobs/info/68a91f46d627244576e37af5?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Aug 22 |
-| **[China Institute in America](https://chinainstitute.org/)** | **[Program Intern](https://jobright.ai/jobs/info/68a8f0d86acf96396f723bca?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Aug 22 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/68a8e74f758f2e4ac3ff622a?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern #934](https://jobright.ai/jobs/info/68a8e627758f2e4ac3ff61a4?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e4d8758f2e4ac3ff6174?utm_campaign=1050&utm_source=git)** | US - VA, Arlington | On Site | Aug 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e4196acf96396f723985?utm_campaign=1050&utm_source=git)** | US - IL, Chicago | On Site | Aug 22 |
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3f86acf96396f723973?utm_campaign=1050&utm_source=git)** | US - CO, Boulder | On Site | Aug 22 |
 | ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3b3d627244576e3651f?utm_campaign=1050&utm_source=git)** | US - MA, Boston | On Site | Aug 22 |
+| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3916acf96396f723919?utm_campaign=1050&utm_source=git)** | US - GA, Atlanta | On Site | Aug 22 |
+| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e380d627244576e36510?utm_campaign=1050&utm_source=git)** | US - NY, New York | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

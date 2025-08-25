@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Avalara](http://www.avalara.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68ac1746758f2e4ac3004428?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 25 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Facilities Management-Fleet Shop](https://jobright.ai/jobs/info/68ac252e758f2e4ac30045e8?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Strategic Sourcing Intern, Spring 2026](https://jobright.ai/jobs/info/68ac15e8d627244576e44800?utm_campaign=1050&utm_source=git)** | Anaheim, CA, USA | On Site | Aug 25 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68ac1402daf1431824c93c07?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 25 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Project Management Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2142758f2e4ac3004587?utm_campaign=1050&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68ac1c26758f2e4ac30044d3?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Shopper Insights Intern - MBA](https://jobright.ai/jobs/info/68ac18a1758f2e4ac30044c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68ac1402daf1431824c93c07?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Project Controls Estimating Intern, Spring 2026](https://jobright.ai/jobs/info/68ac13df758f2e4ac30043ac?utm_campaign=1050&utm_source=git)** | Glendale, CA, USA | On Site | Aug 25 |
 | ↳ | **[Disneyland Construction and Project Management Intern, Spring 2026](https://jobright.ai/jobs/info/68ac1365758f2e4ac3004360?utm_campaign=1050&utm_source=git)** | Anaheim, CA, USA | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf77adaf1431824c9297d?utm_campaign=1050&utm_source=git)** | IL-Chicago | On Site | Aug 25 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf77edaf1431824c92980?utm_campaign=1050&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5fcd627244576e4356a?utm_campaign=1050&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
 | **[PwC](http://pwc.com)** | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5fcd627244576e4356f?utm_campaign=1050&utm_source=git)** | TX-Houston | On Site | Aug 24 |
-| ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5e9d627244576e4355a?utm_campaign=1050&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
 | ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5e9758f2e4ac30031f0?utm_campaign=1050&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
+| ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5e9d627244576e4355a?utm_campaign=1050&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
 | **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5e0758f2e4ac30031e3?utm_campaign=1050&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5e0d627244576e43555?utm_campaign=1050&utm_source=git)** | PA Pittsburgh | Hybrid | Aug 24 |
 | **[PwC](http://pwc.com)** | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5a7758f2e4ac30031c3?utm_campaign=1050&utm_source=git)** | PA-Philadelphia | On Site | Aug 24 |
@@ -107,13 +110,13 @@ For a complete list, click the following sortable link below:
 | **[Altheda Medical Center](www.altheda.com)** | **[Business Assistant](https://jobright.ai/jobs/info/68ac11a3758f2e4ac3004271?utm_campaign=1050&utm_source=git)** | McKees Rocks, PA | On Site | Aug 24 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/68abb3c7d627244576e3fe54?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Aug 24 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68ab7d1fd627244576e3fb6a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68ab75f9daf1431824c8ef04?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 24 |
 | **[Vial](https://vial.com)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/68ab3ddbd627244576e3f63d?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 24 |
 | **[AVI-SPL](https://avispl.com/)** | **[Associate Project Manager (SkillBridge Program)](https://jobright.ai/jobs/info/684bb7dc78c499054dfec50e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 24 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[2025-2026 Administrative Resident (Full-Time, On-Site)](https://jobright.ai/jobs/info/68aab614d627244576e3e5ba?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 23 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain - Supplier Development Project](https://jobright.ai/jobs/info/681c17fa51162154c8dcdafc?utm_campaign=1050&utm_source=git)** | Lancaster, NY | On Site | Aug 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/689586f88c6d6b442677a9ec?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Aug 23 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68aa7ad3758f2e4ac3ffcb17?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 23 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68aa741e758f2e4ac3ffc9a3?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Aug 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa73f4758f2e4ac3ffc992?utm_campaign=1050&utm_source=git)** | Schererville, IN | On Site | Aug 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa7216d627244576e3cce0?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Aug 23 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Program Manager, Data Center Intern Programs](https://jobright.ai/jobs/info/68a97ecf6acf96396f728214?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Aug 23 |
 | ↳ | **[Program Manager, Data Center Intern Programs](https://jobright.ai/jobs/info/68a97ab86acf96396f728050?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 23 |
 | **[ABB](https://global.abb/group/en)** | **[Internship Procurement](https://jobright.ai/jobs/info/68a975c6d627244576e3a80f?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 23 |
+| **[Oxy](https://www.oxy.com)** | **[Land Admin Co-Op](https://jobright.ai/jobs/info/6892cbb5f47efe211395f29f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 23 |
 | **[Oracle](https://www.oracle.com/)** | **[Program Manager, Data Center Intern Programs](https://jobright.ai/jobs/info/68a989b6758f2e4ac3ffac8a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 23 |
-| **[ABB](https://global.abb/group/en)** | **[Administrative Production Assistant – Part-time Job](https://jobright.ai/jobs/info/68a968bb758f2e4ac3ff96ae?utm_campaign=1050&utm_source=git)** | Location, WV | Hybrid | Aug 23 |
-| **[Oracle](https://www.oracle.com/)** | **[Program Manager, Data Center Intern Programs](https://jobright.ai/jobs/info/68a9848bd627244576e3aeec?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 22 |
-| **[M.C. Dean, Inc.](http://mcdean.com)** | **[Project Controls Internship (2025 - 2026 Season)](https://jobright.ai/jobs/info/68a95d886acf96396f72693b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Aug 22 |
-| **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a95cf46acf96396f726886?utm_campaign=1050&utm_source=git)** | Chardon, OH | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

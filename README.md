@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/68abb5dc758f2e4ac3fffb7c?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 24 |
+| ↳ | **[Intern - Dallas](https://jobright.ai/jobs/info/68abb3c7d627244576e3fe54?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Aug 24 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68ab7d1fd627244576e3fb6a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68ab75f9daf1431824c8ef04?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 24 |
 | **[Vial](https://vial.com)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/68ab3ddbd627244576e3f63d?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 24 |
 | **[AVI-SPL](https://avispl.com/)** | **[Associate Project Manager (SkillBridge Program)](https://jobright.ai/jobs/info/684bb7dc78c499054dfec50e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 24 |
+| **[Cher ®](https://cherahome.com/)** | **[Personal Assistant](https://jobright.ai/jobs/info/68aabe36d627244576e3ec6d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 24 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[2025-2026 Administrative Resident (Full-Time, On-Site)](https://jobright.ai/jobs/info/68aab614d627244576e3e5ba?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 23 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68aa7ad3758f2e4ac3ffcb17?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 23 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68aa741e758f2e4ac3ffc9a3?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Aug 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa73f4758f2e4ac3ffc992?utm_campaign=1050&utm_source=git)** | Schererville, IN | On Site | Aug 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa7216d627244576e3cce0?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Aug 23 |
@@ -69,7 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa71dbd627244576e3ccc6?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Aug 23 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68aa6ed2d627244576e3cc62?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Aug 23 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa66f66acf96396f72a0f8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
-| ↳ | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa3275d627244576e3c6b8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/68296f36e24209bb5e385c59?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 23 |
+| **[KeyBank](https://www.key.com)** | **[Summer 2026 Next Generation Enterprise Transformation Internship - Cleveland](https://jobright.ai/jobs/info/68aa3275d627244576e3c6b8?utm_campaign=1050&utm_source=git)** | Brooklyn, OH | On Site | Aug 23 |
 | **[Virtual, Inc.](http://virtualmgmt.com)** | **[Fall 2025 Project & Quality Management Intern](https://jobright.ai/jobs/info/68aa21f6758f2e4ac3ffc258?utm_campaign=1050&utm_source=git)** | Wakefield, MA | On Site | Aug 23 |
 | **[Timberline Bank](https://www.timberlinebank.com)** | **[Intern](https://jobright.ai/jobs/info/68aa1e886acf96396f729a84?utm_campaign=1050&utm_source=git)** | Grand Junction, CO | On Site | Aug 23 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/68aa14c0d627244576e3c3b1?utm_campaign=1050&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 23 |
@@ -129,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a908426acf96396f724329?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Material Logistics Management (MLM) Summer Internship](https://jobright.ai/jobs/info/68a90624d627244576e36eb8?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Aug 22 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68a904a76acf96396f7242a4?utm_campaign=1050&utm_source=git)** | Maumelle, AR | On Site | Aug 22 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Information Services Intern / Fall 2025 / Cincinnati](https://jobright.ai/jobs/info/688bdf313a30793eb963e695?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Aug 22 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Operations Intern / Casa Grande, AZ / Summer 2026](https://jobright.ai/jobs/info/68a90406758f2e4ac3ff6adc?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Aug 22 |
 | ↳ | **[DC Ops Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68a903d46acf96396f72425b?utm_campaign=1050&utm_source=git)** | Frankfort, NY | On Site | Aug 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e4d8758f2e4ac3ff6174?utm_campaign=1050&utm_source=git)** | US - VA, Arlington | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Enterprise Project Management Office Summer Intern](https://jobright.ai/jobs/info/68a8e4ae758f2e4ac3ff6151?utm_campaign=1050&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e482758f2e4ac3ff6137?utm_campaign=1050&utm_source=git)** | US - CA, Los Angeles | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e4196acf96396f723985?utm_campaign=1050&utm_source=git)** | US - IL, Chicago | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3f86acf96396f723973?utm_campaign=1050&utm_source=git)** | US - CO, Boulder | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3b3d627244576e3651f?utm_campaign=1050&utm_source=git)** | US - MA, Boston | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e3916acf96396f723919?utm_campaign=1050&utm_source=git)** | US - GA, Atlanta | On Site | Aug 22 |
-| ↳ | **[Intern - Health Strategy, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/68a8e380d627244576e36510?utm_campaign=1050&utm_source=git)** | US - NY, New York | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

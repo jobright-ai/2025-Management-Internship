@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - North Carolina A&T](https://jobright.ai/jobs/info/68ac4ac1daf1431824c9454f?utm_campaign=1050&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
+| **[enFocus Inc](https://en-focus.org/)** | **[The enFocus Internship](https://jobright.ai/jobs/info/68ac5ac9758f2e4ac30051c1?utm_campaign=1050&utm_source=git)** | South Bend-Mishawaka | Hybrid | Aug 25 |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68ac529cd627244576e4528c?utm_campaign=1050&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
+| ↳ | **[Summer 2026 Internship - North Carolina A&T](https://jobright.ai/jobs/info/68ac4ac1daf1431824c9454f?utm_campaign=1050&utm_source=git)** | Tulsa, OK | Hybrid | Aug 25 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Management Intern](https://jobright.ai/jobs/info/68ac4a3fdaf1431824c944c3?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Aug 25 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ac49cc758f2e4ac3004c36?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Remote | Aug 25 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Facilities Management-Fleet Shop](https://jobright.ai/jobs/info/68ac252e758f2e4ac30045e8?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Aug 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Strategic Sourcing Intern, Spring 2026](https://jobright.ai/jobs/info/68ac15e8d627244576e44800?utm_campaign=1050&utm_source=git)** | Anaheim, CA, USA | On Site | Aug 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Project Management Technical paid intern  (Jan and May hires)](https://jobright.ai/jobs/info/68ac2142758f2e4ac3004587?utm_campaign=1050&utm_source=git)** | Riverton, UT, United States | Hybrid | Aug 25 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disneyland Construction and Project Management Intern, Spring 2026](https://jobright.ai/jobs/info/68ac1365758f2e4ac3004360?utm_campaign=1050&utm_source=git)** | Anaheim, CA, USA | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7cddaf1431824c929c3?utm_campaign=1050&utm_source=git)** | IL-Rosemont | On Site | Aug 25 |
 | ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf741daf1431824c9295f?utm_campaign=1050&utm_source=git)** | CA-San Francisco | On Site | Aug 25 |
-| ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92992?utm_campaign=1050&utm_source=git)** | MA-Boston | On Site | Aug 25 |
 | ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7c3daf1431824c929af?utm_campaign=1050&utm_source=git)** | WA-Seattle | On Site | Aug 25 |
+| ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf79cdaf1431824c92992?utm_campaign=1050&utm_source=git)** | MA-Boston | On Site | Aug 25 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Project/Program Manager Intern](https://jobright.ai/jobs/info/68ac1251daf1431824c93af6?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Aug 25 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Portfolio Management Intern](https://jobright.ai/jobs/info/68ac0c42daf1431824c93291?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Aug 25 |
 | **[enFocus Inc](https://en-focus.org/)** | **[The enFocus Internship](https://jobright.ai/jobs/info/68ac08bbdaf1431824c931a8?utm_campaign=1050&utm_source=git)** | South Bend - Elkhart Region | Hybrid | Aug 24 |
@@ -83,10 +84,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf77edaf1431824c92980?utm_campaign=1050&utm_source=git)** | OK Tulsa - Headquarters | Hybrid | Aug 24 |
 | ↳ | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5fcd627244576e4356a?utm_campaign=1050&utm_source=git)** | TX Houston - Tower | Hybrid | Aug 24 |
 | **[PwC](http://pwc.com)** | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5fcd627244576e4356f?utm_campaign=1050&utm_source=git)** | TX-Houston | On Site | Aug 24 |
-| ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5e9d627244576e4355a?utm_campaign=1050&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
 | ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5e9758f2e4ac30031f0?utm_campaign=1050&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
-| **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5e0d627244576e43555?utm_campaign=1050&utm_source=git)** | PA Pittsburgh | Hybrid | Aug 24 |
-| ↳ | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5e0758f2e4ac30031e3?utm_campaign=1050&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
+| ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5e9d627244576e4355a?utm_campaign=1050&utm_source=git)** | CA-Silicon Valley | On Site | Aug 24 |
+| **[Williams](https://www.williams.com)** | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5e0758f2e4ac30031e3?utm_campaign=1050&utm_source=git)** | TX Houston - Sequent | Hybrid | Aug 24 |
+| ↳ | **[Summer 2026 Internship - Texas A&M](https://jobright.ai/jobs/info/68abf5e0d627244576e43555?utm_campaign=1050&utm_source=git)** | PA Pittsburgh | Hybrid | Aug 24 |
 | **[PwC](http://pwc.com)** | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5a7758f2e4ac30031c3?utm_campaign=1050&utm_source=git)** | PA-Philadelphia | On Site | Aug 24 |
 | ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf589758f2e4ac30031ac?utm_campaign=1050&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
 | ↳ | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68abf582d627244576e4351f?utm_campaign=1050&utm_source=git)** | MN-Minneapolis | On Site | Aug 24 |
@@ -106,14 +107,12 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Project Controls Planning Intern, Spring 2026](https://jobright.ai/jobs/info/68abeed8d627244576e42271?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 24 |
 | ↳ | **[Walt Disney World Strategic Sourcing Intern, Spring 2026](https://jobright.ai/jobs/info/68abeeb7758f2e4ac3001ef8?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Aug 24 |
 | ↳ | **[WDI Project Management Intern, Spring 2026](https://jobright.ai/jobs/info/68abeeb3d627244576e421c6?utm_campaign=1050&utm_source=git)** | Glendale, CA, USA | On Site | Aug 24 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68abce10d627244576e40e78?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 24 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Project/Program Manager Intern](https://jobright.ai/jobs/info/68abcc2dd627244576e40e10?utm_campaign=1050&utm_source=git)** | San Jose, California, United States of America | Hybrid | Aug 24 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/68abb5dc758f2e4ac3fffb7c?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 24 |
 | **[Altheda Medical Center](www.altheda.com)** | **[Business Assistant](https://jobright.ai/jobs/info/68ac11a3758f2e4ac3004271?utm_campaign=1050&utm_source=git)** | McKees Rocks, PA | On Site | Aug 24 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/68abb3c7d627244576e3fe54?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Aug 24 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68ab7d1fd627244576e3fb6a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 24 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68ab75f9daf1431824c8ef04?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 24 |
 | **[Vial](https://vial.com)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/68ab3ddbd627244576e3f63d?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 24 |
+| **[Cher ®](https://cherahome.com/)** | **[Personal Assistant](https://jobright.ai/jobs/info/68aabe36d627244576e3ec6d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 24 |
 | **[AVI-SPL](https://avispl.com/)** | **[Associate Project Manager (SkillBridge Program)](https://jobright.ai/jobs/info/684bb7dc78c499054dfec50e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 24 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[2025-2026 Administrative Resident (Full-Time, On-Site)](https://jobright.ai/jobs/info/68aab614d627244576e3e5ba?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 23 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 23 |
@@ -138,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Warehouse Operations Intern - Denton Warehouse,](https://jobright.ai/jobs/info/68a9cc05758f2e4ac3ffb6e8?utm_campaign=1050&utm_source=git)** | Denton, TX | On Site | Aug 23 |
 | ↳ | **[Warehouse Operations Intern - Frederick Warehouse,](https://jobright.ai/jobs/info/68a9caa26acf96396f728e88?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Aug 23 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/688d679c1808534a89cc3178?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Aug 23 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Internship- Supply Chain- Summer 2026](https://jobright.ai/jobs/info/68ac637ddaf1431824c94e1d?utm_campaign=1050&utm_source=git)** | Muscatine, IA | Hybrid | Aug 23 |
 | **[Stephens College](http://www.stephens.edu/)** | **[Game Day Experience Assistant - Federal Work Study ONLY](https://jobright.ai/jobs/info/68a9b5cd6acf96396f728ace?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Aug 23 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Supply Chain Intern - Integrated Planning](https://jobright.ai/jobs/info/68a9b4436acf96396f72898c?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Aug 23 |
 | ↳ | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68a9b440d627244576e3b40d?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Aug 23 |

@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689171cff47efe2113955469?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
+| **[Drexel University](http://drexel.edu)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/68ad79d9d627244576e4ddc4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[2025 Internships - Global Compact Office (New York)
+Job ID : 262474](https://jobright.ai/jobs/info/68ad733fd627244576e4dcc2?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 26 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68ad6833758f2e4ac300d5d2?utm_campaign=1050&utm_source=git)** | Winter Park, FL | On Site | Aug 26 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68ad6719d627244576e4daae?utm_campaign=1050&utm_source=git)** | Palm Beach, FL | On Site | Aug 26 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking - Internship - Multicultural Client Management - 2026](https://jobright.ai/jobs/info/68ad6345758f2e4ac300d294?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
 | ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Client Advocacy- Personal Lines- 2026](https://jobright.ai/jobs/info/68ad62a0758f2e4ac300d17a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
 | ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Client Advocacy- Commercial Lines- 2026](https://jobright.ai/jobs/info/68ad613ed627244576e4d4a9?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
@@ -64,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern: Associate Project Manager](https://jobright.ai/jobs/info/68ad4468d627244576e4c8a3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Supply Chain Initiatives](https://jobright.ai/jobs/info/68ad4255d627244576e4c6ec?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 25 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking - Internship - Client Advocacy- Commercial Lines- 2026](https://jobright.ai/jobs/info/68ad6318daf1431824c9ca11?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
-| ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Client Advocacy- Personal Lines- 2026](https://jobright.ai/jobs/info/68ad6106d627244576e4d443?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Multicultural Client Management - 2026](https://jobright.ai/jobs/info/68ad6390d627244576e4d7e2?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
+| ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Client Advocacy- Personal Lines- 2026](https://jobright.ai/jobs/info/68ad6106d627244576e4d443?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[MORR](https://www.morragency.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ad25acd627244576e4b91b?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Aug 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ad240bdaf1431824c9aaae?utm_campaign=1050&utm_source=git)** | Yorkville, IL | On Site | Aug 25 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0b47daf1431824c9a0ce?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Aug 25 |
@@ -152,9 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - San Antonio](https://jobright.ai/jobs/info/68acbd80daf1431824c97db3?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 25 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations  (Southeast Region)](https://jobright.ai/jobs/info/68acbd3edaf1431824c97d52?utm_campaign=1050&utm_source=git)** | US-FL-Jacksonville | On Site | Aug 25 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern](https://jobright.ai/jobs/info/68acbd3c758f2e4ac30084fe?utm_campaign=1050&utm_source=git)** | Hartsville, SC, USA | Hybrid | Aug 25 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations (Atlantic Region)](https://jobright.ai/jobs/info/68acbcd4d627244576e48a63?utm_campaign=1050&utm_source=git)** | US-VA-Lorton | On Site | Aug 25 |
-| ↳ | **[MBA Intern - P.E. Operations (Mountain West Region)](https://jobright.ai/jobs/info/68acbc65daf1431824c97c1d?utm_campaign=1050&utm_source=git)** | US-AZ-Phoenix | On Site | Aug 25 |
-| **[Blackstone](http://blackstone.com)** | **[2025 US Blackstone Future Leaders Program](https://jobright.ai/jobs/info/68acbc02daf1431824c97b8d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 25 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations (Mountain West Region)](https://jobright.ai/jobs/info/68acbbbcdaf1431824c97b10?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 25 |
-| ↳ | **[MBA Intern - P.E. Operations (Gulf Region)](https://jobright.ai/jobs/info/68acbbbad627244576e489b0?utm_campaign=1050&utm_source=git)** | US-TX-Irving | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

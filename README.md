@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macquarie Group](https://www.macquarie.com)** | **[2026 Macquarie Asset Management Summer Internship Program](https://jobright.ai/jobs/info/68912260f5ee707a15dbc617?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
+| **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689172f24c7e851b90ace9c7?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Aug 26 |
+| ↳ | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68917466f5ee707a15dbe9f3?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Aug 26 |
+| **[ApplePie Capital](http://www.applepiecapital.com)** | **[Administrative Assistant (Temporary Remote)](https://jobright.ai/jobs/info/68ad871fd627244576e4e017?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 26 |
 | **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689171cff47efe2113955469?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
 | **[Drexel University](http://drexel.edu)** | **[Administrative Coordinator](https://jobright.ai/jobs/info/68ad79d9d627244576e4ddc4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[2025 Internships - Global Compact Office (New York)
@@ -70,8 +74,8 @@ Job ID : 262474](https://jobright.ai/jobs/info/68ad733fd627244576e4dcc2?utm_camp
 | ↳ | **[2026 Summer Intern: Associate Project Manager](https://jobright.ai/jobs/info/68ad4468d627244576e4c8a3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Supply Chain Initiatives](https://jobright.ai/jobs/info/68ad4255d627244576e4c6ec?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 25 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Corporate Risk and Broking - Internship - Client Advocacy- Commercial Lines- 2026](https://jobright.ai/jobs/info/68ad6318daf1431824c9ca11?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
-| ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Multicultural Client Management - 2026](https://jobright.ai/jobs/info/68ad6390d627244576e4d7e2?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Client Advocacy- Personal Lines- 2026](https://jobright.ai/jobs/info/68ad6106d627244576e4d443?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
+| ↳ | **[Early Careers: Corporate Risk and Broking - Internship - Multicultural Client Management - 2026](https://jobright.ai/jobs/info/68ad6390d627244576e4d7e2?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 | **[MORR](https://www.morragency.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ad25acd627244576e4b91b?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Aug 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ad240bdaf1431824c9aaae?utm_campaign=1050&utm_source=git)** | Yorkville, IL | On Site | Aug 25 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0b47daf1431824c9a0ce?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Aug 25 |
@@ -154,8 +158,4 @@ Job ID : 262474](https://jobright.ai/jobs/info/68ad733fd627244576e4dcc2?utm_camp
 | **[MD&A](http://mdaturbines.com)** | **[Project Operations Intern](https://jobright.ai/jobs/info/68acbe69d627244576e48b98?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 25 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations (Midwest Region)](https://jobright.ai/jobs/info/68acbe60758f2e4ac30086a5?utm_campaign=1050&utm_source=git)** | US- | On Site | Aug 25 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Commercial Real Estate Development](https://jobright.ai/jobs/info/68acbe01daf1431824c97e9c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Aug 25 |
-| **[Luther Seminary](http://www.luthersem.edu)** | **[Operations Student Worker (Service Desk and Maintenance teams) Internal Student Only](https://jobright.ai/jobs/info/68acbde4daf1431824c97e67?utm_campaign=1050&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Aug 25 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - San Antonio](https://jobright.ai/jobs/info/68acbd80daf1431824c97db3?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 25 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations  (Southeast Region)](https://jobright.ai/jobs/info/68acbd3edaf1431824c97d52?utm_campaign=1050&utm_source=git)** | US-FL-Jacksonville | On Site | Aug 25 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern](https://jobright.ai/jobs/info/68acbd3c758f2e4ac30084fe?utm_campaign=1050&utm_source=git)** | Hartsville, SC, USA | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

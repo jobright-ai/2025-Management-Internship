@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Młodszy Project Manager – Dział Serwisu Elektryfikacji (Praca dla Studenta)](https://jobright.ai/jobs/info/68adb4fcdaf1431824c9d877?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Software Technical Program Manager Co-op (January through June)](https://jobright.ai/jobs/info/68adb0c8758f2e4ac300e112?utm_campaign=1050&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
+| ↳ | **[Spring 2026: APAC NPD Commercial Readiness Co-op (January through June)](https://jobright.ai/jobs/info/68adaf66daf1431824c9d705?utm_campaign=1050&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
+| ↳ | **[Spring 2026: Supply Planning Co-op (January through June)](https://jobright.ai/jobs/info/68ada8a5758f2e4ac300deac?utm_campaign=1050&utm_source=git)** | Needham, MA, United States | On Site | Aug 26 |
 | **[Macquarie Group](https://www.macquarie.com)** | **[2026 Macquarie Asset Management Summer Internship Program](https://jobright.ai/jobs/info/68912260f5ee707a15dbc617?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Aug 26 |
 | **[Pentair](http://www.pentair.com)** | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689172f24c7e851b90ace9c7?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Aug 26 |
 | ↳ | **[Finance Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68917466f5ee707a15dbe9f3?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Aug 26 |
@@ -105,6 +109,7 @@ Job ID : 262474](https://jobright.ai/jobs/info/68ad733fd627244576e4dcc2?utm_camp
 | **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0567d627244576e4a850?utm_campaign=1050&utm_source=git)** | Fayetteville, AR | On Site | Aug 25 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Management Internship](https://jobright.ai/jobs/info/68ad0566daf1431824c99cec?utm_campaign=1050&utm_source=git)** | 215 S Orlando Ave, Winter Park, FL 32789, USA | On Site | Aug 25 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, Lake City, FL](https://jobright.ai/jobs/info/68acfe06758f2e4ac300a158?utm_campaign=1050&utm_source=git)** | Lake City, FL | Hybrid | Aug 25 |
+| **[John Theurer Cancer Center at Hackensack University Medical Center](http://jtcancercenter.org)** | **[Supervisor, Medical Office - Internal Medicine - Physician Practice](https://jobright.ai/jobs/info/68adafc3daf1431824c9d751?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Aug 25 |
 | **[RWE Design Build](https://www.rwedesignbuild.com)** | **[Project Intern](https://jobright.ai/jobs/info/68acfb68d627244576e4a545?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | On Site | Aug 25 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Dealer Network Summer Internship](https://jobright.ai/jobs/info/68acfa36d627244576e4a479?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Aug 25 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68acf9f1d627244576e4a444?utm_campaign=1050&utm_source=git)** | Guion, AR | On Site | Aug 25 |
@@ -153,9 +158,4 @@ Job ID : 262474](https://jobright.ai/jobs/info/68ad733fd627244576e4dcc2?utm_camp
 | ↳ | **[Sourcing Program Management Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68acc2aedaf1431824c98099?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Aug 25 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern - Frito-Lay HQ Supply Chain - Undergrad](https://jobright.ai/jobs/info/68acc2a5758f2e4ac30088c8?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 25 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations (Southeast Region)](https://jobright.ai/jobs/info/68acc24c758f2e4ac300886f?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 25 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Technology Product Delivery](https://jobright.ai/jobs/info/68acc21ddaf1431824c97ff4?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Aug 25 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations (Gulf Region)](https://jobright.ai/jobs/info/68acc096d627244576e48d35?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Aug 25 |
-| **[MD&A](http://mdaturbines.com)** | **[Project Operations Intern](https://jobright.ai/jobs/info/68acbe69d627244576e48b98?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 25 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations (Midwest Region)](https://jobright.ai/jobs/info/68acbe60758f2e4ac30086a5?utm_campaign=1050&utm_source=git)** | US- | On Site | Aug 25 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Commercial Real Estate Development](https://jobright.ai/jobs/info/68acbe01daf1431824c97e9c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

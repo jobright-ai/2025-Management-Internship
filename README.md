@@ -57,15 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MORR](https://www.morragency.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ad25acd627244576e4b91b?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Aug 25 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ad240bdaf1431824c9aaae?utm_campaign=1050&utm_source=git)** | Yorkville, IL | On Site | Aug 25 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0b47daf1431824c9a0ce?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Aug 25 |
+| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad099edaf1431824c99ef3?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Aug 25 |
+| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad099edaf1431824c99ef4?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Aug 25 |
+| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0c74daf1431824c9a244?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 25 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68ad1fdd758f2e4ac300b0d7?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 25 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ad1dfad627244576e4b585?utm_campaign=1050&utm_source=git)** | Rolla, MO | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad1bded627244576e4b371?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad1b6cdaf1431824c9a743?utm_campaign=1050&utm_source=git)** | Baxter, MN | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad1b4edaf1431824c9a738?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad1a94daf1431824c9a6dd?utm_campaign=1050&utm_source=git)** | Galesburg, IL | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad1a45daf1431824c9a6bd?utm_campaign=1050&utm_source=git)** | Bellevue, NE | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad1a37daf1431824c9a6b5?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad19cedaf1431824c9a684?utm_campaign=1050&utm_source=git)** | Farmington, MO | On Site | Aug 25 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ad1996daf1431824c9a668?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Aug 25 |
+| **[Georgia-Pacific LLC](http://www.gp.com/aboutus/companyoverview/index.html)** | **[Georgia-Pacific Supply Chain Internship – Summer 2026](https://jobright.ai/jobs/info/68ad176dd627244576e4b282?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
+| **[ODW Logistics](http://odwlogistics.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68ad1507758f2e4ac300acf0?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/68ad1241d627244576e4b062?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 25 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager](https://jobright.ai/jobs/info/68ad10c1758f2e4ac300ab69?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Aug 25 |
 | **[ Georgia Pacific](gp.com)** | **[Georgia-Pacific Supply Chain Internship – Summer 2026](https://jobright.ai/jobs/info/68ad0fa5758f2e4ac300aab2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/68ad0ee1758f2e4ac300a9fe?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Aug 25 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0c74daf1431824c9a244?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 25 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68ad0c58daf1431824c9a224?utm_campaign=1050&utm_source=git)** | Missouri City, TX | On Site | Aug 25 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0b47daf1431824c9a0ce?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Aug 25 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad099edaf1431824c99ef4?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Aug 25 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad099edaf1431824c99ef3?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Aug 25 |
 | **[Western States Fire Protection](https://www.wsfp.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68ad0732d627244576e4abac?utm_campaign=1050&utm_source=git)** | Lake Oswego, OR | On Site | Aug 25 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Management Internship](https://jobright.ai/jobs/info/68ad05ee758f2e4ac300a60e?utm_campaign=1050&utm_source=git)** | 340 Royal Poinciana Way, Palm Beach, FL 33480, USA | On Site | Aug 25 |
 | **[Grubb Properties](http://grubbproperties.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/68ad0582daf1431824c99d17?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | Aug 25 |
@@ -76,14 +90,16 @@ For a complete list, click the following sortable link below:
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Dealer Network Summer Internship](https://jobright.ai/jobs/info/68acfa36d627244576e4a479?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Aug 25 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68acf9f1d627244576e4a444?utm_campaign=1050&utm_source=git)** | Guion, AR | On Site | Aug 25 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Field Operations Summer 2026 Intern - Baltimore, MD](https://jobright.ai/jobs/info/68acf91fdaf1431824c9976b?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Aug 25 |
-| ↳ | **[Field Operations Summer 2026 Intern-Pleasant Valley, NY](https://jobright.ai/jobs/info/68acf719d627244576e4a3fd?utm_campaign=1050&utm_source=git)** | Pleasant Valley, NY | On Site | Aug 25 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Commercial Real Estate Development](https://jobright.ai/jobs/info/68acf8f4daf1431824c9974c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Aug 25 |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Field Operations Summer 2026 Intern-Pleasant Valley, NY](https://jobright.ai/jobs/info/68acf719d627244576e4a3fd?utm_campaign=1050&utm_source=git)** | Pleasant Valley, NY | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - Albany, NY](https://jobright.ai/jobs/info/68acf6ced627244576e4a3b9?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - NYC](https://jobright.ai/jobs/info/68acf63bd627244576e4a34f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - Orono, ME](https://jobright.ai/jobs/info/68acf567d627244576e4a287?utm_campaign=1050&utm_source=git)** | Orono, ME | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - Washington, D.C.](https://jobright.ai/jobs/info/68acf4fedaf1431824c9961e?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - USVI](https://jobright.ai/jobs/info/68acf4e1758f2e4ac3009e3e?utm_campaign=1050&utm_source=git)** | Benton, WI | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - Manchester, NH](https://jobright.ai/jobs/info/68acf4c7d627244576e4a19d?utm_campaign=1050&utm_source=git)** | Manchester, NH | On Site | Aug 25 |
-| ↳ | **[Field Operations Summer 2026 Intern-MA](https://jobright.ai/jobs/info/68acf455daf1431824c995a8?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 25 |
+| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Office Assistant for Student Involvement & Leadership](https://jobright.ai/jobs/info/68ad1573758f2e4ac300ad2e?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Aug 25 |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Field Operations Summer 2026 Intern-MA](https://jobright.ai/jobs/info/68acf455daf1431824c995a8?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - Portland, ME](https://jobright.ai/jobs/info/68acf44e758f2e4ac3009d76?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Aug 25 |
 | ↳ | **[Field Operations Summer 2026 Intern - Princeton, NJ](https://jobright.ai/jobs/info/68acf424758f2e4ac3009d24?utm_campaign=1050&utm_source=git)** | Princeton, NJ | On Site | Aug 25 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68acf41e758f2e4ac3009d1c?utm_campaign=1050&utm_source=git)** | Jackson, MO | On Site | Aug 25 |
@@ -141,20 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68acb1eb758f2e4ac3007c6f?utm_campaign=1050&utm_source=git)** | Morris IL | On Site | Aug 25 |
 | ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/68acb0e3758f2e4ac3007b56?utm_campaign=1050&utm_source=git)** | FAYETTEVILLE SALES OFFICE | On Site | Aug 25 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Amsterdam, NY](https://jobright.ai/jobs/info/68acadd6758f2e4ac300794f?utm_campaign=1050&utm_source=git)** | Amsterdam, NY | Hybrid | Aug 25 |
-| **[PwC](http://pwc.com)** | **[Strategy& and Deals Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68acacd9d627244576e47db1?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Aug 25 |
-| **[O-I](http://www.o-i.com)** | **[Supply Chain Internship (Planning) – Summer 2026](https://jobright.ai/jobs/info/68acaaefd627244576e47c17?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | On Site | Aug 25 |
-| **[FreshDirect](http://freshdirect.com)** | **[Program Strategy Intern](https://jobright.ai/jobs/info/68acd193daf1431824c98948?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Aug 25 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/68aca6c7d627244576e47b0c?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Services Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca65e758f2e4ac3007580?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
-| ↳ | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca583d627244576e479c1?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Intern - Summer 2026](https://jobright.ai/jobs/info/68aca43fd627244576e478a0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Huntsville, AL](https://jobright.ai/jobs/info/68aca2c6758f2e4ac30074a5?utm_campaign=1050&utm_source=git)** | Madison, AL | Hybrid | Aug 25 |
-| ↳ | **[Operations Manager Intern (starting summer 2026) Sortation Center, Hialeah, FL](https://jobright.ai/jobs/info/68aca2bf758f2e4ac300749a?utm_campaign=1050&utm_source=git)** | Hialeah, FL | Hybrid | Aug 25 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Services Strategy MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/68aca1a5758f2e4ac3007359?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Aug 25 |
-| **[HUB International](https://www.hubinternational.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68aca18d758f2e4ac3007336?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Aug 25 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Upstream Distribution  Center, Suffolk, VA](https://jobright.ai/jobs/info/68aca167d627244576e47854?utm_campaign=1050&utm_source=git)** | Suffolk, VA | Hybrid | Aug 25 |
-| ↳ | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Wilton, NY](https://jobright.ai/jobs/info/68aca11bd627244576e4780d?utm_campaign=1050&utm_source=git)** | Wilton, NY | Hybrid | Aug 25 |
-| **[Applied Materials Europe](https://www.appliedmaterials.com/en-eu/company/about/europe-overview)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/68ac9fe0758f2e4ac30070de?utm_campaign=1050&utm_source=git)** | Austin,TX | On Site | Aug 25 |
-| **[Blackstone](http://blackstone.com)** | **[2025 Blackstone US Future Leaders Program](https://jobright.ai/jobs/info/68ac9f66758f2e4ac3007007?utm_campaign=1050&utm_source=git)** | New York | On Site | Aug 25 |
-| **[Applied Materials Europe](https://www.appliedmaterials.com/en-eu/company/about/europe-overview)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/68ac9ef8daf1431824c9694b?utm_campaign=1050&utm_source=git)** | Santa Clara,CA | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

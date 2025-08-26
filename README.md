@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Project Manager](https://jobright.ai/jobs/info/68ad494f758f2e4ac300c83d?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Associate Project Manager](https://jobright.ai/jobs/info/68ad4468d627244576e4c8a3?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 25 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Supply Chain Initiatives](https://jobright.ai/jobs/info/68ad4255d627244576e4c6ec?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 25 |
 | **[MORR](https://www.morragency.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68ad25acd627244576e4b91b?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Aug 25 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ad240bdaf1431824c9aaae?utm_campaign=1050&utm_source=git)** | Yorkville, IL | On Site | Aug 25 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ad0b47daf1431824c9a0ce?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Aug 25 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[PEC Operations Intern](https://jobright.ai/jobs/info/68acea5e758f2e4ac30098e4?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 25 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Operations Intern [2026 Internship Program]](https://jobright.ai/jobs/info/68ace679758f2e4ac3009690?utm_campaign=1050&utm_source=git)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Aug 25 |
 | **[TabaPay](https://www.tabapay.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68ace423758f2e4ac3009613?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Aug 25 |
-| **[Hustle Magazine](www.hustlemagazine.co)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68acde84758f2e4ac30094fc?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Aug 25 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern – Commercial Leadership & Insights Program (Summer 2026)](https://jobright.ai/jobs/info/68acd935d627244576e49825?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Aug 25 |
 | **[International Institute of New England](https://iine.org/)** | **[Operations Internship (IINE Boston)](https://jobright.ai/jobs/info/68acd390d627244576e496c8?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Aug 25 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 Financial Services Internship](https://jobright.ai/jobs/info/68acd1d6daf1431824c9898e?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Logistics Planning Intern](https://jobright.ai/jobs/info/68a4cfa0e9f1c744da124a12?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Aug 25 |
 | **[Project for Pride in Living (PPL)](https://www.ppl-inc.org/)** | **[Digital Systems & Engagement Intern](https://jobright.ai/jobs/info/68acb278d627244576e48077?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 25 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68acb1eb758f2e4ac3007c6f?utm_campaign=1050&utm_source=git)** | Morris IL | On Site | Aug 25 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/68acb0e3758f2e4ac3007b56?utm_campaign=1050&utm_source=git)** | FAYETTEVILLE SALES OFFICE | On Site | Aug 25 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Amsterdam, NY](https://jobright.ai/jobs/info/68acadd6758f2e4ac300794f?utm_campaign=1050&utm_source=git)** | Amsterdam, NY | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

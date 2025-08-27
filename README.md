@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Colorado](https://jobright.ai/jobs/info/68aeb8a97bcb7608b3d2908d?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Aug 27 |
+| ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aeb8917bcb7608b3d2906c?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Aug 27 |
+| ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aeb6167bcb7608b3d28ed7?utm_campaign=1050&utm_source=git)** | Dickinson, ND | On Site | Aug 27 |
+| ↳ | **[Campus Intern - California](https://jobright.ai/jobs/info/68aeb5752daaba398441992c?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Aug 27 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aea95c7bcb7608b3d28b99?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Aug 26 |
+| **[Analog Devices](http://www.analog.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68aea9277bcb7608b3d28b36?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Aug 26 |
+| **[Kairos Power](https://kairospower.com/)** | **[MBA Internship - Summer 2026](https://jobright.ai/jobs/info/68aea46303c5f15c2fd8aa4a?utm_campaign=1050&utm_source=git)** | Alameda, CA | On Site | Aug 26 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Strategic Planning Operations Co-op, New Product Development (January through June)](https://jobright.ai/jobs/info/68aea3e403c5f15c2fd8a9c4?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
+| ↳ | **[Spring 2026: Software Technical Program Manager Co-op (January through June)](https://jobright.ai/jobs/info/68ae9ee17bcb7608b3d28716?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Project Manager](https://jobright.ai/jobs/info/68ae9ab103c5f15c2fd8a598?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Aug 26 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center - Cedar Falls, IA](https://jobright.ai/jobs/info/68ae9069daf1431824ca42ed?utm_campaign=1050&utm_source=git)** | 2200 Viking Rd, Cedar Falls,IA 50613-9526 | Hybrid | Aug 26 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) Sortation Center - Minneapolis, MN](https://jobright.ai/jobs/info/68ae905cd627244576e54e9a?utm_campaign=1050&utm_source=git)** | 2700 Winter St NE, Minneapolis,MN 55413-2945 | Hybrid | Aug 26 |
@@ -91,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68ae5664daf1431824ca266d?utm_campaign=1050&utm_source=git)** | Florida | On Site | Aug 26 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68ae5634758f2e4ac3012e7c?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Aug 26 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Global Sourcing Process Intern](https://jobright.ai/jobs/info/68ae4eafdaf1431824ca23c2?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Aug 26 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ae4e06daf1431824ca2324?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Remote | Aug 26 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68ae4dbfd627244576e5300e?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Suite CSM Operations](https://jobright.ai/jobs/info/68ae4da3758f2e4ac3012a48?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-Op, Operations Analytics (Spring 2026)](https://jobright.ai/jobs/info/68ae4d7e758f2e4ac3012a28?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
@@ -114,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/68ae2b25daf1431824ca1572?utm_campaign=1050&utm_source=git)** | Hattiesburg-Mississippi-United States of America | On Site | Aug 26 |
 | ↳ | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/68ae2a6cd627244576e52318?utm_campaign=1050&utm_source=git)** | Largo-Florida-United States of America | On Site | Aug 26 |
 | ↳ | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/68ae2a28daf1431824ca148f?utm_campaign=1050&utm_source=git)** | York-Pennsylvania-United States of America | On Site | Aug 26 |
-| **[HNTB](http://www.hntb.com/)** | **[Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68ae2a03758f2e4ac3011da9?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
+| **[HNTB](http://www.hntb.com/)** | **[Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68ae2a0adaf1431824ca1471?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/68ae298c758f2e4ac3011d5d?utm_campaign=1050&utm_source=git)** | San Antonio-Texas-United States of America | On Site | Aug 26 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Process Optimization Intern – Product Stewardship](https://jobright.ai/jobs/info/68ae2977758f2e4ac3011d52?utm_campaign=1050&utm_source=git)** | US NY Niskayuna | On Site | Aug 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/68ae28e4758f2e4ac3011cf7?utm_campaign=1050&utm_source=git)** | Waynesboro-Pennsylvania-United States of America | On Site | Aug 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship – Strategic Sourcing](https://jobright.ai/jobs/info/68ae01d9758f2e4ac3010206?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Aug 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Business Operations Intern - Clinical Trials](https://jobright.ai/jobs/info/68ae0157d627244576e507f4?utm_campaign=1050&utm_source=git)** | 108 WILMOT RD,DEERFIELD,IL,60015-05145-01108-2 | On Site | Aug 26 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2026 Summer Internship - Facilities](https://jobright.ai/jobs/info/68ae0150758f2e4ac3010195?utm_campaign=1050&utm_source=git)** | Fort Washington, PA | On Site | Aug 26 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Scheduling Summer 2026 Intern-MA](https://jobright.ai/jobs/info/68adfeb6daf1431824c9f912?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Aug 26 |
-| **[FreshDirect](http://freshdirect.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68adfdc9d627244576e50654?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Aug 26 |
-| **[C2I Accelerator ](https://www.creagenincubator.com)** | **[Business & Operations Intern– Life Sciences](https://jobright.ai/jobs/info/68ae8a9fdaf1431824ca3d99?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Aug 26 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68adf88bd627244576e50470?utm_campaign=1050&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Aug 26 |
-| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Corporate Intern](https://jobright.ai/jobs/info/68adf838d627244576e50451?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 26 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Faribault Warehouse](https://jobright.ai/jobs/info/68adf608758f2e4ac300fdfd?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Aug 26 |
-| **[KSM (Katz, Sapper & Miller)](http://www.ksmcpa.com)** | **[Gateways Summer Leadership Program - Cincinnati (Summer 2026)](https://jobright.ai/jobs/info/68adf31f758f2e4ac300fc7d?utm_campaign=1050&utm_source=git)** | Cincinnati | On Site | Aug 26 |
-| **[Amgen](http://www.amgen.com)** | **[MBA Intern - Commercial Leadership Program (Summer 2026)](https://jobright.ai/jobs/info/68adf2d5758f2e4ac300fc46?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

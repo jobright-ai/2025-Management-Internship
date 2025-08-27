@@ -57,11 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Siemens](https://www.siemens.com/)** | **[Locomotive Project Manager Internship- Rolling Stock (Summer 2026)](https://jobright.ai/jobs/info/68aece817bcb7608b3d29af1?utm_campaign=1050&utm_source=git)** | Sacramento, California, United States of America | On Site | Aug 27 |
-| ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68aece7b7bcb7608b3d29ade?utm_campaign=1050&utm_source=git)** | Tempe, Arizona, United States of America | On Site | Aug 27 |
-| ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68aece0003c5f15c2fd8bbf7?utm_campaign=1050&utm_source=git)** | Phoenix, Arizona, United States of America | On Site | Aug 27 |
-| ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68aecdfc03c5f15c2fd8bbed?utm_campaign=1050&utm_source=git)** | Alachua, Florida, United States of America | On Site | Aug 27 |
-| ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68aecdf003c5f15c2fd8bbbf?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina, United States of America | On Site | Aug 27 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Facilities Management-Fleet Shop](https://jobright.ai/jobs/info/68aeeacd2daaba398441ac78?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Aug 27 |
 | **[Keolis Commuter Services](http://keoliscs.com/)** | **[Innovation Internship Program](https://jobright.ai/jobs/info/68aebe8c03c5f15c2fd8b58c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 27 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Colorado](https://jobright.ai/jobs/info/68aeb8a97bcb7608b3d2908d?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Aug 27 |
 | ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aeb8917bcb7608b3d2906c?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Aug 27 |
@@ -75,9 +71,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026: Software Technical Program Manager Co-op (January through June)](https://jobright.ai/jobs/info/68ae9ee17bcb7608b3d28716?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Aug 26 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aec43503c5f15c2fd8b71d?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Aug 26 |
 | ↳ | **[Campus Intern - Phoenix & Portland](https://jobright.ai/jobs/info/68aecd7903c5f15c2fd8bb6a?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Aug 26 |
+| ↳ | **[Campus Intern - Minnesota](https://jobright.ai/jobs/info/68aedccb2daaba398441a949?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
 | ↳ | **[Campus Intern - Phoenix & Portland](https://jobright.ai/jobs/info/68aebed203c5f15c2fd8b5e5?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Aug 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Project Manager](https://jobright.ai/jobs/info/68ae9ab103c5f15c2fd8a598?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Aug 26 |
 | **[Beacon EmbeddedWorks](https://beaconembedded.com/)** | **[Associate Program Coordinator Intern](https://jobright.ai/jobs/info/68aebda503c5f15c2fd8b474?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Aug 26 |
+| **[JTM Construction](https://www.jtm-construction.com/)** | **[Intern](https://jobright.ai/jobs/info/68aeebd62daaba398441ad0e?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 26 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Business Analysis and Project Management](https://jobright.ai/jobs/info/68aebcb003c5f15c2fd8b336?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 26 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center - Cedar Falls, IA](https://jobright.ai/jobs/info/68ae9069daf1431824ca42ed?utm_campaign=1050&utm_source=git)** | 2200 Viking Rd, Cedar Falls,IA 50613-9526 | Hybrid | Aug 26 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) Sortation Center - Minneapolis, MN](https://jobright.ai/jobs/info/68ae905cd627244576e54e9a?utm_campaign=1050&utm_source=git)** | 2700 Winter St NE, Minneapolis,MN 55413-2945 | Hybrid | Aug 26 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) Food Distribution Center - Cedar Falls, IA](https://jobright.ai/jobs/info/68ae9039d627244576e54e76?utm_campaign=1050&utm_source=git)** | 2115 Technology Pkwy, Cedar Falls,IA 50613-6934 | Hybrid | Aug 26 |
@@ -97,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68ae892f758f2e4ac301461e?utm_campaign=1050&utm_source=git)** | US, MA, Wilmington | On Site | Aug 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ae81c7758f2e4ac30141f9?utm_campaign=1050&utm_source=git)** | Peru, IL | On Site | Aug 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68ae7ed5758f2e4ac301415e?utm_campaign=1050&utm_source=git)** | Antigo, WI | On Site | Aug 26 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Business Analysis and Project Management](https://jobright.ai/jobs/info/68ae7bb7d627244576e5441d?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Aug 26 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68aed4cb7bcb7608b3d29cbe?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 26 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Future Opportunities Capital PMO Co-op (Spring 2026)](https://jobright.ai/jobs/info/68ae719fd627244576e53dc3?utm_campaign=1050&utm_source=git)** | Hershey, PA | On Site | Aug 26 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Valparaiso Warehouse,](https://jobright.ai/jobs/info/68ae6e31daf1431824ca2f7e?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Aug 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae32c1daf1431824ca178d?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
 | **[GALLO](https://www.gallo.com)** | **[Operations Management Development Program 2026](https://jobright.ai/jobs/info/68a381ad37d3cc6b0d577a8e?utm_campaign=1050&utm_source=git)** | Canandaigua, NY | On Site | Aug 26 |
 | ↳ | **[Supply Chain Internship 2026](https://jobright.ai/jobs/info/68a37d1b37d3cc6b0d5776d3?utm_campaign=1050&utm_source=git)** | Modesto, CA | Hybrid | Aug 26 |
+| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Intern](https://jobright.ai/jobs/info/68ae0a9cd627244576e50fe5?utm_campaign=1050&utm_source=git)** | East Point, GA | On Site | Aug 26 |
+| **[Scania USA](http://www.scaniausa.com)** | **[Ausbildung Büromanagement 2026 (m/w/d) für Kassel/Lohfelden](https://jobright.ai/jobs/info/68ae0a76758f2e4ac3010c94?utm_campaign=1050&utm_source=git)** | Humboldt, IL | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

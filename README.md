@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander](https://www.santander.com/)** | **[Risk Operations Strategy & Transformation-Center of Excellence (CoE)](https://jobright.ai/jobs/info/68b024bae723db6c9b7b610e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 28 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ADMINISTRATION
+Job ID : 263431](https://jobright.ai/jobs/info/68b0166e13563e782a9f36ef?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 28 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Assistant Director of Internal Audit(State Program Manager)](https://jobright.ai/jobs/info/68b013e4b47fb001d688f734?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Aug 28 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Administrative Assistant](https://jobright.ai/jobs/info/68b00934e723db6c9b7b59e6?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b004d1e723db6c9b7b5688?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Remote | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68aff94cb47fb001d688ebe1?utm_campaign=1050&utm_source=git)** | Pomona, CA | Remote | Aug 27 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68afda4d13563e782a9f1c6f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 27 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68afd3e113563e782a9f18f5?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Project Management Intern](https://jobright.ai/jobs/info/68afcd85e723db6c9b7b39c5?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
+| **[Spring Hill College](http://www.shc.edu/)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68b01cd6e723db6c9b7b5ec4?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Aug 27 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[ASPIRE Internship - Fort Worth Division](https://jobright.ai/jobs/info/68afc964b47fb001d688d30e?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Aug 27 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Construction Project Management Internship](https://jobright.ai/jobs/info/68afc823b47fb001d688d18a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68afc7b6e723db6c9b7b3596?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 27 |
@@ -117,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68af9902962903596357dd4c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Orlando)](https://jobright.ai/jobs/info/68af98c6962903596357dd33?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 27 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68af98a61f0a2a568a062c4e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 27 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/68afc4b0e723db6c9b7b3231?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Aug 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Houston)](https://jobright.ai/jobs/info/68af955c2daaba398441f4a3?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 27 |
 | **[Emergence Health Network](https://emergencehealthnetwork.org/)** | **[Mobile Crisis Outreach Team Program Manager (Internal Applicants Only)](https://jobright.ai/jobs/info/68af94d21f0a2a568a062b0d?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 27 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT ST3 Project Management Team Intern](https://jobright.ai/jobs/info/68af9497962903596357dbca?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
@@ -152,9 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst/Project Coordinator Intern](https://jobright.ai/jobs/info/68af83211f0a2a568a06242b?utm_campaign=1050&utm_source=git)** | White Marsh, MD | On Site | Aug 27 |
 | **[UT Southwestern Medical Center](https://utswmed.org)** | **[Senior Administrative Assistant II, Temporary- Office for Access & Title IX](https://jobright.ai/jobs/info/68af72c5962903596357ccd9?utm_campaign=1050&utm_source=git)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Aug 27 |
 | ↳ | **[Senior Administrative Assistant II, Temporary- Office for Access & Title IX](https://jobright.ai/jobs/info/68af71d01f0a2a568a061b7a?utm_campaign=1050&utm_source=git)** | 5323 Harry Hines Blvd5323 Harry Hines Blvd | On Site | Aug 27 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Risk Operations Strategy & Transformation-Center of Excellence (CoE)](https://jobright.ai/jobs/info/68af6f44962903596357cabf?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 27 |
-| ↳ | **[Risk Operations Strategy & Transformation-Center of Excellence (CoE)](https://jobright.ai/jobs/info/68af6ed1962903596357ca63?utm_campaign=1050&utm_source=git)** | Dallas | On Site | Aug 27 |
-| **[BCCI Construction](http://www.bcciconst.com)** | **[Intern](https://jobright.ai/jobs/info/68af6e7f962903596357ca2d?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
-| **[Abbott Construction](https://www.abbottconstruction.com/)** | **[Intern](https://jobright.ai/jobs/info/68af6e72962903596357ca1e?utm_campaign=1050&utm_source=git)** | Stamford, CT, United States | On Site | Aug 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68af6e4f2daaba398441e37e?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

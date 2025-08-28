@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/68b0408dda3e4470d3e56764?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Aug 28 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68b02813e723db6c9b7b613a?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Aug 28 |
 | **[Santander](https://www.santander.com/)** | **[Risk Operations Strategy & Transformation-Center of Excellence (CoE)](https://jobright.ai/jobs/info/68b024bae723db6c9b7b610e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 28 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - ADMINISTRATION
 Job ID : 263431](https://jobright.ai/jobs/info/68b0166e13563e782a9f36ef?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Aug 28 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Assistant Director of Internal Audit(State Program Manager)](https://jobright.ai/jobs/info/68b013e4b47fb001d688f734?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Aug 28 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Administrative Assistant](https://jobright.ai/jobs/info/68b00934e723db6c9b7b59e6?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b004d1e723db6c9b7b5688?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Remote | Aug 28 |
+| **[Northern Texas PGA](https://www.ntpga.com)** | **[Tournament Operations Intern - Part Time (Fall 2025)](https://jobright.ai/jobs/info/68b02f97b47fb001d688fee6?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Aug 27 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68aff94cb47fb001d688ebe1?utm_campaign=1050&utm_source=git)** | Pomona, CA | Remote | Aug 27 |
 | **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Intern - Summer 2026](https://jobright.ai/jobs/info/68aff32213563e782a9f28b0?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/68afe970b47fb001d688e670?utm_campaign=1050&utm_source=git)** | Midway, TN | On Site | Aug 27 |
 | **[Susquehanna International Group](http://sig.com)** | **[Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/68afe5a013563e782a9f2433?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Aug 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship - Spring 2026](https://jobright.ai/jobs/info/68afe11913563e782a9f2258?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 27 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1050&utm_source=git)** | Farmington, MI | On Site | Aug 27 |
 | ↳ | **[Management Trainee Internship - Summer 2026](https://jobright.ai/jobs/info/68afdfb9b47fb001d688e1d7?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 27 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68afdfb913563e782a9f205d?utm_campaign=1050&utm_source=git)** | Farmington, MI | On Site | Aug 27 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68afda4d13563e782a9f1c6f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 27 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68afd3e113563e782a9f18f5?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Project Management Intern](https://jobright.ai/jobs/info/68afcd85e723db6c9b7b39c5?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
@@ -155,7 +158,4 @@ Job ID : 263431](https://jobright.ai/jobs/info/68b0166e13563e782a9f36ef?utm_camp
 | ↳ | **[Summer 2026 Traveling Superintendent Internship](https://jobright.ai/jobs/info/68af77a8962903596357cf33?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 27 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Process Improvement](https://jobright.ai/jobs/info/68af73ba962903596357ce09?utm_campaign=1050&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | ↳ | **[Intern - Process Analyst (Policy Processing & Support)](https://jobright.ai/jobs/info/68af73b4962903596357ce04?utm_campaign=1050&utm_source=git)** | Worcester, MA | Hybrid | Aug 27 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst/Project Coordinator Intern](https://jobright.ai/jobs/info/68af83211f0a2a568a06242b?utm_campaign=1050&utm_source=git)** | White Marsh, MD | On Site | Aug 27 |
-| **[UT Southwestern Medical Center](https://utswmed.org)** | **[Senior Administrative Assistant II, Temporary- Office for Access & Title IX](https://jobright.ai/jobs/info/68af72c5962903596357ccd9?utm_campaign=1050&utm_source=git)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Aug 27 |
-| ↳ | **[Senior Administrative Assistant II, Temporary- Office for Access & Title IX](https://jobright.ai/jobs/info/68af71d01f0a2a568a061b7a?utm_campaign=1050&utm_source=git)** | 5323 Harry Hines Blvd5323 Harry Hines Blvd | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

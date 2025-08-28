@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Administrative Assistant](https://jobright.ai/jobs/info/68b00934e723db6c9b7b59e6?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b004d1e723db6c9b7b5688?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Remote | Aug 28 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68aff94cb47fb001d688ebe1?utm_campaign=1050&utm_source=git)** | Pomona, CA | Remote | Aug 27 |
+| **[Grant Thornton (US)](https://www.grantthornton.com)** | **[Strategic Assurance and SOC Services Intern - Summer 2026](https://jobright.ai/jobs/info/68aff32213563e782a9f28b0?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/68afe970b47fb001d688e670?utm_campaign=1050&utm_source=git)** | Midway, TN | On Site | Aug 27 |
 | **[Susquehanna International Group](http://sig.com)** | **[Operations Analyst Program: August 2026 Start](https://jobright.ai/jobs/info/68afe5a013563e782a9f2433?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Aug 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship - Spring 2026](https://jobright.ai/jobs/info/68afe11913563e782a9f2258?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Aug 27 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68afda4d13563e782a9f1c6f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 27 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68afd3e113563e782a9f18f5?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Project Management Intern](https://jobright.ai/jobs/info/68afcd85e723db6c9b7b39c5?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
-| **[Worcester State University](http://www.worcester.edu)** | **[UAI Administrative Assistant (Work Study) 1 Position - Worcester State University](https://jobright.ai/jobs/info/68afccef13563e782a9f123f?utm_campaign=1050&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Ben E. Keith Company](http://www.benekeith.com)** | **[ASPIRE Internship - Fort Worth Division](https://jobright.ai/jobs/info/68afc964b47fb001d688d30e?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Aug 27 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Construction Project Management Internship](https://jobright.ai/jobs/info/68afc823b47fb001d688d18a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68afc7b6e723db6c9b7b3596?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 27 |
@@ -79,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Hudl](http://www.hudl.com)** | **[Workplace Operations Intern](https://jobright.ai/jobs/info/68afc4c4e723db6c9b7b324d?utm_campaign=1050&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Aug 27 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/68afbe7eb47fb001d688cc2b?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central Indiana and Louisville Metro Region,](https://jobright.ai/jobs/info/68afd9a5e723db6c9b7b428c?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Aug 27 |
+| **[Worcester State University](http://www.worcester.edu)** | **[UAI Administrative Assistant (Work Study) 1 Position - Worcester State University](https://jobright.ai/jobs/info/68afccef13563e782a9f123f?utm_campaign=1050&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68afdb2113563e782a9f1db5?utm_campaign=1050&utm_source=git)** | Virginia, MN | On Site | Aug 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68afdc6d13563e782a9f1f7d?utm_campaign=1050&utm_source=git)** | Independence, MO | On Site | Aug 27 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68afdcabb47fb001d688e136?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Aug 27 |
@@ -97,7 +101,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ASPIRE Internship - Albuquerque Division](https://jobright.ai/jobs/info/68afad33f20641371441f6f7?utm_campaign=1050&utm_source=git)** | New Mexico Food, Albuquerque, New Mexico, United States of America | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Office Assistant (Student)](https://jobright.ai/jobs/info/68afa9c81f0a2a568a06328a?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Summer Analyst Program, Early Careers - Corporate & Investment Banking (CIB) Chief Operating Office (COO)](https://jobright.ai/jobs/info/68afa9871f0a2a568a063258?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 27 |
-| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Student Administrative Assistant](https://jobright.ai/jobs/info/68afa90c962903596357e302?utm_campaign=1050&utm_source=git)** | Lawrence, KS | On Site | Aug 27 |
 | **[Smart Rooms Company](http://smartroomscompany.com/)** | **[Hospitality Operations - Internship Program](https://jobright.ai/jobs/info/68afa8202daaba398441f9da?utm_campaign=1050&utm_source=git)** | Miami Beach, Florida, United States | On Site | Aug 27 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Indianapolis 2025 - 2026](https://jobright.ai/jobs/info/68afa8121f0a2a568a063175?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, US | On Site | Aug 27 |
 | **[Walgreens](https://www.walgreens.com)** | **[Clinical Trials Intern](https://jobright.ai/jobs/info/68afa7be962903596357e1c8?utm_campaign=1050&utm_source=git)** | 108 WILMOT RD,DEERFIELD,IL 60015 | On Site | Aug 27 |
@@ -107,7 +110,8 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Administrative Production Assistant – Part-time Job](https://jobright.ai/jobs/info/68a968bb758f2e4ac3ff96ae?utm_campaign=1050&utm_source=git)** | Location, WV | Hybrid | Aug 27 |
 | **[POET](http://www.poet.com)** | **[Logistics Intern - Summer 2026](https://jobright.ai/jobs/info/68af9a342daaba398441f693?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Aug 27 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68af9efe2daaba398441f7bf?utm_campaign=1050&utm_source=git)** | Woodbridge, NJ | On Site | Aug 27 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68af99ff2daaba398441f66f?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Aug 27 |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Student Administrative Assistant](https://jobright.ai/jobs/info/68afa90c962903596357e302?utm_campaign=1050&utm_source=git)** | Lawrence, KS | On Site | Aug 27 |
+| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68af99ff2daaba398441f66f?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Aug 27 |
 | **[HNTB](http://www.hntb.com/)** | **[Returning Intern/Co-op Planner/Program Management - NED Summer 2026 (For current/previous HNTB interns only)](https://jobright.ai/jobs/info/68af99a12daaba398441f626?utm_campaign=1050&utm_source=git)** | Cherry Hill, NJ | On Site | Aug 27 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/68af99222daaba398441f5e0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68af9902962903596357dd4c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BCCI Construction](http://www.bcciconst.com)** | **[Intern](https://jobright.ai/jobs/info/68af6e7f962903596357ca2d?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
 | **[Abbott Construction](https://www.abbottconstruction.com/)** | **[Intern](https://jobright.ai/jobs/info/68af6e72962903596357ca1e?utm_campaign=1050&utm_source=git)** | Stamford, CT, United States | On Site | Aug 27 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68af6e4f2daaba398441e37e?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
-| **[BCCI Construction](http://www.bcciconst.com)** | **[Intern](https://jobright.ai/jobs/info/68af6e27962903596357ca03?utm_campaign=1050&utm_source=git)** | Woodbridge, NJ, United States | On Site | Aug 27 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Risk Operations Strategy & Transformation-Center of Excellence (CoE)](https://jobright.ai/jobs/info/68af6de12daaba398441e341?utm_campaign=1050&utm_source=git)** | Miami | On Site | Aug 27 |
-| **[Abbott Construction](https://www.abbottconstruction.com/)** | **[Intern](https://jobright.ai/jobs/info/68af6dd22daaba398441e335?utm_campaign=1050&utm_source=git)** | Woodbridge, NJ, United States | On Site | Aug 27 |
-| **[BCCI Construction](http://www.bcciconst.com)** | **[Intern](https://jobright.ai/jobs/info/68af6cd71f0a2a568a061897?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

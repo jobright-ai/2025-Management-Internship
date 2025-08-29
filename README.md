@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elanco](https://www.elanco.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68b172c8e45862482170ef01?utm_campaign=1050&utm_source=git)** | Clinton, IN | Hybrid | Aug 29 |
+| **[Weis Builders](http://weisbuilders.com)** | **[Assistant Superintendent Intern (Summer 2026)](https://jobright.ai/jobs/info/68b17288e45862482170eed2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 29 |
 | **[Molex](http://www.molex.com)** | **[Molex Project Management Intern Summer 2026](https://jobright.ai/jobs/info/68b158ece815524ae11fdfce?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Aug 29 |
 | **[O-I](http://www.o-i.com)** | **[Supply Chain Internship (Planning) – Spring 2026](https://jobright.ai/jobs/info/68b152826fab621da7b0c73a?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | On Site | Aug 29 |
 | ↳ | **[Supply Chain Internship (Planning) – Spring 2026](https://jobright.ai/jobs/info/68b1524204557a6c207bc6be?utm_campaign=1050&utm_source=git)** | Michael Owens Way, Perrysburg, OH 43551, USA | On Site | Aug 29 |
@@ -67,10 +69,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain (Procurement) Internship – Spring 2026](https://jobright.ai/jobs/info/68b14b766fab621da7b0c11e?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | Hybrid | Aug 28 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Logistics Optimization Intern](https://jobright.ai/jobs/info/68b146e36fab621da7b0bfe0?utm_campaign=1050&utm_source=git)** | Niskayuna, NY | On Site | Aug 28 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/68b1445a6fab621da7b0bcca?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Saint Albans](https://jobright.ai/jobs/info/68b167d604557a6c207bd572?utm_campaign=1050&utm_source=git)** | St Albans, WV | On Site | Aug 28 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Internship](https://jobright.ai/jobs/info/68b0dae9b47fb001d6895ef6?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b1342304557a6c207bab8b?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Aug 28 |
+| **[Granite Partners](http://Granite.com)** | **[Events & Business Operations Intern](https://jobright.ai/jobs/info/68b16ef41ade4306aa62fe14?utm_campaign=1050&utm_source=git)** | Jamestown, KS | On Site | Aug 28 |
 | **[City of San Fernando](http://ci.san-fernando.ca.us/)** | **[Management Intern- Community Development Department](https://jobright.ai/jobs/info/68b11c5204557a6c207b9ffc?utm_campaign=1050&utm_source=git)** | San Fernando, CA | On Site | Aug 28 |
-| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Corporate "Rotating" Intern](https://jobright.ai/jobs/info/68b11bbf6fab621da7b09fd3?utm_campaign=1050&utm_source=git)** | Jackson, MS | On Site | Aug 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b11b716fab621da7b09f85?utm_campaign=1050&utm_source=git)** | Florence, KY | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b11ae26fab621da7b09f32?utm_campaign=1050&utm_source=git)** | Hammond, IN | On Site | Aug 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b11a8604557a6c207b9eb5?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Aug 28 |
@@ -81,7 +84,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b117746fab621da7b09cda?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Aug 28 |
 | **[Momentum](https://momentum.com/)** | **[Launch Development Program: Corporate Development Analyst](https://jobright.ai/jobs/info/68b110e704557a6c207b9b78?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Strategy Analyst](https://jobright.ai/jobs/info/68b108a8e815524ae11fac21?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b1795ff4e41a61efd7de2a?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Procurement, Birmingham, AL](https://jobright.ai/jobs/info/68b107456fab621da7b0977d?utm_campaign=1050&utm_source=git)** | Hoover, AL | On Site | Aug 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b17912bc187f64e1bd4eb5?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | Aug 28 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Facilities)](https://jobright.ai/jobs/info/68b1049d04557a6c207b963b?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | Aug 28 |
 | **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[2026 Cherokee Nation Entertainment Paid Summer Internship](https://jobright.ai/jobs/info/68b0ff1e04557a6c207b95cd?utm_campaign=1050&utm_source=git)** | Catoosa, OK | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance/Economics](https://jobright.ai/jobs/info/68b0fc326fab621da7b0930b?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Hybrid | Aug 28 |
@@ -109,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Customer Quality Project Manager Summer/Fall Co-op](https://jobright.ai/jobs/info/68b0c8b32d46f6396cae8811?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Aug 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Strategy Analyst](https://jobright.ai/jobs/info/68b0c2cb13563e782a9f9108?utm_campaign=1050&utm_source=git)** | New York | On Site | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68b0c1892d46f6396cae8386?utm_campaign=1050&utm_source=git)** | Mundelein, Illinois | Hybrid | Aug 28 |
-| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b0c1712d46f6396cae836a?utm_campaign=1050&utm_source=git)** | North Charleston, SC | On Site | Aug 28 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Supply Chain/Inventory Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b0c072b47fb001d6895311?utm_campaign=1050&utm_source=git)** | CORP - Northbrook, IL | Hybrid | Aug 28 |
+| ↳ | **[Supply Chain/Inventory Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b0c072b47fb001d6895311?utm_campaign=1050&utm_source=git)** | CORP - Northbrook, IL | Hybrid | Aug 28 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Procurement, Birmingham, AL](https://jobright.ai/jobs/info/68b0bff32d46f6396cae81e1?utm_campaign=1050&utm_source=git)** | Hoover, AL - Riverchase Operations Center (Birmingham, AL) | On Site | Aug 28 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Midwest and Southern Plains (MO-AR-OK-KS)](https://jobright.ai/jobs/info/68b0bd1113563e782a9f8f59?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Aug 28 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Project Coordinator (DoD SkillBridge Internship)](https://jobright.ai/jobs/info/68b0bc6c13563e782a9f8f1f?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68b09d92b47fb001d6893ca7?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Aug 28 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Customer Quality Project Manager Summer/Fall Co-op](https://jobright.ai/jobs/info/68b0c4ea2d46f6396cae85df?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Aug 28 |
 | **[Baker Group](http://thebakergroup.com)** | **[Intern - Industrial](https://jobright.ai/jobs/info/68b09c6413563e782a9f7c56?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Aug 28 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68b09b1513563e782a9f7b9d?utm_campaign=1050&utm_source=git)** | Paducah, KY | On Site | Aug 28 |
-| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b09afa13563e782a9f7b90?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 28 |
-| **[Air Products](http://www.airproducts.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/68b09988b47fb001d6893c35?utm_campaign=1050&utm_source=git)** | Allentown, Pennsylvania | On Site | Aug 28 |
-| **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Project Planning Co-op](https://jobright.ai/jobs/info/68b0993c2d46f6396cae6e68?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

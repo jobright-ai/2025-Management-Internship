@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of San Fernando](http://ci.san-fernando.ca.us/)** | **[Management Intern- Community Development Department](https://jobright.ai/jobs/info/68b11c5204557a6c207b9ffc?utm_campaign=1050&utm_source=git)** | San Fernando, CA | On Site | Aug 28 |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Corporate "Rotating" Intern](https://jobright.ai/jobs/info/68b11bbf6fab621da7b09fd3?utm_campaign=1050&utm_source=git)** | Jackson, MS | On Site | Aug 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b11b716fab621da7b09f85?utm_campaign=1050&utm_source=git)** | Florence, KY | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b11ae26fab621da7b09f32?utm_campaign=1050&utm_source=git)** | Hammond, IN | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b11a8604557a6c207b9eb5?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b118ec6fab621da7b09da4?utm_campaign=1050&utm_source=git)** | Omaha Metropolitan Area | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b118d7e815524ae11fb0ee?utm_campaign=1050&utm_source=git)** | Lake Ozark, MO | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b117ee04557a6c207b9cf2?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b117936fab621da7b09cf0?utm_campaign=1050&utm_source=git)** | Defiance, OH | On Site | Aug 28 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b117746fab621da7b09cda?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Aug 28 |
+| **[Momentum](https://momentum.com/)** | **[Launch Development Program: Corporate Development Analyst](https://jobright.ai/jobs/info/68b110e704557a6c207b9b78?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Aug 28 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Strategy Analyst](https://jobright.ai/jobs/info/68b108a8e815524ae11fac21?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 28 |
+| **[Regions Bank](https://www.regionsinsurance.com/)** | **[2026 ETP Intern - Procurement, Birmingham, AL](https://jobright.ai/jobs/info/68b107456fab621da7b0977d?utm_campaign=1050&utm_source=git)** | Hoover, AL | On Site | Aug 28 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Facilities)](https://jobright.ai/jobs/info/68b1049d04557a6c207b963b?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | Aug 28 |
 | **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[2026 Cherokee Nation Entertainment Paid Summer Internship](https://jobright.ai/jobs/info/68b0ff1e04557a6c207b95cd?utm_campaign=1050&utm_source=git)** | Catoosa, OK | On Site | Aug 28 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance/Economics](https://jobright.ai/jobs/info/68b0fc326fab621da7b0930b?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Hybrid | Aug 28 |
@@ -140,21 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Aug 28 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[IS Communications & OCM Intern](https://jobright.ai/jobs/info/68b09288b47fb001d6893743?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Procurement (Buyer) Intern - Summer 2026](https://jobright.ai/jobs/info/68b092732d46f6396cae69c3?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Aug 28 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Supply Chain Intern, Summer 2026 (Bentonville, AR)](https://jobright.ai/jobs/info/68b09233b47fb001d6893707?utm_campaign=1050&utm_source=git)** | Bentonville, AR | Hybrid | Aug 28 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Insurance Operations Intern - General (2026)](https://jobright.ai/jobs/info/68b0919913563e782a9f766b?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Aug 28 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/68b090b013563e782a9f7562?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Safety Kleen Internship](https://jobright.ai/jobs/info/68b08d0013563e782a9f746a?utm_campaign=1050&utm_source=git)** | 6465 Marindustry Dr, San Diego, CA, 92121, US | On Site | Aug 28 |
-| **[Y-12 National Security Complex](http://www.y12.doe.gov/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68b08a9c13563e782a9f72d2?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Aug 28 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b089362d46f6396cae659c?utm_campaign=1050&utm_source=git)** | Baldwinsville, NY | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b088ed2d46f6396cae656f?utm_campaign=1050&utm_source=git)** | Sylmar, CA | On Site | Aug 28 |
-| ↳ | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b088a52d46f6396cae6545?utm_campaign=1050&utm_source=git)** | Tulsa, Oklahoma | On Site | Aug 28 |
-| ↳ | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b088a02d46f6396cae653f?utm_campaign=1050&utm_source=git)** | Arlington, Washington | On Site | Aug 28 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Master Supply Chain - Intern](https://jobright.ai/jobs/info/68b0887913563e782a9f716e?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Aug 28 |
-| ↳ | **[Master Supply Chain - Intern](https://jobright.ai/jobs/info/68b0886fb47fb001d689327c?utm_campaign=1050&utm_source=git)** | US: Concord NC | On Site | Aug 28 |
-| ↳ | **[Masters Supply Chain - Intern to Full Time](https://jobright.ai/jobs/info/68b0886a2d46f6396cae6532?utm_campaign=1050&utm_source=git)** | US: Research Triangle Park NC | On Site | Aug 28 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b0883fb47fb001d6893256?utm_campaign=1050&utm_source=git)** | Carson, California | On Site | Aug 28 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Masters Supply Chain - Intern to Full Time](https://jobright.ai/jobs/info/68b0883313563e782a9f7122?utm_campaign=1050&utm_source=git)** | US, Kenosha WI | On Site | Aug 28 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b0882413563e782a9f710e?utm_campaign=1050&utm_source=git)** | Cartersville, GA | On Site | Aug 28 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Master Supply Chain - Intern](https://jobright.ai/jobs/info/68b08807b47fb001d6893235?utm_campaign=1050&utm_source=git)** | US, Indianapolis IN | On Site | Aug 28 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087f6b47fb001d689322a?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Aug 28 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Master Supply Chain - Intern](https://jobright.ai/jobs/info/68b087df2d46f6396cae6507?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

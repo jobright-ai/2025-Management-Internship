@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Operations - Thousand Oaks, CA (Summer 2026)](https://jobright.ai/jobs/info/68b0e8ee13563e782a9fa3ad?utm_campaign=1050&utm_source=git)** | US - California - Thousand Oaks | On Site | Aug 28 |
+| **[DV Trading LLC](https://www.dvtrading.co)** | **[2026 Summer Internship - Risk Management](https://jobright.ai/jobs/info/68b0e6bc13563e782a9fa1a4?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Buffalo](https://jobright.ai/jobs/info/68b0e62a2d46f6396cae9485?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Aug 28 |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Student Intern, Supply Chain](https://jobright.ai/jobs/info/68b0e00eb47fb001d689612b?utm_campaign=1050&utm_source=git)** | 6226 W Sahara Ave, Las Vegas, NV, 89146, US | On Site | Aug 28 |
+| **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern](https://jobright.ai/jobs/info/68b0dae9b47fb001d6895ef6?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
+| **[Amazon](https://amazon.com)** | **[Operations & Logistics Internship](https://jobright.ai/jobs/info/68b0d9d413563e782a9f9c4d?utm_campaign=1050&utm_source=git)** | Michigan, United States | Hybrid | Aug 28 |
+| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations - West Greenwich, RI (Summer 2026)](https://jobright.ai/jobs/info/68b0d98c2d46f6396cae906c?utm_campaign=1050&utm_source=git)** | US - Rhode Island - West Greenwich | On Site | Aug 28 |
+| **[Mastercard](http://www.mastercard.com)** | **[Technical Program Intern, Summer 2026 - United States](https://jobright.ai/jobs/info/68b0d96913563e782a9f9c14?utm_campaign=1050&utm_source=git)** | O'Fallon, Missouri | On Site | Aug 28 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Syracuse](https://jobright.ai/jobs/info/68b0d795b47fb001d6895d8a?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Aug 28 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68b0d6b12d46f6396cae8f07?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Aug 28 |
+| **[MAHLE](https://www.mahle.com)** | **[CIP Logistics Intern](https://jobright.ai/jobs/info/68b0d44413563e782a9f9a32?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Aug 28 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Albany](https://jobright.ai/jobs/info/68b0ea3b2d46f6396cae9814?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Aug 28 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[District Director of Student Financial Aid & Services - DIS - req12876](https://jobright.ai/jobs/info/68b0c8f2b47fb001d689568b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Aug 28 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Customer Quality Project Manager Summer/Fall Co-op](https://jobright.ai/jobs/info/68b0c8b32d46f6396cae8811?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Aug 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Strategy Analyst](https://jobright.ai/jobs/info/68b0c2cb13563e782a9f9108?utm_campaign=1050&utm_source=git)** | New York | On Site | Aug 28 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68b0c1892d46f6396cae8386?utm_campaign=1050&utm_source=git)** | Mundelein, Illinois | Hybrid | Aug 28 |
@@ -117,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Aug 28 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[IS Communications & OCM Intern](https://jobright.ai/jobs/info/68b09288b47fb001d6893743?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Procurement (Buyer) Intern - Summer 2026](https://jobright.ai/jobs/info/68b092732d46f6396cae69c3?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Aug 28 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Supply Chain Intern, Summer 2026 (Bentonville, AR)](https://jobright.ai/jobs/info/68b09233b47fb001d6893707?utm_campaign=1050&utm_source=git)** | Bentonville, AR | Hybrid | Aug 28 |
 | **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Insurance Operations Intern - General (2026)](https://jobright.ai/jobs/info/68b0919913563e782a9f766b?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Aug 28 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/68b090b013563e782a9f7562?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Y-12 National Security Complex](http://www.y12.doe.gov/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68b08a9c13563e782a9f72d2?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Aug 28 |
@@ -133,28 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Master Supply Chain - Intern](https://jobright.ai/jobs/info/68b08807b47fb001d6893235?utm_campaign=1050&utm_source=git)** | US, Indianapolis IN | On Site | Aug 28 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087f6b47fb001d689322a?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Aug 28 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Master Supply Chain - Intern](https://jobright.ai/jobs/info/68b087df2d46f6396cae6507?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Aug 28 |
-| ↳ | **[Masters Supply Chain - Intern to Full Time](https://jobright.ai/jobs/info/68b087cb2d46f6396cae64f7?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Aug 28 |
 | ↳ | **[Master Supply Chain - Intern](https://jobright.ai/jobs/info/68b087cb2d46f6396cae64f2?utm_campaign=1050&utm_source=git)** | US: Research Triangle Park NC | On Site | Aug 28 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087cb2d46f6396cae64f5?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087cb2d46f6396cae64f6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 28 |
+| ↳ | **[Masters Supply Chain - Intern to Full Time](https://jobright.ai/jobs/info/68b087cb2d46f6396cae64f7?utm_campaign=1050&utm_source=git)** | US, Lebanon IN | On Site | Aug 28 |
+| **[Anheuser-Busch](https://sternbeverage.com)** | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087cb2d46f6396cae64f6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 28 |
+| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087cb2d46f6396cae64f5?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Aug 28 |
 | ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087beb47fb001d6893208?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Aug 28 |
 | ↳ | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b087b913563e782a9f709a?utm_campaign=1050&utm_source=git)** | Renton, Washington | On Site | Aug 28 |
 | ↳ | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b087b5b47fb001d6893201?utm_campaign=1050&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Aug 28 |
 | ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b087a62d46f6396cae64e1?utm_campaign=1050&utm_source=git)** | St. Louis, Missouri | On Site | Aug 28 |
 | ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b0879d13563e782a9f7072?utm_campaign=1050&utm_source=git)** | Merrimack, NH | On Site | Aug 28 |
 | ↳ | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b08758b47fb001d68931d1?utm_campaign=1050&utm_source=git)** | San Diego, California | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b0874fb47fb001d68931ca?utm_campaign=1050&utm_source=git)** | Saint Louis, MO | On Site | Aug 28 |
-| ↳ | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b0873413563e782a9f7023?utm_campaign=1050&utm_source=git)** | Santa Fe Springs, California | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b0870513563e782a9f6ff3?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b086f813563e782a9f6fdf?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b086d113563e782a9f6fad?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b086c12d46f6396cae648c?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b086bab47fb001d6893173?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b0869113563e782a9f6f65?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b0867613563e782a9f6f49?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b08663b47fb001d6893148?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Aug 28 |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[Masters Supply Chain - Intern to Full Time](https://jobright.ai/jobs/info/68b0862bb47fb001d6893125?utm_campaign=1050&utm_source=git)** | US, Indianapolis IN | On Site | Aug 28 |
-| **[Anheuser-Busch](https://sternbeverage.com)** | **[Commercial Trainee Program Internship (CTPi)](https://jobright.ai/jobs/info/68b0862b2d46f6396cae6456?utm_campaign=1050&utm_source=git)** | Sylmar, California | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b0861d2d46f6396cae6451?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Aug 28 |
-| ↳ | **[Supply Chain Trainee Program Internship (SCTPi)](https://jobright.ai/jobs/info/68b08601b47fb001d6893113?utm_campaign=1050&utm_source=git)** | Carson, CA | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

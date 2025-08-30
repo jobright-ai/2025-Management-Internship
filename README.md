@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b28962f4e41a61efd85f06?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | On Site | Aug 29 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b28636bc187f64e1bdcb60?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
+| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
+| **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Office Assistant - Student Clerical](https://jobright.ai/jobs/info/68b283eef4e41a61efd85756?utm_campaign=1050&utm_source=git)** | West Lafayette, IN | On Site | Aug 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b283031ade4306aa6377b6?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b26840f4e41a61efd83eea?utm_campaign=1050&utm_source=git)** | Blaine, MN | On Site | Aug 29 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68b25d8ef4e41a61efd83a73?utm_campaign=1050&utm_source=git)** | Moorhead, MN | On Site | Aug 29 |
 | **[Santander](https://www.santander.com/)** | **[Santander Universities US Intern](https://jobright.ai/jobs/info/68b25d73f4e41a61efd83a5f?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Aug 29 |
@@ -88,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Regional Distribution Center, Tifton, GA](https://jobright.ai/jobs/info/68b2346ebc187f64e1bd9d25?utm_campaign=1050&utm_source=git)** | Tifton, GA | Hybrid | Aug 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68b23468bc187f64e1bd9d1f?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Aug 29 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - San Francisco, CA (June 2026)](https://jobright.ai/jobs/info/68b233e3bc187f64e1bd9cb1?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
-| **[Vivacity Tech PBC](https://vivacitytech.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68b271ddf4e41a61efd846ee?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Aug 29 |
-| **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - West Palm Beach, FL (June 2026)](https://jobright.ai/jobs/info/68b233cbbc187f64e1bd9ca1?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Aug 29 |
+| ↳ | **[Construction Management Intern - West Palm Beach, FL (June 2026)](https://jobright.ai/jobs/info/68b233cbbc187f64e1bd9ca1?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Aug 29 |
 | ↳ | **[Construction Management Intern - New York (June 2026)](https://jobright.ai/jobs/info/68b23379bc187f64e1bd9c61?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Flow Centers - Hampton, GA](https://jobright.ai/jobs/info/68b23117bc187f64e1bd9b89?utm_campaign=1050&utm_source=git)** | Hampton, GA | Hybrid | Aug 29 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Tampa, FL (June 2026)](https://jobright.ai/jobs/info/68b23114f4e41a61efd82a40?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Aug 29 |
@@ -107,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68b211dc1ade4306aa6342b0?utm_campaign=1050&utm_source=git)** | Newport Beach, CA USA | On Site | Aug 29 |
 | **[Marriott International](https://www.marriott.com/hotels/travel/mkeak-hotel-metro-autograph-collection/)** | **[Leadership Intern-Restaurant Manager Mercat](https://jobright.ai/jobs/info/68b21195f4e41a61efd82036?utm_campaign=1050&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Aug 29 |
 | ↳ | **[F&B Supervisor Intern - Captain's Galley](https://jobright.ai/jobs/info/68b210e5f4e41a61efd81fe1?utm_campaign=1050&utm_source=git)** | L.G. Smith Boulevard # 101, Palm Beach, AW | On Site | Aug 29 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Program Management (Rockwall, TX)](https://jobright.ai/jobs/info/68b20eaebc187f64e1bd90cb?utm_campaign=1050&utm_source=git)** | Rockwall, TX | On Site | Aug 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Operational Excellence (OpEx) Internship - Summer 2026](https://jobright.ai/jobs/info/68b2084cbc187f64e1bd8e73?utm_campaign=1050&utm_source=git)** | FL - Orlando | On Site | Aug 29 |
 | ↳ | **[Operational Excellence (OpEx) Internship - Summer 2026](https://jobright.ai/jobs/info/68b2080ef4e41a61efd81cd2?utm_campaign=1050&utm_source=git)** | CA - La Habra | On Site | Aug 29 |
 | **[Service Wire Company](http://servicewire.com)** | **[IT Intern](https://jobright.ai/jobs/info/68b20590f4e41a61efd81b65?utm_campaign=1050&utm_source=git)** | Culloden, WV | On Site | Aug 29 |
@@ -119,7 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Cleveland](https://jobright.ai/jobs/info/68b1fee3f4e41a61efd81814?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
 | ↳ | **[Intern / Spring 2026 / Cleveland](https://jobright.ai/jobs/info/68b1febdbc187f64e1bd88be?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
 | ↳ | **[Intern / Fall 2026 / Cleveland](https://jobright.ai/jobs/info/68b1fe7ef4e41a61efd817c8?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Distribution Center Operations (DC Ops) Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fb96bc187f64e1bd8663?utm_campaign=1050&utm_source=git)** | IN - Indianapolis | On Site | Aug 29 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Distribution Center Operations (DC Ops) Internship - Summer 2026](https://jobright.ai/jobs/info/68b27b07bc187f64e1bdc223?utm_campaign=1050&utm_source=git)** | Patterson, CA | On Site | Aug 29 |
+| ↳ | **[Distribution Center Operations (DC Ops) Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fb96bc187f64e1bd8663?utm_campaign=1050&utm_source=git)** | IN - Indianapolis | On Site | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Sustainability Strategy Intern](https://jobright.ai/jobs/info/68b1fb95f4e41a61efd81594?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68b1fb49f4e41a61efd8151b?utm_campaign=1050&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Junior IWMS Project Manager - Intern](https://jobright.ai/jobs/info/68b1fac3f4e41a61efd81428?utm_campaign=1050&utm_source=git)** | United, TX | On Site | Aug 29 |
@@ -136,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst/Project Coordinator Intern](https://jobright.ai/jobs/info/68b1eea7bc187f64e1bd7ee3?utm_campaign=1050&utm_source=git)** | Nottingham, MD | On Site | Aug 29 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68b1ebfabc187f64e1bd7cca?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/68b20c351ade4306aa634187?utm_campaign=1050&utm_source=git)** | La Grange, IL | On Site | Aug 29 |
-| **[POET](http://www.poet.com)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/68b1eb75bc187f64e1bd7c59?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Aug 29 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Eastern PA, NJ, Northern DE](https://jobright.ai/jobs/info/68b1eaf4f4e41a61efd80ae8?utm_campaign=1050&utm_source=git)** | Center Valley, PA | On Site | Aug 29 |
 | **[USAA](https://www.usaa.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/68b1e912bc187f64e1bd7c0e?utm_campaign=1050&utm_source=git)** | Charlotte, NC - CENTS | On Site | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68b1e8c2bc187f64e1bd7be7?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Grad Intern – Commercial Leadership & Insights Program (Summer 2026)](https://jobright.ai/jobs/info/68adecf2d627244576e4fe9c?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 29 |
 | ↳ | **[Undergrad Intern - Operations - West Greenwich, RI (Summer 2026)](https://jobright.ai/jobs/info/68b1e526bc187f64e1bd78b0?utm_campaign=1050&utm_source=git)** | West Greenwich, RI | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e3641ade4306aa6329f8?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
-| ↳ | **[Supply Chain Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e1e61ade4306aa6328bf?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Aug 29 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Denver)](https://jobright.ai/jobs/info/68b1dfd71ade4306aa6326d3?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Aug 29 |
-| **[Netsmart](https://www.ntst.com/News-And-Events/pr/OrderConnectCert)** | **[Operations Analyst- Client Experience Intern (Summer 2026)](https://jobright.ai/jobs/info/68b1de42bc187f64e1bd75b6?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Aug 29 |
-| **[Siemens](https://www.siemens.com/)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68b1de22f4e41a61efd80493?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

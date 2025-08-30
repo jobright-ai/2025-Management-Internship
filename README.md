@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Business Strategy - Fall 2025](https://jobright.ai/jobs/info/68b34e75f4e41a61efd88f74?utm_campaign=1050&utm_source=git)** | Devens, MA | On Site | Aug 30 |
-| **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/68b34440f4e41a61efd88e5f?utm_campaign=1050&utm_source=git)** | Bedford, MA | On Site | Aug 30 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68b36631bc187f64e1be0387?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
+| **[&Barr](http://andbarr.co)** | **[New Business Internship](https://jobright.ai/jobs/info/68b35f63f4e41a61efd891ac?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 30 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68b34431f4e41a61efd88e56?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Remote | Aug 30 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/68b33b6cbc187f64e1bdfec9?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Alternatives Business Management Analyst - PIMCO](https://jobright.ai/jobs/info/68b337cc1ade4306aa63aeec?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
@@ -66,8 +66,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/68b33796f4e41a61efd88d08?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Aug 30 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/68b33415bc187f64e1bdfe3b?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Aug 30 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Distribution Strategy Intern](https://jobright.ai/jobs/info/68b333f41ade4306aa63aea3?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 30 |
+| **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/68b326871ade4306aa63aceb?utm_campaign=1050&utm_source=git)** | Bedford, MA | On Site | Aug 30 |
 | **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Operations Improvement Intern](https://jobright.ai/jobs/info/68b324ffbc187f64e1bdfc6d?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | Remote | Aug 30 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Asset Management & Retirement Planning Intern](https://jobright.ai/jobs/info/68b32066bc187f64e1bdfc41?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Aug 30 |
+| **[Year Up United](http://yearup.org)** | **[Project Management Job Training Program](https://jobright.ai/jobs/info/68a3f94b2d2a252445cd4713?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Supply Chain Planner: Internship Opportunities](https://jobright.ai/jobs/info/689ebec9faa4e875e8280d7c?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Sustainability Strategy Intern](https://jobright.ai/jobs/info/68b3010ebc187f64e1bdf91f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 30 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Director TRIO McNair](https://jobright.ai/jobs/info/68954cb673b3a600fe88680d?utm_campaign=1050&utm_source=git)** | Urbana, IL | On Site | Aug 30 |
@@ -108,11 +110,11 @@ For a complete list, click the following sortable link below:
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68b24ce0bc187f64e1bda622?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Aug 29 |
 | **[Vialto Partners](https://vialtopartners.com/)** | **[Managed Services Intern - NYC](https://jobright.ai/jobs/info/68b24c9fbc187f64e1bda5d5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Strategic Initiatives, Office of the CEO](https://jobright.ai/jobs/info/68b24c24f4e41a61efd83340?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Business Strategy - Fall 2025](https://jobright.ai/jobs/info/68b24ab61ade4306aa635530?utm_campaign=1050&utm_source=git)** | Devens, MA | On Site | Aug 29 |
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68b24800bc187f64e1bda41f?utm_campaign=1050&utm_source=git)** | Coopersville, Michigan, United States | On Site | Aug 29 |
 | **[Interfor](http://www.interfor.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68b24188bc187f64e1bda204?utm_campaign=1050&utm_source=git)** | Longview, WA | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Operations Intern](https://jobright.ai/jobs/info/68b2407b1ade4306aa6352c7?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Import Distribution Center,  Savannah, GA](https://jobright.ai/jobs/info/68b23f1df4e41a61efd82f4c?utm_campaign=1050&utm_source=git)** | Port Wentworth, GA | Hybrid | Aug 29 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - Project Manager Intern](https://jobright.ai/jobs/info/68b23cf2bc187f64e1bda051?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Program Management Internship](https://jobright.ai/jobs/info/68b23b881ade4306aa63515e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) -Regional Distribution Center, Midway, GA](https://jobright.ai/jobs/info/68b23b231ade4306aa6350f2?utm_campaign=1050&utm_source=git)** | Midway, GA | Hybrid | Aug 29 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Operations Intern - Year Round](https://jobright.ai/jobs/info/68b23a511ade4306aa635065?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Part-Time Administrative Operation Systems Intern](https://jobright.ai/jobs/info/68b204fef4e41a61efd81af5?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Aug 29 |
 | **[McGough](http://www.mcgough.com)** | **[Internship/Co-Op, Project Management](https://jobright.ai/jobs/info/68b204cc1ade4306aa633dd7?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Aug 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Operations Innovation Internship - Summer 2026](https://jobright.ai/jobs/info/68b203aef4e41a61efd819b3?utm_campaign=1050&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68b202a11ade4306aa633bed?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Aug 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Cleveland](https://jobright.ai/jobs/info/68b1fee3f4e41a61efd81814?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
 | ↳ | **[Intern / Spring 2026 / Cleveland](https://jobright.ai/jobs/info/68b1febdbc187f64e1bd88be?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
 | ↳ | **[Intern / Fall 2026 / Cleveland](https://jobright.ai/jobs/info/68b1fe7ef4e41a61efd817c8?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Distribution Center Operations (DC Ops) Internship - Summer 2026](https://jobright.ai/jobs/info/68b27b07bc187f64e1bdc223?utm_campaign=1050&utm_source=git)** | Patterson, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

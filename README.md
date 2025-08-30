@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b2a67df4e41a61efd8743b?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 30 |
+| ↳ | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68b2a297f4e41a61efd8734a?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 30 |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68b298521ade4306aa638c82?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 29 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Project Management](https://jobright.ai/jobs/info/68b297c5bc187f64e1bddc07?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 29 |
+| **[fairlife, LLC](http://www.fairlife.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68b295e0bc187f64e1bdd8db?utm_campaign=1050&utm_source=git)** | Coopersville, MI | On Site | Aug 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b28962f4e41a61efd85f06?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | On Site | Aug 29 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b28636bc187f64e1bdcb60?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Supply Chain Analyst](https://jobright.ai/jobs/info/68b2a2b91ade4306aa639316?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 29 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Office Assistant - Student Clerical](https://jobright.ai/jobs/info/68b283eef4e41a61efd85756?utm_campaign=1050&utm_source=git)** | West Lafayette, IN | On Site | Aug 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b283031ade4306aa6377b6?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b26840f4e41a61efd83eea?utm_campaign=1050&utm_source=git)** | Blaine, MN | On Site | Aug 29 |
@@ -146,15 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Santander México](http://www.santander.com.mx/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68b1e8c2bc187f64e1bd7be7?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 29 |
 | **[Volaris Group](http://www.volarisgroup.com/)** | **[Junior IWMS Project Manager - Intern](https://jobright.ai/jobs/info/68b1e8021ade4306aa632bd4?utm_campaign=1050&utm_source=git)** | United States - TX | On Site | Aug 29 |
 | **[Armanino](http://www.armaninollp.com/)** | **[Summer 2026 - CFO Advisory Intern (St. Louis)](https://jobright.ai/jobs/info/68b1e7e4bc187f64e1bd7b3b?utm_campaign=1050&utm_source=git)** | St. Louis, Missouri | Hybrid | Aug 29 |
-| **[AssetWorks Inc](https://www.assetworks.com/)** | **[Junior IWMS Project Manager - Intern](https://jobright.ai/jobs/info/68b1e7d21ade4306aa632bac?utm_campaign=1050&utm_source=git)** | United States - TX | On Site | Aug 29 |
+| **[AssetWorks Inc](https://www.assetworks.com/)** | **[Junior IWMS Project Manager - Intern](https://jobright.ai/jobs/info/68b1e7d0f4e41a61efd809e5?utm_campaign=1050&utm_source=git)** | United States - TX | On Site | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Santander Universities US Intern](https://jobright.ai/jobs/info/68b1e7cbf4e41a61efd809e2?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 29 |
 | **[USAA](https://www.usaa.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/68b1e7a1f4e41a61efd809d2?utm_campaign=1050&utm_source=git)** | San Antonio Home Office I | On Site | Aug 29 |
 | **[Amgen](http://www.amgen.com)** | **[Operations Graduate Program - Summer 2026 Internship](https://jobright.ai/jobs/info/68b1e74e1ade4306aa632b1d?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e724f4e41a61efd8097a?utm_campaign=1050&utm_source=git)** | Westlake, OH | Hybrid | Aug 29 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Santander Universities US Intern](https://jobright.ai/jobs/info/68b1e6e11ade4306aa632ae7?utm_campaign=1050&utm_source=git)** | Miami Coconut Grove Corp | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e65abc187f64e1bd7987?utm_campaign=1050&utm_source=git)** | Louisville, KY | Hybrid | Aug 29 |
-| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Operations - Thousand Oaks, CA (Summer 2026)](https://jobright.ai/jobs/info/68b1e5dbbc187f64e1bd792d?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Aug 29 |
-| ↳ | **[Grad Intern – Commercial Leadership & Insights Program (Summer 2026)](https://jobright.ai/jobs/info/68adecf2d627244576e4fe9c?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 29 |
-| ↳ | **[Undergrad Intern - Operations - West Greenwich, RI (Summer 2026)](https://jobright.ai/jobs/info/68b1e526bc187f64e1bd78b0?utm_campaign=1050&utm_source=git)** | West Greenwich, RI | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e3641ade4306aa6329f8?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

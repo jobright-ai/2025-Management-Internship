@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/68b33b6cbc187f64e1bdfec9?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Alternatives Business Management Analyst - PIMCO](https://jobright.ai/jobs/info/68b337cc1ade4306aa63aeec?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Great Lakes Region (Illinois-Iowa)](https://jobright.ai/jobs/info/68b337adf4e41a61efd88d0c?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Aug 30 |
+| ↳ | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/68b33796f4e41a61efd88d08?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Aug 30 |
+| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/68b33415bc187f64e1bdfe3b?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Aug 30 |
+| **[Santander México](http://www.santander.com.mx/)** | **[Distribution Strategy Intern](https://jobright.ai/jobs/info/68b333f41ade4306aa63aea3?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 30 |
+| **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/68b326871ade4306aa63aceb?utm_campaign=1050&utm_source=git)** | Bedford, MA | On Site | Aug 30 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Operations Improvement Intern](https://jobright.ai/jobs/info/68b324ffbc187f64e1bdfc6d?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | Remote | Aug 30 |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Asset Management & Retirement Planning Intern](https://jobright.ai/jobs/info/68b32066bc187f64e1bdfc41?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Sustainability Strategy Intern](https://jobright.ai/jobs/info/68b3010ebc187f64e1bdf91f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 30 |
 | **[University of Illinois Urbana-Champaign](http://www.business.illinois.edu/)** | **[Assistant Director TRIO McNair](https://jobright.ai/jobs/info/68954cb673b3a600fe88680d?utm_campaign=1050&utm_source=git)** | Urbana, IL | On Site | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Santander Universities US Intern](https://jobright.ai/jobs/info/68b2f9ee1ade4306aa63a8fb?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Aug 30 |
@@ -70,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[State of Texas](http://texas.gov)** | **[Administrative Assistant (Part-Time Continuity of Operation Positions - Austin)](https://jobright.ai/jobs/info/68b2cea5bc187f64e1bdf263?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68b2b626f4e41a61efd87c01?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b2a67df4e41a61efd8743b?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 30 |
-| ↳ | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68b2a297f4e41a61efd8734a?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[Pacific University](http://www.pacificu.edu/)** | **[FWS - Administrative Associate - HomePlate Youth Services (CSWS)](https://jobright.ai/jobs/info/68b2f29fbc187f64e1bdf680?utm_campaign=1050&utm_source=git)** | Forest Grove, OR | On Site | Aug 29 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68b298521ade4306aa638c82?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Project Management](https://jobright.ai/jobs/info/68b297c5bc187f64e1bddc07?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Distribution Center Operations (DC Ops) Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fb96bc187f64e1bd8663?utm_campaign=1050&utm_source=git)** | IN - Indianapolis | On Site | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Sustainability Strategy Intern](https://jobright.ai/jobs/info/68b1fb95f4e41a61efd81594?utm_campaign=1050&utm_source=git)** | Boston | On Site | Aug 29 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68b1fb49f4e41a61efd8151b?utm_campaign=1050&utm_source=git)** | Ohio, United States | Remote | Aug 29 |
-| **[Volaris Group](http://www.volarisgroup.com/)** | **[Junior IWMS Project Manager - Intern](https://jobright.ai/jobs/info/68b1fac3f4e41a61efd81428?utm_campaign=1050&utm_source=git)** | United, TX | On Site | Aug 29 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Cleveland](https://jobright.ai/jobs/info/68b1fa97f4e41a61efd813cb?utm_campaign=1050&utm_source=git)** | Cleveland, OH, US | On Site | Aug 29 |
-| ↳ | **[Intern / Spring 2026 / Cleveland](https://jobright.ai/jobs/info/68b1f9961ade4306aa63357b?utm_campaign=1050&utm_source=git)** | Cleveland, OH, US | On Site | Aug 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Distribution Center Operations (DC Ops) Internship - Summer 2026](https://jobright.ai/jobs/info/68b1f948f4e41a61efd812be?utm_campaign=1050&utm_source=git)** | CA - Patterson | On Site | Aug 29 |
-| ↳ | **[Distribution Center Operations (DC Ops) Internship - Summer 2026](https://jobright.ai/jobs/info/68b1f86d1ade4306aa633344?utm_campaign=1050&utm_source=git)** | FL - Vero Beach | On Site | Aug 29 |
-| **[George J. Igel & Co., Inc.](https://www.buildwithigel.com)** | **[Project Intern](https://jobright.ai/jobs/info/68b1f85a1ade4306aa633326?utm_campaign=1050&utm_source=git)** | Columbus, Ohio, United States | On Site | Aug 29 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Fall 2026 / Cleveland](https://jobright.ai/jobs/info/68b1f82cbc187f64e1bd8346?utm_campaign=1050&utm_source=git)** | Cleveland, OH, US | On Site | Aug 29 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/68b1f7d6f4e41a61efd8118b?utm_campaign=1050&utm_source=git)** | La Grange | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conexant](http://www.conexant.com/)** | **[Supply Management Summer Intern 2026a](https://jobright.ai/jobs/info/68b4a2c61ade4306aa63ea0b?utm_campaign=1050&utm_source=git)** | Moline, IL | Hybrid | Aug 31 |
 | **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[St. James Hotel - Banquet Intern](https://jobright.ai/jobs/info/68b47d56f4e41a61efd8c64e?utm_campaign=1050&utm_source=git)** | Red Wing, MN | On Site | Aug 31 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68b465661ade4306aa63e4ec?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 31 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/685cd63334670cd8c040f289?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 31 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/6880c2ac29ad6b2744adb8d8?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 31 |
+| ↳ | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/685cd63334670cd8c040f289?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 31 |
+| **[GALLO](https://www.gallo.com)** | **[Supply Chain Internship 2026](https://jobright.ai/jobs/info/68a37d1b37d3cc6b0d5776d3?utm_campaign=1050&utm_source=git)** | Modesto, CA | Hybrid | Aug 31 |
 | **[John Deere](https://www.deere.com)** | **[Supply Management Summer Intern 2026a](https://jobright.ai/jobs/info/68b44996bc187f64e1be328f?utm_campaign=1050&utm_source=git)** | Moline, IL | Hybrid | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Distribution Strategy Intern](https://jobright.ai/jobs/info/68b43d621ade4306aa63e1be?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 31 |
 | ↳ | **[Risk Management-IT Chief Operating Officer Intern](https://jobright.ai/jobs/info/68b43d381ade4306aa63e1a3?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 31 |
@@ -89,7 +92,6 @@ Job ID : 262956](https://jobright.ai/jobs/info/68b40b11f4e41a61efd8bdb3?utm_camp
 | **[ABB](https://global.abb/group/en)** | **[Administrative Production Assistant – Part-time Job](https://jobright.ai/jobs/info/68a968bb758f2e4ac3ff96ae?utm_campaign=1050&utm_source=git)** | Location, WV | Hybrid | Aug 30 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Supply Chain College Intern](https://jobright.ai/jobs/info/68b38cfe1ade4306aa63b514?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Aug 30 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Mission Manager](https://jobright.ai/jobs/info/688d01e927f9022553c085ff?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 30 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68b36631bc187f64e1be0387?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Somers White Company](https://somerswhite.com/)** | **[Intern - Assistant to the President](https://jobright.ai/jobs/info/68b445761ade4306aa63e284?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 30 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/68b33b6cbc187f64e1bdfec9?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Alternatives Business Management Analyst - PIMCO](https://jobright.ai/jobs/info/68b337cc1ade4306aa63aeec?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
@@ -157,6 +159,4 @@ Job ID : 263355](https://jobright.ai/jobs/info/68b3c120f4e41a61efd89da1?utm_camp
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68b24800bc187f64e1bda41f?utm_campaign=1050&utm_source=git)** | Coopersville, Michigan, United States | On Site | Aug 29 |
 | **[Interfor](http://www.interfor.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68b24188bc187f64e1bda204?utm_campaign=1050&utm_source=git)** | Longview, WA | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Operations Intern](https://jobright.ai/jobs/info/68b2407b1ade4306aa6352c7?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Project Management (Rockwall, TX)](https://jobright.ai/jobs/info/68b20eaebc187f64e1bd90cb?utm_campaign=1050&utm_source=git)** | Rockwall, TX | On Site | Aug 29 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Import Distribution Center,  Savannah, GA](https://jobright.ai/jobs/info/68b23f1df4e41a61efd82f4c?utm_campaign=1050&utm_source=git)** | Port Wentworth, GA | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

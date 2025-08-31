@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/68b465661ade4306aa63e4ec?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Aug 31 |
 | **[John Deere](https://www.deere.com)** | **[Supply Management Summer Intern 2026a](https://jobright.ai/jobs/info/68b44996bc187f64e1be328f?utm_campaign=1050&utm_source=git)** | Moline, IL | Hybrid | Aug 31 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Distribution Strategy Intern](https://jobright.ai/jobs/info/68b43d621ade4306aa63e1be?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 31 |
 | ↳ | **[Risk Management-IT Chief Operating Officer Intern](https://jobright.ai/jobs/info/68b43d381ade4306aa63e1a3?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Aug 31 |
@@ -87,8 +88,7 @@ Job ID : 262956](https://jobright.ai/jobs/info/68b40b11f4e41a61efd8bdb3?utm_camp
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Supply Chain College Intern](https://jobright.ai/jobs/info/68b38cfe1ade4306aa63b514?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Aug 30 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Mission Manager](https://jobright.ai/jobs/info/688d01e927f9022553c085ff?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68b36631bc187f64e1be0387?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
-| **[&Barr](http://andbarr.co)** | **[New Business Internship](https://jobright.ai/jobs/info/68b35f63f4e41a61efd891ac?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Aug 30 |
-| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Business Strategy - Fall 2025](https://jobright.ai/jobs/info/68b34e75f4e41a61efd88f74?utm_campaign=1050&utm_source=git)** | Devens, MA | On Site | Aug 30 |
+| **[Somers White Company](https://somerswhite.com/)** | **[Intern - Assistant to the President](https://jobright.ai/jobs/info/68b445761ade4306aa63e284?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 30 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/68b33b6cbc187f64e1bdfec9?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Alternatives Business Management Analyst - PIMCO](https://jobright.ai/jobs/info/68b337cc1ade4306aa63aeec?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Great Lakes Region (Illinois-Iowa)](https://jobright.ai/jobs/info/68b337adf4e41a61efd88d0c?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Aug 30 |
@@ -109,6 +109,7 @@ Job ID : 262956](https://jobright.ai/jobs/info/68b40b11f4e41a61efd8bdb3?utm_camp
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897a04d8c6d6b442678f043?utm_campaign=1050&utm_source=git)** | Fernley, NV | On Site | Aug 30 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Assistant Project Management Intern](https://jobright.ai/jobs/info/67be8fef395b38c1944f0f0e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Operations Intern - Undergraduate](https://jobright.ai/jobs/info/6897c6308c6d6b4426791f9b?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Aug 30 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co Op 25-26](https://jobright.ai/jobs/info/68982fb8faa4e875e824b3ae?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Aug 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern  Commercial Leadership & Insights Program (Summer 2026)](https://jobright.ai/jobs/info/68b2ed4df4e41a61efd883d9?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Aug 30 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Operations Intern - Graduate](https://jobright.ai/jobs/info/68985b0ffaa4e875e824f04c?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Aug 30 |
 | **[Risepoint](http://www.risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68b283d0f4e41a61efd85717?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 30 |
@@ -150,13 +151,12 @@ Job ID : 263355](https://jobright.ai/jobs/info/68b3c120f4e41a61efd89da1?utm_camp
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68b24ce0bc187f64e1bda622?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Aug 29 |
 | **[Vialto Partners](https://vialtopartners.com/)** | **[Managed Services Intern - NYC](https://jobright.ai/jobs/info/68b24c9fbc187f64e1bda5d5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Strategic Initiatives, Office of the CEO](https://jobright.ai/jobs/info/68b24c24f4e41a61efd83340?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
+| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Business Strategy - Fall 2025](https://jobright.ai/jobs/info/68b24ab61ade4306aa635530?utm_campaign=1050&utm_source=git)** | Devens, MA | On Site | Aug 29 |
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68b24800bc187f64e1bda41f?utm_campaign=1050&utm_source=git)** | Coopersville, Michigan, United States | On Site | Aug 29 |
 | **[Interfor](http://www.interfor.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68b24188bc187f64e1bda204?utm_campaign=1050&utm_source=git)** | Longview, WA | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Operations Intern](https://jobright.ai/jobs/info/68b2407b1ade4306aa6352c7?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Associate, Project Management (Rockwall, TX)](https://jobright.ai/jobs/info/68b20eaebc187f64e1bd90cb?utm_campaign=1050&utm_source=git)** | Rockwall, TX | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Import Distribution Center,  Savannah, GA](https://jobright.ai/jobs/info/68b23f1df4e41a61efd82f4c?utm_campaign=1050&utm_source=git)** | Port Wentworth, GA | Hybrid | Aug 29 |
+| **[Transcard](http://www.transcard.com)** | **[2026 - Project Manager Intern](https://jobright.ai/jobs/info/68b23cf2bc187f64e1bda051?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Program Management Internship](https://jobright.ai/jobs/info/68b23b881ade4306aa63515e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Aug 29 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) -Regional Distribution Center, Midway, GA](https://jobright.ai/jobs/info/68b23b231ade4306aa6350f2?utm_campaign=1050&utm_source=git)** | Midway, GA | Hybrid | Aug 29 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Operations Intern - Year Round](https://jobright.ai/jobs/info/68b23a511ade4306aa635065?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Aug 29 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Sortation Centers - Atlanta, GA](https://jobright.ai/jobs/info/68b23a28f4e41a61efd82d44?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

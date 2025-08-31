@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68b41fb51ade4306aa63df93?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Aug 31 |
 | **[Pacific University](http://www.pacificu.edu/)** | **[FWS- Office Assistant - Office of Provost and VP for Academic Affairs 25-26](https://jobright.ai/jobs/info/68b417de1ade4306aa63df44?utm_campaign=1050&utm_source=git)** | Forest Grove, OR | On Site | Aug 31 |
 | **[State of Illinois](https://www2.illinois.gov/)** | **[ADMINISTRATIVE ASSISTANT II](https://jobright.ai/jobs/info/68b417ba1ade4306aa63df3f?utm_campaign=1050&utm_source=git)** | Springfield, IL | Hybrid | Aug 31 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68b417301ade4306aa63df2d?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Aug 31 |
@@ -109,6 +110,7 @@ Job ID : 262956](https://jobright.ai/jobs/info/68b40b11f4e41a61efd8bdb3?utm_camp
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Operations Intern - Graduate](https://jobright.ai/jobs/info/68985b0ffaa4e875e824f04c?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Aug 30 |
 | **[Risepoint](http://www.risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68b283d0f4e41a61efd85717?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 30 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Intern - Business Operations](https://jobright.ai/jobs/info/68984cb883d13d1f5b68d769?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 30 |
+| **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Co-op/Intern: Global Logistics/Transportation (Summer 2026)](https://jobright.ai/jobs/info/687b24812097a271a89828cf?utm_campaign=1050&utm_source=git)** | Murrysville, PA | Hybrid | Aug 30 |
 | **[State of Texas](http://texas.gov)** | **[Administrative Assistant (Part-Time Continuity of Operation Positions - Austin)](https://jobright.ai/jobs/info/68b2cea5bc187f64e1bdf263?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Aug 30 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68b2b626f4e41a61efd87c01?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Aug 30 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Strategic Force Generation and Capability Planning Cell Special Projects Intern
@@ -125,11 +127,9 @@ Job ID : 263355](https://jobright.ai/jobs/info/68b3c120f4e41a61efd89da1?utm_camp
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/68aa14c0d627244576e3c3b1?utm_campaign=1050&utm_source=git)** | Palm Beach Gardens, FL | On Site | Aug 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Supply Chain Initiatives](https://jobright.ai/jobs/info/68ad4255d627244576e4c6ec?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 29 |
 | **[Siemens](https://www.siemens.com/)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68b3e350f4e41a61efd8af59?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Aug 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b28636bc187f64e1bdcb60?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
-| ↳ | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b285d9bc187f64e1bdcafd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Supply Chain Analyst](https://jobright.ai/jobs/info/68b2a2b91ade4306aa639316?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Aug 29 |
 | **[Botany and Plant Pathology Department at Purdue University](https://ag.purdue.edu/btny/Pages/default.aspx)** | **[Student Office Assistant - Student Clerical](https://jobright.ai/jobs/info/68b283eef4e41a61efd85756?utm_campaign=1050&utm_source=git)** | West Lafayette, IN | On Site | Aug 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68b283031ade4306aa6377b6?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Aug 29 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Food Distribution Center - Upper Marlboro, MD](https://jobright.ai/jobs/info/68b3d67cf4e41a61efd8ab2c?utm_campaign=1050&utm_source=git)** | Upper Marlboro, MD | Hybrid | Aug 29 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – U.S. Value & Access / Contracting, Analytics, Pricing, and Execution](https://jobright.ai/jobs/info/68b3d3a1bc187f64e1be1b0c?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 29 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Project Management Intern](https://jobright.ai/jobs/info/68b3d254f4e41a61efd8a857?utm_campaign=1050&utm_source=git)** | Hermitage, PA | On Site | Aug 29 |

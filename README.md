@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b4f1d61ade4306aa63ee5c?utm_campaign=1050&utm_source=git)** | 1101 E. Third Street, Siler City, NC, 27344, US | On Site | Aug 31 |
+| ↳ | **[Processing Operations Intern](https://jobright.ai/jobs/info/68b4f19e1ade4306aa63ee54?utm_campaign=1050&utm_source=git)** | 1101 E. Third Street, Siler City, NC, 27344, US | On Site | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Supply Chain Intern (NJUS)](https://jobright.ai/jobs/info/68b4ba59f4e41a61efd8ca10?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Corporate Real Estate Intern (NJUS)](https://jobright.ai/jobs/info/68b4b507bc187f64e1be3afa?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Procurement Intern (NJUS)](https://jobright.ai/jobs/info/68b4b3a81ade4306aa63eb0b?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
@@ -99,6 +101,7 @@ Job ID : 262956](https://jobright.ai/jobs/info/68b40b11f4e41a61efd8bdb3?utm_camp
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2026 - Supply Chain College Intern](https://jobright.ai/jobs/info/68b38cfe1ade4306aa63b514?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Aug 30 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Mission Manager](https://jobright.ai/jobs/info/688d01e927f9022553c085ff?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Somers White Company](https://somerswhite.com/)** | **[Intern - Assistant to the President](https://jobright.ai/jobs/info/68b445761ade4306aa63e284?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Aug 30 |
+| **[Commonwealth Fusion Systems](https://www.cfs.energy)** | **[Intern - Business Strategy - Fall 2025](https://jobright.ai/jobs/info/68b34e75f4e41a61efd88f74?utm_campaign=1050&utm_source=git)** | Devens, MA | On Site | Aug 30 |
 | **[ORION](https://www.oriongroupholdingsinc.com/)** | **[Estimating Intern](https://jobright.ai/jobs/info/68b33b6cbc187f64e1bdfec9?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Alternatives Business Management Analyst - PIMCO](https://jobright.ai/jobs/info/68b337cc1ade4306aa63aeec?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Aug 30 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Great Lakes Region (Illinois-Iowa)](https://jobright.ai/jobs/info/68b337adf4e41a61efd88d0c?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Aug 30 |
@@ -156,7 +159,4 @@ Job ID : 263355](https://jobright.ai/jobs/info/68b3c120f4e41a61efd89da1?utm_camp
 | **[MONO](https://www.mono-1.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68b24e15bc187f64e1bda75f?utm_campaign=1050&utm_source=git)** | US-MN-Minneapolis | Hybrid | Aug 29 |
 | **[Santander México](http://www.santander.com.mx/)** | **[Risk Management-IT Chief Operating Officer Intern](https://jobright.ai/jobs/info/68b24d521ade4306aa635661?utm_campaign=1050&utm_source=git)** | 1 Enterprise Drive-Quincy-Corp | On Site | Aug 29 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsCo-Chief Analytics Officer](https://jobright.ai/jobs/info/68b24d1af4e41a61efd833f8?utm_campaign=1050&utm_source=git)** | United States | Remote | Aug 29 |
-| **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68b24ce0bc187f64e1bda622?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Aug 29 |
-| **[Vialto Partners](https://vialtopartners.com/)** | **[Managed Services Intern - NYC](https://jobright.ai/jobs/info/68b24c9fbc187f64e1bda5d5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Strategic Initiatives, Office of the CEO](https://jobright.ai/jobs/info/68b24c24f4e41a61efd83340?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

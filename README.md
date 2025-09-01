@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Buckner International](https://www.buckner.org/)** | **[Internship](https://jobright.ai/jobs/info/68b5f960f4e41a61efd91a30?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Sep 01 |
+| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68b5eee01ade4306aa643931?utm_campaign=1050&utm_source=git)** | 414 N. Peters Road, Knoxville, TN | On Site | Sep 01 |
+| ↳ | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68b5eec1bc187f64e1be88cf?utm_campaign=1050&utm_source=git)** | 5508 Lonas Drive, Knoxville, TN | On Site | Sep 01 |
+| **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Inventory Planning Internship Program - Summer 2026](https://jobright.ai/jobs/info/68b5ed1abc187f64e1be889f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Sep 01 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ecf0bc187f64e1be888e?utm_campaign=1050&utm_source=git)** | Boston, MA, United States | On Site | Sep 01 |
+| ↳ | **[(2027 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ec581ade4306aa6438b1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| ↳ | **[(2027 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68b5ebc71ade4306aa64386b?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 01 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68b5e8dfbc187f64e1be87a3?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Sep 01 |
+| **[GLS IT Services GmbH](https://gls-group.eu/DE/de/home)** | **[Ausbildung Kauffrau / Kaufmann für Büromanagement (w/m/d) - 2026](https://jobright.ai/jobs/info/68b5e153bc187f64e1be86dc?utm_campaign=1050&utm_source=git)** | Elkhart County, IN | On Site | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance/Economics](https://jobright.ai/jobs/info/68b5e05bf4e41a61efd916af?utm_campaign=1050&utm_source=git)** | Rosemead, CA | On Site | Sep 01 |
+| ↳ | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b5ddcf1ade4306aa6436db?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
+| ↳ | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b5dd8dbc187f64e1be8665?utm_campaign=1050&utm_source=git)** | Pomona, CA | Remote | Sep 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[MBA Intern - Commercial Leadership Program (Summer 2026)](https://jobright.ai/jobs/info/68b5d8caf4e41a61efd915ce?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 01 |
 | ↳ | **[2026 Operations Intern](https://jobright.ai/jobs/info/68b5d64c1ade4306aa643629?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Sep 01 |
 | **[Bentley Systems](http://www.bentley.com)** | **[Operations Intern - Hawaii](https://jobright.ai/jobs/info/68b5d105f4e41a61efd91487?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 01 |
@@ -67,10 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/68b5bdbdf4e41a61efd91190?utm_campaign=1050&utm_source=git)** | US - Ohio - New Albany | On Site | Sep 01 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b5bdab1ade4306aa6432f4?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance/Economics](https://jobright.ai/jobs/info/68b5ae4af4e41a61efd90bfa?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b5a20cf4e41a61efd90a13?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
-| ↳ | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b5a0251ade4306aa6429a0?utm_campaign=1050&utm_source=git)** | Pomona, CA | Remote | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/68b59a0ebc187f64e1be7681?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta, US-Texas-Fort Worth, US-Kansas-Wichita, US-Michigan-Troy, US-Maryland-Hunt Valley, US-Louisiana-New Orleans | On Site | Sep 01 |
-| ↳ | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/68b599e5bc187f64e1be7655?utm_campaign=1050&utm_source=git)** | US-Rhode Island-Providence | On Site | Sep 01 |
+| ↳ | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/68b599acf4e41a61efd9074b?utm_campaign=1050&utm_source=git)** | US-Rhode Island-Providence | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Supply Chain - California](https://jobright.ai/jobs/info/68b59948f4e41a61efd906ce?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Supply Chain - Michigan](https://jobright.ai/jobs/info/68b596c7bc187f64e1be75b5?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Sep 01 |
 | **[ABB](https://global.abb/group/en)** | **[Junior Project Assistant](https://jobright.ai/jobs/info/68b59620bc187f64e1be74d8?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 01 |
@@ -121,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Commercial Operations Intern](https://jobright.ai/jobs/info/68b53f8f1ade4306aa640cbf?utm_campaign=1050&utm_source=git)** | Denver, CO, 80205 | Hybrid | Aug 31 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Procurement Year-Round Intern](https://jobright.ai/jobs/info/68b53ec0f4e41a61efd8ebba?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Aug 31 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Operations Intern](https://jobright.ai/jobs/info/68b53eb7bc187f64e1be5c96?utm_campaign=1050&utm_source=git)** | Boulder, CO, 80301 | On Site | Aug 31 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Live Operations Swine Summer 2026 Intern](https://jobright.ai/jobs/info/68b53c361ade4306aa640c16?utm_campaign=1050&utm_source=git)** | OK Pork - Holdenville, Oklahoma | On Site | Aug 31 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Live Operations Swine Summer 2026 Intern](https://jobright.ai/jobs/info/68b53c10f4e41a61efd8ebb1?utm_campaign=1050&utm_source=git)** | OK Pork - Holdenville, Oklahoma | On Site | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Operations Continuous Improvement - Independence, KS](https://jobright.ai/jobs/info/68b55a101ade4306aa641876?utm_campaign=1050&utm_source=git)** | Independence, KS | On Site | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Controls Internship - Summer 2026](https://jobright.ai/jobs/info/68b536e81ade4306aa640ba2?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Aug 31 |
 | **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Fulfillment Intern- Graniteville, SC](https://jobright.ai/jobs/info/68b53666f4e41a61efd8eadd?utm_campaign=1050&utm_source=git)** | Graniteville, SC | On Site | Aug 31 |
@@ -132,12 +142,12 @@ For a complete list, click the following sortable link below:
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b52de4bc187f64e1be5a67?utm_campaign=1050&utm_source=git)** | Delaware, United States | On Site | Aug 31 |
 | **[Bayer](https://www.bayer.com)** | **[Procurement Masters Intern](https://jobright.ai/jobs/info/68b52a9ef4e41a61efd8e9bb?utm_campaign=1050&utm_source=git)** | Whippany, NJ | On Site | Aug 31 |
 | ↳ | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/68b52a77f4e41a61efd8e994?utm_campaign=1050&utm_source=git)** | Manchester, PA | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Logistics Intern](https://jobright.ai/jobs/info/68b527e8f4e41a61efd8e914?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b527271ade4306aa64076e?utm_campaign=1050&utm_source=git)** | Roxboro, NC | Hybrid | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Logistics Intern](https://jobright.ai/jobs/info/68b527161ade4306aa640734?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b5270cbc187f64e1be56f1?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Aug 31 |
 | ↳ | **[Project Controls Internship - Summer 2026](https://jobright.ai/jobs/info/68b526d5bc187f64e1be562d?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
-| ↳ | **[Project Controls Internship - Summer 2026](https://jobright.ai/jobs/info/68b526b01ade4306aa6405e0?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Logistics Intern](https://jobright.ai/jobs/info/68b526ce1ade4306aa640633?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Controls Internship - Summer 2026](https://jobright.ai/jobs/info/68b526b01ade4306aa6405e0?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b526a4f4e41a61efd8e6fb?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Fulfillment Intern- Graniteville, SC](https://jobright.ai/jobs/info/68b5264b1ade4306aa640585?utm_campaign=1050&utm_source=git)** | US-South Carolina-Graniteville | On Site | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 Internship: Strategic Logistics (Troy, MI)](https://jobright.ai/jobs/info/68b52503f4e41a61efd8e535?utm_campaign=1050&utm_source=git)** | US-Michigan-Troy | On Site | Aug 31 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68b5247bf4e41a61efd8e50a?utm_campaign=1050&utm_source=git)** | USA - NJ - Camden | On Site | Aug 31 |
 | **[Sysco](http://sysco.com)** | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b5237cbc187f64e1be5558?utm_campaign=1050&utm_source=git)** | Sysco Chicago | On Site | Aug 31 |
 | ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b521bef4e41a61efd8e4bb?utm_campaign=1050&utm_source=git)** | Sysco Knoxville | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b5219af4e41a61efd8e4b2?utm_campaign=1050&utm_source=git)** | Sysco Charlotte | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b52170f4e41a61efd8e4ad?utm_campaign=1050&utm_source=git)** | Sysco Central California  -  Headquarters | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b52119f4e41a61efd8e49a?utm_campaign=1050&utm_source=git)** | Sysco West Coast Florida | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b520cfbc187f64e1be5528?utm_campaign=1050&utm_source=git)** | Sysco Boston | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b520b61ade4306aa64052a?utm_campaign=1050&utm_source=git)** | Sysco Cincinnati | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b520b11ade4306aa640529?utm_campaign=1050&utm_source=git)** | Sysco Pittsburgh -  Home Office | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b520841ade4306aa640520?utm_campaign=1050&utm_source=git)** | Sysco Columbia | On Site | Aug 31 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Supply Chain - Michigan](https://jobright.ai/jobs/info/68b52070bc187f64e1be5518?utm_campaign=1050&utm_source=git)** | Kalamazoo, Michigan | On Site | Aug 31 |
-| **[Sysco](http://sysco.com)** | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b5205dbc187f64e1be5515?utm_campaign=1050&utm_source=git)** | Sysco San Francisco | On Site | Aug 31 |
-| ↳ | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68b5204e1ade4306aa640510?utm_campaign=1050&utm_source=git)** | Sysco Central Florida- Fort Lauderdale | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

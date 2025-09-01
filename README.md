@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b5a20cf4e41a61efd90a13?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/68b5bdbdf4e41a61efd91190?utm_campaign=1050&utm_source=git)** | US - Ohio - New Albany | On Site | Sep 01 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68b5bdab1ade4306aa6432f4?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration - Accounting/Finance/Economics](https://jobright.ai/jobs/info/68b5ae4af4e41a61efd90bfa?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b5a20cf4e41a61efd90a13?utm_campaign=1050&utm_source=git)** | Rosemead, CA | Remote | Sep 01 |
 | ↳ | **[2026 Summer Internship - Business Administration/Economics](https://jobright.ai/jobs/info/68b5a0251ade4306aa6429a0?utm_campaign=1050&utm_source=git)** | Pomona, CA | Remote | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/68b599e5bc187f64e1be7655?utm_campaign=1050&utm_source=git)** | US-Rhode Island-Providence | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/68b599acf4e41a61efd9074b?utm_campaign=1050&utm_source=git)** | US-Rhode Island-Providence | On Site | Sep 01 |
 | ↳ | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/68b5994b1ade4306aa6427ca?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta, US-Texas-Fort Worth, US-Kansas-Wichita, US-Michigan-Troy, US-Maryland-Hunt Valley, US-Louisiana-New Orleans | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Supply Chain - California](https://jobright.ai/jobs/info/68b59948f4e41a61efd906ce?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Supply Chain - Michigan](https://jobright.ai/jobs/info/68b596c7bc187f64e1be75b5?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Sep 01 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Supply Chain - California](https://jobright.ai/jobs/info/68b55064f4e41a61efd8f5e4?utm_campaign=1050&utm_source=git)** | San Jose, California | On Site | Sep 01 |
 | ↳ | **[Project Associate](https://jobright.ai/jobs/info/68b550591ade4306aa641666?utm_campaign=1050&utm_source=git)** | Redmond, Washington | On Site | Sep 01 |
 | **[MFA Incorporated](http://mfa-inc.com)** | **[Ag Experience Internship - Logistics](https://jobright.ai/jobs/info/68b54fe6f4e41a61efd8f5b7?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Sep 01 |
-| **[GZTV](www.gztvnetwork.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68b54f3c1ade4306aa6415fc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Sep 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b54eafbc187f64e1be65a7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Supply Chain - Amarillo, TX](https://jobright.ai/jobs/info/68b54bc5f4e41a61efd8f2d8?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Sep 01 |
 | ↳ | **[2026 Fulfillment Intern- Graniteville, SC](https://jobright.ai/jobs/info/68b54b1cf4e41a61efd8f18b?utm_campaign=1050&utm_source=git)** | Graniteville, SC | On Site | Sep 01 |
@@ -123,12 +125,12 @@ For a complete list, click the following sortable link below:
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b52de4bc187f64e1be5a67?utm_campaign=1050&utm_source=git)** | Delaware, United States | On Site | Aug 31 |
 | **[Bayer](https://www.bayer.com)** | **[Procurement Masters Intern](https://jobright.ai/jobs/info/68b52a9ef4e41a61efd8e9bb?utm_campaign=1050&utm_source=git)** | Whippany, NJ | On Site | Aug 31 |
 | ↳ | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/68b52a77f4e41a61efd8e994?utm_campaign=1050&utm_source=git)** | Manchester, PA | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Logistics Intern](https://jobright.ai/jobs/info/68b527e8f4e41a61efd8e914?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b527271ade4306aa64076e?utm_campaign=1050&utm_source=git)** | Roxboro, NC | Hybrid | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Logistics Intern](https://jobright.ai/jobs/info/68b527161ade4306aa640734?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68b5270cbc187f64e1be56f1?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Aug 31 |
 | ↳ | **[Project Controls Internship - Summer 2026](https://jobright.ai/jobs/info/68b526d5bc187f64e1be562d?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
-| ↳ | **[Project Controls Internship - Summer 2026](https://jobright.ai/jobs/info/68b526b01ade4306aa6405e0?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Logistics Intern](https://jobright.ai/jobs/info/68b526ce1ade4306aa640633?utm_campaign=1050&utm_source=git)** | US-Georgia-Augusta | On Site | Aug 31 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Controls Internship - Summer 2026](https://jobright.ai/jobs/info/68b526b01ade4306aa6405e0?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | Hybrid | Aug 31 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b526a4f4e41a61efd8e6fb?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Aug 31 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Fulfillment Intern- Graniteville, SC](https://jobright.ai/jobs/info/68b5264b1ade4306aa640585?utm_campaign=1050&utm_source=git)** | US-South Carolina-Graniteville | On Site | Aug 31 |
 | **[Textron](http://textron.com)** | **[2026 Internship: Strategic Logistics (Troy, MI)](https://jobright.ai/jobs/info/68b52503f4e41a61efd8e535?utm_campaign=1050&utm_source=git)** | US-Michigan-Troy | On Site | Aug 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern (NJUS)](https://jobright.ai/jobs/info/68b4b3a81ade4306aa63eb0b?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | ↳ | **[Scheduling Intern (NJUS)](https://jobright.ai/jobs/info/68b4b3a01ade4306aa63eb09?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Intrinsic Development](https://www.id.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/68b4a96f1ade4306aa63ea85?utm_campaign=1050&utm_source=git)** | Summit, MO | On Site | Aug 31 |
-| **[Conexant](http://www.conexant.com/)** | **[Supply Management Summer Intern 2026a](https://jobright.ai/jobs/info/68b4a2c61ade4306aa63ea0b?utm_campaign=1050&utm_source=git)** | Moline, IL | Hybrid | Aug 31 |
-| **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[St. James Hotel - Banquet Intern](https://jobright.ai/jobs/info/68b47d56f4e41a61efd8c64e?utm_campaign=1050&utm_source=git)** | Red Wing, MN | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

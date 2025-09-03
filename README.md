@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f4ce5e55be5e2604f8b8?utm_campaign=1050&utm_source=git)** | East Hampton, NY | On Site | Sep 03 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f60e5e55be5e2604f96c?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Sep 03 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f5840514b74d7c3ebf34?utm_campaign=1050&utm_source=git)** | Bethesda, MD | On Site | Sep 03 |
+| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f4ce5e55be5e2604f8b8?utm_campaign=1050&utm_source=git)** | East Hampton, NY | On Site | Sep 03 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f48a5e55be5e2604f88d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 03 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f41e5e55be5e2604f856?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Sep 03 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7ef86a10b650604b622fb?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | On Site | Sep 03 |
@@ -83,6 +85,8 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Southern California 2025 - 2026](https://jobright.ai/jobs/info/68b7de775e55be5e2604ed4e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 02 |
 | **[Year Up United](http://yearup.org)** | **[Business Operations Career Training Program](https://jobright.ai/jobs/info/689725bf8c6d6b4426785baa?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Sep 02 |
 | **[Donaldson](http://donaldson.com)** | **[Operations Development Specialist](https://jobright.ai/jobs/info/68b7db48a10b650604b618df?utm_campaign=1050&utm_source=git)** | Nicholasville, KY | On Site | Sep 02 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Transportation Internship Program - San Diego, CA - 2025 - 2026](https://jobright.ai/jobs/info/68b7fb6da10b650604b625cd?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Sep 02 |
+| **[Donaldson](http://donaldson.com)** | **[Operations Development Specialist](https://jobright.ai/jobs/info/68b7f6255e55be5e2604f97d?utm_campaign=1050&utm_source=git)** | Dixon, IL | On Site | Sep 02 |
 | **[UPS](http://www.ups.com)** | **[UPS Digital Summer 2026 Internship](https://jobright.ai/jobs/info/68b7ccf90514b74d7c3ea879?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/68b7cccc0514b74d7c3ea82a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Sep 02 |
 | **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - North New Jersey (Starting Summer 2026)](https://jobright.ai/jobs/info/68b7ccc85e55be5e2604e195?utm_campaign=1050&utm_source=git)** | Kearny, NJ | Hybrid | Sep 02 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - F&I Operations - Midwest (Summer 2026)](https://jobright.ai/jobs/info/68b796852124650c14024219?utm_campaign=1050&utm_source=git)** | Indiana, United States | Hybrid | Sep 02 |
 | **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Intern](https://jobright.ai/jobs/info/68b7956c2124650c14023fff?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Sep 02 |
 | **[Comerica Bank](https://www.comerica.com/)** | **[Trust Internship Wilmington, DE](https://jobright.ai/jobs/info/68b7b735872d1074a98b2bae?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Sep 02 |
+| **[Milhaus](http://milhaus.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/68b793a31ade4306aa64c268?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 02 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Finance and Field Operations Intern](https://jobright.ai/jobs/info/68b792c2f4e41a61efd99fc0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 02 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Strategy](https://jobright.ai/jobs/info/68b7926b1ade4306aa64c099?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Sep 02 |
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68b79224f4e41a61efd99edb?utm_campaign=1050&utm_source=git)** | Diamond Bar, CA | On Site | Sep 02 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Office Assistant - Study Abroad](https://jobright.ai/jobs/info/68b7921cf4e41a61efd99ed1?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Sep 02 |
-| **[Milhaus](http://milhaus.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/68b791e01ade4306aa64bfeb?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 02 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Supply Chain Operations - Corporate Internship](https://jobright.ai/jobs/info/68b776211ade4306aa64b23b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Sep 02 |
 | **[The Hartford](https://www.hartfordlife.com)** | **[Intern, Finance Leadership Development Program](https://jobright.ai/jobs/info/68b78702f4e41a61efd99b15?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Sep 02 |
 | **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Dallas / Asset Management, Client Solutions / Summer Analyst](https://jobright.ai/jobs/info/68b79c5e2124650c1402457d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 02 |
-| **[American University](http://american.edu)** | **[Student Advisory Board Chair (Student)](https://jobright.ai/jobs/info/68b783f22124650c14023601?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 02 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Enterprise Sourcing Intern](https://jobright.ai/jobs/info/68b781a62124650c140233aa?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68b7bf9fa10b650604b600ca?utm_campaign=1050&utm_source=git)** | North Kingstown, RI | On Site | Sep 02 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/68b7c13ba10b650604b60516?utm_campaign=1050&utm_source=git)** | Waterbury, CT | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

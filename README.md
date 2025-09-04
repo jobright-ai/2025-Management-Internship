@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com/)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68b9979f6105227d11895fff?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 04 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Strategy & Corporate Development](https://jobright.ai/jobs/info/68b98f406105227d11895b1e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
+| **[Vandor Corp](https://www.vandorcorp.com)** | **[Internship](https://jobright.ai/jobs/info/68b98f095f3832749185eb80?utm_campaign=1050&utm_source=git)** | Richmond, IN | On Site | Sep 04 |
+| **[Santander Consumer USA](https://santanderconsumerusa.com/)** | **[Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/68b98d718043103d4f218316?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
+| **[Republic Airways](http://www.rjet.com)** | **[Strategic Operations Intern - Spring 2026](https://jobright.ai/jobs/info/689cdc0efaa4e875e826b167?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 04 |
+| **[Siemens](https://www.siemens.com/)** | **[Project Management Internship- Rail Traction Components (Summer 2026)](https://jobright.ai/jobs/info/68a0296e83d13d1f5b6cec21?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Sep 04 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Data Analytics Consumer Care](https://jobright.ai/jobs/info/68b984778043103d4f217e37?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Sep 04 |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/68b97f956105227d118951e2?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Sep 04 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-Op - Data Analytics Consumer Care](https://jobright.ai/jobs/info/68b97ef06105227d1189515a?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Sep 04 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[PHARMACY/PHARMCST-GRAD INTERN](https://jobright.ai/jobs/info/68b98da68043103d4f218371?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68b960125f3832749185d784?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 04 |
+| ↳ | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68b97fff6105227d11895252?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 04 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Property-Assistant](https://jobright.ai/jobs/info/68b97c785f3832749185e316?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Sep 04 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b94a8eea901c0d269fe6a5?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Sep 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Programme Management intern: Supporting organisational culture through innovation, diversity and inclusion
@@ -147,15 +158,4 @@ Job ID : 263493](https://jobright.ai/jobs/info/68b96fa28043103d4f21763f?utm_camp
 | ↳ | **[Corporate Internship Program - Summer 2026](https://jobright.ai/jobs/info/68b8cfc45b42bc4562827f56?utm_campaign=1050&utm_source=git)** | Atlanta_30360 | Hybrid | Sep 03 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Supply Chain](https://jobright.ai/jobs/info/68b8cfbf07090163b6ba521a?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Sep 03 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Field/Operations Internship Program - Summer 2026](https://jobright.ai/jobs/info/68b8cf7407090163b6ba51c3?utm_campaign=1050&utm_source=git)** | Nashville | On Site | Sep 03 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction, Aviation & Federal (Brea)](https://jobright.ai/jobs/info/68b8cf5c5b42bc4562827ed6?utm_campaign=1050&utm_source=git)** | Brea, CA | On Site | Sep 03 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68b8cf52ea901c0d269f9a56?utm_campaign=1050&utm_source=git)** | Lancaster, SC | On Site | Sep 03 |
-| **[White Cap Canada](whitecapsupply.com)** | **[Field/Operations Internship Program - Summer 2026](https://jobright.ai/jobs/info/68b8cf155b42bc4562827e75?utm_campaign=1050&utm_source=git)** | Atlanta_30360 | On Site | Sep 03 |
-| **[KELLER](http://www.keller.co.uk)** | **[Intern](https://jobright.ai/jobs/info/68b8cf145b42bc4562827e73?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 03 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Supply Chain Analytics](https://jobright.ai/jobs/info/68b8cdf807090163b6ba5062?utm_campaign=1050&utm_source=git)** | Holtsville, NY | On Site | Sep 03 |
-| **[West Star Aviation, LLC](http://www.weststaraviation.com)** | **[Intern, Administrative Generalist](https://jobright.ai/jobs/info/68b8cd9e07090163b6ba500c?utm_campaign=1050&utm_source=git)** | Perryville, MO | On Site | Sep 03 |
-| **[KELLER](http://www.keller.co.uk)** | **[Intern](https://jobright.ai/jobs/info/68b8cd935b42bc4562827cd2?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Sep 03 |
-| **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - SECURITY](https://jobright.ai/jobs/info/68b8f28f07090163b6ba65d1?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Sep 03 |
-| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/68b8c97a5b42bc4562827bcc?utm_campaign=1050&utm_source=git)** | New York | On Site | Sep 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Office Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68b8c929ea901c0d269f9765?utm_campaign=1050&utm_source=git)** | Allen Park, MI | On Site | Sep 03 |
-| ↳ | **[Returning Office Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68b8c87c5b42bc4562827afb?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

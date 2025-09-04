@@ -58,8 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68b960125f3832749185d784?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 04 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Property-Assistant](https://jobright.ai/jobs/info/68b97c785f3832749185e316?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Sep 04 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b94a8eea901c0d269fe6a5?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Sep 04 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b942b207090163b6ba9844?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Programme Management intern: Supporting organisational culture through innovation, diversity and inclusion
+Job ID : 263493](https://jobright.ai/jobs/info/68b96fa28043103d4f21763f?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Sep 04 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b942b207090163b6ba9844?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Operations Internship / Cheyenne, WY](https://jobright.ai/jobs/info/68b941c6ea901c0d269fe16f?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | Hybrid | Sep 04 |
 | ↳ | **[Distribution Operations Internship / Memphis, TN](https://jobright.ai/jobs/info/68b940fbea901c0d269fe034?utm_campaign=1050&utm_source=git)** | Memphis, TN | Hybrid | Sep 04 |
 | **[White Cap](https://www.whitecap.com/)** | **[Field/Operations Internship Program - Summer 2026](https://jobright.ai/jobs/info/68b9407aea901c0d269fdf65?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 04 |
@@ -153,8 +156,6 @@ For a complete list, click the following sortable link below:
 | **[KELLER](http://www.keller.co.uk)** | **[Intern](https://jobright.ai/jobs/info/68b8cd935b42bc4562827cd2?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Sep 03 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[ADMINISTRATIVE INTERN (NON-CAREER) - SECURITY](https://jobright.ai/jobs/info/68b8f28f07090163b6ba65d1?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Sep 03 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/68b8c97a5b42bc4562827bcc?utm_campaign=1050&utm_source=git)** | New York | On Site | Sep 03 |
-| **[HNTB](http://www.hntb.com/)** | **[Returning Office Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68b8c8b0ea901c0d269f96e0?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Office Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68b8c929ea901c0d269f9765?utm_campaign=1050&utm_source=git)** | Allen Park, MI | On Site | Sep 03 |
 | ↳ | **[Returning Office Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68b8c87c5b42bc4562827afb?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | Sep 03 |
-| ↳ | **[Returning Office Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68b8c8455b42bc4562827abd?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 03 |
-| ↳ | **[Returning Office Intern- Summer 2026- Great Lakes Division- For Current/Former HNTB Interns Only](https://jobright.ai/jobs/info/68b8c75f5b42bc45628279b9?utm_campaign=1050&utm_source=git)** | East Lansing, MI | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

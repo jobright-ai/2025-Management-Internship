@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Midland, TX and Odessa, TX](https://jobright.ai/jobs/info/68bbc0456105227d118a964c?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Sep 05 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/68bbbf796105227d118a94ac?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Sep 05 |
+| **[Baltimore Gas and Electric](https://www.bge.com)** | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bbbddc8043103d4f22c145?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Sep 05 |
+| **[Houston Astros](https://astros.mlb.com/)** | **[Stadium Operations Intern - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbba736105227d118a92df?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
 | **[The Donohoe Companies, Inc.](http://donohoe.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68bba0e85f38327491870e96?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Sep 05 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[IT Project Management Intern  - Summer 2026](https://jobright.ai/jobs/info/68bba0676105227d118a7b56?utm_campaign=1050&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 | **[Integrity](https://www.integritymarketing.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/68bba0556105227d118a7b42?utm_campaign=1050&utm_source=git)** | Hot Springs, AR | On Site | Sep 05 |
@@ -143,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Technical Program Manager Internship – 2026 (US)](https://jobright.ai/jobs/info/68bb77e36105227d118a62c4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Sep 05 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Project Management (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb77616105227d118a620b?utm_campaign=1050&utm_source=git)** | Windsor Mill, MD | Hybrid | Sep 05 |
 | ↳ | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb76748043103d4f228d64?utm_campaign=1050&utm_source=git)** | Windsor Mill, MD | Hybrid | Sep 05 |
-| ↳ | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bb74df8043103d4f228bdd?utm_campaign=1050&utm_source=git)** | Windsor Mill, MD | Hybrid | Sep 05 |
 | ↳ | **[2026 Summer Internship - Project Management (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb749f8043103d4f228b92?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Project Management Office - Intern](https://jobright.ai/jobs/info/68bb74598043103d4f228b26?utm_campaign=1050&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Sep 05 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb72f26105227d118a610b?utm_campaign=1050&utm_source=git)** | Penns Grove, NJ | Hybrid | Sep 05 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68bb729b5f3832749186f3a3?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 05 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb72166105227d118a6062?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | ↳ | **[2026 Summer Internship - Project Management (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb71836105227d118a5ff6?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 05 |
-| ↳ | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb70cb5f3832749186f25a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
-| **[Mariner](http://www.marinerwealthadvisors.com/)** | **[Intern, Practice Management](https://jobright.ai/jobs/info/68bb70c36105227d118a5f61?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 05 |
-| **[Seattle University](https://www.seattleu.edu/)** | **[Project Manager 2 - Workday Student](https://jobright.ai/jobs/info/68bb6f558043103d4f22893b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Sep 05 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Project Administrator (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/68bb6f008043103d4f228900?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Sep 05 |
-| **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68bb6ec38043103d4f2288e0?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Sep 05 |
-| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68bb6e498043103d4f228896?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 05 |
+| ↳ | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bb71045f3832749186f287?utm_campaign=1050&utm_source=git)** | Windsor Mill, MD | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

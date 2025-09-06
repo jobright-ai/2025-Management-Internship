@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Asset Management & Retirement Planning Intern](https://jobright.ai/jobs/info/68bc3b8c3bf9eb44f8323899?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Sep 06 |
+| **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/68bc3b5e68300c452ca151a8?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Sep 06 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68a2951283d13d1f5b6d667d?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 06 |
+| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/68bc2dab6105227d118ac167?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 06 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Advisory Intern - Summer/Winter 2026](https://jobright.ai/jobs/info/68bc235e8043103d4f22e6c7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68bc16166105227d118abd94?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Sep 06 |
 | ↳ | **[Management Trainee Intern - Santa Fe, NM.](https://jobright.ai/jobs/info/68bc15596105227d118abd34?utm_campaign=1050&utm_source=git)** | Santa Fe, NM | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68bc15418043103d4f22e4da?utm_campaign=1050&utm_source=git)** | Medford, MA | On Site | Sep 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bb7aef8043103d4f228ef0?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Sep 05 |
 | **[Sargento](http://www.sargento.com)** | **[Supply Chain Planning and Logistics Intern](https://jobright.ai/jobs/info/68bb7aa38043103d4f228ea8?utm_campaign=1050&utm_source=git)** | Plymouth, WI | Hybrid | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb7a778043103d4f228e86?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Marketing Project Manager)](https://jobright.ai/jobs/info/68bb7a238043103d4f228e32?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Strategic Planning Intern](https://jobright.ai/jobs/info/68bb79f68043103d4f228e14?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Lending Strategy and Innovation)](https://jobright.ai/jobs/info/68bb79d35f3832749186f78e?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68bb79b46105227d118a64a1?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb798f8043103d4f228dbf?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](toddagriscience.com/careers)** | **[2025 Winter Internship](https://jobright.ai/jobs/info/68bc90333bf9eb44f83243eb?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Sep 06 |
+| **[Keller Brothers and Keller Construction Management](https://www.kellerbrothers.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68bc819e68300c452ca15bd1?utm_campaign=1050&utm_source=git)** | Mount Airy, Maryland, United States | On Site | Sep 06 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Operational Excellence](https://jobright.ai/jobs/info/68bc802468300c452ca15b39?utm_campaign=1050&utm_source=git)** | Swiftwater, PA | On Site | Sep 06 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68bc7b92ae79610dacddbb44?utm_campaign=1050&utm_source=git)** | Inver Grove Heights, MN | On Site | Sep 06 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Haines City Warehouse](https://jobright.ai/jobs/info/68bc74013bf9eb44f83240e7?utm_campaign=1050&utm_source=git)** | Haines City, FL | On Site | Sep 06 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Global Asset Management Intern](https://jobright.ai/jobs/info/68bc733068300c452ca159f1?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Sep 06 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68bc677aae79610dacddb90b?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d6f83d13d1f5b6cce8a?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Sep 06 |
@@ -79,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68a2951283d13d1f5b6d667d?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 06 |
 | **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/68bc2dab6105227d118ac167?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 06 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Advisory Intern - Summer/Winter 2026](https://jobright.ai/jobs/info/68bc235e8043103d4f22e6c7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
+| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Hitachi - Advanced Nuclear Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/689f35cc83d13d1f5b6c4bd5?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68bc16166105227d118abd94?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Sep 06 |
 | ↳ | **[Management Trainee Intern - Santa Fe, NM.](https://jobright.ai/jobs/info/68bc15596105227d118abd34?utm_campaign=1050&utm_source=git)** | Santa Fe, NM | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68bc15418043103d4f22e4da?utm_campaign=1050&utm_source=git)** | Medford, MA | On Site | Sep 06 |
@@ -100,10 +106,10 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0fa5f3832749187340b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0b95f383274918733ae?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcff85f383274918732bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbce336105227d118aa107?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68bbcca65f38327491873235?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Businss Planning Analyst](https://jobright.ai/jobs/info/68bbcc976105227d118a9ead?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbcc385f383274918731c0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Sep 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[New Product Project Management Intern](https://jobright.ai/jobs/info/68bb81956105227d118a681f?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Ohio Region 2025 - 2026](https://jobright.ai/jobs/info/68bb815e8043103d4f229198?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
 | **[Sargento](http://www.sargento.com)** | **[Supply Chain Sourcing and Procurement Intern](https://jobright.ai/jobs/info/68bb81386105227d118a67d1?utm_campaign=1050&utm_source=git)** | Plymouth, WI | Hybrid | Sep 05 |
-| **[Force Factor](https://forcefactor.com/)** | **[Summer 2026 Supply Chain Intern](https://jobright.ai/jobs/info/68bb80fb6105227d118a6796?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 05 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Anchorage, AK 2025 - 2026](https://jobright.ai/jobs/info/68bb80db6105227d118a6779?utm_campaign=1050&utm_source=git)** | Joint Base Elmendorf Richardson, AK | On Site | Sep 05 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68bb806e8043103d4f2290b0?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Sep 05 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Global Logistics Intern](https://jobright.ai/jobs/info/68bb80325f3832749186fa13?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Chicago Region 2025 - 2026](https://jobright.ai/jobs/info/68bb80245f3832749186fa05?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
-| **[SPX Technologies](http://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/68bb7fe35f3832749186f9d1?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

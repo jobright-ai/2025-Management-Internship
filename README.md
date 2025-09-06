@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bc00ed6105227d118ab6e8?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 06 |
+| ↳ | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bbfa616105227d118ab5a2?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 06 |
+| ↳ | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bbfa618043103d4f22dd34?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 06 |
+| ↳ | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bbfa255f3832749187478b?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 06 |
+| ↳ | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bbfa0b5f38327491874782?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Sep 06 |
+| **[Leadership In Flight Training Academy](www.flywithlift.com)** | **[Corporate Culture and Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68bbf0948043103d4f22db52?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
+| **[Matrix Design Group LLC](http://matrixteam.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bbf0046105227d118ab3c2?utm_campaign=1050&utm_source=git)** | Newburgh, IN | On Site | Sep 06 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68bbe52e6105227d118aaf07?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 06 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68bbe1cc8043103d4f22d70d?utm_campaign=1050&utm_source=git)** | Hamel, MN | On Site | Sep 06 |
 | **[ABB](https://global.abb/group/en)** | **[Junior Project Trainee](https://jobright.ai/jobs/info/68bbdfd08043103d4f22d2f3?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 06 |
@@ -65,15 +72,17 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0fa5f3832749187340b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0b95f383274918733ae?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcff85f383274918732bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbce336105227d118aa107?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68bbcca65f38327491873235?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Businss Planning Analyst](https://jobright.ai/jobs/info/68bbcc976105227d118a9ead?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbcc385f383274918731c0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Midland, TX and Odessa, TX](https://jobright.ai/jobs/info/68bbc0456105227d118a964c?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Sep 05 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/68bbbf796105227d118a94ac?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Sep 05 |
 | **[Baltimore Gas and Electric](https://www.bge.com)** | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bbbddc8043103d4f22c145?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbf09e6105227d118ab40a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Stadium Operations Intern - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbba736105227d118a92df?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
 | **[The Donohoe Companies, Inc.](http://donohoe.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68bba0e85f38327491870e96?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Sep 05 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[IT Project Management Intern  - Summer 2026](https://jobright.ai/jobs/info/68bba0676105227d118a7b56?utm_campaign=1050&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb79888043103d4f228db7?utm_campaign=1050&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb797b8043103d4f228dac?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Strategic Sourcing Analyst)](https://jobright.ai/jobs/info/68bb79638043103d4f228d92?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Project Management (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb794d5f3832749186f70e?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb78f15f3832749186f6a0?utm_campaign=1050&utm_source=git)** | Newark, DE | Hybrid | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68bb78b16105227d118a6390?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb78ab5f3832749186f65c?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb78a25f3832749186f64f?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68bb78885f3832749186f63f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
-| **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68bb78626105227d118a6344?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Sep 05 |
-| **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68bb78445f3832749186f5ec?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

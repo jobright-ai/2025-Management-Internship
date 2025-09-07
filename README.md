@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](toddagriscience.com/careers)** | **[2025 Winter Internship](https://jobright.ai/jobs/info/68bdff39e57feb02eb0ac8fc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Sep 07 |
+| **[American Electric Power](http://aep.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68bdfc87df5eec448f63d970?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
+| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/68bdec3be57feb02eb0ac776?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 07 |
+| **[Grandbridge Real Estate Capital](https://www.grandbridge.com/)** | **[2026 Grandbridge Real Estate - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/68bdea88c4c5904ff60044fe?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/68bddfb9c4c5904ff600445b?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Sep 07 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Strategy Student Experience](https://jobright.ai/jobs/info/68bdd737df5eec448f63d6a1?utm_campaign=1050&utm_source=git)** | West Fargo, ND | On Site | Sep 07 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Strategy and Data Analytics Intern (with AI Focus)](https://jobright.ai/jobs/info/68bdd110c4c5904ff60042f9?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
 | **[Stellar](http://stellarindustries.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68bdc1d8c4c5904ff60041ee?utm_campaign=1050&utm_source=git)** | Garner, IA | On Site | Sep 07 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Strategy and Data Analytics Intern (with AI Focus)](https://jobright.ai/jobs/info/68bdbfc5c4c5904ff60041e6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bdb91be57feb02eb0ac3d1?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Remote | Sep 07 |
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Project Management Internship](https://jobright.ai/jobs/info/68bdb463c4c5904ff60040c9?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Restore NYC](http://restorenyc.org)** | **[Operations Intern](https://jobright.ai/jobs/info/68bdae47df5eec448f63d335?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 07 |
 | **[Balance Now](https://www.balance.ca)** | **[Project Manager (Unpaid)](https://jobright.ai/jobs/info/68bda340e57feb02eb0ac243?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
@@ -137,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0fa5f3832749187340b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0b95f383274918733ae?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcff85f383274918732bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbce336105227d118aa107?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68bbcca65f38327491873235?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Businss Planning Analyst](https://jobright.ai/jobs/info/68bbcc976105227d118a9ead?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbcc385f383274918731c0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Sep 05 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Houston Astros](https://astros.mlb.com/)** | **[Stadium Operations Intern - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbba736105227d118a92df?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
 | **[Atlas Foundation Company](https://www.atlasfoundation.com)** | **[Intern/Assistant Project Manager, Earthwork/Deep Foundation ( {{city}})](https://jobright.ai/jobs/info/68bd11c768300c452ca17f64?utm_campaign=1050&utm_source=git)** | Osseo, MN | On Site | Sep 05 |
 | **[Taza Construction LLC](https://www.tilesinstyle.com)** | **[Construction Project Management Intern ( {{city}})](https://jobright.ai/jobs/info/68bd12b2ae79610dacdddfb8?utm_campaign=1050&utm_source=git)** | South Holland, IL | On Site | Sep 05 |
-| **[Granite Partners](http://Granite.com)** | **[Events & Business Operations Intern ( {{city}})](https://jobright.ai/jobs/info/68bd037f3bf9eb44f8325e90?utm_campaign=1050&utm_source=git)** | Kissimmee, FL | On Site | Sep 05 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Flight Operations – Business Strategy (Spring 2026)](https://jobright.ai/jobs/info/6865a407db6d75b5ce700856?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 05 |
 | **[The Donohoe Companies, Inc.](http://donohoe.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68bba0e85f38327491870e96?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Sep 05 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[IT Project Management Intern  - Summer 2026](https://jobright.ai/jobs/info/68bba0676105227d118a7b56?utm_campaign=1050&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager - Outpatient/Behavioral Health Interdisciplinary Program (BHIP)](https://jobright.ai/jobs/info/68bba0135f38327491870d6a?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Sep 05 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68bba0115f38327491870d64?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

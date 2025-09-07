@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](toddagriscience.com/careers)** | **[2025 Winter Internship](https://jobright.ai/jobs/info/68bcb6afae79610dacddc0e1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Sep 06 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68bcabe33bf9eb44f8324688?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
 | **[Total Mechanical](http://www.total-mechanical.com/)** | **[Assistant Project Management Intern](https://jobright.ai/jobs/info/68bc9cb23bf9eb44f8324534?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Sep 06 |
 | **[Keller Brothers and Keller Construction Management](https://www.kellerbrothers.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68bc819e68300c452ca15bd1?utm_campaign=1050&utm_source=git)** | Mount Airy, Maryland, United States | On Site | Sep 06 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Operational Excellence](https://jobright.ai/jobs/info/68bc802468300c452ca15b39?utm_campaign=1050&utm_source=git)** | Swiftwater, PA | On Site | Sep 06 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68bc7b92ae79610dacddbb44?utm_campaign=1050&utm_source=git)** | Inver Grove Heights, MN | On Site | Sep 06 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Haines City Warehouse](https://jobright.ai/jobs/info/68bc74013bf9eb44f83240e7?utm_campaign=1050&utm_source=git)** | Haines City, FL | On Site | Sep 06 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68bc677aae79610dacddb90b?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d6f83d13d1f5b6cce8a?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Sep 06 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe393cc9ee94dc911a78c?utm_campaign=1050&utm_source=git)** | Carson City, NV | On Site | Sep 06 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3decc9ee94dc911a7f8?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
+| ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c22cc9ee94dc911bb04?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d1ffaa4e875e828cfe3?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Sep 06 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0bbfaa4e875e828bc5e?utm_campaign=1050&utm_source=git)** | Sumner, WA | On Site | Sep 06 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3dbfaa4e875e828bd51?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 06 |
@@ -82,7 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/68bc4083ae79610dacddb339?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Sep 06 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Asset Management & Retirement Planning Intern](https://jobright.ai/jobs/info/68bc3b8c3bf9eb44f8323899?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Sep 06 |
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/68bc3b5e68300c452ca151a8?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Sep 06 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68a2951283d13d1f5b6d667d?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 06 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/68a3effe2d2a252445cd43b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
+| ↳ | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68a2951283d13d1f5b6d667d?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 06 |
 | **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/68bc2dab6105227d118ac167?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 06 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Advisory Intern - Summer/Winter 2026](https://jobright.ai/jobs/info/68bc235e8043103d4f22e6c7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Hitachi - Advanced Nuclear Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/689f35cc83d13d1f5b6c4bd5?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Sep 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Supply Chain Analytics Intern](https://jobright.ai/jobs/info/68bb855c6105227d118a6917?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Sep 05 |
 | ↳ | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/68bb85435f3832749186fc30?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Sep 05 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Co-op Program - Pittsburgh, PA - Spring 2026](https://jobright.ai/jobs/info/68bb85235f3832749186fc11?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Sep 05 |
-| **[Shure Incorporated](http://www.shure.com)** | **[New Product Project Management Intern](https://jobright.ai/jobs/info/68bb81956105227d118a681f?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Sep 05 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Ohio Region 2025 - 2026](https://jobright.ai/jobs/info/68bb815e8043103d4f229198?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

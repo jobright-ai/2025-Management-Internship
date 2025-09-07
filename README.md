@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/68bd8403e57feb02eb0abd88?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Sep 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68bd769fc4c5904ff6003900?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bd610fc4c5904ff60036e0?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 07 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Site Admin (IT) Intern](https://jobright.ai/jobs/info/68ba3f928043103d4f21ef5a?utm_campaign=1050&utm_source=git)** | Huntsville, AR | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68af5e501f0a2a568a060fc4?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
@@ -100,13 +102,13 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Operations Extern](https://jobright.ai/jobs/info/689f7954b3e889632cf07587?utm_campaign=1050&utm_source=git)** | Mettawa, IL | On Site | Sep 06 |
 | **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/68bc2dab6105227d118ac167?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 06 |
 | **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Graduate Assistant_Branch ED AY 25_26](https://jobright.ai/jobs/info/68bce341ae79610dacddc4c0?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Sep 06 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Advisory Intern - Summer/Winter 2026](https://jobright.ai/jobs/info/68bc235e8043103d4f22e6c7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Hitachi - Advanced Nuclear Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/689f35cc83d13d1f5b6c4bd5?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Sep 06 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/689f76d7faa4e875e828873e?utm_campaign=1050&utm_source=git)** | West Chester, OH | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68bc16166105227d118abd94?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Sep 06 |
 | ↳ | **[Management Trainee Intern - Santa Fe, NM.](https://jobright.ai/jobs/info/68bc15596105227d118abd34?utm_campaign=1050&utm_source=git)** | Santa Fe, NM | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68bc15418043103d4f22e4da?utm_campaign=1050&utm_source=git)** | Medford, MA | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/68bc14238043103d4f22e465?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
+| **[Woolpert](http://www.woolpert.com)** | **[DoD SkillBridge Internship - Engineer Project Manager, Aviation and Airfield Design](https://jobright.ai/jobs/info/689e3ed283d13d1f5b6b8be6?utm_campaign=1050&utm_source=git)** | Texas, United States | Hybrid | Sep 06 |
 | **[Core & Main](https://coreandmain.com/)** | **[Intern - Corporate](https://jobright.ai/jobs/info/689f894983d13d1f5b6c938e?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc69ccc9ee94dc9119b54?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bbfa255f3832749187478b?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GALLO](https://www.gallo.com)** | **[Supply Chain Internship 2026](https://jobright.ai/jobs/info/68a37d1b37d3cc6b0d5776d3?utm_campaign=1050&utm_source=git)** | Modesto, CA | Hybrid | Sep 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Planning Intern](https://jobright.ai/jobs/info/68bb929b6105227d118a72a9?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Sep 05 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb922f6105227d118a724f?utm_campaign=1050&utm_source=git)** | Spring House, PA | Hybrid | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Project Management Office - Intern](https://jobright.ai/jobs/info/68bb8df88043103d4f229a47?utm_campaign=1050&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/68bb8d6e6105227d118a7092?utm_campaign=1050&utm_source=git)** | Hillsboro, Oregon, USA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

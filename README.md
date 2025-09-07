@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Site Admin (IT) Intern](https://jobright.ai/jobs/info/68ba3f928043103d4f21ef5a?utm_campaign=1050&utm_source=git)** | Huntsville, AR | On Site | Sep 07 |
+| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68af5e501f0a2a568a060fc4?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
 | **[TEACH Together Educating All Children In Hospitals](https://www.teach4kids.org/)** | **[Expansion Intern](https://jobright.ai/jobs/info/68bce9e468300c452ca164e5?utm_campaign=1050&utm_source=git)** | Staten Island, NY | On Site | Sep 06 |
 | **[VolunteerMatch, Powered by Idealist](http://www.volunteermatch.org)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68bce841ae79610dacddc62c?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 06 |
 | **[Job Carr Cabin Museum](https://www.jobcarrmuseum.org/)** | **[Internship: Project-based Opportunity at Job Carr Cabin Museum](https://jobright.ai/jobs/info/68bce809ae79610dacddc60b?utm_campaign=1050&utm_source=git)** | Tacoma, WA | Hybrid | Sep 06 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Santa Fe, NM.](https://jobright.ai/jobs/info/68bc15596105227d118abd34?utm_campaign=1050&utm_source=git)** | Santa Fe, NM | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68bc15418043103d4f22e4da?utm_campaign=1050&utm_source=git)** | Medford, MA | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/68bc14238043103d4f22e465?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
+| **[Core & Main](https://coreandmain.com/)** | **[Intern - Corporate](https://jobright.ai/jobs/info/689f894983d13d1f5b6c938e?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc69ccc9ee94dc9119b54?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bbfa255f3832749187478b?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 06 |
 | **[Leadership In Flight Training Academy](www.flywithlift.com)** | **[Corporate Culture and Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68bbf0948043103d4f22db52?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
@@ -118,10 +121,10 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0fa5f3832749187340b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0b95f383274918733ae?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcff85f383274918732bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbce336105227d118aa107?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68bbcca65f38327491873235?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Businss Planning Analyst](https://jobright.ai/jobs/info/68bbcc976105227d118a9ead?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbcc385f383274918731c0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Sep 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Project Management Office - Intern](https://jobright.ai/jobs/info/68bb8df88043103d4f229a47?utm_campaign=1050&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/68bb8d6e6105227d118a7092?utm_campaign=1050&utm_source=git)** | Hillsboro, Oregon, USA | On Site | Sep 05 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68bb8d548043103d4f2299af?utm_campaign=1050&utm_source=git)** | Marietta, Ohio, USA | On Site | Sep 05 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Business Operations Internship, 2026](https://jobright.ai/jobs/info/68bb8d288043103d4f229978?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Sep 05 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Nurse Manager Intern-Ambulatory](https://jobright.ai/jobs/info/68bb8d195f3832749187030d?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Sep 05 |
-| **[Erin Hills Golf Course](http://erinhills.com)** | **[Golf Management Internship, PGM - 2026](https://jobright.ai/jobs/info/68bb8c8f6105227d118a6f83?utm_campaign=1050&utm_source=git)** | Hartford Town, WI | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

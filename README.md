@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bd610fc4c5904ff60036e0?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 07 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Site Admin (IT) Intern](https://jobright.ai/jobs/info/68ba3f928043103d4f21ef5a?utm_campaign=1050&utm_source=git)** | Huntsville, AR | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68af5e501f0a2a568a060fc4?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
 | **[TEACH Together Educating All Children In Hospitals](https://www.teach4kids.org/)** | **[Expansion Intern](https://jobright.ai/jobs/info/68bce9e468300c452ca164e5?utm_campaign=1050&utm_source=git)** | Staten Island, NY | On Site | Sep 06 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Spero f/k/a Blue Water Pregnancy Care Center](http://bluewaterbabies.org)** | **[Office Assistant](https://jobright.ai/jobs/info/68bce345ae79610dacddc4c4?utm_campaign=1050&utm_source=git)** | Port Huron, MI | On Site | Sep 06 |
 | **[Residential Home Health and Residential Hospice](https://www.residentialhealthcaregroup.com/)** | **[Administrative office volunteer needed - Marion, Illinois](https://jobright.ai/jobs/info/68bce2f7ae79610dacddc494?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Sep 06 |
 | **[Arrive Home](http://arrivehomeservices.com)** | **[Administrative and Scheduling Intern](https://jobright.ai/jobs/info/68bcd21468300c452ca161a6?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Sep 06 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68bcabe33bf9eb44f8324688?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
 | **[Arrive, LLC](http://www.arriveresidential.com)** | **[Intern/Assistant, Warranty Management - Condominium Services](https://jobright.ai/jobs/info/68bd1df13bf9eb44f8326c4e?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Sep 06 |
 | **[Total Mechanical](http://www.total-mechanical.com/)** | **[Assistant Project Management Intern](https://jobright.ai/jobs/info/68bc9cb23bf9eb44f8324534?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Sep 06 |
 | **[Keller Brothers and Keller Construction Management](https://www.kellerbrothers.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68bc819e68300c452ca15bd1?utm_campaign=1050&utm_source=git)** | Mount Airy, Maryland, United States | On Site | Sep 06 |
@@ -93,6 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c5cc9ee94dc911a6e4?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 06 |
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc4c?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/68bc4083ae79610dacddb339?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Sep 06 |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Sep 06 |
 | **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/68bc3b5e68300c452ca151a8?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Sep 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/68a3effe2d2a252445cd43b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68a2951283d13d1f5b6d667d?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 06 |
@@ -121,10 +122,10 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0fa5f3832749187340b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0b95f383274918733ae?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcff85f383274918732bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbce336105227d118aa107?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68bbcca65f38327491873235?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Businss Planning Analyst](https://jobright.ai/jobs/info/68bbcc976105227d118a9ead?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| ↳ | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbcc385f383274918731c0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb922f6105227d118a724f?utm_campaign=1050&utm_source=git)** | Spring House, PA | Hybrid | Sep 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Project Management Office - Intern](https://jobright.ai/jobs/info/68bb8df88043103d4f229a47?utm_campaign=1050&utm_source=git)** | North Wales, PA | Hybrid | Sep 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/68bb8d6e6105227d118a7092?utm_campaign=1050&utm_source=git)** | Hillsboro, Oregon, USA | On Site | Sep 05 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68bb8d548043103d4f2299af?utm_campaign=1050&utm_source=git)** | Marietta, Ohio, USA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

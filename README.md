@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](toddagriscience.com/careers)** | **[2025 Winter Internship](https://jobright.ai/jobs/info/68bcb6afae79610dacddc0e1?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Sep 06 |
+| **[Residential Home Health and Residential Hospice](https://www.residentialhealthcaregroup.com/)** | **[Office Volunteers in Lapeer](https://jobright.ai/jobs/info/68bce60d68300c452ca16429?utm_campaign=1050&utm_source=git)** | Lapeer, MI | On Site | Sep 06 |
+| **[Spero f/k/a Blue Water Pregnancy Care Center](http://bluewaterbabies.org)** | **[Office Assistant](https://jobright.ai/jobs/info/68bce345ae79610dacddc4c4?utm_campaign=1050&utm_source=git)** | Port Huron, MI | On Site | Sep 06 |
+| **[Residential Home Health and Residential Hospice](https://www.residentialhealthcaregroup.com/)** | **[Administrative office volunteer needed - Marion, Illinois](https://jobright.ai/jobs/info/68bce2f7ae79610dacddc494?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Sep 06 |
+| **[Arrive Home](http://arrivehomeservices.com)** | **[Administrative and Scheduling Intern](https://jobright.ai/jobs/info/68bcd21468300c452ca161a6?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Sep 06 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68bcabe33bf9eb44f8324688?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
 | **[Total Mechanical](http://www.total-mechanical.com/)** | **[Assistant Project Management Intern](https://jobright.ai/jobs/info/68bc9cb23bf9eb44f8324534?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Sep 06 |
 | **[Keller Brothers and Keller Construction Management](https://www.kellerbrothers.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68bc819e68300c452ca15bd1?utm_campaign=1050&utm_source=git)** | Mount Airy, Maryland, United States | On Site | Sep 06 |
@@ -86,13 +89,14 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/68a3effe2d2a252445cd43b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68a2951283d13d1f5b6d667d?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 06 |
 | **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/68bc2dab6105227d118ac167?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 06 |
+| **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Graduate Assistant_Branch ED AY 25_26](https://jobright.ai/jobs/info/68bce341ae79610dacddc4c0?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Sep 06 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Advisory Intern - Summer/Winter 2026](https://jobright.ai/jobs/info/68bc235e8043103d4f22e6c7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Hitachi - Advanced Nuclear Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/689f35cc83d13d1f5b6c4bd5?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Sep 06 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/689f76d7faa4e875e828873e?utm_campaign=1050&utm_source=git)** | West Chester, OH | On Site | Sep 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68bc16166105227d118abd94?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Sep 06 |
 | ↳ | **[Management Trainee Intern - Santa Fe, NM.](https://jobright.ai/jobs/info/68bc15596105227d118abd34?utm_campaign=1050&utm_source=git)** | Santa Fe, NM | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68bc15418043103d4f22e4da?utm_campaign=1050&utm_source=git)** | Medford, MA | On Site | Sep 06 |
 | ↳ | **[Summer 2026 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/68bc14238043103d4f22e465?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bc0a806105227d118abab5?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 06 |
 | **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc69ccc9ee94dc9119b54?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Sep 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bc00ed6105227d118ab6e8?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 06 |
 | ↳ | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bbfa616105227d118ab5a2?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/68bb87cd6105227d118a6c8e?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Sep 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WDI Project Coordination Internship, Spring 2026](https://jobright.ai/jobs/info/68bb873c5f3832749186fe21?utm_campaign=1050&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 05 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bb87345f3832749186fe10?utm_campaign=1050&utm_source=git)** | Hamel, MN, US | On Site | Sep 05 |
-| **[ Pilot Company](http://www.pilotflyingj.com)** | **[Field Operations Intern (Open to all college students in the Lufkin, TX area)](https://jobright.ai/jobs/info/68bb870f6105227d118a6b18?utm_campaign=1050&utm_source=git)** | 1920 East Denman Avenue, Lufkin, TX | On Site | Sep 05 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Supply Chain Analytics Intern](https://jobright.ai/jobs/info/68bb855c6105227d118a6917?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Sep 05 |
-| ↳ | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/68bb85435f3832749186fc30?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Sep 05 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Co-op Program - Pittsburgh, PA - Spring 2026](https://jobright.ai/jobs/info/68bb85235f3832749186fc11?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

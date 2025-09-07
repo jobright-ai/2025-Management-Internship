@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stellar](http://stellarindustries.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68bdc1d8c4c5904ff60041ee?utm_campaign=1050&utm_source=git)** | Garner, IA | On Site | Sep 07 |
+| **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Strategy and Data Analytics Intern (with AI Focus)](https://jobright.ai/jobs/info/68bdbfc5c4c5904ff60041e6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bdb91be57feb02eb0ac3d1?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Remote | Sep 07 |
+| **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Project Management Internship](https://jobright.ai/jobs/info/68bdb463c4c5904ff60040c9?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
+| **[Restore NYC](http://restorenyc.org)** | **[Operations Intern](https://jobright.ai/jobs/info/68bdae47df5eec448f63d335?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 07 |
 | **[Balance Now](https://www.balance.ca)** | **[Project Manager (Unpaid)](https://jobright.ai/jobs/info/68bda340e57feb02eb0ac243?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Project Coordination Internship, Spring 2026](https://jobright.ai/jobs/info/68bd9c24df5eec448f63d1bb?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 07 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/68bd8403e57feb02eb0abd88?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Sep 07 |
@@ -80,7 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/68b728b91ade4306aa647fd7?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Sep 06 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Haines City Warehouse](https://jobright.ai/jobs/info/68bc74013bf9eb44f83240e7?utm_campaign=1050&utm_source=git)** | Haines City, FL | On Site | Sep 06 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d6f83d13d1f5b6cce8a?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Sep 06 |
-| ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe393cc9ee94dc911a78c?utm_campaign=1050&utm_source=git)** | Carson City, NV | On Site | Sep 06 |
+| **[Republic Airways](http://www.rjet.com)** | **[Strategic Operations Intern - Spring 2026](https://jobright.ai/jobs/info/689cdc0efaa4e875e826b167?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
+| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe393cc9ee94dc911a78c?utm_campaign=1050&utm_source=git)** | Carson City, NV | On Site | Sep 06 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3decc9ee94dc911a7f8?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c22cc9ee94dc911bb04?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 06 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68a00d1ffaa4e875e828cfe3?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Sep 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bb9d836105227d118a7751?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 05 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb9a2e8043103d4f22a04f?utm_campaign=1050&utm_source=git)** | Titusville, NJ | Hybrid | Sep 05 |
 | ↳ | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Sep 05 |
-| ↳ | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99795f383274918709aa?utm_campaign=1050&utm_source=git)** | Raritan, NJ | Hybrid | Sep 05 |
-| **[JAW Architects Inc.](jaw-arch.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68bc316c6105227d118ac290?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 05 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb98725f383274918708c5?utm_campaign=1050&utm_source=git)** | Horsham, PA | Hybrid | Sep 05 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, AI Hardware (Winter/Spring 2026)](https://jobright.ai/jobs/info/68bb97c75f38327491870810?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Sep 05 |
-| **[MAHLE](https://www.mahle.com)** | **[CIP Logistics Intern - Fall](https://jobright.ai/jobs/info/68b89549ea901c0d269f7ad4?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 05 |
-| **[Potelco Inc](http://www.potelco.net/)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/68bb94506105227d118a7473?utm_campaign=1050&utm_source=git)** | Hubbard, OR | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

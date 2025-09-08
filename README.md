@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68be5040c4c5904ff6005754?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 07 |
+| **[Alliance Resource Partners, L.P.](http://www.arlp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68be4d62e57feb02eb0ad89e?utm_campaign=1050&utm_source=git)** | Newburgh, IN | On Site | Sep 07 |
+| **[CBRE](https://www.cbre.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/68be42a83d31ec76b7e88c4a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68be3ee9c4c5904ff6004b8f?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Sep 07 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Project Management CCS](https://jobright.ai/jobs/info/68be33f0df5eec448f63dd6a?utm_campaign=1050&utm_source=git)** | Lakewood, CO | On Site | Sep 07 |
 | **[American Electric Power](http://aep.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68be2c39df5eec448f63dc6d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
 | **[Vibes Meet LLC](vibesmeet.com)** | **[Business Operations Intern (Unpaid role)](https://jobright.ai/jobs/info/68be2061c4c5904ff6004843?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bd610fc4c5904ff60036e0?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 07 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Site Admin (IT) Intern](https://jobright.ai/jobs/info/68ba3f928043103d4f21ef5a?utm_campaign=1050&utm_source=git)** | Huntsville, AR | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68af5e501f0a2a568a060fc4?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68be4a113d31ec76b7e89531?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 06 |
 | **[TEACH Together Educating All Children In Hospitals](https://www.teach4kids.org/)** | **[Expansion Intern](https://jobright.ai/jobs/info/68bce9e468300c452ca164e5?utm_campaign=1050&utm_source=git)** | Staten Island, NY | On Site | Sep 06 |
 | **[VolunteerMatch, Powered by Idealist](http://www.volunteermatch.org)** | **[Administrative Assistant](https://jobright.ai/jobs/info/68bce841ae79610dacddc62c?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 06 |
 | **[Job Carr Cabin Museum](https://www.jobcarrmuseum.org/)** | **[Internship: Project-based Opportunity at Job Carr Cabin Museum](https://jobright.ai/jobs/info/68bce809ae79610dacddc60b?utm_campaign=1050&utm_source=git)** | Tacoma, WA | Hybrid | Sep 06 |
@@ -89,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Spero f/k/a Blue Water Pregnancy Care Center](http://bluewaterbabies.org)** | **[Office Assistant](https://jobright.ai/jobs/info/68bce345ae79610dacddc4c4?utm_campaign=1050&utm_source=git)** | Port Huron, MI | On Site | Sep 06 |
 | **[Residential Home Health and Residential Hospice](https://www.residentialhealthcaregroup.com/)** | **[Administrative office volunteer needed - Marion, Illinois](https://jobright.ai/jobs/info/68bce2f7ae79610dacddc494?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Sep 06 |
 | **[Arrive Home](http://arrivehomeservices.com)** | **[Administrative and Scheduling Intern](https://jobright.ai/jobs/info/68bcd21468300c452ca161a6?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Sep 06 |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/689f75fefaa4e875e828843f?utm_campaign=1050&utm_source=git)** | Kent, OH | On Site | Sep 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Production/Operations Internship - Berlin, NJ](https://jobright.ai/jobs/info/68a3f971e9f1c744da11f799?utm_campaign=1050&utm_source=git)** | Berlin, NJ | On Site | Sep 06 |
 | **[Arrive, LLC](http://www.arriveresidential.com)** | **[Intern/Assistant, Warranty Management - Condominium Services](https://jobright.ai/jobs/info/68bd1df13bf9eb44f8326c4e?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Sep 06 |
 | **[Total Mechanical](http://www.total-mechanical.com/)** | **[Assistant Project Management Intern](https://jobright.ai/jobs/info/68bc9cb23bf9eb44f8324534?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Sep 06 |
@@ -147,14 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0fa5f3832749187340b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0b95f383274918733ae?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcff85f383274918732bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbce336105227d118aa107?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68bbcca65f38327491873235?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Businss Planning Analyst](https://jobright.ai/jobs/info/68bbcc976105227d118a9ead?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| ↳ | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbcc385f383274918731c0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
-| **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Sep 05 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Midland, TX and Odessa, TX](https://jobright.ai/jobs/info/68bbc0456105227d118a964c?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Sep 05 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/68bbbf796105227d118a94ac?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Sep 05 |
-| **[Baltimore Gas and Electric](https://www.bge.com)** | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bbbddc8043103d4f22c145?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

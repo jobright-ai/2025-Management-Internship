@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](toddagriscience.com/careers)** | **[2025 Winter Internship](https://jobright.ai/jobs/info/68bdff39e57feb02eb0ac8fc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Sep 07 |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Chief Operating Office - NC](https://jobright.ai/jobs/info/68be14efdf5eec448f63da74?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 07 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/68be118edf5eec448f63da4f?utm_campaign=1050&utm_source=git)** | New Caney, TX | On Site | Sep 07 |
+| ↳ | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Grocery](https://jobright.ai/jobs/info/68be0eb6c4c5904ff600475f?utm_campaign=1050&utm_source=git)** | Wellford, SC | On Site | Sep 07 |
+| ↳ | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Grocery](https://jobright.ai/jobs/info/68be0e8edf5eec448f63da43?utm_campaign=1050&utm_source=git)** | New Albany, MS | On Site | Sep 07 |
+| ↳ | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Grocery](https://jobright.ai/jobs/info/68be0decdf5eec448f63da21?utm_campaign=1050&utm_source=git)** | Brundidge, AL | On Site | Sep 07 |
 | **[American Electric Power](http://aep.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68bdfc87df5eec448f63d970?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/68bdec3be57feb02eb0ac776?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 07 |
 | **[Grandbridge Real Estate Capital](https://www.grandbridge.com/)** | **[2026 Grandbridge Real Estate - Summer Analyst Program (Internship)](https://jobright.ai/jobs/info/68bdea88c4c5904ff60044fe?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Spero f/k/a Blue Water Pregnancy Care Center](http://bluewaterbabies.org)** | **[Office Assistant](https://jobright.ai/jobs/info/68bce345ae79610dacddc4c4?utm_campaign=1050&utm_source=git)** | Port Huron, MI | On Site | Sep 06 |
 | **[Residential Home Health and Residential Hospice](https://www.residentialhealthcaregroup.com/)** | **[Administrative office volunteer needed - Marion, Illinois](https://jobright.ai/jobs/info/68bce2f7ae79610dacddc494?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Sep 06 |
 | **[Arrive Home](http://arrivehomeservices.com)** | **[Administrative and Scheduling Intern](https://jobright.ai/jobs/info/68bcd21468300c452ca161a6?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Sep 06 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Production/Operations Internship - Berlin, NJ](https://jobright.ai/jobs/info/68a3f971e9f1c744da11f799?utm_campaign=1050&utm_source=git)** | Berlin, NJ | On Site | Sep 06 |
 | **[Arrive, LLC](http://www.arriveresidential.com)** | **[Intern/Assistant, Warranty Management - Condominium Services](https://jobright.ai/jobs/info/68bd1df13bf9eb44f8326c4e?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Sep 06 |
 | **[Total Mechanical](http://www.total-mechanical.com/)** | **[Assistant Project Management Intern](https://jobright.ai/jobs/info/68bc9cb23bf9eb44f8324534?utm_campaign=1050&utm_source=git)** | Pewaukee, WI | On Site | Sep 06 |
 | **[Keller Brothers and Keller Construction Management](https://www.kellerbrothers.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/68bc819e68300c452ca15bd1?utm_campaign=1050&utm_source=git)** | Mount Airy, Maryland, United States | On Site | Sep 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baltimore Gas and Electric](https://www.bge.com)** | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bbbddc8043103d4f22c145?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbf09e6105227d118ab40a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 05 |
 | **[Houston Astros](https://astros.mlb.com/)** | **[Stadium Operations Intern - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbba736105227d118a92df?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
-| **[Atlas Foundation Company](https://www.atlasfoundation.com)** | **[Intern/Assistant Project Manager, Earthwork/Deep Foundation ( {{city}})](https://jobright.ai/jobs/info/68bd11c768300c452ca17f64?utm_campaign=1050&utm_source=git)** | Osseo, MN | On Site | Sep 05 |
-| **[Taza Construction LLC](https://www.tilesinstyle.com)** | **[Construction Project Management Intern ( {{city}})](https://jobright.ai/jobs/info/68bd12b2ae79610dacdddfb8?utm_campaign=1050&utm_source=git)** | South Holland, IL | On Site | Sep 05 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Flight Operations – Business Strategy (Spring 2026)](https://jobright.ai/jobs/info/6865a407db6d75b5ce700856?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 05 |
-| **[The Donohoe Companies, Inc.](http://donohoe.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68bba0e85f38327491870e96?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Sep 05 |
-| **[C&S Wholesale Grocers](http://www.cswg.com)** | **[IT Project Management Intern  - Summer 2026](https://jobright.ai/jobs/info/68bba0676105227d118a7b56?utm_campaign=1050&utm_source=git)** | Keene, NH | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

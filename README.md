@@ -57,28 +57,38 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68be7c7ec4c5904ff6006c55?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68bea35be57feb02eb0af61f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Supply Chain](https://jobright.ai/jobs/info/68bea3003d31ec76b7e8b325?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68bea243e57feb02eb0af566?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
+| **[ALLDATA](http://www.alldata.com/)** | **[AutoZone 2026 Summer Internship – Supply Chain](https://jobright.ai/jobs/info/68be9e293d31ec76b7e8b229?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68be9d50e57feb02eb0af49d?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 08 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68be9d23e57feb02eb0af490?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Sep 08 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68be9c9ac4c5904ff60072a0?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 08 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68be99623d31ec76b7e8b198?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 08 |
+| ↳ | **[Operations Intern - University of Texas at San Antonio](https://jobright.ai/jobs/info/68be9933c4c5904ff600728f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 08 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68be989ac4c5904ff600726e?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 08 |
 | **[CSX](http://www.csx.com)** | **[CSX Procurement Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68be780b3d31ec76b7e8a9f6?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Sep 07 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68be6c163d31ec76b7e8a596?utm_campaign=1050&utm_source=git)** | USA - WI - Racine | On Site | Sep 07 |
 | **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68be695ae57feb02eb0ae511?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Sep 07 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be6943e57feb02eb0ae4e1?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Sep 07 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68be6950e57feb02eb0ae502?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
+| **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68be6943e57feb02eb0ae4e1?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Sep 07 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be6912c4c5904ff60063bc?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Sep 07 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Internship MBA](https://jobright.ai/jobs/info/68be690b3d31ec76b7e8a2bf?utm_campaign=1050&utm_source=git)** | Round Rock, Texas, United States | Hybrid | Sep 07 |
 | **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68be68efc4c5904ff600639c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 07 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be68d43d31ec76b7e8a2b4?utm_campaign=1050&utm_source=git)** | Glen Burnie, MD | On Site | Sep 07 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be68cec4c5904ff600634e?utm_campaign=1050&utm_source=git)** | Bloomington, MN | On Site | Sep 07 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be68cce57feb02eb0ae435?utm_campaign=1050&utm_source=git)** | Bolingbrook, IL | On Site | Sep 07 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68be68bc3d31ec76b7e8a2b2?utm_campaign=1050&utm_source=git)** | USA - WI - Racine | On Site | Sep 07 |
-| **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68be68a33d31ec76b7e8a2ae?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be68a33d31ec76b7e8a2ae?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be68723d31ec76b7e8a2a6?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/68be66233d31ec76b7e8a20a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 07 |
 | **[CSX](http://www.csx.com)** | **[CSX Procurement Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68be5efdc4c5904ff6005ecd?utm_campaign=1050&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 07 |
-| **[BBR Partners](http://bbrpartners.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68be5df53d31ec76b7e89e42?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68be5040c4c5904ff6005754?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 07 |
 | **[Alliance Resource Partners, L.P.](http://www.arlp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68be4d62e57feb02eb0ad89e?utm_campaign=1050&utm_source=git)** | Newburgh, IN | On Site | Sep 07 |
 | **[CBRE](https://www.cbre.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/68be42a83d31ec76b7e88c4a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68be3ee9c4c5904ff6004b8f?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Sep 07 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Project Management CCS](https://jobright.ai/jobs/info/68be33f0df5eec448f63dd6a?utm_campaign=1050&utm_source=git)** | Lakewood, CO | On Site | Sep 07 |
 | **[American Electric Power](http://aep.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68be2c39df5eec448f63dc6d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
+| **[BBR Partners](http://bbrpartners.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68be8f3d3d31ec76b7e8b0d0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | **[Vibes Meet LLC](vibesmeet.com)** | **[Business Operations Intern (Unpaid role)](https://jobright.ai/jobs/info/68be2061c4c5904ff6004843?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Chief Operating Office - NC](https://jobright.ai/jobs/info/68be14efdf5eec448f63da74?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 07 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/68be118edf5eec448f63da4f?utm_campaign=1050&utm_source=git)** | New Caney, TX | On Site | Sep 07 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc4c?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/68bc4083ae79610dacddb339?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Sep 06 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Sep 06 |
-| **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07a83d13d1f5b6cb964?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Sep 06 |
-| **[Monarch Healthcare Management](http://monarchmn.com/)** | **[Healthcare Intern](https://jobright.ai/jobs/info/68bc3b5e68300c452ca151a8?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Sep 06 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/68a3effe2d2a252445cd43b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 06 |
-| ↳ | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68a2951283d13d1f5b6d667d?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 06 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Operations Extern](https://jobright.ai/jobs/info/689f7954b3e889632cf07587?utm_campaign=1050&utm_source=git)** | Mettawa, IL | On Site | Sep 06 |
-| **[McDermott International, Ltd](http://www.mcdermott.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/68bc2dab6105227d118ac167?utm_campaign=1050&utm_source=git)** | Houston, TX, United States | On Site | Sep 06 |
-| **[NCCU Public Administration](https://www.nccu.edu/cash/public-administration)** | **[Graduate Assistant_Branch ED AY 25_26](https://jobright.ai/jobs/info/68bce341ae79610dacddc4c0?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Sep 06 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Hitachi - Advanced Nuclear Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/689f35cc83d13d1f5b6c4bd5?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Sep 06 |
-| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/689f76d7faa4e875e828873e?utm_campaign=1050&utm_source=git)** | West Chester, OH | On Site | Sep 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68bc16166105227d118abd94?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

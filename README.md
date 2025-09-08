@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander México](http://www.santander.com.mx/)** | **[Santander WM&I 2026 Summer Internship Program - Miami](https://jobright.ai/jobs/info/68bec20e5c5d5f14f46d0c50?utm_campaign=1050&utm_source=git)** | Miami | On Site | Sep 08 |
+| **[Santander Private Banking International](http://pb-santander.com)** | **[Summer Internship - Georgia Tech 2026](https://jobright.ai/jobs/info/68bebec65c5d5f14f46d0aa0?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Sep 08 |
+| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Development (Hotel Development, Architecture, Design, Construction)](https://jobright.ai/jobs/info/68beb8185c5d5f14f46d092a?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 08 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Regional Business Intern (Central Region)](https://jobright.ai/jobs/info/68beb290e57feb02eb0af8f2?utm_campaign=1050&utm_source=git)** | Coppell, TX, United States | On Site | Sep 08 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68bea35be57feb02eb0af61f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Supply Chain](https://jobright.ai/jobs/info/68bea3003d31ec76b7e8b325?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68bea243e57feb02eb0af566?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
@@ -67,11 +71,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68be99623d31ec76b7e8b198?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 08 |
 | ↳ | **[Operations Intern - University of Texas at San Antonio](https://jobright.ai/jobs/info/68be9933c4c5904ff600728f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 08 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68be989ac4c5904ff600726e?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 08 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68be7c7ec4c5904ff6006c55?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
 | **[CSX](http://www.csx.com)** | **[CSX Procurement Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68be780b3d31ec76b7e8a9f6?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Sep 07 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68be6c163d31ec76b7e8a596?utm_campaign=1050&utm_source=git)** | USA - WI - Racine | On Site | Sep 07 |
 | **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68be695ae57feb02eb0ae511?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Sep 07 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68be6950e57feb02eb0ae502?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
-| **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68be6943e57feb02eb0ae4e1?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Sep 07 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be6943e57feb02eb0ae4e1?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Sep 07 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be6912c4c5904ff60063bc?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Sep 07 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Internship MBA](https://jobright.ai/jobs/info/68be690b3d31ec76b7e8a2bf?utm_campaign=1050&utm_source=git)** | Round Rock, Texas, United States | Hybrid | Sep 07 |
 | **[Apogee Enterprises, Inc.](http://www.apog.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68be68efc4c5904ff600639c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 07 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be68a33d31ec76b7e8a2ae?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 07 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68be68723d31ec76b7e8a2a6?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/68be66233d31ec76b7e8a20a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 07 |
+| **[University of Michigan](https://www.umich.edu)** | **[VCUA Office Assistant (Work Study Only)](https://jobright.ai/jobs/info/68b7276d2124650c1401fc38?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Sep 07 |
 | **[CSX](http://www.csx.com)** | **[CSX Procurement Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68be5efdc4c5904ff6005ecd?utm_campaign=1050&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 07 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68be5040c4c5904ff6005754?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 07 |
 | **[Alliance Resource Partners, L.P.](http://www.arlp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68be4d62e57feb02eb0ad89e?utm_campaign=1050&utm_source=git)** | Newburgh, IN | On Site | Sep 07 |
@@ -111,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Office Internship- Rail Infrastructure(Summer 2026)](https://jobright.ai/jobs/info/68aa848fd627244576e3d0be?utm_campaign=1050&utm_source=git)** | Homestead, PA | On Site | Sep 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68bd610fc4c5904ff60036e0?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 07 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Site Admin (IT) Intern](https://jobright.ai/jobs/info/68ba3f928043103d4f21ef5a?utm_campaign=1050&utm_source=git)** | Huntsville, AR | On Site | Sep 07 |
+| **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f8c5cfaa4e875e8289add?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Sep 07 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68af5e501f0a2a568a060fc4?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Sep 07 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/68ba3ee88043103d4f21eed8?utm_campaign=1050&utm_source=git)** | Garner, NC | On Site | Sep 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/68be70453d31ec76b7e8a891?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6de83d13d1f5b6cbc2d?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
 | **[City of New York](http://www1.nyc.gov)** | **[Executive Assistant / College Aide](https://jobright.ai/jobs/info/68bc4517ae79610dacddb3cb?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Sep 06 |
 | **[Molex](http://www.molex.com)** | **[Molex Supply Chain Internship Program- Summer 2026](https://jobright.ai/jobs/info/68bc451568300c452ca152dd?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Sep 06 |
-| **[Uline](http://www.uline.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/689f9134b3e889632cf08bdb?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Sep 06 |
-| ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe087faa4e875e828bbc8?utm_campaign=1050&utm_source=git)** | Cold Springs, NV | On Site | Sep 06 |
-| ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c5cc9ee94dc911a6e4?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 06 |
-| ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b8faa4e875e828bc4c?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Sep 06 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2026 Supply Chain Intern- Bachelor's (Santa Clara, CA)](https://jobright.ai/jobs/info/68bc4083ae79610dacddb339?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Sep 06 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Food & Beverage (Summer, 2025)](https://jobright.ai/jobs/info/67f65d71731989209e0b37b2?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Project Management CCS](https://jobright.ai/jobs/info/68be33f0df5eec448f63dd6a?utm_campaign=1050&utm_source=git)** | Lakewood, CO | On Site | Sep 07 |
+| **[American Electric Power](http://aep.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68be2c39df5eec448f63dc6d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 07 |
+| **[Vibes Meet LLC](vibesmeet.com)** | **[Business Operations Intern (Unpaid role)](https://jobright.ai/jobs/info/68be2061c4c5904ff6004843?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Chief Operating Office - NC](https://jobright.ai/jobs/info/68be14efdf5eec448f63da74?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 07 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/68be118edf5eec448f63da4f?utm_campaign=1050&utm_source=git)** | New Caney, TX | On Site | Sep 07 |
 | ↳ | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Grocery](https://jobright.ai/jobs/info/68be0eb6c4c5904ff600475f?utm_campaign=1050&utm_source=git)** | Wellford, SC | On Site | Sep 07 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Strategy and Data Analytics Intern (with AI Focus)](https://jobright.ai/jobs/info/68bdbfc5c4c5904ff60041e6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 07 |
 | **[Technergetics](https://www.technergetics.com)** | **[SkillBridge Project Management Internship](https://jobright.ai/jobs/info/68bdb463c4c5904ff60040c9?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Restore NYC](http://restorenyc.org)** | **[Operations Intern](https://jobright.ai/jobs/info/68bdae47df5eec448f63d335?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 07 |
-| **[Balance Now](https://www.balance.ca)** | **[Project Manager (Unpaid)](https://jobright.ai/jobs/info/68bda340e57feb02eb0ac243?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Project Coordination Internship, Spring 2026](https://jobright.ai/jobs/info/68bd9c24df5eec448f63d1bb?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 07 |
 | ↳ | **[WDI Project Coordination Internship, Spring 2026](https://jobright.ai/jobs/info/68bdd32bdf5eec448f63d607?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Sep 07 |
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Office Internship- Rail Infrastructure(Summer 2026)](https://jobright.ai/jobs/info/68aa848fd627244576e3d0be?utm_campaign=1050&utm_source=git)** | Homestead, PA | On Site | Sep 07 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0fa5f3832749187340b?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbd0b95f383274918733ae?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Sep 05 |
 | ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcff85f383274918732bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbce336105227d118aa107?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
+| ↳ | **[Strategy Intern](https://jobright.ai/jobs/info/68bbcda88043103d4f22c9fc?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68bbcca65f38327491873235?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Businss Planning Analyst](https://jobright.ai/jobs/info/68bbcc976105227d118a9ead?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
+| ↳ | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbcc385f383274918731c0?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 05 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Financial Aid Office Assistant](https://jobright.ai/jobs/info/68bbc9f95f38327491872fa8?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 05 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68bbc6b65f38327491872ef4?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Sep 05 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-Op - Procurement Strategy & Capabilities](https://jobright.ai/jobs/info/68b289f6bc187f64e1bdcce3?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Sep 05 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Midland, TX and Odessa, TX](https://jobright.ai/jobs/info/68bbc0456105227d118a964c?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Sep 05 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/68bbbf796105227d118a94ac?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Sep 05 |
 | **[Baltimore Gas and Electric](https://www.bge.com)** | **[2026 Summer Internship - Project Management (Baltimore Area)](https://jobright.ai/jobs/info/68bbbddc8043103d4f22c145?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Sep 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68bbf09e6105227d118ab40a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 05 |
-| **[Houston Astros](https://astros.mlb.com/)** | **[Stadium Operations Intern - CACTI Park of the Palm Beaches](https://jobright.ai/jobs/info/68bbba736105227d118a92df?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

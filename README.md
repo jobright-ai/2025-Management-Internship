@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sunoco LP](https://www.sunocolp.com)** | **[Interns -SUNOCO (Summer May-Aug 2026)](https://jobright.ai/jobs/info/68bfdb00702aa35207aa9bf7?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
+| **[Augusta Country Club](http://augcc.com)** | **[Management Intern](https://jobright.ai/jobs/info/68bfd0e95c5d5f14f46d9dfe?utm_campaign=1050&utm_source=git)** | Augusta, GA, USA | Hybrid | Sep 09 |
+| **[Energy Transfer](http://www.energytransfer.com)** | **[Interns -SUNOCO (Summer May-Aug 2026)](https://jobright.ai/jobs/info/68bfcd4c5c5d5f14f46d9ce5?utm_campaign=1050&utm_source=git)** | DALLAS, Texas, United States | On Site | Sep 08 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - AI Incubation Program Management](https://jobright.ai/jobs/info/68bfccd68e65e77df55bd37a?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 08 |
+| **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Lauder Summer 2026 Intern, Supply Chain and Packaging](https://jobright.ai/jobs/info/68bfb7575c5d5f14f46d9531?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Sep 08 |
+| **[Skanska](http://skanska.com)** | **[Intern](https://jobright.ai/jobs/info/68bfcaf7702aa35207aa9305?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 08 |
+| **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern Philanthropy](https://jobright.ai/jobs/info/68bfbe0e8e65e77df55bccd3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/68bfb9458e65e77df55bcba1?utm_campaign=1050&utm_source=git)** | Springfield, MA | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68bfb9258e65e77df55bcb99?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/68bfb8ce8e65e77df55bcb7a?utm_campaign=1050&utm_source=git)** | West Hartford, CT | On Site | Sep 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Community Solutions Process Management](https://jobright.ai/jobs/info/68bfb835702aa35207aa8c44?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Sep 08 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Recent/Upcoming Graduate: Business & Construction Management Intern](https://jobright.ai/jobs/info/68bfb7f1702aa35207aa8c24?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Sep 08 |
-| **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Lauder Summer 2026 Intern, Supply Chain and Packaging](https://jobright.ai/jobs/info/68bfb7575c5d5f14f46d9531?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Sep 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb736702aa35207aa8be1?utm_campaign=1050&utm_source=git)** | Fuquay-Varina, NC | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/68bfb726702aa35207aa8bd8?utm_campaign=1050&utm_source=git)** | Northampton, MA | On Site | Sep 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Procurement Operations](https://jobright.ai/jobs/info/68bfb725702aa35207aa8bd7?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 08 |
@@ -76,15 +82,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/68bfb65f5c5d5f14f46d94d0?utm_campaign=1050&utm_source=git)** | West Hartford, CT | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/68bfb6115c5d5f14f46d94aa?utm_campaign=1050&utm_source=git)** | Brooklyn, CT | On Site | Sep 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68bfa1145c5d5f14f46d8a44?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Sep 08 |
-| **[Integrity](https://www.integritymarketing.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/68bf9c0f5c5d5f14f46d8695?utm_campaign=1050&utm_source=git)** | Hot Springs, AR | On Site | Sep 08 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Program Management (Year-Round)](https://jobright.ai/jobs/info/68b65bdef4e41a61efd924e5?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 08 |
 | **[National Health Care Associates](https://nhca.com)** | **[Administrator in Training](https://jobright.ai/jobs/info/68bf9c075c5d5f14f46d868a?utm_campaign=1050&utm_source=git)** | Norway, ME | On Site | Sep 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68bf99028e65e77df55bbc00?utm_campaign=1050&utm_source=git)** | Washington, IL | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf98798e65e77df55bbb23?utm_campaign=1050&utm_source=git)** | Topeka, KS | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf97b38e65e77df55bb9ec?utm_campaign=1050&utm_source=git)** | Germantown, WI | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf969f702aa35207aa79a4?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf9654702aa35207aa794d?utm_campaign=1050&utm_source=git)** | Watertown, SD | On Site | Sep 08 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf96505c5d5f14f46d8337?utm_campaign=1050&utm_source=git)** | Coon Rapids, MN | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf96505c5d5f14f46d8338?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Sep 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf96505c5d5f14f46d8337?utm_campaign=1050&utm_source=git)** | Coon Rapids, MN | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf95c45c5d5f14f46d82a2?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf95a2702aa35207aa7891?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Sep 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68bf9558702aa35207aa784d?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Sep 08 |
@@ -131,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/68bf9e5f8e65e77df55bbfbf?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Sep 08 |
 | **[Roadtex ](http://roadtex.com)** | **[Supply Chain Analyst Intern- Greenfield, IN](https://jobright.ai/jobs/info/68bf7dd48e65e77df55bacd3?utm_campaign=1050&utm_source=git)** | Greenfield, IN | Hybrid | Sep 08 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager (Primary Care Mental Health Integration) - EDRP Approved](https://jobright.ai/jobs/info/68bf9af5702aa35207aa7b97?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Sep 08 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Commercial Operations (LCS)](https://jobright.ai/jobs/info/68bf7db28e65e77df55bacad?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Sep 08 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2025 Dougherty Family College Internship](https://jobright.ai/jobs/info/68bf7cca702aa35207aa6c0b?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Sep 08 |
 | **[Thompson Thrift](https://www.thompsonthrift.com/)** | **[Community Management Summer 2026 Internship](https://jobright.ai/jobs/info/68bf7cb85c5d5f14f46d75af?utm_campaign=1050&utm_source=git)** | Florida | On Site | Sep 08 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Intern, Project](https://jobright.ai/jobs/info/68bf7ca55c5d5f14f46d7594?utm_campaign=1050&utm_source=git)** | Commerce, CA 90040 | Hybrid | Sep 08 |
@@ -142,19 +147,14 @@ For a complete list, click the following sortable link below:
 | **[City of Somerville](http://www.somervillema.gov)** | **[Project Assistant (Intern)](https://jobright.ai/jobs/info/68bf7b978e65e77df55ba941?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Sep 08 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Intern, Project](https://jobright.ai/jobs/info/68bf7b955c5d5f14f46d73e4?utm_campaign=1050&utm_source=git)** | Commerce, CA | Hybrid | Sep 08 |
 | **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/68bfa0c9702aa35207aa804a?utm_campaign=1050&utm_source=git)** | Vancouver, WA | Hybrid | Sep 08 |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Commercial Operations (LCS)](https://jobright.ai/jobs/info/68bf7ad58e65e77df55ba8a7?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Sep 08 |
 | **[Epirus](https://www.epirusinc.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bf78f28e65e77df55ba85f?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Sep 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Supply Operations & Logistics)](https://jobright.ai/jobs/info/68bf75585c5d5f14f46d7141?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Sep 08 |
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/68bf75095c5d5f14f46d70fe?utm_campaign=1050&utm_source=git)** | Beltsville, MD | On Site | Sep 08 |
 | **[Donaldson](http://donaldson.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68bf745b5c5d5f14f46d7045?utm_campaign=1050&utm_source=git)** | Frankfort, IN | On Site | Sep 08 |
 | **[ChampionX](https://www.championx.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bf744a5c5d5f14f46d7031?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Sep 08 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern Philanthropy](https://jobright.ai/jobs/info/68bf9543702aa35207aa783b?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Logistics Planner Intern](https://jobright.ai/jobs/info/68bf73515c5d5f14f46d6f45?utm_campaign=1050&utm_source=git)** | Westchester, IL | Hybrid | Sep 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Lending Strategy - Emerging Trends & Technology)](https://jobright.ai/jobs/info/68bf73445c5d5f14f46d6f37?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Sep 08 |
 | **[FlexGen](https://flexgen.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bf723b702aa35207aa65a6?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Sep 08 |
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/68bf71f88e65e77df55ba54c?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Sep 08 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Administrative Assistant (Clerical) - CeCe](https://jobright.ai/jobs/info/68bf708e8e65e77df55ba404?utm_campaign=1050&utm_source=git)** | Edmond, OK | On Site | Sep 08 |
-| **[Rincon Research Corporation](http://www.rincon.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/68bf6e6a5c5d5f14f46d6d64?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Sep 08 |
-| **[Santander México](http://www.santander.com.mx/)** | **[Santander Universities US Intern](https://jobright.ai/jobs/info/68bf6e5e702aa35207aa64aa?utm_campaign=1050&utm_source=git)** | Boston | On Site | Sep 08 |
-| **[Rincon Research Corporation](http://www.rincon.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/68bf6d5f5c5d5f14f46d6c6e?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 08 |
-| **[Martin Brower UK and Ireland](http://www.martinbrower.co.uk/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/68bf6c5d702aa35207aa62fd?utm_campaign=1050&utm_source=git)** | Rosemont, IL | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

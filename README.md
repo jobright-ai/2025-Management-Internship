@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/68bff7e65c5d5f14f46dafeb?utm_campaign=1050&utm_source=git)** | Ashland, VA | On Site | Sep 09 |
-| ↳ | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/68bff7bc5c5d5f14f46dafdd?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 09 |
+| **[GALLO](https://www.gallo.com)** | **[IT Program Analyst Internship 2026](https://jobright.ai/jobs/info/68a37d7537d3cc6b0d577751?utm_campaign=1050&utm_source=git)** | Modesto, CA | Hybrid | Sep 09 |
+| ↳ | **[Technical Management Development Program 2026](https://jobright.ai/jobs/info/68a381c3403ad4363b1c1e60?utm_campaign=1050&utm_source=git)** | Lodi, CA | On Site | Sep 09 |
+| **[Cherokee Nation Businesses](https://cherokeenationbusinesses.com)** | **[Paid Internship /Summer 2026/ Cherokee Nation Businesses](https://jobright.ai/jobs/info/68a3c4ed403ad4363b1c39eb?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Sep 09 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/68c0073b8e65e77df55be914?utm_campaign=1050&utm_source=git)** | Livonia, MI | On Site | Sep 09 |
+| **[GALLO](https://www.gallo.com)** | **[Technical Management Development Program 2026](https://jobright.ai/jobs/info/68a37ce5403ad4363b1c1974?utm_campaign=1050&utm_source=git)** | Canandaigua, NY | On Site | Sep 09 |
+| **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Office Assistant - Financial Aid Office](https://jobright.ai/jobs/info/68bffef38e65e77df55be7c7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
+| **[Centric](https://centric.build/)** | **[2026 Construction Internship](https://jobright.ai/jobs/info/68bff8905c5d5f14f46db03b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 09 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Multifamily Business Intern- Summer 2026](https://jobright.ai/jobs/info/68a37e7337d3cc6b0d577879?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 09 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bff28e8e65e77df55be601?utm_campaign=1050&utm_source=git)** | North Miami Beach, FL | On Site | Sep 09 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfebd85c5d5f14f46dad3b?utm_campaign=1050&utm_source=git)** | Bal Harbour, FL | On Site | Sep 09 |
@@ -72,7 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe0ba5c5d5f14f46daa8e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 09 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfdf8a702aa35207aaa0b0?utm_campaign=1050&utm_source=git)** | Coral Gables, FL | On Site | Sep 09 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfdf82702aa35207aaa0aa?utm_campaign=1050&utm_source=git)** | Los Altos, CA | On Site | Sep 09 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at San Antonio](https://jobright.ai/jobs/info/68bfffff8e65e77df55be821?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 09 |
+| **[Santander](https://www.santander.com/)** | **[Santander Universities US Intern](https://jobright.ai/jobs/info/68c005e45c5d5f14f46db223?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Sep 09 |
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Interns -SUNOCO (Summer May-Aug 2026)](https://jobright.ai/jobs/info/68bfdb00702aa35207aa9bf7?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
+| **[Steelcase](https://www.steelcase.com/)** | **[2026 Order Fulfillment Intern](https://jobright.ai/jobs/info/68c006b45c5d5f14f46db261?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Sep 09 |
 | **[Augusta Country Club](http://augcc.com)** | **[Management Intern](https://jobright.ai/jobs/info/68bfd0e95c5d5f14f46d9dfe?utm_campaign=1050&utm_source=git)** | Augusta, GA, USA | Hybrid | Sep 09 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Interns -SUNOCO (Summer May-Aug 2026)](https://jobright.ai/jobs/info/68bfcd4c5c5d5f14f46d9ce5?utm_campaign=1050&utm_source=git)** | DALLAS, Texas, United States | On Site | Sep 08 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[General Business Internship MBA](https://jobright.ai/jobs/info/68bfeac0702aa35207aaa372?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Sep 08 |
@@ -80,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Lauder Summer 2026 Intern, Supply Chain and Packaging](https://jobright.ai/jobs/info/68bfb7575c5d5f14f46d9531?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Sep 08 |
 | **[Skanska](http://skanska.com)** | **[Intern](https://jobright.ai/jobs/info/68bfcaf7702aa35207aa9305?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 08 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op - Supply Chain Analyst](https://jobright.ai/jobs/info/68b829404987402050d0c710?utm_campaign=1050&utm_source=git)** | Burlington, MA | Hybrid | Sep 08 |
-| **[Indiana University Health](http://iuhealth.org)** | **[Administrative Intern Philanthropy](https://jobright.ai/jobs/info/68bfbe0e8e65e77df55bccd3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Springfield, MA](https://jobright.ai/jobs/info/68bfb9458e65e77df55bcba1?utm_campaign=1050&utm_source=git)** | Springfield, MA | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Wallingford/Southington/Cheshire, CT](https://jobright.ai/jobs/info/68bfb9258e65e77df55bcb99?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - West Hartford/Avon/Bristol, CT](https://jobright.ai/jobs/info/68bfb8ce8e65e77df55bcb7a?utm_campaign=1050&utm_source=git)** | West Hartford, CT | On Site | Sep 08 |
@@ -90,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Northampton/Amherst, MA](https://jobright.ai/jobs/info/68bfb726702aa35207aa8bd8?utm_campaign=1050&utm_source=git)** | Northampton, MA | On Site | Sep 08 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Procurement Operations](https://jobright.ai/jobs/info/68bfb725702aa35207aa8bd7?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Sep 08 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfb720702aa35207aa8bd4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 08 |
-| **[Bentley Systems](http://www.bentley.com)** | **[Operations Intern - Hawaii](https://jobright.ai/jobs/info/68bfb7115c5d5f14f46d9515?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/68bfb6fa702aa35207aa8bc7?utm_campaign=1050&utm_source=git)** | Enfield, CT | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6ef702aa35207aa8bc1?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68bfb6cf5c5d5f14f46d94f5?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Sep 08 |
@@ -98,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/68bfb6635c5d5f14f46d94d1?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/68bfb65f5c5d5f14f46d94d0?utm_campaign=1050&utm_source=git)** | West Hartford, CT | On Site | Sep 08 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/68bfb6115c5d5f14f46d94aa?utm_campaign=1050&utm_source=git)** | Brooklyn, CT | On Site | Sep 08 |
-| **[City of Somerville](http://www.somervillema.gov)** | **[Project Assistant (Intern)](https://jobright.ai/jobs/info/68bfd4e18e65e77df55bd619?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Sep 08 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68bfa1145c5d5f14f46d8a44?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Sep 08 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Program Management (Year-Round)](https://jobright.ai/jobs/info/68b65bdef4e41a61efd924e5?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 08 |
 | **[National Health Care Associates](https://nhca.com)** | **[Administrator in Training](https://jobright.ai/jobs/info/68bf9c075c5d5f14f46d868a?utm_campaign=1050&utm_source=git)** | Norway, ME | On Site | Sep 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Williamsburg, Virginia](https://www.williamsburgva.gov/35/)** | **[City Management Intern](https://jobright.ai/jobs/info/68bf819c702aa35207aa6f20?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Sep 08 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Global Commercial Operations](https://jobright.ai/jobs/info/68bf8104702aa35207aa6e8d?utm_campaign=1050&utm_source=git)** | Warren, MI | Hybrid | Sep 08 |
 | **[Intercity Transit](https://www.intercitytransit.com/)** | **[Safety Administrative Assistant](https://jobright.ai/jobs/info/68bf7f8c8e65e77df55bae98?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Sep 08 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Intern](https://jobright.ai/jobs/info/68bf7e7b8e65e77df55bad95?utm_campaign=1050&utm_source=git)** | Huntington, WV | On Site | Sep 08 |
-| **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/68bf9e5f8e65e77df55bbfbf?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Sep 08 |
-| **[Roadtex ](http://roadtex.com)** | **[Supply Chain Analyst Intern- Greenfield, IN](https://jobright.ai/jobs/info/68bf7dd48e65e77df55bacd3?utm_campaign=1050&utm_source=git)** | Greenfield, IN | Hybrid | Sep 08 |
-| **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager (Primary Care Mental Health Integration) - EDRP Approved](https://jobright.ai/jobs/info/68bf9af5702aa35207aa7b97?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Sep 08 |
-| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Commercial Operations (LCS)](https://jobright.ai/jobs/info/68bf7db28e65e77df55bacad?utm_campaign=1050&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

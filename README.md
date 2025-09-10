@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stantec](http://www.stantec.com)** | **[Assistant Project Manager](https://jobright.ai/jobs/info/68c1291a3fd8b059a20ee75b?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 10 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Brewery Operations Intern](https://jobright.ai/jobs/info/68c135d3233c7d3e64d00e84?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Sep 10 |
+| **[Stantec](http://www.stantec.com)** | **[Assistant Project Manager](https://jobright.ai/jobs/info/68c13327233c7d3e64d00c94?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Sep 10 |
+| ↳ | **[Assistant Project Manager](https://jobright.ai/jobs/info/68c1291a3fd8b059a20ee75b?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 10 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Operations Summer Intern](https://jobright.ai/jobs/info/68c127dc3fd8b059a20ee5aa?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 10 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Supply Chain Operations Intern - U.S. AutoForce](https://jobright.ai/jobs/info/68c12382233c7d3e64d00330?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 10 |
 | **[Cushing Terrell](https://cushingterrell.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c122b33fd8b059a20ee350?utm_campaign=1050&utm_source=git)** | Bozeman, Montana | On Site | Sep 10 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[IT Business Engagement Intern (Summer 2026)](https://jobright.ai/jobs/info/68c121ef4d652f0447755da2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 09 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Brewery Operations Intern](https://jobright.ai/jobs/info/68c1411b4d652f0447756c32?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 09 |
+| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Inventory & Supply Chain Co-Op/Intern - Spring 2026](https://jobright.ai/jobs/info/68a7bf28d627244576e2e57e?utm_campaign=1050&utm_source=git)** | Mulberry, FL | On Site | Sep 09 |
 | **[repsol](http://www.repsol.com)** | **[Operations & Maintenance Intern](https://jobright.ai/jobs/info/68c115f85c5d5f14f46e3dd2?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 09 |
 | **[Bentley Systems](http://www.bentley.com)** | **[Operations Intern - Hawaii](https://jobright.ai/jobs/info/68c115cb702aa35207ab3460?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 09 |
 | **[repsol](http://www.repsol.com)** | **[Operations & Maintenance Intern](https://jobright.ai/jobs/info/68c112468e65e77df55c7265?utm_campaign=1050&utm_source=git)** | Downtown Houston | On Site | Sep 09 |
@@ -70,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Project Assistant Sr. Intern](https://jobright.ai/jobs/info/68c10a685c5d5f14f46e3990?utm_campaign=1050&utm_source=git)** | Richmond, California, USA | On Site | Sep 09 |
 | ↳ | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/68c10a5f5c5d5f14f46e398d?utm_campaign=1050&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Sep 09 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Upstream Distribution Center, Rialto, CA](https://jobright.ai/jobs/info/68c109285c5d5f14f46e37f9?utm_campaign=1050&utm_source=git)** | Rialto, CA | Hybrid | Sep 09 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/68c1063d8e65e77df55c6c71?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 09 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2025 Dougherty Family College Internship](https://jobright.ai/jobs/info/68c143d44d652f0447756e04?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Sep 09 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) West Replenishment Distribution Center, Fontana, CA](https://jobright.ai/jobs/info/68c122e23fd8b059a20ee373?utm_campaign=1050&utm_source=git)** | Fontana, CA | Hybrid | Sep 09 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) Food & Beverage Distribution Center, Rialto, CA](https://jobright.ai/jobs/info/68c121b3233c7d3e64d00147?utm_campaign=1050&utm_source=git)** | Rialto, CA | Hybrid | Sep 09 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) Flow Center Distribution Center, Riverside, CA](https://jobright.ai/jobs/info/68c122063fd8b059a20ee2aa?utm_campaign=1050&utm_source=git)** | Riverside, CA | Hybrid | Sep 09 |
@@ -100,9 +104,10 @@ For a complete list, click the following sortable link below:
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/68c0dffa702aa35207ab14dd?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | Sep 09 |
 | **[Intact Insurance Specialty Solutions](http://www.intactspecialty.com)** | **[IT Intern (Hybrid)](https://jobright.ai/jobs/info/68c0df095c5d5f14f46e1d42?utm_campaign=1050&utm_source=git)** | Canton, MA | Hybrid | Sep 09 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Cargo (Summer 2026)](https://jobright.ai/jobs/info/68c0de945c5d5f14f46e1cee?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 09 |
-| **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c0dd0e5c5d5f14f46e1be4?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Sep 09 |
+| **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c0dd3c5c5d5f14f46e1c08?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Sep 09 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68c0dd0e5c5d5f14f46e1be4?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Sep 09 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Project Controls Intern - Field](https://jobright.ai/jobs/info/68c0db7c8e65e77df55c5109?utm_campaign=1050&utm_source=git)** | Manhattan, KS | Hybrid | Sep 09 |
 | **[CGB Enterprises, Inc.](https://www.cgbgrain.com)** | **[Intern](https://jobright.ai/jobs/info/68c0daef8e65e77df55c50c4?utm_campaign=1050&utm_source=git)** | Olney, IL | On Site | Sep 09 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Project Controls Intern - Field](https://jobright.ai/jobs/info/68c0d8d95c5d5f14f46e1ac7?utm_campaign=1050&utm_source=git)** | Manhattan, KS | Hybrid | Sep 09 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Private/Commercial Work)](https://jobright.ai/jobs/info/68c0d8ce5c5d5f14f46e1abc?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Operations Project Management Intern - St. Paul, MN](https://jobright.ai/jobs/info/68c0d7ef8e65e77df55c501e?utm_campaign=1050&utm_source=git)** | St Paul, MN, 55117 | On Site | Sep 09 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Supply Chain Intern*](https://jobright.ai/jobs/info/68c0d7ce8e65e77df55c500f?utm_campaign=1050&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Sep 09 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CAVA](http://cava.com)** | **[Intern](https://jobright.ai/jobs/info/68c0b8b58e65e77df55c3dc1?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 09 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68c0b8978e65e77df55c3d9e?utm_campaign=1050&utm_source=git)** | Bartlett, TN | On Site | Sep 09 |
 | **[First Bank & Trust](http://bankeasy.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68c0b881702aa35207aafdea?utm_campaign=1050&utm_source=git)** | Brookings, SD (East) | On Site | Sep 09 |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Transportation Management Ops Summer Internship 2026](https://jobright.ai/jobs/info/68c131bb3fd8b059a20eecbb?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Sep 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Georgia Southern University](https://jobright.ai/jobs/info/68c0b70a8e65e77df55c3c3d?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 09 |
-| **[Scoular](http://www.scoular.com/)** | **[Facility Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c0b6b78e65e77df55c3bea?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | Sep 09 |
-| **[Valmark Financial Group](http://valmarkfg.com)** | **[Member Office Relations Intern](https://jobright.ai/jobs/info/68c0b5915c5d5f14f46e0673?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Sep 09 |
-| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - Logistics Intern - Iowa](https://jobright.ai/jobs/info/68c0b549702aa35207aafd77?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Sep 09 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Commercial Banking (ICRE)](https://jobright.ai/jobs/info/68c0b4af5c5d5f14f46e05d7?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[POOLCORP](http://www.poolcorp.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/68c0b36d702aa35207aafc32?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 09 |
-| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Spring 2026 - Supply Chain Intern - Iowa](https://jobright.ai/jobs/info/68c0b3615c5d5f14f46e0505?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

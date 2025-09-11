@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68c2921b8753a565272fbcbe?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 11 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Programme Management
+Job ID : 263495](https://jobright.ai/jobs/info/68c291d0b535a221b153cadb?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Sep 11 |
+| **[BrightView Landscapes](https://www.brightview.com)** | **[Intern - Office (Full Time, Temporary)](https://jobright.ai/jobs/info/68c2910103b99f6b34296238?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Sep 11 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c2890f03b99f6b34294fba?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Sep 11 |
 | **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68c272ab33864f172f9c0ac2?utm_campaign=1050&utm_source=git)** | West Memorial Place 2 9th -14th floor, 15377 Memorial Drive, Houston, Texas 77079, Houston, Texas, 77079, US | On Site | Sep 10 |
 | **[Honkamp, P.C.](http://honkamp.com)** | **[Join Our Team! Seasonal Administrative Coordinator](https://jobright.ai/jobs/info/68c2722163b706703e115230?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Sep 10 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Vice Chair of Research - Open Rank - Internal Medicine](https://jobright.ai/jobs/info/68c271054d652f0447760913?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 10 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c289b48753a565272fa997?utm_campaign=1050&utm_source=git)** | Olathe, Kansas | On Site | Sep 10 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68b53a80bc187f64e1be5c20?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Sep 10 |
+| **[Belden Inc.](http://belden.com)** | **[Corporate Strategy Internship](https://jobright.ai/jobs/info/68c28f6203b99f6b34295f03?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 10 |
+| **[Schernecker Property Services, Inc.](https://sps.solutions)** | **[Project Management Intern/Co-Op](https://jobright.ai/jobs/info/68c28afd03b99f6b342958f8?utm_campaign=1050&utm_source=git)** | Needham, Massachusetts, United States | On Site | Sep 10 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Spring/Summer 2026](https://jobright.ai/jobs/info/68c2603463b706703e114963?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - North Indianapolis/Fishers](https://jobright.ai/jobs/info/68c25ed24d652f0447760171?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 10 |
 | ↳ | **[Summer 2026 Management Internship - Greater Bangor](https://jobright.ai/jobs/info/68c25c1133864f172f9bfe6b?utm_campaign=1050&utm_source=git)** | Bangor, ME | On Site | Sep 10 |
@@ -95,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Weatherford](http://www.weatherford.com)** | **[Weatherford Summer Business Internship](https://jobright.ai/jobs/info/68c22bf733864f172f9bd8cb?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 10 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/68c228be4d652f044775d867?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 10 |
 | **[DOXA ](http://doxainsurance.com/)** | **[Pathways Internship Position](https://jobright.ai/jobs/info/68bf25758e65e77df55b75a5?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | Hybrid | Sep 10 |
+| **[City Brewing Company](http://citybrewery.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c298a303b99f6b34296eb2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Sep 10 |
 | **[Irving Tissue](https://www.irvingtissue.com/)** | **[Supply Chain Analyst Co-op - Macon, GA - Winter 2026](https://jobright.ai/jobs/info/68bed96f702aa35207aa0f42?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Sep 10 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68c223d84d652f044775d75c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
 | ↳ | **[Campus Intern](https://jobright.ai/jobs/info/68c223614d652f044775d6e8?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 10 |
@@ -148,13 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Weatherford](http://www.weatherford.com)** | **[Weatherford Summer Business Internship](https://jobright.ai/jobs/info/68c200e04d652f044775c491?utm_campaign=1050&utm_source=git)** | 2000 St. James Place, Houston, TX, 77056, US | On Site | Sep 10 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Industrial Engineering Project Management Co-Op](https://jobright.ai/jobs/info/68c2007d33864f172f9bc3e5?utm_campaign=1050&utm_source=git)** | Springfield, MO (Tracker Marine Base Camp) | On Site | Sep 10 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68c2005a4d652f044775c405?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 10 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[2026 Project Management - Wind Energy - Intern](https://jobright.ai/jobs/info/68c1ff6a33864f172f9bc342?utm_campaign=1050&utm_source=git)** | 1615 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 10 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f8d863b706703e110b13?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f80b63b706703e110a71?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 10 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f7c963b706703e110a52?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Sep 10 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f71163b706703e1109f7?utm_campaign=1050&utm_source=git)** | Pharr, TX | On Site | Sep 10 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f6ed33864f172f9bc086?utm_campaign=1050&utm_source=git)** | Springdale, OH | On Site | Sep 10 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f6a333864f172f9bc058?utm_campaign=1050&utm_source=git)** | Westmont, IL | On Site | Sep 10 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 10 |
-| **[e-STORAGE](https://csestorage.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c1f4524d652f044775c081?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

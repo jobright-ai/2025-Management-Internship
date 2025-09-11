@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68c272ab33864f172f9c0ac2?utm_campaign=1050&utm_source=git)** | West Memorial Place 2 9th -14th floor, 15377 Memorial Drive, Houston, Texas 77079, Houston, Texas, 77079, US | On Site | Sep 10 |
+| **[Honkamp, P.C.](http://honkamp.com)** | **[Join Our Team! Seasonal Administrative Coordinator](https://jobright.ai/jobs/info/68c2722163b706703e115230?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Sep 10 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Vice Chair of Research - Open Rank - Internal Medicine](https://jobright.ai/jobs/info/68c271054d652f0447760913?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 10 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Spring/Summer 2026](https://jobright.ai/jobs/info/68c2603463b706703e114963?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - North Indianapolis/Fishers](https://jobright.ai/jobs/info/68c25ed24d652f0447760171?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 10 |
 | ↳ | **[Summer 2026 Management Internship - Greater Bangor](https://jobright.ai/jobs/info/68c25c1133864f172f9bfe6b?utm_campaign=1050&utm_source=git)** | Bangor, ME | On Site | Sep 10 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Shareholder Relations- Year-Round College Intern](https://jobright.ai/jobs/info/68c21a6d4d652f044775cf98?utm_campaign=1050&utm_source=git)** | United States | On Site | Sep 10 |
 | **[National Life Group](https://www.nationallife.com)** | **[After Issue Intern - Summer 2026](https://jobright.ai/jobs/info/68c219ad33864f172f9bcf6c?utm_campaign=1050&utm_source=git)** | Montpelier, VT | Hybrid | Sep 10 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship- Executive Assistant Intern](https://jobright.ai/jobs/info/68c212f563b706703e1116f4?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Sep 10 |
-| **[Baker Group](http://thebakergroup.com)** | **[2026 Intern](https://jobright.ai/jobs/info/68c24a9163b706703e11379a?utm_campaign=1050&utm_source=git)** | Des Moines Metro | On Site | Sep 10 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Spring 2026] Technology - Project Management Internship](https://jobright.ai/jobs/info/68c20f5a4d652f044775cd09?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 10 |
 | **[DCH Health System](https://www.dchsystem.com/covid-19/)** | **[Administrative Healthcare Intern - Pharmacy](https://jobright.ai/jobs/info/68c23a254d652f044775e092?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Sep 10 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Transportation Management Ops Summer Internship 2026](https://jobright.ai/jobs/info/68c20ec04d652f044775cc8f?utm_campaign=1050&utm_source=git)** | Newport, KY | On Site | Sep 10 |
@@ -131,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship- Executive Assistant Intern](https://jobright.ai/jobs/info/68c20e5b4d652f044775cc2f?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Sep 10 |
 | **[Cognosos, Inc.](http://www.cognosos.com/)** | **[Supply Chain, Logistics & Operations Internship (Spring/Summer 2026)](https://jobright.ai/jobs/info/68c20db64d652f044775cbb9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
 | **[Knoll](http://www.knoll.com/)** | **[Direct Supply Management Intern](https://jobright.ai/jobs/info/68c20cdd4d652f044775cb05?utm_campaign=1050&utm_source=git)** | East Greenville, PA | On Site | Sep 10 |
-| **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c20bc133864f172f9bca40?utm_campaign=1050&utm_source=git)** | Simsbury, CT | On Site | Sep 10 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Residential Account Manager Internship](https://jobright.ai/jobs/info/68c20b4933864f172f9bc985?utm_campaign=1050&utm_source=git)** | Lake Bluff, IL | On Site | Sep 10 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Agriculture Operations Intern](https://jobright.ai/jobs/info/68c20b324d652f044775ca7d?utm_campaign=1050&utm_source=git)** | Home Office, Texas, United States | Remote | Sep 10 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Digital Delivery Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68c207fb4d652f044775c86c?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 10 |
@@ -139,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/68c224c563b706703e111f78?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Sep 10 |
 | **[Jack Link's Protein Snacks](https://jacklinks.com.au/)** | **[Operations Intern](https://jobright.ai/jobs/info/68c2061663b706703e1110b8?utm_campaign=1050&utm_source=git)** | Minong, WI | On Site | Sep 10 |
 | **[Inteva Products](https://www.intevaproducts.com/)** | **[Program Manager Intern](https://jobright.ai/jobs/info/68c2054433864f172f9bc63f?utm_campaign=1050&utm_source=git)** | Vandalia, OH | On Site | Sep 10 |
+| **[HNTB](http://www.hntb.com/)** | **[Project Controls Intern - Summer 2026](https://jobright.ai/jobs/info/68bf6165702aa35207aa5dc0?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 10 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/68c2046763b706703e110f11?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Sep 10 |
 | **[William Blair](http://www.williamblair.com)** | **[Working in Technology (WiT) Project Management - Summer 2026](https://jobright.ai/jobs/info/68c2043733864f172f9bc555?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, United States | On Site | Sep 10 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/68c2042963b706703e110ecf?utm_campaign=1050&utm_source=git)** | MI - Holland | On Site | Sep 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f6a333864f172f9bc058?utm_campaign=1050&utm_source=git)** | Westmont, IL | On Site | Sep 10 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f67f33864f172f9bc039?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 10 |
 | **[e-STORAGE](https://csestorage.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c1f4524d652f044775c081?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 10 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f4454d652f044775c079?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 10 |
-| ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3ca4d652f044775c021?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,9 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c39762b8c22d3828473710?utm_campaign=1050&utm_source=git)** | Maple Grove, MN | On Site | Sep 11 |
+| **[Google](https://www.google.com)** | **[Project Management Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68c3956480e77b1fa6fcaaf6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| ↳ | **[Project Management Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68c3955480e77b1fa6fcaae5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c3946680e77b1fa6fcaa0d?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c393da6031587f8458c1c7?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Sep 11 |
+| **[Google](https://www.google.com)** | **[Project Management Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68c3926bb8c22d38284732d7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 11 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68c391f9b8c22d38284731c1?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Sep 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c390ffb8c22d3828472f54?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Sep 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c39074b8c22d3828472df8?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38f246031587f8458bda6?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Sep 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38ec26031587f8458bd4d?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Sep 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38e406031587f8458bcbd?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Sep 11 |
+| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c374e2b8c22d3828471f47?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Intern - San Miguel](https://jobright.ai/jobs/info/68c3846bb8c22d38284726aa?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 11 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Operations Materials Intern](https://jobright.ai/jobs/info/68c3818a6031587f8458b5ec?utm_campaign=1050&utm_source=git)** | Bedford, PA | On Site | Sep 11 |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[2025 Supply Chain Internship - Booneville, MS](https://jobright.ai/jobs/info/68c37e8e80e77b1fa6fc9ab6?utm_campaign=1050&utm_source=git)** | Booneville, MS | On Site | Sep 11 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c37df1b8c22d3828472330?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Sep 11 |
+| **[Amentum](https://www.amentum.com/)** | **[Property Management Internship IRES - HSV](https://jobright.ai/jobs/info/68c37c056031587f8458b322?utm_campaign=1050&utm_source=git)** | Huntsville, AL | Hybrid | Sep 11 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supplier Management Group Research & Development Sourcing and Procurement Intern](https://jobright.ai/jobs/info/68c3775d6031587f8458b14a?utm_campaign=1050&utm_source=git)** | West Point, PA | Hybrid | Sep 11 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern - Spring 2026](https://jobright.ai/jobs/info/68c376ce6031587f8458b0e4?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Sep 11 |
-| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c374e2b8c22d3828471f47?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
 | **[GlobalFoundries](https://gf.com/)** | **[Corporate Development Intern, MBA Leadership & Development Program (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68c3740cb8c22d3828471e65?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Sep 11 |
 | ↳ | **[Corporate Development Intern, MBA Leadership & Development Program (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/68c371d36031587f8458aea5?utm_campaign=1050&utm_source=git)** | Santa Clara | On Site | Sep 11 |
 | **[GFT](https://www.gftinc.com/)** | **[Intern - Administrative Support](https://jobright.ai/jobs/info/68c371d06031587f8458ae9a?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA | Hybrid | Sep 11 |
@@ -108,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supplier Management Group Research & Development Sourcing and Procurement Intern](https://jobright.ai/jobs/info/68c3318463829b0a8a5009e2?utm_campaign=1050&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c3316863829b0a8a5009b2?utm_campaign=1050&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 11 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c331455001f8077bf61ead?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 11 |
-| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c3311d5adaee6c9bda7fcf?utm_campaign=1050&utm_source=git)** | Troy, MI - USA | On Site | Sep 11 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supplier Management Group Research & Development Sourcing and Procurement Intern](https://jobright.ai/jobs/info/68c3310a5adaee6c9bda7fa3?utm_campaign=1050&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Sep 11 |
+| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c331055adaee6c9bda7f9f?utm_campaign=1050&utm_source=git)** | Troy, MI - USA | On Site | Sep 11 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c330e45adaee6c9bda7f77?utm_campaign=1050&utm_source=git)** | Maple Grove, MN, 55369 | On Site | Sep 11 |
 | **[MAHLE](https://www.mahle.com)** | **[Logistics Intern - Winter](https://jobright.ai/jobs/info/68c32cea5001f8077bf61de6?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68c32c3a5adaee6c9bda7e71?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 11 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Insurance Operations](https://jobright.ai/jobs/info/68c3123863829b0a8a4ff6a7?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Sep 11 |
 | **[nVent](https://www.nvent.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c311a65001f8077bf60c45?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Sep 11 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Business Unit of the CFO (Wealth Management)](https://jobright.ai/jobs/info/68c3119e5adaee6c9bda6c65?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 11 |
-| **[nVent](https://www.nvent.com/)** | **[Operations Intern (June - August 2026)](https://jobright.ai/jobs/info/68c3119d5adaee6c9bda6c64?utm_campaign=1050&utm_source=git)** | Anoka, MN | On Site | Sep 11 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Strategy & Innovation Internship](https://jobright.ai/jobs/info/68c3111563829b0a8a4ff57f?utm_campaign=1050&utm_source=git)** | Westlake, TX | On Site | Sep 11 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Supply Chain Analyst Internship](https://jobright.ai/jobs/info/68c310a85001f8077bf60b7a?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Sep 11 |
-| **[Bastian Solutions](https://www.bastiansolutions.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c3102463829b0a8a4ff49c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 11 |
-| **[Altec](https://www.altec.com/altec-capital/)** | **[Co-Op, Supply Chain Analyst](https://jobright.ai/jobs/info/68c3101863829b0a8a4ff490?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Sep 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Texas State University](https://jobright.ai/jobs/info/68c30c405adaee6c9bda68e8?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 11 |
-| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Operations Improvement Intern](https://jobright.ai/jobs/info/68c30bec63829b0a8a4ff23e?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | Remote | Sep 11 |
-| **[Spokane Colleges](http://www.ccs.spokane.edu/)** | **[Administrative Assistant 1 - Student Support Services](https://jobright.ai/jobs/info/68c30b1a63829b0a8a4ff1a7?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Sep 11 |
-| **[Clarios](https://www.clarios.com/)** | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68c30ab15adaee6c9bda67ad?utm_campaign=1050&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Sep 11 |
-| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c30a975adaee6c9bda676a?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 11 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Operations Materials Intern](https://jobright.ai/jobs/info/68c30a645adaee6c9bda66e7?utm_campaign=1050&utm_source=git)** | Bedford, Pennsylvania, United States | On Site | Sep 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Oklahoma](https://jobright.ai/jobs/info/68c3094663829b0a8a4fee78?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 11 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Strategy & Innovation Internship](https://jobright.ai/jobs/info/68c3092263829b0a8a4fee61?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 11 |
-| **[Clarios](https://www.clarios.com/)** | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68c308c363829b0a8a4fee04?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 11 |
-| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c306105001f8077bf604a7?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 11 |
-| ↳ | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68c3042d5001f8077bf602f3?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - SDSU](https://jobright.ai/jobs/info/68c303235adaee6c9bda62b0?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

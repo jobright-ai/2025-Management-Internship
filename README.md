@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c3ae13b8c22d38284747cb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 11 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Research Project Coordinator Co-Op](https://jobright.ai/jobs/info/68c3c01080e77b1fa6fccbee?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Sep 11 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/68c3b4cc80e77b1fa6fcc647?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 11 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68c3b1e56031587f8458dbc8?utm_campaign=1050&utm_source=git)** | Covington, LA | On Site | Sep 11 |
+| **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Commercial Strategy](https://jobright.ai/jobs/info/68c3b1be6031587f8458db6c?utm_campaign=1050&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| ↳ | **[Summer 2026 Intern - CPX Operations](https://jobright.ai/jobs/info/68c3b181b8c22d3828474a77?utm_campaign=1050&utm_source=git)** | USA - Remote | Remote | Sep 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c3b0fb6031587f8458da03?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 11 |
+| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c3ae13b8c22d38284747cb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 11 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c3adc3b8c22d3828474743?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 11 |
 | ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c39d38b8c22d3828473b3c?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 11 |
 | ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c39cc7b8c22d3828473aad?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Sep 11 |
@@ -85,7 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38f246031587f8458bda6?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Sep 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38ec26031587f8458bd4d?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Sep 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38e406031587f8458bcbd?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Sep 11 |
-| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c374e2b8c22d3828471f47?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
+| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c372d5b8c22d3828471d98?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Intern - San Miguel](https://jobright.ai/jobs/info/68c3846bb8c22d38284726aa?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Operations Materials Intern](https://jobright.ai/jobs/info/68c3818a6031587f8458b5ec?utm_campaign=1050&utm_source=git)** | Bedford, PA | On Site | Sep 11 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[2025 Supply Chain Internship - Booneville, MS](https://jobright.ai/jobs/info/68c37e8e80e77b1fa6fc9ab6?utm_campaign=1050&utm_source=git)** | Booneville, MS | On Site | Sep 11 |
@@ -115,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68c35b08b8c22d38284711ba?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Sep 11 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Global Supply Chain - Virtual](https://jobright.ai/jobs/info/68c35afbb8c22d38284711aa?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Sep 11 |
 | **[Williams-Sonoma, Inc. Supply Chain](http://wsapplymemphis.com)** | **[2025 Supply Chain Internship - Booneville, MS](https://jobright.ai/jobs/info/68c35771b8c22d382847110a?utm_campaign=1050&utm_source=git)** | Booneville, MS | On Site | Sep 11 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Project Management (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb749f8043103d4f228b92?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Sep 11 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68c35729b8c22d38284710d0?utm_campaign=1050&utm_source=git)** | Fayetteville, NC | On Site | Sep 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68c357136031587f8458a19c?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Sep 11 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/68c356846031587f8458a11a?utm_campaign=1050&utm_source=git)** | Quincy, MA | On Site | Sep 11 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Logistics Intern - Fall](https://jobright.ai/jobs/info/68c32c265adaee6c9bda7e62?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/68c32a7263829b0a8a500664?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 11 |
 | ↳ | **[Intern/Co-Op- Summer 2026 (Nashville)](https://jobright.ai/jobs/info/68c32a3f5001f8077bf61bcb?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 11 |
-| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Logistics Internship - Fall 2025](https://jobright.ai/jobs/info/68c329bc5001f8077bf61b59?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Sep 11 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Spring 2026 (Nashville)](https://jobright.ai/jobs/info/68c329765001f8077bf61b32?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 11 |
-| **[Great Wolf Lodge](http://www.greatwolf.com)** | **[Summer Hospitality Internship Program](https://jobright.ai/jobs/info/68c36705b8c22d38284717f9?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Sep 11 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Manufacturing Operations/ Supply-Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68c326505001f8077bf61ad4?utm_campaign=1050&utm_source=git)** | Wixom, MI | On Site | Sep 11 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Intern](https://jobright.ai/jobs/info/68c3573080e77b1fa6fc8771?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 11 |
-| **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Supply Chain: January - June 2026 (Onsite)](https://jobright.ai/jobs/info/68c325a15001f8077bf6197c?utm_campaign=1050&utm_source=git)** | Acton, Massachusetts | On Site | Sep 11 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - (Associate Portfolio Executive) - Starting in Summer 2026](https://jobright.ai/jobs/info/68c3251b63829b0a8a50033d?utm_campaign=1050&utm_source=git)** | Chicago, IL United States of America | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

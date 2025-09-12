@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebdbe396b25cb5c64963?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 12 |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Admin Support III - Career & Internship Center](https://jobright.ai/jobs/info/68c3f657e471ef3ce16d2f15?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Sep 12 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Mississippi State University](https://jobright.ai/jobs/info/68c3f0cee471ef3ce16d2dcf?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Summer 2026 Graduate Administrative Intern](https://jobright.ai/jobs/info/68c3f062e396b25cb5c649e7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 12 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Georgia Southern University](https://jobright.ai/jobs/info/68c3ef87e471ef3ce16d2d07?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebdbe396b25cb5c64963?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 12 |
 | ↳ | **[Operations Intern - Mississippi State University](https://jobright.ai/jobs/info/68c3ebd8e396b25cb5c64960?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Sep 12 |
-| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebcce396b25cb5c6495b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 12 |
 | ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebcce396b25cb5c6495a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebcce396b25cb5c6495b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 12 |
 | ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3eaea14bb275ce018ffc3?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
 | ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ead0e396b25cb5c64896?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 12 |
 | ↳ | **[Operations Intern - Georgia Southern University](https://jobright.ai/jobs/info/68c3eaa814bb275ce018ff9c?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Sep 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Entegris](http://www.entegris.com)** | **[Production Planner Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c34f6f6031587f84589c71?utm_campaign=1050&utm_source=git)** | Decatur, TX | Hybrid | Sep 11 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c34f1cb8c22d3828470b4a?utm_campaign=1050&utm_source=git)** | Houston | Hybrid | Sep 11 |
 | **[Staples](http://www.staples.com)** | **[Supply Chain Operations Intern- June 2026](https://jobright.ai/jobs/info/68c34ef66031587f84589b8f?utm_campaign=1050&utm_source=git)** | 200 Bromley Business Parkway, Brighton, CO, 80603, US | On Site | Sep 11 |
-| **[WGI](https://wginc.com/)** | **[Intern - Planning Summer 2026](https://jobright.ai/jobs/info/68c34a2780e77b1fa6fc801a?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 11 |
-| **[The Brewer-Garrett Company](https://www.brewer-garrett.com/)** | **[Project Coordination Internship](https://jobright.ai/jobs/info/68c346385001f8077bf62f19?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Sep 11 |
-| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant To, COM, Department of Internal Med, Division of Pulmonary, Critical Care and Sleep Med](https://jobright.ai/jobs/info/68c341be63829b0a8a501842?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 11 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Facilities Project Management Intern](https://jobright.ai/jobs/info/68c3412a5adaee6c9bda8e19?utm_campaign=1050&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

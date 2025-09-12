@@ -57,6 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebdbe396b25cb5c64963?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 12 |
+| ↳ | **[Operations Intern - Mississippi State University](https://jobright.ai/jobs/info/68c3ebd8e396b25cb5c64960?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebcce396b25cb5c6495b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ebcce396b25cb5c6495a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3eaea14bb275ce018ffc3?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3ead0e396b25cb5c64896?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 12 |
+| ↳ | **[Operations Intern - Georgia Southern University](https://jobright.ai/jobs/info/68c3eaa814bb275ce018ff9c?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3eaa2e396b25cb5c64878?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3e9dfe471ef3ce16d2bd1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Sep 12 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Operations Business Intern - St. Paul, MN](https://jobright.ai/jobs/info/68c3e9d2e396b25cb5c64816?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Sep 12 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3e94de471ef3ce16d2b86?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3e891e471ef3ce16d2b30?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 12 |
+| ↳ | **[Operations Intern - North Carolina A&T State University](https://jobright.ai/jobs/info/68c3e849e471ef3ce16d2af8?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 12 |
+| **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Commercial Strategy](https://jobright.ai/jobs/info/68c3e831e471ef3ce16d2af2?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 12 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Operations Business Intern - Fargo, ND](https://jobright.ai/jobs/info/68c3e7e1e471ef3ce16d2ad6?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Sep 12 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX Operations](https://jobright.ai/jobs/info/68c3dec1e396b25cb5c643dd?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 12 |
+| **[MyRemoteTeam Inc](https://www.myremoteteam.com)** | **[Executive Assistant](https://jobright.ai/jobs/info/68c3de55e396b25cb5c643b1?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Sep 12 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Brewery Operations Intern](https://jobright.ai/jobs/info/68c3d35a80e77b1fa6fcd8d0?utm_campaign=1050&utm_source=git)** | Trenton, OH | On Site | Sep 12 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Office Assistant](https://jobright.ai/jobs/info/68c3d21880e77b1fa6fcd835?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 12 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Research Project Coordinator Co-Op](https://jobright.ai/jobs/info/68c3c01080e77b1fa6fccbee?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Sep 11 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/68c3b4cc80e77b1fa6fcc647?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 11 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68c3b1e56031587f8458dbc8?utm_campaign=1050&utm_source=git)** | Covington, LA | On Site | Sep 11 |
@@ -91,7 +110,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38f246031587f8458bda6?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Sep 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38ec26031587f8458bd4d?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Sep 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c38e406031587f8458bcbd?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Sep 11 |
-| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c372d5b8c22d3828471d98?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
+| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c374e2b8c22d3828471f47?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Intern - San Miguel](https://jobright.ai/jobs/info/68c3846bb8c22d38284726aa?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 11 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Operations Materials Intern](https://jobright.ai/jobs/info/68c3818a6031587f8458b5ec?utm_campaign=1050&utm_source=git)** | Bedford, PA | On Site | Sep 11 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[2025 Supply Chain Internship - Booneville, MS](https://jobright.ai/jobs/info/68c37e8e80e77b1fa6fc9ab6?utm_campaign=1050&utm_source=git)** | Booneville, MS | On Site | Sep 11 |
@@ -137,24 +156,5 @@ For a complete list, click the following sortable link below:
 | **[WGI](https://wginc.com/)** | **[Intern - Planning Summer 2026](https://jobright.ai/jobs/info/68c34a2780e77b1fa6fc801a?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Sep 11 |
 | **[The Brewer-Garrett Company](https://www.brewer-garrett.com/)** | **[Project Coordination Internship](https://jobright.ai/jobs/info/68c346385001f8077bf62f19?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Sep 11 |
 | **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Assistant To, COM, Department of Internal Med, Division of Pulmonary, Critical Care and Sleep Med](https://jobright.ai/jobs/info/68c341be63829b0a8a501842?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 11 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Facilities Project Management Intern](https://jobright.ai/jobs/info/68c340ac5001f8077bf62b4d?utm_campaign=1050&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 11 |
-| **[Insulet Corporation](https://www.insulet.com)** | **[Co-op, Procurement: January - June 2026 (Onsite)](https://jobright.ai/jobs/info/68c3408b5adaee6c9bda8c49?utm_campaign=1050&utm_source=git)** | Acton, Massachusetts | On Site | Sep 11 |
-| **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c33ea35001f8077bf628af?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Sep 11 |
-| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Automotive Software Program Management Co-op](https://jobright.ai/jobs/info/68c339d75001f8077bf62566?utm_campaign=1050&utm_source=git)** | Bloomfield Hills, MI | Hybrid | Sep 11 |
-| **[Talcott Financial Group](https://talcott.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c3349a5adaee6c9bda8471?utm_campaign=1050&utm_source=git)** | Greater Hartford | Hybrid | Sep 11 |
-| **[Clozd](https://www.clozd.com)** | **[Operations Analyst - Outreach & Scheduling](https://jobright.ai/jobs/info/68c334215001f8077bf62293?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Sep 11 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Intern](https://jobright.ai/jobs/info/68c333da63829b0a8a500ccf?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Sep 11 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Project Manager Intern (Facilities)](https://jobright.ai/jobs/info/68c331f35adaee6c9bda81db?utm_campaign=1050&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 11 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c331aa5adaee6c9bda8106?utm_campaign=1050&utm_source=git)** | Henderson, CO, 80640 | On Site | Sep 11 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supplier Management Group Research & Development Sourcing and Procurement Intern](https://jobright.ai/jobs/info/68c3318463829b0a8a5009e2?utm_campaign=1050&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 11 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c3316863829b0a8a5009b2?utm_campaign=1050&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 11 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c331455001f8077bf61ead?utm_campaign=1050&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 11 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Global Supplier Management Group Research & Development Sourcing and Procurement Intern](https://jobright.ai/jobs/info/68c3310a5adaee6c9bda7fa3?utm_campaign=1050&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Sep 11 |
-| **[Aptiv](http://www.aptiv.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c331055adaee6c9bda7f9f?utm_campaign=1050&utm_source=git)** | Troy, MI - USA | On Site | Sep 11 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c330e45adaee6c9bda7f77?utm_campaign=1050&utm_source=git)** | Maple Grove, MN, 55369 | On Site | Sep 11 |
-| **[MAHLE](https://www.mahle.com)** | **[Logistics Intern - Winter](https://jobright.ai/jobs/info/68c32cea5001f8077bf61de6?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
-| **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68c32c3a5adaee6c9bda7e71?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 11 |
-| **[MAHLE](https://www.mahle.com)** | **[Logistics Intern - Fall](https://jobright.ai/jobs/info/68c32c265adaee6c9bda7e62?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Sep 11 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/68c32a7263829b0a8a500664?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 11 |
-| ↳ | **[Intern/Co-Op- Summer 2026 (Nashville)](https://jobright.ai/jobs/info/68c32a3f5001f8077bf61bcb?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 11 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Facilities Project Management Intern](https://jobright.ai/jobs/info/68c3412a5adaee6c9bda8e19?utm_campaign=1050&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

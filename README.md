@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[White Cap](https://www.whitecap.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c520ebc96a22563ece78a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
+| **[Budget Car and Truck Rental of Nebraska](http://www.budgetnebraska.com)** | **[Management/Leadership Internship](https://jobright.ai/jobs/info/68c50e297d0db41142731f27?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Sep 12 |
 | **[Gartner](http://www.gartner.com)** | **[Finance Leadership Development Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c5028edb52c07d2883fe0b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Summer Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/68c501d6c96a22563ece5d83?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 12 |
 | **[Gartner](http://www.gartner.com)** | **[Finance Leadership Development Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c4f680c96a22563ece519b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
@@ -77,10 +79,11 @@ For a complete list, click the following sortable link below:
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Management Intern](https://jobright.ai/jobs/info/68c4d11031e5763f188e3c90?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Sep 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Community Management Intern](https://jobright.ai/jobs/info/68c4d0de7279451d6a037e13?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Sep 12 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68c4cd977279451d6a037d54?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 12 |
-| **[Helm](http://www.helm.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c4c8ef7279451d6a037b87?utm_campaign=1050&utm_source=git)** | Plymouth, MI | Hybrid | Sep 12 |
+| **[Molson Coors Beverage Company](http://www.molsoncoors.com/en/)** | **[Brewery Operations Intern](https://jobright.ai/jobs/info/68c173854d652f0447757809?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Sep 12 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68c4c71931e5763f188e379b?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Sep 12 |
 | **[Tourneau|Bucherer](http://www.tourneau.com)** | **[Retail Project Intern](https://jobright.ai/jobs/info/68c4c2407279451d6a03769d?utm_campaign=1050&utm_source=git)** | Queens County, New York, United States | On Site | Sep 12 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Project Management Office Intern (Summer 2026)](https://jobright.ai/jobs/info/68c4c20c31e5763f188e342d?utm_campaign=1050&utm_source=git)** | Columbia, SC, United States | Hybrid | Sep 12 |
+| **[Helm](http://www.helm.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68c4c15b31e5763f188e329f?utm_campaign=1050&utm_source=git)** | Plymouth, MI | Hybrid | Sep 12 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68c4bd95fce86561b9288dc8?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Sep 12 |
 | ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68c4bd77fce86561b9288dac?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Sep 12 |
 | **[Tourneau|Bucherer](http://www.tourneau.com)** | **[Retail Project Intern](https://jobright.ai/jobs/info/68c4bcfafce86561b9288d48?utm_campaign=1050&utm_source=git)** | Queens County, NY | On Site | Sep 12 |
@@ -93,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/68c4b1317279451d6a036d5e?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Sep 12 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Fulfillment Distribution Center, Tucson, Arizona](https://jobright.ai/jobs/info/68c4ae6831e5763f188e2b3c?utm_campaign=1050&utm_source=git)** | 8940 East Rita Park Drive, Tucson,AZ 85747-9255 | Hybrid | Sep 12 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Sep 12 |
+| **[University of Michigan](https://www.umich.edu)** | **[Office Assistant (Student / Work Study)](https://jobright.ai/jobs/info/68c506a6db52c07d288400ed?utm_campaign=1050&utm_source=git)** | Dearborn, MI | Hybrid | Sep 12 |
 | **[Kerecis](http://www.kerecis.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ac7631e5763f188e2824?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Sep 12 |
 | **[Henkel](http://www.henkel.com)** | **[Commercial Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ac5531e5763f188e280d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Sep 12 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Generation Station Project Management](https://jobright.ai/jobs/info/68c4abe5fce86561b9288392?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Sep 12 |
@@ -103,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/68c4e1ac7d0db4114272e7f2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
 | ↳ | **[Property Management Intern](https://jobright.ai/jobs/info/68c4e126c96a22563ece3408?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | Sep 12 |
 | ↳ | **[Lease Administration Intern](https://jobright.ai/jobs/info/68c4e19cdb52c07d2883d393?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | Sep 12 |
-| **[AXA XL](https://axaxl.com)** | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c85b7279451d6a037ae9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 12 |
+| **[AXA XL](https://axaxl.com)** | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c73a7279451d6a037975?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c73dfce86561b92893c4?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
-| ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c73a7279451d6a037975?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Sep 12 |
+| ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c85b7279451d6a037ae9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c737fce86561b92893bd?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c8b67279451d6a037b4f?utm_campaign=1050&utm_source=git)** | Exton, PA | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c8247279451d6a037a89?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
@@ -135,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Retirement & Insurance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c48733e396b25cb5c68f02?utm_campaign=1050&utm_source=git)** | Newark, NJ | Hybrid | Sep 12 |
 | **[Verizon](https://www.verizon.com)** | **[University of Central Florida- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c4846c14bb275ce01943dc?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Sep 12 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Supply Chain Intern](https://jobright.ai/jobs/info/68c48337e471ef3ce16d6fdc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern (Operations)](https://jobright.ai/jobs/info/68c47ec614bb275ce01940f3?utm_campaign=1050&utm_source=git)** | Shippensburg, PA | On Site | Sep 12 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[US Employer Portfolio Strategic Planning - Intern](https://jobright.ai/jobs/info/68c47a32e396b25cb5c68668?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | Hybrid | Sep 12 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship (Operations)](https://jobright.ai/jobs/info/68c47a0de396b25cb5c68606?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Sep 12 |
 | **[AUVSI — Association for Uncrewed Vehicle Systems International](http://www.auvsi.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4774514bb275ce0193ab7?utm_campaign=1050&utm_source=git)** | Arlington, VA | Hybrid | Sep 12 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/68c475d8e471ef3ce16d66b8?utm_campaign=1050&utm_source=git)** | Pittsburgh, Pennsylvania, USA | On Site | Sep 12 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Summer Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/68c4733de471ef3ce16d6671?utm_campaign=1050&utm_source=git)** | Kansas City | On Site | Sep 12 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Kerecis](http://www.kerecis.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c46f8614bb275ce0193551?utm_campaign=1050&utm_source=git)** | Arlington, Virginia | On Site | Sep 12 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Scrum Master - Spring 2026 Co-Op](https://jobright.ai/jobs/info/68c46f4514bb275ce01934f2?utm_campaign=1050&utm_source=git)** | Wellesley Hills, Massachusetts | Hybrid | Sep 12 |
 | **[Canteen North America](http://Canteen.com)** | **[Operations Intern, Canteen / La Crosse, WI](https://jobright.ai/jobs/info/68c46effe396b25cb5c67d2b?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Sep 12 |
+| **[Amplifon](http://corporate.amplifon.com)** | **[Strategy Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c50ed2db52c07d28840b3b?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 12 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Global Strategic Procurement Intern](https://jobright.ai/jobs/info/68c46aeee471ef3ce16d5e6d?utm_campaign=1050&utm_source=git)** | Minnesota, United States | On Site | Sep 12 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 HUD Production Intern](https://jobright.ai/jobs/info/68c4687ae396b25cb5c67940?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Sep 12 |
-| **[Amplifon](http://corporate.amplifon.com)** | **[Strategy Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c4670614bb275ce01930a9?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 12 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Admin Support III - Career & Internship Center](https://jobright.ai/jobs/info/68c46578e471ef3ce16d5c0f?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Sep 12 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Research Intern 2026](https://jobright.ai/jobs/info/68c464c414bb275ce0192dfc?utm_campaign=1050&utm_source=git)** | Wayzata, MN | On Site | Sep 12 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Summer Internship Program - Evansville, IN](https://jobright.ai/jobs/info/68c4e87dc96a22563ece3c46?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Sep 12 |
-| **[Budget Rent a Car, UAE](https://one.budgetinternational.com/en_GB/BudgetThaiAirways/)** | **[Management/Leadership Internship](https://jobright.ai/jobs/info/68c4828de396b25cb5c68baa?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Sep 12 |
-| **[Uber Freight](https://www.uberfreight.com)** | **[Transportation Management Ops Summer Internship 2026](https://jobright.ai/jobs/info/68c4f62b7d0db411427304a9?utm_campaign=1050&utm_source=git)** | Rogers, AR | On Site | Sep 12 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Supply Chain Management (Various Locations)](https://jobright.ai/jobs/info/68bb70cb5f3832749186f25a?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Sep 12 |
-| **[Canteen North America](http://Canteen.com)** | **[Operations Intern, Canteen / New Berlin, WI](https://jobright.ai/jobs/info/68c45fff14bb275ce0192ceb?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

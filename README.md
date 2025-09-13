@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Core & Main](https://coreandmain.com/)** | **[Intern - Corporate](https://jobright.ai/jobs/info/68c52c4ec96a22563ece7c19?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 13 |
+| **[ABB](https://global.abb/group/en)** | **[Intern](https://jobright.ai/jobs/info/68c52c29c96a22563ece7c0a?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
+| **[White Cap](https://www.whitecap.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c52710db52c07d2884189f?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Sep 13 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c52359db52c07d288417ed?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Sep 13 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant – JAA Business Advising Front Desk](https://jobright.ai/jobs/info/68c52238db52c07d2884172d?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 13 |
 | **[White Cap](https://www.whitecap.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c520ebc96a22563ece78a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
+| **[ABB](https://global.abb/group/en)** | **[Junior Project Trainee](https://jobright.ai/jobs/info/68bbdfd08043103d4f22d2f3?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
 | **[Budget Car and Truck Rental of Nebraska](http://www.budgetnebraska.com)** | **[Management/Leadership Internship](https://jobright.ai/jobs/info/68c50e297d0db41142731f27?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Sep 12 |
 | **[Gartner](http://www.gartner.com)** | **[Finance Leadership Development Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c5028edb52c07d2883fe0b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Summer Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/68c501d6c96a22563ece5d83?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 12 |
@@ -107,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[Acadia Realty Trust](http://www.acadiarealty.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/68c4e1ac7d0db4114272e7f2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
 | ↳ | **[Property Management Intern](https://jobright.ai/jobs/info/68c4e126c96a22563ece3408?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | Sep 12 |
 | ↳ | **[Lease Administration Intern](https://jobright.ai/jobs/info/68c4e19cdb52c07d2883d393?utm_campaign=1050&utm_source=git)** | Rye, NY | On Site | Sep 12 |
-| **[AXA XL](https://axaxl.com)** | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c73a7279451d6a037975?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Sep 12 |
+| **[AXA XL](https://axaxl.com)** | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c85b7279451d6a037ae9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c73dfce86561b92893c4?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
-| ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c85b7279451d6a037ae9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 12 |
+| ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c73a7279451d6a037975?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c737fce86561b92893bd?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c8b67279451d6a037b4f?utm_campaign=1050&utm_source=git)** | Exton, PA | Hybrid | Sep 12 |
 | ↳ | **[AXA XL Intern, Americas](https://jobright.ai/jobs/info/68c4c8247279451d6a037a89?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 12 |
@@ -127,20 +133,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/68c49269e396b25cb5c69536?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 12 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/68c491cde396b25cb5c69411?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 12 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Analyst Intern (Melbourne, FL)](https://jobright.ai/jobs/info/68c48e4de471ef3ce16d75e8?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Sep 12 |
-| **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/68c48d87e471ef3ce16d7537?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Sep 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Community Management Intern](https://jobright.ai/jobs/info/68c48c08e471ef3ce16d749a?utm_campaign=1050&utm_source=git)** | Lehi, UT, United States | On Site | Sep 12 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Creative Development Inclusive Strategies Intern (Orlando, FL), Spring 2026](https://jobright.ai/jobs/info/68c48a5a14bb275ce0194750?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 12 |
 | **[Hobart Filler Metals](http://www.hobartbrothers.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c489c8e471ef3ce16d7460?utm_campaign=1050&utm_source=git)** | Troy, OH | On Site | Sep 12 |
 | **[Verizon](https://www.verizon.com)** | **[University of Central Florida- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c48967e471ef3ce16d73d9?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 12 |
 | ↳ | **[Rutgers University- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c4895de396b25cb5c69174?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Sep 12 |
 | ↳ | **[Rutgers University- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c48945e396b25cb5c69166?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 12 |
-| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68c48865e396b25cb5c69067?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 12 |
+| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68c488cee471ef3ce16d7352?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 12 |
 | **[PMA Consultants](http://pmaconsultants.com)** | **[Internship (00486)](https://jobright.ai/jobs/info/68c487f7e396b25cb5c68ff7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 12 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Prudential: 2026 Global Retirement & Insurance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c48733e396b25cb5c68f02?utm_campaign=1050&utm_source=git)** | Newark, NJ | Hybrid | Sep 12 |
 | **[Verizon](https://www.verizon.com)** | **[University of Central Florida- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68c4846c14bb275ce01943dc?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Sep 12 |
 | **[Altium Packaging](https://www.containerexperts.com/)** | **[2026 Supply Chain Intern](https://jobright.ai/jobs/info/68c48337e471ef3ce16d6fdc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[US Employer Portfolio Strategic Planning - Intern](https://jobright.ai/jobs/info/68c47a32e396b25cb5c68668?utm_campaign=1050&utm_source=git)** | Bloomfield, CT | Hybrid | Sep 12 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship (Operations)](https://jobright.ai/jobs/info/68c47a0de396b25cb5c68606?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Sep 12 |
 | **[AUVSI — Association for Uncrewed Vehicle Systems International](http://www.auvsi.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4774514bb275ce0193ab7?utm_campaign=1050&utm_source=git)** | Arlington, VA | Hybrid | Sep 12 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/68c475d8e471ef3ce16d66b8?utm_campaign=1050&utm_source=git)** | Pittsburgh, Pennsylvania, USA | On Site | Sep 12 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Summer Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/68c4733de471ef3ce16d6671?utm_campaign=1050&utm_source=git)** | Kansas City | On Site | Sep 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canteen North America](http://Canteen.com)** | **[Operations Intern, Canteen / La Crosse, WI](https://jobright.ai/jobs/info/68c46effe396b25cb5c67d2b?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Sep 12 |
 | **[Amplifon](http://corporate.amplifon.com)** | **[Strategy Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c50ed2db52c07d28840b3b?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 12 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Global Strategic Procurement Intern](https://jobright.ai/jobs/info/68c46aeee471ef3ce16d5e6d?utm_campaign=1050&utm_source=git)** | Minnesota, United States | On Site | Sep 12 |
-| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 HUD Production Intern](https://jobright.ai/jobs/info/68c4687ae396b25cb5c67940?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Sep 12 |
-| **[Utah Valley University](http://www.uvu.edu/)** | **[Admin Support III - Career & Internship Center](https://jobright.ai/jobs/info/68c46578e471ef3ce16d5c0f?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Sep 12 |
-| **[Cargill](https://www.cargill.com/home)** | **[Operations Research Intern 2026](https://jobright.ai/jobs/info/68c464c414bb275ce0192dfc?utm_campaign=1050&utm_source=git)** | Wayzata, MN | On Site | Sep 12 |
-| **[Reckitt](https://www.reckitt.com)** | **[2026 Summer Internship Program - Evansville, IN](https://jobright.ai/jobs/info/68c4e87dc96a22563ece3c46?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

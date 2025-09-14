@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68c64675db52c07d2884645e?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
+| ↳ | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6465bdb52c07d28846457?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c6439a7d0db411427378ba?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 13 |
+| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64369c96a22563ecec45c?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 13 |
+| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64305db52c07d28846250?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 13 |
+| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642ef7d0db41142737727?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 13 |
+| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642efc96a22563ecec328?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 13 |
+| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68c63cbf7d0db41142736eaf?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c61138db52c07d288445c8?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c6110fdb52c07d288445af?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Summit Financial Strategies, Inc.](https://www.summitfin.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68c5efa6c96a22563ecea2f6?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 13 |
@@ -67,20 +75,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c5b2e17d0db41142734dd3?utm_campaign=1050&utm_source=git)** | Salisbury, MD | On Site | Sep 13 |
 | **[Pascal Health](https://www.linkedin.com/company/108364953)** | **[MBA Intern – Strategy & Operations (Healthcare/AI)](https://jobright.ai/jobs/info/68c5a84e7d0db41142734c8e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Orange and Rockland Utilities, Inc.](http://oru.com)** | **[Analyst Aide Temp Coops - College Students (Business Majors)](https://jobright.ai/jobs/info/68c5a2aec96a22563ece98bb?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68c642e27d0db411427376fb?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Assistant Internship- Rail Infrastructure (Summer 2026)](https://jobright.ai/jobs/info/68c583f7db52c07d2884315e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68c583b1db52c07d2884312b?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Sep 13 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68a8acd96acf96396f721c57?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68a901fdd627244576e36db3?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Sep 13 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technical Project Management](https://jobright.ai/jobs/info/68bd22753bf9eb44f8326d66?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Sep 13 |
-| ↳ | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68a8bea0758f2e4ac3ff4d40?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
 | **[Siemens](https://www.siemens.com/)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57f38c96a22563ece91bb?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57eb0db52c07d28843074?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Sep 13 |
 | ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57e207d0db41142734423?utm_campaign=1050&utm_source=git)** | Auburndale, MA | On Site | Sep 13 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technical Project Management](https://jobright.ai/jobs/info/68c6550c7d0db41142738bdb?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68bbe52e6105227d118aaf07?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
 | **[Minnesota Department of Employment and Economic Development](https://mn.gov/deed/)** | **[Manager of Program Integrity and Internal Controls - State Program Administrator, Manager - Paid Leave](https://jobright.ai/jobs/info/68c573257d0db411427340f9?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Sep 13 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a868f16acf96396f71fb93?utm_campaign=1050&utm_source=git)** | Monee, IL | On Site | Sep 13 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb7dd3a30793eb963cdc3?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | Sep 13 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68a869206acf96396f71fba8?utm_campaign=1050&utm_source=git)** | Republic, MO | On Site | Sep 13 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68a874c16acf96396f72014f?utm_campaign=1050&utm_source=git)** | West Columbia, SC | On Site | Sep 13 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a874186acf96396f720106?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 13 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/688bb58a3a30793eb963cc8a?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Sep 13 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Material Logistics Management (MLM) Summer Internship](https://jobright.ai/jobs/info/68a90624d627244576e36eb8?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 13 |
@@ -89,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68c3b7ab6031587f8458e08e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55a02db52c07d28842603?utm_campaign=1050&utm_source=git)** | Alexandria, LA | On Site | Sep 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/68c632f0c96a22563eceb2a4?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Sep 13 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/68a86c3bd627244576e328aa?utm_campaign=1050&utm_source=git)** | Moreland, GA | On Site | Sep 13 |
 | **[SAP](https://www.sap.com)** | **[SAP SA&E iXp Intern - Project Manager](https://jobright.ai/jobs/info/68c632e8db52c07d28845199?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c5558b7d0db41142733a01?utm_campaign=1050&utm_source=git)** | Ruston, LA | On Site | Sep 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55527c96a22563ece86d6?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Sep 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Summer Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/68c5d7bbc96a22563ece9faa?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 12 |
 | **[Gartner](http://www.gartner.com)** | **[Finance Leadership Development Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c4f680c96a22563ece519b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[2026 Project Management - Wind Energy - Intern](https://jobright.ai/jobs/info/68c4f414db52c07d2883eb2c?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Sep 12 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68c4ea1d7d0db4114272f4c9?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Sep 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c4e9107d0db4114272f099?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Sep 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c4e8b0c96a22563ece3d0d?utm_campaign=1050&utm_source=git)** | Alexandria, MN | On Site | Sep 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c4e8b0db52c07d2883db3d?utm_campaign=1050&utm_source=git)** | New Ulm, MN | On Site | Sep 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c4e823c96a22563ece3b04?utm_campaign=1050&utm_source=git)** | Buffalo, MN | On Site | Sep 12 |
-| ↳ | **[2026 Summer Management Internship](https://jobright.ai/jobs/info/68c4e819c96a22563ece3ae6?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Sep 12 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Community Management Intern](https://jobright.ai/jobs/info/68c4e2fac96a22563ece38f0?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Sep 12 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68c6378d7d0db411427369c9?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Summer Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68c55572db52c07d28842537?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

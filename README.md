@@ -57,16 +57,37 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c6a571c96a22563ecefae2?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 14 |
+| **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Office Assistant - Financial Aid Office](https://jobright.ai/jobs/info/68c6a15bc96a22563ecefa05?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 14 |
+| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Project Team I)](https://jobright.ai/jobs/info/68c69698db52c07d288496f0?utm_campaign=1050&utm_source=git)** | Bridgeport, WV | On Site | Sep 14 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c69666db52c07d288496e0?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Texas State University](https://jobright.ai/jobs/info/68c69651db52c07d288496d5?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Sep 14 |
+| ↳ | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/68c69641db52c07d288496d0?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c69635db52c07d288496ce?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 14 |
+| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c69632db52c07d288496cd?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 14 |
+| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c695f7db52c07d288496b4?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 14 |
+| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c695f5db52c07d288496b3?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c695dadb52c07d288496aa?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c695d9db52c07d288496a9?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c695067d0db4114273ad45?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 14 |
+| ↳ | **[Operations Intern - University of Oklahoma](https://jobright.ai/jobs/info/68c694c07d0db4114273ad25?utm_campaign=1050&utm_source=git)** | Norman, OK | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c694ac7d0db4114273ad1d?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 14 |
+| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c6946bc96a22563ecef936?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c693fac96a22563ecef903?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c693e4c96a22563ecef8f7?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 14 |
+| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c693bcc96a22563ecef8e3?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 14 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c69394c96a22563ecef8cc?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 14 |
 | **[City of Rock Island](http://rigov.org)** | **[Sports Recreation Intern](https://jobright.ai/jobs/info/68c68a4cc96a22563ecef7cd?utm_campaign=1050&utm_source=git)** | Rock Island, IL | On Site | Sep 14 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Operations Improvement Intern](https://jobright.ai/jobs/info/68c6897edb52c07d28849562?utm_campaign=1050&utm_source=git)** | Milwaukee County, WI | Remote | Sep 14 |
-| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c67e15c96a22563ecef6cf?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
-| ↳ | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68c67a09db52c07d2884942a?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68c67a09db52c07d2884942a?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
+| **[Donaldson](http://donaldson.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68bd1cb7ae79610dacdde4ad?utm_campaign=1050&utm_source=git)** | Baldwin, WI | On Site | Sep 13 |
 | **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68c64675db52c07d2884645e?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
+| ↳ | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6465bdb52c07d28846457?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c6439a7d0db411427378ba?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64369c96a22563ecec45c?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64305db52c07d28846250?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 13 |
-| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642ef7d0db41142737727?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642efc96a22563ecec328?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 13 |
+| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642ef7d0db41142737727?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 13 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68c63cbf7d0db41142736eaf?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c61138db52c07d288445c8?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c6110fdb52c07d288445af?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
@@ -78,6 +99,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c5b2e17d0db41142734dd3?utm_campaign=1050&utm_source=git)** | Salisbury, MD | On Site | Sep 13 |
 | **[Pascal Health](https://www.linkedin.com/company/108364953)** | **[MBA Intern – Strategy & Operations (Healthcare/AI)](https://jobright.ai/jobs/info/68c5a84e7d0db41142734c8e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Orange and Rockland Utilities, Inc.](http://oru.com)** | **[Analyst Aide Temp Coops - College Students (Business Majors)](https://jobright.ai/jobs/info/68c5a2aec96a22563ece98bb?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68c642e27d0db411427376fb?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
+| ↳ | **[Summer 2026 Internship: Technical Project Management](https://jobright.ai/jobs/info/68c694f67d0db4114273ad3d?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Sep 13 |
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Assistant Internship- Rail Infrastructure (Summer 2026)](https://jobright.ai/jobs/info/68c583f7db52c07d2884315e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68c583b1db52c07d2884312b?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Sep 13 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68a8acd96acf96396f721c57?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
@@ -87,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57e207d0db41142734423?utm_campaign=1050&utm_source=git)** | Auburndale, MA | On Site | Sep 13 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/68c670c0db52c07d28848b4c?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68bbe52e6105227d118aaf07?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68a8acaa758f2e4ac3ff442f?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
 | **[Minnesota Department of Employment and Economic Development](https://mn.gov/deed/)** | **[Manager of Program Integrity and Internal Controls - State Program Administrator, Manager - Paid Leave](https://jobright.ai/jobs/info/68c573257d0db411427340f9?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Sep 13 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a868f16acf96396f71fb93?utm_campaign=1050&utm_source=git)** | Monee, IL | On Site | Sep 13 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb7dd3a30793eb963cdc3?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | Sep 13 |
@@ -135,26 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c54117db52c07d28842002?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Sep 13 |
 | ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c540c7c96a22563ece81a7?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 13 |
 | ↳ | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/68c5409d7d0db411427333a8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c540907d0db4114273339f?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c5408ec96a22563ece8166?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c5408ddb52c07d28841f51?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 13 |
-| **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Shareholder Relations- Year-Round College Intern](https://jobright.ai/jobs/info/68c54075db52c07d28841f34?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Sep 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c540557d0db4114273337c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 13 |
-| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c5403dc96a22563ece80fb?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 13 |
-| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c5403c7d0db41142733367?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 13 |
-| ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c5403bdb52c07d28841ee6?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c540227d0db41142733352?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c54015c96a22563ece80c2?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c53fdc7d0db41142733317?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 13 |
-| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c53f9d7d0db411427332ed?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c53f717d0db411427332d2?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 13 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Sep 13 |
-| **[Core & Main](https://coreandmain.com/)** | **[Intern - Corporate](https://jobright.ai/jobs/info/68c52c4ec96a22563ece7c19?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 13 |
-| **[ABB](https://global.abb/group/en)** | **[Intern](https://jobright.ai/jobs/info/68c52c29c96a22563ece7c0a?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
-| **[White Cap](https://www.whitecap.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c52710db52c07d2884189f?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Sep 13 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c52359db52c07d288417ed?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Sep 13 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant – JAA Business Advising Front Desk](https://jobright.ai/jobs/info/68c52238db52c07d2884172d?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 13 |
-| **[White Cap](https://www.whitecap.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c520ebc96a22563ece78a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
-| **[ABB](https://global.abb/group/en)** | **[Junior Project Trainee](https://jobright.ai/jobs/info/68bbdfd08043103d4f22d2f3?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68b50982f4e41a61efd8d2bc?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

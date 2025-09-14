@@ -85,12 +85,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/688bb58a3a30793eb963cc8a?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Sep 13 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Material Logistics Management (MLM) Summer Internship](https://jobright.ai/jobs/info/68a90624d627244576e36eb8?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c566e2c96a22563ece898f?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Sep 13 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/689586f88c6d6b442677a9ec?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Sep 13 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Operations Management Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/68a8dd6c758f2e4ac3ff5eee?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Sep 13 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68c3b7ab6031587f8458e08e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 13 |
-| **[SAP](https://www.sap.com)** | **[SAP SA&E iXp Intern - Project Manager](https://jobright.ai/jobs/info/68a902a4d627244576e36e28?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55a02db52c07d28842603?utm_campaign=1050&utm_source=git)** | Alexandria, LA | On Site | Sep 13 |
-| ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c5558b7d0db41142733a01?utm_campaign=1050&utm_source=git)** | Ruston, LA | On Site | Sep 13 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/68c632f0c96a22563eceb2a4?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Sep 13 |
+| **[SAP](https://www.sap.com)** | **[SAP SA&E iXp Intern - Project Manager](https://jobright.ai/jobs/info/68c632e8db52c07d28845199?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Sep 13 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c5558b7d0db41142733a01?utm_campaign=1050&utm_source=git)** | Ruston, LA | On Site | Sep 13 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c55527c96a22563ece86d6?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Sep 13 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a86aee758f2e4ac3ff241c?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Sep 13 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician – Medical Director, CICU - Internal Medicine – Cardiology – Chicago (Downtown)-13135](https://jobright.ai/jobs/info/66fb37e79ba4ba107cc8e308?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 13 |
@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c544627d0db41142733463?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 13 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c544247d0db4114273341c?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 13 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/68c5b6f37d0db41142734e20?utm_campaign=1050&utm_source=git)** | Conyers, GA | On Site | Sep 13 |
+| **[Covestro](https://www.covestro.com)** | **[Site Logistics Intern, Baytown](https://jobright.ai/jobs/info/68c629f27d0db41142735ecc?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Sep 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c541b2c96a22563ece8302?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 13 |
 | ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c541b0c96a22563ece82f6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 13 |
 | ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c5419ac96a22563ece82db?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Sep 13 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Summer Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/68c5d7bbc96a22563ece9faa?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Sep 12 |
 | **[Gartner](http://www.gartner.com)** | **[Finance Leadership Development Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c4f680c96a22563ece519b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[2026 Project Management - Wind Energy - Intern](https://jobright.ai/jobs/info/68c4f414db52c07d2883eb2c?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Sep 12 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c4ea53db52c07d2883e0ec?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Remote | Sep 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68c4ea1d7d0db4114272f4c9?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Sep 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c4e9107d0db4114272f099?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Sep 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c4e8b0c96a22563ece3d0d?utm_campaign=1050&utm_source=git)** | Alexandria, MN | On Site | Sep 12 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68c4e823c96a22563ece3b04?utm_campaign=1050&utm_source=git)** | Buffalo, MN | On Site | Sep 12 |
 | ↳ | **[2026 Summer Management Internship](https://jobright.ai/jobs/info/68c4e819c96a22563ece3ae6?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Sep 12 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Community Management Intern](https://jobright.ai/jobs/info/68c4e2fac96a22563ece38f0?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Sep 12 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68c6378d7d0db411427369c9?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 12 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Summer Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68c55572db52c07d28842537?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 12 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Logistics Route Planning](https://jobright.ai/jobs/info/68c4db4b31e5763f188e424c?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

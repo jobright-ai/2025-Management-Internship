@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rock Island](http://rigov.org)** | **[Sports Recreation Intern](https://jobright.ai/jobs/info/68c68a4cc96a22563ecef7cd?utm_campaign=1050&utm_source=git)** | Rock Island, IL | On Site | Sep 14 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Operations Improvement Intern](https://jobright.ai/jobs/info/68c6897edb52c07d28849562?utm_campaign=1050&utm_source=git)** | Milwaukee County, WI | Remote | Sep 14 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c67e15c96a22563ecef6cf?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
+| ↳ | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68c67a09db52c07d2884942a?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
 | **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68c64675db52c07d2884645e?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
-| ↳ | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6465bdb52c07d28846457?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c6439a7d0db411427378ba?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64369c96a22563ecec45c?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64305db52c07d28846250?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 13 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c5b2e17d0db41142734dd3?utm_campaign=1050&utm_source=git)** | Salisbury, MD | On Site | Sep 13 |
 | **[Pascal Health](https://www.linkedin.com/company/108364953)** | **[MBA Intern – Strategy & Operations (Healthcare/AI)](https://jobright.ai/jobs/info/68c5a84e7d0db41142734c8e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Orange and Rockland Utilities, Inc.](http://oru.com)** | **[Analyst Aide Temp Coops - College Students (Business Majors)](https://jobright.ai/jobs/info/68c5a2aec96a22563ece98bb?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68c642e27d0db411427376fb?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
 | **[Siemens](https://www.siemens.com/)** | **[Project Management Assistant Internship- Rail Infrastructure (Summer 2026)](https://jobright.ai/jobs/info/68c583f7db52c07d2884315e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 13 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68c583b1db52c07d2884312b?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Sep 13 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68a8acd96acf96396f721c57?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
@@ -83,9 +85,9 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com/)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57f38c96a22563ece91bb?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57eb0db52c07d28843074?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Sep 13 |
 | ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57e207d0db41142734423?utm_campaign=1050&utm_source=git)** | Auburndale, MA | On Site | Sep 13 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technical Project Management](https://jobright.ai/jobs/info/68c6550c7d0db41142738bdb?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Sep 13 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/68c670c0db52c07d28848b4c?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68bbe52e6105227d118aaf07?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68a8acaa758f2e4ac3ff442f?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
 | **[Minnesota Department of Employment and Economic Development](https://mn.gov/deed/)** | **[Manager of Program Integrity and Internal Controls - State Program Administrator, Manager - Paid Leave](https://jobright.ai/jobs/info/68c573257d0db411427340f9?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Sep 13 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a868f16acf96396f71fb93?utm_campaign=1050&utm_source=git)** | Monee, IL | On Site | Sep 13 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb7dd3a30793eb963cdc3?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | Sep 13 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Assistant – JAA Business Advising Front Desk](https://jobright.ai/jobs/info/68c52238db52c07d2884172d?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 13 |
 | **[White Cap](https://www.whitecap.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c520ebc96a22563ece78a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Junior Project Trainee](https://jobright.ai/jobs/info/68bbdfd08043103d4f22d2f3?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
-| **[Budget Car and Truck Rental of Nebraska](http://www.budgetnebraska.com)** | **[Management/Leadership Internship](https://jobright.ai/jobs/info/68c50e297d0db41142731f27?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Sep 12 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Project Management (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf11a4702aa35207aa2cc8?utm_campaign=1050&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 12 |
-| **[Gartner](http://www.gartner.com)** | **[Finance Leadership Development Internship (2027 Graduates)](https://jobright.ai/jobs/info/68c5028edb52c07d2883fe0b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Sep 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Allentown](https://jobright.ai/jobs/info/68b50982f4e41a61efd8d2bc?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

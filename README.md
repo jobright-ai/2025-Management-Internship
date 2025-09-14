@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Rock Island](http://rigov.org)** | **[Sports Recreation Intern](https://jobright.ai/jobs/info/68c731bc7d0db4114273bbf0?utm_campaign=1050&utm_source=git)** | Rock Island, IL | On Site | Sep 14 |
 | **[Indiana University Health](http://iuhealth.org)** | **[INTERN - System Operations Support Administrative Assistant](https://jobright.ai/jobs/info/68c70fd07d0db4114273b8bc?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 14 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Program Management Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/68c70f62c96a22563ecf0481?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 14 |
 | **[Indiana University Health](http://iuhealth.org)** | **[INTERN - System Operations Support Administrative Assistant](https://jobright.ai/jobs/info/68c70d42c96a22563ecf0430?utm_campaign=1050&utm_source=git)** | 950 N Meridian St, Indianapolis, IN, 46204, US | On Site | Sep 14 |
@@ -82,14 +83,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c693e4c96a22563ecef8f7?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 14 |
 | ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c693bcc96a22563ecef8e3?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c69394c96a22563ecef8cc?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 14 |
-| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6e0ccdb52c07d28849dff?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6dafdc96a22563ecf0015?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
+| ↳ | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6e0ccdb52c07d28849dff?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 14 |
 | **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68c64675db52c07d2884645e?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
-| ↳ | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68c6465bdb52c07d28846457?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Sep 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c6439a7d0db411427378ba?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64369c96a22563ecec45c?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c64305db52c07d28846250?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 13 |
-| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642efc96a22563ecec328?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 13 |
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642ef7d0db41142737727?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 13 |
+| ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642efc96a22563ecec328?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c61138db52c07d288445c8?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c6110fdb52c07d288445af?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Summit Financial Strategies, Inc.](https://www.summitfin.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68c5efa6c96a22563ecea2f6?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 13 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57eb0db52c07d28843074?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Sep 13 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4ce6df1a6c091c9da20b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 13 |
 | **[Siemens](https://www.siemens.com/)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68c57e207d0db41142734423?utm_campaign=1050&utm_source=git)** | Auburndale, MA | On Site | Sep 13 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/68c670c0db52c07d28848b4c?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Sep 13 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68bbe52e6105227d118aaf07?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 13 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68a8acaa758f2e4ac3ff442f?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Sep 13 |
 | **[AAA Northeast](http://www.aaa.com)** | **[Project Administrator Internship (56480)](https://jobright.ai/jobs/info/68c20e744d652f044775cc48?utm_campaign=1050&utm_source=git)** | Providence, RI | Hybrid | Sep 13 |

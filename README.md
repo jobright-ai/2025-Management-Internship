@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain Intern, S&OP (Summer 2026)](https://jobright.ai/jobs/info/68c764d27d0db4114273bf7f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 14 |
+| ↳ | **[Global Supply Chain Intern, S&OP (Summer 2026)](https://jobright.ai/jobs/info/68c76050db52c07d2884a927?utm_campaign=1050&utm_source=git)** | USA - Texas - Austin | On Site | Sep 14 |
 | **[Arthrex](https://www.arthrex.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/68c749afdb52c07d2884a76d?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Sep 14 |
 | **[Ferguson Construction](http://ferguson-construction.com)** | **[Field and Office Co-op](https://jobright.ai/jobs/info/68c73985c96a22563ecf0969?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
 | ↳ | **[Field and Office Co-op Summer 2026](https://jobright.ai/jobs/info/68c739357d0db4114273bcd4?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 14 |
 | **[City of Rock Island](http://rigov.org)** | **[Sports Recreation Intern](https://jobright.ai/jobs/info/68c731bc7d0db4114273bbf0?utm_campaign=1050&utm_source=git)** | Rock Island, IL | On Site | Sep 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Summer 2026 Graduate Administrative Intern](https://jobright.ai/jobs/info/68c74de0c96a22563ecf0aba?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 14 |
 | **[Indiana University Health](http://iuhealth.org)** | **[INTERN - System Operations Support Administrative Assistant](https://jobright.ai/jobs/info/68c70fd07d0db4114273b8bc?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Sep 14 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Program Management Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/68c70f62c96a22563ecf0481?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 14 |
-| **[Indiana University Health](http://iuhealth.org)** | **[INTERN - System Operations Support Administrative Assistant](https://jobright.ai/jobs/info/68c70d42c96a22563ecf0430?utm_campaign=1050&utm_source=git)** | 950 N Meridian St, Indianapolis, IN, 46204, US | On Site | Sep 14 |
+| ↳ | **[INTERN - System Operations Support Administrative Assistant](https://jobright.ai/jobs/info/68c70d42c96a22563ecf0430?utm_campaign=1050&utm_source=git)** | 950 N Meridian St, Indianapolis, IN, 46204, US | On Site | Sep 14 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Residential Property Management Internship](https://jobright.ai/jobs/info/68c6facf7d0db4114273b691?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Sep 14 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Fall 2025 Internship](https://jobright.ai/jobs/info/68ad3c9dd627244576e4c3ac?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Sep 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c6a571c96a22563ecefae2?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 14 |
 | **[Morehouse College National Alumni Association](http://www.morehousecollegealumni.org/)** | **[Office Assistant - Financial Aid Office](https://jobright.ai/jobs/info/68c6a15bc96a22563ecefa05?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 14 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Project Team I)](https://jobright.ai/jobs/info/68c69698db52c07d288496f0?utm_campaign=1050&utm_source=git)** | Bridgeport, WV | On Site | Sep 14 |
@@ -96,6 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - BYU - Provo (Summer 2026)](https://jobright.ai/jobs/info/68c642ef7d0db41142737727?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c61138db52c07d288445c8?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68c6110fdb52c07d288445af?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
+| **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a909e76acf96396f72444e?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Sep 13 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technology Project Management](https://jobright.ai/jobs/info/68a8ace16acf96396f721c5e?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Sep 13 |
 | **[Summit Financial Strategies, Inc.](https://www.summitfin.com/)** | **[Spring 2026 Internship](https://jobright.ai/jobs/info/68c5efa6c96a22563ecea2f6?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 13 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Admin Support III - Career & Internship Center](https://jobright.ai/jobs/info/68c5eafe7d0db411427354ca?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Sep 13 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c5b442db52c07d288439fd?utm_campaign=1050&utm_source=git)** | Rockingham, NC | On Site | Sep 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68c546137d0db41142733698?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 13 |
 | ↳ | **[Operations Intern - University of Houston](https://jobright.ai/jobs/info/68c545f4c96a22563ece83b2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 13 |
 | ↳ | **[Operations Intern - University of Minnesota Duluth](https://jobright.ai/jobs/info/68c544627d0db41142733463?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 13 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68c544247d0db4114273341c?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 13 |
-| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/68c5b6f37d0db41142734e20?utm_campaign=1050&utm_source=git)** | Conyers, GA | On Site | Sep 13 |
-| **[Covestro](https://www.covestro.com)** | **[Site Logistics Intern, Baytown](https://jobright.ai/jobs/info/68c629f27d0db41142735ecc?utm_campaign=1050&utm_source=git)** | Baytown, TX | On Site | Sep 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68c541b2c96a22563ece8302?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

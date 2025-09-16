@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Virginia - Restaurant Management Internship](https://jobright.ai/jobs/info/68c92ac0f9c6ff7aedf18954?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 16 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c943aca0c52d598ea367f7?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 16 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Financial Services Internship](https://jobright.ai/jobs/info/68c93b63f9c6ff7aedf18d6a?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 16 |
+| **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Las Vegas - Restaurant Management Internship](https://jobright.ai/jobs/info/68c93b55f9c6ff7aedf18d5f?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Sep 16 |
+| ↳ | **[Chicago - Restaurant Management Internship](https://jobright.ai/jobs/info/68c93abe95f5211cd2cef6a2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
+| ↳ | **[Minnesota - Restaurant Management Internship](https://jobright.ai/jobs/info/68c939ff95f5211cd2cef64f?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Sep 16 |
+| ↳ | **[Virginia - Restaurant Management Internship](https://jobright.ai/jobs/info/68c92ac0f9c6ff7aedf18954?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 16 |
 | ↳ | **[Bethesda/North Bethesda- Restaurant Management Internship](https://jobright.ai/jobs/info/68c92aa3f9c6ff7aedf1894a?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | On Site | Sep 16 |
 | ↳ | **[Orlando - Restaurant Management Internship](https://jobright.ai/jobs/info/68c92a5295f5211cd2cef298?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 16 |
 | ↳ | **[Austin - Culinary Internship](https://jobright.ai/jobs/info/68c92a2295f5211cd2cef290?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 16 |
@@ -115,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Supply Chain Planning & Customer Experience](https://jobright.ai/jobs/info/68c8c997f9c6ff7aedf129cd?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Sep 15 |
 | **[Community Health Systems](http://www.chs.net)** | **[Administration Intern](https://jobright.ai/jobs/info/68c8c834f9c6ff7aedf12820?utm_campaign=1050&utm_source=git)** | Clarksville, TN | On Site | Sep 15 |
 | **[RELEX Solutions](http://www.relexsolutions.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68c8c6dbf9c6ff7aedf126b6?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 15 |
-| **[Nike](http://www.nike.com)** | **[Strategic Planning Graduate Internship](https://jobright.ai/jobs/info/68c8ba32f9c6ff7aedf12060?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
 | **[SCS Global Services](https://www.scsglobalservices.com/)** | **[General Consideration](https://jobright.ai/jobs/info/68c8c24d95f5211cd2ce9280?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 15 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Tampa, FL - Summer 2025 - 2026](https://jobright.ai/jobs/info/68c8c05a983e6768bc551294?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 15 |
 | **[Terex Corporation](http://www.terex.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c8c034983e6768bc551247?utm_campaign=1050&utm_source=git)** | USA, SD, Watertown | On Site | Sep 15 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68c8b04d95f5211cd2ce818f?utm_campaign=1050&utm_source=git)** | Shippensburg, PA | On Site | Sep 15 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Supply Chain (PSC) Footwear Sourcing Graduate Internship](https://jobright.ai/jobs/info/68c8af7a95f5211cd2ce8085?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Sep 15 |
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/68c8af5e95f5211cd2ce805b?utm_campaign=1050&utm_source=git)** | Charlottesville, VA | On Site | Sep 15 |
-| **[Liberty First Credit Union](https://www.libertyfirstcu.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68c8ad88f9c6ff7aedf118df?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Sep 15 |
 | **[Northern Trust](http://www.northerntrust.com)** | **[Strategic Change, Data & Digital Intern](https://jobright.ai/jobs/info/68c8ad4c983e6768bc5500f4?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 15 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Park Avenue Securities Operations](https://jobright.ai/jobs/info/68c8acea983e6768bc5500a9?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Sep 15 |
 | **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/68c8ac13f9c6ff7aedf1171d?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Sep 15 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68c8a6e4f9c6ff7aedf1113a?utm_campaign=1050&utm_source=git)** | Saraland, AL | On Site | Sep 15 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion: 2026 Corporate Intern Area Manager, Field Supply Chain - Fulfillment](https://jobright.ai/jobs/info/68c8a660f9c6ff7aedf1107d?utm_campaign=1050&utm_source=git)** | Chino, CA | On Site | Sep 15 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temp Hire](https://jobright.ai/jobs/info/68c8a628f9c6ff7aedf11047?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 15 |
-| **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/68c8a56895f5211cd2ce7c9c?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Sep 15 |
+| **[NVR, Inc.](http://www.nvrinc.com)** | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/68c8a5bc95f5211cd2ce7d17?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 15 |
+| ↳ | **[Campus - Construction Management Intern](https://jobright.ai/jobs/info/68c8a56895f5211cd2ce7c9c?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Sep 15 |
 | **[84.51˚](http://8451.com/)** | **[Agile Delivery - Co-op Program - Spring 2026](https://jobright.ai/jobs/info/68c8a43495f5211cd2ce7ad2?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 15 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[SCM Project Management Intern –Summer 2026 – Smyrna, TN](https://jobright.ai/jobs/info/68c897df95f5211cd2ce7454?utm_campaign=1050&utm_source=git)** | Smyrna, Tennessee - United States of America | On Site | Sep 15 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Supply Chain Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c8979795f5211cd2ce73de?utm_campaign=1050&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68c8b3f995f5211cd2ce865d?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Sep 15 |
-| **[Project Renewal](https://www.projectrenewal.org/)** | **[NSIP Internship Cohorts 53](https://jobright.ai/jobs/info/68c8b2e795f5211cd2ce851d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

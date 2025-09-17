@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verizon Connect](https://www.verizonconnect.com/)** | **[New Jersey Institution of Technology- Finance Leadership Development Internship Program](https://jobright.ai/jobs/info/68ca7ead46caff4db51ffe4a?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | Hybrid | Sep 17 |
+| **[GlobalFoundries](https://gf.com/)** | **[Revenue Operation Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68ca6fae5f9f0336447ddd20?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 17 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Operations Internship / San Antonio, TX](https://jobright.ai/jobs/info/68ca6dc206a34016008c8915?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Hybrid | Sep 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Software Technical Program Manager Intern (May to August)](https://jobright.ai/jobs/info/68ca54e75f9f0336447dc099?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Sep 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ca537446caff4db51fd64b?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
 | ↳ | **[Management Trainee Intern - Janesville](https://jobright.ai/jobs/info/68ca532f46caff4db51fd5a9?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Sep 16 |
@@ -131,30 +134,27 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca0a43f16e3266d2821ffd?utm_campaign=1050&utm_source=git)** | Stevens Point | On Site | Sep 16 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca0a38d4187c55157a58c7?utm_campaign=1050&utm_source=git)** | Fredericksburg | On Site | Sep 16 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Richmond, IN 2025 - 2026](https://jobright.ai/jobs/info/68ca0a00d4187c55157a5860?utm_campaign=1050&utm_source=git)** | Richmond, IN | On Site | Sep 16 |
-| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/68ca07e8f61c922772a7216a?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca07e8f61c922772a7216b?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA | On Site | Sep 16 |
+| **[Ruppert Landscape](http://ruppertlandscape.com)** | **[Internship](https://jobright.ai/jobs/info/68ca07e8f61c922772a7216b?utm_campaign=1050&utm_source=git)** | Mechanicsburg, PA | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca07e8f61c922772a7216a?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca07e3f61c922772a7215e?utm_campaign=1050&utm_source=git)** | Forestville, MD | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca07c6f61c922772a72114?utm_campaign=1050&utm_source=git)** | Apex, North Carolina | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca07acf61c922772a720dc?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca07a7f16e3266d2821f79?utm_campaign=1050&utm_source=git)** | Fairfax, Virginia | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0798f16e3266d2821f56?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0798f61c922772a72095?utm_campaign=1050&utm_source=git)** | Essex, MD | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0793f16e3266d2821f46?utm_campaign=1050&utm_source=git)** | Johns Island, South Carolina | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0790f61c922772a72071?utm_campaign=1050&utm_source=git)** | Dagsboro, DE | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0782f16e3266d2821f28?utm_campaign=1050&utm_source=git)** | Elkridge, Maryland | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0790f61c922772a72070?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0782f61c922772a72063?utm_campaign=1050&utm_source=git)** | Silver Spring, MD | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0782f16e3266d2821f28?utm_campaign=1050&utm_source=git)** | Elkridge, Maryland | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca076fd4187c55157a5768?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0767d4187c55157a5753?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0741f61c922772a71fe2?utm_campaign=1050&utm_source=git)** | Davidsonville, Maryland | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0738f16e3266d2821e8f?utm_campaign=1050&utm_source=git)** | Lorton, VA | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0730d4187c55157a56d6?utm_campaign=1050&utm_source=git)** | Toughkenamon, PA | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0730d4187c55157a56da?utm_campaign=1050&utm_source=git)** | Annapolis, Maryland | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0722f61c922772a71fa0?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca071ff16e3266d2821e49?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca070df16e3266d2821e1c?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca0702d4187c55157a5670?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Sep 16 |
 | ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06f8f16e3266d2821deb?utm_campaign=1050&utm_source=git)** | Frederick, MD | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06eed4187c55157a5645?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06e4f16e3266d2821db3?utm_campaign=1050&utm_source=git)** | Garner, NC | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06abd4187c55157a557a?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06aad4187c55157a5575?utm_campaign=1050&utm_source=git)** | Gainesville, VA | On Site | Sep 16 |
-| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06aad4187c55157a5577?utm_campaign=1050&utm_source=git)** | Henrico, VA | On Site | Sep 16 |
+| ↳ | **[Internship](https://jobright.ai/jobs/info/68ca06e5d4187c55157a5623?utm_campaign=1050&utm_source=git)** | Centre Hall, Pennsylvania | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Colorado](https://jobright.ai/jobs/info/68cbec94128dc347fd91c0f0?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Sep 18 |
 | **[Airbus](https://us.airbus.com)** | **[Internship (d/f/m) within Project Management in the A320 Family Program](https://jobright.ai/jobs/info/68cbd2c39e3a822f5d24c0ce?utm_campaign=1050&utm_source=git)** | Hamburg Area | Hybrid | Sep 18 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/68cbd23eba798c1a501d57e9?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Sep 18 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68cbb3adba798c1a501d41d6?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Sep 18 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Kenvue](https://www.kenvue.com)** | **[2026 Analyst, Global Portfolio Management Co-op (Jan-Jun)](https://jobright.ai/jobs/info/68cbc0e5ba798c1a501d4faa?utm_campaign=1050&utm_source=git)** | Summit, NJ | Hybrid | Sep 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68cb80de9e3a822f5d247477?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Sep 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68cb7e5e9e3a822f5d246c03?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Sep 17 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Operations Business Intern - St. Paul, MN](https://jobright.ai/jobs/info/68cb7e0defdec76df36bd540?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Sep 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Trine University (Summer 2026)](https://jobright.ai/jobs/info/68cbbad0ba798c1a501d4945?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 17 |
 | **[Novant Health](https://www.novanthealth.org/)** | **[Intern](https://jobright.ai/jobs/info/68cbcb4c9e3a822f5d24bd2c?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Sep 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68cbbeaf9e3a822f5d24b6ec?utm_campaign=1050&utm_source=git)** | Jeffersonville, IN | On Site | Sep 17 |
@@ -135,9 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Kenvue](https://www.kenvue.com)** | **[2026 Analyst, Global Portfolio Management Co-op (Jan-Jun)](https://jobright.ai/jobs/info/68cb38e39e3a822f5d243de1?utm_campaign=1050&utm_source=git)** | North America, United States, New Jersey, Summit | Hybrid | Sep 17 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Project Intern](https://jobright.ai/jobs/info/68cb3835efdec76df36ba385?utm_campaign=1050&utm_source=git)** | Commerce, CA 90040 | Hybrid | Sep 17 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship- Executive Assistant Intern](https://jobright.ai/jobs/info/68cb6cf2ba798c1a501cf744?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Sep 17 |
-| **[The Boldt Company](https://www.boldt.com)** | **[Project Delivery Services Intern](https://jobright.ai/jobs/info/68cb33dfba798c1a501cd2fa?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 17 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Student Office Assistant](https://jobright.ai/jobs/info/68cbba589e3a822f5d24ae52?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | Sep 17 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Illinois (Summer 2026)](https://jobright.ai/jobs/info/68cb2ac29e3a822f5d2434f5?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 17 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Development Summer Analyst](https://jobright.ai/jobs/info/68cb2a59efdec76df36b9af3?utm_campaign=1050&utm_source=git)** | City Office San Francisco, San Francisco, CA | On Site | Sep 17 |
 | ↳ | **[Development Summer Analyst](https://jobright.ai/jobs/info/68cb29e19e3a822f5d2433f4?utm_campaign=1050&utm_source=git)** | City Office Sacramento, Sacramento, CA | On Site | Sep 17 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68cb2904ba798c1a501cc89b?utm_campaign=1050&utm_source=git)** | Atlanta Metro | Hybrid | Sep 17 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Fleet Safety & ISM (ISM Team)](https://jobright.ai/jobs/info/68cb1e00efdec76df36b9171?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
 | ↳ | **[2026 Internship - Revenue Planning and Analysis -Cruise Itineraries](https://jobright.ai/jobs/info/68cb1deaefdec76df36b9157?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Value Chain Risk Management Co-op](https://jobright.ai/jobs/info/68cb1de1ba798c1a501cbe3e?utm_campaign=1050&utm_source=git)** | Titusville, NJ | Hybrid | Sep 17 |
+| **[Solenis](http://solenis.com/)** | **[MBA Internship Summer 2026](https://jobright.ai/jobs/info/68cb1db7ba798c1a501cbdc0?utm_campaign=1050&utm_source=git)** | United States of America (Remote) | Remote | Sep 17 |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Fleet Safety & ISM (ISM Team)](https://jobright.ai/jobs/info/68cb1dacba798c1a501cbd99?utm_campaign=1050&utm_source=git)** | Seattle, WA, United States | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

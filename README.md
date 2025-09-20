@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - AI Program Project Manager for AI Tutor Project](https://jobright.ai/jobs/info/68cefda1dbd9fb154ede4048?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Sep 20 |
+| **[Perdue Farms](http://www.perduefarms.com/)** | **[Agribusiness Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68ceed4e846f0b04af67dd80?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Sep 20 |
 | **[Pro-Active Engineering](https://www.proactivepcb.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68cedc6ddbd9fb154ede3464?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI | On Site | Sep 20 |
 | **[Todd](toddagriscience.com/careers)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/68ced555fb49c96ca6ea3d0f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Sep 20 |
 | **[bp](https://www.bp.com)** | **[Summer Intern – Procurement  - Houston, TX](https://jobright.ai/jobs/info/68cec867dbd9fb154ede2b67?utm_campaign=1050&utm_source=git)** | United States of America - Texas - Houston | Hybrid | Sep 20 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Operations Intern - Summer 2026 Internship](https://jobright.ai/jobs/info/68cec6a2846f0b04af67cda6?utm_campaign=1050&utm_source=git)** | Springfield, MA | Hybrid | Sep 20 |
-| **[Opal Nest](https://www.linkedin.com/company/98648381)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68cebd7bfb49c96ca6ea3137?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Remote | Sep 20 |
+| **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68c911fbf9c6ff7aedf17755?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Sep 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68ceb3ef846f0b04af67c66c?utm_campaign=1050&utm_source=git)** | Wilmington, OH | On Site | Sep 20 |
 | **[Hyatt](http://www.hyatt.com/)** | **[College Intern - Resort Operations](https://jobright.ai/jobs/info/68ceae75dbd9fb154ede214c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 20 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Indirect Procurement Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68ceae24dbd9fb154ede20e6?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Sep 20 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/68b0a7b32d46f6396cae7617?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Sep 20 |
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[College Intern - Resort Operations](https://jobright.ai/jobs/info/68cea969dbd9fb154ede1e0d?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 20 |
 | **[Staples](http://www.staples.com)** | **[Sales Enablement Project Manager Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cea8e4dbd9fb154ede1d07?utm_campaign=1050&utm_source=git)** | Framingham, MA | Hybrid | Sep 20 |
 | **[moomoo ](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6894d1fc4ed2ea559ca50bee?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Sep 20 |
@@ -84,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - North Dakota State University](https://jobright.ai/jobs/info/68ce772fdbd9fb154eddfeb5?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 20 |
 | ↳ | **[Operations Intern - University of Cincinnati](https://jobright.ai/jobs/info/68ce7661846f0b04af67a1cb?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 20 |
 | ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/68ce729ddbd9fb154eddfd2e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 20 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68ce728f846f0b04af67a0e3?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 20 |
 | ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/68ce728fdbd9fb154eddfd18?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 20 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68ce728f846f0b04af67a0e3?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 20 |
 | ↳ | **[Operations Intern - North Dakota State University](https://jobright.ai/jobs/info/68ce722cdbd9fb154eddfc5f?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 20 |
 | ↳ | **[Operations Intern - Minnesota State University](https://jobright.ai/jobs/info/68ce71ffdbd9fb154eddfc16?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 20 |
 | ↳ | **[Operations Intern - University of Cincinnati](https://jobright.ai/jobs/info/68ce71f6846f0b04af679fdf?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Sep 20 |
@@ -146,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[HomeWorks Energy, Inc.](http://homeworksenergy.com)** | **[Internal Ops Coordinator (Internship/Temporary)](https://jobright.ai/jobs/info/68cdf846e23def7af55c0902?utm_campaign=1050&utm_source=git)** | Fairfield, CT | Hybrid | Sep 19 |
 | **[GEO-Instruments](https://www.geo-instruments.com)** | **[Intern](https://jobright.ai/jobs/info/68cea83f846f0b04af67c29f?utm_campaign=1050&utm_source=git)** | Cumberland, RI | On Site | Sep 19 |
 | **[Promega Corporation ](http://www.promega.com/es)** | **[Operations Continuous Improvement Intern](https://jobright.ai/jobs/info/68cdf4b41ad6b16f028a02b0?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Sep 19 |
+| **[Horizon Retail Construction](http://horizonretail.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68cef61adbd9fb154ede3dfb?utm_campaign=1050&utm_source=git)** | Sturtevant,WI,US | On Site | Sep 19 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68cecbf7fb49c96ca6ea3969?utm_campaign=1050&utm_source=git)** | Mason, MI | On Site | Sep 19 |
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/68cdef5ee23def7af55c067f?utm_campaign=1050&utm_source=git)** | Mason, MI | On Site | Sep 19 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern/Summer 2026 Healthcare Admin (Hybrid - Troy, MI) - Populance](https://jobright.ai/jobs/info/68cdef331ad6b16f028a01e6?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Sep 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Procurement Intern (Strategy & Capabilities)](https://jobright.ai/jobs/info/68cded951ad6b16f0289ffe1?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Sep 19 |
 | **[Clarios](https://www.clarios.com/)** | **[Global Logistics Intern (Summer 2026)](https://jobright.ai/jobs/info/68ce992c846f0b04af67b6f5?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 19 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68cde4ee1ad6b16f0289fbef?utm_campaign=1050&utm_source=git)** | Jackson, MI | Hybrid | Sep 19 |
-| ↳ | **[Supply Chain Strategy & COE Intern](https://jobright.ai/jobs/info/68cde4e31ad6b16f0289fbe1?utm_campaign=1050&utm_source=git)** | Jackson, MI | On Site | Sep 19 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68cde4a3e23def7af55c003d?utm_campaign=1050&utm_source=git)** | Greenwood, SC | On Site | Sep 19 |
-| **[Grand Canyon University](http://www.gcu.edu/)** | **[College of Humanities and Social Sciences- Office Assistant (FWS)](https://jobright.ai/jobs/info/68cde4131ad6b16f0289fb16?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 19 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/68cde1d6b2a74e1837edd1eb?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

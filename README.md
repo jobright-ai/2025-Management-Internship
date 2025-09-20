@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68ce5c27846f0b04af67919a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 20 |
+| **[ABB](https://global.abb/group/en)** | **[Junior Project Trainee](https://jobright.ai/jobs/info/68ce53cedbd9fb154edde21c?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Sep 20 |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Project Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/68ce3ee324dd5209002f0e11?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
 | **[Inspire](https://inspirebrands.com)** | **[Operations Innovation Internship - Summer 2026](https://jobright.ai/jobs/info/68ce3defb2a74e1837ee0b17?utm_campaign=1050&utm_source=git)** | Canton, MA | On Site | Sep 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/68ce1ff61ad6b16f028a21bc?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
 | ↳ | **[Operations Intern - Texas Tech University](https://jobright.ai/jobs/info/68ce1f6fb2a74e1837edf842?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 19 |
@@ -122,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68cdc91ce23def7af55bf401?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Sep 19 |
 | **[Wayfair](https://www.wayfair.com)** | **[Operations Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68cdc902e23def7af55bf3e2?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager (MHIS) - EDRP Approved](https://jobright.ai/jobs/info/68cdc2e4b2a74e1837edc192?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Sep 19 |
-| **[Staples](http://www.staples.com)** | **[Sales Enablement Project Manager Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cdc2ca1ad6b16f0289ebd7?utm_campaign=1050&utm_source=git)** | Framingham, MA, United States | Hybrid | Sep 19 |
-| ↳ | **[Sales Enablement Project Manager Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cdc2ca1ad6b16f0289ebd8?utm_campaign=1050&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Sep 19 |
+| **[Staples](http://www.staples.com)** | **[Sales Enablement Project Manager Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cdc2ca1ad6b16f0289ebd8?utm_campaign=1050&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Sep 19 |
+| ↳ | **[Sales Enablement Project Manager Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cdc2ca1ad6b16f0289ebd7?utm_campaign=1050&utm_source=git)** | Framingham, MA, United States | Hybrid | Sep 19 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Indirect Procurement Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68cdc2c8b2a74e1837edc16c?utm_campaign=1050&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 19 |
 | **[Clarios](https://www.clarios.com/)** | **[Global Logistics Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc2bd1ad6b16f0289ebad?utm_campaign=1050&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Sep 19 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cdc26d1ad6b16f0289eafb?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship - Summer 2026](https://jobright.ai/jobs/info/68cda9151ad6b16f0289d44e?utm_campaign=1050&utm_source=git)** | Albuquerque/Rio Rancho | On Site | Sep 19 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cda8741ad6b16f0289d21d?utm_campaign=1050&utm_source=git)** | USA Wilmington,  MA - HQ | On Site | Sep 19 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Summer Industrial Operations Intern](https://jobright.ai/jobs/info/68c080735c5d5f14f46de7b4?utm_campaign=1050&utm_source=git)** | Grand Junction, IA | On Site | Sep 19 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cda7131ad6b16f0289cf57?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Sep 19 |
-| **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68cda6fce23def7af55bd5a3?utm_campaign=1050&utm_source=git)** | Pardeeville, WI | On Site | Sep 19 |
-| **[Home Chef](https://www.homechef.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cda6d8b2a74e1837eda4ee?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

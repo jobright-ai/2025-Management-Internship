@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inspire](https://inspirebrands.com)** | **[Operations Innovation Internship - Summer 2026](https://jobright.ai/jobs/info/68ce3defb2a74e1837ee0b17?utm_campaign=1050&utm_source=git)** | Canton, MA | On Site | Sep 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/68ce1ff61ad6b16f028a21bc?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
 | ↳ | **[Operations Intern - Texas Tech University](https://jobright.ai/jobs/info/68ce1f6fb2a74e1837edf842?utm_campaign=1050&utm_source=git)** | Lubbock, TX | On Site | Sep 19 |
 | ↳ | **[Operations Intern - Texas A&M University](https://jobright.ai/jobs/info/68ce1ace1ad6b16f028a1e9b?utm_campaign=1050&utm_source=git)** | College Station, TX | On Site | Sep 19 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[RedGuard](http://redguard.com)** | **[Project Coordinator Intern (Summer 2026 Internship) - RedGuard](https://jobright.ai/jobs/info/68ce1fb8b2a74e1837edf891?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Sep 19 |
 | **[First International Bank & Trust](https://www.fibt.com/)** | **[Vendor Management Intern](https://jobright.ai/jobs/info/68cdfa6b1ad6b16f028a0709?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Sep 19 |
 | **[Horizon Retail Construction](http://horizonretail.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68cdfa471ad6b16f028a0688?utm_campaign=1050&utm_source=git)** | Sturtevant,WI,US | On Site | Sep 19 |
+| **[HomeWorks Energy, Inc.](http://homeworksenergy.com)** | **[Internal Ops Coordinator (Internship/Temporary)](https://jobright.ai/jobs/info/68cdf9c9b2a74e1837eddbcc?utm_campaign=1050&utm_source=git)** | Fairfield, CT | Hybrid | Sep 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/68cdf998e23def7af55c0ac0?utm_campaign=1050&utm_source=git)** | Shamokin Dam/Selinsgrove | On Site | Sep 19 |
-| **[HomeWorks Energy, Inc.](http://homeworksenergy.com)** | **[Internal Ops Coordinator (Internship/Temporary)](https://jobright.ai/jobs/info/68cdf846e23def7af55c0902?utm_campaign=1050&utm_source=git)** | Fairfield, CT | Hybrid | Sep 19 |
 | **[Promega Corporation ](http://www.promega.com/es)** | **[Operations Continuous Improvement Intern](https://jobright.ai/jobs/info/68cdf4b41ad6b16f028a02b0?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Sep 19 |
 | **[Home Chef](https://www.homechef.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cdf405b2a74e1837edd950?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68cdef5ee23def7af55c067f?utm_campaign=1050&utm_source=git)** | Mason, MI | On Site | Sep 19 |
@@ -134,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[SCM Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/68cdb9a4b2a74e1837edba61?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Sep 19 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Operations Accelerated Development Program - Grove City, OH](https://jobright.ai/jobs/info/68cdb8061ad6b16f0289e309?utm_campaign=1050&utm_source=git)** | Grove City, OH | On Site | Sep 19 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68cdb7cde23def7af55be8a9?utm_campaign=1050&utm_source=git)** | Maple Grove, MN | Hybrid | Sep 19 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Project Management Intern (Winter 2025)](https://jobright.ai/jobs/info/68cdb7a6e23def7af55be885?utm_campaign=1050&utm_source=git)** | Highland Park, MI | On Site | Sep 19 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2026 Summer Internship / Operations - Union City, CA](https://jobright.ai/jobs/info/68cdb5b1e23def7af55be6a5?utm_campaign=1050&utm_source=git)** | Union City, CA | On Site | Sep 19 |
 | **[Lhoist](http://www.lhoist.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68cdb354b2a74e1837edb5b1?utm_campaign=1050&utm_source=git)** | USA - Alabama - Calera | On Site | Sep 19 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Retail Management Summer Internship](https://jobright.ai/jobs/info/68cdb2b11ad6b16f0289dfe0?utm_campaign=1050&utm_source=git)** | US-MA-Avon | On Site | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cda7131ad6b16f0289cf57?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Sep 19 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68cda6fce23def7af55bd5a3?utm_campaign=1050&utm_source=git)** | Pardeeville, WI | On Site | Sep 19 |
 | **[Home Chef](https://www.homechef.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cda6d8b2a74e1837eda4ee?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Houston, TX)](https://jobright.ai/jobs/info/68cda673e23def7af55bd4da?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 19 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Philidelphia, PA 2025 - 2026](https://jobright.ai/jobs/info/68cda61fe23def7af55bd459?utm_campaign=1050&utm_source=git)** | Glenside, PA | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

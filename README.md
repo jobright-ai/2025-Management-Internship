@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68d2679f17554c2d9eee76fa?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 23 |
+| **[ServiceNow](http://www.servicenow.com)** | **[MBA Corporate Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68d263f38c62e63bc7fd76b2?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Sep 23 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Texas State University](https://jobright.ai/jobs/info/68d262748c62e63bc7fd7602?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 23 |
+| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Procurement Internship](https://jobright.ai/jobs/info/68d2547817554c2d9eee7128?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 23 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[PMO Analyst Co-op - Fall 2026](https://jobright.ai/jobs/info/68d24ac717554c2d9eee6614?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Sep 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[MBA Corporate Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68d241718c62e63bc7fd60aa?utm_campaign=1050&utm_source=git)** | Building A,B,C 2225 Lawson Lane, Santa Clara, CALIFORNIA, United States | Hybrid | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[PMO Analyst Co-op - Fall 2026](https://jobright.ai/jobs/info/68d23c3ea54edb3bf3e1c583?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Sep 22 |
@@ -120,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[FTI](http://www.faithtechinc.com)** | **[Project Management Internship-Summer 2026](https://jobright.ai/jobs/info/68d1ee0d17554c2d9eee1192?utm_campaign=1050&utm_source=git)** | Pryor, OK | On Site | Sep 22 |
 | ↳ | **[Construction Management Internship](https://jobright.ai/jobs/info/68d1ed3aa54edb3bf3e17944?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Sep 22 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Park Management (Summer)](https://jobright.ai/jobs/info/68d1eccd8c62e63bc7fd11ea?utm_campaign=1050&utm_source=git)** | Madison, SD | On Site | Sep 22 |
-| **[AltaMed Health Services](http://www.altamed.org/)** | **[Project Intern](https://jobright.ai/jobs/info/68d1eab517554c2d9eee111a?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Sep 22 |
-| ↳ | **[Intern, Project](https://jobright.ai/jobs/info/68d1e7d217554c2d9eee0be5?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Sep 22 |
+| **[AltaMed Health Services](http://www.altamed.org/)** | **[Intern, Project](https://jobright.ai/jobs/info/68d1e7cca54edb3bf3e17717?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Sep 22 |
 | **[Superior](http://superiorgroup.net)** | **[Construction Assistant Project Manager (Technology Services Department) Internship for Students (Spring 2026)](https://jobright.ai/jobs/info/68d1e78fa54edb3bf3e176c0?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 22 |
+| **[AltaMed Health Services](http://www.altamed.org/)** | **[Project Intern](https://jobright.ai/jobs/info/68d1e75ea54edb3bf3e17681?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Sep 22 |
 | **[AMETEK](http://www.ametek.com)** | **[Supply Chain Intern - Spring 2026](https://jobright.ai/jobs/info/68d1e626a54edb3bf3e174aa?utm_campaign=1050&utm_source=git)** | Kent, OH | On Site | Sep 22 |
 | **[Prime Medicine, Inc.](https://www.primemedicine.com)** | **[Spring 2026 Co-op: Clinical Trials Operations](https://jobright.ai/jobs/info/68d1e603a54edb3bf3e17471?utm_campaign=1050&utm_source=git)** | Watertown, MA | On Site | Sep 22 |
 | **[International](http://www.international.com)** | **[Procurement / Supply Chain Intern](https://jobright.ai/jobs/info/68d1e4c08c62e63bc7fd0be1?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Sep 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grimco, Inc.](http://midwestsign.com)** | **[Supply Chain & Procurement Internship - Summer 2026](https://jobright.ai/jobs/info/68d1c8d38c62e63bc7fcfb07?utm_campaign=1050&utm_source=git)** | Sunset Hills, MO | On Site | Sep 22 |
 | ↳ | **[Logistics Intern - Summer 2026](https://jobright.ai/jobs/info/68d1c68a17554c2d9eedfadf?utm_campaign=1050&utm_source=git)** | Sunset Hills, MO | On Site | Sep 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, Sales & Delivery (Winter/Spring 2026)](https://jobright.ai/jobs/info/68d1c5c517554c2d9eedfa0d?utm_campaign=1050&utm_source=git)** | Nesconset, NY | On Site | Sep 22 |
-| **[FTI](http://www.faithtechinc.com)** | **[Construction Management Internship](https://jobright.ai/jobs/info/68d1c51a8c62e63bc7fcf96f?utm_campaign=1050&utm_source=git)** | WI - Madison | Hybrid | Sep 22 |
-| **[Treeline](http://www.TreelineInteractive.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68d1c4aba54edb3bf3e160b7?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Sep 22 |
-| **[FTI](http://www.faithtechinc.com)** | **[Construction Management Internship](https://jobright.ai/jobs/info/68d1c48917554c2d9eedf7b0?utm_campaign=1050&utm_source=git)** | WI - Beaver Dam | Hybrid | Sep 22 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[MBA Intern, Financial Strategy (Summer 2026)](https://jobright.ai/jobs/info/68d1ba3b8c62e63bc7fcf150?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

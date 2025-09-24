@@ -57,9 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68d35fa417554c2d9eef0759?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Sep 23 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68d35cb28c62e63bc7fe00f5?utm_campaign=1050&utm_source=git)** | Avon, IN | On Site | Sep 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Creative Product - Monetization) 2025 Start (BS/ MS)](https://jobright.ai/jobs/info/68d356fc8c62e63bc7fdfe67?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Sep 23 |
+| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d354f3f0d9af73038e1256?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 23 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68d354acf0d9af73038e1223?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Sep 23 |
+| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d3540ff0d9af73038e1197?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 23 |
+| ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/68d353728c62e63bc7fdfcb5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 23 |
+| ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/68d35334f0d9af73038e10e1?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 23 |
+| **[Werner Electric Supply](http://wernerelectric.com)** | **[Continuous Improvement Intern (Summer 2026)](https://jobright.ai/jobs/info/68d3533017554c2d9eeefdd6?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 23 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68d35309f0d9af73038e10b6?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | Sep 23 |
+| **[Werner Electric Supply](http://wernerelectric.com)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d34f8ef0d9af73038e1023?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 23 |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Student Intern](https://jobright.ai/jobs/info/68d34f83f0d9af73038e101a?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 23 |
+| **[Carboline](https://www.carboline.com)** | **[Supply Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68d34e1cf0d9af73038e0efd?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 23 |
 | **[ABB](https://global.abb/group/en)** | **[Health, Safety & Environment  Intern - Spring 2026](https://jobright.ai/jobs/info/68d34c838c62e63bc7fdf794?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Sep 23 |
 | **[Lennox](http://www.lennox.com)** | **[Supplier Analyst Intern](https://jobright.ai/jobs/info/68d34bd117554c2d9eeef92c?utm_campaign=1050&utm_source=git)** | Richardson, TX | On Site | Sep 23 |
-| **[KLN Family Brands](https://www.klnfamilybrands.com/)** | **[Warehouse & Logistics Internship](https://jobright.ai/jobs/info/68d349868c62e63bc7fdf62b?utm_campaign=1050&utm_source=git)** | Perham, MN | On Site | Sep 23 |
 | **[APM Terminals](https://www.apmterminals.com/)** | **[Intern](https://jobright.ai/jobs/info/68d3459917554c2d9eeef624?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Sep 23 |
 | **[CRST The Transportation Solution, Inc.](https://www.crst.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68d3455f8c62e63bc7fdf53c?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Sep 23 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Lockheed Martin Supply Chain (LMSC) Intern](https://jobright.ai/jobs/info/68d344a38c62e63bc7fdf3f9?utm_campaign=1050&utm_source=git)** | Maryland | Remote | Sep 23 |
@@ -117,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[LCS](https://www.lcsnet.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/68d308af17554c2d9eeed3c1?utm_campaign=1050&utm_source=git)** | 400 Locust Street, Des Moines, IA, 50309, US | On Site | Sep 23 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Procurement (DFM)](https://jobright.ai/jobs/info/68d30884f0d9af73038de6ed?utm_campaign=1050&utm_source=git)** | DC-Washington | On Site | Sep 23 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Sep 23 |
+| **[NISC](http://www.nisc.coop/)** | **[Intern - Operations Analytics Implementations](https://jobright.ai/jobs/info/68d30648f0d9af73038de4c9?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Sep 23 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Sep 23 |
 | **[Risepoint](http://www.risepoint.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68cb890cba798c1a501d1472?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Supply Chain & Warehouse Operations Internship](https://jobright.ai/jobs/info/68d3055cf0d9af73038de3f6?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Sep 23 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merrick & Company](http://www.merrick.com)** | **[Senior Project Manager - Part Time / Temporary](https://jobright.ai/jobs/info/68d2fbb68c62e63bc7fdc534?utm_campaign=1050&utm_source=git)** | Ellicott City, Maryland | Hybrid | Sep 23 |
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2fb5ef0d9af73038ddc30?utm_campaign=1050&utm_source=git)** | Roseville, CA | On Site | Sep 23 |
 | **[NISC](http://www.nisc.coop/)** | **[Intern - Operations Analytics Implementations](https://jobright.ai/jobs/info/68d2fa468c62e63bc7fdc357?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Sep 23 |
-| **[Otis Elevator Co.](http://www.otis.com/)** | **[Field Project Management Interns (Summer 2026)](https://jobright.ai/jobs/info/68d2f9f717554c2d9eeec91f?utm_campaign=1050&utm_source=git)** | Hollywood, FL | On Site | Sep 23 |
-| **[Highgate](https://www.highgate.com)** | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f9a8f0d9af73038dda93?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Sep 23 |
-| ↳ | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f96417554c2d9eeec84c?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 23 |
-| **[Clarios](https://www.clarios.com/)** | **[Indirect Procurement - Materials/Services Intern (Summer 2026)](https://jobright.ai/jobs/info/68d2f8abf0d9af73038dd980?utm_campaign=1050&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Sep 23 |
-| **[Break Time Convenience Store](https://mybreaktime.com/home/)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68d2f893f0d9af73038dd934?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Sep 23 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f88ef0d9af73038dd925?utm_campaign=1050&utm_source=git)** | US-FL-Fort Lauderdale | On Site | Sep 23 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations Manager Intern - MCO](https://jobright.ai/jobs/info/68d2f83e17554c2d9eeec61f?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 23 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Summer- Project Management Assistant Intern/Co-Op](https://jobright.ai/jobs/info/68d2f8048c62e63bc7fdc1f3?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Sep 23 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f7fb8c62e63bc7fdc1e6?utm_campaign=1050&utm_source=git)** | US-CA-Roseville | On Site | Sep 23 |
-| **[Highgate](https://www.highgate.com)** | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f7f017554c2d9eeec574?utm_campaign=1050&utm_source=git)** | Grapevine, TX | On Site | Sep 23 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f7c68c62e63bc7fdc1a1?utm_campaign=1050&utm_source=git)** | US-OH-Dublin | On Site | Sep 23 |
-| ↳ | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f7c3f0d9af73038dd7d0?utm_campaign=1050&utm_source=git)** | US-AZ-Chandler | On Site | Sep 23 |
-| ↳ | **[Operations Intern- Select Service](https://jobright.ai/jobs/info/68d2f7bb8c62e63bc7fdc190?utm_campaign=1050&utm_source=git)** | US-NY-Buffalo | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

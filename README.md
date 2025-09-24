@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b729cf1ade4306aa648060?utm_campaign=1050&utm_source=git)** | Montgomery, NY | On Site | Sep 24 |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Supply Chain, Logistics Intern (Summer 2026)](https://jobright.ai/jobs/info/68d3f61c8c62e63bc7fe50ff?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Sep 24 |
+| **[Certes Partners](https://certespartners.com)** | **[Real Estate Operations Intern](https://jobright.ai/jobs/info/68d3f06c17554c2d9eef50e3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 24 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Program Management Office Intern](https://jobright.ai/jobs/info/68d3ec0b17554c2d9eef4e4e?utm_campaign=1050&utm_source=git)** | Colorado | On Site | Sep 24 |
+| ↳ | **[Program Management Office Intern](https://jobright.ai/jobs/info/68d3eaf58c62e63bc7fe4d74?utm_campaign=1050&utm_source=git)** | Possible | On Site | Sep 24 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Intern (Spring 2026)](https://jobright.ai/jobs/info/68cec3b4fb49c96ca6ea35b0?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68d3d92b8c62e63bc7fe4a8b?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | Sep 24 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Associate Degree Apprenticeship Program - F&I Operations - Midwest (Summer 2026)](https://jobright.ai/jobs/info/68b747f81ade4306aa649951?utm_campaign=1050&utm_source=git)** | Minnesota, United States | Hybrid | Sep 24 |
@@ -69,8 +74,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68d3bdbe8c62e63bc7fe46c1?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 24 |
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68d3bd8c952b4a32e23d8ce8?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 24 |
 | **[Crowe](https://www.crowe.com/)** | **[D365 ERP Project Coordinator Intern](https://jobright.ai/jobs/info/68d3bd6517554c2d9eef4677?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
+| **[Bell Partners Inc](http://www.bellpartnersinc.com/)** | **[Operations Internship, Charlotte](https://jobright.ai/jobs/info/68b74eaa2124650c14021c03?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Sep 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68d3b8aa8c62e63bc7fe44da?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 24 |
-| ↳ | **[Operations Intern - Fresno State University](https://jobright.ai/jobs/info/68d3b6ad952b4a32e23d8bc0?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
+| **[Bell Partners Inc](http://www.bellpartnersinc.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/68b749b4f4e41a61efd97b0c?utm_campaign=1050&utm_source=git)** | Richardson, TX | Hybrid | Sep 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Fresno State University](https://jobright.ai/jobs/info/68d3b6ad952b4a32e23d8bc0?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | ↳ | **[Operations Intern - University of Southern Mississippi](https://jobright.ai/jobs/info/68d3b677952b4a32e23d8ba0?utm_campaign=1050&utm_source=git)** | Hattiesburg, MS | On Site | Sep 24 |
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68d3b583952b4a32e23d8b0c?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 24 |
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68d3b4eb952b4a32e23d8ab1?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Strategic Fellow Intern, Office of the CEO (MBA)](https://jobright.ai/jobs/info/68d32c0217554c2d9eeee600?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/68d32ac617554c2d9eeee4ed?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Sep 23 |
 | **[Hodess Cleanrooms, The Full Lifecycle Partner](https://www.hodesscleanrooms.com)** | **[Intern](https://jobright.ai/jobs/info/68d3273517554c2d9eeee447?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Sep 23 |
-| **[TD](https://www.td.com)** | **[2026 Summer Analyst Program - Operations and Business Services (Lake Mary)](https://jobright.ai/jobs/info/68cf8d81fb49c96ca6ea96a4?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Sep 23 |
-| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Strategic Fellow Intern, Office of the CEO (MBA)](https://jobright.ai/jobs/info/68d321d38c62e63bc7fddf12?utm_campaign=1050&utm_source=git)** | New York, NY, USA | Hybrid | Sep 23 |
-| **[Kem Krest](http://kemkrest.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68d319068c62e63bc7fddbda?utm_campaign=1050&utm_source=git)** | Elkhart, IN | Hybrid | Sep 23 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Co-Op: Operational Excellence (6 months, January 2026 start)](https://jobright.ai/jobs/info/68d316888c62e63bc7fdda3b?utm_campaign=1050&utm_source=git)** | USA - New York - Oak Hill | On Site | Sep 23 |
-| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, Charlotte, NC - USA 2026](https://jobright.ai/jobs/info/68d3156f8c62e63bc7fdd8eb?utm_campaign=1050&utm_source=git)** | 615 S COLLEGE STREET | On Site | Sep 23 |
-| **[Inmar Intelligence](http://www.inmar.com)** | **[Corporate Operations Intern, Procurement, Summer 2026](https://jobright.ai/jobs/info/68d31398f0d9af73038dee44?utm_campaign=1050&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Sep 23 |
-| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, New York, NY - USA 2026](https://jobright.ai/jobs/info/68d31246f0d9af73038ded09?utm_campaign=1050&utm_source=git)** | New York New York United States | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

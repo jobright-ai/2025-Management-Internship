@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allstate](http://www.allstate.com)** | **[Arity - Knowledge Management Intern](https://jobright.ai/jobs/info/68d6b4db894705799a2ed099?utm_campaign=1050&utm_source=git)** | USA - IL (Remote) | Remote | Sep 26 |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Business Strategy and Marketing Excellence Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6b0d4894705799a2ecfba?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Sep 26 |
+| **[Clarios](https://www.clarios.com/)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6ac9345853d0e39cc8f77?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Sep 26 |
+| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[ISU Sport Internship](https://jobright.ai/jobs/info/68d6abdd894705799a2ecc54?utm_campaign=1050&utm_source=git)** | PEORIA, Illinois | On Site | Sep 26 |
+| **[Clarios](https://www.clarios.com/)** | **[IT Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6abb6d3fe025a3015b085?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 26 |
+| **[TRUMPF](https://www.trumpf.com/de_DE/)** | **[Internal Logistics Intern](https://jobright.ai/jobs/info/68d6a78ad3fe025a3015afc0?utm_campaign=1050&utm_source=git)** | Farmington, CT | On Site | Sep 26 |
+| **[Clarios](https://www.clarios.com/)** | **[IT Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6a70bd3fe025a3015af54?utm_campaign=1050&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Sep 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68d6a62445853d0e39cc8cb2?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Sep 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68d6a61d45853d0e39cc8cab?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Sep 26 |
+| **[Walmart](http://www.walmart.com)** | **[2026 Summer Intern: Field Supply Chain - Operations Manager](https://jobright.ai/jobs/info/68c7aac4c96a22563ecf3f0f?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Sep 26 |
+| **[ARCO a Family of Construction Companies](https://thearcoway.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701bc?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Sep 26 |
+| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68a7db07758f2e4ac3feedfc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - North Kingstown/Middletown, RI](https://jobright.ai/jobs/info/68d6a021d3fe025a3015aca4?utm_campaign=1050&utm_source=git)** | Warwick/West Warwick/Cranston | On Site | Sep 26 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/68d69e33894705799a2ec790?utm_campaign=1050&utm_source=git)** | Warrensville Heights, OH | On Site | Sep 26 |
+| **[Enterprise Properties Inc](https://enterprise-properties.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68d69a9045853d0e39cc895e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 26 |
+| **[PrizePicks](https://prizepicks.com)** | **[Business Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68d69a1045853d0e39cc891a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
 | **[Enterprise Properties Inc](https://enterprise-properties.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68d6982bd3fe025a3015a93d?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Sep 26 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast)](https://jobright.ai/jobs/info/68d6924945853d0e39cc85f8?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | On Site | Sep 26 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Logistics Internship](https://jobright.ai/jobs/info/68d69221894705799a2ec2e6?utm_campaign=1050&utm_source=git)** | Ravenna, OH | On Site | Sep 26 |
@@ -64,10 +80,13 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6814f894705799a2ebeda?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/68d67d99894705799a2ebdc2?utm_campaign=1050&utm_source=git)** | Annapolis, MD | Hybrid | Sep 26 |
 | **[Bureau Veritas Group](https://group.bureauveritas.com)** | **[SkillBridge Project Scheduling Coordinator Intern](https://jobright.ai/jobs/info/68d67d3645853d0e39cc7f61?utm_campaign=1050&utm_source=git)** | Ellicott City, MD | On Site | Sep 26 |
+| **[Simon Quick Advisors, LLC](http://www.simonquickadvisors.com/)** | **[Spring Intern](https://jobright.ai/jobs/info/68c86e5195f5211cd2ce52a2?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[The City University of New York](http://www.cuny.edu)** | **[Executive Director of Employer Engagement](https://jobright.ai/jobs/info/68d672b2894705799a2ebb16?utm_campaign=1050&utm_source=git)** | Queens, NY | On Site | Sep 26 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data Analytics Manufacturing Strategy Intern - Summer 2026- Smryna, TN](https://jobright.ai/jobs/info/68d66fd645853d0e39cc7bfe?utm_campaign=1050&utm_source=git)** | Smyrna, TN | On Site | Sep 26 |
 | **[Chesapeake Contracting Group](https://www.ccgmd.com/)** | **[Edge intern 2026](https://jobright.ai/jobs/info/68d68bf645853d0e39cc82e5?utm_campaign=1050&utm_source=git)** | Herndon, VA | Hybrid | Sep 26 |
+| **[Oracle](https://www.oracle.com/)** | **[OCI Technical Program Manager - Full-time Intern Conversion](https://jobright.ai/jobs/info/68cc6ae216d00d2beeb1f3cd?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 26 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68d68ac2d3fe025a3015a456?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
+| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181ed2c?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Sep 26 |
 | **[Bureau Veritas Group](https://group.bureauveritas.com)** | **[SkillBridge Project Scheduling Coordinator Intern](https://jobright.ai/jobs/info/68d6764d45853d0e39cc7dbb?utm_campaign=1050&utm_source=git)** | Ellicott City, MD | On Site | Sep 26 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Spring 2026 Operations Intern](https://jobright.ai/jobs/info/68d659c1894705799a2eb220?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Sep 26 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Medical Engagement Excellence (Summer 2026)](https://jobright.ai/jobs/info/68d650c74736ff202fdd28c2?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Sep 26 |
@@ -126,10 +145,9 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/68d60da963d77d6f6f3f4176?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Sep 25 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Commercialization - Summer 2026](https://jobright.ai/jobs/info/68d60d732116ff37ee0921b9?utm_campaign=1050&utm_source=git)** | Le Mars, IA | On Site | Sep 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68d60cd42116ff37ee09210e?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 25 |
-| **[Northern Kentucky University](http://www.nku.edu/)** | **[Residential Administrative Assistant](https://jobright.ai/jobs/info/68d63801894705799a2e908e?utm_campaign=1050&utm_source=git)** | Newport, KY | On Site | Sep 25 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern- Jacksonville State University](https://jobright.ai/jobs/info/68d62d89ebcef82ef5cf756d?utm_campaign=1050&utm_source=git)** | Jacksonville, AL | On Site | Sep 25 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d63481ebcef82ef5cf7b87?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 25 |
+| ↳ | **[Operations Intern- Jacksonville State University](https://jobright.ai/jobs/info/68d62d89ebcef82ef5cf756d?utm_campaign=1050&utm_source=git)** | Jacksonville, AL | On Site | Sep 25 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d6574c894705799a2eae44?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 25 |
+| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d63481ebcef82ef5cf7b87?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 25 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d60c7763d77d6f6f3f401f?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 25 |
 | **[Worley](https://www.worley.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68d60b2c2116ff37ee091f5d?utm_campaign=1050&utm_source=git)** | West Baton Rouge Parish County, LA | On Site | Sep 25 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[2025 Internships - Global Compact Office (New York)
@@ -140,22 +158,4 @@ Job ID : 262474](https://jobright.ai/jobs/info/68d60a6c1f7fb2169ab15646?utm_camp
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d605c81f7fb2169ab1553b?utm_campaign=1050&utm_source=git)** | College Park, MD | On Site | Sep 25 |
 | **[State Street](http://www.statestreet.com)** | **[LCARS - Project Coordinator Co-Op - Jan 2026](https://jobright.ai/jobs/info/68d605971f7fb2169ab15519?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Grand Canyon University (Summer 2026)](https://jobright.ai/jobs/info/68d6246b4736ff202fdcfa7a?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Washington State University](https://jobright.ai/jobs/info/68d639eaebcef82ef5cf7e09?utm_campaign=1050&utm_source=git)** | Pullman, WA | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Grand Canyon University (Summer 2026)](https://jobright.ai/jobs/info/68d62cc5894705799a2e8616?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Georgia Institute of Technology](https://jobright.ai/jobs/info/68d62586894705799a2e7d8f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 25 |
-| ↳ | **[Operations Intern- Jacksonville State University](https://jobright.ai/jobs/info/68d6335b4736ff202fdd09ea?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Grand Canyon University (Summer 2026)](https://jobright.ai/jobs/info/68d626baebcef82ef5cf6e33?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/68d62467894705799a2e7b08?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Georgia Institute of Technology](https://jobright.ai/jobs/info/68d6244a894705799a2e7ad1?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Sep 25 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d6235a894705799a2e78b4?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Rensselaer Polytechnic Institute](https://jobright.ai/jobs/info/68d625134736ff202fdcfbc1?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Grand Canyon University (Summer 2026)](https://jobright.ai/jobs/info/68d625c04736ff202fdcfd43?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Grand Canyon University (Summer 2026)](https://jobright.ai/jobs/info/68d625624736ff202fdcfc6e?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Arizona State University (Summer 2026)](https://jobright.ai/jobs/info/68d632184736ff202fdd077f?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Sep 25 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d642bdebcef82ef5cf8fb6?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 25 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68d6260a4736ff202fdcfdda?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d6239e4736ff202fdcf90b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 25 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68d62aa3894705799a2e81c3?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 25 |
-| ↳ | **[Operations Intern - Arizona State University (Summer 2026)](https://jobright.ai/jobs/info/68d63b06ebcef82ef5cf8049?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Sep 25 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Suite CSM Operations](https://jobright.ai/jobs/info/68d6029663d77d6f6f3f3c4e?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

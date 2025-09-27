@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pella Corporation](http://www.pella.com)** | **[Department Manager Intern (Macomb, IL) - Summer 2026](https://jobright.ai/jobs/info/68bb27286105227d118a362f?utm_campaign=1050&utm_source=git)** | Macomb, IL | On Site | Sep 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Production Management Intern, Spring 2026](https://jobright.ai/jobs/info/68d7cf297a37c712687d58ee?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Sep 27 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Co-Op Project Manager - Spring Semester 2026 Cincinnati](https://jobright.ai/jobs/info/68d7c8597a37c712687d54a8?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Sep 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern- Jacksonville State University](https://jobright.ai/jobs/info/68d7c5147796a83635f0b76a?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Sep 27 |
 | ↳ | **[Operations Intern- Jacksonville State University](https://jobright.ai/jobs/info/68d7c5067a37c712687d529d?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 27 |
@@ -66,22 +68,24 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7c49b295f8e37655e1d62?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7c47b295f8e37655e1ccd?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 27 |
 | ↳ | **[Operations Intern- Jacksonville State University](https://jobright.ai/jobs/info/68d7c475295f8e37655e1cb4?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Sep 27 |
-| ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d7b334295f8e37655e0e95?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| **[SPX Technologies](http://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/68c152234d652f0447757156?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Sep 27 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d7b334295f8e37655e0e95?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d7b325295f8e37655e0e52?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - CSUN](https://jobright.ai/jobs/info/68d7b302295f8e37655e0df3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d7b2ff295f8e37655e0de8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Rensselaer Polytechnic Institute](https://jobright.ai/jobs/info/68d7b294295f8e37655e0bbe?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Rensselaer Polytechnic Institute](https://jobright.ai/jobs/info/68d7b1807796a83635f0a600?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7b1747a37c712687d42b1?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 27 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68d7b1627a37c712687d4272?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 27 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Supply Chain Graduate Intern](https://jobright.ai/jobs/info/68c2909503b99f6b34296172?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Sep 27 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68d7b1627a37c712687d4272?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d7b15a7a37c712687d4259?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Rensselaer Polytechnic Institute](https://jobright.ai/jobs/info/68d7b14a7796a83635f0a56a?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d7b1447a37c712687d420a?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7b1347a37c712687d41ce?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Rensselaer Polytechnic Institute](https://jobright.ai/jobs/info/68d7b12f7796a83635f0a530?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7b12e7796a83635f0a52c?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Sep 27 |
-| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7b1277796a83635f0a516?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7b1277796a83635f0a519?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 27 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d7b1277796a83635f0a516?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Underwriting - Agricultural Insurance Intern](https://jobright.ai/jobs/info/68d7b11e7a37c712687d4176?utm_campaign=1050&utm_source=git)** | Lansing, MI | Hybrid | Sep 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d7b0fa7a37c712687d40f4?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Rensselaer Polytechnic Institute](https://jobright.ai/jobs/info/68d7b0fa7a37c712687d40f5?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 27 |
@@ -106,13 +110,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Southern University and A&M College](https://jobright.ai/jobs/info/68d79d487796a83635f08c8e?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/68d79d447796a83635f08c7b?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Sep 27 |
 | ↳ | **[Operations Intern -  San Francisco State University](https://jobright.ai/jobs/info/68d79d197796a83635f08b82?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
-| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d79d0b295f8e37655df563?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d79d0b295f8e37655df569?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 27 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d79d0b295f8e37655df563?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 27 |
 | ↳ | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/68d79cba7796a83635f08985?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Sep 27 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68d79c92295f8e37655df31f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d79c4d295f8e37655df1c1?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Sep 27 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68d79c077796a83635f085df?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Louisiana Monroe](https://jobright.ai/jobs/info/68d79c077796a83635f085de?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 27 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68d79c077796a83635f085df?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d79bf1295f8e37655df002?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d79bde295f8e37655def9f?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d79b9e295f8e37655dee70?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 27 |
@@ -132,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Primetals Technologies](https://primetals.com)** | **[Global Sourcing Associate Internship](https://jobright.ai/jobs/info/68d7bd907796a83635f0b093?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Sep 27 |
 | **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/68d794567a37c712687d1ccf?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Sep 27 |
 | ↳ | **[Commercial Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/68d7940f7a37c712687d1c08?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 27 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68d70ad5d3fe025a3015e644?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Sep 27 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Internship- Dayton](https://jobright.ai/jobs/info/68d792a07a37c712687d1614?utm_campaign=1050&utm_source=git)** | Dayton - (Downtown Dayton, Vandalia, Troy) | On Site | Sep 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Operations) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68d7784b7a37c712687ce8c4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Sep 26 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Beverage Operations - Summer 2026 Intern](https://jobright.ai/jobs/info/68d77127295f8e37655d9756?utm_campaign=1050&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Sep 26 |
@@ -143,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Zipline](http://flyzipline.com)** | **[Commercial Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/68d76c21295f8e37655d8a7a?utm_campaign=1050&utm_source=git)** | Dallas, Texas, USA | On Site | Sep 26 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Beverage Operations - Summer 2026 Intern](https://jobright.ai/jobs/info/68d76bf6295f8e37655d88ce?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 26 |
 | **[Princess Cruises](http://www.princess.com)** | **[Beverage Operations - Summer 2026 Intern](https://jobright.ai/jobs/info/68d76be9295f8e37655d883c?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 26 |
-| **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Game Operations Intern / Wings Event Center](https://jobright.ai/jobs/info/68d7bd397796a83635f0af5a?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Sep 26 |
 | **[Stellar](http://stellarindustries.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/68d757317a37c712687c9491?utm_campaign=1050&utm_source=git)** | Garner, IA | On Site | Sep 26 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment Internship - Assistant to CEO](https://jobright.ai/jobs/info/68d755fb7a37c712687c8c76?utm_campaign=1050&utm_source=git)** | Malibu, CA | On Site | Sep 26 |
 | **[Blue Cross Blue Shield of North Dakota](https://www.bcbsnd.com/jobs/)** | **[Healthcare Quality Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68d7504bcb1d8e52c976703f?utm_campaign=1050&utm_source=git)** | Fargo, ND | Hybrid | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Columbia, MO](https://jobright.ai/jobs/info/68d74729cb1d8e52c9766919?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Management Trainee Intern - St. Louis, MO](https://jobright.ai/jobs/info/68d746e9e5293e3538af3645?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Cape Girardeau, MO](https://jobright.ai/jobs/info/68d746cbf9dbe42bf62c0e7e?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 26 |
-| **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Purchasing - Summer 2026](https://jobright.ai/jobs/info/68d73fcc45853d0e39ccdc68?utm_campaign=1050&utm_source=git)** | Le Mars, IA | Hybrid | Sep 26 |
-| ↳ | **[Internship - Continuous Improvement Ops - Summer 2026](https://jobright.ai/jobs/info/68d73f7fd3fe025a3015fcf9?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

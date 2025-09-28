@@ -72,14 +72,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90f06061b716fa2959e05?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Pennsylvania State University](https://jobright.ai/jobs/info/68d90f02061b716fa2959e02?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 28 |
 | ↳ | **[Operations Intern -  San Francisco State University](https://jobright.ai/jobs/info/68d90efd9a8e451a446a4394?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 28 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90ef4061b716fa2959dfa?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d90ef4061b716fa2959df9?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 28 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90ef4061b716fa2959dfa?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 28 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90ef4061b716fa2959df8?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90eee9a8e451a446a4390?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Pennsylvania State University](https://jobright.ai/jobs/info/68d90ede061b716fa2959ded?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/68d90ede061b716fa2959dee?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Sep 28 |
-| ↳ | **[Operations Intern - San Francisco State University](https://jobright.ai/jobs/info/68d90ed19a8e451a446a437f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d90ed19a8e451a446a4380?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 28 |
+| ↳ | **[Operations Intern - San Francisco State University](https://jobright.ai/jobs/info/68d90ed19a8e451a446a437f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/68d4ef2f24b1ee4c7b66214e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Southeastern Louisiana University](https://jobright.ai/jobs/info/68d9032d9a8e451a446a431a?utm_campaign=1050&utm_source=git)** | Hempstead, TX | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68d90312022fc803b4876a6d?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 28 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Beverage Operations - Summer 2026 Intern](https://jobright.ai/jobs/info/68d85d437796a83635f10d4f?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Sep 27 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/68d844307a37c712687d92a7?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Sep 27 |
 | **[Resurgent Capital Services](http://resurgent.com)** | **[Intern, Summer 2026](https://jobright.ai/jobs/info/68d84201295f8e37655e6711?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Sep 27 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68d82f537a37c712687d8b9b?utm_campaign=1050&utm_source=git)** | Waller, TX | On Site | Sep 27 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Customer Quality Project Manager Summer/Fall Co-op](https://jobright.ai/jobs/info/68d91548022fc803b4876b42?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Sep 27 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Management Intern (Plano,TX)](https://jobright.ai/jobs/info/68d82768295f8e37655e5bd5?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Sep 27 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68d825817796a83635f0f3d8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
@@ -126,35 +125,36 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d8d84b061b716fa295853d?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f9687a37c712687d7726?utm_campaign=1050&utm_source=git)** | Vermont, United States | Remote | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68bb78885f3832749186f63f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
-| **[Centene Corporation](http://www.centene.com)** | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f798295f8e37655e46ac?utm_campaign=1050&utm_source=git)** | Remote-DC | Remote | Sep 27 |
+| **[Centene Corporation](http://www.centene.com)** | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f798295f8e37655e46ab?utm_campaign=1050&utm_source=git)** | Remote-NY | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f798295f8e37655e46ac?utm_campaign=1050&utm_source=git)** | Remote-DC | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f798295f8e37655e46aa?utm_campaign=1050&utm_source=git)** | Remote-VT | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f798295f8e37655e46ab?utm_campaign=1050&utm_source=git)** | Remote-NY | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4687?utm_campaign=1050&utm_source=git)** | Remote-KS | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e468a?utm_campaign=1050&utm_source=git)** | Remote-MS | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7967a37c712687d7682?utm_campaign=1050&utm_source=git)** | Remote-MN | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4689?utm_campaign=1050&utm_source=git)** | Remote-ND | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4688?utm_campaign=1050&utm_source=git)** | Remote-MO | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4686?utm_campaign=1050&utm_source=git)** | Remote-CA | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e468a?utm_campaign=1050&utm_source=git)** | Remote-MS | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4687?utm_campaign=1050&utm_source=git)** | Remote-KS | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4689?utm_campaign=1050&utm_source=git)** | Remote-ND | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7967a37c712687d7682?utm_campaign=1050&utm_source=git)** | Remote-MN | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f796295f8e37655e4688?utm_campaign=1050&utm_source=git)** | Remote-MO | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7907a37c712687d765e?utm_campaign=1050&utm_source=git)** | Remote-AK | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7907a37c712687d765f?utm_campaign=1050&utm_source=git)** | Remote-LA | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7907a37c712687d7661?utm_campaign=1050&utm_source=git)** | Remote-VA | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7907a37c712687d765e?utm_campaign=1050&utm_source=git)** | Remote-AK | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f78d295f8e37655e465c?utm_campaign=1050&utm_source=git)** | Remote-ID | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f78b7a37c712687d7644?utm_campaign=1050&utm_source=git)** | Remote-HI | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f78b7a37c712687d7643?utm_campaign=1050&utm_source=git)** | Remote-NH | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f78b7a37c712687d7642?utm_campaign=1050&utm_source=git)** | Remote-IA | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7867a37c712687d761f?utm_campaign=1050&utm_source=git)** | Remote-NC | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7867a37c712687d7620?utm_campaign=1050&utm_source=git)** | Remote-TN | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7867a37c712687d761f?utm_campaign=1050&utm_source=git)** | Remote-NC | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f7867a37c712687d761a?utm_campaign=1050&utm_source=git)** | Remote-RI | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f784295f8e37655e462f?utm_campaign=1050&utm_source=git)** | Remote-NJ | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f784295f8e37655e4631?utm_campaign=1050&utm_source=git)** | Remote-MA | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f784295f8e37655e462f?utm_campaign=1050&utm_source=git)** | Remote-NJ | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f784295f8e37655e4632?utm_campaign=1050&utm_source=git)** | Remote-AL | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f781295f8e37655e460b?utm_campaign=1050&utm_source=git)** | Remote-OR | Remote | Sep 27 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d7f77e7a37c712687d75f2?utm_campaign=1050&utm_source=git)** | Burton, Michigan, United States of America | On Site | Sep 27 |
-| **[Centene Corporation](http://www.centene.com)** | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7796a83635f0de57?utm_campaign=1050&utm_source=git)** | Remote-NM | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7796a83635f0de53?utm_campaign=1050&utm_source=git)** | Remote-WV | Remote | Sep 27 |
+| **[Centene Corporation](http://www.centene.com)** | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7796a83635f0de53?utm_campaign=1050&utm_source=git)** | Remote-WV | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7a37c712687d75f4?utm_campaign=1050&utm_source=git)** | Remote-AZ | Remote | Sep 27 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7a37c712687d75f8?utm_campaign=1050&utm_source=git)** | Remote-OH | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7a37c712687d75f9?utm_campaign=1050&utm_source=git)** | Remote-CT | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7a37c712687d75f7?utm_campaign=1050&utm_source=git)** | Remote-IN | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7796a83635f0de56?utm_campaign=1050&utm_source=git)** | Remote-WY | Remote | Sep 27 |
 | ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7a37c712687d75fa?utm_campaign=1050&utm_source=git)** | Remote-NV | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7796a83635f0de54?utm_campaign=1050&utm_source=git)** | Remote-CO | Remote | Sep 27 |
+| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68d7f77e7796a83635f0de55?utm_campaign=1050&utm_source=git)** | Remote-NE | Remote | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

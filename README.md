@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68da8ca86df7b8311bb0f98f?utm_campaign=1050&utm_source=git)** | San Diego, CA | Remote | Sep 29 |
+| **[City of Vernon](https://www.cityofvernon.org)** | **[Management Intern](https://jobright.ai/jobs/info/68da82fc0b832179ca4adff3?utm_campaign=1050&utm_source=git)** | Vernon, CA | On Site | Sep 29 |
 | **[Kelley Construction, Inc.](http://kelleyconstruction.com)** | **[2026 Spring/Summer Interns](https://jobright.ai/jobs/info/68da6b1307c157682e56a307?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Sep 29 |
 | **[CMA CGM](https://www.cma-cgm.com)** | **[Internship - Area Manager](https://jobright.ai/jobs/info/68da60b16df7b8311bb0e9f3?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Sep 29 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - Facilities Management-Fleet Shop](https://jobright.ai/jobs/info/68da609e6df7b8311bb0e9cf?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Sep 29 |
@@ -88,11 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern Global Procurement](https://jobright.ai/jobs/info/68da0d210b832179ca4aa9e8?utm_campaign=1050&utm_source=git)** | Tampa - FL - US | Hybrid | Sep 28 |
 | ↳ | **[2026 Summer Intern Global Procurement](https://jobright.ai/jobs/info/68da0b513c03cd3270942552?utm_campaign=1050&utm_source=git)** | New Brunswick - NJ - US | Hybrid | Sep 28 |
 | ↳ | **[2026 Summer Intern Global Procurement](https://jobright.ai/jobs/info/68da0b406df7b8311bb0bbc9?utm_campaign=1050&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 28 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99829 Administrative Secretary](https://jobright.ai/jobs/info/68d9f1e2061b716fa295b326?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Sep 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Temple, Waco and Killeen](https://jobright.ai/jobs/info/68d9e8c1061b716fa295b092?utm_campaign=1050&utm_source=git)** | Temple | On Site | Sep 28 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Jr Program Support Analyst Intern](https://jobright.ai/jobs/info/68d99ec2061b716fa295ab2b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 28 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Sep 28 |
-| **[BeamSphere](beamsphere.us)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68d94e289a8e451a446a4885?utm_campaign=1050&utm_source=git)** | St Louis, MO | Remote | Sep 28 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Inventory/Logistics Intern (Rochester, NY)](https://jobright.ai/jobs/info/689f8f68faa4e875e8289c02?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Sep 28 |
 | **[Uline](http://www.uline.com)** | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68a00c22cc9ee94dc911bb04?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Sep 28 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/68ca63d106a34016008c7f66?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Sep 28 |
@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Field Administration Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/68cd22041ad6b16f02895791?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 28 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68c65e0edb52c07d28847bde?utm_campaign=1050&utm_source=git)** | Inver Grove Heights, MN | On Site | Sep 28 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Sep 28 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68bb78b16105227d118a6390?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Sep 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d90f40022fc803b4876aff?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90f40022fc803b4876afe?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 28 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90f1e022fc803b4876af0?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 28 |
@@ -115,14 +116,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90f06061b716fa2959e05?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Pennsylvania State University](https://jobright.ai/jobs/info/68d90f02061b716fa2959e02?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 28 |
 | ↳ | **[Operations Intern -  San Francisco State University](https://jobright.ai/jobs/info/68d90efd9a8e451a446a4394?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Sep 28 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90ef4061b716fa2959dfa?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 28 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90ef4061b716fa2959df8?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d90ef4061b716fa2959df9?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Sep 28 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90ef4061b716fa2959dfa?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Sep 28 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68d90eee9a8e451a446a4390?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Pennsylvania State University](https://jobright.ai/jobs/info/68d90ede061b716fa2959ded?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/68d90ede061b716fa2959dee?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Sep 28 |
-| ↳ | **[Operations Intern - San Francisco State University](https://jobright.ai/jobs/info/68d90ed19a8e451a446a437f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d90ed19a8e451a446a4380?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Sep 28 |
+| ↳ | **[Operations Intern - San Francisco State University](https://jobright.ai/jobs/info/68d90ed19a8e451a446a437f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Sep 28 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/68d4ef2f24b1ee4c7b66214e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Southeastern Louisiana University](https://jobright.ai/jobs/info/68d9032d9a8e451a446a431a?utm_campaign=1050&utm_source=git)** | Hempstead, TX | On Site | Sep 28 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68d90312022fc803b4876a6d?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Sep 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68c81b99f9c6ff7aedf0abf4?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Customer Quality Project Manager Summer/Fall Co-op](https://jobright.ai/jobs/info/68d91548022fc803b4876b42?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Sep 27 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Management Intern (Plano,TX)](https://jobright.ai/jobs/info/68d82768295f8e37655e5bd5?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Sep 27 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68d825817796a83635f0f3d8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

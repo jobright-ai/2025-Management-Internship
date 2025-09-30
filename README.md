@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Alliance Plan](https://www.hap.org)** | **[College Intern/Summer 2026 Transformation Office (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/68db99fae19b9e63ba20fdaf?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Sep 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68db932d9f13662d20e4e58b?utm_campaign=1050&utm_source=git)** | Flagstaff, AZ | On Site | Sep 30 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring Internship - San Antonio](https://jobright.ai/jobs/info/68db8d46e19b9e63ba20ddf0?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Vice Chair of Research - Open Rank - Internal Medicine](https://jobright.ai/jobs/info/68db7ef034f2c406da6d8972?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern/Summer 2026 Transformation Office (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/68db7bd634f2c406da6d882e?utm_campaign=1050&utm_source=git)** | Troy, Michigan | Hybrid | Sep 29 |
@@ -98,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Spring Internship - San Antonio](https://jobright.ai/jobs/info/68db3ba6e19b9e63ba2097e5?utm_campaign=1050&utm_source=git)** | North San Antonio & San Antonio Airport area | On Site | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Nashville - Restaurant Management Internship](https://jobright.ai/jobs/info/68db3ba59f13662d20e48bfd?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68db3b62e19b9e63ba20974f?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Sep 29 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5746?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Sep 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5747?utm_campaign=1050&utm_source=git)** | Goshen, IN | On Site | Sep 29 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5747?utm_campaign=1050&utm_source=git)** | Goshen, IN | On Site | Sep 29 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5746?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Sep 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2025 Management Trainee Intern - Burlington, Vermont](https://jobright.ai/jobs/info/68db384de19b9e63ba2096e7?utm_campaign=1050&utm_source=git)** | Burlington, VT | On Site | Sep 29 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68db38349f13662d20e48afb?utm_campaign=1050&utm_source=git)** | Effingham, IL | On Site | Sep 29 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68db3825e19b9e63ba2096b9?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Sep 29 |
@@ -121,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Colorado Region 2025 - 2026 (Evergreen)](https://jobright.ai/jobs/info/68db295b0dffed6f83d2cced?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Sep 29 |
 | ↳ | **[Internship Program - Mid-Atlantic Region 2025 - 2026](https://jobright.ai/jobs/info/68db2850e9b48513789b2279?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Sep 29 |
 | **[Northwood](https://www.northwoodspace.io)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db273a6df7b8311bb1650c?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Sep 29 |
+| **[Catamount Constructors](http://catamountinc.com)** | **[Internship Program (All Locations)](https://jobright.ai/jobs/info/68ccb1c47342c7623ae6837a?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 29 |
 | **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db25c40dffed6f83d2cbb0?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Sep 29 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db24e5e9b48513789b213f?utm_campaign=1050&utm_source=git)** | Goodlettsville, TN | On Site | Sep 29 |
@@ -141,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[StandardAero](http://www.standardaero.com/)** | **[Operations Analyst Student/Intern](https://jobright.ai/jobs/info/68db0f830dffed6f83d2c53f?utm_campaign=1050&utm_source=git)** | Hillsboro, OH | On Site | Sep 29 |
 | **[Verizon](https://www.verizon.com)** | **[Consumer Success Ops & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68db0f1f6df7b8311bb15bd4?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 29 |
 | ↳ | **[Consumer Success Ops & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68db0eff0dffed6f83d2c3da?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 29 |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Operations Undergraduate Internship](https://jobright.ai/jobs/info/68db0d22e9b48513789b18b9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Category Planning & Development Intern](https://jobright.ai/jobs/info/68db0cd1e9b48513789b185d?utm_campaign=1050&utm_source=git)** | Cashton, WI | Hybrid | Sep 29 |
 | **[ATI](https://www.atimaterials.com)** | **[2026 Intern - Procurement/Supply Chain](https://jobright.ai/jobs/info/68db0cd1e9b48513789b1861?utm_campaign=1050&utm_source=git)** | Natrona Heights, PA | On Site | Sep 29 |
 | **[Verizon](https://www.verizon.com)** | **[Irving: V Teamer for a Day - Consumer Success Ops & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68db0c9ae9b48513789b17f7?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[GIS Intern at ACC Inc (Hourly)](https://jobright.ai/jobs/info/68db06996df7b8311bb1568b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 29 |
 | **[AIG](https://www.aig.com/)** | **[2026 – Early Career – Innovation and Digital Business Enablement – Summer Intern – United States, Atlanta (GA)](https://jobright.ai/jobs/info/68db038be9b48513789b1328?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Sep 29 |
 | **[GALLO](https://www.gallo.com)** | **[MBA Supply Chain Internship 2026](https://jobright.ai/jobs/info/68db037ae9b48513789b1301?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Sep 29 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Live Operations Swine Summer 2026 Intern](https://jobright.ai/jobs/info/68db035b0dffed6f83d2be61?utm_campaign=1050&utm_source=git)** | Holdenville, OK | On Site | Sep 29 |
-| **[United Airlines](https://www.united.com)** | **[Global Supply Chain and MRO Shops - Intern (Summer 2026)](https://jobright.ai/jobs/info/68db031fe9b48513789b1262?utm_campaign=1050&utm_source=git)** | Arlington Heights, IL | On Site | Sep 29 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/68db02f80dffed6f83d2bde8?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Sep 29 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data & Project Management, Customer Services & Delivery](https://jobright.ai/jobs/info/68daff86e9b48513789b1056?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

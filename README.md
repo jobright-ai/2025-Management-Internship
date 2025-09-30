@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Agency Channel Performance - Business Analyst - Agency](https://jobright.ai/jobs/info/68dc321a97329f2f77323583?utm_campaign=1050&utm_source=git)** | Richardson, TX | Hybrid | Sep 30 |
+| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Project Management Intern and Assistant to the Founder](https://jobright.ai/jobs/info/68dc31e666059a42a715c64a?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | Sep 30 |
+| **[Retell AI](https://retellai.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68dc2ea0d6470e72cf4d9522?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Sep 30 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program – Investments Front Office - New York, NY](https://jobright.ai/jobs/info/68dc2e5bd6470e72cf4d94ac?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[3M](https://www.3m.com)** | **[Internship - 2026 MBA Strategy & Operations Intern - Transportation & Electronics Business Group (TEBG)](https://jobright.ai/jobs/info/68dc2e1b97329f2f7732343a?utm_campaign=1050&utm_source=git)** | Minnesota, United States | On Site | Sep 30 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2026 Corebridge Summer Internship Program – Investments Front Office - New York, NY](https://jobright.ai/jobs/info/68dc29c166059a42a715c2f5?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Sep 30 |
+| **[Loeffler Randall](https://loefflerrandall.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68dc21a566059a42a715be9b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[CHS Inc.](http://www.chsinc.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/68dc2184d6470e72cf4d8dc5?utm_campaign=1050&utm_source=git)** | Inver Grove Heights, MN | On Site | Sep 30 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship](https://jobright.ai/jobs/info/68dc20e666059a42a715bd7c?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Sep 30 |
+| ↳ | **[Construction Internship](https://jobright.ai/jobs/info/68dc20e066059a42a715bd74?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Sep 30 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Project Manager / Business Analyst Intern](https://jobright.ai/jobs/info/68dc125597329f2f77322751?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Sep 30 |
 | **[WorkVille ](http://www.workvillenyc.com)** | **[Community Manager- Internship](https://jobright.ai/jobs/info/68dc05fc6f6c5c3fadf35e06?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Project Controls Intern - Field](https://jobright.ai/jobs/info/68dc0303d6470e72cf4d7f16?utm_campaign=1050&utm_source=git)** | Manhattan, KS | Hybrid | Sep 30 |
@@ -89,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Pennsylvania State University](https://jobright.ai/jobs/info/68dbb1fc97329f2f7731ba99?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Sep 30 |
 | **[MeloTech](https://www.melotech.ai)** | **[Content Operations Specialist Intern](https://jobright.ai/jobs/info/68dbd9f2d6470e72cf4d4c9e?utm_campaign=1050&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | ↳ | **[Content Operations Specialist Intern](https://jobright.ai/jobs/info/68dbd8acd6470e72cf4d4a9b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Marten Transport](http://marten.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68dc2a3997329f2f77323263?utm_campaign=1050&utm_source=git)** | Edwardsville, KS | On Site | Sep 29 |
 | **[LifeWall](https://www.lifewall.in)** | **[Management Intern](https://jobright.ai/jobs/info/68dbc8e16f6c5c3fadf31757?utm_campaign=1050&utm_source=git)** | East Delhi, NY | On Site | Sep 29 |
 | **[MTech Mechanical](http://mtechg.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68dc1510d6470e72cf4d87c1?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Sep 29 |
 | **[Retell AI](https://retellai.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68dc0ab66f6c5c3fadf36100?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Sep 29 |
@@ -97,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68dc05ab6f6c5c3fadf35d91?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Sep 28 |
 | **[Heat Transfer Solutions](https://heat-xfer.com/)** | **[Intern](https://jobright.ai/jobs/info/68dbe8e897329f2f77320412?utm_campaign=1050&utm_source=git)** | South Bend, Indiana, United States | On Site | Sep 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68dbb4626f6c5c3fadf2fbe8?utm_campaign=1050&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 26 |
-| **[Heat Transfer Solutions](https://heat-xfer.com/)** | **[Intern - Harrisburg](https://jobright.ai/jobs/info/68dbd72b6f6c5c3fadf32712?utm_campaign=1050&utm_source=git)** | Harrisburg, Pennsylvania, United States | On Site | Sep 25 |
-| ↳ | **[Intern - Saint Albans](https://jobright.ai/jobs/info/68dbe7e46f6c5c3fadf3410b?utm_campaign=1050&utm_source=git)** | St. Albans, West Virginia, United States | On Site | Sep 25 |
+| **[Heat Transfer Solutions](https://heat-xfer.com/)** | **[Intern - Saint Albans](https://jobright.ai/jobs/info/68dbe7e46f6c5c3fadf3410b?utm_campaign=1050&utm_source=git)** | St. Albans, West Virginia, United States | On Site | Sep 25 |
+| ↳ | **[Intern - Harrisburg](https://jobright.ai/jobs/info/68dbd72b6f6c5c3fadf32712?utm_campaign=1050&utm_source=git)** | Harrisburg, Pennsylvania, United States | On Site | Sep 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Management Assistant, Customer Services & Delivery](https://jobright.ai/jobs/info/68d42fbd17554c2d9eef696e?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 25 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[2026 J&J Orthopedics Internship – Commercial Operations and Strategy & Innovation](https://jobright.ai/jobs/info/68d49c88fcd3367e8df16240?utm_campaign=1050&utm_source=git)** | West Chester, PA | On Site | Sep 24 |
 | **[TOTE Services](http://www.toteservices.com)** | **[TOTE Internship (Development) Program](https://jobright.ai/jobs/info/68dbc49897329f2f7731d9bb?utm_campaign=1050&utm_source=git)** | Tacoma, WA, US | On Site | Sep 24 |
@@ -115,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Highgate](https://www.highgate.com)** | **[Operations Intern- Select Service Summer 2026](https://jobright.ai/jobs/info/68d2fc43f0d9af73038ddd4e?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | ↳ | **[Operations Intern- Select Service Summer 2026](https://jobright.ai/jobs/info/68d302628c62e63bc7fdcc58?utm_campaign=1050&utm_source=git)** | Bothell, WA | On Site | Sep 23 |
 | ↳ | **[Operations Intern- Select Service Summer 2026](https://jobright.ai/jobs/info/68d2f7f017554c2d9eeec574?utm_campaign=1050&utm_source=git)** | Grapevine, TX | On Site | Sep 23 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/68d2e1ec17554c2d9eeeb378?utm_campaign=1050&utm_source=git)** | Jacksonville, AL | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

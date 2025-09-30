@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring Internship - San Antonio](https://jobright.ai/jobs/info/68db8d46e19b9e63ba20ddf0?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Sep 30 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Vice Chair of Research - Open Rank - Internal Medicine](https://jobright.ai/jobs/info/68db7ef034f2c406da6d8972?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern/Summer 2026 Transformation Office (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/68db7bd634f2c406da6d882e?utm_campaign=1050&utm_source=git)** | Troy, Michigan | Hybrid | Sep 29 |
 | **[RTX](http://www.raytheon.com)** | **[Procurement Intern (Summer 2026) (Remote)](https://jobright.ai/jobs/info/68db6c7a9f13662d20e4b27a?utm_campaign=1050&utm_source=git)** | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | Hybrid | Sep 29 |
 | ↳ | **[Procurement Intern (Summer 2026) (Remote)](https://jobright.ai/jobs/info/68db6c65e19b9e63ba20becc?utm_campaign=1050&utm_source=git)** | HIA32: Cedar Rapids, IA 400 Collins Rd NE  , Cedar Rapids, IA, 52498-0505 USA | Hybrid | Sep 29 |
 | ↳ | **[Procurement Intern (Summer 2026) (Remote)](https://jobright.ai/jobs/info/68db6c5e9f13662d20e4b23c?utm_campaign=1050&utm_source=git)** | HMN01: S&IS (Sensors) - Burnsville 14300 Judicial Rd, Burnsville, MN, 55306 USA | Hybrid | Sep 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Central Strategy and Research Intern (Global Business Solutions-MSO-SMB)- 2026 Summer (MBA)](https://jobright.ai/jobs/info/68db68e59f13662d20e4b113?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Sep 29 |
 | ↳ | **[Strategy Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/68db67ece19b9e63ba20bbf3?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Sep 29 |
-| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Corporate Strategy MBA Associate, Summer 2026](https://jobright.ai/jobs/info/68db652834f2c406da6d7a5f?utm_campaign=1050&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 29 |
 | **[Verizon Connect](https://www.verizonconnect.com/)** | **[Irving: V Teamer for a Day - Consumer Success Ops & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68db6430e19b9e63ba20bae9?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 29 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68db60f99f13662d20e4aa7b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Sep 29 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68db60d69f13662d20e4a9dd?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Sep 29 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/68db583b9f13662d20e4a441?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Sep 29 |
 | ↳ | **[Operations Intern - Prairie View A&M University](https://jobright.ai/jobs/info/68db581a9f13662d20e4a3a6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Sep 29 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Logistics Fall/Winter '25](https://jobright.ai/jobs/info/68db57f1e19b9e63ba20b0f8?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Sep 29 |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Corporate Strategy MBA Associate, Summer 2026](https://jobright.ai/jobs/info/68db652834f2c406da6d7a5f?utm_campaign=1050&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 29 |
 | **[CareComply](https://carecomply.ai)** | **[Chief of Staff](https://jobright.ai/jobs/info/68db50dfe19b9e63ba20aad4?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99829 Administrative Secretary](https://jobright.ai/jobs/info/68db4d8e34f2c406da6d6706?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Sep 29 |
 | **[Chil & Co. ](https://www.chilatl.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68db43c09f13662d20e490da?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Sep 29 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Spring Internship - San Antonio](https://jobright.ai/jobs/info/68db3ba6e19b9e63ba2097e5?utm_campaign=1050&utm_source=git)** | North San Antonio & San Antonio Airport area | On Site | Sep 29 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Nashville - Restaurant Management Internship](https://jobright.ai/jobs/info/68db3ba59f13662d20e48bfd?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68db3b62e19b9e63ba20974f?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Sep 29 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5747?utm_campaign=1050&utm_source=git)** | Goshen, IN | On Site | Sep 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5746?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Sep 29 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5746?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Sep 29 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68db384e34f2c406da6d5747?utm_campaign=1050&utm_source=git)** | Goshen, IN | On Site | Sep 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2025 Management Trainee Intern - Burlington, Vermont](https://jobright.ai/jobs/info/68db384de19b9e63ba2096e7?utm_campaign=1050&utm_source=git)** | Burlington, VT | On Site | Sep 29 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68db38349f13662d20e48afb?utm_campaign=1050&utm_source=git)** | Effingham, IL | On Site | Sep 29 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68db3825e19b9e63ba2096b9?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Sep 29 |
@@ -118,9 +121,12 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Colorado Region 2025 - 2026 (Evergreen)](https://jobright.ai/jobs/info/68db295b0dffed6f83d2cced?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Sep 29 |
 | ↳ | **[Internship Program - Mid-Atlantic Region 2025 - 2026](https://jobright.ai/jobs/info/68db2850e9b48513789b2279?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Sep 29 |
 | **[Northwood](https://www.northwoodspace.io)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db273a6df7b8311bb1650c?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Sep 29 |
+| **[Rödl & Partner USA](http://www.roedl.us)** | **[Praktikant (w/m/d)](https://jobright.ai/jobs/info/67a4c8c710485bdc6e5a0841?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db25c40dffed6f83d2cbb0?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Sep 29 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db24e5e9b48513789b213f?utm_campaign=1050&utm_source=git)** | Goodlettsville, TN | On Site | Sep 29 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db24d7e9b48513789b212d?utm_campaign=1050&utm_source=git)** | Hernando, MS | On Site | Sep 29 |
+| **[Rockingham Cooperative, Inc.](http://www.RockinghamCoop.com)** | **[Intern- Agronomy Dayton VA](https://jobright.ai/jobs/info/68db7f9a34f2c406da6d8c17?utm_campaign=1050&utm_source=git)** | Dayton, VA | On Site | Sep 29 |
+| ↳ | **[Intern- Animal Nutrition Dayton VA](https://jobright.ai/jobs/info/68db804fe19b9e63ba20cb73?utm_campaign=1050&utm_source=git)** | Dayton, VA | On Site | Sep 29 |
 | **[L'Oréal](https://www.loreal.com)** | **[Jr. Supply Chain Associate (12 - Month Intern)](https://jobright.ai/jobs/info/68db2476e9b48513789b20ad?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Sep 29 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Distribution & Logistics Intern](https://jobright.ai/jobs/info/68db24006df7b8311bb1645d?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Sep 29 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/68db23d46df7b8311bb16424?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Sep 29 |
@@ -135,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[StandardAero](http://www.standardaero.com/)** | **[Operations Analyst Student/Intern](https://jobright.ai/jobs/info/68db0f830dffed6f83d2c53f?utm_campaign=1050&utm_source=git)** | Hillsboro, OH | On Site | Sep 29 |
 | **[Verizon](https://www.verizon.com)** | **[Consumer Success Ops & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68db0f1f6df7b8311bb15bd4?utm_campaign=1050&utm_source=git)** | Basking Ridge, NJ | On Site | Sep 29 |
 | ↳ | **[Consumer Success Ops & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68db0eff0dffed6f83d2c3da?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 29 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Operations Undergraduate Internship](https://jobright.ai/jobs/info/68db0d22e9b48513789b18b9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Category Planning & Development Intern](https://jobright.ai/jobs/info/68db0cd1e9b48513789b185d?utm_campaign=1050&utm_source=git)** | Cashton, WI | Hybrid | Sep 29 |
 | **[ATI](https://www.atimaterials.com)** | **[2026 Intern - Procurement/Supply Chain](https://jobright.ai/jobs/info/68db0cd1e9b48513789b1861?utm_campaign=1050&utm_source=git)** | Natrona Heights, PA | On Site | Sep 29 |
 | **[Verizon](https://www.verizon.com)** | **[Irving: V Teamer for a Day - Consumer Success Ops & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68db0c9ae9b48513789b17f7?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Sep 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Global Supply Chain and MRO Shops - Intern (Summer 2026)](https://jobright.ai/jobs/info/68db031fe9b48513789b1262?utm_campaign=1050&utm_source=git)** | Arlington Heights, IL | On Site | Sep 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/68db02f80dffed6f83d2bde8?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Sep 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data & Project Management, Customer Services & Delivery](https://jobright.ai/jobs/info/68daff86e9b48513789b1056?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Sep 29 |
-| **[Barilla Group](http://www.barillagroup.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68dafec8e9b48513789b0e9d?utm_campaign=1050&utm_source=git)** | Northbrook, IL | Hybrid | Sep 29 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Game Management - Student Employment](https://jobright.ai/jobs/info/68dafe90e9b48513789b0d4c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Sep 29 |
-| **[Risepoint](http://www.risepoint.com)** | **[Strategy & Analytics Co-Op - Spring 2026](https://jobright.ai/jobs/info/68daf6cb07c157682e570209?utm_campaign=1050&utm_source=git)** | United States | Remote | Sep 29 |
-| **[Brown & Brown](https://www.bbrown.com/us/)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/68daf6c60dffed6f83d2b582?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Sep 29 |
-| **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Shipping/ Administrative Intern](https://jobright.ai/jobs/info/68daf6220dffed6f83d2b3d2?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

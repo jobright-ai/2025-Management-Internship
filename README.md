@@ -57,30 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RENK America](https://www.renk.com/en/company/about-renk/locations/muskegon)** | **[Program Management Intern](https://jobright.ai/jobs/info/68de7ef144d32141e0c0046c?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | Oct 02 |
+| **[Siemens](https://www.siemens.com/)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68de7ec844d32141e0c00400?utm_campaign=1050&utm_source=git)** | Patrick AFB, FL | On Site | Oct 02 |
+| **[Disney Cruise Line](https://disneycruise.disney.go.com)** | **[Disney Signature Experiences, DCL Terminal Operations Intern, Summer 2026](https://jobright.ai/jobs/info/68de7087a125e75c422b4408?utm_campaign=1050&utm_source=git)** | Celebration, FL | On Site | Oct 02 |
+| ↳ | **[Disney Signature Experiences, DCL Lodging Operations Intern, Summer 2026](https://jobright.ai/jobs/info/68de703d44d32141e0c000ca?utm_campaign=1050&utm_source=git)** | Celebration, FL | On Site | Oct 02 |
 | **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[Home Office Summer Intern](https://jobright.ai/jobs/info/68c501bfc96a22563ece5d4d?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Oct 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de638b09bda65a4b62a421?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 02 |
+| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de638b09bda65a4b62a420?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 02 |
 | **[Logia Nonprofit Logistics](www.logialogistics.org)** | **[Delivery Internship](https://jobright.ai/jobs/info/68de632f09bda65a4b62a359?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Oct 02 |
 | **[Verizon](https://www.verizon.com)** | **[Verizon Business Global Enterprise - Strategic Planning Analyst Summer 2026 Internship](https://jobright.ai/jobs/info/68de623244d32141e0bffe7f?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Oct 02 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68de5e6144d32141e0bffd80?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68de5df4a125e75c422b4071?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68de5d3fa125e75c422b3f03?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 02 |
-| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de5b8009bda65a4b629dab?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68de553e44d32141e0bff939?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68de551509bda65a4b6295c1?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68de54bea125e75c422b3bf2?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68de547909bda65a4b62951e?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 02 |
+| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de5470a125e75c422b3bca?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68de545b09bda65a4b629513?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68de542ba125e75c422b3ba3?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68de542144d32141e0bff810?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 02 |
-| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de541144d32141e0bff808?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68de53f909bda65a4b6294dc?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68de53d7a125e75c422b3b79?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Oct 02 |
 | ↳ | **[Operations Intern - University of North Florida](https://jobright.ai/jobs/info/68de53bc44d32141e0bff7e1?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68de537144d32141e0bff7bf?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 02 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68de536844d32141e0bff7b9?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 02 |
-| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de535b44d32141e0bff7b2?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 02 |
-| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de5334a125e75c422b3b33?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 02 |
 | **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68de4e3fa125e75c422b392f?utm_campaign=1050&utm_source=git)** | Los Lunas, NM | On Site | Oct 02 |
 | ↳ | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/68de4ce4a125e75c422b36af?utm_campaign=1050&utm_source=git)** | Blythe, CA | On Site | Oct 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de68d509bda65a4b62a880?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 02 |
+| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68de683909bda65a4b62a6fd?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 02 |
+| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68de6f8c09bda65a4b62ad0d?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 02 |
 | **[AT&T](https://www.att.com/)** | **[Supply Chain Leadership Program Graduate Internship - Planning & Logistics](https://jobright.ai/jobs/info/68de467a09bda65a4b628bc0?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | ↳ | **[Supply Chain Leadership Program Graduate Internship - Sourcing (Evergreen)](https://jobright.ai/jobs/info/68de443344d32141e0bfee39?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
 | ↳ | **[Supply Chain Leadership Program Graduate Internship - Technology Enablement & Automation](https://jobright.ai/jobs/info/68de4356a125e75c422b2fe7?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 02 |
@@ -104,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68de2edba125e75c422b1bc8?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 01 |
 | ↳ | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68de35f309bda65a4b627c10?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 01 |
 | ↳ | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68de2fd709bda65a4b62779a?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 01 |
-| ↳ | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68de2eb844d32141e0bfd8bc?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 01 |
 | ↳ | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68de2d5444d32141e0bfd1a7?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 01 |
+| ↳ | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68de2eb844d32141e0bfd8bc?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 01 |
 | **[Level Up Live](http://www.leveluplive.com/)** | **[Engineering Project Manager Intern (Unpaid Internship)](https://jobright.ai/jobs/info/68ddf5eda125e75c422b06e5?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Oct 01 |
 | **[Farmington Country Club](http://farmingtoncc.com)** | **[POOLSIDE GRILL INTERN](https://jobright.ai/jobs/info/68ddf3f409bda65a4b624f60?utm_campaign=1050&utm_source=git)** | Charlottesville, VA | On Site | Oct 01 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ddf3b809bda65a4b624f12?utm_campaign=1050&utm_source=git)** | Lake Ozark, MO | On Site | Oct 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Sourcing, Vendor Management & Procurement](https://jobright.ai/jobs/info/68ddc1f1a125e75c422aec73?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Oct 01 |
 | **[Sentry](https://www.sentry.io)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/68ddbcbdd624072d9ab04b0f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Oct 01 |
 | **[Work4Flow](www.work4flow.com)** | **[ServiceNow Technical Project Management (Intern)](https://jobright.ai/jobs/info/68ddbbe5a125e75c422aeae3?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 01 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Strategic Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68ddba8d44d32141e0bfa9f3?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Oct 01 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Strategic Risk Management](https://jobright.ai/jobs/info/68ddba7944d32141e0bfa9d8?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 01 |
-| ↳ | **[Summer 2026 Internship - Phoenix, AZ - Commercial Real Estate](https://jobright.ai/jobs/info/68ddba6744d32141e0bfa9a3?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 01 |
-| **[Verizon Connect](https://www.verizonconnect.com/)** | **[Verizon Business Global Enterprise - Strategic Planning Analyst Summer 2026 Internship](https://jobright.ai/jobs/info/68ddb897a125e75c422ae8b6?utm_campaign=1050&utm_source=git)** | Ashburn, VA | Hybrid | Oct 01 |
-| **[PURPLE](https://purplepr.com)** | **[Business Operations Intern - Spring](https://jobright.ai/jobs/info/68ddb891a125e75c422ae8a0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 01 |
-| **[Lifetime Benefit Solutions, Inc.](http://lifetimebenefitsolutions.com)** | **[College Intern I - Summer 2026 - Sourcing, Vendor Management & Procurement](https://jobright.ai/jobs/info/68ddb4eaa125e75c422ae700?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

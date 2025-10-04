@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e1056cf758fe1f97e53850?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0fcb7b99ec3563b0d585b?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68e0fc9ff758fe1f97e5361f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
+| ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0fc6bb99ec3563b0d5835?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e0fb1ab99ec3563b0d5787?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f7441852e62f007f0ddb?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f739f758fe1f97e53481?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Missouri State University](https://jobright.ai/jobs/info/68e0f707b99ec3563b0d5699?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e0f6bbf758fe1f97e53402?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f6551852e62f007f0d04?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e0f639b99ec3563b0d55e9?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 04 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e0f635f758fe1f97e5337d?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f5e0b99ec3563b0d55a5?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Oct 04 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e0f5b01852e62f007f0c92?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 04 |
+| ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0f5aaf758fe1f97e53314?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0f577b99ec3563b0d550c?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f5101852e62f007f0bba?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
+| ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0efbfb99ec3563b0d5190?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 04 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Project Management, Digital & Technology (Summer 2026)](https://jobright.ai/jobs/info/68e0eae7f758fe1f97e52d83?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | ↳ | **[Internship – Merchandise Operations Leadership (Summer 2026)](https://jobright.ai/jobs/info/68e0e612b99ec3563b0d4e29?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | ↳ | **[Internship – Food & Beverage, Operations (Summer 2026)](https://jobright.ai/jobs/info/68e0e5eff758fe1f97e52ada?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
@@ -97,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d97b99ec3563b0cef05?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d4e1852e62f007ea70e?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68e05939b99ec3563b0ceda3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - Commercial Banking](https://jobright.ai/jobs/info/68e0588b1852e62f007ea53e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 03 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/68e0576df758fe1f97e4c81d?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Oct 03 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05415f758fe1f97e4c7a7?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | ↳ | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05105b99ec3563b0ce7d9?utm_campaign=1050&utm_source=git)** | USA - Austin, TX | On Site | Oct 03 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e028601852e62f007e8092?utm_campaign=1050&utm_source=git)** | PAM-TONTITOWN, AR | On Site | Oct 03 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e0285bb99ec3563b0cca37?utm_campaign=1050&utm_source=git)** | Primary Childrens at Taylorsville | On Site | Oct 03 |
 | ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0283df758fe1f97e4a4fc?utm_campaign=1050&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0282e1852e62f007e7ff6?utm_campaign=1050&utm_source=git)** | Intermountain Health Sevier Valley Hospital | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0281f1852e62f007e7fcd?utm_campaign=1050&utm_source=git)** | Intermountain Health McKay-Dee Hospital | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0281f1852e62f007e7fce?utm_campaign=1050&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Oct 03 |
-| ↳ | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e027f8b99ec3563b0cc90d?utm_campaign=1050&utm_source=git)** | Intermountain Health Primary Childrens Hospital | On Site | Oct 03 |
-| **[Cirrus](http://cirrusaircraft.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68e027e1f758fe1f97e4a3db?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Oct 03 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e027cd1852e62f007e7ece?utm_campaign=1050&utm_source=git)** | Primary Childrens Hospital - Las Vegas | On Site | Oct 03 |
-| **[RED STAR OUTDOOR ADVERTISING](http://redstaroutdoor.com/)** | **[intern-General Administrative 10-25 hrs week/Flexible In Office](https://jobright.ai/jobs/info/68e027c4b99ec3563b0cc880?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | On Site | Oct 03 |
-| **[O-I](http://www.o-i.com)** | **[Supply Chain (Procurement/Logistics) Internship – Summer 2026](https://jobright.ai/jobs/info/68e027b41852e62f007e7e72?utm_campaign=1050&utm_source=git)** | Perrysburg | Hybrid | Oct 03 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e027b1b99ec3563b0cc843?utm_campaign=1050&utm_source=git)** | Intermountain Health Cassia Regional Hospital | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e027a0b99ec3563b0cc809?utm_campaign=1050&utm_source=git)** | Intermountain Health Primary Childrens Hospital | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e027a0b99ec3563b0cc80b?utm_campaign=1050&utm_source=git)** | Good Samaritan Hospital | On Site | Oct 03 |
-| ↳ | **[Telehealth Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e027981852e62f007e7e30?utm_campaign=1050&utm_source=git)** | Valley Center Tower | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e02791f758fe1f97e4a2df?utm_campaign=1050&utm_source=git)** | Intermountain Health St George Regional Hospital | On Site | Oct 03 |
-| ↳ | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e0278cf758fe1f97e4a2cf?utm_campaign=1050&utm_source=git)** | Primary Childrens at Lehi | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0277bf758fe1f97e4a29f?utm_campaign=1050&utm_source=git)** | Intermountain Health Logan Regional Hospital | On Site | Oct 03 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern - Savannah I](https://jobright.ai/jobs/info/68e021d7b99ec3563b0cc43d?utm_campaign=1050&utm_source=git)** | Bloomingdale, GA, United States | On Site | Oct 03 |
-| **[O-I](http://www.o-i.com)** | **[Supply Chain (Procurement/Logistics) Internship – Fall 2026](https://jobright.ai/jobs/info/68e03989f758fe1f97e4b264?utm_campaign=1050&utm_source=git)** | Perrysburg | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

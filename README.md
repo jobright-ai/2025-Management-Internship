@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atrium Health](https://atriumhealth.org/medical-services/childrens-services/levine-childrens-hospital)** | **[Business Operations - Intern](https://jobright.ai/jobs/info/68e0ade7f758fe1f97e5001c?utm_campaign=1050&utm_source=git)** | Concord, NC | On Site | Oct 03 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e09e82f758fe1f97e4f5d7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 03 |
+| ↳ | **[Operations Intern - New Mexico Institute of Mining and Technology (Summer 2026)](https://jobright.ai/jobs/info/68e09c56b99ec3563b0d14d2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99498 Administrative Secretary, Transfer Student Services, Tahlequah](https://jobright.ai/jobs/info/68e08f59b99ec3563b0d0a76?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Oct 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e08aadf758fe1f97e4e2ab?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e08a981852e62f007ebf1c?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Oct 03 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d97b99ec3563b0cef05?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d4e1852e62f007ea70e?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68e05939b99ec3563b0ceda3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - Commercial Banking](https://jobright.ai/jobs/info/68e0588b1852e62f007ea53e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 03 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/68e0576df758fe1f97e4c81d?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Oct 03 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05415f758fe1f97e4c7a7?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | ↳ | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05105b99ec3563b0ce7d9?utm_campaign=1050&utm_source=git)** | USA - Austin, TX | On Site | Oct 03 |
@@ -126,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e0285bb99ec3563b0cca37?utm_campaign=1050&utm_source=git)** | Primary Childrens at Taylorsville | On Site | Oct 03 |
 | ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0283df758fe1f97e4a4fc?utm_campaign=1050&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Oct 03 |
 | ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0282e1852e62f007e7ff6?utm_campaign=1050&utm_source=git)** | Intermountain Health Sevier Valley Hospital | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0281f1852e62f007e7fcd?utm_campaign=1050&utm_source=git)** | Intermountain Health McKay-Dee Hospital | On Site | Oct 03 |
 | ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0281f1852e62f007e7fce?utm_campaign=1050&utm_source=git)** | Intermountain Health Utah Valley Hospital | On Site | Oct 03 |
+| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0281f1852e62f007e7fcd?utm_campaign=1050&utm_source=git)** | Intermountain Health McKay-Dee Hospital | On Site | Oct 03 |
 | ↳ | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e027f8b99ec3563b0cc90d?utm_campaign=1050&utm_source=git)** | Intermountain Health Primary Childrens Hospital | On Site | Oct 03 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68e027e1f758fe1f97e4a3db?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Oct 03 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e027cd1852e62f007e7ece?utm_campaign=1050&utm_source=git)** | Primary Childrens Hospital - Las Vegas | On Site | Oct 03 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Supply Chain Intern](https://jobright.ai/jobs/info/68e0167bb99ec3563b0cb9b0?utm_campaign=1050&utm_source=git)** | Torrance, California, United States | On Site | Oct 03 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/68e013bbf758fe1f97e493a3?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Design and Delivery Intern, Corporate Real Estate, Spring 2026](https://jobright.ai/jobs/info/68e0132d1852e62f007e7046?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Logistics Intern](https://jobright.ai/jobs/info/68e0119d1852e62f007e6e69?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Oct 03 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68e010f7b99ec3563b0cb78d?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Oct 03 |
-| **[ACM Global Laboratories](http://www.acmgloballab.com)** | **[ACM Project Management Internship](https://jobright.ai/jobs/info/68e010b1b99ec3563b0cb758?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Project Management  Intern - 2025-2026](https://jobright.ai/jobs/info/68dffb461852e62f007e604f?utm_campaign=1050&utm_source=git)** | Richfield, OH (USA) | Hybrid | Oct 03 |
-| **[Hyperquake](https://www.hyperquake.com/)** | **[Client Leader: Spring Internship](https://jobright.ai/jobs/info/68e00ecaf758fe1f97e4921b?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

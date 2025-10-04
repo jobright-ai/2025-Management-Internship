@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BeamSphere](beamsphere.us)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68e146181852e62f007f2619?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Oct 04 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship - Logan, UT - Summer 2026](https://jobright.ai/jobs/info/68ccc913a77e5d7d744f560e?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Oct 04 |
 | ↳ | **[Production Management Intern - Shippensburg, PA - Summer 2026](https://jobright.ai/jobs/info/68ce7f44fb49c96ca6ea1095?utm_campaign=1050&utm_source=git)** | Shippensburg, PA | On Site | Oct 04 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68e1319cf758fe1f97e54899?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Oct 04 |
@@ -89,8 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0efbfb99ec3563b0d5190?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 04 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Food & Beverage, Operations (Summer 2026)](https://jobright.ai/jobs/info/68e0e5eff758fe1f97e52ada?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | **[Budget Car and Truck Rental of Wichita](http://www.budgetwichita.com)** | **[Summer Management/Leadership Internship](https://jobright.ai/jobs/info/68e0e50cf758fe1f97e528f2?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Oct 04 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Operations Development, New Ventures (Summer 2026)](https://jobright.ai/jobs/info/68e0e465f758fe1f97e52742?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
-| ↳ | **[Internship – Park Operations Logistics & Administration (Summer 2026)](https://jobright.ai/jobs/info/68e0e451b99ec3563b0d4a23?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sam Houston State University](https://jobright.ai/jobs/info/68e0da57b99ec3563b0d4528?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Acosta Group](https://www.acosta.group)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/68e0d9fa1852e62f007efd0b?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e09e82f758fe1f97e4f5d7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, ONLINE (UNDERGRADUATE)](https://jobright.ai/jobs/info/68dce227accfd24b67e5b621?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | ↳ | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, SUPPLY CHAIN (UNDERGRADUATE)](https://jobright.ai/jobs/info/68dce336accfd24b67e5b807?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | ↳ | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, MARKETING (MASTERS/MBA, UNDER 5YRS EXP)](https://jobright.ai/jobs/info/68dce3d2a125e75c422a6b4d?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage - J1 Intern/Trainee](https://jobright.ai/jobs/info/68e02cdcf758fe1f97e4a7cf?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

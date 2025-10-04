@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Supply Chain Operations- Robinson Fresh](https://jobright.ai/jobs/info/68e16f5bb99ec3563b0d742b?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
+| ↳ | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/68e16ef0b99ec3563b0d73f9?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
+| **[Quantum Pulse Consulting](https://qpulse.tech/case-studies/)** | **[Scrum Master Intern](https://jobright.ai/jobs/info/68e168eab99ec3563b0d7325?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 04 |
 | **[BeamSphere](beamsphere.us)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68e146181852e62f007f2619?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Oct 04 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship - Logan, UT - Summer 2026](https://jobright.ai/jobs/info/68ccc913a77e5d7d744f560e?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Oct 04 |
 | ↳ | **[Production Management Intern - Shippensburg, PA - Summer 2026](https://jobright.ai/jobs/info/68ce7f44fb49c96ca6ea1095?utm_campaign=1050&utm_source=git)** | Shippensburg, PA | On Site | Oct 04 |
@@ -70,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb39b3a30793eb963cb68?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68e115cff758fe1f97e53a93?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e1056cf758fe1f97e53850?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0fcb7b99ec3563b0d585b?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
+| **[Klaviyo](http://www.klaviyo.com)** | **[Head of Internal Communications](https://jobright.ai/jobs/info/6836670a160314196aa435f3?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 04 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0fcb7b99ec3563b0d585b?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68e0fc9ff758fe1f97e5361f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0fc6bb99ec3563b0d5835?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 04 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e0fb1ab99ec3563b0d5787?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 04 |
@@ -123,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d97b99ec3563b0cef05?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d4e1852e62f007ea70e?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68e05939b99ec3563b0ceda3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - Commercial Banking](https://jobright.ai/jobs/info/68e0588b1852e62f007ea53e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 03 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/68e0576df758fe1f97e4c81d?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Oct 03 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05415f758fe1f97e4c7a7?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | ↳ | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05105b99ec3563b0ce7d9?utm_campaign=1050&utm_source=git)** | USA - Austin, TX | On Site | Oct 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[O-I](http://www.o-i.com)** | **[Supply Chain (Procurement/Logistics) Internship – Spring 2026](https://jobright.ai/jobs/info/68e03335f758fe1f97e4ab79?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | Hybrid | Oct 03 |
 | ↳ | **[Supply Chain (Procurement/Logistics) Internship – Summer 2026](https://jobright.ai/jobs/info/68e03280b99ec3563b0ccf87?utm_campaign=1050&utm_source=git)** | Perrysburg, OH | Hybrid | Oct 03 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, ONLINE (UNDERGRADUATE)](https://jobright.ai/jobs/info/68dce227accfd24b67e5b621?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
-| ↳ | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, SUPPLY CHAIN (UNDERGRADUATE)](https://jobright.ai/jobs/info/68dce336accfd24b67e5b807?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
-| ↳ | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, MARKETING (MASTERS/MBA, UNDER 5YRS EXP)](https://jobright.ai/jobs/info/68dce3d2a125e75c422a6b4d?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Food & Beverage - J1 Intern/Trainee](https://jobright.ai/jobs/info/68e02cdcf758fe1f97e4a7cf?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

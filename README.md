@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/68e1209cf758fe1f97e54020?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
+| ↳ | **[Intern - Supply Chain Operations- Robinson Fresh](https://jobright.ai/jobs/info/68e11d7ab99ec3563b0d5ffd?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/68e11f91b99ec3563b0d6137?utm_campaign=1050&utm_source=git)** | Enfield/Hartford/Windsor/Windsor Locks | On Site | Oct 04 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68e115cff758fe1f97e53a93?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e1056cf758fe1f97e53850?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0fcb7b99ec3563b0d585b?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68e0fc9ff758fe1f97e5361f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
@@ -74,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0f5aaf758fe1f97e53314?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0f577b99ec3563b0d550c?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f5101852e62f007f0bba?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Indiana State University (Summer 2026)](https://jobright.ai/jobs/info/68e11658f758fe1f97e53b19?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Oct 04 |
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0efbfb99ec3563b0d5190?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 04 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Project Management, Digital & Technology (Summer 2026)](https://jobright.ai/jobs/info/68e0eae7f758fe1f97e52d83?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | ↳ | **[Internship – Merchandise Operations Leadership (Summer 2026)](https://jobright.ai/jobs/info/68e0e612b99ec3563b0d4e29?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
@@ -134,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Genesys](http://www.genesys.com)** | **[Business Strategy & Operations Product Intern (Fall 2025)](https://jobright.ai/jobs/info/68e03dda1852e62f007e9484?utm_campaign=1050&utm_source=git)** | Durham, NC | Hybrid | Oct 03 |
 | **[Cirrus](http://cirrusaircraft.com)** | **[Project Specialist Intern](https://jobright.ai/jobs/info/68e03cc51852e62f007e92b5?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Oct 03 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e03b1cf758fe1f97e4b555?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 03 |
+| **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, ONLINE (MASTERS/MBA, UNDER 5YRS EXP)](https://jobright.ai/jobs/info/68dcebd4a125e75c422a6d53?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern - Savannah I](https://jobright.ai/jobs/info/68e0368d1852e62f007e8cd0?utm_campaign=1050&utm_source=git)** | Bloomingdale, GA | On Site | Oct 03 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Data Analysis, Program Manager - Summer 2026](https://jobright.ai/jobs/info/68e03604f758fe1f97e4b1a0?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Oct 03 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, FINANCE (UNDERGRADUATE)](https://jobright.ai/jobs/info/68dce3d4ddc10244dd67b586?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, DATA ANALYTICS (UNDERGRADUATE)](https://jobright.ai/jobs/info/68dce097ddc10244dd67b437?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | ↳ | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, MARKETING (UNDERGRADUATE)](https://jobright.ai/jobs/info/68dce2f6accfd24b67e5b794?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | ↳ | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, FINANCE (MBA, 5YRS+ EXP)](https://jobright.ai/jobs/info/68dce0c8ddc10244dd67b4c7?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
-| ↳ | **[CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, SUPPLY CHAIN (MBA, 5YRS+ EXP)](https://jobright.ai/jobs/info/68dce20faccfd24b67e5b5f1?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
-| **[Axos Bank](https://www.axosbank.com/)** | **[Strategy & Data Analyst Intern](https://jobright.ai/jobs/info/68e028a41852e62f007e811c?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 03 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0287bb99ec3563b0cca6b?utm_campaign=1050&utm_source=git)** | Intermountain Health Intermountain Medical Center | On Site | Oct 03 |
-| **[PAM Transport](https://www.pamtransport.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e028601852e62f007e8092?utm_campaign=1050&utm_source=git)** | PAM-TONTITOWN, AR | On Site | Oct 03 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e0285bb99ec3563b0cca37?utm_campaign=1050&utm_source=git)** | Primary Childrens at Taylorsville | On Site | Oct 03 |
-| ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e0283df758fe1f97e4a4fc?utm_campaign=1050&utm_source=git)** | Intermountain Health Lutheran Hospital | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

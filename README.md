@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Operations Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7fb99ec3563b0dc223?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 05 |
+| **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Logistics Operations Excellence Internship - Summer 2026](https://jobright.ai/jobs/info/68cd653de23def7af55b954c?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68e24871b99ec3563b0dc118?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 05 |
+| ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68e24857f758fe1f97e59f4e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 05 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68e248451852e62f007f78ff?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 05 |
+| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68e244a5f758fe1f97e59ec3?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 05 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2442ab99ec3563b0dc038?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 05 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68e23401f758fe1f97e597d1?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Terre Haute](https://jobright.ai/jobs/info/68e233e9f758fe1f97e597b4?utm_campaign=1050&utm_source=git)** | Terre Haute | On Site | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Logistics Process Analyst Intern](https://jobright.ai/jobs/info/68e23299f758fe1f97e5969f?utm_campaign=1050&utm_source=git)** | Mount Holly, NC | Hybrid | Oct 05 |
@@ -74,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e1828db99ec3563b0d76a5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68e18289f758fe1f97e55511?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68e1820ef758fe1f97e554cb?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68e181a61852e62f007f2e40?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e180fa1852e62f007f2db0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e180901852e62f007f2d68?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 04 |
@@ -119,6 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Indiana State University (Summer 2026)](https://jobright.ai/jobs/info/68e11658f758fe1f97e53b19?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Oct 04 |
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0efbfb99ec3563b0d5190?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 04 |
 | **[Budget Car and Truck Rental of Wichita](http://www.budgetwichita.com)** | **[Summer Management/Leadership Internship](https://jobright.ai/jobs/info/68e0e50cf758fe1f97e528f2?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Oct 04 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68df30045ab4977c2e951494?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sam Houston State University](https://jobright.ai/jobs/info/68e0da57b99ec3563b0d4528?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Acosta Group](https://www.acosta.group)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/68e0d9fa1852e62f007efd0b?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e09e82f758fe1f97e4f5d7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Univera Healthcare](https://www.univerahealthcare.com)** | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e06692b99ec3563b0cf20c?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e06241f758fe1f97e4cd35?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e0620bf758fe1f97e4cd12?utm_campaign=1050&utm_source=git)** | DeWitt, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e061891852e62f007ea883?utm_campaign=1050&utm_source=git)** | Elmira, NY | On Site | Oct 03 |
-| **[ChildServe](https://www.childserve.org/)** | **[Autism Day Program Operations Intern](https://jobright.ai/jobs/info/68e06147f758fe1f97e4cc6c?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Oct 03 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Digital Banking Operations](https://jobright.ai/jobs/info/68e05ee7b99ec3563b0cf01e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d97b99ec3563b0cef05?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 03 |
-| ↳ | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d4e1852e62f007ea70e?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68e05939b99ec3563b0ceda3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - Commercial Banking](https://jobright.ai/jobs/info/68e0588b1852e62f007ea53e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 03 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/68e0576df758fe1f97e4c81d?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

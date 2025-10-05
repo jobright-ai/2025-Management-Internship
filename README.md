@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2d036f758fe1f97e5ae2c?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 05 |
+| ↳ | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/68e2cfcbf758fe1f97e5add9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 05 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2cf0e1852e62f007f8757?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 05 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Concord, Keene, W Lebanon, Laconia, NH](https://jobright.ai/jobs/info/68e2cc131852e62f007f864f?utm_campaign=1050&utm_source=git)** | Concord | On Site | Oct 05 |
 | **[Friendship Village Retirement Community of Waterloo, IA](https://www.friendshipvillageiowa.com)** | **[Administration Intern for Assisted Living– Unpaid](https://jobright.ai/jobs/info/68e2c7ca1852e62f007f856e?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | Oct 05 |
 | **[Tenova](https://www.tenova.com)** | **[Supply Chain Management - Internship](https://jobright.ai/jobs/info/68e2b264f758fe1f97e5aa10?utm_campaign=1050&utm_source=git)** | Coraopolis, PA | On Site | Oct 05 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68e2b1b3b99ec3563b0dcb3f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 05 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68e2a2521852e62f007f8288?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Oct 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/68e29b18b99ec3563b0dc9bb?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 05 |
-| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68e29adcb99ec3563b0dc99c?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68e2943ef758fe1f97e5a7d5?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[Commercial Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68e28dadb99ec3563b0dc864?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 05 |
 | ↳ | **[2026 Clinical Trial Operations Intern](https://jobright.ai/jobs/info/68e28995b99ec3563b0dc7d4?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Oct 05 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0efbfb99ec3563b0d5190?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 04 |
 | **[Budget Car and Truck Rental of Wichita](http://www.budgetwichita.com)** | **[Summer Management/Leadership Internship](https://jobright.ai/jobs/info/68e0e50cf758fe1f97e528f2?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Oct 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68df30045ab4977c2e951494?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 04 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sam Houston State University](https://jobright.ai/jobs/info/68e0da57b99ec3563b0d4528?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | **[Acosta Group](https://www.acosta.group)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/68e0d9fa1852e62f007efd0b?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e09e82f758fe1f97e4f5d7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 03 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99498 Administrative Secretary, Transfer Student Services, Tahlequah](https://jobright.ai/jobs/info/68e08f59b99ec3563b0d0a76?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Oct 03 |

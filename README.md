@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - California Market Bank CRE](https://jobright.ai/jobs/info/68e1bff3b99ec3563b0d7f77?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
 | **[Yarmouth-Dennis Red Sox](https://ydredsox.com)** | **[Game Day Baseball Operations Internship](https://jobright.ai/jobs/info/68e195a81852e62f007f3359?utm_campaign=1050&utm_source=git)** | South Yarmouth, MA | On Site | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Property Management Summer Intern](https://jobright.ai/jobs/info/68e18fccf758fe1f97e559c2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | ↳ | **[Development Summer Intern](https://jobright.ai/jobs/info/68e18f93f758fe1f97e55981?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Supply Chain Operations- Robinson Fresh](https://jobright.ai/jobs/info/68e042841852e62f007e9761?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN United States of America | On Site | Oct 03 |
 | ↳ | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/68e04249f758fe1f97e4bba6?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN United States of America | On Site | Oct 03 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Business Operations - Intern](https://jobright.ai/jobs/info/68e04243b99ec3563b0ce027?utm_campaign=1050&utm_source=git)** | Atrium Health Cabarrus - 920 Church St N, Concord, NC | On Site | Oct 03 |
-| **[Microsoft](https://www.microsoft.com)** | **[Business Program Manager: MBA Internship Opportunity - Surface Business Team](https://jobright.ai/jobs/info/68e040bdf758fe1f97e4b93b?utm_campaign=1050&utm_source=git)** | Redmond, WA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

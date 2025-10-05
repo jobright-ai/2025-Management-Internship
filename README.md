@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Production Management Intern, Spring 2026](https://jobright.ai/jobs/info/68e201e9f758fe1f97e57693?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Oct 04 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Logistics Process Analyst Intern](https://jobright.ai/jobs/info/68e1f856f758fe1f97e572e3?utm_campaign=1050&utm_source=git)** | Mount Holly, NC US | On Site | Oct 04 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - IT](https://jobright.ai/jobs/info/68e1e42d1852e62f007f4014?utm_campaign=1050&utm_source=git)** | Culloden, WV | On Site | Oct 04 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - California Market Bank CRE](https://jobright.ai/jobs/info/68e1bff3b99ec3563b0d7f77?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
 | **[Yarmouth-Dennis Red Sox](https://ydredsox.com)** | **[Game Day Baseball Operations Internship](https://jobright.ai/jobs/info/68e195a81852e62f007f3359?utm_campaign=1050&utm_source=git)** | South Yarmouth, MA | On Site | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Property Management Summer Intern](https://jobright.ai/jobs/info/68e18fccf758fe1f97e559c2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | ↳ | **[Development Summer Intern](https://jobright.ai/jobs/info/68e18f93f758fe1f97e55981?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 04 |
@@ -107,7 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0f5aaf758fe1f97e53314?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0f577b99ec3563b0d550c?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f5101852e62f007f0bba?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Indiana State University (Summer 2026)](https://jobright.ai/jobs/info/68e11658f758fe1f97e53b19?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Oct 04 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Internship- Supply Chain- Summer 2026](https://jobright.ai/jobs/info/68e2043b1852e62f007f50a5?utm_campaign=1050&utm_source=git)** | Muscatine, IA | Hybrid | Oct 04 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Indiana State University (Summer 2026)](https://jobright.ai/jobs/info/68e11658f758fe1f97e53b19?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Oct 04 |
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0efbfb99ec3563b0d5190?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 04 |
 | **[Budget Car and Truck Rental of Wichita](http://www.budgetwichita.com)** | **[Summer Management/Leadership Internship](https://jobright.ai/jobs/info/68e0e50cf758fe1f97e528f2?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sam Houston State University](https://jobright.ai/jobs/info/68e0da57b99ec3563b0d4528?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 04 |
@@ -115,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e09e82f758fe1f97e4f5d7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 03 |
 | ↳ | **[Operations Intern - New Mexico Institute of Mining and Technology (Summer 2026)](https://jobright.ai/jobs/info/68e09c56b99ec3563b0d14d2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99498 Administrative Secretary, Transfer Student Services, Tahlequah](https://jobright.ai/jobs/info/68e08f59b99ec3563b0d0a76?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Oct 03 |
-| **[RED STAR OUTDOOR ADVERTISING](http://redstaroutdoor.com/)** | **[Intern-General Administrative 10-25 hrs week/Flexible In Office](https://jobright.ai/jobs/info/68e027c4b99ec3563b0cc880?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | On Site | Oct 03 |
+| **[RED STAR OUTDOOR ADVERTISING](http://redstaroutdoor.com/)** | **[intern-General Administrative 10-25 hrs week/Flexible In Office](https://jobright.ai/jobs/info/68e027c4b99ec3563b0cc880?utm_campaign=1050&utm_source=git)** | Greater Chicago Area | On Site | Oct 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e08aadf758fe1f97e4e2ab?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e08a981852e62f007ebf1c?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Oct 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e08a27f758fe1f97e4e160?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Oct 03 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d97b99ec3563b0cef05?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 03 |
 | ↳ | **[College Intern I - Summer 2026 - Enterprise Resource Planning & Strategy](https://jobright.ai/jobs/info/68e05d4e1852e62f007ea70e?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Oct 03 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68e05939b99ec3563b0ceda3?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - Commercial Banking](https://jobright.ai/jobs/info/68e0588b1852e62f007ea53e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 03 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/68e0576df758fe1f97e4c81d?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Oct 03 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05415f758fe1f97e4c7a7?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | ↳ | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68e05105b99ec3563b0ce7d9?utm_campaign=1050&utm_source=git)** | USA - Austin, TX | On Site | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Retrofête](https://retrofete.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/68e0469bb99ec3563b0ce2f9?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 03 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e043101852e62f007e9896?utm_campaign=1050&utm_source=git)** | Warrenton, VA | On Site | Oct 03 |
 | **[Altru Health System](https://www.altru.org/)** | **[Intern](https://jobright.ai/jobs/info/68e043081852e62f007e988c?utm_campaign=1050&utm_source=git)** | Grand Forks, ND | On Site | Oct 03 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Clinical Trial Operations Intern](https://jobright.ai/jobs/info/68e042e01852e62f007e9863?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68e2a2521852e62f007f8288?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Oct 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/68e29b18b99ec3563b0dc9bb?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 05 |
+| **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68e29adcb99ec3563b0dc99c?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68e2943ef758fe1f97e5a7d5?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[Commercial Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68e28dadb99ec3563b0dc864?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 05 |
 | ↳ | **[2026 Clinical Trial Operations Intern](https://jobright.ai/jobs/info/68e28995b99ec3563b0dc7d4?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Oct 05 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - Pricing](https://jobright.ai/jobs/info/68e2796fb99ec3563b0dc617?utm_campaign=1050&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | ↳ | **[Internship - Category Management Center Store](https://jobright.ai/jobs/info/68e27874f758fe1f97e5a4a5?utm_campaign=1050&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c8f39bf9c6ff7aedf154e9?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | Oct 05 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Logistics Intern](https://jobright.ai/jobs/info/68e269de1852e62f007f7c46?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Operations Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7fb99ec3563b0dc223?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Logistics Operations Excellence Internship - Summer 2026](https://jobright.ai/jobs/info/68cd653de23def7af55b954c?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68e24871b99ec3563b0dc118?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 05 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Production Management Intern, Spring 2026](https://jobright.ai/jobs/info/68e201e9f758fe1f97e57693?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Logistics Process Analyst Intern](https://jobright.ai/jobs/info/68e1f856f758fe1f97e572e3?utm_campaign=1050&utm_source=git)** | Mount Holly, NC US | On Site | Oct 04 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - IT](https://jobright.ai/jobs/info/68e1e42d1852e62f007f4014?utm_campaign=1050&utm_source=git)** | Culloden, WV | On Site | Oct 04 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - San Diego, CA - California Market Bank CRE](https://jobright.ai/jobs/info/68e1bff3b99ec3563b0d7f77?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Oct 04 |
 | **[Yarmouth-Dennis Red Sox](https://ydredsox.com)** | **[Game Day Baseball Operations Internship](https://jobright.ai/jobs/info/68e195a81852e62f007f3359?utm_campaign=1050&utm_source=git)** | South Yarmouth, MA | On Site | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Property Management Summer Intern](https://jobright.ai/jobs/info/68e18fccf758fe1f97e559c2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | ↳ | **[Development Summer Intern](https://jobright.ai/jobs/info/68e18f93f758fe1f97e55981?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 04 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e1828db99ec3563b0d76a5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68e18289f758fe1f97e55511?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68e1820ef758fe1f97e554cb?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68e181a61852e62f007f2e40?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e180fa1852e62f007f2db0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e180901852e62f007f2d68?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Acute Care Services Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68e07ed71852e62f007eb5e0?utm_campaign=1050&utm_source=git)** | Murray, UT | On Site | Oct 03 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Fort Wayne](https://jobright.ai/jobs/info/68e07c0e1852e62f007eb4a7?utm_campaign=1050&utm_source=git)** | Fort Wayne | On Site | Oct 03 |
 | **[Zipline](http://flyzipline.com)** | **[Software Release Program Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/68e07b7eb99ec3563b0cfc61?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Oct 03 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e07b5ef758fe1f97e4d87e?utm_campaign=1050&utm_source=git)** | Wausau, WI | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e1828db99ec3563b0d76a5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68e18289f758fe1f97e55511?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68e1820ef758fe1f97e554cb?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68e181a61852e62f007f2e40?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e180fa1852e62f007f2db0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e180901852e62f007f2d68?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 04 |
@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68e12bb4f758fe1f97e546dc?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68e129d2f758fe1f97e542a2?utm_campaign=1050&utm_source=git)** | Williamsburg, VA | On Site | Oct 04 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technology Project Management](https://jobright.ai/jobs/info/68dcb53daccfd24b67e58fc4?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Oct 04 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Supply Chain Operations- Robinson Fresh](https://jobright.ai/jobs/info/68e11d7ab99ec3563b0d5ffd?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/68e11f91b99ec3563b0d6137?utm_campaign=1050&utm_source=git)** | Enfield/Hartford/Windsor/Windsor Locks | On Site | Oct 04 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb39b3a30793eb963cb68?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 04 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68e115cff758fe1f97e53a93?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Supply Chain Operations- Robinson Fresh](https://jobright.ai/jobs/info/68e042841852e62f007e9761?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN United States of America | On Site | Oct 03 |
 | ↳ | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/68e04249f758fe1f97e4bba6?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN United States of America | On Site | Oct 03 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Business Operations - Intern](https://jobright.ai/jobs/info/68e04243b99ec3563b0ce027?utm_campaign=1050&utm_source=git)** | Atrium Health Cabarrus - 920 Church St N, Concord, NC | On Site | Oct 03 |
+| **[Microsoft](https://www.microsoft.com)** | **[Business Program Manager: MBA Internship Opportunity - Surface Business Team](https://jobright.ai/jobs/info/68e040bdf758fe1f97e4b93b?utm_campaign=1050&utm_source=git)** | Redmond, WA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

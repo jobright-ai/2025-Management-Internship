@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c7c9f758fe1f97e606fc?utm_campaign=1050&utm_source=git)** | IL-Rosemont | On Site | Oct 06 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c7b7b99ec3563b0e283d?utm_campaign=1050&utm_source=git)** | TX-Houston | On Site | Oct 06 |
+| **[Manulife](http://www.manulife.com/)** | **[Summer 2026 Intern – Global Wealth & Asset Management](https://jobright.ai/jobs/info/68e3c78cf758fe1f97e606d5?utm_campaign=1050&utm_source=git)** | Boston, Massachusetts | Hybrid | Oct 06 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c7671852e62f007fdedb?utm_campaign=1050&utm_source=git)** | WA-Seattle | On Site | Oct 06 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c763b99ec3563b0e27dc?utm_campaign=1050&utm_source=git)** | CA-San Francisco | On Site | Oct 06 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c74ff758fe1f97e606aa?utm_campaign=1050&utm_source=git)** | DC-Washington | On Site | Oct 06 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c74d1852e62f007fdecc?utm_campaign=1050&utm_source=git)** | TX-Dallas | On Site | Oct 06 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c73c1852e62f007fdebf?utm_campaign=1050&utm_source=git)** | GA-Atlanta | On Site | Oct 06 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c728f758fe1f97e60698?utm_campaign=1050&utm_source=git)** | PA-Philadelphia | On Site | Oct 06 |
+| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e3c6c4b99ec3563b0e271f?utm_campaign=1050&utm_source=git)** | IL-Chicago | On Site | Oct 06 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee - University Hotel - Administrative Staff Assistant (5 Positions Open)](https://jobright.ai/jobs/info/68e3a6ec1852e62f007fd2a4?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Oct 06 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Material Coordinator](https://jobright.ai/jobs/info/68e3a4f7b99ec3563b0e1b61?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Oct 06 |
 | **[Sedron Technologies](http://sedron.com/)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e3a32ef758fe1f97e5fa6f?utm_campaign=1050&utm_source=git)** | Bellingham, WA | On Site | Oct 06 |
@@ -137,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e1828db99ec3563b0d76a5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68e18289f758fe1f97e55511?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68e1820ef758fe1f97e554cb?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68e181a61852e62f007f2e40?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e180fa1852e62f007f2db0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e180901852e62f007f2d68?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 04 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e17d34f758fe1f97e553d8?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 04 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Supply Chain Operations- Robinson Fresh](https://jobright.ai/jobs/info/68e16f5bb99ec3563b0d742b?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
 | ↳ | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/68e16ef0b99ec3563b0d73f9?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Oct 04 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship - Logan, UT - Summer 2026](https://jobright.ai/jobs/info/68ccc913a77e5d7d744f560e?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Oct 04 |
-| ↳ | **[Production Management Intern - Shippensburg, PA - Summer 2026](https://jobright.ai/jobs/info/68ce7f44fb49c96ca6ea1095?utm_campaign=1050&utm_source=git)** | Shippensburg, PA | On Site | Oct 04 |
-| **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68dff0d41852e62f007e5d7b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 04 |
-| ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68e01056b99ec3563b0cb717?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Oct 04 |
-| ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68e1319cf758fe1f97e54899?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Oct 04 |
-| ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68e12bb4f758fe1f97e546dc?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Oct 04 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Technology Project Management](https://jobright.ai/jobs/info/68dcb53daccfd24b67e58fc4?utm_campaign=1050&utm_source=git)** | Suwanee, GA | On Site | Oct 04 |
-| **[QBE North America](https://www.qbe.com/us)** | **[Claims Adjuster-Crop Intern (Summer 2026)](https://jobright.ai/jobs/info/68dd7afca125e75c422ab1c9?utm_campaign=1050&utm_source=git)** | Texas, United States | Hybrid | Oct 04 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/68e11f91b99ec3563b0d6137?utm_campaign=1050&utm_source=git)** | Enfield/Hartford/Windsor/Windsor Locks | On Site | Oct 04 |
-| **[QBE North America](https://www.qbe.com/us)** | **[Claims Adjuster-Crop Intern (Summer 2026- South Dakota)](https://jobright.ai/jobs/info/68dd7be444d32141e0bf7397?utm_campaign=1050&utm_source=git)** | South Dakota, United States | Hybrid | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

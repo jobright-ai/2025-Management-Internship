@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e2feb9b99ec3563b0dd384?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Oct 05 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e31db9b99ec3563b0dd619?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Oct 05 |
+| **[Norfolk Southern](https://www.nscorp.com)** | **[Sourcing Intern - Spring 2026](https://jobright.ai/jobs/info/68e3171cb99ec3563b0dd584?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Oct 05 |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e306f11852e62f007f8c5e?utm_campaign=1050&utm_source=git)** | DeWitt, NY | On Site | Oct 05 |
+| ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e306d31852e62f007f8c55?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Oct 05 |
+| ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e3069f1852e62f007f8c37?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 05 |
+| ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e2feb9b99ec3563b0dd384?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e2fe2c1852e62f007f8bf7?utm_campaign=1050&utm_source=git)** | Elmira, NY | On Site | Oct 05 |
 | **[MechNova](mechnova.us)** | **[Supply Chain Trainee Program intern](https://jobright.ai/jobs/info/68e2f932f758fe1f97e5b1ba?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2d036f758fe1f97e5ae2c?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 05 |
@@ -145,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Spring 2026 Co-Op/Intern - Boston, MA](https://jobright.ai/jobs/info/68df30045ab4977c2e951494?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 04 |
 | **[Acosta Group](https://www.acosta.group)** | **[Intern (Part-Time)](https://jobright.ai/jobs/info/68e0d9fa1852e62f007efd0b?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Oct 04 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e09e82f758fe1f97e4f5d7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 03 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99498 Administrative Secretary, Transfer Student Services, Tahlequah](https://jobright.ai/jobs/info/68e08f59b99ec3563b0d0a76?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Oct 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e08aadf758fe1f97e4e2ab?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e08a981852e62f007ebf1c?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Oct 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e08a27f758fe1f97e4e160?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Oct 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanhua International USA](https://www.sanhuausa.com)** | **[Logistics Co-op/Internship](https://jobright.ai/jobs/info/68e084c21852e62f007eb9c4?utm_campaign=1050&utm_source=git)** | Gluckstadt, MS | On Site | Oct 03 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Data Analysis, Program Manager - Summer 2026](https://jobright.ai/jobs/info/68e083d51852e62f007eb8d5?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Oct 03 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Managed Services Intern - NYC](https://jobright.ai/jobs/info/68e1e1c9b99ec3563b0d888d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[Nestlé](https://www.nestle.com)** | **[Nestlé Supply Chain Intern](https://jobright.ai/jobs/info/68e082e91852e62f007eb7e8?utm_campaign=1050&utm_source=git)** | Marysville, OH | On Site | Oct 03 |
-| **[ACM Global Laboratories](http://www.acmgloballab.com)** | **[ACM Project Management Internship](https://jobright.ai/jobs/info/68e07fcd1852e62f007eb712?utm_campaign=1050&utm_source=git)** | Headquarters, KY | On Site | Oct 03 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e07f3fb99ec3563b0cfe8c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
-| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Project Manager Process Improvement-New Product Development](https://jobright.ai/jobs/info/68e07f2fb99ec3563b0cfe7a?utm_campaign=1050&utm_source=git)** | Lebanon, TN | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

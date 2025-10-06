@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e2feb9b99ec3563b0dd384?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Oct 05 |
+| ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e2fe2c1852e62f007f8bf7?utm_campaign=1050&utm_source=git)** | Elmira, NY | On Site | Oct 05 |
+| **[MechNova](mechnova.us)** | **[Supply Chain Trainee Program intern](https://jobright.ai/jobs/info/68e2f932f758fe1f97e5b1ba?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2d036f758fe1f97e5ae2c?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 05 |
 | ↳ | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/68e2cfcbf758fe1f97e5add9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 05 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2cf0e1852e62f007f8757?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 05 |
@@ -77,15 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Operations Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7fb99ec3563b0dc223?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | **[The Marzetti Company](http://www.tmarzetticompany.com/)** | **[Logistics Operations Excellence Internship - Summer 2026](https://jobright.ai/jobs/info/68cd653de23def7af55b954c?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68e24871b99ec3563b0dc118?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 05 |
-| ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68e24857f758fe1f97e59f4e?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 05 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68e248451852e62f007f78ff?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 05 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern, CEO Leadership Development Program](https://jobright.ai/jobs/info/68de36d009bda65a4b627de9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 05 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68e244a5f758fe1f97e59ec3?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 05 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2442ab99ec3563b0dc038?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2442ab99ec3563b0dc038?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 05 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68e23401f758fe1f97e597d1?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Terre Haute](https://jobright.ai/jobs/info/68e233e9f758fe1f97e597b4?utm_campaign=1050&utm_source=git)** | Terre Haute | On Site | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Logistics Process Analyst Intern](https://jobright.ai/jobs/info/68e23299f758fe1f97e5969f?utm_campaign=1050&utm_source=git)** | Mount Holly, NC | Hybrid | Oct 05 |
-| **[California State University, Long Beach](http://www.csulb.edu/)** | **[Office Coordinator (Administrative Support Coordinator I - 11/12) INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/68e22cd51852e62f007f6c59?utm_campaign=1050&utm_source=git)** | Chico, CA | On Site | Oct 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Production Management Intern, Spring 2026](https://jobright.ai/jobs/info/68e201e9f758fe1f97e57693?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Logistics Process Analyst Intern](https://jobright.ai/jobs/info/68e1f856f758fe1f97e572e3?utm_campaign=1050&utm_source=git)** | Mount Holly, NC US | On Site | Oct 04 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - IT](https://jobright.ai/jobs/info/68e1e42d1852e62f007f4014?utm_campaign=1050&utm_source=git)** | Culloden, WV | On Site | Oct 04 |
@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e1828db99ec3563b0d76a5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68e18289f758fe1f97e55511?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68e1820ef758fe1f97e554cb?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68e181a61852e62f007f2e40?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e180fa1852e62f007f2db0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e180901852e62f007f2d68?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 04 |

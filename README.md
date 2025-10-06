@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VSNWKS Community Corporation](https://www.vsnwkscommunity.org)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68e33683b99ec3563b0ddeae?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e31db9b99ec3563b0dd619?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Oct 05 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[Sourcing Intern - Spring 2026](https://jobright.ai/jobs/info/68e3171cb99ec3563b0dd584?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Oct 05 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e306f11852e62f007f8c5e?utm_campaign=1050&utm_source=git)** | DeWitt, NY | On Site | Oct 05 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e3069f1852e62f007f8c37?utm_campaign=1050&utm_source=git)** | Utica, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e2feb9b99ec3563b0dd384?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Oct 05 |
 | ↳ | **[College Intern I - Summer 2026 - Digital Strategy & Analytics](https://jobright.ai/jobs/info/68e2fe2c1852e62f007f8bf7?utm_campaign=1050&utm_source=git)** | Elmira, NY | On Site | Oct 05 |
-| **[MechNova](mechnova.us)** | **[Supply Chain Trainee Program intern](https://jobright.ai/jobs/info/68e2f932f758fe1f97e5b1ba?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2d036f758fe1f97e5ae2c?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 05 |
 | ↳ | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/68e2cfcbf758fe1f97e5add9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 05 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68e2cf0e1852e62f007f8757?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 05 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e1828db99ec3563b0d76a5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68e18289f758fe1f97e55511?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68e1820ef758fe1f97e554cb?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68e181a61852e62f007f2e40?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e180fa1852e62f007f2db0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e180901852e62f007f2d68?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 04 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e09e82f758fe1f97e4f5d7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e08aadf758fe1f97e4e2ab?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e08a981852e62f007ebf1c?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Oct 03 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e08a27f758fe1f97e4e160?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Oct 03 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e3320df758fe1f97e5bb3c?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 03 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e08a27f758fe1f97e4e160?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Oct 03 |
 | **[San José State University](http://www.sjsu.edu/)** | **[Small Boats Operations Coordinator](https://jobright.ai/jobs/info/68dd8c3b44d32141e0bf7fae?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Oct 03 |
 | **[Sanhua International USA](https://www.sanhuausa.com)** | **[Logistics Co-op/Internship](https://jobright.ai/jobs/info/68e084c21852e62f007eb9c4?utm_campaign=1050&utm_source=git)** | Gluckstadt, MS | On Site | Oct 03 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Data Analysis, Program Manager - Summer 2026](https://jobright.ai/jobs/info/68e083d51852e62f007eb8d5?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Oct 03 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Managed Services Intern - NYC](https://jobright.ai/jobs/info/68e1e1c9b99ec3563b0d888d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

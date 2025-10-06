@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cumming Group](https://cumming-group.com/)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68e37427b99ec3563b0e074b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - TD Auto Finance](https://jobright.ai/jobs/info/68e3900bb99ec3563b0e15fa?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Oct 06 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Hawaii at Manoa](https://jobright.ai/jobs/info/68e385131852e62f007fc6e4?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 06 |
+| **[TIAA](https://www.tiaa.org)** | **[2026 Early Talent Internship: Business Management (Chief Administrative Office)](https://jobright.ai/jobs/info/68e37e281852e62f007fc31a?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Oct 06 |
+| **[Cumming Group](https://cumming-group.com/)** | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68e374bcf758fe1f97e5e5aa?utm_campaign=1050&utm_source=git)** | Aliso Viejo, CA | On Site | Oct 06 |
+| ↳ | **[Intern - Summer 2026](https://jobright.ai/jobs/info/68e37427b99ec3563b0e074b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Administrative Graduate Intern](https://jobright.ai/jobs/info/68e3671e1852e62f007fb053?utm_campaign=1050&utm_source=git)** | Rochester, MN, United States | On Site | Oct 05 |
 | **[Pella Corporation](http://www.pella.com)** | **[Logistics Intern - Summer 2026](https://jobright.ai/jobs/info/68e364aa1852e62f007faee9?utm_campaign=1050&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e364821852e62f007faec7?utm_campaign=1050&utm_source=git)** | Boston, MA, United States | On Site | Oct 05 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Medford MA](https://jobright.ai/jobs/info/68e23401f758fe1f97e597d1?utm_campaign=1050&utm_source=git)** | Somerville / Medford | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Management Trainee Intern - Terre Haute](https://jobright.ai/jobs/info/68e233e9f758fe1f97e597b4?utm_campaign=1050&utm_source=git)** | Terre Haute | On Site | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Logistics Process Analyst Intern](https://jobright.ai/jobs/info/68e23299f758fe1f97e5969f?utm_campaign=1050&utm_source=git)** | Mount Holly, NC | Hybrid | Oct 05 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Production Management Intern, Spring 2026](https://jobright.ai/jobs/info/68e201e9f758fe1f97e57693?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Oct 04 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Logistics Process Analyst Intern](https://jobright.ai/jobs/info/68e1f856f758fe1f97e572e3?utm_campaign=1050&utm_source=git)** | Mount Holly, NC US | On Site | Oct 04 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Material Logistics Management (MLM) Summer Internship](https://jobright.ai/jobs/info/68a90624d627244576e36eb8?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Oct 04 |
 | **[Service Wire Company](http://servicewire.com)** | **[Internship - IT](https://jobright.ai/jobs/info/68e1e42d1852e62f007f4014?utm_campaign=1050&utm_source=git)** | Culloden, WV | On Site | Oct 04 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e1828db99ec3563b0d76a5?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Murray State University](https://jobright.ai/jobs/info/68e18289f758fe1f97e55511?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68e1820ef758fe1f97e554cb?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 04 |
+| ↳ | **[Operations Intern - Morgan State University](https://jobright.ai/jobs/info/68e181dbf758fe1f97e554ad?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68e181a61852e62f007f2e40?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68e180fa1852e62f007f2db0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 04 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e180901852e62f007f2d68?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f5e0b99ec3563b0d55a5?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Oct 04 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e0f5b01852e62f007f0c92?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 04 |
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68e0f5aaf758fe1f97e53314?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68e0f577b99ec3563b0d550c?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68e0f5101852e62f007f0bba?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
-| ↳ | **[Operations Intern - Indiana State University (Summer 2026)](https://jobright.ai/jobs/info/68e11658f758fe1f97e53b19?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68e4e072b99ec3563b0ef156?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Cal Poly, SLO](https://jobright.ai/jobs/info/68e4cef41852e62f00809f1b?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 07 |
+| **[Ferrovias](ferrovias.us)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68e4c461ae2b894b1d70886e?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Oct 07 |
 | **[EASTEAM](easteamny.com)** | **[Excecutive Assistant Intern](https://jobright.ai/jobs/info/68e4b815b99ec3563b0ed27a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Guest Operations Internship, Kennedy Space Center](https://jobright.ai/jobs/info/68e4b2cc1852e62f00808955?utm_campaign=1050&utm_source=git)** | Merritt Island, FL | On Site | Oct 06 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern - Business Suite CSM Operations](https://jobright.ai/jobs/info/68e4ad5ab99ec3563b0ecd7f?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 06 |
@@ -75,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Roadtex ](http://roadtex.com)** | **[Consolidation Operations Intern- Roadtex](https://jobright.ai/jobs/info/68e47d27b99ec3563b0ead8e?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Intern Conversion - 2026 FT: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/68e47cfaf758fe1f97e68d0b?utm_campaign=1050&utm_source=git)** | Raymond, NH | On Site | Oct 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e47cedb99ec3563b0ead58?utm_campaign=1050&utm_source=git)** | Warren, OH | On Site | Oct 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - CPI Skillsbridge](https://jobright.ai/jobs/info/68e47cd5b99ec3563b0ead3e?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 06 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e47cb5b99ec3563b0ead20?utm_campaign=1050&utm_source=git)** | New Philadelphia, OH | On Site | Oct 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e47cb5b99ec3563b0ead20?utm_campaign=1050&utm_source=git)** | New Philadelphia, OH | On Site | Oct 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e47c9ff758fe1f97e68cb6?utm_campaign=1050&utm_source=git)** | Superior, WI | On Site | Oct 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e47c30f758fe1f97e68c49?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Oct 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e47bf7b99ec3563b0eac4b?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Oct 06 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e47b6af758fe1f97e68b6d?utm_campaign=1050&utm_source=git)** | Evendale, OH | On Site | Oct 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e47b40b99ec3563b0eab8f?utm_campaign=1050&utm_source=git)** | Cambridge, MN | On Site | Oct 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/68e47b3a1852e62f00806644?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Oct 06 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - CPI Skillsbridge](https://jobright.ai/jobs/info/68e47b03b99ec3563b0eab5c?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 06 |
 | **[DriveWealth](https://drivewealth.com)** | **[Summer 2026 Intern, PMO](https://jobright.ai/jobs/info/68e47a7c1852e62f0080658d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - AGC CA Annual Conference](https://jobright.ai/jobs/info/68e479dd1852e62f00806516?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e4797c1852e62f008064b7?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Oct 06 |
@@ -99,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Performance Analysis Summer Intern](https://jobright.ai/jobs/info/68e464ab1852e62f0080546d?utm_campaign=1050&utm_source=git)** | Florida | Hybrid | Oct 06 |
 | **[Chief Industries, Inc.](http://chiefind.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68e4641df758fe1f97e67b2f?utm_campaign=1050&utm_source=git)** | Grand Island, Nebraska | On Site | Oct 06 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Performance Analysis Summer Intern](https://jobright.ai/jobs/info/68e463aff758fe1f97e67a4e?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Oct 06 |
+| **[Southwest Airline Career Page](http://www.southwest.com)** | **[Revenue Management Planning & Initiatives Summer 2026 Intern](https://jobright.ai/jobs/info/68e4cca6b99ec3563b0ee388?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 06 |
 | **[Wall Street Prep](https://www.wallstreetprep.com/)** | **[Chapter President Internship](https://jobright.ai/jobs/info/68e45ad61852e62f00805036?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Oct 06 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Commercialization (MBA/Grad)](https://jobright.ai/jobs/info/68e456e3f758fe1f97e674aa?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 06 |
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Product Modification - Summer 2026](https://jobright.ai/jobs/info/68e45610b99ec3563b0e953d?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Oct 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Operations Internship / Memphis, TN](https://jobright.ai/jobs/info/68e42cc1f758fe1f97e65005?utm_campaign=1050&utm_source=git)** | Memphis, TN 38118 | Hybrid | Oct 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Iowa State](https://jobright.ai/jobs/info/68e42c23f758fe1f97e64e89?utm_campaign=1050&utm_source=git)** | Ames, IA | On Site | Oct 06 |
 | **[FTI](http://www.faithtechinc.com)** | **[FTI Supply Chain Intern- KC or Wisconsin](https://jobright.ai/jobs/info/68e42b93f758fe1f97e64d2c?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Oct 06 |
-| **[Hilti Asia IT Services](https://careers.hilti.group/en/what-we-do/digital/)** | **[Operations Intern - Warehousing - Summer 2026](https://jobright.ai/jobs/info/68e42b761852e62f008026a5?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Oct 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University](https://jobright.ai/jobs/info/68e42b6ff758fe1f97e64ccc?utm_campaign=1050&utm_source=git)** | Rexburg, ID | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Clinical Laboratory Administrative Intern](https://jobright.ai/jobs/info/68e42b6ff758fe1f97e64cc5?utm_campaign=1050&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
-| **[iRobot](https://www.irobot.com)** | **[Spring 2026: Localization Project Management Intern](https://jobright.ai/jobs/info/68e42b46f758fe1f97e64c61?utm_campaign=1050&utm_source=git)** | Bedford, MA | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

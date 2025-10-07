@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Winter 2025 Internship](https://jobright.ai/jobs/info/68e49f01b99ec3563b0ec7ad?utm_campaign=1050&utm_source=git)** | San Jose | On Site | Oct 06 |
+| ↳ | **[Spring 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/68e49d42ae2b894b1d70723c?utm_campaign=1050&utm_source=git)** | Fall River/Dartmouth/New Bedford/North Attleboro/Taunton | On Site | Oct 06 |
+| **[The City University of New York](http://www.cuny.edu)** | **[Administrative Manager (Programming and Operations) - Sorensen Center for International Peace and Justice, Roosevelt House Public Policy Institute](https://jobright.ai/jobs/info/68e497f51852e62f00807b27?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Project Manager - Summer 2026](https://jobright.ai/jobs/info/68e4911eb99ec3563b0ebc5d?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 06 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Project Office (Hybrid)](https://jobright.ai/jobs/info/68e48d811852e62f00807408?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Program Manager - Summer 2026](https://jobright.ai/jobs/info/68e48d231852e62f0080730c?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 06 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Enterprise Project Office (Hybrid)](https://jobright.ai/jobs/info/68e48c3b1852e62f008070f0?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Oct 06 |
 | **[Lockton](https://global.lockton.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/68e48b79b99ec3563b0eb753?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Oct 06 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Nashville - Restaurant Management Internship](https://jobright.ai/jobs/info/68e483bdf758fe1f97e69130?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 06 |
 | **[HYBE America](https://hybecorp.com)** | **[Intern](https://jobright.ai/jobs/info/68e483261852e62f00806b13?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Oct 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Clinical Laboratory Administrative Intern](https://jobright.ai/jobs/info/68e42b2fb99ec3563b0e6f30?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | **[Arcwood Environmental](https://www.arcwoodenviro.com)** | **[Strategic Projects Internship - Summer 2026](https://jobright.ai/jobs/info/68e42afff758fe1f97e64c00?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 06 |
 | **[Hilti Asia IT Services](https://careers.hilti.group/en/what-we-do/digital/)** | **[Operations Intern - Order Management - Summer 2026](https://jobright.ai/jobs/info/68e42a6ff758fe1f97e64b3d?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Oct 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Arizona (Summer 2026)](https://jobright.ai/jobs/info/68e42999f758fe1f97e64a11?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 06 |
-| **[Hilti Asia IT Services](https://careers.hilti.group/en/what-we-do/digital/)** | **[Operations Intern - Product Modification - Summer 2026](https://jobright.ai/jobs/info/68e429361852e62f00802361?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Oct 06 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Operations Executional Effectiveness Intern](https://jobright.ai/jobs/info/68e42912b99ec3563b0e6c1c?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Oct 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Eastern Illinois University](https://jobright.ai/jobs/info/68e4289bb99ec3563b0e6b6b?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Cal Poly, Pomona](https://jobright.ai/jobs/info/68e5e8bc1852e62f008160b4?utm_campaign=1050&utm_source=git)** | Pomona, CA | On Site | Oct 07 |
+| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68e5df51ae2b894b1d71495b?utm_campaign=1050&utm_source=git)** | Sidney, OH | On Site | Oct 07 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Strategy & Analytics](https://jobright.ai/jobs/info/68e5dda71852e62f0081553b?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Oct 07 |
 | ↳ | **[Corporate Intern - Enterprise Controls Assurance](https://jobright.ai/jobs/info/68e5d96be8daec61499a533f?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Oct 07 |
 | ↳ | **[Corporate Intern - Treasury Management Services-Product Analyst](https://jobright.ai/jobs/info/68e5d8e9e8daec61499a5255?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Oct 07 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/68e5ca0be8daec61499a4790?utm_campaign=1050&utm_source=git)** | Research Park, CA | Hybrid | Oct 07 |
 | ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/68e5ca05e8daec61499a478b?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Oct 07 |
 | ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/68e5c9efe8daec61499a4769?utm_campaign=1050&utm_source=git)** | Lowell, MA | Hybrid | Oct 07 |
+| **[A.S. Business Consulting](www.choosesuccessnow.com)** | **[Management Intern](https://jobright.ai/jobs/info/68e5e51be8daec61499a6010?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Oct 07 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Department of Digital Modernization, Office of Enterprise Architecture (DMEA) - IT Enterprise Architeture](https://jobright.ai/jobs/info/68e5c635e8daec61499a46a5?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/68e5c5efae2b894b1d713649?utm_campaign=1050&utm_source=git)** | Wayne, NJ | On Site | Oct 07 |
 | ↳ | **[Summer 2026 Management Internship - Lawrence, MA Area](https://jobright.ai/jobs/info/68e5c4ff1852e62f008143f7?utm_campaign=1050&utm_source=git)** | Lawrence, MA | On Site | Oct 07 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Nashua, NH Area](https://jobright.ai/jobs/info/68e5c374ae2b894b1d7133b8?utm_campaign=1050&utm_source=git)** | Nashua, NH | On Site | Oct 07 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Intern, Strategic Sourcing](https://jobright.ai/jobs/info/68e5c350e8daec61499a4457?utm_campaign=1050&utm_source=git)** | Bloomington, MN | On Site | Oct 07 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Associate Project Manager Apprentice – IT](https://jobright.ai/jobs/info/68e5c349ae2b894b1d713392?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Supply Chain Intern - Summer 2026 (Calhoun, Georgia, United States, 30701)](https://jobright.ai/jobs/info/68e5c2d11852e62f00814197?utm_campaign=1050&utm_source=git)** | Calhoun, GA | On Site | Oct 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Salem, NH Area](https://jobright.ai/jobs/info/68e5c2cf1852e62f00814190?utm_campaign=1050&utm_source=git)** | Salem, NH | On Site | Oct 07 |
 | **[City of Downey](https://www.linkedin.com/company/100102)** | **[Administrative Intern (Temporary/Part-Time)](https://jobright.ai/jobs/info/68e5bfade8daec61499a42f2?utm_campaign=1050&utm_source=git)** | Downey, CA | On Site | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68e5bef9ae2b894b1d713243?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68e56b6fae2b894b1d70ebbe?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States of America | Hybrid | Oct 07 |
 | ↳ | **[Project Manager Intern](https://jobright.ai/jobs/info/68e56b01b99ec3563b0f4349?utm_campaign=1050&utm_source=git)** | Alpharetta, Georgia, United States of America | Hybrid | Oct 07 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Operations Reporting Intern (Summer 2026)](https://jobright.ai/jobs/info/68e568beae2b894b1d70e7f0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
-| **[Simon Quick Advisors, LLC](http://www.simonquickadvisors.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/68e57793ae2b894b1d70f684?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 07 |
-| **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Summer Intern 2026: Louisville, KY](https://jobright.ai/jobs/info/68e56803ae2b894b1d70e708?utm_campaign=1050&utm_source=git)** | Louisville, KY | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

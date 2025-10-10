@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68e8d0242e74df3042370da5?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 10 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[DC Operations Intern - Onsite](https://jobright.ai/jobs/info/68e8b3b309580a2fe57facc1?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Oct 10 |
 | **[NavGurukul](https://www.navgurukul.org/)** | **[CEO Office Intern](https://jobright.ai/jobs/info/68e8ae86c72beb74cb3216b2?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 09 |
 | ↳ | **[CEO Office - Strategy and Operations Intern](https://jobright.ai/jobs/info/68e8ad8609580a2fe57fa38d?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Oct 09 |
@@ -64,6 +65,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Operations Intern - Onsite](https://jobright.ai/jobs/info/68e8a879c72beb74cb32111b?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Oct 09 |
 | ↳ | **[DC Operations Intern - Onsite](https://jobright.ai/jobs/info/68e8a7e4c72beb74cb321056?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Oct 09 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[2026 Project Management - Solar Energy - Intern (California)](https://jobright.ai/jobs/info/68e8a28cc72beb74cb320ca1?utm_campaign=1050&utm_source=git)** | Santa Margarita, CA | On Site | Oct 09 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Business Administration](https://jobright.ai/jobs/info/68e50c62b99ec3563b0efd9e?utm_campaign=1050&utm_source=git)** | Fullerton, CA | On Site | Oct 09 |
+| **[Ulta Beauty](https://www.ulta.com)** | **[DC Operations Intern - Onsite](https://jobright.ai/jobs/info/68e8c65801c6482bd877755b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 09 |
+| ↳ | **[Intern Distribution Center](https://jobright.ai/jobs/info/68e8c0a4cc49a84b7e10a2f8?utm_campaign=1050&utm_source=git)** | Bolingbrook, IL | On Site | Oct 09 |
+| ↳ | **[Fulfillment Center Operations Intern - Onsite](https://jobright.ai/jobs/info/68e8c100cc49a84b7e10a347?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Iowa State](https://jobright.ai/jobs/info/68e892fb09580a2fe57f93f2?utm_campaign=1050&utm_source=git)** | Ames, IA | On Site | Oct 09 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68e87b3509580a2fe57f81e2?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Oct 09 |
 | **[Enerfab](http://enerfab.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68e87a9309580a2fe57f8120?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Oct 09 |
@@ -94,7 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Santa Fe, NM.](https://jobright.ai/jobs/info/68e85d03cc49a84b7e1054e3?utm_campaign=1050&utm_source=git)** | Santa Fe | On Site | Oct 09 |
 | ↳ | **[Spring 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/68e85ca2cc49a84b7e10540c?utm_campaign=1050&utm_source=git)** | North Miami | On Site | Oct 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern, Gas Engineering Team](https://jobright.ai/jobs/info/68e85c8dcc49a84b7e1053db?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Oct 09 |
-| **[Children's Hospital of The King's Daughters](https://www.chkd.org/)** | **[Intern - Pharmacy](https://jobright.ai/jobs/info/68e854ba09580a2fe57f6888?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Oct 09 |
+| **[Children's Hospital of The King's Daughters](https://www.chkd.org/)** | **[Intern - Pharmacy](https://jobright.ai/jobs/info/68e8546cc72beb74cb31d977?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Oct 09 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Purchasing Internship](https://jobright.ai/jobs/info/68e8534fc72beb74cb31d8ae?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 09 |
 | **[Catholic Health](https://www.chsbuffalo.org/)** | **[Intern Pharmacy MHB](https://jobright.ai/jobs/info/68e84a6ecc49a84b7e104cf7?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Oct 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Supply Chain Distribution Center Operations (DC Ops) Internship - Summer 2026 (Undergrad)](https://jobright.ai/jobs/info/68e849f209580a2fe57f6542?utm_campaign=1050&utm_source=git)** | Patterson, NC | On Site | Oct 09 |
@@ -128,9 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Big-D Construction](http://www.big-d.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68e8240c09580a2fe57f4364?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Oct 09 |
 | **[Wieland Group](https://www.wieland.com/en/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/68e84009c72beb74cb31ccdf?utm_campaign=1050&utm_source=git)** | Montpelier, OH | On Site | Oct 09 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern - Savannah I](https://jobright.ai/jobs/info/68e822c6c4895107182c2d2a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[DC Operations Intern - Onsite](https://jobright.ai/jobs/info/68e8078209580a2fe57f25bf?utm_campaign=1050&utm_source=git)** | Chambersburg, Pennsylvania | On Site | Oct 09 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Strategy Analyst (Hybrid)](https://jobright.ai/jobs/info/68e807f6cc49a84b7e100eed?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina | Hybrid | Oct 09 |
-| **[Ulta Beauty](https://www.ulta.com)** | **[DC Operations Intern - Onsite](https://jobright.ai/jobs/info/68e80850c4895107182c1247?utm_campaign=1050&utm_source=git)** | Fresno, California | On Site | Oct 09 |
+| **[Ulta Beauty](https://www.ulta.com)** | **[DC Operations Intern - Onsite](https://jobright.ai/jobs/info/68e80691cc49a84b7e100b94?utm_campaign=1050&utm_source=git)** | Fresno, California | On Site | Oct 09 |
 | **[PDQ](https://www.pdq.com/)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/68e82226cc49a84b7e102964?utm_campaign=1050&utm_source=git)** | South Salt Lake, UT | On Site | Oct 09 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern - Kentile](https://jobright.ai/jobs/info/68e82226c4895107182c2bde?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
 | **[Enerfab](http://enerfab.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68e821afc4895107182c2ad2?utm_campaign=1050&utm_source=git)** | Cincinnati Metro | On Site | Oct 09 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern - Gloucester, MA](https://jobright.ai/jobs/info/68e81bec09580a2fe57f3bb5?utm_campaign=1050&utm_source=git)** | Gloucester, MA | On Site | Oct 09 |
 | **[Centene Corporation](http://www.centene.com)** | **[IT Portfolio Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68e83edec72beb74cb31cbd0?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Oct 09 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Procurement Intern (Summer 2026) (Remote)](https://jobright.ai/jobs/info/68e81aaec4895107182c2623?utm_campaign=1050&utm_source=git)** | Wilson, NC | Hybrid | Oct 09 |
-| **[TW Constructors](https://twc-stl.com)** | **[Internship (Summer 2026)](https://jobright.ai/jobs/info/68e818abc4895107182c22de?utm_campaign=1050&utm_source=git)** | Greater St. Louis | On Site | Oct 09 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68e817c7c4895107182c2181?utm_campaign=1050&utm_source=git)** | Valdosta, GA | On Site | Oct 09 |
+| **[TW Constructors](https://twc-stl.com)** | **[Internship (Summer 2026)](https://jobright.ai/jobs/info/68e8174dc4895107182c20b4?utm_campaign=1050&utm_source=git)** | Greater St. Louis | On Site | Oct 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e8346509580a2fe57f52d7?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 09 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68e84afccc49a84b7e104d7a?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 09 |
 | **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/68e8155f09580a2fe57f375b?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Oct 09 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Global Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e811d309580a2fe57f3299?utm_campaign=1050&utm_source=git)** | Northlake, TX, United States | On Site | Oct 09 |
 | ↳ | **[Global Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e81145cc49a84b7e101b11?utm_campaign=1050&utm_source=git)** | Martin, TN, United States | On Site | Oct 09 |
 | ↳ | **[Global Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e81143c4895107182c1c03?utm_campaign=1050&utm_source=git)** | Gallatin, TN, United States | On Site | Oct 09 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Immunology Medical Affairs MSL Strategy & Operations Intern](https://jobright.ai/jobs/info/68e810cccc49a84b7e101a63?utm_campaign=1050&utm_source=git)** | Horsham, Pennsylvania, United States of America | On Site | Oct 09 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Global Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e8109bcc49a84b7e1019df?utm_campaign=1050&utm_source=git)** | Jackson, TN, United States | On Site | Oct 09 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Project Coordinator- Digital Transformation Intern](https://jobright.ai/jobs/info/68e5634f1852e62f0080f32a?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Oct 09 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Global Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e8100e09580a2fe57f305c?utm_campaign=1050&utm_source=git)** | Hesston, KS, United States | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

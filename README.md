@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Game Operations Intern - Spring 2026](https://jobright.ai/jobs/info/68e9db96cfc08e4908913525?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/68e9da6acfc08e4908913461?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 10 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68e9da3454fbf903f6a7f189?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 10 |
+| ↳ | **[Operations Intern - Tarleton State University](https://jobright.ai/jobs/info/68e9da0bcfc08e490891342a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 10 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/68e9d64e54fbf903f6a7f0d9?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Oct 10 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Project & Change Management Intern (Graduate)](https://jobright.ai/jobs/info/68e9d56a54fbf903f6a7f06f?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Oct 10 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/68e9d26dcdf8d94b293a28fb?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Oct 10 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Commercial Operations (LCS)](https://jobright.ai/jobs/info/68e9d1a3cfc08e4908913265?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Oct 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9c8b0cfc08e4908912f7f?utm_campaign=1050&utm_source=git)** | Butler, PA | On Site | Oct 10 |
@@ -139,11 +145,9 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Spring High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/68e9644065768b6412b1b779?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Oct 10 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - TAMO](https://jobright.ai/jobs/info/68dd7ed7ddc10244dd67fe95?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Material Management Intern (Redmond, WA)](https://jobright.ai/jobs/info/68e95ef6f195760c354a84bb?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Oct 10 |
-| **[Gensco Inc](https://gensco.com/)** | **[Operations Intern Distribution Center - Summer 2026](https://jobright.ai/jobs/info/68e95ce50930fe0bc4624c4b?utm_campaign=1050&utm_source=git)** | Salem, OR | On Site | Oct 10 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Administrative Internship (Summer 2026)](https://jobright.ai/jobs/info/68e95ce10930fe0bc4624c40?utm_campaign=1050&utm_source=git)** | University of Utah Hospital | On Site | Oct 10 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[Summer 2026 Warehouse Operations Intern - Fort Worth, Texas](https://jobright.ai/jobs/info/68e95cd8f195760c354a82e5?utm_campaign=1050&utm_source=git)** | FORT WORTH, Texas | On Site | Oct 10 |
 | ↳ | **[Summer 2026 Warehouse Operations Intern - Janesville, WI](https://jobright.ai/jobs/info/68e95bf1f195760c354a81d9?utm_campaign=1050&utm_source=git)** | JANESVILLE, Wisconsin | On Site | Oct 10 |
-| **[Gensco Inc](https://gensco.com/)** | **[Operations Intern Distribution Center - Summer 2026](https://jobright.ai/jobs/info/68e95bcdf195760c354a81a6?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Oct 10 |
 | **[Stoke Space](https://www.stokespace.com)** | **[Summer 2026 Internship - Operations](https://jobright.ai/jobs/info/68e95a8cf195760c354a7f94?utm_campaign=1050&utm_source=git)** | Kent, Washington | On Site | Oct 10 |
 | ↳ | **[Spring 2026 Internship - Operations](https://jobright.ai/jobs/info/68e95a41f195760c354a7ee8?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Oct 10 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Procurement & Sourcing Intern](https://jobright.ai/jobs/info/68e95a0ef195760c354a7e6e?utm_campaign=1050&utm_source=git)** | Colmar, PA | On Site | Oct 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stoke Space](https://www.stokespace.com)** | **[Spring 2026 Internship - Operations](https://jobright.ai/jobs/info/68e958cbf195760c354a7bf2?utm_campaign=1050&utm_source=git)** | Kent, Washington | On Site | Oct 10 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Supply Chain](https://jobright.ai/jobs/info/68e958abf195760c354a7bd0?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Oct 10 |
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[IT Project Management Intern  - Summer 2026](https://jobright.ai/jobs/info/68e957a865768b6412b1aa4d?utm_campaign=1050&utm_source=git)** | Keene, NH | Hybrid | Oct 10 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Material Management Intern  (West Palm Beach, FL)](https://jobright.ai/jobs/info/68e950e49020b95add6a5a75?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/68e94b3b0930fe0bc4623e73?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
-| **[National Life Group](https://www.nationallife.com)** | **[Project Management Office Intern – Summer 2026](https://jobright.ai/jobs/info/68e94b0d9020b95add6a5854?utm_campaign=1050&utm_source=git)** | Addison, TX | Hybrid | Oct 10 |
-| **[Apprenti](https://apprenticareers.org/)** | **[Program Administrator (Internal Only)](https://jobright.ai/jobs/info/68e94a8e0930fe0bc4623de3?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

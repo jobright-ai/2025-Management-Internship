@@ -78,6 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Indirect Procurement Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68ceae24dbd9fb154ede20e6?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Oct 12 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Dallas, TX (June 2026)](https://jobright.ai/jobs/info/68eb80b076a1db7c59860835?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 12 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Digital Strategy Analyst](https://jobright.ai/jobs/info/68e40cd21852e62f00800892?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 12 |
+| **[USI Insurance Services](https://www.usi.com/)** | **[Corp Strategy and Business Initiatives Intern](https://jobright.ai/jobs/info/68d05b03dbd9fb154edee764?utm_campaign=1050&utm_source=git)** | Valhalla, NY | On Site | Oct 12 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6d0e2e8daec61499af365?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 12 |
+| **[ITT Inc.](http://www.itt.com)** | **[Strategy & Business Development Intern](https://jobright.ai/jobs/info/68cda4c9e23def7af55bd266?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e618d4e8daec61499a89f0?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - West Virginia & Ohio Valley Region,](https://jobright.ai/jobs/info/68eb3a0576a1db7c5985e3c3?utm_campaign=1050&utm_source=git)** | Springfield, OH | On Site | Oct 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/68eb390b76a1db7c5985e29b?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 11 |
@@ -96,10 +99,10 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Wentworth Institute of Technology](https://jobright.ai/jobs/info/68eb29518369791ef78246c9?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 11 |
 | **[Lightpath](https://lightpathfiber.com/)** | **[Intern - Operations Coordinator](https://jobright.ai/jobs/info/68ec78edc26b9574506f240c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 11 |
 | ↳ | **[Intern - Logistics Analyst](https://jobright.ai/jobs/info/68ec7868c26b9574506f238c?utm_campaign=1050&utm_source=git)** | Bethpage, NY | On Site | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e688b8ae2b894b1d71b106?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68ead01e8369791ef7823200?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68eacf658369791ef78231ce?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 11 |
-| ↳ | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/68eaccdb2f64880ca0b543d1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e68a651852e62f0081c06f?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/68eaccdb2f64880ca0b543d1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Boise State University](https://jobright.ai/jobs/info/68eacc5f76a1db7c5985c447?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 11 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68eacc312f64880ca0b54377?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68eacc228369791ef7823185?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 11 |
@@ -109,7 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68eaca9d8369791ef78230b4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68eac1f02f64880ca0b54133?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 11 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[Office Coordinator (Administrative Support Coordinator I - 11/12) INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/68ec9a15d4b0106e703ea3ad?utm_campaign=1050&utm_source=git)** | Chico, CA | On Site | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6163eae2b894b1d717827?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e677f5ae2b894b1d71a8a3?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61914e8daec61499a8a8c?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
 | ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60230e8daec61499a740d?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 11 |
 | ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6cc0a1852e62f0081ea56?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 11 |
@@ -141,20 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Wentworth Institute of Technology](https://jobright.ai/jobs/info/68ea36384ae33307d3eda55f?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 11 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68ea5dcb76a1db7c5985a7c6?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 11 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68ea444a8369791ef782083c?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 11 |
-| ↳ | **[Operations Intern - Northern Arizona University (Summer 2026)](https://jobright.ai/jobs/info/68ea5f4476a1db7c5985a9d2?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Oct 11 |
-| ↳ | **[Operations Intern - Northern Arizona University (Summer 2026)](https://jobright.ai/jobs/info/68ea43fb76a1db7c59859a51?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Oct 11 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68ea5c918369791ef7821526?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 11 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68ea494576a1db7c59859cc9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 11 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68ea545576a1db7c5985a0ab?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 11 |
+| ↳ | **[Operations Intern - Northern Arizona University (Summer 2026)](https://jobright.ai/jobs/info/68ea5f4476a1db7c5985a9d2?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Oct 11 |
+| ↳ | **[Operations Intern - Boise State University](https://jobright.ai/jobs/info/68ea5cba76a1db7c5985a64a?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Oct 11 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68ea5c918369791ef7821526?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 11 |
+| ↳ | **[Operations Intern - Northern Arizona University (Summer 2026)](https://jobright.ai/jobs/info/68ea43fb76a1db7c59859a51?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea54128369791ef7820f29?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Northern Arizona University (Summer 2026)](https://jobright.ai/jobs/info/68ea575b76a1db7c5985a42a?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Oct 11 |
-| ↳ | **[Operations Intern - Boise State University](https://jobright.ai/jobs/info/68ea5cba76a1db7c5985a64a?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Oct 11 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68ea545576a1db7c5985a0ab?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Northern Arizona University (Summer 2026)](https://jobright.ai/jobs/info/68ea4a6c2f64880ca0b51cbf?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea55462f64880ca0b522c2?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 11 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68ea53688369791ef7820dfc?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/68ea1ecc2730e71fcc137476?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Oct 11 |
 | ↳ | **[Operations Intern - Northern Arizona University (Summer 2026)](https://jobright.ai/jobs/info/68ea1db94a45b1233cc2fd92?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Oct 11 |
-| ↳ | **[Operations Intern -  San Francisco State University](https://jobright.ai/jobs/info/68ea1d9b1e54db0a218161be?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
-| ↳ | **[Operations Intern -  San Francisco State University](https://jobright.ai/jobs/info/68ea1be81e54db0a21815fdb?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 11 |
-| ↳ | **[Operations Intern - Wentworth Institute of Technology](https://jobright.ai/jobs/info/68ea1bc72730e71fcc137199?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

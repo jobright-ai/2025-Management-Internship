@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/68ee539ee0db924225803700?utm_campaign=1050&utm_source=git)** | Pittsfield | On Site | Oct 14 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Global Supply Chain – Intern](https://jobright.ai/jobs/info/68ee4dc8e0db9242258028dd?utm_campaign=1050&utm_source=git)** | Texas | Hybrid | Oct 14 |
+| **[Dollar General Store](https://www.dollargeneral.com/)** | **[Summer 2026 Warehouse Operations Intern – Alachua, FL](https://jobright.ai/jobs/info/68ee422646e5b153e5a552b8?utm_campaign=1050&utm_source=git)** | Alachua, FL | On Site | Oct 14 |
+| ↳ | **[Summer 2026 Perishable Warehouse Operations Intern](https://jobright.ai/jobs/info/68ee40b8d078b81ad1604fbd?utm_campaign=1050&utm_source=git)** | Ardmore, OK | On Site | Oct 14 |
 | **[Ericsson](https://www.ericsson.com)** | **[Performance and Transformation Intern](https://jobright.ai/jobs/info/68ee2ddc46e5b153e5a52a60?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Oct 14 |
 | **[Toyota Research Institute](http://www.tri.global)** | **[Robotics Intern - Business Strategy & Market Insights](https://jobright.ai/jobs/info/68d1d4118c62e63bc7fcffb0?utm_campaign=1050&utm_source=git)** | Los Altos, CA | Hybrid | Oct 14 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dee08c62e63bc7fd0665?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Oct 14 |
@@ -76,8 +80,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68ee19b481fdd1626d3a27aa?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 14 |
 | ↳ | **[Operations Intern -Collin College](https://jobright.ai/jobs/info/68ee197270b66e2345d43fda?utm_campaign=1050&utm_source=git)** | Allen, TX | On Site | Oct 14 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68ee194f81fdd1626d3a271e?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68ee192070b66e2345d43f60?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 14 |
-| ↳ | **[Operations Intern - Boise State University](https://jobright.ai/jobs/info/68ee189581fdd1626d3a2624?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
+| **[Charles River Associates](http://www.crai.com)** | **[(2027 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2026)](https://jobright.ai/jobs/info/68e08f7db99ec3563b0d0aab?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 14 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68ee192070b66e2345d43f60?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 14 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Supply Chain In Stock Intern](https://jobright.ai/jobs/info/68d19882cece431f8b5859a8?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Oct 14 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Boise State University](https://jobright.ai/jobs/info/68ee189581fdd1626d3a2624?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
 | **[General Dynamics Electric Boat](http://www.gdeb.com/)** | **[Program Planning & Data Management - 2026 Summer Internship](https://jobright.ai/jobs/info/68ee14e670b66e2345d43d7e?utm_campaign=1050&utm_source=git)** | EB Groton Shipyard | On Site | Oct 14 |
 | ↳ | **[Program Planning & Data Management - 2026 Summer Internship](https://jobright.ai/jobs/info/68ee14b26335d3323612ee18?utm_campaign=1050&utm_source=git)** | US-CT-Groton | On Site | Oct 14 |
 | **[Synergy Health 360](https://www.synergyhealth360.com/)** | **[Intern](https://jobright.ai/jobs/info/68ee148881fdd1626d3a2454?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Oct 14 |
@@ -115,12 +121,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field/Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68eda10870b66e2345d3f87c?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 13 |
 | **[ Georgia Pacific](gp.com)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/68eda09c6335d3323612a750?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Oct 13 |
 | **[White Cap](https://www.whitecap.com/)** | **[Supply Chain/Transportation Internship (Summer 2026)](https://jobright.ai/jobs/info/68eda0896335d3323612a741?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
-| **[Dollar General](https://www.dollargeneral.com/)** | **[Summer 2026 Perishable Warehouse Operations Intern](https://jobright.ai/jobs/info/68ed9f6b70b66e2345d3f7dd?utm_campaign=1050&utm_source=git)** | ARDMORE, Oklahoma | On Site | Oct 13 |
-| ↳ | **[SUMMER 2026 WAREHOUSE OPERATIONS INTERN-MARION INDIANA](https://jobright.ai/jobs/info/68ed9f5670b66e2345d3f7a9?utm_campaign=1050&utm_source=git)** | MARION, Indiana | On Site | Oct 13 |
+| **[Dollar General](https://www.dollargeneral.com/)** | **[SUMMER 2026 WAREHOUSE OPERATIONS INTERN-MARION INDIANA](https://jobright.ai/jobs/info/68ed9f5670b66e2345d3f7a9?utm_campaign=1050&utm_source=git)** | MARION, Indiana | On Site | Oct 13 |
 | ↳ | **[Summer 2026 Warehouse Operations  Intern](https://jobright.ai/jobs/info/68ed9f466335d3323612a4f2?utm_campaign=1050&utm_source=git)** | ARDMORE, Oklahoma | On Site | Oct 13 |
 | ↳ | **[DC INTERN IN SAN ANTONIO TEXAS](https://jobright.ai/jobs/info/68ed9f2d6335d3323612a4c5?utm_campaign=1050&utm_source=git)** | SAN ANTONIO, Texas | On Site | Oct 13 |
+| ↳ | **[Summer 2026 Perishable Warehouse Operations Intern](https://jobright.ai/jobs/info/68ed9ede81fdd1626d39dd8e?utm_campaign=1050&utm_source=git)** | ARDMORE, Oklahoma | On Site | Oct 13 |
 | **[Chief Industries, Inc.](http://chiefind.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/68ed9e9270b66e2345d3f5ff?utm_campaign=1050&utm_source=git)** | Grand Island, Nebraska | On Site | Oct 13 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed9d2970b66e2345d3f4c4?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Oct 13 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/68ddc921a125e75c422aed41?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 13 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Distribution Center Intern](https://jobright.ai/jobs/info/68ed953a70b66e2345d3f341?utm_campaign=1050&utm_source=git)** | New Lenox, IL | On Site | Oct 13 |
 | **[ArchKey Solutions](https://www.archkey.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68ed918770b66e2345d3f22d?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Oct 13 |
@@ -130,13 +135,12 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Operations Management Intern: Spring](https://jobright.ai/jobs/info/68ed86a270b66e2345d3ee5d?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Oct 13 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/68ed867e81fdd1626d39d574?utm_campaign=1050&utm_source=git)** | 4701 Highway 101, Florence, OR, 97439, US | On Site | Oct 13 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Supply Chain Replenishment Internship](https://jobright.ai/jobs/info/68ed866f6335d33236129d48?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 13 |
-| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Operations Management Intern: Spring](https://jobright.ai/jobs/info/68ed836270b66e2345d3eca8?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Oct 13 |
 | **[Coinbase](https://www.coinbase.com)** | **[Sourcing Intern](https://jobright.ai/jobs/info/68ed830d81fdd1626d39d3af?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[Great Wolf Lodge](http://www.greatwolf.com)** | **[Summer Hospitality Internship Program](https://jobright.ai/jobs/info/68ed817a70b66e2345d3e9e3?utm_campaign=1050&utm_source=git)** | Grapevine, TX | On Site | Oct 13 |
+| **[Art and Wellness Enterprises](https://awe.wd1.myworkdayjobs.com/Art_and_Wellness)** | **[2026 Operations Management Intern: Spring](https://jobright.ai/jobs/info/68ed811e6335d33236129a12?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Oct 13 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Office Specialist](https://jobright.ai/jobs/info/68ed7da381fdd1626d39d02a?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Oct 13 |
 | **[Grifols](http://www.grifols.com)** | **[Intern - Innovation Specialist](https://jobright.ai/jobs/info/68ed7d826335d332361297fa?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Oct 13 |
 | **[Lindsay Corporation](http://lindsay.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ed7c1e70b66e2345d3e83d?utm_campaign=1050&utm_source=git)** | Omaha, NE | Hybrid | Oct 13 |
-| **[Black & Veatch](http://bv.com/Home)** | **[Project Controls Intern - Field](https://jobright.ai/jobs/info/68ed78e081fdd1626d39cdcf?utm_campaign=1050&utm_source=git)** | Manhattan, KS | Hybrid | Oct 13 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship - Smithfield, UT - Summer 2026](https://jobright.ai/jobs/info/68ed77d06335d33236129469?utm_campaign=1050&utm_source=git)** | Smithfield, UT | On Site | Oct 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Oklahoma State University](https://jobright.ai/jobs/info/68ed76d070b66e2345d3e637?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 13 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Intern Summer 2026](https://jobright.ai/jobs/info/68ed768570b66e2345d3e5b7?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[White Cap Canada](whitecapsupply.com)** | **[Field/Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed582c81fdd1626d39b698?utm_campaign=1050&utm_source=git)** | Nashville_37210 | On Site | Oct 13 |
 | ↳ | **[Field/Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed582581fdd1626d39b68b?utm_campaign=1050&utm_source=git)** | San Antonio_78219 | On Site | Oct 13 |
 | ↳ | **[Field/Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed57f081fdd1626d39b602?utm_campaign=1050&utm_source=git)** | Fort Worth_76103 | On Site | Oct 13 |
-| ↳ | **[Field/Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed57ba81fdd1626d39b577?utm_campaign=1050&utm_source=git)** | Austin_78744 | On Site | Oct 13 |
-| ↳ | **[Field/Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed576781fdd1626d39b44f?utm_campaign=1050&utm_source=git)** | Austin_78754 | On Site | Oct 13 |
-| ↳ | **[Field/Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed573c70b66e2345d3ce7a?utm_campaign=1050&utm_source=git)** | Indianapolis_46225 | On Site | Oct 13 |
-| ↳ | **[Supply Chain/Transportation Internship (Summer 2026)](https://jobright.ai/jobs/info/68ed571670b66e2345d3cdd6?utm_campaign=1050&utm_source=git)** | Atlanta_30360 | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

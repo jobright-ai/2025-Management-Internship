@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formlabs](http://www.formlabs.com)** | **[Global Operations Sourcing Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68c1b3604d652f04477593d5?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 15 |
+| **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Executive Assistant Intern- DAY OR NIGHT SHIFT](https://jobright.ai/jobs/info/68ef607bde50091dbfa4e3a0?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Oct 15 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/68ef4e039821486c423c3dc7?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Oct 15 |
 | **[PROJXON](www.projxon.com)** | **[Project Manager (MBA) Intern](https://jobright.ai/jobs/info/68ef461ede50091dbfa4c489?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Oct 14 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef35c6230ae70a14c41d83?utm_campaign=1050&utm_source=git)** | San Francisco, CA, USA | Remote | Oct 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Supply Chain Manager Intern](https://jobright.ai/jobs/info/68ee9e2ed078b81ad160c5fa?utm_campaign=1050&utm_source=git)** | Seattle, Washington, USA | On Site | Oct 14 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ee9e0246e5b153e5a5cdcc?utm_campaign=1050&utm_source=git)** | Highland Park, Michigan, US | On Site | Oct 14 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Project Management Office (PMO) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee9c5246e5b153e5a5cc83?utm_campaign=1050&utm_source=git)** | Westchester, IL | Hybrid | Oct 14 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Executive Implementation Officer — (Volunteer Intern)](https://jobright.ai/jobs/info/68ee991fe0db9242258082c5?utm_campaign=1050&utm_source=git)** | Gloucester, MA | Remote | Oct 14 |
-| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Supply Chain Operations Intern - U.S. AutoForce](https://jobright.ai/jobs/info/68ee969b46e5b153e5a5c928?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

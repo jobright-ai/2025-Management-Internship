@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef35c6230ae70a14c41d83?utm_campaign=1050&utm_source=git)** | San Francisco, CA, USA | Remote | Oct 14 |
+| ↳ | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef35b3a1a1d02df61eb1ce?utm_campaign=1050&utm_source=git)** | California, USA - Remote | Remote | Oct 14 |
+| **[PlayStation](https://www.playstation.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/68ef2ac320456578d5eb60d7?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Oct 14 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Team Sports Operations](https://jobright.ai/jobs/info/68ef1fd4230ae70a14c40645?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 14 |
+| **[Lakeshore College](http://www.gotoltc.com/)** | **[Student Employee / Federal Work Study Recipient - Applied Technology Administrative Assistant](https://jobright.ai/jobs/info/68ef1faf230ae70a14c4060a?utm_campaign=1050&utm_source=git)** | Cleveland, WI | Hybrid | Oct 14 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Procurement](https://jobright.ai/jobs/info/68ef1bfd230ae70a14c4044f?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Oct 14 |
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Spring 2026 - College Internship - San Antonio, TX (Food and Bevarage & Recreation)](https://jobright.ai/jobs/info/68ef14b3a1a1d02df61e8e23?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ef12c420456578d5eb49b2?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Oct 14 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Supply Chain Rotational Intern - Summer 2026](https://jobright.ai/jobs/info/68ef0fada1a1d02df61e8b02?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Oct 14 |
@@ -69,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68ef087a20456578d5eb4283?utm_campaign=1050&utm_source=git)** | Coral Gables, FL | On Site | Oct 14 |
 | ↳ | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68ef0863230ae70a14c3f369?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 14 |
 | ↳ | **[HUB International Internship Program Summer 2026](https://jobright.ai/jobs/info/68ef07da20456578d5eb421c?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Oct 14 |
+| ↳ | **[HUB International Internship Program Summer 2025](https://jobright.ai/jobs/info/68e9c83ccfc08e4908912f08?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | On Site | Oct 14 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68eefe5120456578d5eb3a5c?utm_campaign=1050&utm_source=git)** | Newark, Delaware | On Site | Oct 14 |
 | **[City of Irvine](https://www.cityofirvine.org)** | **[Part-time Intern I Project Assistant - Great Park Development](https://jobright.ai/jobs/info/68eef68046e5b153e5a61a5a?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 14 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/68eef5a346e5b153e5a618c3?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Oct 14 |
@@ -81,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Team Sports Operations](https://jobright.ai/jobs/info/68eee24ae0db92422580c635?utm_campaign=1050&utm_source=git)** | USA-IL - Chicago Office | Hybrid | Oct 14 |
 | ↳ | **[Spring 2026 Internship - Team Sports Operations](https://jobright.ai/jobs/info/68eee0fa46e5b153e5a60c96?utm_campaign=1050&utm_source=git)** | USA-CA - Los Angeles HQ | Hybrid | Oct 14 |
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager](https://jobright.ai/jobs/info/68eed6b746e5b153e5a60812?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Oct 14 |
-| **[Integrity](https://www.integritymarketing.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/68eed62d46e5b153e5a60777?utm_campaign=1050&utm_source=git)** | Hot Springs, AR | On Site | Oct 14 |
 | **[Valorantum](valorantum.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68eed2fad078b81ad160fb9f?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Oct 14 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Spring 2026 - College Internship - San Antonio, TX (Food and Bevarage & Recreation)](https://jobright.ai/jobs/info/68eed1c6d078b81ad160fb5c?utm_campaign=1050&utm_source=git)** | Hyatt Vacation Club at Wild Oak ranch | On Site | Oct 14 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Technology Operations Analyst Intern: Troy, NY - Summer 2026](https://jobright.ai/jobs/info/68eed131e0db92422580bb95?utm_campaign=1050&utm_source=git)** | NY Troy 5 3rd Street | Hybrid | Oct 14 |
@@ -91,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/68eeccf4d078b81ad160f7ff?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68eeccdad078b81ad160f7e0?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Oct 14 |
 | **[Cerity Partners](https://ceritypartners.com/)** | **[Central Solutions Strategy Analyst Internship](https://jobright.ai/jobs/info/68eecc5346e5b153e5a6008e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 14 |
-| **[Structonix](structonix.us)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68eec92ee0db92422580b5d7?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Oct 14 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68eec8e5d078b81ad160f5d3?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 14 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Facilities Management Internship](https://jobright.ai/jobs/info/68eec842d078b81ad160f522?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Oct 14 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Operations](https://jobright.ai/jobs/info/68eec7fc46e5b153e5a5ff3b?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Oct 14 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ee9e0246e5b153e5a5cdcc?utm_campaign=1050&utm_source=git)** | Highland Park, Michigan, US | On Site | Oct 14 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Project Management Office (PMO) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee9c5246e5b153e5a5cc83?utm_campaign=1050&utm_source=git)** | Westchester, IL | Hybrid | Oct 14 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Executive Implementation Officer — (Volunteer Intern)](https://jobright.ai/jobs/info/68ee991fe0db9242258082c5?utm_campaign=1050&utm_source=git)** | Gloucester, MA | Remote | Oct 14 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Internal Logistics Intern](https://jobright.ai/jobs/info/68d6dc03d3fe025a3015c6cf?utm_campaign=1050&utm_source=git)** | Farmington, CT | On Site | Oct 14 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Supply Chain Operations Intern - U.S. AutoForce](https://jobright.ai/jobs/info/68ee969b46e5b153e5a5c928?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Oct 14 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Supply Chain Systems Analyst (Logistics) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee95fa46e5b153e5a5c83c?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Oct 14 |
 | **[SageSure](https://www.sagesure.com)** | **[Program Operations (Program Requirements) Intern](https://jobright.ai/jobs/info/68ee93dad078b81ad160bf74?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Oct 14 |
-| ↳ | **[Program Operations (Performance Measure Improvement) Intern](https://jobright.ai/jobs/info/68ee93b7d078b81ad160bf51?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 14 |
-| **[ROSEN](https://www.rosen-group.com/)** | **[Intern - Shop Operations](https://jobright.ai/jobs/info/68ee91b2e0db924225807df7?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 14 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Project Management Office (PMO) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee8fd9d078b81ad160bd07?utm_campaign=1050&utm_source=git)** | Westchester, IL | On Site | Oct 14 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Business Program Manager Intern - Winter 2026](https://jobright.ai/jobs/info/68ee8f42e0db924225807ba3?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

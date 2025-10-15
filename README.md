@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GMI Cloud](https://www.gmicloud.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/68ef998e78ba1621431df5db?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Oct 15 |
+| **[Kerecis](http://www.kerecis.com)** | **[Medical Affairs Operations and Events Intern](https://jobright.ai/jobs/info/68d32c7117554c2d9eeee662?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Oct 15 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Project Management Intern, Spring 2026](https://jobright.ai/jobs/info/68ef8c8178ba1621431df33d?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 15 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/68eca4d0c26b9574506f5f1c?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Oct 15 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Denton Warehouse,](https://jobright.ai/jobs/info/68ef7cd078ba1621431df08a?utm_campaign=1050&utm_source=git)** | Denton, TX | On Site | Oct 15 |
 | ↳ | **[Warehouse Operations Intern - Greenwood Warehouse,](https://jobright.ai/jobs/info/68ef7c7c78ba1621431df05b?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Oct 15 |
 | ↳ | **[District Manager Intern - Upper Midwest (MN-IA-SD-ND-WI),](https://jobright.ai/jobs/info/68ef7c789821486c423c5f3b?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Oct 15 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Global Operations Sourcing Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68c1b3604d652f04477593d5?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Executive Assistant Intern- DAY OR NIGHT SHIFT](https://jobright.ai/jobs/info/68ef607bde50091dbfa4e3a0?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Oct 15 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/68ef4e039821486c423c3dc7?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Oct 15 |
-| **[PROJXON](www.projxon.com)** | **[Project Manager (MBA) Intern](https://jobright.ai/jobs/info/68ef461ede50091dbfa4c489?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Oct 14 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef35c6230ae70a14c41d83?utm_campaign=1050&utm_source=git)** | San Francisco, CA, USA | Remote | Oct 14 |
 | ↳ | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef35b3a1a1d02df61eb1ce?utm_campaign=1050&utm_source=git)** | California, USA - Remote | Remote | Oct 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/68ef2ac320456578d5eb60d7?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Oct 14 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68eefe5120456578d5eb3a5c?utm_campaign=1050&utm_source=git)** | Newark, Delaware | On Site | Oct 14 |
 | **[City of Irvine](https://www.cityofirvine.org)** | **[Part-time Intern I Project Assistant - Great Park Development](https://jobright.ai/jobs/info/68eef68046e5b153e5a61a5a?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 14 |
 | **[Illumio](http://www.illumio.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/68eef5a346e5b153e5a618c3?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Oct 14 |
-| **[Reliable MicroSystems, LLC](https://www.reliablemicrosystems.com)** | **[College Business Intern](https://jobright.ai/jobs/info/68eef4b4e0db92422580ced2?utm_campaign=1050&utm_source=git)** | Nashville, TN or Crane, IN | On Site | Oct 14 |
 | **[M.C. Dean, Inc.](http://mcdean.com)** | **[Project Controls Internship (Clearable) 2025 - 2026 Season](https://jobright.ai/jobs/info/68eeeae2d078b81ad16107cd?utm_campaign=1050&utm_source=git)** | Annapolis, MD | On Site | Oct 14 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Intern](https://jobright.ai/jobs/info/68eeeacbe0db92422580c814?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Oct 14 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, Operations & Resource Mgmt. - MA](https://jobright.ai/jobs/info/68eee8db46e5b153e5a61023?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern - Bilingual Preferred](https://jobright.ai/jobs/info/68eeac5446e5b153e5a5e18a?utm_campaign=1050&utm_source=git)** | San Angelo, TX | On Site | Oct 14 |
 | **[HNTB](http://www.hntb.com/)** | **[Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68eeab18e0db9242258096fd?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Oct 14 |
 | **[TMG Construction Corporation](http://www.tmgworld.net/)** | **[Construction Intern](https://jobright.ai/jobs/info/68eeaa67e0db92422580963b?utm_campaign=1050&utm_source=git)** | Falls Church, VA | On Site | Oct 14 |
-| **[Experian](http://www.experianplc.com)** | **[Strategy Summer Intern (Hybrid & Paid)](https://jobright.ai/jobs/info/68eea931e0db9242258093c3?utm_campaign=1050&utm_source=git)** | 475 Anton Blvd, Costa Mesa, CA 92626, USA | Hybrid | Oct 14 |
-| **[Orchestra](https://www.orchestraco.com)** | **[Corporate Spring 2026 Internship](https://jobright.ai/jobs/info/68eea7ba46e5b153e5a5de4b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

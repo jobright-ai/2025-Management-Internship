@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Denton Warehouse,](https://jobright.ai/jobs/info/68ef7cd078ba1621431df08a?utm_campaign=1050&utm_source=git)** | Denton, TX | On Site | Oct 15 |
+| ↳ | **[Warehouse Operations Intern - Greenwood Warehouse,](https://jobright.ai/jobs/info/68ef7c7c78ba1621431df05b?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Oct 15 |
+| ↳ | **[District Manager Intern - Upper Midwest (MN-IA-SD-ND-WI),](https://jobright.ai/jobs/info/68ef7c789821486c423c5f3b?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Oct 15 |
+| **[AM Mechanical](https://www.am-mech.com/)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68ef77b178ba1621431def97?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | On Site | Oct 15 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef72199821486c423c5d7a?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Oct 15 |
+| ↳ | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef71c19821486c423c5d43?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Oct 15 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/68ef70b778ba1621431dedc0?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Oct 15 |
 | **[Formlabs](http://www.formlabs.com)** | **[Global Operations Sourcing Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68c1b3604d652f04477593d5?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 15 |
 | **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Executive Assistant Intern- DAY OR NIGHT SHIFT](https://jobright.ai/jobs/info/68ef607bde50091dbfa4e3a0?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Oct 15 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/68ef4e039821486c423c3dc7?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Oct 15 |
@@ -129,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UConn Stamford Digital Technology Center Intern - Spring 2026](https://jobright.ai/jobs/info/68ddecab44d32141e0bfbe6e?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Oct 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68eeb621d078b81ad160df85?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Intern, Soccer Operations](https://jobright.ai/jobs/info/68eeb609d078b81ad160df60?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 14 |
+| **[CesiumAstro](https://www.cesiumastro.com)** | **[Summer 2026 - Supply Chain Internship](https://jobright.ai/jobs/info/68eeb56546e5b153e5a5e805?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68eeb53946e5b153e5a5e7bb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 14 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68eeb48746e5b153e5a5e64d?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 14 |
 | **[UC Davis Health Informatics](https://health.ucdavis.edu/informatics/)** | **[Athletic Equipment Room Intern (ATH PROFL 1 BYA)](https://jobright.ai/jobs/info/68eeb21fd078b81ad160dedd?utm_campaign=1050&utm_source=git)** | Davis, SD | On Site | Oct 14 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TMG Construction Corporation](http://www.tmgworld.net/)** | **[Construction Intern](https://jobright.ai/jobs/info/68eeaa67e0db92422580963b?utm_campaign=1050&utm_source=git)** | Falls Church, VA | On Site | Oct 14 |
 | **[Experian](http://www.experianplc.com)** | **[Strategy Summer Intern (Hybrid & Paid)](https://jobright.ai/jobs/info/68eea931e0db9242258093c3?utm_campaign=1050&utm_source=git)** | 475 Anton Blvd, Costa Mesa, CA 92626, USA | Hybrid | Oct 14 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Corporate Spring 2026 Internship](https://jobright.ai/jobs/info/68eea7ba46e5b153e5a5de4b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 14 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Greater Augusta](https://jobright.ai/jobs/info/68eea60546e5b153e5a5da86?utm_campaign=1050&utm_source=git)** | Augusta | On Site | Oct 14 |
-| **[QBE North America](https://www.qbe.com/us)** | **[Accident and Health Underwriting Intern (Summer 2026)](https://jobright.ai/jobs/info/68e9ace6feeb0006c1a56699?utm_campaign=1050&utm_source=git)** | Marblehead, MA | Hybrid | Oct 14 |
-| **[EC Electric](http://ecpowerslife.com)** | **[Summer Internship 2026 (Assistant Project Manager)](https://jobright.ai/jobs/info/68eea06cd078b81ad160ce61?utm_campaign=1050&utm_source=git)** | Albany, Oregon, United States | On Site | Oct 14 |
-| ↳ | **[Summer Internship 2026 (Assistant Project Manager)](https://jobright.ai/jobs/info/68ee9f1ae0db924225808b4f?utm_campaign=1050&utm_source=git)** | Portland, Oregon, United States | On Site | Oct 14 |
-| ↳ | **[Summer Internship 2026 (Assistant Project Manager)](https://jobright.ai/jobs/info/68ee9e6046e5b153e5a5ce74?utm_campaign=1050&utm_source=git)** | Redmond, Oregon, United States | On Site | Oct 14 |
-| **[Amazon](https://amazon.com)** | **[2026 Supply Chain Manager Intern](https://jobright.ai/jobs/info/68ee9e2ed078b81ad160c5fa?utm_campaign=1050&utm_source=git)** | Seattle, Washington, USA | On Site | Oct 14 |
-| **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ee9e0246e5b153e5a5cdcc?utm_campaign=1050&utm_source=git)** | Highland Park, Michigan, US | On Site | Oct 14 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Project Management Office (PMO) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee9c5246e5b153e5a5cc83?utm_campaign=1050&utm_source=git)** | Westchester, IL | Hybrid | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

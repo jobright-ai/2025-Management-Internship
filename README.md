@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airtech Vacuum, Inc.](http://www.airtechusa.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/68f00b0078ba1621431e1c53?utm_campaign=1050&utm_source=git)** | Linthicum, MD | On Site | Oct 15 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Advisory Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/68f00a78de50091dbfa51953?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Oct 15 |
+| **[Aldevron](http://www.aldevron.com/)** | **[Commercial Operations Intern](https://jobright.ai/jobs/info/68f002ae9821486c423c89e7?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Oct 15 |
+| **[MechNova](mechnova.us)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68effdcbde50091dbfa51416?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Oct 15 |
 | **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68eff4149821486c423c81c9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 15 |
-| **[Georgia Swarm Professional Lacrosse](https://www.georgiaswarm.com/)** | **[Gameday Operations Internship](https://jobright.ai/jobs/info/68eff37bde50091dbfa510b6?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Oct 15 |
-| **[Ferrovias](ferrovias.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68efefdede50091dbfa50f47?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Oct 15 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68efec57de50091dbfa50e03?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 15 |
+| **[FlightSafety International](https://www.flightsafety.com/)** | **[Aviation Safety Intern - Summer 2026](https://jobright.ai/jobs/info/68ec419f2f64880ca0b5a1ca?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 15 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68efe57b9821486c423c7ee2?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Oct 15 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68efe4d5de50091dbfa50d5b?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 15 |
+| **[Mercury Marine](http://mercurymarine.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/68f0016278ba1621431e1928?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 15 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68effe7678ba1621431e168a?utm_campaign=1050&utm_source=git)** | Memphis, TN | Remote | Oct 15 |
+| **[FlightSafety International](https://www.flightsafety.com/)** | **[Operations Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/68f004299821486c423c8b31?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 15 |
 | **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdeca9821486c423c7e1a?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Oct 15 |
 | ↳ | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde6ede50091dbfa50c74?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efddc378ba1621431e0e81?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Department of Veterans Affairs](https://www.va.gov)** | **[Psychology Program Manager](https://jobright.ai/jobs/info/68eed6b746e5b153e5a60812?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Oct 14 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Spring 2026 - College Internship - San Antonio, TX (Food and Bevarage & Recreation)](https://jobright.ai/jobs/info/68eed1c6d078b81ad160fb5c?utm_campaign=1050&utm_source=git)** | Hyatt Vacation Club at Wild Oak ranch | On Site | Oct 14 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Games Technology Operations Analyst Intern: Troy, NY - Summer 2026](https://jobright.ai/jobs/info/68eed131e0db92422580bb95?utm_campaign=1050&utm_source=git)** | NY Troy 5 3rd Street | Hybrid | Oct 14 |
-| **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68eece05d078b81ad160f8d0?utm_campaign=1050&utm_source=git)** | Highland Park, MI | On Site | Oct 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68eecdedd078b81ad160f8ac?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 14 |
-| ↳ | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/68eeccf4d078b81ad160f7ff?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 14 |
-| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68eeccdad078b81ad160f7e0?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Oct 14 |
-| **[Cerity Partners](https://ceritypartners.com/)** | **[Central Solutions Strategy Analyst Internship](https://jobright.ai/jobs/info/68eecc5346e5b153e5a6008e?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 14 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68eec8e5d078b81ad160f5d3?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

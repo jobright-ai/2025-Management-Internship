@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/68ef4e039821486c423c3dc7?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Oct 15 |
+| **[PROJXON](www.projxon.com)** | **[Project Manager (MBA) Intern](https://jobright.ai/jobs/info/68ef461ede50091dbfa4c489?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Oct 14 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef35c6230ae70a14c41d83?utm_campaign=1050&utm_source=git)** | San Francisco, CA, USA | Remote | Oct 14 |
 | ↳ | **[Intern, Business Planning](https://jobright.ai/jobs/info/68ef35b3a1a1d02df61eb1ce?utm_campaign=1050&utm_source=git)** | California, USA - Remote | Remote | Oct 14 |
 | **[PlayStation](https://www.playstation.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/68ef2ac320456578d5eb60d7?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Oct 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Project Management Office (PMO) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee9c5246e5b153e5a5cc83?utm_campaign=1050&utm_source=git)** | Westchester, IL | Hybrid | Oct 14 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[Executive Implementation Officer — (Volunteer Intern)](https://jobright.ai/jobs/info/68ee991fe0db9242258082c5?utm_campaign=1050&utm_source=git)** | Gloucester, MA | Remote | Oct 14 |
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Supply Chain Operations Intern - U.S. AutoForce](https://jobright.ai/jobs/info/68ee969b46e5b153e5a5c928?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Oct 14 |
-| **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Supply Chain Systems Analyst (Logistics) Intern (Summer 2026)](https://jobright.ai/jobs/info/68ee95fa46e5b153e5a5c83c?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Oct 14 |
-| **[SageSure](https://www.sagesure.com)** | **[Program Operations (Program Requirements) Intern](https://jobright.ai/jobs/info/68ee93dad078b81ad160bf74?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

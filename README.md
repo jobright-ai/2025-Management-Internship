@@ -57,7 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f0bf1e1f624a7ec1cf770d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 16 |
+| **[DESRI](https://desri.com/)** | **[Generalist Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd829a1ad6b16f0289aa71?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Oct 16 |
+| **[Segal Marco Advisors](http://segalmarco.com/)** | **[Intern- Segal Marco Advisors](https://jobright.ai/jobs/info/68d437e98c62e63bc7fe6e2a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Project Management Intern - McLean VA - R10211094](https://jobright.ai/jobs/info/68f0cce4ef766b3f0fd05756?utm_campaign=1050&utm_source=git)** | McLean, VA | On Site | Oct 16 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of California, Berkeley](https://jobright.ai/jobs/info/68f0c89bf462172a5a7cfc64?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 16 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Roy UT - R10211312](https://jobright.ai/jobs/info/68f0c1a71f624a7ec1cf7a46?utm_campaign=1050&utm_source=git)** | Roy, UT | On Site | Oct 16 |
+| ↳ | **[2026 Technical Project Management Intern -  Roy UT - R10211348](https://jobright.ai/jobs/info/68f0c177eb273a32d976d28a?utm_campaign=1050&utm_source=git)** | Roy, UT | On Site | Oct 16 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f0c1231f624a7ec1cf79cb?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 16 |
+| **[Katalyst CRO](http://katalysthls.com)** | **[Support 1, Operations Intern](https://jobright.ai/jobs/info/68f0c1211f624a7ec1cf79ca?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Oct 16 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Roy UT - R10211316](https://jobright.ai/jobs/info/68f0c0db33489f7bb1c1900e?utm_campaign=1050&utm_source=git)** | Roy, UT | On Site | Oct 16 |
+| ↳ | **[2026 Business Management Intern - Roy UT - R10211314](https://jobright.ai/jobs/info/68f0c0d11f624a7ec1cf7980?utm_campaign=1050&utm_source=git)** | Roy, UT | On Site | Oct 16 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Chico State University](https://jobright.ai/jobs/info/68f0bfed33489f7bb1c18f27?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Oct 16 |
+| ↳ | **[Operations Intern - University of California, Berkeley](https://jobright.ai/jobs/info/68f0bf8f1f624a7ec1cf777c?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Oct 16 |
+| ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f0bf1e1f624a7ec1cf770d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 16 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Business Management Intern - Roy UT - R10211318](https://jobright.ai/jobs/info/68f0bedf33489f7bb1c18dcd?utm_campaign=1050&utm_source=git)** | Roy, UT | On Site | Oct 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee Tech University](https://jobright.ai/jobs/info/68f0ad81eb273a32d976bb53?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Oct 16 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Operations Manager Intern - FLL](https://jobright.ai/jobs/info/68f0acfa1f624a7ec1cf62b4?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 16 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elanco](https://www.elanco.com)** | **[Operational Excellence Intern (Summer 2026)](https://jobright.ai/jobs/info/68f02433de50091dbfa52344?utm_campaign=1050&utm_source=git)** | Clinton, IN | On Site | Oct 15 |
 | ↳ | **[Operational Excellence Intern (Summer 2026)](https://jobright.ai/jobs/info/68f021e1de50091dbfa52071?utm_campaign=1050&utm_source=git)** | Elwood, KS | On Site | Oct 15 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68f021a99821486c423c9238?utm_campaign=1050&utm_source=git)** | Saraland, AL | On Site | Oct 15 |
-| **[Medtronic](https://www.medtronic.com)** | **[Summer 2026 MBA Internship](https://jobright.ai/jobs/info/68f01da7de50091dbfa51c1f?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
-| ↳ | **[Summer 2026 MBA Corporate Development Internship](https://jobright.ai/jobs/info/68f01e55de50091dbfa51cd3?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Oct 15 |
-| **[Gast](http://www.gastmfg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/68f0235ade50091dbfa52234?utm_campaign=1050&utm_source=git)** | Rutherford, NJ | On Site | Oct 15 |
-| ↳ | **[Sourcing Intern](https://jobright.ai/jobs/info/68f01753de50091dbfa51b9e?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Oct 15 |
-| **[Georgia Swarm Professional Lacrosse](https://www.georgiaswarm.com/)** | **[Gameday Operations Internship](https://jobright.ai/jobs/info/68f022b978ba1621431e24db?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Oct 15 |
-| **[North Carolina Courage](http://www.NCCourage.com)** | **[Soccer Operations Internship](https://jobright.ai/jobs/info/68f01f81de50091dbfa51e01?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
-| **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Operations Manager](https://jobright.ai/jobs/info/68f024969821486c423c9620?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 15 |
-| **[Nassau Community College](http://www.ncc.edu/)** | **[2026 Intern - IT Project Management](https://jobright.ai/jobs/info/68f01e349821486c423c8de7?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Oct 15 |
-| **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68eff4149821486c423c81c9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 15 |
-| **[West Coast Medical Resources, LLC](https://www.westcmr.com)** | **[Intern](https://jobright.ai/jobs/info/68f0203ade50091dbfa51e7a?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Oct 15 |
-| **[Energizer Holdings](http://energizerholdings.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/68f021e978ba1621431e23c5?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Oct 15 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68efec57de50091dbfa50e03?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

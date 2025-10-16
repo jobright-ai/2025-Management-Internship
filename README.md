@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68f098a5eb273a32d9769db2?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 16 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Purchasing and Supply Chain](https://jobright.ai/jobs/info/68f09492eb273a32d9769c37?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Oct 15 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Intern - Strategy Development and Communication](https://jobright.ai/jobs/info/68f07cc11f624a7ec1cf384f?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Oct 15 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f07c68eb273a32d9769017?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Oct 15 |
 | ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/68f0756ca6b9004b5e320794?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 15 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/68f02ab1de50091dbfa5260b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68f02e2178ba1621431e3164?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/68f030c89821486c423ca2ff?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Oct 15 |
-| **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68f034d9de50091dbfa534ea?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/68f02eb99821486c423c9f67?utm_campaign=1050&utm_source=git)** | Westport, CT | On Site | Oct 15 |
 | **[Warp](https://wearewarp.com/)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/68f02a7ede50091dbfa5256f?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 15 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[Operations Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68f02b9578ba1621431e2b46?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 15 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Courage](http://www.NCCourage.com)** | **[Soccer Operations Internship](https://jobright.ai/jobs/info/68f01f81de50091dbfa51e01?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Oct 15 |
 | **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Operations Manager](https://jobright.ai/jobs/info/68f024969821486c423c9620?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 15 |
 | **[Nassau Community College](http://www.ncc.edu/)** | **[2026 Intern - IT Project Management](https://jobright.ai/jobs/info/68f01e349821486c423c8de7?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Oct 15 |
+| **[KHAITE](https://khaite.com/)** | **[Retail Excellence & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68eff4149821486c423c81c9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 15 |
 | **[West Coast Medical Resources, LLC](https://www.westcmr.com)** | **[Intern](https://jobright.ai/jobs/info/68f0203ade50091dbfa51e7a?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Oct 15 |
 | **[Energizer Holdings](http://energizerholdings.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/68f021e978ba1621431e23c5?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Oct 15 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/68efec57de50091dbfa50e03?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efde6ede50091dbfa50c74?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efddc378ba1621431e0e81?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | ↳ | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd78de50091dbfa50b86?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 15 |
-| ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd319821486c423c7c7f?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Oct 15 |
-| ↳ | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdcca78ba1621431e0d8e?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

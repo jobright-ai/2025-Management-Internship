@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68f20c1d04459d368b5ad961?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 17 |
+| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68bee08d702aa35207aa13cb?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Oct 16 |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (West)](https://jobright.ai/jobs/info/68f1e2e9e6870116b1f5dfe3?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | Hybrid | Oct 16 |
 | **[Pheratech Systems](www.pheratech.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68f1dc4ee6870116b1f5db03?utm_campaign=1050&utm_source=git)** | Claremont, CA | On Site | Oct 16 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern - Thief River Falls Lab](https://jobright.ai/jobs/info/68f1c890e6870116b1f5d16f?utm_campaign=1050&utm_source=git)** | Thief River Falls, MN | On Site | Oct 16 |
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Internal Logistics Planning Intern-Franklin, WI](https://jobright.ai/jobs/info/68f1c2dae6870116b1f5cedd?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Oct 16 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Supply Chain Strategic Sourcing Intern - Linthicum MD](https://jobright.ai/jobs/info/68f1bb56f462172a5a7dbd31?utm_campaign=1050&utm_source=git)** | United States-Maryland-Linthicum | Hybrid | Oct 16 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68f1badaf462172a5a7dbcb1?utm_campaign=1050&utm_source=git)** | Madison, PA | Remote | Oct 16 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Center Valley Warehouse,](https://jobright.ai/jobs/info/68f1ba18f462172a5a7dbbe6?utm_campaign=1050&utm_source=git)** | Center Valley, PA | On Site | Oct 16 |
+| **[CSM Group](http://csmgroup.com)** | **[Project Field Intern](https://jobright.ai/jobs/info/68ecb205d4b0106e703ec8fd?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Oct 16 |
 | **[Centene Corporation](http://www.centene.com)** | **[IT Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f1b163ef766b3f0fd110bd?utm_campaign=1050&utm_source=git)** | Florida, United States | Remote | Oct 16 |
 | ↳ | **[IT Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f1b0afef766b3f0fd10f09?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Oct 16 |
 | **[Apple](https://www.apple.com)** | **[FY26 Apple Space Planning Internship](https://jobright.ai/jobs/info/68f1b02df462172a5a7db383?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Oct 16 |
@@ -116,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Supply Chain (PSC) Footwear Sourcing Graduate Internship](https://jobright.ai/jobs/info/68f1bcabef766b3f0fd117cc?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
 | **[Doyle Construction Company](https://www.doyleconco.com)** | **[Internship](https://jobright.ai/jobs/info/68f15f6df462172a5a7d732d?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Oct 16 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Strategic Planning Graduate Internship](https://jobright.ai/jobs/info/68f1bd3fef766b3f0fd118b0?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Schedule Intern](https://jobright.ai/jobs/info/68f1fb1ed2b6d776b59157bc?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Oct 16 |
 | **[Arthrex](https://www.arthrex.com/)** | **[IT Systems Portfolio Management Intern](https://jobright.ai/jobs/info/68f15ebfe6870116b1f57de4?utm_campaign=1050&utm_source=git)** | Naples, FL | On Site | Oct 16 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f142fde6870116b1f55f03?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Production Supervisor Intern](https://jobright.ai/jobs/info/68f15e2fef766b3f0fd0cbf2?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Oct 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) West Replenishment Distribution Center, Rialto, CA](https://jobright.ai/jobs/info/68f142f8e6870116b1f55eeb?utm_campaign=1050&utm_source=git)** | 3105 N Mango Ave, Rialto,CA 92377-4901 | Hybrid | Oct 16 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68f1415ae6870116b1f55a10?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Oct 16 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT M&A Integration Analyst - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68f14132e6870116b1f559a5?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
-| **[Yale University](https://www.yale.edu)** | **[Business Office Intern](https://jobright.ai/jobs/info/68f14110e6870116b1f55941?utm_campaign=1050&utm_source=git)** | Whitney Ave,  55 | On Site | Oct 16 |
-| **[The Waldinger Corporation](http://waldinger.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/68f14100e6870116b1f55908?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Oct 16 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Project Management Intern, Commercial & Industrial DSM Team](https://jobright.ai/jobs/info/68f140dcef766b3f0fd0a7a2?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Oct 16 |
-| **[Victaulic](https://www.victaulic.com)** | **[2026 Summer Internship – Supply Chain](https://jobright.ai/jobs/info/68f14061e6870116b1f5571f?utm_campaign=1050&utm_source=git)** | Easton, Pennsylvania | On Site | Oct 16 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op/Intern - Summer 2026 - Boston, MA](https://jobright.ai/jobs/info/68f14031e6870116b1f556a1?utm_campaign=1050&utm_source=git)** | Boston, MA, US | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

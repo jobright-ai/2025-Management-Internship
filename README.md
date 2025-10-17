@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68cd8b14b2a74e1837ed8766?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Oct 17 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d5160d2ed36439e51e499c?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Continuous Improvement](https://jobright.ai/jobs/info/68cc4730128dc347fd921eba?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Oct 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68f20c1d04459d368b5ad961?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 17 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Project Coordinator Intern - Spring 2026 (external - unfinished)](https://jobright.ai/jobs/info/68f17cbee6870116b1f59be7?utm_campaign=1050&utm_source=git)** | East Lansing, MI | Hybrid | Oct 16 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Supply Chain Planning Innovation Graduate Internship](https://jobright.ai/jobs/info/68f1bdf2e6870116b1f5cac9?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 16 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/68f15c3aef766b3f0fd0c82b?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Oct 16 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT M&A Integration Analyst - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68f15af6f462172a5a7d705c?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
 | **[Great Southern Wood Preserving](https://www.yellawood.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/68f157f5f462172a5a7d6a06?utm_campaign=1050&utm_source=git)** | Abbeville, AL | On Site | Oct 16 |
 | **[S&C Electric Company](https://www.sandc.com/en)** | **[Internal Logistics Planning Intern-Franklin, WI](https://jobright.ai/jobs/info/68f156f5e6870116b1f574d5?utm_campaign=1050&utm_source=git)** | 251 West Franklin Drive, Franklin, WI, 53132, US | On Site | Oct 16 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Field Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68f154a1ef766b3f0fd0c0df?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Oct 16 |

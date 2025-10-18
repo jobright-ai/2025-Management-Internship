@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trippy Goat Vodka](http://www.trippygoat.com)** | **[Technology Intern / Business Analyst & Project Coordinator (In-Office)](https://jobright.ai/jobs/info/68f3eb579a63986de7573e25?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | Hybrid | Oct 18 |
+| **[Structonix](structonix.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/68f3d7b89a65fd345858876b?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68bb78885f3832749186f63f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68bb78b16105227d118a6390?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb78ab5f3832749186f65c?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Oct 18 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68c9171da0c52d598ea3584c?utm_campaign=1050&utm_source=git)** | Spring House, PA | Hybrid | Oct 18 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Integrated Capacity Solutions Internship, Summer 2026](https://jobright.ai/jobs/info/68ca544b5f9f0336447dbf52?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Oct 18 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Superintendent Internship - Summer 2026 (San Antonio, TX)](https://jobright.ai/jobs/info/68cb9521ba798c1a501d2350?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 18 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/68f14c72f462172a5a7d5bd2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
 | **[Clarios](https://www.clarios.com/)** | **[IT Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6abb6d3fe025a3015b085?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 18 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/68bb48b48043103d4f22774b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
 | **[Swagelok](http://www.swagelok.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68bb36546105227d118a40a7?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68f35ff976a51a4307bcde72?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[Health, Safety & Environment  Intern - Spring 2026](https://jobright.ai/jobs/info/68d34c838c62e63bc7fdf794?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Oct 18 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - San Francisco State University](https://jobright.ai/jobs/info/68f35f1f9a65fd3458586a6e?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (Central)](https://jobright.ai/jobs/info/68f381cb9a65fd3458587423?utm_campaign=1050&utm_source=git)** | Cocoa, FL | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

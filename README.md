@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Assistant Director of Internal Audit(State Program Manager)](https://jobright.ai/jobs/info/68f343759a65fd3458585cb4?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Oct 18 |
+| **[AMETEK](http://www.ametek.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f338ab9a63986de7570262?utm_campaign=1050&utm_source=git)** | Aurora, IL | On Site | Oct 17 |
 | **[Mankato MoonDogs](http://www.mankatomoondogs.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68f30db476a51a4307bca946?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Oct 17 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Business Internship Program](https://jobright.ai/jobs/info/68f300289a65fd3458582ab7?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Oct 17 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f2fdfe76a51a4307bc9c4c?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Oct 17 |
@@ -143,18 +145,16 @@ For a complete list, click the following sortable link below:
 | **[Community & Wellness Collective](cawcollective.org)** | **[Special Project Intern](https://jobright.ai/jobs/info/68f2afce9a65fd345857f5ed?utm_campaign=1050&utm_source=git)** | St Louis, MO | Remote | Oct 17 |
 | **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Global Logistics Imports - Internship](https://jobright.ai/jobs/info/68f30e559a65fd34585835a4?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | ↳ | **[Category Management Internship](https://jobright.ai/jobs/info/68f30f3f76a51a4307bcaae3?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
-| ↳ | **[Supply Chain Replenishment Internship](https://jobright.ai/jobs/info/68f30cd176a51a4307bca826?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Strategic Planning Graduate Internship](https://jobright.ai/jobs/info/68f1bd3fef766b3f0fd118b0?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
+| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Supply Chain Replenishment Internship](https://jobright.ai/jobs/info/68f30cd176a51a4307bca826?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | ↳ | **[Strategy and Profit Revenue Management Internship](https://jobright.ai/jobs/info/68f30bf69a63986de756e6d7?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | ↳ | **[Supply Chain Inventory Internship](https://jobright.ai/jobs/info/68f30edb9a65fd3458583617?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | ↳ | **[Store Supply Chain Internship](https://jobright.ai/jobs/info/68f30dd276a51a4307bca966?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Digital Outcomes Intern](https://jobright.ai/jobs/info/68f280fc76a51a4307bc4577?utm_campaign=1050&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 17 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Supply Chain Planning Innovation Graduate Internship](https://jobright.ai/jobs/info/68f1bdf2e6870116b1f5cac9?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
+| ↳ | **[NIKE, Inc. Global Sustainability Graduate Internship](https://jobright.ai/jobs/info/68f1be93ef766b3f0fd11b6e?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
+| ↳ | **[NIKE, Inc. Product Supply Chain (PSC) Footwear Sourcing Graduate Internship](https://jobright.ai/jobs/info/68f1bcabef766b3f0fd117cc?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
 | **[Equity Residential](http://equityapartments.com)** | **[Centralized Operations Analytics Intern](https://jobright.ai/jobs/info/68f27a899a63986de7568312?utm_campaign=1050&utm_source=git)** | 2 N Riverside Plaza, Chicago, IL, 60606, US | Hybrid | Oct 17 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Self-Perform Intern (Summer 2026)](https://jobright.ai/jobs/info/68f277b176a51a4307bc401a?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 17 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Supply Chain Strategic Sourcing Intern - Linthicum MD - R10211583](https://jobright.ai/jobs/info/68f277839a63986de75680b9?utm_campaign=1050&utm_source=git)** | Linthicum Heights, MD | On Site | Oct 17 |
-| **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/68f2940d76a51a4307bc4fc4?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Oct 17 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/68f291e69a63986de7568e22?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Oct 17 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2a84e9a63986de7569f35?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Oct 17 |
-| ↳ | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2b2e876a51a4307bc7074?utm_campaign=1050&utm_source=git)** | Greenwich, CT | On Site | Oct 17 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68cce95ed11b445e0bee450d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 17 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Self-Perform Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2b4179a63986de756b047?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[TransLoop](https://transloop.io/)** | **[Summer Logistics Intern](https://jobright.ai/jobs/info/68f2b62876a51a4307bc741b?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 | **[Alervio®](https://www.linkedin.com/company/106023689)** | **[Chief Of Staff Intern](https://jobright.ai/jobs/info/68f2b4b176a51a4307bc7266?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Food and Beverage Internship](https://jobright.ai/jobs/info/68f2b4829a63986de756b0e8?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Oct 17 |
-| **[Bentley Systems](http://www.bentley.com)** | **[Operations Intern - Hawaii](https://jobright.ai/jobs/info/68f2b39576a51a4307bc7125?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Energy Solutions](https://energy-solution.com)** | **[Project Management Office Intern - Remote, US](https://jobright.ai/jobs/info/68f2b15576a51a4307bc6ce4?utm_campaign=1050&utm_source=git)** | Remote - US | Remote | Oct 17 |
 | **[TeamMates Mentoring Program](https://teammates.org)** | **[Interdepartmental Intern](https://jobright.ai/jobs/info/68f2ad039a65fd345857f291?utm_campaign=1050&utm_source=git)** | Gretna, NE, US | On Site | Oct 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f2ac089a65fd345857f06c?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 17 |
@@ -142,8 +141,11 @@ For a complete list, click the following sortable link below:
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68f289ad76a51a4307bc48fb?utm_campaign=1050&utm_source=git)** | Kent, CT | On Site | Oct 17 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Digital Outcomes Intern](https://jobright.ai/jobs/info/68f2885676a51a4307bc485c?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Oct 17 |
 | **[Community & Wellness Collective](cawcollective.org)** | **[Special Project Intern](https://jobright.ai/jobs/info/68f2afce9a65fd345857f5ed?utm_campaign=1050&utm_source=git)** | St Louis, MO | Remote | Oct 17 |
-| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Supply Chain Replenishment Internship](https://jobright.ai/jobs/info/68f30cd176a51a4307bca826?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
+| **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Global Logistics Imports - Internship](https://jobright.ai/jobs/info/68f30e559a65fd34585835a4?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
+| ↳ | **[Category Management Internship](https://jobright.ai/jobs/info/68f30f3f76a51a4307bcaae3?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
+| ↳ | **[Supply Chain Replenishment Internship](https://jobright.ai/jobs/info/68f30cd176a51a4307bca826?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | ↳ | **[Strategy and Profit Revenue Management Internship](https://jobright.ai/jobs/info/68f30bf69a63986de756e6d7?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
+| ↳ | **[Supply Chain Inventory Internship](https://jobright.ai/jobs/info/68f30edb9a65fd3458583617?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | ↳ | **[Store Supply Chain Internship](https://jobright.ai/jobs/info/68f30dd276a51a4307bca966?utm_campaign=1050&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Digital Outcomes Intern](https://jobright.ai/jobs/info/68f280fc76a51a4307bc4577?utm_campaign=1050&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 17 |
 | **[Equity Residential](http://equityapartments.com)** | **[Centralized Operations Analytics Intern](https://jobright.ai/jobs/info/68f27a899a63986de7568312?utm_campaign=1050&utm_source=git)** | 2 N Riverside Plaza, Chicago, IL, 60606, US | Hybrid | Oct 17 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2025 Supply Chain Strategic Sourcing Intern - Linthicum MD - R10211583](https://jobright.ai/jobs/info/68f277839a63986de75680b9?utm_campaign=1050&utm_source=git)** | Linthicum Heights, MD | On Site | Oct 17 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/68f2940d76a51a4307bc4fc4?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Oct 17 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/68f291e69a63986de7568e22?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Oct 17 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2b2e876a51a4307bc7074?utm_campaign=1050&utm_source=git)** | Greenwich, CT | On Site | Oct 17 |
-| ↳ | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2a84e9a63986de7569f35?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Oct 17 |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2a84e9a63986de7569f35?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Oct 17 |
+| ↳ | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2b2e876a51a4307bc7074?utm_campaign=1050&utm_source=git)** | Greenwich, CT | On Site | Oct 17 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68cce95ed11b445e0bee450d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 17 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Self-Perform Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2b4179a63986de756b047?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Oct 17 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b9599b?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Oct 17 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

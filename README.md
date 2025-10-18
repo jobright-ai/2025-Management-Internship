@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f4041e9a63986de757428a?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Oct 18 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68f401a276a51a4307bd02e0?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Oct 18 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68f4011276a51a4307bd02b1?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Oct 18 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/68f3fdd876a51a4307bd020f?utm_campaign=1050&utm_source=git)** | Lubbock | On Site | Oct 18 |
+| **[East-West](https://www.eastwest.org)** | **[Field Operations Intern](https://jobright.ai/jobs/info/68f3fc459a65fd3458588e74?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Oct 18 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f3fb2b76a51a4307bd01bf?utm_campaign=1050&utm_source=git)** | US - WASHINGTON IMPORT (WAIMP) | On Site | Oct 18 |
+| **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Player Operations Intern 2026](https://jobright.ai/jobs/info/68f3f53c9a65fd3458588cf5?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Oct 18 |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f3f07676a51a4307bcffe5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 18 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68f3f0459a63986de7573f4f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Trippy Goat Vodka](http://www.trippygoat.com)** | **[Technology Intern / Business Analyst & Project Coordinator (In-Office)](https://jobright.ai/jobs/info/68f3eb579a63986de7573e25?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | Hybrid | Oct 18 |
 | **[Structonix](structonix.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/68f3d7b89a65fd345858876b?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68bb78885f3832749186f63f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Business Strategy & Development Intern](https://jobright.ai/jobs/info/68b9c6628043103d4f21a3f3?utm_campaign=1050&utm_source=git)** | Orange, CT | On Site | Oct 18 |
 | ↳ | **[2026 Summer Business Strategy & Development Intern](https://jobright.ai/jobs/info/68b9c7555f38327491860c10?utm_campaign=1050&utm_source=git)** | Augusta, ME | On Site | Oct 18 |
 | **[Weis Builders](http://weisbuilders.com)** | **[Assistant Superintendent Intern (Summer 2026)](https://jobright.ai/jobs/info/68f364f19a65fd3458586c9e?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Oct 18 |
-| **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Logistics Coordinator](https://jobright.ai/jobs/info/68d72ab445853d0e39ccd592?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 18 |
-| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Business Strategy & Development Intern](https://jobright.ai/jobs/info/68b9e0de5f38327491861a46?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Oct 18 |
-| **[Amway](http://www.amway.com)** | **[Global Supply Chain Planning Intern, Summer 2026 (42243)](https://jobright.ai/jobs/info/68e5b30eae2b894b1d712b5d?utm_campaign=1050&utm_source=git)** | Ada, MI | On Site | Oct 18 |
-| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Business Strategy & Development Intern](https://jobright.ai/jobs/info/68d395fa8c62e63bc7fe31d8?utm_campaign=1050&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Oct 18 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6863e8b0f2906c665c3883e4?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Oct 18 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68f3606776a51a4307bcde99?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 18 |
-| ↳ | **[Operations Intern - Pennsylvania College of Technology](https://jobright.ai/jobs/info/68f35ff976a51a4307bcde72?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 18 |
-| **[ABB](https://global.abb/group/en)** | **[Health, Safety & Environment  Intern - Spring 2026](https://jobright.ai/jobs/info/68d34c838c62e63bc7fdf794?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Oct 18 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - San Francisco State University](https://jobright.ai/jobs/info/68f35f1f9a65fd3458586a6e?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

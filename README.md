@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f4952c76a51a4307bd253c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (Central)](https://jobright.ai/jobs/info/68f36d179a63986de7572108?utm_campaign=1050&utm_source=git)** | Fort Pierce, FL | Hybrid | Oct 18 |
 | **[Arup](http://www.arup.com)** | **[Project & Commercial Management Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba7b928043103d4f220e26?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Oct 18 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (North)](https://jobright.ai/jobs/info/68f36c849a65fd3458586db7?utm_campaign=1050&utm_source=git)** | Gainesville, FL | Hybrid | Oct 18 |
-| **[ABB](https://global.abb/group/en)** | **[Logistics intern](https://jobright.ai/jobs/info/68f367679a63986de757202e?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

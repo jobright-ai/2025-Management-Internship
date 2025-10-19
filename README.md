@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68bc16166105227d118abd94?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Oct 19 |
+| ↳ | **[Management Trainee Intern - Santa Fe, NM.](https://jobright.ai/jobs/info/68ce2cf6e23def7af55c2dd7?utm_campaign=1050&utm_source=git)** | Santa Fe, NM | On Site | Oct 19 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Production/Operations Internship - Berlin, NJ](https://jobright.ai/jobs/info/68cc0a067342c7623ae5dc77?utm_campaign=1050&utm_source=git)** | Berlin, NJ | On Site | Oct 19 |
+| ↳ | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68e9dfcf54fbf903f6a7f2f8?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Oct 19 |
+| ↳ | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/68a3effe2d2a252445cd43b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Oct 19 |
+| **[Subaru of America](http://www.subaru.com)** | **[INTERN - Project Management (Technical Training Operations)](https://jobright.ai/jobs/info/68f4e01c9a65fd345858ca61?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Oct 19 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Toledo](https://jobright.ai/jobs/info/68bb3beb8043103d4f226f31?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Oct 19 |
+| **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern Summer 2026](https://jobright.ai/jobs/info/68bb283f8043103d4f225f6f?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 19 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/68bb4fdf6105227d118a53a7?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 19 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d8072c295f8e37655e4db6?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Oct 19 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Houston, TX)](https://jobright.ai/jobs/info/68eb6e3e2f64880ca0b58086?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 19 |
@@ -99,7 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49f179a63986de7576d01?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49a689a63986de7576b49?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f49a5876a51a4307bd2bb3?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 19 |
-| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f493d19a63986de7576306?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f4952c76a51a4307bd253c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/68cd8ce2e23def7af55bba80?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (St.Louis)](https://jobright.ai/jobs/info/68b9cb3c5f38327491860d1c?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Oct 18 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68bb729b5f3832749186f3a3?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 18 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb9a2e8043103d4f22a04f?utm_campaign=1050&utm_source=git)** | Titusville, NJ | Hybrid | Oct 18 |
-| **[Mortenson](https://www.mortenson.com)** | **[Strategy Analyst Intern / Mortenson](https://jobright.ai/jobs/info/689ce2eafaa4e875e826b890?utm_campaign=1050&utm_source=git)** | Minnesota, United States | On Site | Oct 18 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 18 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Controls Intern - Construction (Wallingford)](https://jobright.ai/jobs/info/68b9d2408043103d4f21ac5c?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Oct 18 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99795f383274918709aa?utm_campaign=1050&utm_source=git)** | Raritan, NJ | Hybrid | Oct 18 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast)](https://jobright.ai/jobs/info/68c65f6f7d0db41142739421?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Oct 18 |
-| **[Leadership In Flight Training Academy](www.flywithlift.com)** | **[Corporate Culture and Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68bbf0948043103d4f22db52?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 18 |
-| **[Middlesex County, NJ - County Government](http://www.middlesexcountynj.gov)** | **[Executive Assistant Internship](https://jobright.ai/jobs/info/68f392469a65fd34585877ab?utm_campaign=1050&utm_source=git)** | US-NJ-New Brunswick | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

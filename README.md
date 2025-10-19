@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f4952c76a51a4307bd253c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f4b36f9a63986de7577448?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Indiana State University (Summer 2026)](https://jobright.ai/jobs/info/68f4b2359a65fd345858c1a5?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Oct 19 |
+| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68f4af5f9a63986de757727a?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68f4af1a9a63986de7577274?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68f4aeb09a63986de757725e?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68f4a9419a65fd345858bde0?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f4a9419a65fd345858bde1?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 19 |
+| ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49f179a63986de7576d01?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
+| ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49a689a63986de7576b49?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f49a5876a51a4307bd2bb3?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 19 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f493d19a63986de7576306?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68bb39ba6105227d118a44a1?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Oct 18 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Global Supply Chain intern](https://jobright.ai/jobs/info/68d6cd4a894705799a2edde1?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Oct 18 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (San Antonio, TX)](https://jobright.ai/jobs/info/68bb40f66105227d118a488c?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 18 |
-| **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68bb78445f3832749186f5ec?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Oct 18 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (North)](https://jobright.ai/jobs/info/68f374729a63986de757233c?utm_campaign=1050&utm_source=git)** | Ocala, FL | Hybrid | Oct 18 |
-| **[Mariner](http://www.marinerwealthadvisors.com/)** | **[Intern, Practice Management](https://jobright.ai/jobs/info/68c65edfdb52c07d28847e11?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (Central)](https://jobright.ai/jobs/info/68f36fcd9a63986de757215d?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Oct 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Operations) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68d7784b7a37c712687ce8c4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 18 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Supply Chain Graduate Intern](https://jobright.ai/jobs/info/68c2909503b99f6b34296172?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Oct 18 |
-| **[Potelco Inc](http://www.potelco.net/)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/68bb94506105227d118a7473?utm_campaign=1050&utm_source=git)** | Hubbard, OR | On Site | Oct 18 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (Central)](https://jobright.ai/jobs/info/68f36d179a63986de7572108?utm_campaign=1050&utm_source=git)** | Fort Pierce, FL | Hybrid | Oct 18 |
-| **[Arup](http://www.arup.com)** | **[Project & Commercial Management Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba7b928043103d4f220e26?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Oct 18 |
-| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (North)](https://jobright.ai/jobs/info/68f36c849a65fd3458586db7?utm_campaign=1050&utm_source=git)** | Gainesville, FL | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

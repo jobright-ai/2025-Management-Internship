@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
+| ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
+| **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f4041e9a63986de757428a?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Oct 18 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68f401a276a51a4307bd02e0?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Oct 18 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68f4011276a51a4307bd02b1?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Oct 18 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Player Operations Intern 2026](https://jobright.ai/jobs/info/68f3f53c9a65fd3458588cf5?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Oct 18 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f3f07676a51a4307bcffe5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68f3f0459a63986de7573f4f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 18 |
-| **[Trippy Goat Vodka](http://www.trippygoat.com)** | **[Technology Intern / Business Analyst & Project Coordinator (In-Office)](https://jobright.ai/jobs/info/68f3eb579a63986de7573e25?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | Hybrid | Oct 18 |
 | **[Structonix](structonix.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/68f3d7b89a65fd345858876b?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68bb78885f3832749186f63f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68bb78b16105227d118a6390?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
@@ -80,10 +82,10 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c400033bef502c86f53?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb797b8043103d4f228dac?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Oct 18 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/68f3af0276a51a4307bcf4e3?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Small & Medium Enterprises / Global & Large Sales, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d7203c45853d0e39ccd11b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, New York, NY - USA 2026](https://jobright.ai/jobs/info/68d70ac8d3fe025a3015e635?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| ↳ | **[U.S. Personal Banking Summer Leadership Associate, Charlotte, NC - USA 2026](https://jobright.ai/jobs/info/68d713ce894705799a2f07b6?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Oct 18 |
+| **[ABB](https://global.abb/group/en)** | **[Inventory Control Intern Spring 2026](https://jobright.ai/jobs/info/68d496f9fcd3367e8df15ed1?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Oct 18 |
+| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, Charlotte, NC - USA 2026](https://jobright.ai/jobs/info/68d713ce894705799a2f07b6?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Oct 18 |
 | **[CSX](http://www.csx.com)** | **[Operations Project Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68d714aa894705799a2f08df?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Marketing Project Manager)](https://jobright.ai/jobs/info/68bb798e5f3832749186f74e?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | **[the LEGO Group](http://www.lego.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f3a6689a63986de757309b?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Oct 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Project & Commercial Management Intern (Available June 2026)](https://jobright.ai/jobs/info/68ba7b928043103d4f220e26?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Oct 18 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (North)](https://jobright.ai/jobs/info/68f36c849a65fd3458586db7?utm_campaign=1050&utm_source=git)** | Gainesville, FL | Hybrid | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[Logistics intern](https://jobright.ai/jobs/info/68f367679a63986de757202e?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Oct 18 |
-| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Business Strategy & Development Intern](https://jobright.ai/jobs/info/68b9c6628043103d4f21a3f3?utm_campaign=1050&utm_source=git)** | Orange, CT | On Site | Oct 18 |
-| ↳ | **[2026 Summer Business Strategy & Development Intern](https://jobright.ai/jobs/info/68b9c7555f38327491860c10?utm_campaign=1050&utm_source=git)** | Augusta, ME | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

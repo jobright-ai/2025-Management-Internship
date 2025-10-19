@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f542739a65fd345858d7eb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f542099a63986de7578afd?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68f52fc576a51a4307bd482d?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | **[Structonix](structonix.us)** | **[Supply Chain & Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/68f51a079a65fd345858d3b9?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Oct 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Oct 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Small & Medium Enterprises / Global & Large Sales, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d7203c45853d0e39ccd11b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, New York, NY - USA 2026](https://jobright.ai/jobs/info/68d70ac8d3fe025a3015e635?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| **[ABB](https://global.abb/group/en)** | **[Inventory Control Intern Spring 2026](https://jobright.ai/jobs/info/68d496f9fcd3367e8df15ed1?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Oct 18 |
-| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, Charlotte, NC - USA 2026](https://jobright.ai/jobs/info/68d713ce894705799a2f07b6?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Oct 18 |
-| **[CSX](http://www.csx.com)** | **[Operations Project Internship - Summer 2026 (Paid)](https://jobright.ai/jobs/info/68d714aa894705799a2f08df?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f542739a65fd345858d7eb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Spring 2026](https://jobright.ai/jobs/info/68f550f29a65fd345858d99f?utm_campaign=1050&utm_source=git)** | Baltimore | On Site | Oct 19 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68f546ae9a63986de7578bbd?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 19 |
+| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Food and Beverage Internship (Free Housing)](https://jobright.ai/jobs/info/68f546049a65fd345858d842?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Oct 19 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68f545a876a51a4307bd4b07?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f5455a76a51a4307bd4af2?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 19 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f543559a63986de7578b7b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 19 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f542739a65fd345858d7eb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f542099a63986de7578afd?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68f52fc576a51a4307bd482d?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | **[Structonix](structonix.us)** | **[Supply Chain & Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/68f51a079a65fd345858d3b9?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Oct 19 |
@@ -130,7 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49f179a63986de7576d01?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49a689a63986de7576b49?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f49a5876a51a4307bd2bb3?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 19 |
-| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f4952c76a51a4307bd253c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f493d19a63986de7576306?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Enterprise Strategy and Competitive Intelligence)](https://jobright.ai/jobs/info/68bb7b1e8043103d4f228f1a?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68c81b99f9c6ff7aedf0abf4?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Strategic Sourcing Analyst)](https://jobright.ai/jobs/info/68bb79638043103d4f228d92?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| ↳ | **[Summer Associate Internship (Procurement and Vendor Management Business Unit Liaison Analyst)](https://jobright.ai/jobs/info/68bb7bc08043103d4f228f8a?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c400033bef502c86f53?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb797b8043103d4f228dac?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Oct 18 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Small & Medium Enterprises / Global & Large Sales, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d7203c45853d0e39ccd11b?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
-| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, New York, NY - USA 2026](https://jobright.ai/jobs/info/68d70ac8d3fe025a3015e635?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

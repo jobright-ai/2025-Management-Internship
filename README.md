@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Structonix](structonix.us)** | **[Supply Chain & Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/68f51a079a65fd345858d3b9?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Oct 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68cd77911ad6b16f02899cb6?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 19 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Player Operations Intern 2026](https://jobright.ai/jobs/info/68f3f53c9a65fd3458588cf5?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Oct 18 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f3f07676a51a4307bcffe5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68f3f0459a63986de7573f4f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 18 |
-| **[Structonix](structonix.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/68f3d7b89a65fd345858876b?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68bb78885f3832749186f63f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68bb78b16105227d118a6390?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb78ab5f3832749186f65c?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Oct 18 |

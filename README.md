@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68f56c4976a51a4307bd4e59?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 19 |
+| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/68b0a9ee13563e782a9f8477?utm_campaign=1050&utm_source=git)** | San Diego | On Site | Oct 19 |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/68f565309a63986de7578ea6?utm_campaign=1050&utm_source=git)** | US-OR-Hubbard | On Site | Oct 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern Spring 2026](https://jobright.ai/jobs/info/68f550f29a65fd345858d99f?utm_campaign=1050&utm_source=git)** | Baltimore | On Site | Oct 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68f546ae9a63986de7578bbd?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 19 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Food and Beverage Internship (Free Housing)](https://jobright.ai/jobs/info/68f546049a65fd345858d842?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Oct 19 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f542739a65fd345858d7eb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f542099a63986de7578afd?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68f52fc576a51a4307bd482d?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
-| **[Structonix](structonix.us)** | **[Supply Chain & Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/68f51a079a65fd345858d3b9?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Oct 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68cd77911ad6b16f02899cb6?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb798f8043103d4f228dbf?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Marketing Project Manager)](https://jobright.ai/jobs/info/68bb7a238043103d4f228e32?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Oct 18 |
 | ↳ | **[Summer Associate Internship (Enterprise Strategy and Competitive Intelligence)](https://jobright.ai/jobs/info/68bb7b1e8043103d4f228f1a?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| ↳ | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68c81b99f9c6ff7aedf0abf4?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| ↳ | **[Summer Associate Internship (Strategic Sourcing Analyst)](https://jobright.ai/jobs/info/68bb79638043103d4f228d92?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

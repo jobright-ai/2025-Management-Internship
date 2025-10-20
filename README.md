@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f5afbb76a51a4307bd5a71?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Oct 19 |
+| **[Fortrea](https://www.fortrea.com)** | **[Intern - Project Manager](https://jobright.ai/jobs/info/68f5ad3d9a65fd345858e615?utm_campaign=1050&utm_source=git)** | Remote_United States | Remote | Oct 19 |
+| **[Apple](https://www.apple.com)** | **[FY26 Construction Project Manager Internship](https://jobright.ai/jobs/info/68f5a6c59a63986de7579662?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Oct 19 |
+| ↳ | **[FY26 Places Program Management and Operations (PMO) Program Manager Intern](https://jobright.ai/jobs/info/68f5a5939a65fd345858e2d4?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Oct 19 |
+| **[Bentley Systems](http://www.bentley.com)** | **[Operations Intern - Hawaii](https://jobright.ai/jobs/info/68f5976d9a65fd345858df1c?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 19 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Trustee Chair in Chinese Business and Economics (Fall 2025)](https://jobright.ai/jobs/info/68f56c4976a51a4307bd4e59?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 19 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/68b0a9ee13563e782a9f8477?utm_campaign=1050&utm_source=git)** | San Diego | On Site | Oct 19 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/68f565309a63986de7578ea6?utm_campaign=1050&utm_source=git)** | US-OR-Hubbard | On Site | Oct 19 |
@@ -137,7 +142,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49f179a63986de7576d01?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49a689a63986de7576b49?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f49a5876a51a4307bd2bb3?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 19 |
-| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f4952c76a51a4307bd253c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f493d19a63986de7576306?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68f3f0459a63986de7573f4f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68bb78885f3832749186f63f?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68bb78b16105227d118a6390?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
-| ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb78ab5f3832749186f65c?utm_campaign=1050&utm_source=git)** | Winchester, VA | On Site | Oct 18 |
-| ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb798f8043103d4f228dbf?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| ↳ | **[Summer Associate Internship (Marketing Project Manager)](https://jobright.ai/jobs/info/68bb7a238043103d4f228e32?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Oct 18 |
-| ↳ | **[Summer Associate Internship (Enterprise Strategy and Competitive Intelligence)](https://jobright.ai/jobs/info/68bb7b1e8043103d4f228f1a?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
-| ↳ | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68c81b99f9c6ff7aedf0abf4?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

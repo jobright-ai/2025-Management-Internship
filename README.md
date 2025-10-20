@@ -116,8 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/68dee38109bda65a4b62eca5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[SPX Technologies](https://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/68c152234d652f0447757156?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Oct 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/68cd430e1ad6b16f0289734c?utm_campaign=1050&utm_source=git)** | Hopkins, SC | On Site | Oct 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f4b9109a63986de7577471?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Oct 19 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f4b7959a65fd345858c1d1?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 19 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f4b7959a65fd345858c1d1?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68f4b71476a51a4307bd346f?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
 | ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68f4b6fc9a65fd345858c1c7?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f4b6b376a51a4307bd3466?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Oct 19 |
@@ -138,7 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49f179a63986de7576d01?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49a689a63986de7576b49?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f49a5876a51a4307bd2bb3?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 19 |
-| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f493d19a63986de7576306?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f4952c76a51a4307bd253c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb798f8043103d4f228dbf?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | ↳ | **[Summer Associate Internship (Marketing Project Manager)](https://jobright.ai/jobs/info/68bb7a238043103d4f228e32?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Oct 18 |
 | ↳ | **[Summer Associate Internship (Enterprise Strategy and Competitive Intelligence)](https://jobright.ai/jobs/info/68bb7b1e8043103d4f228f1a?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
+| ↳ | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68c81b99f9c6ff7aedf0abf4?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

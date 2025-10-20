@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DeAngelis Diamond](http://deangelisdiamond.com)** | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a2c484468ac21d6fabaadf?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Oct 20 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Project Management Office Clerk (Fall 2025 or Spring 2026)](https://jobright.ai/jobs/info/68da282a6df7b8311bb0cc6b?utm_campaign=1050&utm_source=git)** | Allen, TX | On Site | Oct 20 |
+| **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Oct 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - San Jose State University](https://jobright.ai/jobs/info/68f6045d76a51a4307bd8183?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 20 |
 | ↳ | **[Operations Intern - San Jose State University](https://jobright.ai/jobs/info/68f6026a9a65fd3458591019?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Oct 20 |
 | **[Beaufort County](https://www.beaufortcountysc.gov/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68f5ff2476a51a4307bd7f3c?utm_campaign=1050&utm_source=git)** | Beaufort, SC | On Site | Oct 20 |
@@ -129,20 +132,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d802017796a83635f0e39d?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Oct 19 |
 | **[Generac](https://www.generac.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68d8a7c9eed6e340d9e1c388?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Oct 19 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Strategy & Management Summer Associate Program - 2026](https://jobright.ai/jobs/info/68ccd9445954791a1d6ffa92?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Oct 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Texas Southern University](https://jobright.ai/jobs/info/68f4bea59a63986de75775b6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bbde2f6105227d118aa770?utm_campaign=1050&utm_source=git)** | Hamel, MN | On Site | Oct 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68f4bd799a65fd345858c31b?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 19 |
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Construction Project Management](https://jobright.ai/jobs/info/68bb7fbe5f3832749186f9b6?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Oct 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Arizona (Summer 2026)](https://jobright.ai/jobs/info/68f4bc0876a51a4307bd355b?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Oct 19 |
-| ↳ | **[Operations Intern - Minnesota State University, Mankato](https://jobright.ai/jobs/info/68f4bb9676a51a4307bd3555?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Operations Undergrad Intern](https://jobright.ai/jobs/info/68dee38109bda65a4b62eca5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
 | **[SPX Technologies](https://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/68c152234d652f0447757156?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Oct 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/68cd430e1ad6b16f0289734c?utm_campaign=1050&utm_source=git)** | Hopkins, SC | On Site | Oct 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f4b7959a65fd345858c1d1?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/68f4b71476a51a4307bd346f?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
-| ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68f4b6fc9a65fd345858c1c7?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f4b6b376a51a4307bd3466?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Oct 19 |
-| ↳ | **[Operations Intern - University of Minnesota Twin Cities](https://jobright.ai/jobs/info/68f4b5fe9a65fd345858c1b6?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Oct 19 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Business Operations Intern - Undergraduate](https://jobright.ai/jobs/info/68bb404a6105227d118a479a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Facilities Management](https://jobright.ai/jobs/info/68bb46486105227d118a4be8?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Oct 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f4b4099a63986de7577454?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 19 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49a689a63986de7576b49?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f49a5876a51a4307bd2bb3?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 19 |
 | **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f493d19a63986de7576306?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
+| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
+| ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
+| **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

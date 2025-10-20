@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern, Global Supply Management](https://jobright.ai/jobs/info/68f638109a65fd3458591a97?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Oct 20 |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship - Chief Operating Office - NC](https://jobright.ai/jobs/info/68be14efdf5eec448f63da74?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Oct 20 |
+| **[Think Academy U.S](http://www.thethinkacademy.com)** | **[Community Operations Intern](https://jobright.ai/jobs/info/6887c6174174df41e0fa0555?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 20 |
+| **[Fractionally Labs](https://www.fractionally.co)** | **[Fractionally Labs Internship Program — Builders Over Bystanders](https://jobright.ai/jobs/info/68f62bba9a65fd345859175b?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Oct 20 |
 | **[DeAngelis Diamond](http://deangelisdiamond.com)** | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a2c484468ac21d6fabaadf?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Oct 20 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Project Management Office Clerk (Fall 2025 or Spring 2026)](https://jobright.ai/jobs/info/68da282a6df7b8311bb0cc6b?utm_campaign=1050&utm_source=git)** | Allen, TX | On Site | Oct 20 |
 | **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Fall 2025)](https://jobright.ai/jobs/info/684c7a57dcc3603e717afad9?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Oct 20 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f543559a63986de7578b7b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 19 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/68f542739a65fd345858d7eb?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/68f542099a63986de7578afd?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 19 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Post Office Data & Business Operations Internship – Fall 2025](https://jobright.ai/jobs/info/68f52fc576a51a4307bd482d?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | On Site | Oct 19 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68cd77911ad6b16f02899cb6?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Oct 19 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49f179a63986de7576d01?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68f49a689a63986de7576b49?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 19 |
 | ↳ | **[Operations Intern - Utah Valley University (Summer 2026)](https://jobright.ai/jobs/info/68f49a5876a51a4307bd2bb3?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Oct 19 |
-| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f493d19a63986de7576306?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Manufacturing Operations Project Management](https://jobright.ai/jobs/info/68b939f9ea901c0d269fdb91?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
-| ↳ | **[Internship - R&D Project Specialist](https://jobright.ai/jobs/info/6898320afaa4e875e824b75b?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Oct 18 |
-| **[ShareWell](https://www.sharewellnow.com)** | **[Chief of Staff Intern – Office of the CEO](https://jobright.ai/jobs/info/68f436799a63986de75745a0?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 18 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/68f4952c76a51a4307bd253c?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

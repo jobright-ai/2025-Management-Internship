@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68f7133d9a63986de7584cac?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Oct 20 |
+| **[Moroch](https://www.moroch.com/)** | **[Intern](https://jobright.ai/jobs/info/68f7097a9a65fd34585995fc?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 20 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University Idaho](https://jobright.ai/jobs/info/68f7056e76a51a4307be04d0?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 20 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Basketball Pre-Draft](https://jobright.ai/jobs/info/68f703589a65fd3458599283?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Supply Chain Intern - Buffalo NY - R10211586](https://jobright.ai/jobs/info/68f700999a65fd3458599098?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Oct 20 |
 | **[TEALL Sports & Entertainment](http://teallcapital.com/)** | **[REVELxp - Hospitality Internship, Bulldog Suites at Mississippi State](https://jobright.ai/jobs/info/68f6ff4c9a63986de7584307?utm_campaign=1050&utm_source=git)** | Mississippi State, MS | On Site | Oct 20 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68f6fe7b76a51a4307be0003?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Oct 20 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[TW Constructors](https://twc-stl.com)** | **[Internship (Summer 2026)](https://jobright.ai/jobs/info/68e818abc4895107182c22de?utm_campaign=1050&utm_source=git)** | Greater St. Louis | On Site | Oct 20 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68f6a2d69a63986de7580abd?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Oct 20 |
 | **[IBM](http://www.ibm.com)** | **[Project Manager Intern: 2026](https://jobright.ai/jobs/info/68f6a26f9a65fd345859578e?utm_campaign=1050&utm_source=git)** | Durham, NC | Hybrid | Oct 20 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f6a1bb76a51a4307bdc956?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Oct 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68f6a0fd9a63986de7580821?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 20 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f6a01b76a51a4307bdc724?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 20 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Fuel Supply and Logistics Intern](https://jobright.ai/jobs/info/68f69fb99a63986de75806d3?utm_campaign=1050&utm_source=git)** | Media, PA | On Site | Oct 20 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f69c859a65fd345859521c?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68f69c0276a51a4307bdc358?utm_campaign=1050&utm_source=git)** | Kearney, NE | On Site | Oct 20 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f69bd076a51a4307bdc333?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Oct 20 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Project Manager](https://jobright.ai/jobs/info/68f69b9a76a51a4307bdc2f0?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Oct 20 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f69abe9a65fd3458595054?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Oct 20 |
+| ↳ | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f69abe9a65fd3458595054?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Oct 20 |
 | ↳ | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f695a79a63986de757feab?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 20 |
 | ↳ | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f694fe9a63986de757fe16?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Oct 20 |
 | **[HEICO](http://www.heico.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68f6c08376a51a4307bde115?utm_campaign=1050&utm_source=git)** | South Windsor, CT, 06074, United States | On Site | Oct 20 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Procurement Intern – Parts & Repair Services (Summer 2026) (Remote)](https://jobright.ai/jobs/info/68f694bf9a65fd3458594daa?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 20 |
 | **[National Beef Packing Company LLC](http://www.nationalbeef.com/)** | **[Operations Summer Internship](https://jobright.ai/jobs/info/68f693cf76a51a4307bdbdc5?utm_campaign=1050&utm_source=git)** | Selinsgrove, PA | On Site | Oct 20 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - Operations](https://jobright.ai/jobs/info/68f22ed8af0b5a06b584b019?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 20 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Supply Chain Intern - Buffalo NY](https://jobright.ai/jobs/info/68f68e9a9a65fd34585945d7?utm_campaign=1050&utm_source=git)** | United States-New York-Buffalo | On Site | Oct 20 |
-| **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Strategy MBA](https://jobright.ai/jobs/info/68f68dd576a51a4307bdb7e4?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

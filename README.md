@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Imagine Ink Studio](www.imagineinkstudio.com)** | **[Operations & Administrative Intern](https://jobright.ai/jobs/info/68f7133d9a63986de7584cac?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Oct 20 |
 | **[Moroch](https://www.moroch.com/)** | **[Intern](https://jobright.ai/jobs/info/68f7097a9a65fd34585995fc?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 20 |
+| **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Internship](https://jobright.ai/jobs/info/68f359169a63986de7571ab6?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Oct 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University Idaho](https://jobright.ai/jobs/info/68f7056e76a51a4307be04d0?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 20 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Basketball Pre-Draft](https://jobright.ai/jobs/info/68f703589a65fd3458599283?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Supply Chain Intern - Buffalo NY - R10211586](https://jobright.ai/jobs/info/68f700999a65fd3458599098?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Oct 20 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f69cf69a65fd34585952e1?utm_campaign=1050&utm_source=git)** | Haslet, TX | On Site | Oct 20 |
 | ↳ | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f69c859a65fd345859521c?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68f69c0276a51a4307bdc358?utm_campaign=1050&utm_source=git)** | Kearney, NE | On Site | Oct 20 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f69bd076a51a4307bdc333?utm_campaign=1050&utm_source=git)** | Lowell, AR | On Site | Oct 20 |
-| ↳ | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f69abe9a65fd3458595054?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Oct 20 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - IT Project Manager](https://jobright.ai/jobs/info/68f69b9a76a51a4307bdc2f0?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Oct 20 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f69abe9a65fd3458595054?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Oct 20 |
 | ↳ | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f695a79a63986de757feab?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 20 |
 | ↳ | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f694fe9a63986de757fe16?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Oct 20 |
 | **[HEICO](http://www.heico.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68f6c08376a51a4307bde115?utm_campaign=1050&utm_source=git)** | South Windsor, CT, 06074, United States | On Site | Oct 20 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Procurement Intern – Parts & Repair Services (Summer 2026) (Remote)](https://jobright.ai/jobs/info/68f694bf9a65fd3458594daa?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Hybrid | Oct 20 |
 | **[National Beef Packing Company LLC](http://www.nationalbeef.com/)** | **[Operations Summer Internship](https://jobright.ai/jobs/info/68f693cf76a51a4307bdbdc5?utm_campaign=1050&utm_source=git)** | Selinsgrove, PA | On Site | Oct 20 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - Operations](https://jobright.ai/jobs/info/68f22ed8af0b5a06b584b019?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

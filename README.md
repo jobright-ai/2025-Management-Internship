@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Inc.](https://www.primeinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68f8686b6de2db04dc3dee4c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Oct 21 |
+| **[The City University of New York](http://cuny.edu)** | **[Executive Director for Student Financial Services](https://jobright.ai/jobs/info/68f86044a628d10664e82522?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Oct 21 |
+| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Greenwood Warehouse,](https://jobright.ai/jobs/info/68f859b94bafad6d2d761e4a?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Oct 21 |
+| **[MedStar Health](http://www.medstarhealth.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/68f858e3a628d10664e82034?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Chicago Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68f852f26de2db04dc3ddf87?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | ↳ | **[Miami Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68f850174bafad6d2d7616f1?utm_campaign=1050&utm_source=git)** | Coral Gables, FL | Hybrid | Oct 21 |
 | ↳ | **[St. Louis Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68f84fa06de2db04dc3ddd20?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Oct 21 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68f82b0a5dc1be6012821709?utm_campaign=1050&utm_source=git)** | Walworth, NY | On Site | Oct 21 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Business Strategy and Innovation](https://jobright.ai/jobs/info/68f82ab7ec6dbe7073fd193d?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Oct 21 |
 | **[Zebrosys](www.zebrosys.com)** | **[Creative + Operations Assistant Intern](https://jobright.ai/jobs/info/68f82a91ec6dbe7073fd192e?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 21 |
-| **[Valorantum](valorantum.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/68f82964ec6dbe7073fd1899?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Oct 21 |
 | **[International Workplace Group plc](http://www.iwgplc.com)** | **[Operations Project Intern](https://jobright.ai/jobs/info/68f824eb5dc1be6012821519?utm_campaign=1050&utm_source=git)** | Addison, TX | Remote | Oct 21 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Graduate Engineering Intern - Project Management](https://jobright.ai/jobs/info/68f823525dc1be6012821433?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Oct 21 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68f81f64b0edcf159dc8ec9d?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Oct 21 |
@@ -104,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Teamficient Ecuador](https://teamficient.com/)** | **[Onsite Bilingual Administrative Coordinator](https://jobright.ai/jobs/info/68f81545ec6dbe7073fd0ffd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | **[Signify](https://www.signify.com)** | **[Project Manager Intern, Cooper Lighting Solutions - Spring 2026](https://jobright.ai/jobs/info/68f7ff085dc1be601281fd53?utm_campaign=1050&utm_source=git)** | Peachtree City | On Site | Oct 21 |
 | **[Home Chef](https://www.homechef.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68f80983ec6dbe7073fd0a37?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
-| **[Signify](https://www.signify.com)** | **[Project Manager Intern, Cooper Lighting Solutions - Spring 2026](https://jobright.ai/jobs/info/68f809345dc1be60128207cd?utm_campaign=1050&utm_source=git)** | Peachtree City, GA | On Site | Oct 21 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/68f8090eec6dbe7073fd0996?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Oct 21 |
 | **[Oshkosh Defense](https://oshkoshdefense.com)** | **[Operations Excellence Intern (Summer 2026)](https://jobright.ai/jobs/info/68f8088fb0edcf159dc8df70?utm_campaign=1050&utm_source=git)** | Spartanburg, SC | On Site | Oct 21 |
+| **[Signify](https://www.signify.com)** | **[Project Manager Intern, Cooper Lighting Solutions - Spring 2026](https://jobright.ai/jobs/info/68f8085e5dc1be60128206c8?utm_campaign=1050&utm_source=git)** | Peachtree City, GA | On Site | Oct 21 |
 | **[Kansas State University](http://www.k-state.edu/)** | **[Executive Assistant I](https://jobright.ai/jobs/info/68f807f95dc1be601282064c?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Oct 21 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Catering Operations (Summer 2026)](https://jobright.ai/jobs/info/68f80652b0edcf159dc8dd0f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - New Mexico State University](https://jobright.ai/jobs/info/68f80602ec6dbe7073fd065d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 21 |
@@ -120,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern , Portfolio Strategy (Renewables & Flexible Power)](https://jobright.ai/jobs/info/68f7fd245dc1be601281fa51?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Oct 21 |
 | **[Protiviti](http://www.protiviti.com)** | **[Atlanta Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68f7fcffec6dbe7073fcfba4?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Oct 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68f7fc105dc1be601281f8da?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 21 |
-| **[Celestial AI](https://celestial.ai)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f7fbecb0edcf159dc8d1e4?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Oct 21 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Private Wealth Management Family Office](https://jobright.ai/jobs/info/68f7fbe4b0edcf159dc8d1dd?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Primient](https://primient.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/68f7fb96ec6dbe7073fcf9a8?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Oct 21 |
 | **[Tillamook County Creamery Association](https://www.tillamook.com/)** | **[2026 Summer Internship - IT Data & Analytics](https://jobright.ai/jobs/info/68f7fb60ec6dbe7073fcf95c?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Oct 21 |
@@ -133,13 +135,13 @@ For a complete list, click the following sortable link below:
 | **[Medtronic](https://www.medtronic.com)** | **[Summer 2026 MBA Corporate Development Internship](https://jobright.ai/jobs/info/68f01e55de50091dbfa51cd3?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Oct 21 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/68f7f4c7b0edcf159dc8ca95?utm_campaign=1050&utm_source=git)** | Egg Harbor, NJ | On Site | Oct 21 |
 | **[ABB](https://global.abb/group/en)** | **[Inventory Control Intern Spring 2026](https://jobright.ai/jobs/info/68d496f9fcd3367e8df15ed1?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Oct 21 |
+| **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2026](https://jobright.ai/jobs/info/68f7f360b0edcf159dc8c824?utm_campaign=1050&utm_source=git)** | Reston, VA | Hybrid | Oct 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/68f7f296ec6dbe7073fceffd?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Oct 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f7f27e5dc1be601281ed67?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Oct 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f7f227ec6dbe7073fcef34?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 21 |
 | **[Ikigai Cases](www.ikigaicases.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68f7f1f1ec6dbe7073fceedc?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 21 |
 | **[Medtronic](https://www.medtronic.com)** | **[Summer 2026 MBA Internship](https://jobright.ai/jobs/info/68f01da7de50091dbfa51c1f?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f7f0adb0edcf159dc8c2cc?utm_campaign=1050&utm_source=git)** | Temecula, CA | On Site | Oct 21 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2026](https://jobright.ai/jobs/info/68f7f0715dc1be601281ea93?utm_campaign=1050&utm_source=git)** | Reston, VA | Hybrid | Oct 21 |
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Spring 2026 - College Intern - Bonita Springs, FL (Front Office, Food & Beverage, Recreation, and Housekeeping)](https://jobright.ai/jobs/info/68f7f035b0edcf159dc8c204?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Oct 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f7efd6ec6dbe7073fceb7d?utm_campaign=1050&utm_source=git)** | Tracy, CA | On Site | Oct 21 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Strategy (Hybrid)](https://jobright.ai/jobs/info/68f7ed32ec6dbe7073fce9b2?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina | Hybrid | Oct 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Whitetail Club](https://whitetailclub.com)** | **[Whitetail Club Management Intern](https://jobright.ai/jobs/info/68f7e4985dc1be601281da32?utm_campaign=1050&utm_source=git)** | Shore Lodge Whitetail Club | On Site | Oct 21 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Hendersonville](https://jobright.ai/jobs/info/68f7e45eec6dbe7073fcdc42?utm_campaign=1050&utm_source=git)** | Madison | On Site | Oct 21 |
 | ↳ | **[Summer 2026 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/68f7e448b0edcf159dc8b3b1?utm_campaign=1050&utm_source=git)** | Brookline | On Site | Oct 21 |
-| **[RLC Engineering](http://www.rlc-eng.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68f7e41eec6dbe7073fcdbcb?utm_campaign=1050&utm_source=git)** | South Portland | On Site | Oct 21 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Internship, Corporate Innovation (Summer 2026)](https://jobright.ai/jobs/info/68f7e10bb0edcf159dc8b22d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | Hybrid | Oct 23 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Operations Intern (Summer 2026) - Broken Arrow, OK](https://jobright.ai/jobs/info/68d5593239247e3c807ea4ad?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Oct 23 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/68de937f09bda65a4b62b2f4?utm_campaign=1050&utm_source=git)** | Warrensville Heights, OH | On Site | Oct 23 |
+| **[Teleflex](http://www.teleflex.com)** | **[GSC L&D Operations Supervisor Intern](https://jobright.ai/jobs/info/68cccf5efa466330fef91bdd?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Oct 23 |
+| **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68e813e809580a2fe57f3563?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 23 |
+| **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Spring/Summer 2026](https://jobright.ai/jobs/info/68dcc329accfd24b67e59ccd?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Oct 23 |
+| **[fairlife, LLC](http://www.fairlife.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68fa1c0dfa86ef748cc282d8?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Oct 23 |
+| **[DeAngelis Diamond](http://deangelisdiamond.com)** | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a4bf902d2a252445cd8cbc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 23 |
+| ↳ | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a4c0c1e9f1c744da123c35?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 23 |
+| **[Revantage, A Blackstone Portfolio Company](https://www.revantage.com/)** | **[Engagement Intern, Summer 2026-Dallas](https://jobright.ai/jobs/info/68caee64d905e25191d9d901?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Oct 23 |
 | **[Waystar](http://www.waystar.com)** | **[Business Transformation/Growth Internship (Summer 2026)](https://jobright.ai/jobs/info/68c21f9663b706703e111ce6?utm_campaign=1050&utm_source=git)** | Duluth, GA | Hybrid | Oct 23 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Spring 2026 (Memphis)](https://jobright.ai/jobs/info/68c22fa233864f172f9bdb54?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Oct 23 |
 | **[PGA of America](http://www.pga.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/68dd9130a125e75c422ac352?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Oct 23 |
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/68dd7ed7a125e75c422ab439?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Oct 23 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Digital Strategy Associate](https://jobright.ai/jobs/info/68c1e39b233c7d3e64d05972?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 23 |
@@ -73,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68cd0401e8e0b73af72bf8ad?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68cddfc41ad6b16f0289f95e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 23 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/68d8ee03061b716fa2959ac3?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Oct 23 |
+| **[Crux Subsurface, Inc.](https://www.cruxsub.com/)** | **[Project Manager Internship](https://jobright.ai/jobs/info/68ddfbdb09bda65a4b6258bb?utm_campaign=1050&utm_source=git)** | Boise, ID | Hybrid | Oct 23 |
 | **[Egotechworld](https://egotechworld.com/)** | **[Project Intern](https://jobright.ai/jobs/info/68f9f935089c7e2b4457fa09?utm_campaign=1050&utm_source=git)** | Mobile, AL | Remote | Oct 23 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Logistics Specialist Intern - The Toro Company](https://jobright.ai/jobs/info/68ce2384b2a74e1837edf9f6?utm_campaign=1050&utm_source=git)** | Hennepin County, MN | On Site | Oct 23 |
 | **[ITT Inc.](http://www.itt.com)** | **[2026 Summer Intern – Supply Chain](https://jobright.ai/jobs/info/68c54ae97d0db4114273377d?utm_campaign=1050&utm_source=git)** | Orchard Park, NY | On Site | Oct 23 |
@@ -146,16 +158,4 @@ GASTON, SC](https://jobright.ai/jobs/info/68f9ad717b89366816033609?utm_campaign=
 | **[RevTech Labs Foundation](https://www.revtechlabs.co/)** | **[Program Coordinator](https://jobright.ai/jobs/info/68f961d8a628d10664e8ca18?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Oct 22 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Business Operations and Leadership Internship - Summer 2026](https://jobright.ai/jobs/info/68f9e3978a7359609b8c756e?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Oct 22 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f9e2ca7ab77a56387e7efb?utm_campaign=1050&utm_source=git)** | Buena Park, CA | On Site | Oct 22 |
-| **[East-West](https://www.eastwest.org)** | **[Digital Strategies Intern](https://jobright.ai/jobs/info/68f94066a628d10664e8b0fc?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Oct 22 |
-| **[Target](https://www.target.com)** | **[Store Assets Protection Executive Intern (Store Loss Prevention Leadership Intern) - Wheaton/Rockville/Brandywine/Oxon Hill, Maryland (Starting Summer 2026)](https://jobright.ai/jobs/info/68f93ff5a628d10664e8b065?utm_campaign=1050&utm_source=git)** | Silver Spring, MD | Hybrid | Oct 22 |
-| **[Sunoco LP](https://www.sunocolp.com)** | **[Interns -Supply & Trading](https://jobright.ai/jobs/info/68f93f2d6de2db04dc3e743f?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | Oct 22 |
-| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Distribution Center Supervisor - Renton, WA](https://jobright.ai/jobs/info/68f93ea1cadb2e5a06a62e0d?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Oct 22 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Project Manager](https://jobright.ai/jobs/info/68f93dff6de2db04dc3e72bb?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Oct 22 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center - Fridley, MN](https://jobright.ai/jobs/info/68f93d7f6de2db04dc3e7214?utm_campaign=1050&utm_source=git)** | Fridley, MN | Hybrid | Oct 22 |
-| **[Tokio Marine North America Services](https://tmnas.com)** | **[Summer Rotational Internship](https://jobright.ai/jobs/info/68f93869a628d10664e8a934?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Oct 22 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern (DoD SkillBridge) Template](https://jobright.ai/jobs/info/68f9372ca628d10664e8a84f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[Project Management Intern (DoD SkillBridge) Template](https://jobright.ai/jobs/info/68f93638a628d10664e8a799?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Oct 22 |
-| ↳ | **[Project Management Intern (DoD SkillBridge) Template](https://jobright.ai/jobs/info/68f9362fa628d10664e8a795?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| ↳ | **[Project Management Intern (DoD SkillBridge) Template](https://jobright.ai/jobs/info/68f934b2a628d10664e8a64e?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Oct 22 |
-| ↳ | **[Project Management Intern (DoD SkillBridge) Template](https://jobright.ai/jobs/info/68f934b1cadb2e5a06a6263f?utm_campaign=1050&utm_source=git)** | Manchester, NH | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

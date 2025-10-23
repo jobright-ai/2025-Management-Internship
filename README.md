@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Creator and Content Ads - Monetization Product) 2025 Start (MBA)](https://jobright.ai/jobs/info/68f9c0de7b89366816034057?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Oct 22 |
 | **[American Friends Service Committee](https://www.afsc.org/)** | **[GSO, Events and Administrative Intern](https://jobright.ai/jobs/info/68f9b6d5cadb2e5a06a673cc?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Oct 22 |
+| **[University of Memphis](https://memphis.edu)** | **[Assistant Director, Athletic Business Operations](https://jobright.ai/jobs/info/68f9cdf6cadb2e5a06a67cc0?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Oct 22 |
 | **[Ericsson](https://www.ericsson.com)** | **[Project Planner - Intern](https://jobright.ai/jobs/info/68f9aebb7b8936681603368d?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Oct 22 |
 | **[Alpek Polyester USA](https://alpekpolyesterusacareers.com/)** | **[SPRING 2026 INTERN – SUPPLY CHAIN JOB
 GASTON, SC](https://jobright.ai/jobs/info/68f9ad717b89366816033609?utm_campaign=1050&utm_source=git)** | Gaston, SC | On Site | Oct 22 |
@@ -154,8 +155,7 @@ GASTON, SC](https://jobright.ai/jobs/info/68f9ad717b89366816033609?utm_campaign=
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Analyst (Customer Experience Group) (Hybrid)](https://jobright.ai/jobs/info/68f93f8ba628d10664e8afdb?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina | Hybrid | Oct 22 |
 | **[ITW Global Tire Repair](https://www.itwgtr.com/)** | **[Supply Chain Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f91feacadb2e5a06a6168e?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 22 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026 (Clarke)](https://jobright.ai/jobs/info/68f91f04cadb2e5a06a6160f?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Oct 22 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f953b6a628d10664e8c1c2?utm_campaign=1050&utm_source=git)** | Connecticut | Hybrid | Oct 22 |
-| ↳ | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f952696de2db04dc3e84d9?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Oct 22 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f952696de2db04dc3e84d9?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Oct 22 |
+| ↳ | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f953b6a628d10664e8c1c2?utm_campaign=1050&utm_source=git)** | Connecticut | Hybrid | Oct 22 |
 | **[Amplify Graphics & Branding](http://www.amplifycan.com)** | **[Internship - Graphic Design / Project Administrator](https://jobright.ai/jobs/info/68f91ce5cadb2e5a06a6146c?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Oct 22 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f9197da628d10664e893b1?utm_campaign=1050&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

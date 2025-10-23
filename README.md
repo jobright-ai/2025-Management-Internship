@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Viasat](http://www.viasat.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/68f9a2fdcadb2e5a06a66848?utm_campaign=1050&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Creator and Content Ads - Monetization Product) 2025 Start (MBA)](https://jobright.ai/jobs/info/68f9c0de7b89366816034057?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Oct 22 |
+| **[American Friends Service Committee](https://www.afsc.org/)** | **[GSO, Events and Administrative Intern](https://jobright.ai/jobs/info/68f9b6d5cadb2e5a06a673cc?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Oct 22 |
+| **[Ericsson](https://www.ericsson.com)** | **[Project Planner - Intern](https://jobright.ai/jobs/info/68f9aebb7b8936681603368d?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Oct 22 |
+| **[Alpek Polyester USA](https://alpekpolyesterusacareers.com/)** | **[SPRING 2026 INTERN – SUPPLY CHAIN JOB
+GASTON, SC](https://jobright.ai/jobs/info/68f9ad717b89366816033609?utm_campaign=1050&utm_source=git)** | Gaston, SC | On Site | Oct 22 |
+| **[Viasat](http://www.viasat.com)** | **[Business Operations Program Management Intern](https://jobright.ai/jobs/info/68df5049fe896042b0b79614?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | Hybrid | Oct 22 |
+| ↳ | **[Supply Planning Intern](https://jobright.ai/jobs/info/68f9a2fdcadb2e5a06a66848?utm_campaign=1050&utm_source=git)** | Duluth, GA | Hybrid | Oct 22 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f99e1bcadb2e5a06a6653f?utm_campaign=1050&utm_source=git)** | McCook, IL | On Site | Oct 22 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68f99e0dcadb2e5a06a66535?utm_campaign=1050&utm_source=git)** | Antioch, TN | On Site | Oct 22 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/68f99cf56de2db04dc3ea97d?utm_campaign=1050&utm_source=git)** | Holladay, TN | On Site | Oct 22 |
@@ -106,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Operations / Bolingbrook, IL](https://jobright.ai/jobs/info/68f87d8b4bafad6d2d76321e?utm_campaign=1050&utm_source=git)** | Bolingbrook, IL | On Site | Oct 22 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Analyst (Customer Experience Group) (Hybrid)](https://jobright.ai/jobs/info/68f94b056de2db04dc3e7f08?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Hybrid | Oct 22 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Project Manager Intern](https://jobright.ai/jobs/info/68f948cfa628d10664e8b7eb?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Oct 22 |
-| **[Gallagher Construction Company](http://gallaghertx.com)** | **[Intern - Project Managment](https://jobright.ai/jobs/info/68f99839a628d10664e8e1d1?utm_campaign=1050&utm_source=git)** | Richardson, TX | On Site | Oct 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68f9476ea628d10664e8b6a6?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 22 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Project Management & Operations Internship Winter/Spring 2026](https://jobright.ai/jobs/info/68f944c7cadb2e5a06a632e5?utm_campaign=1050&utm_source=git)** | New York, New York | On Site | Oct 22 |
 | **[RevTech Labs Foundation](https://www.revtechlabs.co/)** | **[Program Coordinator](https://jobright.ai/jobs/info/68f961d8a628d10664e8ca18?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Oct 22 |
@@ -142,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Category Management Intern](https://jobright.ai/jobs/info/68f92b216de2db04dc3e60e3?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Oct 22 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Sales Project Manager Intern](https://jobright.ai/jobs/info/68f92a766de2db04dc3e5fff?utm_campaign=1050&utm_source=git)** | Neenah, Wisconsin | Hybrid | Oct 22 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Project Manager Intern - Highland Heights](https://jobright.ai/jobs/info/68f929f6cadb2e5a06a61b9a?utm_campaign=1050&utm_source=git)** | US-OH-Highland Heights | On Site | Oct 22 |
-| **[Conversations to Remember](http://www.ConversationsToRemember.org)** | **[Nonprofit Public Health Internship - Administrator / project coordinator](https://jobright.ai/jobs/info/68f948b2cadb2e5a06a636f6?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Strategy & Performance](https://jobright.ai/jobs/info/68f9285bcadb2e5a06a61a87?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Oct 22 |
 | **[Amplify Graphics & Branding](http://www.amplifycan.com)** | **[Internship - Graphic Design / Project Administrator](https://jobright.ai/jobs/info/68f925daa628d10664e89b25?utm_campaign=1050&utm_source=git)** | West Allis, WI | Hybrid | Oct 22 |
 | **[DP World](https://www.dpworld.com/)** | **[Business Operations (Port) Intern](https://jobright.ai/jobs/info/68f9231ea628d10664e89982?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Oct 22 |
@@ -150,11 +154,8 @@ For a complete list, click the following sortable link below:
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Analyst (Customer Experience Group) (Hybrid)](https://jobright.ai/jobs/info/68f93f8ba628d10664e8afdb?utm_campaign=1050&utm_source=git)** | Raleigh, North Carolina | Hybrid | Oct 22 |
 | **[ITW Global Tire Repair](https://www.itwgtr.com/)** | **[Supply Chain Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f91feacadb2e5a06a6168e?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 22 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026 (Clarke)](https://jobright.ai/jobs/info/68f91f04cadb2e5a06a6160f?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Oct 22 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f952696de2db04dc3e84d9?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Oct 22 |
-| ↳ | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f953b6a628d10664e8c1c2?utm_campaign=1050&utm_source=git)** | Connecticut | Hybrid | Oct 22 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f953b6a628d10664e8c1c2?utm_campaign=1050&utm_source=git)** | Connecticut | Hybrid | Oct 22 |
+| ↳ | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/68f952696de2db04dc3e84d9?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Oct 22 |
 | **[Amplify Graphics & Branding](http://www.amplifycan.com)** | **[Internship - Graphic Design / Project Administrator](https://jobright.ai/jobs/info/68f91ce5cadb2e5a06a6146c?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Oct 22 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f9197da628d10664e893b1?utm_campaign=1050&utm_source=git)** | Silver Spring, MD USA | Hybrid | Oct 22 |
-| **[Pinnacle Healthcare Consulting](https://askphc.com/)** | **[Intern](https://jobright.ai/jobs/info/68f911f96de2db04dc3e500a?utm_campaign=1050&utm_source=git)** | Pinnacle Healthcare Consulting LLC, Centennial, CO, US | On Site | Oct 22 |
-| **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Construction Project Manager - Internship/Co-Op](https://jobright.ai/jobs/info/68e974a365768b6412b1c502?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 22 |
-| **[The Essentials | Redesign, Staging & Real Estate Photography](http://www.theessentials.biz/)** | **[Intern](https://jobright.ai/jobs/info/68f90c53cadb2e5a06a607b2?utm_campaign=1050&utm_source=git)** | Pinnacle Healthcare Consulting LLC, Centennial, CO, US | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

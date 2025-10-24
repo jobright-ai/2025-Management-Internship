@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[US-China Education Trust](http://www.uscet.org)** | **[Program & Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68fb2b189e8e925ac6c89506?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 24 |
+| **[Dollar General](https://www.dollargeneral.com/)** | **[2026 Warehouse Operations Intern- Atlanta, GA](https://jobright.ai/jobs/info/68fb2402e154835f11ef9d36?utm_campaign=1050&utm_source=git)** | ATLANTA, Georgia | On Site | Oct 24 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern,Project Management in Manufacturing (Winter 2026)](https://jobright.ai/jobs/info/68d725f7894705799a2f103c?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Oct 23 |
 | **[Siemens](https://www.siemens.com)** | **[Smart Infrastructure Electrical Products Operations Leadership Development Program Internship](https://jobright.ai/jobs/info/68fb017b9e8e925ac6c8843e?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Oct 23 |
 | **[PlayStation](https://www.playstation.com/)** | **[Project Management Intern - Undergraduate](https://jobright.ai/jobs/info/68fb001e9e8e925ac6c883d8?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Oct 23 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/68fafa609e8e925ac6c8812b?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 23 |
@@ -102,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Dalton](https://jobright.ai/jobs/info/68facf088d32c164778cb870?utm_campaign=1050&utm_source=git)** | Dalton | On Site | Oct 23 |
 | **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/68faceae3c99cc1d960265ca?utm_campaign=1050&utm_source=git)** | US-CA-Inland Empire Area of Southern California | On Site | Oct 23 |
 | **[Gerdau North America](http://www.gerdau.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68d6e75d894705799a2eea7e?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Oct 23 |
+| **[Jack Henry](http://www.jackhenry.com)** | **[Strategic Project Manager, Intern - Summer 2026](https://jobright.ai/jobs/info/68fb2ccc9e8e925ac6c896ab?utm_campaign=1050&utm_source=git)** | Monett, MO | On Site | Oct 23 |
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Product Modification - Summer 2026](https://jobright.ai/jobs/info/68e45610b99ec3563b0e953d?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Oct 23 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - IT Program Management: Objective & Key Results Framework & Delivery Excellence](https://jobright.ai/jobs/info/68fabb60b2c86843bf2117c6?utm_campaign=1050&utm_source=git)** | Headquarters, NJ | Hybrid | Oct 23 |
 | **[Parity](https://parityhomes.com)** | **[Process Operations Internship](https://jobright.ai/jobs/info/68fabb3167272b29af7331e2?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Merchants Corporation](https://www.firstmerchants.com)** | **[Intern - Consumer Banking (Indianapolis North)](https://jobright.ai/jobs/info/68fa84f167272b29af730419?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 23 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Corporate Development MBA Intern - Summer 2026](https://jobright.ai/jobs/info/68fa848b67272b29af730390?utm_campaign=1050&utm_source=git)** | US, CA, Santa Clara | On Site | Oct 23 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - TAMO](https://jobright.ai/jobs/info/68f91e9e6de2db04dc3e5a6f?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfcd5128dc347fd91ced4?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Oct 23 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Operation & Administration Intern - UNPAID](https://jobright.ai/jobs/info/68fa827fb2c86843bf20e6c2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
-| **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cceea077add66568abc175?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Oct 23 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Operations Intern - Mercatus Center](https://jobright.ai/jobs/info/68fa8032edd190144238d3fe?utm_campaign=1050&utm_source=git)** | Virginia | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

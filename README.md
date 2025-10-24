@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com)** | **[Smart Infrastructure Electrical Products Operations Leadership Development Program Internship](https://jobright.ai/jobs/info/68fb017b9e8e925ac6c8843e?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Oct 23 |
+| **[PlayStation](https://www.playstation.com/)** | **[Project Management Intern - Undergraduate](https://jobright.ai/jobs/info/68fb001e9e8e925ac6c883d8?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Oct 23 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/68fafa609e8e925ac6c8812b?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 23 |
+| ↳ | **[Operations Intern -Collin College](https://jobright.ai/jobs/info/68faf9633c99cc1d96028016?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 23 |
 | **[Protiviti](http://www.protiviti.com)** | **[Dallas Business Performance Improvement Intern - 2026](https://jobright.ai/jobs/info/68faf3799e8e925ac6c87d4a?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Oct 23 |
 | **[Amazon](https://amazon.com)** | **[Operations & Logistics Internship](https://jobright.ai/jobs/info/68faf3249e8e925ac6c87cfb?utm_campaign=1050&utm_source=git)** | Greater Jackson, MI Area | Hybrid | Oct 23 |
 | **[First Merchants Corporation](https://www.firstmerchants.com)** | **[Intern - Consumer Banking (Detroit South)](https://jobright.ai/jobs/info/68fae02a3c99cc1d96027173?utm_campaign=1050&utm_source=git)** | Plymouth, MI | On Site | Oct 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Operation & Administration Intern - UNPAID](https://jobright.ai/jobs/info/68fa827fb2c86843bf20e6c2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cceea077add66568abc175?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Oct 23 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Operations Intern - Mercatus Center](https://jobright.ai/jobs/info/68fa8032edd190144238d3fe?utm_campaign=1050&utm_source=git)** | Virginia | On Site | Oct 23 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Assistant Supervisor Internship](https://jobright.ai/jobs/info/68fa7f8aedd190144238d322?utm_campaign=1050&utm_source=git)** | Wisconsin | On Site | Oct 23 |
-| ↳ | **[Bakery Operations Management &amp; Continuous Improvement Internship](https://jobright.ai/jobs/info/68fa7ef0edd190144238d252?utm_campaign=1050&utm_source=git)** | Wisconsin | Hybrid | Oct 23 |
-| **[FedEx Freight](https://www.fedex.com/en-us/shipping/freight.html)** | **[Intern-Field Operations](https://jobright.ai/jobs/info/68fa7e3c67272b29af72fcbf?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Oct 23 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Assistant Supervisor Internship](https://jobright.ai/jobs/info/68fa7d61b2c86843bf20e145?utm_campaign=1050&utm_source=git)** | Sun Prairie | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

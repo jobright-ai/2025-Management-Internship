@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Dallas / Asset Management, Product Management / Summer Analyst](https://jobright.ai/jobs/info/68fc2b47f55bb021a88a11d1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
+| **[United States Olympic & Paralympic Committee](https://www.usapentathlon.org/)** | **[Fellow, Organizational Measurement](https://jobright.ai/jobs/info/68fc409c4129dd33cd13a2fe?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Ridgecrest Conference Center](https://ridgecrestconferencecenter.com)** | **[Internship: Facilities Admin -Live on-site](https://jobright.ai/jobs/info/68fc3c26f55bb021a88a1d3e?utm_campaign=1050&utm_source=git)** | Black Mountain, NC | On Site | Oct 24 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Supply Chain Analytics](https://jobright.ai/jobs/info/68fc3439f55bb021a88a1762?utm_campaign=1050&utm_source=git)** | Holtsville, NY | On Site | Oct 24 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fc32d4f55bb021a88a162f?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 24 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/68fc31ac4129dd33cd139aab?utm_campaign=1050&utm_source=git)** | Peru, IL | On Site | Oct 24 |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/68fc302293c49825ab10aa64?utm_campaign=1050&utm_source=git)** | US-OH-Morrow | On Site | Oct 24 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fc2fbd4129dd33cd139897?utm_campaign=1050&utm_source=git)** | Avon, IN | On Site | Oct 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68fc2f564129dd33cd13983c?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 24 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fc2d1793c49825ab10a7fe?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO | On Site | Oct 24 |
 | **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/68fc29d24129dd33cd139623?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Oct 24 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/68fc1b5993c49825ab109d7f?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Oct 24 |
 | ↳ | **[Claims Operations Intern](https://jobright.ai/jobs/info/68fc179593c49825ab109a1b?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Remote | Oct 24 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/68fc1704f55bb021a88a05c8?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Oct 24 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Project Manager (Winter/Spring 2026)](https://jobright.ai/jobs/info/68fc1557f55bb021a88a043a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 24 |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Dallas / Asset Management, Product Management / Summer Analyst](https://jobright.ai/jobs/info/68fc2b47f55bb021a88a11d1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/68fc07af93c49825ab108d4b?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Oct 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68fbfa6993c49825ab108449?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 24 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68fbf93393c49825ab10832c?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 24 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcbd3f55bb021a889c7a5?utm_campaign=1050&utm_source=git)** | MO, Working at Home - Montana | Hybrid | Oct 24 |
 | **[IDEMIA](https://www.idemia.com/)** | **[IT Purchasing Internship - Summer 2026](https://jobright.ai/jobs/info/68fbcbc0f55bb021a889c78a?utm_campaign=1050&utm_source=git)** | US-VA-Reston | Hybrid | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcbaaf55bb021a889c776?utm_campaign=1050&utm_source=git)** | WA, Working at Home - Washington | Hybrid | Oct 24 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/68fbcb754129dd33cd134b5d?utm_campaign=1050&utm_source=git)** | Raynham | On Site | Oct 24 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb68f55bb021a889c73a?utm_campaign=1050&utm_source=git)** | KY, Working at Home - Kentucky | Hybrid | Oct 24 |
-| ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb4df55bb021a889c729?utm_campaign=1050&utm_source=git)** | MA, Working at Home -Massachusetts | Hybrid | Oct 24 |
-| ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb2193c49825ab105b8f?utm_campaign=1050&utm_source=git)** | OR, Working at Home - Oregon | Hybrid | Oct 24 |
-| ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcafd4129dd33cd134ab0?utm_campaign=1050&utm_source=git)** | WY, Working at Home - Wyoming | Hybrid | Oct 24 |
-| ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbca76f55bb021a889c672?utm_campaign=1050&utm_source=git)** | FL, Working at Home - Florida | Hybrid | Oct 24 |
-| ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbca63f55bb021a889c65f?utm_campaign=1050&utm_source=git)** | OH, Working at Home - Ohio | Hybrid | Oct 24 |
-| ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbca4cf55bb021a889c646?utm_campaign=1050&utm_source=git)** | ME, Working at Home - Maine | Hybrid | Oct 24 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Business Unit of the CFO (Individual Retirement)](https://jobright.ai/jobs/info/68fbc7bcf55bb021a889c4c9?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

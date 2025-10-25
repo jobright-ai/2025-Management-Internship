@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[United States Olympic & Paralympic Committee](https://www.usapentathlon.org/)** | **[Fellow, Organizational Measurement](https://jobright.ai/jobs/info/68fc409c4129dd33cd13a2fe?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/68fc5c9f4129dd33cd13b835?utm_campaign=1050&utm_source=git)** | Morrow, OH | On Site | Oct 24 |
 | **[Ridgecrest Conference Center](https://ridgecrestconferencecenter.com)** | **[Internship: Facilities Admin -Live on-site](https://jobright.ai/jobs/info/68fc3c26f55bb021a88a1d3e?utm_campaign=1050&utm_source=git)** | Black Mountain, NC | On Site | Oct 24 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Supply Chain Analytics](https://jobright.ai/jobs/info/68fc3439f55bb021a88a1762?utm_campaign=1050&utm_source=git)** | Holtsville, NY | On Site | Oct 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fc32d4f55bb021a88a162f?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 24 |
@@ -83,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68fbf5b4f55bb021a889eaa6?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Oct 24 |
 | ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68fbf52ef55bb021a889e9e0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | **[CAA ICON](http://iconvenue.com)** | **[CAA ICON - Summer 2026 Construction Project Management Intern (Denver)](https://jobright.ai/jobs/info/68fbf4f1f55bb021a889e994?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 24 |
-| **[USAA](https://www.usaa.com)** | **[CFO Corporate Strategy Intern](https://jobright.ai/jobs/info/68fbf30193c49825ab107b12?utm_campaign=1050&utm_source=git)** | San Antonio Home Office I | On Site | Oct 24 |
 | **[Superior](http://superiorgroup.net)** | **[Procurement Internship for Students (Spring 2026)](https://jobright.ai/jobs/info/68e6bea5e8daec61499ae1c0?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Oct 24 |
 | **[Freezing Point](https://www.frazil.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68fbf1704129dd33cd136a13?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Oct 24 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College-Supply Chain](https://jobright.ai/jobs/info/68fbf10493c49825ab107ac5?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcbd3f55bb021a889c7a5?utm_campaign=1050&utm_source=git)** | MO, Working at Home - Montana | Hybrid | Oct 24 |
 | **[IDEMIA](https://www.idemia.com/)** | **[IT Purchasing Internship - Summer 2026](https://jobright.ai/jobs/info/68fbcbc0f55bb021a889c78a?utm_campaign=1050&utm_source=git)** | US-VA-Reston | Hybrid | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbcbaaf55bb021a889c776?utm_campaign=1050&utm_source=git)** | WA, Working at Home - Washington | Hybrid | Oct 24 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/68fbcb754129dd33cd134b5d?utm_campaign=1050&utm_source=git)** | Raynham | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

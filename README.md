@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Dallas / Asset Management, Product Management / Summer Analyst](https://jobright.ai/jobs/info/68fc2b47f55bb021a88a11d1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
+| **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/68fc29d24129dd33cd139623?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Oct 24 |
+| **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/68fc1b5993c49825ab109d7f?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Oct 24 |
+| ↳ | **[Claims Operations Intern](https://jobright.ai/jobs/info/68fc179593c49825ab109a1b?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | Remote | Oct 24 |
+| **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Pharmacy/Pharmacist Graduate Intern](https://jobright.ai/jobs/info/68fc1704f55bb021a88a05c8?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Oct 24 |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Compensation Project Manager (Winter/Spring 2026)](https://jobright.ai/jobs/info/68fc1557f55bb021a88a043a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 24 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/68fc07af93c49825ab108d4b?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Oct 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/68fbfa6993c49825ab108449?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 24 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/68fbf93393c49825ab10832c?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 24 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbca63f55bb021a889c65f?utm_campaign=1050&utm_source=git)** | OH, Working at Home - Ohio | Hybrid | Oct 24 |
 | ↳ | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/68fbca4cf55bb021a889c646?utm_campaign=1050&utm_source=git)** | ME, Working at Home - Maine | Hybrid | Oct 24 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Business Unit of the CFO (Individual Retirement)](https://jobright.ai/jobs/info/68fbc7bcf55bb021a889c4c9?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Oct 24 |
-| **[Dexter](https://www.dexteraxle.com/)** | **[MBA Summer Internship 2026](https://jobright.ai/jobs/info/68fbc04093c49825ab1055bd?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Oct 24 |
-| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2026 / Americas / Dallas / Asset Management, Project Management / Summer Analyst](https://jobright.ai/jobs/info/68fbd71d4129dd33cd135530?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 24 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Facilities Project Manager Intern](https://jobright.ai/jobs/info/68fbb42ff55bb021a889bad6?utm_campaign=1050&utm_source=git)** | Butte, MT | On Site | Oct 24 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/68fbb429f55bb021a889bacc?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Oct 24 |
-| **[Charlotte Country Club](http://charlottecountryclub.org)** | **[Clubhouse Management Intern](https://jobright.ai/jobs/info/68fbb0a293c49825ab104c34?utm_campaign=1050&utm_source=git)** | 2465 Mecklenburg Ave, CHARLOTTE, NC, US | On Site | Oct 24 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Program Intern North America](https://jobright.ai/jobs/info/68fbae01f55bb021a889b7d1?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

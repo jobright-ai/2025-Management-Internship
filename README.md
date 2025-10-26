@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Community College System](https://www.cccs.edu/)** | **[Administrative Assistant III - PT Internal Audit](https://jobright.ai/jobs/info/68fe0a040ab3b222462a5e03?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 26 |
+| **[The Marzetti Company](http://www.marzetticompany.com)** | **[Logistics Operations Excellence Internship - Summer 2026](https://jobright.ai/jobs/info/68cd653de23def7af55b954c?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 26 |
+| **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Admin Project Asst-20080](https://jobright.ai/jobs/info/68cd7857b2a74e1837ed734c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 26 |
+| **[Klaviyo](http://www.klaviyo.com)** | **[Head of Internal Communications](https://jobright.ai/jobs/info/6836670a160314196aa435f3?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 26 |
+| **[US Anesthesia Partners](http://www.usap.com)** | **[Spring 2026 Operations Intern](https://jobright.ai/jobs/info/68c631eb7d0db411427362ed?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Oct 26 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 26 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68f804255dc1be6012820278?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Oct 26 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/68cdd4abb2a74e1837edcb6f?utm_campaign=1050&utm_source=git)** | Conyers, GA | On Site | Oct 26 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Oct 26 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68fde89fe0c73b3a11195a7e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 26 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68fde49c0ab3b222462a53bc?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 26 |
 | ↳ | **[Operations Intern -  San Jose State University](https://jobright.ai/jobs/info/68fde346e04ac838fb5b279f?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 26 |
@@ -71,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68fd378e0ab3b222462a14bd?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
 | **[Economy Cash and Carry, Inc.](https://economywholesalegrocers.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fd20fce0c73b3a1119131f?utm_campaign=1050&utm_source=git)** | El Paso, TX, USA | On Site | Oct 25 |
 | **[HII](https://hii.com)** | **[SUPPLY CHAIN INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/68fcf727e04ac838fb5ade7a?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Oct 25 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/68fcf4aee04ac838fb5add6a?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Oct 25 |
 | **[SWBC](https://www.swbc.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/68cbfc8116d00d2beeb17b0e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 25 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/68df4f576be63b6ec996eaf7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 25 |
 | **[Rosendin](https://www.rosendin.com)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/68fcf0510ab3b222462a08c0?utm_campaign=1050&utm_source=git)** | Office VA Sterling | On Site | Oct 25 |
@@ -130,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Intern/Coop - Business](https://jobright.ai/jobs/info/68fb04839e8e925ac6c88508?utm_campaign=1050&utm_source=git)** | Newnan, GA | On Site | Oct 25 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68c6320fdb52c07d28844f2b?utm_campaign=1050&utm_source=git)** | St Peters, MO | On Site | Oct 25 |
 | **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/68cd2382e23def7af55b605a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68b27f021ade4306aa63767e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68c79424db52c07d2884c6b0?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Oct 25 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68c79424db52c07d2884c6b0?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Oct 25 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68b27f021ade4306aa63767e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Logistics Route Planning](https://jobright.ai/jobs/info/68fcd2c70ab3b2224629fb4c?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Oct 25 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a86fb56acf96396f71fd6f?utm_campaign=1050&utm_source=git)** | West Jefferson, OH | On Site | Oct 25 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68c42184e471ef3ce16d3d42?utm_campaign=1050&utm_source=git)** | Canton, MS | On Site | Oct 25 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a86fec6acf96396f71fd8d?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Oct 25 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/688bb1f61808534a89cb5222?utm_campaign=1050&utm_source=git)** | Louisville, TN | On Site | Oct 25 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Clinical Trial Operations Intern](https://jobright.ai/jobs/info/68e042e01852e62f007e9863?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Oct 25 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68cd9657b2a74e1837ed9324?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Oct 25 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68cd2285b2a74e1837ed3082?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | Oct 25 |
-| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68cd23bbb2a74e1837ed3294?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 25 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/688bb07a3a30793eb963c9a1?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Oct 25 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68cd10feb2a74e1837ed1a97?utm_campaign=1050&utm_source=git)** | Fishersville, VA | On Site | Oct 25 |
-| **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68c7aa38c96a22563ecf3ddc?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 25 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KY, TN, MS](https://jobright.ai/jobs/info/68cd2297e23def7af55b5f0f?utm_campaign=1050&utm_source=git)** | Mount Juliet, TN | On Site | Oct 25 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68cfd202fb49c96ca6eabd0a?utm_campaign=1050&utm_source=git)** | Union, OH | On Site | Oct 25 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f790f95dc1be60128161dd?utm_campaign=1050&utm_source=git)** | Dinwiddie, VA | On Site | Oct 25 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Data Analysis, Program Manager - Summer 2026](https://jobright.ai/jobs/info/68e083d51852e62f007eb8d5?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - Operations](https://jobright.ai/jobs/info/68f22ed8af0b5a06b584b019?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 26 |
+| **[Target](https://www.target.com)** | **[Operations Manager Intern, Distribution Center - Logan Township, NJ (Starting Summer 2026)](https://jobright.ai/jobs/info/68fe80f7e04ac838fb5b44f3?utm_campaign=1050&utm_source=git)** | Logan, NJ | Hybrid | Oct 26 |
 | **[MechNova](mechnova.us)** | **[Supply Chain & Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/68fe76bce04ac838fb5b4308?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Oct 26 |
 | **[Structonix](structonix.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68fe55d3e04ac838fb5b4036?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Oct 26 |
 | **[Valorantum](valorantum.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68fe47aae04ac838fb5b3f05?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 26 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68cd0b93b2a74e1837ed14fe?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Oct 26 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Waco, TX / Summer 2026](https://jobright.ai/jobs/info/68a9119d6acf96396f7249ba?utm_campaign=1050&utm_source=git)** | Woodway, TX | On Site | Oct 26 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 26 |
-| **[Bentley Systems](http://www.bentley.com)** | **[Operations Intern - Hawaii](https://jobright.ai/jobs/info/68fe2e5fe04ac838fb5b3c13?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68cb9a6aefdec76df36bf661?utm_campaign=1050&utm_source=git)** | Frankfort, NY | On Site | Oct 26 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Oct 26 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68ce6bbdfb49c96ca6ea0365?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Oct 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Operations Business Intern - St. Paul, MN](https://jobright.ai/jobs/info/68fda94de04ac838fb5b1153?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Oct 25 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a908426acf96396f724329?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Oct 25 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Oct 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/68a7fa53d627244576e2fddc?utm_campaign=1050&utm_source=git)** | Shamokin Dam, PA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

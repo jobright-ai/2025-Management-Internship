@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Structonix](structonix.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68fe55d3e04ac838fb5b4036?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Oct 26 |
+| **[Valorantum](valorantum.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68fe47aae04ac838fb5b3f05?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 26 |
+| **[Tech World Networking](techworldnetworking.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68fe47800ab3b222462a6b13?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 26 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68ca2311f16e3266d282317c?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Oct 26 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship - Logan, UT - Summer 2026](https://jobright.ai/jobs/info/68ccc913a77e5d7d744f560e?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Oct 26 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/68a885cb6acf96396f7207b5?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Oct 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Oct 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/68a7fa53d627244576e2fddc?utm_campaign=1050&utm_source=git)** | Shamokin Dam, PA | On Site | Oct 25 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad7a9aab47a17f670bbbf?utm_campaign=1050&utm_source=git)** | Beardstown, IL | On Site | Oct 25 |
-| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c7989ec96a22563ecf2c33?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Stroudsburg](https://jobright.ai/jobs/info/68b513f1f4e41a61efd8d697?utm_campaign=1050&utm_source=git)** | Stroudsburg, PA | On Site | Oct 25 |
-| ↳ | **[Spring 2026 Management Trainee Intern - Bethlehem](https://jobright.ai/jobs/info/68b51febbc187f64e1be5497?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

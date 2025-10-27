@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68ff3777e04ac838fb5b776d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
+| **[Light & Wonder](https://www.lnw.com/)** | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/68ff3712e0c73b3a1119a958?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Oct 27 |
+| **[the LEGO Group](http://www.lego.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ff36bf0ab3b222462aa26d?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Oct 27 |
+| **[American Electric Power](http://aep.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68be2c39df5eec448f63dc6d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 27 |
+| **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern- Natural Resources Section](https://jobright.ai/jobs/info/68ff31aa0ab3b222462aa0b5?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 27 |
+| **[BIGO](https://www.bigo.sg)** | **[Operation Intern (Data & Payment)](https://jobright.ai/jobs/info/68ff314c0ab3b222462aa06d?utm_campaign=1050&utm_source=git)** | Los Angeles County, CA | Hybrid | Oct 27 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern- Natural Resources Section](https://jobright.ai/jobs/info/68ff178ee0c73b3a1119950e?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 26 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Westerly, RI](https://jobright.ai/jobs/info/68ff359c0ab3b222462aa1b2?utm_campaign=1050&utm_source=git)** | Westerly | On Site | Oct 26 |
 | **[Concord](https://concord.com/)** | **[D2C Operations Intern](https://jobright.ai/jobs/info/68ff105f0ab3b222462a8dfe?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 26 |
 | **[Xeno Robotics](https://xenorobotics.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fef787e04ac838fb5b5b8a?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Oct 26 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68fedf4a0ab3b222462a7be3?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Oct 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Investor Relations & Corporate Strategy](https://jobright.ai/jobs/info/68e0acb6f758fe1f97e4fd85?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68a666e233dd7158bbc9fce6?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 25 |
 | **[Henkel](http://www.henkel.com)** | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68c35b08b8c22d38284711ba?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 25 |
-| ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68cf5c3adbd9fb154ede743d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad9f1aab47a17f670bc9f?utm_campaign=1050&utm_source=git)** | Marshalltown, IA | On Site | Oct 25 |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[Retail Banking Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a8056acf96396f721944?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Oct 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Norwood / Dedham area](https://jobright.ai/jobs/info/68dff1661852e62f007e5e00?utm_campaign=1050&utm_source=git)** | Norwood, MA | On Site | Oct 25 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Supplier Lifecycle Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68e070b4b99ec3563b0cf793?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Operations Business Intern - St. Paul, MN](https://jobright.ai/jobs/info/68fda94de04ac838fb5b1153?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Oct 25 |
-| **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a908426acf96396f724329?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

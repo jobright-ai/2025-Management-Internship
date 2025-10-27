@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Admin & Operations Office Assistant Intern](https://jobright.ai/jobs/info/68ffb12ae0c73b3a1119d7a8?utm_campaign=1050&utm_source=git)** | Arlington, VA, US | On Site | Oct 27 |
+| **[SECU](https://www.ncsecu.org)** | **[Intern – Card Operations Part-time Spring 2026](https://jobright.ai/jobs/info/68ffaf9ae0c73b3a1119d652?utm_campaign=1050&utm_source=git)** | North Carolina | Hybrid | Oct 27 |
+| **[The Coffee Class](http://www.thecoffeeclass.com)** | **[Student Intern](https://jobright.ai/jobs/info/68ffadae0ab3b222462ad07a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 27 |
+| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Production Planning Intern](https://jobright.ai/jobs/info/68ffaa3be04ac838fb5ba37b?utm_campaign=1050&utm_source=git)** | East Granby, CT | On Site | Oct 27 |
+| **[HP](http://www.hp.com)** | **[Supply Chain Business Internship](https://jobright.ai/jobs/info/68ffa8d90ab3b222462acd97?utm_campaign=1050&utm_source=git)** | Vancouver, WA | Hybrid | Oct 27 |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Procurement and Supply Chain Winter Internship](https://jobright.ai/jobs/info/68ffa78be0c73b3a1119d21c?utm_campaign=1050&utm_source=git)** | Portsmouth, NH, 03801, United States | On Site | Oct 27 |
+| **[Stantec](http://www.stantec.com)** | **[Project Coordinator Intern - Transportation (Summer 2026)](https://jobright.ai/jobs/info/68ffa3cb0ab3b222462acb4c?utm_campaign=1050&utm_source=git)** | 45 Blue Sky Drive, 3rd Floor, Burlington, MA, 01803, US | On Site | Oct 27 |
+| **[C3Aero LLC](https://www.c3aero.com)** | **[Operations & Strategy Intern (Spring 2026)](https://jobright.ai/jobs/info/68ff9772e04ac838fb5b9858?utm_campaign=1050&utm_source=git)** | Burlington, MA | Hybrid | Oct 27 |
+| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Quality and Performance Outcomes](https://jobright.ai/jobs/info/68ff96d00ab3b222462ac323?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Oct 27 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/68ff9524e0c73b3a1119c7fe?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Oct 27 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/68ff93fbe0c73b3a1119c71c?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | Remote | Oct 27 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Intern - US Commercial Distribution & Logistics](https://jobright.ai/jobs/info/68ff93d3e0c73b3a1119c705?utm_campaign=1050&utm_source=git)** | Duluth, GA | Hybrid | Oct 27 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/68ff9101e0c73b3a1119c561?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Oct 27 |
@@ -73,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Personal Lines Underwriting Intern (Summer 2026)](https://jobright.ai/jobs/info/68ff8809e04ac838fb5b9027?utm_campaign=1050&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Oct 27 |
 | **[MetroStar](http://www.metrostarsystems.com)** | **[Technology Internship - Spring 2026 (6179)](https://jobright.ai/jobs/info/68ff868de0c73b3a1119c01a?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Oct 27 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Logistics Intern](https://jobright.ai/jobs/info/68ff865ce0c73b3a1119bff6?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Oct 27 |
+| **[Haren Construction Company, Inc.](http://www.harenconstruction.com)** | **[Spring 2026 Project Management Internship](https://jobright.ai/jobs/info/68ffaae9e04ac838fb5ba413?utm_campaign=1050&utm_source=git)** | Etowah, TN | On Site | Oct 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/68ff84fa0ab3b222462abab0?utm_campaign=1050&utm_source=git)** | Blacksburg, VA | On Site | Oct 27 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68ff84a30ab3b222462aba8c?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Oct 27 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68cbf15f7342c7623ae5c8a1?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Oct 27 |
@@ -120,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Xeno Robotics](https://xenorobotics.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fef787e04ac838fb5b5b8a?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Oct 26 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68fedf4a0ab3b222462a7be3?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Oct 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fed162e0c73b3a11197d0c?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Oct 26 |
+| **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Game Day Operations Internship (Spring 2026)](https://jobright.ai/jobs/info/68ffaef8e0c73b3a1119d5e2?utm_campaign=1050&utm_source=git)** | High Point, NC | On Site | Oct 26 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - Operations](https://jobright.ai/jobs/info/68f22ed8af0b5a06b584b019?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 26 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern, Distribution Center - Logan Township, NJ (Starting Summer 2026)](https://jobright.ai/jobs/info/68fe80f7e04ac838fb5b44f3?utm_campaign=1050&utm_source=git)** | Logan, NJ | Hybrid | Oct 26 |
 | **[Tech World Networking](techworldnetworking.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68fe47800ab3b222462a6b13?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 26 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Operations (Spring, 2026)](https://jobright.ai/jobs/info/68fbcbd0f55bb021a889c79a?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Oct 26 |
 | **[Henkel](http://www.henkel.com)** | **[Procurement Intern – Fall 2026](https://jobright.ai/jobs/info/68cc40087342c7623ae6194b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Oct 26 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Oct 26 |
-| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Logistics Internship](https://jobright.ai/jobs/info/68fe288a0ab3b222462a675f?utm_campaign=1050&utm_source=git)** | Ravenna, OH | On Site | Oct 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ce2dda1ad6b16f028a2ad7?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Oct 26 |
-| ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c8e631f9c6ff7aedf1422f?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Oct 26 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a8705f758f2e4ac3ff2551?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Oct 26 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/688bb6461808534a89cb546a?utm_campaign=1050&utm_source=git)** | Fishkill, NY | On Site | Oct 26 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/688bb76e906ac06e1d1cda88?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Oct 26 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68a87097758f2e4ac3ff2569?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Oct 26 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - GA, FL, AL](https://jobright.ai/jobs/info/68a875e4d627244576e32d31?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 26 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/688bb39b3a30793eb963cb68?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Oct 26 |
-| **[Link Logistics](https://www.linklogistics.com/)** | **[Commercial Real Estate Operations Summer Intern](https://jobright.ai/jobs/info/68f7c875b0edcf159dc88f9e?utm_campaign=1050&utm_source=git)** | Fort Washington, PA | On Site | Oct 26 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68b2849cf4e41a61efd8588d?utm_campaign=1050&utm_source=git)** | Clear Brook, VA | On Site | Oct 26 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68a874186acf96396f720106?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

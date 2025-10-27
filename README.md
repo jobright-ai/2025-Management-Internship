@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68ff3777e04ac838fb5b776d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68cd5e671ad6b16f02898d73?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Oct 27 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Retail Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68cc12ba128dc347fd91e73f?utm_campaign=1050&utm_source=git)** | Monroe, MI | Hybrid | Oct 27 |
+| **[BrightView Landscapes](https://www.brightview.com)** | **[Intern - Office (Full Time, Temporary)](https://jobright.ai/jobs/info/68ff4d54e04ac838fb5b7e9a?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Oct 27 |
+| **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Business Operations](https://jobright.ai/jobs/info/68dabeb807c157682e56d1c2?utm_campaign=1050&utm_source=git)** | Conyers, GA | On Site | Oct 27 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68ff4061e04ac838fb5b7cac?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Oct 27 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/68ff3777e04ac838fb5b776d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
 | **[Light & Wonder](https://www.lnw.com/)** | **[Supply Chain & Operations Intern](https://jobright.ai/jobs/info/68ff3712e0c73b3a1119a958?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Oct 27 |
 | **[the LEGO Group](http://www.lego.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ff36bf0ab3b222462aa26d?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Oct 27 |
 | **[American Electric Power](http://aep.com)** | **[Change Management Intern](https://jobright.ai/jobs/info/68be2c39df5eec448f63dc6d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship- CFO Advisory](https://jobright.ai/jobs/info/68fceb840ab3b222462a0666?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Oct 25 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Facilities Manager / Security Officer (SkillBridge Intern) - 21158](https://jobright.ai/jobs/info/6716dc926a17b09c402efe61?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Oct 25 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae3b209808a6103e51f60?utm_campaign=1050&utm_source=git)** | Douglas, GA | On Site | Oct 25 |
-| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c30a975adaee6c9bda676a?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Oct 25 |
-| ↳ | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68c3042d5001f8077bf602f3?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Investor Relations & Corporate Strategy](https://jobright.ai/jobs/info/68e0acb6f758fe1f97e4fd85?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Oct 25 |
-| **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68a666e233dd7158bbc9fce6?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Oct 25 |
-| **[Henkel](http://www.henkel.com)** | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68c35b08b8c22d38284711ba?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fed162e0c73b3a11197d0c?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Oct 26 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - Operations](https://jobright.ai/jobs/info/68f22ed8af0b5a06b584b019?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 26 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern, Distribution Center - Logan Township, NJ (Starting Summer 2026)](https://jobright.ai/jobs/info/68fe80f7e04ac838fb5b44f3?utm_campaign=1050&utm_source=git)** | Logan, NJ | Hybrid | Oct 26 |
-| **[MechNova](mechnova.us)** | **[Supply Chain & Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/68fe76bce04ac838fb5b4308?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Oct 26 |
-| **[Structonix](structonix.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68fe55d3e04ac838fb5b4036?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Oct 26 |
 | **[Valorantum](valorantum.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68fe47aae04ac838fb5b3f05?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 26 |
 | **[Tech World Networking](techworldnetworking.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/68fe47800ab3b222462a6b13?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Oct 26 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68ca2311f16e3266d282317c?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Oct 26 |
@@ -114,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/68fe1ac40ab3b222462a632c?utm_campaign=1050&utm_source=git)** | North Attleboro | On Site | Oct 26 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WI, MI, OH](https://jobright.ai/jobs/info/68c7bc42369c3763c743b081?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Oct 26 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Project Management Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68cf4153846f0b04af67fe8e?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Oct 26 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/68cfbc27dbd9fb154edea835?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Oct 26 |
 | **[The Marzetti Company](http://www.marzetticompany.com)** | **[Logistics Operations Excellence Internship - Summer 2026](https://jobright.ai/jobs/info/68cd653de23def7af55b954c?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Oct 26 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Student Admin Project Asst-20080](https://jobright.ai/jobs/info/68cd7857b2a74e1837ed734c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 26 |
 | **[Klaviyo](http://www.klaviyo.com)** | **[Head of Internal Communications](https://jobright.ai/jobs/info/6836670a160314196aa435f3?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Oct 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Operations Business Intern - St. Paul, MN](https://jobright.ai/jobs/info/68fda94de04ac838fb5b1153?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Oct 25 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a908426acf96396f724329?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Oct 25 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Oct 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/68a7fa53d627244576e2fddc?utm_campaign=1050&utm_source=git)** | Shamokin Dam, PA | On Site | Oct 25 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad7a9aab47a17f670bbbf?utm_campaign=1050&utm_source=git)** | Beardstown, IL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern- Natural Resources Section](https://jobright.ai/jobs/info/68ff178ee0c73b3a1119950e?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 26 |
+| **[Concord](https://concord.com/)** | **[D2C Operations Intern](https://jobright.ai/jobs/info/68ff105f0ab3b222462a8dfe?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 26 |
 | **[Xeno Robotics](https://xenorobotics.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/68fef787e04ac838fb5b5b8a?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Oct 26 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68fedf4a0ab3b222462a7be3?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Oct 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fed162e0c73b3a11197d0c?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Oct 26 |
@@ -137,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Digital Business Operations Summer Intern 2026 (IA&R)](https://jobright.ai/jobs/info/68fd5e83e04ac838fb5aef07?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Southeastern Missouri State University](https://jobright.ai/jobs/info/68fd378e0ab3b222462a14bd?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Oct 25 |
 | **[Economy Cash and Carry, Inc.](https://economywholesalegrocers.com)** | **[Business Intern](https://jobright.ai/jobs/info/68fd20fce0c73b3a1119131f?utm_campaign=1050&utm_source=git)** | El Paso, TX, USA | On Site | Oct 25 |
-| **[HII](https://hii.com)** | **[SUPPLY CHAIN INTERN (SKILLBRIDGE)](https://jobright.ai/jobs/info/68fcf727e04ac838fb5ade7a?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Oct 25 |
 | **[SWBC](https://www.swbc.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/68cbfc8116d00d2beeb17b0e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 25 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/68df4f576be63b6ec996eaf7?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Oct 25 |
 | **[Rosendin](https://www.rosendin.com)** | **[Internship - Supply Chain](https://jobright.ai/jobs/info/68fcf0510ab3b222462a08c0?utm_campaign=1050&utm_source=git)** | Office VA Sterling | On Site | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RaceTrac](http://www.racetrac.com/)** | **[Supplier Lifecycle Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68e070b4b99ec3563b0cf793?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Gas Operations Business Intern - St. Paul, MN](https://jobright.ai/jobs/info/68fda94de04ac838fb5b1153?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Oct 25 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a908426acf96396f724329?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Oct 25 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

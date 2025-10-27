@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68fedf4a0ab3b222462a7be3?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Oct 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/68fed162e0c73b3a11197d0c?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Oct 26 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program - Junior Business Analyst - Operations](https://jobright.ai/jobs/info/68f22ed8af0b5a06b584b019?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 26 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern, Distribution Center - Logan Township, NJ (Starting Summer 2026)](https://jobright.ai/jobs/info/68fe80f7e04ac838fb5b44f3?utm_campaign=1050&utm_source=git)** | Logan, NJ | Hybrid | Oct 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a908426acf96396f724329?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Oct 25 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Oct 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/68a7fa53d627244576e2fddc?utm_campaign=1050&utm_source=git)** | Shamokin Dam, PA | On Site | Oct 25 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad7a9aab47a17f670bbbf?utm_campaign=1050&utm_source=git)** | Beardstown, IL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutanix](http://www.nutanix.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68ffcbc80ab3b222462ae14d?utm_campaign=1050&utm_source=git)** | San Jose, California | Hybrid | Oct 27 |
+| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Procurement and Supply Chain Winter Internship](https://jobright.ai/jobs/info/68ffc7990ab3b222462ade76?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Oct 27 |
+| **[Nutanix](http://www.nutanix.com)** | **[Project Manager Intern - (Jira, Tableau, AI adoption - US base UNDERGRADS ONLY)](https://jobright.ai/jobs/info/68ffc792e0c73b3a1119e38e?utm_campaign=1050&utm_source=git)** | San Jose, California | Hybrid | Oct 27 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/68ffc741e04ac838fb5bb2da?utm_campaign=1050&utm_source=git)** | Durham, North Carolina | Hybrid | Oct 27 |
+| **[Advance Auto Parts](https://shop.advanceautoparts.com)** | **[Inventory Management Intern](https://jobright.ai/jobs/info/68ffc648e0c73b3a1119e2bc?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Oct 27 |
+| **[Center for Science in the Public Interest](http://cspinet.org)** | **[2026 Spring Measurement & Evaluation Internship](https://jobright.ai/jobs/info/68ffc5dee04ac838fb5bb13e?utm_campaign=1050&utm_source=git)** | Fully Remote | Remote | Oct 27 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Personal Lines Underwriting Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffc543e04ac838fb5bb0fe?utm_campaign=1050&utm_source=git)** | Westfield Center, OH | Hybrid | Oct 27 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Loan Services](https://jobright.ai/jobs/info/68ffc4b10ab3b222462adb6d?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
+| **[Tenstorrent](http://tenstorrent.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/68ffc17ce04ac838fb5baf55?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Oct 27 |
+| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Nursing Leadership](https://jobright.ai/jobs/info/68ffbae4e0c73b3a1119dd2e?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Oct 27 |
+| **[Xanterra Travel Collection](http://www.xanterra.com/)** | **[Summer 2026 Project Management  Internship - Oasis at Death Valley](https://jobright.ai/jobs/info/68ffb87ce04ac838fb5baaaf?utm_campaign=1050&utm_source=git)** | Death Valley, CA | On Site | Oct 27 |
 | **[U.S. Committee for Refugees and Immigrants (USCRI)](https://refugees.org)** | **[Admin & Operations Office Assistant Intern](https://jobright.ai/jobs/info/68ffb12ae0c73b3a1119d7a8?utm_campaign=1050&utm_source=git)** | Arlington, VA, US | On Site | Oct 27 |
 | **[SECU](https://www.ncsecu.org)** | **[Intern – Card Operations Part-time Spring 2026](https://jobright.ai/jobs/info/68ffaf9ae0c73b3a1119d652?utm_campaign=1050&utm_source=git)** | North Carolina | Hybrid | Oct 27 |
 | **[The Coffee Class](http://www.thecoffeeclass.com)** | **[Student Intern](https://jobright.ai/jobs/info/68ffadae0ab3b222462ad07a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Hybrid | Oct 27 |
@@ -100,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Client and Employee Experience](https://jobright.ai/jobs/info/68ff7d54e0c73b3a1119bc4e?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
 | ↳ | **[2026 Summer Intern - Business Effectiveness (Private Banking)](https://jobright.ai/jobs/info/68ff7c82e04ac838fb5b8b8d?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
 | **[Pella Corporation](http://www.pella.com)** | **[Department Manager Intern (Macomb, IL) - Summer 2026](https://jobright.ai/jobs/info/68e35dc6b99ec3563b0df35a?utm_campaign=1050&utm_source=git)** | Macomb, IL | On Site | Oct 27 |
+| ↳ | **[Department Manager Intern (Sioux Center) - Summer 2026](https://jobright.ai/jobs/info/68ec92b01eecd439f43fa8f9?utm_campaign=1050&utm_source=git)** | Sioux Center, IA | On Site | Oct 27 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a868f16acf96396f71fb93?utm_campaign=1050&utm_source=git)** | Monee, IL | On Site | Oct 27 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a86af9758f2e4ac3ff2423?utm_campaign=1050&utm_source=git)** | Salem, OR | On Site | Oct 27 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68c7988ac96a22563ecf2c06?utm_campaign=1050&utm_source=git)** | Republic, MO | On Site | Oct 27 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Oct 26 |
 | ↳ | **[DC Operations Intern / Casa Grande, AZ / Summer 2026](https://jobright.ai/jobs/info/68cd0b14b2a74e1837ed13f8?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Oct 26 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68cd0b93b2a74e1837ed14fe?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Oct 26 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Waco, TX / Summer 2026](https://jobright.ai/jobs/info/68a9119d6acf96396f7249ba?utm_campaign=1050&utm_source=git)** | Woodway, TX | On Site | Oct 26 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 26 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/68cb9a6aefdec76df36bf661?utm_campaign=1050&utm_source=git)** | Frankfort, NY | On Site | Oct 26 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Oct 26 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Pendleton, IN / Summer 2026](https://jobright.ai/jobs/info/68ce6bbdfb49c96ca6ea0365?utm_campaign=1050&utm_source=git)** | Pendleton, IN | On Site | Oct 26 |
-| ↳ | **[DC Ops Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68ced7eedbd9fb154ede321a?utm_campaign=1050&utm_source=git)** | Maumelle, AR | On Site | Oct 26 |
-| ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68cc176d16d00d2beeb199d3?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Oct 26 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68b1351ae815524ae11fc0e9?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Oct 26 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Supply Chain Intern / Summer 2026](https://jobright.ai/jobs/info/68cd1fece23def7af55b5a9f?utm_campaign=1050&utm_source=git)** | Brentwood, TN | Hybrid | Oct 26 |
-| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Operations (Spring, 2026)](https://jobright.ai/jobs/info/68fbcbd0f55bb021a889c79a?utm_campaign=1050&utm_source=git)** | Vero Beach, FL | On Site | Oct 26 |
-| **[Henkel](http://www.henkel.com)** | **[Procurement Intern – Fall 2026](https://jobright.ai/jobs/info/68cc40087342c7623ae6194b?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Oct 26 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a8704ad627244576e3290e?utm_campaign=1050&utm_source=git)** | Troutdale, OR | On Site | Oct 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

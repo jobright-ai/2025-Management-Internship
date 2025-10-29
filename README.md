@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sevan Multi-Site Solutions](https://www.sevansolutions.com/)** | **[Construction Project Manager - Internship/Co-Op](https://jobright.ai/jobs/info/68e974a365768b6412b1c502?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 29 |
+| **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/6902865598707b2b0fe7099c?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 29 |
+| ↳ | **[Project Management Internship - Summer 2026](https://jobright.ai/jobs/info/690285fe00a1816c41e9f338?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 29 |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MBA, Operations Strategy and Program Management](https://jobright.ai/jobs/info/6902852598707b2b0fe70836?utm_campaign=1050&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 29 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Management Assistant, Customer Services & Delivery](https://jobright.ai/jobs/info/6902839a98707b2b0fe7063e?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 29 |
+| **[Genuine Parts Company](http://genpt.com)** | **[HR Project Management Intern – Summer 2026](https://jobright.ai/jobs/info/69027f5d00a1816c41e9ebc2?utm_campaign=1050&utm_source=git)** | Windy Hill, GA | Hybrid | Oct 29 |
+| **[Mars](https://www.mars.com)** | **[Summer 2026 Mars Wrigley Supply Chain Internship – Hackettstown, NJ](https://jobright.ai/jobs/info/69027e8a00a1816c41e9eb07?utm_campaign=1050&utm_source=git)** | Hackettstown, NJ | Hybrid | Oct 29 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[F&B Front of House Intern/Trainee (12 Month J1 Visa Program)](https://jobright.ai/jobs/info/69027d6700a1816c41e9ea48?utm_campaign=1050&utm_source=git)** | US-LA-New Orleans | On Site | Oct 29 |
+| **[Juniper Communities](https://junipercommunities.com/)** | **[Executive Director Internship](https://jobright.ai/jobs/info/69027ba8ff462851fefe3906?utm_campaign=1050&utm_source=git)** | Hamilton Township, NJ | On Site | Oct 29 |
+| **[PatientPoint®](http://patientpoint.com)** | **[Tech Program Management Intern](https://jobright.ai/jobs/info/69027714ff462851fefe36fe?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Oct 29 |
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[IT PMO Intern](https://jobright.ai/jobs/info/69027170ff462851fefe31f9?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Oct 29 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69026dc400a1816c41e9def7?utm_campaign=1050&utm_source=git)** | Richmond, Virginia | Hybrid | Oct 29 |
 | **[Smile Train](https://www.smiletrain.org/)** | **[Program Intern, Philippines](https://jobright.ai/jobs/info/69026b2e98707b2b0fe6f226?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Internship Program Manager (Radnor, Greensboro, Charlotte)](https://jobright.ai/jobs/info/69026547ff462851fefe2962?utm_campaign=1050&utm_source=git)** | Radnor, PA | Hybrid | Oct 29 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[Operations Internship - Spring 2025](https://jobright.ai/jobs/info/6902641598707b2b0fe6ed51?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Oct 29 |
-| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Project Management Intern and Assistant to the Founder](https://jobright.ai/jobs/info/690261c8ff462851fefe274d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | Oct 29 |
 | **[Kindfulness](https://www.linkedin.com/company/108430100)** | **[Interns](https://jobright.ai/jobs/info/690261af00a1816c41e9d6ef?utm_campaign=1050&utm_source=git)** | Columbus, OH | Hybrid | Oct 29 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025da498707b2b0fe6eaff?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Oct 29 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Health, Safety and Environment Intern - Spring 2026](https://jobright.ai/jobs/info/69025ca800a1816c41e9d556?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Oct 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Internship - Danvers, MA Area](https://jobright.ai/jobs/info/68e5ca5d1852e62f0081468f?utm_campaign=1050&utm_source=git)** | Danvers, MA | On Site | Oct 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68c9fa62f61c922772a71b4f?utm_campaign=1050&utm_source=git)** | Ridgecrest, CA | On Site | Oct 29 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/68c848b295f5211cd2ce3366?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Oct 29 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Lower Midwest and Arkansas,](https://jobright.ai/jobs/info/68e658dbe8daec61499aac36?utm_campaign=1050&utm_source=git)** | O'Fallon, MO | On Site | Oct 29 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Project Sourcing Manager Internship - Summer 2026](https://jobright.ai/jobs/info/68ce6585dbd9fb154eddf1ef?utm_campaign=1050&utm_source=git)** | Schenectady, NY | On Site | Oct 29 |
-| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Oct 29 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - San Antonio](https://jobright.ai/jobs/info/68db72b39f13662d20e4b6b1?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 29 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Supply Chain Planning](https://jobright.ai/jobs/info/68cb7f22efdec76df36bd97b?utm_campaign=1050&utm_source=git)** | Nashville, TN | Hybrid | Oct 29 |
-| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e4ba983e6768bc5533b3?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Oct 29 |
-| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo, WI | On Site | Oct 29 |
-| **[SageSure](https://www.sagesure.com)** | **[Carrier Ops Intern](https://jobright.ai/jobs/info/6902229300a1816c41e9b5b2?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Hybrid | Oct 29 |
-| ↳ | **[Carrier Ops Intern](https://jobright.ai/jobs/info/6902297898707b2b0fe6cd25?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

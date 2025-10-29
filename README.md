@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/6901c695d5259a1b3cff7cef?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
+| **[Prologis](http://www.prologis.com)** | **[Intern, Real Estate Customer Experience (RECX)/Property Management](https://jobright.ai/jobs/info/6901cc25d5259a1b3cff7e47?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 29 |
+| ↳ | **[Intern, Real Estate Customer Experience (RECX)/Property Management](https://jobright.ai/jobs/info/6901cb63f8ce7a040fdc2b45?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Oct 29 |
+| ↳ | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/6901c9f0d5259a1b3cff7db3?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Oct 29 |
+| ↳ | **[Intern, Operations Construction](https://jobright.ai/jobs/info/6901c97ed5259a1b3cff7d85?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
+| ↳ | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/6901c695d5259a1b3cff7cef?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
 | **[RRC Companies](https://rrccompanies.com/)** | **[Intern](https://jobright.ai/jobs/info/6901c2774539ea1f21422ccd?utm_campaign=1050&utm_source=git)** | Round Rock, TX, USA | Remote | Oct 29 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - UC Davis](https://jobright.ai/jobs/info/6901de6af8ce7a040fdc3092?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 29 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6901bc08f8ce7a040fdc2451?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Oct 29 |
 | **[Hawaiian Electric](https://www.hawaiianelectric.com/)** | **[Summer Intern - Fleet Services](https://jobright.ai/jobs/info/6901af4e4539ea1f21422519?utm_campaign=1050&utm_source=git)** | Hawaii, United States | On Site | Oct 28 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6901acaef8ce7a040fdc1e70?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Oct 28 |
@@ -114,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Intern Summer 2026](https://jobright.ai/jobs/info/69013d564539ea1f2141e6f7?utm_campaign=1050&utm_source=git)** | Warrendale, PA | On Site | Oct 28 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Channel Operations Analyst Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/69013bba4539ea1f2141e49b?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[Point72](https://www.point72.com)** | **[2026 Summer Internship - Strategic Implementation](https://jobright.ai/jobs/info/69013af0d5259a1b3cff33f1?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Oct 28 |
-| **[CohnReznick](http://www.cohnreznick.com/)** | **[2026 Summer Internship- CFO Advisory](https://jobright.ai/jobs/info/690138c1d5259a1b3cff312f?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Oct 28 |
 | **[CARFAX](https://www.carfax.com/)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69013827f8ce7a040fdbdb60?utm_campaign=1050&utm_source=git)** | Centreville, VA | On Site | Oct 28 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69013653f8ce7a040fdbd8ff?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 28 |
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/69013614f8ce7a040fdbd8a7?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Oct 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Intern – Summer 2026 – Mid-Atlantic](https://jobright.ai/jobs/info/68bf23698e65e77df55b73a4?utm_campaign=1050&utm_source=git)** | Falls Church, VA | On Site | Oct 28 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Americas Regional Supply Chain Intern](https://jobright.ai/jobs/info/690120064539ea1f2141cc2f?utm_campaign=1050&utm_source=git)** | Salt Lake City, Utah | On Site | Oct 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Round Rock and Cedar Park](https://jobright.ai/jobs/info/69011e35f8ce7a040fdbc435?utm_campaign=1050&utm_source=git)** | Round Rock | On Site | Oct 28 |
-| **[WIN Waste Innovations](https://www.win-waste.com)** | **[Procurement and Supply Chain Summer Intern](https://jobright.ai/jobs/info/69011d0c4539ea1f2141ca84?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Oct 28 |
-| **[NRG Energy](http://www.nrg.com/)** | **[NRG Consumer MBA Intern](https://jobright.ai/jobs/info/69011cfc4539ea1f2141ca70?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Oct 28 |
-| **[EQT Corporation](https://www.eqt.com/)** | **[Midstream Gas Management Intern](https://jobright.ai/jobs/info/69011bb34539ea1f2141c96e?utm_campaign=1050&utm_source=git)** | Canonsburg, PA | On Site | Oct 28 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6901393ed5259a1b3cff31aa?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

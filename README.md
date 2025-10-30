@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Strategic Sales Project Management Intern](https://jobright.ai/jobs/info/6902bc39ff462851fefe604e?utm_campaign=1050&utm_source=git)** | Clackamas, OR | On Site | Oct 29 |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Meetings & Special Events Intern](https://jobright.ai/jobs/info/6902ba6fff462851fefe5f7d?utm_campaign=1050&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 29 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Direct-to-Consumer Content Digital Operations Intern, Summer 2026](https://jobright.ai/jobs/info/6902ad4e00a1816c41ea0a8a?utm_campaign=1050&utm_source=git)** | Glendale, CA, USA | On Site | Oct 29 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern-Operational Excellence, Integrated Supply Chain-Murrysville, PA-Summer 2026](https://jobright.ai/jobs/info/6902ad4200a1816c41ea0a86?utm_campaign=1050&utm_source=git)** | Murrysville | On Site | Oct 29 |
+| **[Lexington Medical, Inc](https://www.lexington-med.com/)** | **[Supply Chain Analyst Co-Op](https://jobright.ai/jobs/info/6902acd100a1816c41ea0a40?utm_campaign=1050&utm_source=git)** | Bedford, MA | On Site | Oct 29 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Program Management Intern / Summer 2026](https://jobright.ai/jobs/info/6902aa9dff462851fefe5a22?utm_campaign=1050&utm_source=git)** | Menomonee Falls, WI | Hybrid | Oct 29 |
+| **[Dollar General Store](https://www.dollargeneral.com/)** | **[Summer 2026 Warehouse Operations Intern - Jonesville, South Carolina](https://jobright.ai/jobs/info/6902a985ff462851fefe59bc?utm_campaign=1050&utm_source=git)** | Jonesville, SC | On Site | Oct 29 |
+| **[Amgen](http://www.amgen.com)** | **[R&D Strategy and Performance Excellence (SPx) Graduate Intern](https://jobright.ai/jobs/info/6902a97c00a1816c41ea0908?utm_campaign=1050&utm_source=git)** | US - California - Los Angeles | Remote | Oct 29 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Operations/Continuous Improvement Summer Intern 2026](https://jobright.ai/jobs/info/6902a28e00a1816c41ea065c?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Oct 29 |
 | **[Amgen](http://www.amgen.com)** | **[Graduate Intern – Business Operations in R&D Strategy & Operations](https://jobright.ai/jobs/info/6902a07300a1816c41ea053d?utm_campaign=1050&utm_source=git)** | US - California - Los Angeles | Remote | Oct 29 |
 | ↳ | **[Undergrad Intern – R&D Strategy & Performance Excellence (SPx)](https://jobright.ai/jobs/info/69029a6398707b2b0fe717cd?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Oct 29 |
 | ↳ | **[Undergrad Intern – Business Operations in R&D Strategy & Operations](https://jobright.ai/jobs/info/69029a3e00a1816c41ea0204?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Oct 29 |
 | ↳ | **[Undergrad Intern – R&D Portfolio Strategy & Execution Team](https://jobright.ai/jobs/info/69029a0cff462851fefe52c0?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Oct 29 |
-| **[Cronus Capital Management LLC](www.cronusam.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/690297f098707b2b0fe715e7?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Oct 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69028f5300a1816c41e9fb19?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Oct 29 |
 | **[Genworth](https://www.genworth.com)** | **[Genworth Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69028ec098707b2b0fe70f8f?utm_campaign=1050&utm_source=git)** | Richmond, VA | Hybrid | Oct 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - San Jose State University](https://jobright.ai/jobs/info/69028e88ff462851fefe4ad2?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Oct 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Georgia-Pacific Supply Chain Internship – Summer 2026](https://jobright.ai/jobs/info/68ad176dd627244576e4b282?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Harrisburg, PA](https://jobright.ai/jobs/info/68ca43e30456a931db2967e1?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Oct 29 |
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca44c566f5bd426af80f1a?utm_campaign=1050&utm_source=git)** | Laurel, MD | On Site | Oct 29 |
-| ↳ | **[Management Trainee Intern - Waukesha](https://jobright.ai/jobs/info/68ca497a06a34016008c6227?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Oct 29 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca44c59f583c3191e3efe2?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Oct 29 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - P.E. Operations (Southeast Region)](https://jobright.ai/jobs/info/68eb24448369791ef78243e4?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 29 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69024e2fff462851fefe1c5c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Oct 29 |
-| **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Supply Chain Management Intern](https://jobright.ai/jobs/info/68ec922dd4b0106e703e984d?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 29 |
-| **[TOTE Maritime](https://www.totemaritime.com/)** | **[Internship (Development) Program - Summer 2026 - Procurement & Purchasing](https://jobright.ai/jobs/info/68f921016de2db04dc3e5bb2?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Oct 29 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Operations Reporting Intern (Summer 2026)](https://jobright.ai/jobs/info/68e568beae2b894b1d70e7f0?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

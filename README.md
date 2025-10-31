@@ -57,12 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swagelok](http://www.swagelok.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bb3acb8043103d4f226e1f?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Oct 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/690429a5ff462851feff3807?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Oct 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69042767ff462851feff3618?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Oct 30 |
+| **[Sunoco LP](https://www.sunocolp.com)** | **[Interns -Supply & Trading](https://jobright.ai/jobs/info/69042737d64a22104aa978c8?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | On Site | Oct 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/690425efff462851feff353f?utm_campaign=1050&utm_source=git)** | Defiance, OH | On Site | Oct 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/690425be63502c0aded70f23?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69042245ff462851feff32b4?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Oct 30 |
+| **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Project Management Intern (Summer 2026) - Iron Mountain, MI](https://jobright.ai/jobs/info/69041ebf63502c0aded708a3?utm_campaign=1050&utm_source=git)** | Iron Mountain, MI | On Site | Oct 30 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Supply Chain](https://jobright.ai/jobs/info/69041df9ff462851feff2eb6?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Oct 30 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Program Management](https://jobright.ai/jobs/info/69041d3dd64a22104aa970f0?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Oct 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69041c6cd64a22104aa9707e?utm_campaign=1050&utm_source=git)** | International Falls, MN | On Site | Oct 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Fairfield County](https://jobright.ai/jobs/info/69041c42ff462851feff2d67?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | Oct 30 |
+| **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Fintech Strategy](https://jobright.ai/jobs/info/69041bd563502c0aded70719?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Oct 30 |
+| **[Cone Health](http://www.conehealth.com)** | **[Intern - Executive Office](https://jobright.ai/jobs/info/68ed532870b66e2345d3ca42?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Oct 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69041b1ad64a22104aa96f9f?utm_campaign=1050&utm_source=git)** | Triadelphia, WV | On Site | Oct 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/690419ba63502c0aded70597?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Oct 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6904194263502c0aded70531?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Oct 30 |
+| **[CH2MHill BWXT West Valley (CHBWV)](https://www.chbwv.com/)** | **[Professional Intern - Project Management (C-1415) Summer 2026](https://jobright.ai/jobs/info/690417f9ff462851feff2a9d?utm_campaign=1050&utm_source=git)** | West Valley, NY, US | On Site | Oct 30 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Pharmacy Supply Chain Intern; Mount Sinai Health System](https://jobright.ai/jobs/info/69041528d64a22104aa96c4c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[CRH](http://crh.com)** | **[Intern - Logistics](https://jobright.ai/jobs/info/6904151063502c0aded70312?utm_campaign=1050&utm_source=git)** | Newburgh, IN | On Site | Oct 30 |
 | **[Coinbase](https://www.coinbase.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/690410cc63502c0aded6ffa2?utm_campaign=1050&utm_source=git)** | Hybrid - New York, NY | On Site | Oct 30 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Event Operations and Impact Intern](https://jobright.ai/jobs/info/69040ba1d64a22104aa964f4?utm_campaign=1050&utm_source=git)** | Longwood,FL,US | Hybrid | Oct 30 |
 | **[EBCO General Contractor](http://ebcogc.com)** | **[Intern - Summer 2026 (May-Aug)](https://jobright.ai/jobs/info/6904056963502c0aded6f874?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Oct 30 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - Strategy Intern](https://jobright.ai/jobs/info/6904048763502c0aded6f810?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Catering Operations Strategy (Summer 2026)](https://jobright.ai/jobs/info/69041e94d64a22104aa9719e?utm_campaign=1050&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Oct 30 |
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/6903fc73d64a22104aa95a6c?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Oct 30 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Clinical Operations, Payer Provider Advisory - Campus 2026](https://jobright.ai/jobs/info/6903f287d64a22104aa95293?utm_campaign=1050&utm_source=git)** | US - NY, New York | On Site | Oct 30 |
 | **[Whataburger](http://www.whataburger.com)** | **[Franchise Business Intern](https://jobright.ai/jobs/info/6903f1f463502c0aded6e95a?utm_campaign=1050&utm_source=git)** | 300 Concord Plaza Dr San Antonio TX 78216-6903 | On Site | Oct 30 |
@@ -138,23 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cf96ff462851fefef20b?utm_campaign=1050&utm_source=git)** | Remote-SD | Remote | Oct 30 |
 | ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cf4fff462851fefef1a8?utm_campaign=1050&utm_source=git)** | Remote-HI | Remote | Oct 30 |
 | ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cf46ff462851fefef19e?utm_campaign=1050&utm_source=git)** | Vermont, United States | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cf1fd64a22104aa9365c?utm_campaign=1050&utm_source=git)** | Remote-RI | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cf19ff462851fefef179?utm_campaign=1050&utm_source=git)** | Remote-NV | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cf0963502c0aded6ccab?utm_campaign=1050&utm_source=git)** | Remote-UT | Remote | Oct 30 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship](https://jobright.ai/jobs/info/6903ceeb63502c0aded6cc86?utm_campaign=1050&utm_source=git)** | Plantation, FL | On Site | Oct 30 |
-| **[Centene Corporation](http://www.centene.com)** | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903ced363502c0aded6cc5e?utm_campaign=1050&utm_source=git)** | Remote-OR | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cebcd64a22104aa9361e?utm_campaign=1050&utm_source=git)** | Remote-NJ | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903ce8863502c0aded6cc03?utm_campaign=1050&utm_source=git)** | Remote-WV | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903ce7fd64a22104aa935cd?utm_campaign=1050&utm_source=git)** | Remote-CA | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903ce7963502c0aded6cbee?utm_campaign=1050&utm_source=git)** | Remote-NM | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903ce4063502c0aded6cbaa?utm_campaign=1050&utm_source=git)** | Remote-ND | Remote | Oct 30 |
-| **[State Street](http://www.statestreet.com)** | **[Project Management Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6903ce12ff462851fefeeea2?utm_campaign=1050&utm_source=git)** | Quincy, MA | On Site | Oct 30 |
-| **[Centene Corporation](http://www.centene.com)** | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cdccd64a22104aa934f2?utm_campaign=1050&utm_source=git)** | Remote-IA | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cdb963502c0aded6cb0f?utm_campaign=1050&utm_source=git)** | Remote-MD | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cd9663502c0aded6cae5?utm_campaign=1050&utm_source=git)** | Remote-CO | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cd28d64a22104aa9348e?utm_campaign=1050&utm_source=git)** | Remote-IN | Remote | Oct 30 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern / Fairfield County](https://jobright.ai/jobs/info/6903cd1fff462851fefeee31?utm_campaign=1050&utm_source=git)** | Connecticut - Bridgeport, Fairfield, Milford, Stratford & Monroe | On Site | Oct 30 |
-| **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Pharmacy Supply Chain Intern; Mount Sinai Health System](https://jobright.ai/jobs/info/6903cc7bd64a22104aa933f4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 30 |
-| **[Centene Corporation](http://www.centene.com)** | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903cc7263502c0aded6c9b3?utm_campaign=1050&utm_source=git)** | Remote-MS | Remote | Oct 30 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Summer 2026 Internship - Operations](https://jobright.ai/jobs/info/6903cc5c63502c0aded6c993?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

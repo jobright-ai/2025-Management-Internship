@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sedron Technologies](http://sedron.com/)** | **[Project Management Intern – Summer 2026](https://jobright.ai/jobs/info/69048063ff462851feff5c95?utm_campaign=1050&utm_source=git)** | Bellingham, WA | On Site | Oct 31 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69047d3e63502c0aded735f1?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Oct 31 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Supply Chain Operations- Robinson Fresh](https://jobright.ai/jobs/info/6904718fff462851feff54bd?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Oct 31 |
+| **[UPS](http://www.ups.com)** | **[Air Administrative Intern](https://jobright.ai/jobs/info/69046c3b63502c0aded72c6a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6904814eff462851feff5d0a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Oct 31 |
 | **[Teamworks](http://www.teamworks.com)** | **[Strategy MBA Intern (Remote)](https://jobright.ai/jobs/info/690463e0d64a22104aa99366?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Orexin Drug Development  Intern](https://jobright.ai/jobs/info/690445f6ff462851feff46d4?utm_campaign=1050&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Oct 30 |
 | **[Whataburger](http://www.whataburger.com)** | **[Franchise Business Intern](https://jobright.ai/jobs/info/690445c863502c0aded721b5?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d3acd64a22104aa938a6?utm_campaign=1050&utm_source=git)** | Arkansas, United States | Remote | Oct 30 |
 | ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d38f63502c0aded6cf02?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Oct 30 |
 | ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d385ff462851fefef583?utm_campaign=1050&utm_source=git)** | Maryland, United States | Remote | Oct 30 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Basketball Operations Intern](https://jobright.ai/jobs/info/6903d37763502c0aded6cee3?utm_campaign=1050&utm_source=git)** | Milwaukee, WI, US | On Site | Oct 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Financial Services Internship](https://jobright.ai/jobs/info/6903d370d64a22104aa9386a?utm_campaign=1050&utm_source=git)** | Ohio - Columbus Metro | On Site | Oct 30 |
-| **[Centene Corporation](http://www.centene.com)** | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d336d64a22104aa93830?utm_campaign=1050&utm_source=git)** | Nevada, United States | Remote | Oct 30 |
-| ↳ | **[Vendor Management Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/6903d31c63502c0aded6ce79?utm_campaign=1050&utm_source=git)** | Mississippi, United States | Remote | Oct 30 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6903d2c1d64a22104aa937e8?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

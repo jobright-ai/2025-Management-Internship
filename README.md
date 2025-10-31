@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teamworks](http://www.teamworks.com)** | **[Strategy MBA Intern (Remote)](https://jobright.ai/jobs/info/690463e0d64a22104aa99366?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Orexin Drug Development  Intern](https://jobright.ai/jobs/info/690445f6ff462851feff46d4?utm_campaign=1050&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Oct 30 |
 | **[Whataburger](http://www.whataburger.com)** | **[Franchise Business Intern](https://jobright.ai/jobs/info/690445c863502c0aded721b5?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Oct 30 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: US Medical Affairs Oncology Strategy and Analytics Intern](https://jobright.ai/jobs/info/69044227d64a22104aa988a6?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/690425efff462851feff353f?utm_campaign=1050&utm_source=git)** | Defiance, OH | On Site | Oct 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/690425be63502c0aded70f23?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Oct 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69042245ff462851feff32b4?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Oct 30 |
-| **[Sam's Club](http://www.samsclub.com)** | **[2025 Intern Conversion: 2026 FT Sam’s Club Manager, Project Management](https://jobright.ai/jobs/info/69044331ff462851feff458a?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Oct 30 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Project Management Intern (Summer 2026) - Iron Mountain, MI](https://jobright.ai/jobs/info/69041ebf63502c0aded708a3?utm_campaign=1050&utm_source=git)** | Iron Mountain, MI | On Site | Oct 30 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Supply Chain](https://jobright.ai/jobs/info/69041df9ff462851feff2eb6?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Oct 30 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Program Management](https://jobright.ai/jobs/info/69041d3dd64a22104aa970f0?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Oct 30 |

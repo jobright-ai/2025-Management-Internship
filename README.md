@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/69062dd7122e8474c78df4b6?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Nov 01 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 01 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/690628c2122e8474c78df35c?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Platform Strategy Intern](https://jobright.ai/jobs/info/68e96cfaf195760c354a8f1c?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bc1dfeeb0006c1a56f08?utm_campaign=1050&utm_source=git)** | Wexford, PA | On Site | Nov 01 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6905df9b122e8474c78dc92e?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 01 |
 | **[Intuit](https://www.intuit.com)** | **[UR Event - Summer 2026 Technical Program Manager Intern](https://jobright.ai/jobs/info/69061eb5122e8474c78defb7?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Nov 01 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68cf7ff2fb49c96ca6ea9065?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern – IT Project Manager](https://jobright.ai/jobs/info/68ea15e954fbf903f6a816fe?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6905d9f9122e8474c78dc70a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 01 |
 | **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/6905d9c9ff462851fe000f3c?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Nov 01 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Procurement & Sourcing Intern](https://jobright.ai/jobs/info/68e95a0ef195760c354a7e6e?utm_campaign=1050&utm_source=git)** | Colmar, PA | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfcd5128dc347fd91ced4?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Nov 01 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccee0f77add66568abc033?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Nov 01 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6a128dc347fd91cfb0?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - California State East Bay](https://jobright.ai/jobs/info/6905d1c563502c0aded7e51c?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

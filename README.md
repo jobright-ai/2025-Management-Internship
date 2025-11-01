@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Savant Wealth Management](https://savantwealth.com/)** | **[Spring 2026 - Advisory Internship/Co- Op - Wyomissing, PA](https://jobright.ai/jobs/info/69066365122e8474c78dfecd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA, USA | On Site | Nov 01 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facilities Administration - Spring 2026](https://jobright.ai/jobs/info/69066354ff462851fe00476f?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/69062dd7122e8474c78df4b6?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 01 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/690628c2122e8474c78df35c?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 01 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aeb6167bcb7608b3d28ed7?utm_campaign=1050&utm_source=git)** | Dickinson, ND | On Site | Nov 01 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 - IT Asset & Vendor Management Internship/Co-Op](https://jobright.ai/jobs/info/68e96ac565768b6412b1bca3?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Nov 01 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Phoenix & Portland](https://jobright.ai/jobs/info/68aebed203c5f15c2fd8b5e5?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Nov 01 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Administrative Summer Intern - Celina](https://jobright.ai/jobs/info/68ce76ee846f0b04af67a25a?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | Nov 01 |
 | **[ITT Inc.](http://www.itt.com)** | **[Strategy & Business Development Intern](https://jobright.ai/jobs/info/68f66d2c9a63986de757e482?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Nov 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager,Project Intern (Travel & Entertainment Ads) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68f9ed198a7359609b8c7c40?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 01 |
 | **[RYKER](www.rykergis.com)** | **[Leadership Development Program](https://jobright.ai/jobs/info/69060634122e8474c78ddd96?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Nov 01 |
@@ -145,8 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[SHM Program 2026 - Operations Intern - Collegiate Hospitality - Florida State University](https://jobright.ai/jobs/info/6905d75eff462851fe000df1?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Nov 01 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/68e958d965768b6412b1abb5?utm_campaign=1050&utm_source=git)** | Colmar, PA | Hybrid | Nov 01 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/68f653cd9a63986de757d58d?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Nov 01 |
-| **[ABB](https://global.abb/group/en)** | **[Operations assistant Intern](https://jobright.ai/jobs/info/6905d13e122e8474c78dc1ff?utm_campaign=1050&utm_source=git)** | Location, WV | On Site | Nov 01 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/690603a363502c0aded7ffa8?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - California State East Bay](https://jobright.ai/jobs/info/6905c879ff462851fe000474?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Nov 01 |
 | **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/6905fff0122e8474c78dda42?utm_campaign=1050&utm_source=git)** | Duluth, Minnesota | On Site | Nov 01 |
 | **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Nursing Leadership](https://jobright.ai/jobs/info/68ffbae4e0c73b3a1119dd2e?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfcd5128dc347fd91ced4?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Nov 01 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccee0f77add66568abc033?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Nov 01 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6a128dc347fd91cfb0?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - California State East Bay](https://jobright.ai/jobs/info/6905d1c563502c0aded7e51c?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

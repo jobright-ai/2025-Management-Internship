@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Transaction Intern - Summer 2026](https://jobright.ai/jobs/info/690591a963502c0aded7c3ba?utm_campaign=1050&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | On Site | Oct 31 |
+| ↳ | **[Closure Intern - Summer 2026](https://jobright.ai/jobs/info/69058ff9ff462851feffe92a?utm_campaign=1050&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | Hybrid | Oct 31 |
+| **[GALLO](http://www.gallocareers.com)** | **[MBA Supply Chain Internship 2026](https://jobright.ai/jobs/info/68db037ae9b48513789b1301?utm_campaign=1050&utm_source=git)** | Modesto, CA | On Site | Oct 31 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6905817c63502c0aded7bb1e?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Oct 31 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690580b063502c0aded7ba96?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69057fd1122e8474c78d9841?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Oct 31 |
@@ -87,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[Ripken Baseball](https://www.ripkenbaseball.com)** | **[2026 Summer Hospitality Intern](https://jobright.ai/jobs/info/690541fc122e8474c78d7e64?utm_campaign=1050&utm_source=git)** | Pigeon Forge, TN | On Site | Oct 31 |
 | **[Gerald Group](https://www.gerald.com)** | **[2026 Summer Internship - ESG Department](https://jobright.ai/jobs/info/69053f14122e8474c78d7d7e?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[President's Office Intern - Summer 2026](https://jobright.ai/jobs/info/69053c9d63502c0aded79c8f?utm_campaign=1050&utm_source=git)** | Chicago Office | Hybrid | Oct 31 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facilities Administration - Spring 2026](https://jobright.ai/jobs/info/69053c9863502c0aded79c8c?utm_campaign=1050&utm_source=git)** | Culver City, California | On Site | Oct 31 |
 | **[TE Connectivity](http://www.te.com)** | **[PROJECT MANAGER INTERN](https://jobright.ai/jobs/info/69053b2f122e8474c78d7aa5?utm_campaign=1050&utm_source=git)** | Montgomery County, PA | On Site | Oct 31 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Procurement Senior Intern](https://jobright.ai/jobs/info/69053b1a63502c0aded79bfc?utm_campaign=1050&utm_source=git)** | IL - Chicago | On Site | Oct 31 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facilities Administration - Spring 2026](https://jobright.ai/jobs/info/69053ab8ff462851feffc05a?utm_campaign=1050&utm_source=git)** | Culver City, California | On Site | Oct 31 |
 | **[MacArthur Foundation](http://www.macfound.org)** | **[Administrative Services Intern - Summer 2026](https://jobright.ai/jobs/info/690533ab63502c0aded79747?utm_campaign=1050&utm_source=git)** | Chicago Office | Hybrid | Oct 31 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Global Sustainability Graduate Internship](https://jobright.ai/jobs/info/68f1be93ef766b3f0fd11b6e?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Oct 31 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/68ffea4ee0c73b3a111a066c?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Healthcare Management Intern](https://jobright.ai/jobs/info/69050831122e8474c78d5553?utm_campaign=1050&utm_source=git)** | Missouri, United States | On Site | Oct 31 |
 | ↳ | **[Healthcare Management Intern](https://jobright.ai/jobs/info/6905071d122e8474c78d54ae?utm_campaign=1050&utm_source=git)** | United States | Remote | Oct 31 |
 | ↳ | **[Healthcare Management Intern](https://jobright.ai/jobs/info/690500a7122e8474c78d5046?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Oct 31 |
-| **[Gerald Group](https://www.gerald.com)** | **[2026 Summer Internship - ESG Department](https://jobright.ai/jobs/info/69052d29ff462851feffb669?utm_campaign=1050&utm_source=git)** | Stamford, Connecticut, United States | On Site | Oct 31 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Atlantic Region)](https://jobright.ai/jobs/info/690523c6122e8474c78d68ce?utm_campaign=1050&utm_source=git)** | US-NY-Elmsford | On Site | Oct 31 |
-| ↳ | **[MBA Intern - Operational Leadership (Midwest Region)](https://jobright.ai/jobs/info/690523ba122e8474c78d68c5?utm_campaign=1050&utm_source=git)** | US-MO-Manchester | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

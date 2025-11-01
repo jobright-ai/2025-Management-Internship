@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead](https://jobright.ai/jobs/info/69067c4dff462851fe004b14?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
+| **[CFG Bank](https://thecfgbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69067674ff462851fe004a8e?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Spring 2026 - Advisory Internship/Co- Op - Wyomissing, PA](https://jobright.ai/jobs/info/69066365122e8474c78dfecd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA, USA | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facilities Administration - Spring 2026](https://jobright.ai/jobs/info/69066354ff462851fe00476f?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/69062dd7122e8474c78df4b6?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Nov 01 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern-Bend, OR](https://jobright.ai/jobs/info/68e9bca1feeb0006c1a56f55?utm_campaign=1050&utm_source=git)** | Bend, OR | On Site | Nov 01 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bae70930fe0bc4628973?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 01 |
 | ↳ | **[Management Trainee Internship - Summer 2026](https://jobright.ai/jobs/info/68943d27a9199876488e3dee?utm_campaign=1050&utm_source=git)** | Rio Rancho, NM | On Site | Nov 01 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/690614fb122e8474c78de8cf?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bbecfeeb0006c1a56ee4?utm_campaign=1050&utm_source=git)** | Altoona, PA | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e907e40930fe0bc4621cca?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Nov 01 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Project Coordinator (DoD SkillBridge Internship)](https://jobright.ai/jobs/info/68d01caf846f0b04af68798e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee State University](https://jobright.ai/jobs/info/68cd96031ad6b16f0289bed1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 01 |
 | **[MD&A](www.mdaturbines.com)** | **[Project Operations Intern](https://jobright.ai/jobs/info/69061406122e8474c78de6d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 01 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Corporate Entertainment Operations](https://jobright.ai/jobs/info/68ccedcf77add66568abbfb2?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68cc97dd128dc347fd927108?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Nov 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Project & Change Management Intern (Graduate)](https://jobright.ai/jobs/info/68e9d56a54fbf903f6a7f06f?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/68ce0b931ad6b16f028a166c?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |

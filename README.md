@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729f163502c0aded8526d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729b763502c0aded85242?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69072849122e8474c78e2ea3?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6907265aff462851fe007690?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 02 |
+| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6907237cff462851fe0075c6?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 02 |
+| **[The Phoenix Companies, Inc.](https://www.phoenixwm.phl.com)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/690722f8ff462851fe00759f?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Nov 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69071f43ff462851fe007507?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690716e4122e8474c78e2816?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907166cff462851fe00703e?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907161bff462851fe007027?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907151563502c0aded84adb?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Nov 02 |
 | **[GenPark](https://genpark.ai)** | **[Project Intern](https://jobright.ai/jobs/info/6907045cff462851fe0067e5?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 02 |
-| **[Eruption Boxing & MMA Mgmt](https://eruptionboxing.com)** | **[Project Intern](https://jobright.ai/jobs/info/6906d72d63502c0aded836c1?utm_campaign=1050&utm_source=git)** | Orange, CA | Remote | Nov 01 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Material Services (Provo)](https://jobright.ai/jobs/info/6906c33cff462851fe005405?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Nov 01 |
 | ↳ | **[2026 Summer Internship - Material Services Specialist (Battle Creek)](https://jobright.ai/jobs/info/6906c159122e8474c78e0b1d?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Nov 01 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a177ff462851fe004d73?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6905d9f9122e8474c78dc70a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 01 |
 | **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/6905d9c9ff462851fe000f3c?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Nov 01 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Procurement & Sourcing Intern](https://jobright.ai/jobs/info/68e95a0ef195760c354a7e6e?utm_campaign=1050&utm_source=git)** | Colmar, PA | On Site | Nov 01 |
-| **[Lhoist](http://www.lhoist.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68cdfbc1b2a74e1837ede05d?utm_campaign=1050&utm_source=git)** | Calera, AL | On Site | Nov 01 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Phoenix & Portland](https://jobright.ai/jobs/info/68aecd7903c5f15c2fd8bb6a?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Nov 01 |
-| **[Aramark](http://www.aramark.com)** | **[SHM Program 2026 - Operations Intern - Collegiate Hospitality - Florida State University](https://jobright.ai/jobs/info/6905d75eff462851fe000df1?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Nov 01 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/68e958d965768b6412b1abb5?utm_campaign=1050&utm_source=git)** | Colmar, PA | Hybrid | Nov 01 |
-| **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/68f653cd9a63986de757d58d?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Nov 01 |
-| **[Sompo](https://www.sompo-intl.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/68ec8de6c26b9574506f341c?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - California State East Bay](https://jobright.ai/jobs/info/6905c879ff462851fe000474?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Nov 01 |
-| **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/6905fff0122e8474c78dda42?utm_campaign=1050&utm_source=git)** | Duluth, Minnesota | On Site | Nov 01 |
-| **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Nursing Leadership](https://jobright.ai/jobs/info/68ffbae4e0c73b3a1119dd2e?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 01 |
-| ↳ | **[Internship- Post Acute Rehab](https://jobright.ai/jobs/info/68f18563ef766b3f0fd0f0ce?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

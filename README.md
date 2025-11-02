@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eruption Boxing & MMA Mgmt](https://eruptionboxing.com)** | **[Project Intern](https://jobright.ai/jobs/info/6906d72d63502c0aded836c1?utm_campaign=1050&utm_source=git)** | Orange, CA | Remote | Nov 01 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Material Services (Provo)](https://jobright.ai/jobs/info/6906c33cff462851fe005405?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Nov 01 |
 | ↳ | **[2026 Summer Internship - Material Services Specialist (Battle Creek)](https://jobright.ai/jobs/info/6906c159122e8474c78e0b1d?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Nov 01 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a177ff462851fe004d73?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
@@ -95,10 +96,10 @@ For a complete list, click the following sortable link below:
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Project Coordinator (DoD SkillBridge Internship)](https://jobright.ai/jobs/info/68d01caf846f0b04af68798e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee State University](https://jobright.ai/jobs/info/68cd96031ad6b16f0289bed1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 01 |
 | **[MD&A](www.mdaturbines.com)** | **[Project Operations Intern](https://jobright.ai/jobs/info/69061406122e8474c78de6d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 01 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Corporate Entertainment Operations](https://jobright.ai/jobs/info/68ccedcf77add66568abbfb2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68cc97dd128dc347fd927108?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Nov 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Project & Change Management Intern (Graduate)](https://jobright.ai/jobs/info/68e9d56a54fbf903f6a7f06f?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/68ce0b931ad6b16f028a166c?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Corporate Entertainment Operations](https://jobright.ai/jobs/info/68ccedcf77add66568abbfb2?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Nov 01 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f400a09a63986de7574247?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68cd18f7e23def7af55b5302?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/6905fff0122e8474c78dda42?utm_campaign=1050&utm_source=git)** | Duluth, Minnesota | On Site | Nov 01 |
 | **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Nursing Leadership](https://jobright.ai/jobs/info/68ffbae4e0c73b3a1119dd2e?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 01 |
 | ↳ | **[Internship- Post Acute Rehab](https://jobright.ai/jobs/info/68f18563ef766b3f0fd0f0ce?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 01 |
-| **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cceea077add66568abc175?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

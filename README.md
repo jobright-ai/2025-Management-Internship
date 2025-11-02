@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/6907aea263502c0aded8845b?utm_campaign=1050&utm_source=git)** | US-NC-Cary HQ | Hybrid | Nov 02 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Undergrad Internship - Summer 2026](https://jobright.ai/jobs/info/6907ae6f63502c0aded88448?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Nov 02 |
+| ↳ | **[Emory Healthcare Administrative Graduate Internship- Summer 2026](https://jobright.ai/jobs/info/6907ab56ff462851fe00a7b3?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Nov 02 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/6907ab3eff462851fe00a7a4?utm_campaign=1050&utm_source=git)** | North Carolina | Hybrid | Nov 02 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Logistics Intern](https://jobright.ai/jobs/info/6907a9ec63502c0aded88380?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Nov 02 |
+| **[Value Aligners](Valuealigners.com)** | **[Cybersecurity Project Manager Intern](https://jobright.ai/jobs/info/6907a9cdff462851fe00a716?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Nov 02 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/6907a65f122e8474c78e5e6c?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Nov 02 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Procurement Senior Intern](https://jobright.ai/jobs/info/6907a336122e8474c78e5de0?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt ( 40645)](https://jobright.ai/jobs/info/69078dff122e8474c78e5a81?utm_campaign=1050&utm_source=git)** | Richland, WA | On Site | Nov 02 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Supply Chain & Data Analytics Intern Spring - 2026](https://jobright.ai/jobs/info/69078440ff462851fe00a0dd?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Nov 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Operations Strategy Corporate Internship (Graduate)](https://jobright.ai/jobs/info/6907843863502c0aded87c4f?utm_campaign=1050&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 02 |
@@ -106,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Hyatt](http://www.hyatt.com/)** | **[College Intern - Resort Operations](https://jobright.ai/jobs/info/68ceae75dbd9fb154ede214c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Buffalo](https://jobright.ai/jobs/info/68db741134f2c406da6d831c?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Nov 02 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/68f5c31e9a65fd345858ed15?utm_campaign=1050&utm_source=git)** | Chesterfield, MI | On Site | Nov 02 |
-| ↳ | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/68fdda2ce04ac838fb5b2339?utm_campaign=1050&utm_source=git)** | Maquoketa, IA | On Site | Nov 02 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/68b1445a6fab621da7b0bcca?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Estero, FL (June 2026)](https://jobright.ai/jobs/info/68b22f4d1ade4306aa634c59?utm_campaign=1050&utm_source=git)** | Estero, FL | On Site | Nov 02 |
 | ↳ | **[Construction Management Intern - New York (June 2026)](https://jobright.ai/jobs/info/68cfc420dbd9fb154edeab1b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bc1dfeeb0006c1a56f08?utm_campaign=1050&utm_source=git)** | Wexford, PA | On Site | Nov 01 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cdc26d1ad6b16f0289eafb?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Nov 01 |
 | **[National Life Group](https://www.nationallife.com)** | **[Project Management Office Intern – Summer 2026](https://jobright.ai/jobs/info/68e94b0d9020b95add6a5854?utm_campaign=1050&utm_source=git)** | Addison, TX | Hybrid | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc5108128dc347fd92274c?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Nov 01 |
-| **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Supply Chain](https://jobright.ai/jobs/info/68e958abf195760c354a7bd0?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Nov 01 |
-| **[McCain Foods](https://www.mccain.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ec8fefd4b0106e703e8f5b?utm_campaign=1050&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Nov 01 |
-| **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Logistics Optimization Intern](https://jobright.ai/jobs/info/68df0b275ab4977c2e94d980?utm_campaign=1050&utm_source=git)** | Niskayuna, NY | On Site | Nov 01 |
-| **[USI Insurance Services](https://www.usi.com/)** | **[Corp Strategy and Business Initiatives Intern](https://jobright.ai/jobs/info/69061c2963502c0aded811e0?utm_campaign=1050&utm_source=git)** | Valhalla, NY | On Site | Nov 01 |
-| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Logistics Analyst Intern](https://jobright.ai/jobs/info/68cde0feb2a74e1837edd0f7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 01 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Denver)](https://jobright.ai/jobs/info/68af94682daaba398441f424?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

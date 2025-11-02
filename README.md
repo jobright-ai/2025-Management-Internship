@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Operations Intern](https://jobright.ai/jobs/info/69069a04122e8474c78e0493?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 01 |
+| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/690682cfff462851fe004b7c?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 01 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead](https://jobright.ai/jobs/info/69067c4dff462851fe004b14?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
 | **[CFG Bank](https://thecfgbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69067674ff462851fe004a8e?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Spring 2026 - Advisory Internship/Co- Op - Wyomissing, PA](https://jobright.ai/jobs/info/69066365122e8474c78dfecd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA, USA | On Site | Nov 01 |
@@ -91,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Project Coordinator (DoD SkillBridge Internship)](https://jobright.ai/jobs/info/68d01caf846f0b04af68798e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee State University](https://jobright.ai/jobs/info/68cd96031ad6b16f0289bed1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 01 |
 | **[MD&A](www.mdaturbines.com)** | **[Project Operations Intern](https://jobright.ai/jobs/info/69061406122e8474c78de6d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 01 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Corporate Entertainment Operations](https://jobright.ai/jobs/info/68ccedcf77add66568abbfb2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68cc97dd128dc347fd927108?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Nov 01 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Project & Change Management Intern (Graduate)](https://jobright.ai/jobs/info/68e9d56a54fbf903f6a7f06f?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
 | **[INTEGRIS Health](https://www.integrisok.com)** | **[Administrative Internship](https://jobright.ai/jobs/info/68ce0b931ad6b16f028a166c?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Nov 01 |
@@ -146,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[SHM Program 2026 - Operations Intern - Collegiate Hospitality - Florida State University](https://jobright.ai/jobs/info/6905d75eff462851fe000df1?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Nov 01 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/68e958d965768b6412b1abb5?utm_campaign=1050&utm_source=git)** | Colmar, PA | Hybrid | Nov 01 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/68f653cd9a63986de757d58d?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Nov 01 |
+| **[Sompo](https://www.sompo-intl.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/68ec8de6c26b9574506f341c?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - California State East Bay](https://jobright.ai/jobs/info/6905c879ff462851fe000474?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Nov 01 |
 | **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/6905fff0122e8474c78dda42?utm_campaign=1050&utm_source=git)** | Duluth, Minnesota | On Site | Nov 01 |
 | **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Nursing Leadership](https://jobright.ai/jobs/info/68ffbae4e0c73b3a1119dd2e?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cceea077add66568abc175?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6c7342c7623ae5d022?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Nov 01 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccfda8d11b445e0bee599f?utm_campaign=1050&utm_source=git)** | Collegeville, PA | On Site | Nov 01 |
-| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfcd5128dc347fd91ced4?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Nov 01 |
-| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccee0f77add66568abc033?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Nov 01 |
-| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6a128dc347fd91cfb0?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - California State East Bay](https://jobright.ai/jobs/info/6905d1c563502c0aded7e51c?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

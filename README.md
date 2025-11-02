@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tensor Phone](tensorphone.com)** | **[Startup Executive Assistant Intern (High School)](https://jobright.ai/jobs/info/6907d07063502c0aded893c2?utm_campaign=1050&utm_source=git)** | Newtown, PA | Remote | Nov 02 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Management Intern](https://jobright.ai/jobs/info/6907cb42ff462851fe00b656?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Nov 02 |
+| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6907c93e63502c0aded8927f?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 02 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Undergrad Internship - Summer 2026](https://jobright.ai/jobs/info/6907bcee122e8474c78e661e?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 02 |
+| **[Nassau Community College](http://www.ncc.edu/)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/6907bbe8ff462851fe00ae06?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Nov 02 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Graduate Internship- Summer 2026](https://jobright.ai/jobs/info/6907b9ef122e8474c78e6569?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 02 |
+| **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/6907b846122e8474c78e62bc?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Nov 02 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/6907aea263502c0aded8845b?utm_campaign=1050&utm_source=git)** | US-NC-Cary HQ | Hybrid | Nov 02 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Undergrad Internship - Summer 2026](https://jobright.ai/jobs/info/6907ae6f63502c0aded88448?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Nov 02 |
 | ↳ | **[Emory Healthcare Administrative Graduate Internship- Summer 2026](https://jobright.ai/jobs/info/6907ab56ff462851fe00a7b3?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Nov 02 |
@@ -69,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Supply Chain & Data Analytics Intern Spring - 2026](https://jobright.ai/jobs/info/69078440ff462851fe00a0dd?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Nov 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Operations Strategy Corporate Internship (Graduate)](https://jobright.ai/jobs/info/6907843863502c0aded87c4f?utm_campaign=1050&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 02 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68cda6fce23def7af55bd5a3?utm_campaign=1050&utm_source=git)** | Pardeeville, WI | On Site | Nov 02 |
-| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Business Operations](https://jobright.ai/jobs/info/69077dc4122e8474c78e5601?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Nov 02 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68cd6e1fe23def7af55b9bf5?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Automotive Project Management Intern – Spring 2026](https://jobright.ai/jobs/info/68cd5f55e23def7af55b91b8?utm_campaign=1050&utm_source=git)** | Madison Heights, MI | Hybrid | Nov 02 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68b1ebfabc187f64e1bd7cca?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 02 |
@@ -89,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Strategic Sourcing](https://jobright.ai/jobs/info/68cd9e62b2a74e1837ed9cce?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  R&D Portfolio Strategy & Execution Team](https://jobright.ai/jobs/info/69076eeaff462851fe0094f0?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897d1978c6d6b4426792700?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Nov 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69076e9d63502c0aded8704f?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[R&D Strategy and Performance Excellence (SPx) Graduate Intern](https://jobright.ai/jobs/info/69076e6a63502c0aded87024?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | ↳ | **[Undergrad Intern  Business Operations in R&D Strategy & Operations](https://jobright.ai/jobs/info/69076e32122e8474c78e4c2c?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | ↳ | **[Graduate Intern  R&D Portfolio Strategy & Execution Team](https://jobright.ai/jobs/info/69076e2e63502c0aded86fc8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
@@ -136,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729b763502c0aded85242?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69072849122e8474c78e2ea3?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6907265aff462851fe007690?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 02 |
-| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6907237cff462851fe0075c6?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 02 |
 | **[The Phoenix Companies, Inc.](https://www.phoenixwm.phl.com)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/690722f8ff462851fe00759f?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Nov 02 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69071f43ff462851fe007507?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690716e4122e8474c78e2816?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Nov 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Spring 2026 - Advisory Internship/Co- Op - Wyomissing, PA](https://jobright.ai/jobs/info/69066365122e8474c78dfecd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA, USA | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facilities Administration - Spring 2026](https://jobright.ai/jobs/info/69066354ff462851fe00476f?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/69062dd7122e8474c78df4b6?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 01 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/690628c2122e8474c78df35c?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 01 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Platform Strategy Intern](https://jobright.ai/jobs/info/68e96cfaf195760c354a8f1c?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bc1dfeeb0006c1a56f08?utm_campaign=1050&utm_source=git)** | Wexford, PA | On Site | Nov 01 |
-| **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cdc26d1ad6b16f0289eafb?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Nov 01 |
-| **[National Life Group](https://www.nationallife.com)** | **[Project Management Office Intern – Summer 2026](https://jobright.ai/jobs/info/68e94b0d9020b95add6a5854?utm_campaign=1050&utm_source=git)** | Addison, TX | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

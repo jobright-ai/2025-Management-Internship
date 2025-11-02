@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a177ff462851fe004d73?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
 | **[GenPark](https://genpark.ai)** | **[Operations Intern](https://jobright.ai/jobs/info/69069a04122e8474c78e0493?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 01 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/690682cfff462851fe004b7c?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 01 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead](https://jobright.ai/jobs/info/69067c4dff462851fe004b14?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship- Post Acute Rehab](https://jobright.ai/jobs/info/68f18563ef766b3f0fd0f0ce?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 01 |
 | **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cceea077add66568abc175?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6c7342c7623ae5d022?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Nov 01 |
-| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccfda8d11b445e0bee599f?utm_campaign=1050&utm_source=git)** | Collegeville, PA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt ( 40645)](https://jobright.ai/jobs/info/69078dff122e8474c78e5a81?utm_campaign=1050&utm_source=git)** | Richland, WA | On Site | Nov 02 |
+| **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Supply Chain & Data Analytics Intern Spring - 2026](https://jobright.ai/jobs/info/69078440ff462851fe00a0dd?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Nov 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Retail Operations Strategy Corporate Internship (Graduate)](https://jobright.ai/jobs/info/6907843863502c0aded87c4f?utm_campaign=1050&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 02 |
+| **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68cda6fce23def7af55bd5a3?utm_campaign=1050&utm_source=git)** | Pardeeville, WI | On Site | Nov 02 |
+| **[Election Systems & Software](http://www.essvote.com/)** | **[Summer 2026 Internship - Business Operations](https://jobright.ai/jobs/info/69077dc4122e8474c78e5601?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Nov 02 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68cd6e1fe23def7af55b9bf5?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Automotive Project Management Intern – Spring 2026](https://jobright.ai/jobs/info/68cd5f55e23def7af55b91b8?utm_campaign=1050&utm_source=git)** | Madison Heights, MI | Hybrid | Nov 02 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68b1ebfabc187f64e1bd7cca?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[USI Insurance Services](https://www.usi.com/)** | **[Corp Strategy and Business Initiatives Intern](https://jobright.ai/jobs/info/69061c2963502c0aded811e0?utm_campaign=1050&utm_source=git)** | Valhalla, NY | On Site | Nov 01 |
 | **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Logistics Analyst Intern](https://jobright.ai/jobs/info/68cde0feb2a74e1837edd0f7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Denver)](https://jobright.ai/jobs/info/68af94682daaba398441f424?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Nov 01 |
-| **[EXPRESS](http://express.com)** | **[Production & Sourcing Summer Internship](https://jobright.ai/jobs/info/68e9357365768b6412b195c5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[Dawn Foods Global](https://www.dawnfoods.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68cde4ee1ad6b16f0289fbef?utm_campaign=1050&utm_source=git)** | Jackson, MI | Hybrid | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bbd765768b6412b1efcf?utm_campaign=1050&utm_source=git)** | Greensburg, PA | On Site | Nov 01 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bb2965768b6412b1ef6a?utm_campaign=1050&utm_source=git)** | Erie, PA | On Site | Nov 01 |
-| ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9ba870930fe0bc462892c?utm_campaign=1050&utm_source=git)** | Uniontown, PA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

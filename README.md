@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project Intern](https://jobright.ai/jobs/info/6907045cff462851fe0067e5?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 02 |
 | **[Eruption Boxing & MMA Mgmt](https://eruptionboxing.com)** | **[Project Intern](https://jobright.ai/jobs/info/6906d72d63502c0aded836c1?utm_campaign=1050&utm_source=git)** | Orange, CA | Remote | Nov 01 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Material Services (Provo)](https://jobright.ai/jobs/info/6906c33cff462851fe005405?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Nov 01 |
 | ↳ | **[2026 Summer Internship - Material Services Specialist (Battle Creek)](https://jobright.ai/jobs/info/6906c159122e8474c78e0b1d?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Nov 01 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a177ff462851fe004d73?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
-| **[GenPark](https://genpark.ai)** | **[Operations Intern](https://jobright.ai/jobs/info/69069a04122e8474c78e0493?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 01 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead](https://jobright.ai/jobs/info/69067c4dff462851fe004b14?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
 | **[CFG Bank](https://thecfgbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69067674ff462851fe004a8e?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Spring 2026 - Advisory Internship/Co- Op - Wyomissing, PA](https://jobright.ai/jobs/info/69066365122e8474c78dfecd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA, USA | On Site | Nov 01 |

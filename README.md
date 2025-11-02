@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729f163502c0aded8526d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 02 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68f73791ec6dbe7073fb79fc?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - Cincinnati, OH](https://jobright.ai/jobs/info/68cb9903efdec76df36bf373?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain Strategy Intern - The Toro Company](https://jobright.ai/jobs/info/68cd6387b2a74e1837ed65a0?utm_campaign=1050&utm_source=git)** | Hennepin County, MN | On Site | Nov 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69072b6d122e8474c78e2f9b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69072b61122e8474c78e2f98?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Nov 02 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729f163502c0aded8526d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729b763502c0aded85242?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69072849122e8474c78e2ea3?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6907265aff462851fe007690?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6905e098ff462851fe00124c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 01 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68af99ff2daaba398441f66f?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Nov 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6905df9b122e8474c78dc92e?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 01 |
-| **[Intuit](https://www.intuit.com)** | **[UR Event - Summer 2026 Technical Program Manager Intern](https://jobright.ai/jobs/info/69061eb5122e8474c78defb7?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Nov 01 |
-| **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/68cf7ff2fb49c96ca6ea9065?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6905d9f9122e8474c78dc70a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 01 |
-| **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/6905d9c9ff462851fe000f3c?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Nov 01 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Procurement & Sourcing Intern](https://jobright.ai/jobs/info/68e95a0ef195760c354a7e6e?utm_campaign=1050&utm_source=git)** | Colmar, PA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

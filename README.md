@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern - Dallas, TX](https://jobright.ai/jobs/info/69083864ff462851fe00cf80?utm_campaign=1050&utm_source=git)** | Dallas, TX, 75225, United States | On Site | Nov 02 |
+| **[Nexus Engineering Group](http://nexusegroup.com)** | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6908301163502c0aded8aa13?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
+| ↳ | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/69082ff0ff462851fe00cd77?utm_campaign=1050&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
+| **[PlayStation](https://www.playstation.com/)** | **[Technical Project Management Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2ac320456578d5eb60d7?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Nov 02 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Facilities Management Intern](https://jobright.ai/jobs/info/6907f653122e8474c78e7632?utm_campaign=1050&utm_source=git)** | St James, NY | On Site | Nov 02 |
 | **[Tensor Phone](tensorphone.com)** | **[Startup Executive Assistant Intern (High School)](https://jobright.ai/jobs/info/6907d07063502c0aded893c2?utm_campaign=1050&utm_source=git)** | Newtown, PA | Remote | Nov 02 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6907c93e63502c0aded8927f?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 02 |
@@ -107,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - West Palm Beach, FL (June 2026)](https://jobright.ai/jobs/info/68b233cbbc187f64e1bd9ca1?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689559fc4ed2ea559ca55327?utm_campaign=1050&utm_source=git)** | Robinson, IL | On Site | Nov 02 |
 | **[Nestlé Purina North America](https://www.nestlejobs.com/nestle-purina)** | **[Supply Chain Management Development Associate](https://jobright.ai/jobs/info/6894eb9373b3a600fe883552?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Nov 02 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/690835dbff462851fe00cee9?utm_campaign=1050&utm_source=git)** | Savanna, IL | On Site | Nov 02 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68c8f972f9c6ff7aedf15689?utm_campaign=1050&utm_source=git)** | Texas City, TX | On Site | Nov 02 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Operations Intern - Undergraduate](https://jobright.ai/jobs/info/68cde8fa1ad6b16f0289fd42?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Nov 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Albany](https://jobright.ai/jobs/info/68cea159fb49c96ca6ea23c9?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Nov 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a177ff462851fe004d73?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/69057716ff462851feffdb21?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Nov 01 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead](https://jobright.ai/jobs/info/69067c4dff462851fe004b14?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
-| **[CFG Bank](https://thecfgbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69067674ff462851fe004a8e?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
-| **[Savant Wealth Management](https://savantwealth.com/)** | **[Spring 2026 - Advisory Internship/Co- Op - Wyomissing, PA](https://jobright.ai/jobs/info/69066365122e8474c78dfecd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA, USA | On Site | Nov 01 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facilities Administration - Spring 2026](https://jobright.ai/jobs/info/69066354ff462851fe00476f?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
-| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/69062dd7122e8474c78df4b6?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

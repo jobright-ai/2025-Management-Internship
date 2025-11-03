@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Hospitality Internship](https://jobright.ai/jobs/info/68cff5a5dbd9fb154edec55e?utm_campaign=1050&utm_source=git)** | Laramie, WY | On Site | Nov 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cd6824e23def7af55b98d0?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 03 |
+| **[Aptiv](http://www.aptiv.com)** | **[Production Control and Logistics Intern](https://jobright.ai/jobs/info/68ec6615bb72c377a5513297?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Nov 03 |
+| **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Intern-Operations/Supply Chain](https://jobright.ai/jobs/info/68eca819c26b9574506f61ea?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Nov 03 |
+| **[ABB](https://global.abb/group/en)** | **[Procurement and Logistics Intern - Summer 2026](https://jobright.ai/jobs/info/6908898e4a1b456627af6b2b?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Nov 03 |
+| ↳ | **[Digital Operations & Logistics Intern- Summer 2026](https://jobright.ai/jobs/info/6908857fd046ab6061ccb656?utm_campaign=1050&utm_source=git)** | Senatobia, MS | On Site | Nov 03 |
+| ↳ | **[Supply Chain Management Intern - Spring 2026](https://jobright.ai/jobs/info/6908800d4a1b456627af6182?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Nov 03 |
+| ↳ | **[Supply Chain & Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/690880064a1b456627af6179?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Nov 03 |
+| ↳ | **[SCM Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/69087fb9bcccf20de59d0985?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Nov 03 |
+| ↳ | **[Health, Safety & Environment  Intern - Spring 2026](https://jobright.ai/jobs/info/69087f114a1b456627af5fc3?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Nov 03 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69087ecad046ab6061ccae1f?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Nov 03 |
+| **[ABB](https://global.abb/group/en)** | **[Health, Safety, & Environmental Intern-Summer 2026](https://jobright.ai/jobs/info/69087dc74a1b456627af5d81?utm_campaign=1050&utm_source=git)** | Bartlesville, OK | On Site | Nov 03 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/69087bf6d046ab6061ccac70?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 03 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/690879e1d046ab6061cca8e9?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 03 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[MBA Internship Summer 2026](https://jobright.ai/jobs/info/68ed214f70b66e2345d3ac68?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Nov 03 |
@@ -104,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Strategic Sourcing](https://jobright.ai/jobs/info/68cd9e62b2a74e1837ed9cce?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  R&D Portfolio Strategy & Execution Team](https://jobright.ai/jobs/info/69076eeaff462851fe0094f0?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897d1978c6d6b4426792700?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Nov 02 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69076e9d63502c0aded8704f?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[R&D Strategy and Performance Excellence (SPx) Graduate Intern](https://jobright.ai/jobs/info/69076e6a63502c0aded87024?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | ↳ | **[Undergrad Intern  Business Operations in R&D Strategy & Operations](https://jobright.ai/jobs/info/69076e32122e8474c78e4c2c?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | ↳ | **[Graduate Intern  R&D Portfolio Strategy & Execution Team](https://jobright.ai/jobs/info/69076e2e63502c0aded86fc8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68f73791ec6dbe7073fb79fc?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - Cincinnati, OH](https://jobright.ai/jobs/info/68cb9903efdec76df36bf373?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain Strategy Intern - The Toro Company](https://jobright.ai/jobs/info/68cd6387b2a74e1837ed65a0?utm_campaign=1050&utm_source=git)** | Hennepin County, MN | On Site | Nov 02 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69072b6d122e8474c78e2f9b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69072b61122e8474c78e2f98?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729f163502c0aded8526d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690729b763502c0aded85242?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69072849122e8474c78e2ea3?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6907265aff462851fe007690?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 02 |
-| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6907237cff462851fe0075c6?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 02 |
-| **[The Phoenix Companies, Inc.](https://www.phoenixwm.phl.com)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/690722f8ff462851fe00759f?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Nov 02 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69071f43ff462851fe007507?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690716e4122e8474c78e2816?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907166cff462851fe00703e?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

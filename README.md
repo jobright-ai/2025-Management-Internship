@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dyson Benelux](http://www.dyson.com)** | **[Facilities Management Intern](https://jobright.ai/jobs/info/6907f653122e8474c78e7632?utm_campaign=1050&utm_source=git)** | St James, NY | On Site | Nov 02 |
 | **[Tensor Phone](tensorphone.com)** | **[Startup Executive Assistant Intern (High School)](https://jobright.ai/jobs/info/6907d07063502c0aded893c2?utm_campaign=1050&utm_source=git)** | Newtown, PA | Remote | Nov 02 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Management Intern](https://jobright.ai/jobs/info/6907cb42ff462851fe00b656?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Nov 02 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6907c93e63502c0aded8927f?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 02 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/6907ab3eff462851fe00a7a4?utm_campaign=1050&utm_source=git)** | North Carolina | Hybrid | Nov 02 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Logistics Intern](https://jobright.ai/jobs/info/6907a9ec63502c0aded88380?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Nov 02 |
 | **[Value Aligners](Valuealigners.com)** | **[Cybersecurity Project Manager Intern](https://jobright.ai/jobs/info/6907a9cdff462851fe00a716?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Nov 02 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/6907a65f122e8474c78e5e6c?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Procurement Senior Intern](https://jobright.ai/jobs/info/6907a336122e8474c78e5de0?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt ( 40645)](https://jobright.ai/jobs/info/69078dff122e8474c78e5a81?utm_campaign=1050&utm_source=git)** | Richland, WA | On Site | Nov 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Operations Strategy Corporate Internship (Graduate)](https://jobright.ai/jobs/info/6907843863502c0aded87c4f?utm_campaign=1050&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 02 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Material Services (Provo)](https://jobright.ai/jobs/info/6906c33cff462851fe005405?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Nov 01 |
 | ↳ | **[2026 Summer Internship - Material Services Specialist (Battle Creek)](https://jobright.ai/jobs/info/6906c159122e8474c78e0b1d?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Nov 01 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a177ff462851fe004d73?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/69057716ff462851feffdb21?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Nov 01 |
 | **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead](https://jobright.ai/jobs/info/69067c4dff462851fe004b14?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
 | **[CFG Bank](https://thecfgbank.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69067674ff462851fe004a8e?utm_campaign=1050&utm_source=git)** | Baltimore, MD | On Site | Nov 01 |
 | **[Savant Wealth Management](https://savantwealth.com/)** | **[Spring 2026 - Advisory Internship/Co- Op - Wyomissing, PA](https://jobright.ai/jobs/info/69066365122e8474c78dfecd?utm_campaign=1050&utm_source=git)** | Wyomissing, PA, USA | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facilities Administration - Spring 2026](https://jobright.ai/jobs/info/69066354ff462851fe00476f?utm_campaign=1050&utm_source=git)** | Culver City, CA | On Site | Nov 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - Cambridge, MA (Summer 2026)](https://jobright.ai/jobs/info/69062dd7122e8474c78df4b6?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Nov 01 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bcb8feeb0006c1a56f63?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

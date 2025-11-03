@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/69087bf6d046ab6061ccac70?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 03 |
+| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/690879e1d046ab6061cca8e9?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 03 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[MBA Internship Summer 2026](https://jobright.ai/jobs/info/68ed214f70b66e2345d3ac68?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Hybrid | Nov 03 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690872df4a1b456627af4fc6?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 03 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69086e3fe253473bb20f8f99?utm_campaign=1050&utm_source=git)** | Trussville, AL | On Site | Nov 03 |
+| **[Bentley Systems](http://www.bentley.com)** | **[Operations Intern - Hawaii](https://jobright.ai/jobs/info/690867994a1b456627af39b8?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 03 |
 | **[GEICO](http://www.geico.com)** | **[Claims Rotational Intern](https://jobright.ai/jobs/info/690855eb122e8474c78e9ed8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Nov 02 |
-| **[Walmart](http://www.walmart.com)** | **[2026 Summer Intern: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/69085ceeff462851fe00edac?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Nov 02 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern - Dallas, TX](https://jobright.ai/jobs/info/69083864ff462851fe00cf80?utm_campaign=1050&utm_source=git)** | Dallas, TX, 75225, United States | On Site | Nov 02 |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Field Operations (West)](https://jobright.ai/jobs/info/69086df6d046ab6061cc944b?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | Hybrid | Nov 02 |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern - Dallas, TX](https://jobright.ai/jobs/info/6908791e4a1b456627af58bd?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 02 |
+| ↳ | **[Summer 2026 Business & Technology Enablement Intern - Dallas, TX](https://jobright.ai/jobs/info/69083864ff462851fe00cf80?utm_campaign=1050&utm_source=git)** | Dallas, TX, 75225, United States | On Site | Nov 02 |
 | **[Nexus Engineering Group](http://nexusegroup.com)** | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6908301163502c0aded8aa13?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
 | ↳ | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/69082ff0ff462851fe00cd77?utm_campaign=1050&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
 | **[PlayStation](https://www.playstation.com/)** | **[Technical Project Management Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2ac320456578d5eb60d7?utm_campaign=1050&utm_source=git)** | United States of America | On Site | Nov 02 |
@@ -74,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Undergrad Internship - Summer 2026](https://jobright.ai/jobs/info/6907ae6f63502c0aded88448?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Nov 02 |
 | ↳ | **[Emory Healthcare Administrative Graduate Internship- Summer 2026](https://jobright.ai/jobs/info/6907ab56ff462851fe00a7b3?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Nov 02 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/6907ab3eff462851fe00a7a4?utm_campaign=1050&utm_source=git)** | North Carolina | Hybrid | Nov 02 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Logistics Intern](https://jobright.ai/jobs/info/6907a9ec63502c0aded88380?utm_campaign=1050&utm_source=git)** | Waller, TX | Remote | Nov 02 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Procurement Senior Intern](https://jobright.ai/jobs/info/6907a336122e8474c78e5de0?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 02 |
 | **[Hanford Mission Integration Solutions](https://hmis.hanford.gov/)** | **[Undergrad Intern Bus/Mngt ( 40645)](https://jobright.ai/jobs/info/69078dff122e8474c78e5a81?utm_campaign=1050&utm_source=git)** | Richland, WA | On Site | Nov 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Retail Operations Strategy Corporate Internship (Graduate)](https://jobright.ai/jobs/info/6907843863502c0aded87c4f?utm_campaign=1050&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69071f43ff462851fe007507?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690716e4122e8474c78e2816?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907166cff462851fe00703e?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907161bff462851fe007027?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Nov 02 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907151563502c0aded84adb?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Nov 02 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/6908598763502c0aded8c64c?utm_campaign=1050&utm_source=git)** | Moon, PA | On Site | Nov 02 |
-| **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Material Services (Provo)](https://jobright.ai/jobs/info/6906c33cff462851fe005405?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Nov 01 |
-| ↳ | **[2026 Summer Internship - Material Services Specialist (Battle Creek)](https://jobright.ai/jobs/info/6906c159122e8474c78e0b1d?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Nov 01 |
-| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Administrative Summer Intern - Celina](https://jobright.ai/jobs/info/69081970ff462851fe00c5c9?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

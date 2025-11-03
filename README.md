@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEICO](http://www.geico.com)** | **[Claims Rotational Intern](https://jobright.ai/jobs/info/690855eb122e8474c78e9ed8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Nov 02 |
+| **[Walmart](http://www.walmart.com)** | **[2026 Summer Intern: Area Manager, Fleet Transportation](https://jobright.ai/jobs/info/69085ceeff462851fe00edac?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Nov 02 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern - Dallas, TX](https://jobright.ai/jobs/info/69083864ff462851fe00cf80?utm_campaign=1050&utm_source=git)** | Dallas, TX, 75225, United States | On Site | Nov 02 |
 | **[Nexus Engineering Group](http://nexusegroup.com)** | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6908301163502c0aded8aa13?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Nov 02 |
 | ↳ | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/69082ff0ff462851fe00cd77?utm_campaign=1050&utm_source=git)** | Maumee, OH | On Site | Nov 02 |
@@ -96,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Internship, Summer 2026 - Strategic Sourcing](https://jobright.ai/jobs/info/68cd9e62b2a74e1837ed9cce?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  R&D Portfolio Strategy & Execution Team](https://jobright.ai/jobs/info/69076eeaff462851fe0094f0?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/6897d1978c6d6b4426792700?utm_campaign=1050&utm_source=git)** | Spirit Lake, IA | On Site | Nov 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Pharmacy Intern - Grad](https://jobright.ai/jobs/info/69076e9d63502c0aded8704f?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[R&D Strategy and Performance Excellence (SPx) Graduate Intern](https://jobright.ai/jobs/info/69076e6a63502c0aded87024?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | ↳ | **[Undergrad Intern  Business Operations in R&D Strategy & Operations](https://jobright.ai/jobs/info/69076e32122e8474c78e4c2c?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
 | ↳ | **[Graduate Intern  R&D Portfolio Strategy & Execution Team](https://jobright.ai/jobs/info/69076e2e63502c0aded86fc8?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 02 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Syracuse](https://jobright.ai/jobs/info/68b0d795b47fb001d6895d8a?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Nov 02 |
 | **[Hyatt](http://www.hyatt.com/)** | **[College Intern - Resort Operations](https://jobright.ai/jobs/info/68ceae75dbd9fb154ede214c?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Buffalo](https://jobright.ai/jobs/info/68db741134f2c406da6d831c?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Nov 02 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/68f5c31e9a65fd345858ed15?utm_campaign=1050&utm_source=git)** | Chesterfield, MI | On Site | Nov 02 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/68b1445a6fab621da7b0bcca?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Estero, FL (June 2026)](https://jobright.ai/jobs/info/68b22f4d1ade4306aa634c59?utm_campaign=1050&utm_source=git)** | Estero, FL | On Site | Nov 02 |
 | ↳ | **[Construction Management Intern - New York (June 2026)](https://jobright.ai/jobs/info/68cfc420dbd9fb154edeab1b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 02 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907166cff462851fe00703e?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907161bff462851fe007027?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Nov 02 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6907151563502c0aded84adb?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Nov 02 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/6908598763502c0aded8c64c?utm_campaign=1050&utm_source=git)** | Moon, PA | On Site | Nov 02 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2026 Summer Internship - Material Services (Provo)](https://jobright.ai/jobs/info/6906c33cff462851fe005405?utm_campaign=1050&utm_source=git)** | Provo, UT | On Site | Nov 01 |
 | ↳ | **[2026 Summer Internship - Material Services Specialist (Battle Creek)](https://jobright.ai/jobs/info/6906c159122e8474c78e0b1d?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Nov 01 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Administrative Summer Intern - Celina](https://jobright.ai/jobs/info/69081970ff462851fe00c5c9?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | Nov 01 |
-| **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/6906a177ff462851fe004d73?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 01 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 – Project and Program Management Intern](https://jobright.ai/jobs/info/69057716ff462851feffdb21?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Nov 01 |
-| **[Wright State University](http://www.wright.edu/)** | **[Raider Immersion Intern - Team Lead](https://jobright.ai/jobs/info/69067c4dff462851fe004b14?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

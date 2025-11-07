@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huntsman Corporation](https://www.huntsman.com)** | **[Supply Chain Excellence Intern](https://jobright.ai/jobs/info/690dc00ed046ab6061cf8d4e?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Nov 07 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/690dbfa6d046ab6061cf8cfe?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Nov 07 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/690dbdb344146d3b6ec4f668?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/690da624d046ab6061cf7e6e?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
 | **[FedEx Freight](https://www.fedex.com/en-us/shipping/freight.html)** | **[Intern-Field Operations](https://jobright.ai/jobs/info/690d9b72221b890c27807fa4?utm_campaign=1050&utm_source=git)** | Mercedes, TX | On Site | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Search Ads Product) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/690d9a54221b890c27807edd?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
 | **[Sprouts Farmers Market](http://sprouts.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/690d992ed046ab6061cf7571?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 06 |
@@ -65,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/690d8968d046ab6061cf6e8b?utm_campaign=1050&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Global Procurement Intern](https://jobright.ai/jobs/info/690d895c44146d3b6ec4da7e?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/690d884e44146d3b6ec4d9df?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Nov 06 |
+| **[FedEx Freight](https://www.fedex.com/en-us/shipping/freight.html)** | **[Intern-Field Operations](https://jobright.ai/jobs/info/690db55f44146d3b6ec4f11b?utm_campaign=1050&utm_source=git)** | West Valley City, UT | On Site | Nov 06 |
+| ↳ | **[Intern-Field Operations](https://jobright.ai/jobs/info/690daf3544146d3b6ec4ee08?utm_campaign=1050&utm_source=git)** | Livermore, CA | On Site | Nov 06 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[OPS Student Administrative Assistant](https://jobright.ai/jobs/info/690d9ed4d046ab6061cf79aa?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Nov 06 |
 | **[Coperion](http://www.coperion.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/690d8017d046ab6061cf6b5a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Nov 06 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Regulatory Project Manager Intern for the Global Regulatory Project Management & Strategic Planning (RPM&SP) - GI Therapeutic Area](https://jobright.ai/jobs/info/690d9f29d046ab6061cf79ed?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Nov 06 |
@@ -127,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Medical Care Solutions Internship](https://jobright.ai/jobs/info/690d0e92d046ab6061cf21a7?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Nov 06 |
 | **[Emerson](http://www.emerson.com)** | **[Strategic Planner Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2fc5d046ab6061cf3f70?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 06 |
 | **[ProEgg](https://proegg.com)** | **[Supply Chain & Logistics Intern](https://jobright.ai/jobs/info/690d2248d046ab6061cf33f6?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Nov 06 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Product Supply Chain (PSC) Footwear Sourcing Graduate Internship](https://jobright.ai/jobs/info/68f1bcabef766b3f0fd117cc?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Nov 06 |
 | **[Amplify Cell Technologies](https://www.linkedin.com/company/102673915)** | **[2026 Summer Intern - IT PMO & Governance](https://jobright.ai/jobs/info/68efd25178ba1621431e096d?utm_campaign=1050&utm_source=git)** | Memphis Metro | On Site | Nov 06 |
 | **[Arora Engineers](http://www.aroraengineers.com)** | **[Project Administrator Intern](https://jobright.ai/jobs/info/690d05e7221b890c2780207c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 06 |
 | **[Tombras](http://tombras.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/690d24a8221b890c27803dd6?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Texas](https://jobright.ai/jobs/info/690d122c221b890c27802c36?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Nov 06 |
 | **[PROJXON](www.projxon.com)** | **[Leadership Development Program (Intern)](https://jobright.ai/jobs/info/690d1f084a1b456627b1e04a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Nov 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship](https://jobright.ai/jobs/info/690d225fd046ab6061cf340c?utm_campaign=1050&utm_source=git)** | Greenville, SC | Hybrid | Nov 06 |
-| **[Freezing Point](https://www.frazil.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/690d09a1221b890c278022e0?utm_campaign=1050&utm_source=git)** | Salt Lake City, Utah | On Site | Nov 06 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Undergraduate Intern, Dell Venture Capital](https://jobright.ai/jobs/info/690d117c4a1b456627b1d3f0?utm_campaign=1050&utm_source=git)** | Palo Alto, California, United States | Hybrid | Nov 06 |
-| **[Investment Company Institute](http://www.ici.org)** | **[Industry Operations Intern Summer 2026](https://jobright.ai/jobs/info/690ce0d5d046ab6061cf034c?utm_campaign=1050&utm_source=git)** | Washington, DC, US | Hybrid | Nov 06 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Cardiovascular Administrative Summer Intern](https://jobright.ai/jobs/info/690d1e87221b890c278037bf?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Nov 06 |
-| **[Swagelok](http://www.swagelok.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68bb36546105227d118a40a7?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Nov 06 |
-| **[EXP](http://www.exp.com/)** | **[Intern](https://jobright.ai/jobs/info/690cda9f4a1b456627b1b11e?utm_campaign=1050&utm_source=git)** | 2510 Miccosukee Road, Tallahassee,, FL, 32308, US | On Site | Nov 06 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Cardiovascular Administrative Summer Intern](https://jobright.ai/jobs/info/690cda774a1b456627b1b10a?utm_campaign=1050&utm_source=git)** | 100 Madison Ave, Morristown, NJ, 07960, US | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

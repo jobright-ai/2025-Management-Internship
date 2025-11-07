@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Milacron](https://www.milacronindia.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/690d4ba4d046ab6061cf5250?utm_campaign=1050&utm_source=git)** | Coperion | On Site | Nov 06 |
+| **[Lighthouse Electric Company, Inc.](http://lighthouseelectric.com)** | **[Supply Chain Specialist Intern-Summer 2026](https://jobright.ai/jobs/info/690d4b37d046ab6061cf51f0?utm_campaign=1050&utm_source=git)** | Canonsburg, Pennsylvania, United States | On Site | Nov 06 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Lockheed Martin Supply Chain (LMSC) Intern](https://jobright.ai/jobs/info/690d4b07221b890c2780599c?utm_campaign=1050&utm_source=git)** | Maryland | Remote | Nov 06 |
+| **[ChildServe](https://www.childserve.org/)** | **[Day Programs Intern](https://jobright.ai/jobs/info/690d49efd046ab6061cf50fa?utm_campaign=1050&utm_source=git)** | Ames, Iowa | On Site | Nov 06 |
+| ↳ | **[Day Programs Intern](https://jobright.ai/jobs/info/690d488e221b890c2780587b?utm_campaign=1050&utm_source=git)** | Ames, IA | On Site | Nov 06 |
+| **[Spokane Indians Baseball Club](http://www.spokaneindiansbaseball.com)** | **[Team Intern](https://jobright.ai/jobs/info/690d4231d046ab6061cf4ae5?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Nov 06 |
+| **[Rosendin](https://www.rosendin.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/690d3b334a1b456627b1f8c8?utm_campaign=1050&utm_source=git)** | Gallatin, TN | On Site | Nov 06 |
 | **[Capital Industries, LLC.](https://www.capitaltxi.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/690d2ee4221b890c27804698?utm_campaign=1050&utm_source=git)** | Cedar Park, TX | On Site | Nov 06 |
 | **[Emerson](http://www.emerson.com)** | **[Strategic Planner Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d2e2b221b890c278045cc?utm_campaign=1050&utm_source=git)** | 8027 Forsyth Boulevard, St Louis, MO, 63105, US | On Site | Nov 06 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/690d2d5cd046ab6061cf3cfe?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Nov 06 |
@@ -68,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Cirrus](http://cirrusaircraft.com)** | **[Project Specialist Intern](https://jobright.ai/jobs/info/690d1bdd4a1b456627b1ddb6?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
 | **[Aldridge Electric](http://www.aldridgegroup.com)** | **[Midwest Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/690d1b72221b890c27803522?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Nov 06 |
 | **[Emerson](http://www.emerson.com)** | **[Supply Chain Analyst Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d18384a1b456627b1d9fb?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 06 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern - Summer 2026](https://jobright.ai/jobs/info/690d37234a1b456627b1f588?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 06 |
 | **[Aldridge Electric](http://www.aldridgegroup.com)** | **[West Coast Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/690d16d6221b890c278030d5?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Nov 06 |
 | ↳ | **[East Coast Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/690d1247d046ab6061cf25af?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 06 |
 | **[R. J. Corman Railroad Group, LLC](http://www.rjcorman.com)** | **[Railroad Construction Project Management Intern](https://jobright.ai/jobs/info/690d10dfd046ab6061cf23e1?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Nov 06 |
@@ -108,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Swagelok](http://www.swagelok.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68bb36546105227d118a40a7?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Nov 06 |
 | **[EXP](http://www.exp.com/)** | **[Intern](https://jobright.ai/jobs/info/690cda9f4a1b456627b1b11e?utm_campaign=1050&utm_source=git)** | 2510 Miccosukee Road, Tallahassee,, FL, 32308, US | On Site | Nov 06 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Cardiovascular Administrative Summer Intern](https://jobright.ai/jobs/info/690cda774a1b456627b1b10a?utm_campaign=1050&utm_source=git)** | 100 Madison Ave, Morristown, NJ, 07960, US | On Site | Nov 06 |
+| **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Risk Advisory Intern - Summer 2026 - Business Process](https://jobright.ai/jobs/info/690d4d5f221b890c27805b35?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 06 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68f4c27076a51a4307bd37c6?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Nov 06 |
 | **[RSM US LLP](http://www.rsmus.com/)** | **[TESS Intern - Spring 2026](https://jobright.ai/jobs/info/690d00c9d046ab6061cf160e?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Enova International](http://www.enova.com)** | **[Strategy & Operations Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d472918c62e63bc7fe9643?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
@@ -132,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 MBA Finance Leadership Development Program (FLDP) Internship](https://jobright.ai/jobs/info/68f062ba9e09d311e04314f0?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Supply Chain Procurement Intern](https://jobright.ai/jobs/info/68f0342378ba1621431e368b?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Nov 06 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b942b207090163b6ba9844?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 06 |
-| **[Sysco](http://sysco.com)** | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/68d444458c62e63bc7fe7434?utm_campaign=1050&utm_source=git)** | Harmony, PA | On Site | Nov 06 |
 | **[Uline](http://www.uline.com)** | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdcca78ba1621431e0d8e?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Nov 06 |
 | **[Cumming Group](https://cumming-group.com)** | **[Intern](https://jobright.ai/jobs/info/68f02e2178ba1621431e3164?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701b6?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Nov 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Project Management Intern (Summer 2026) - Iron Mountain, MI](https://jobright.ai/jobs/info/68b8998107090163b6ba36a9?utm_campaign=1050&utm_source=git)** | Iron Mountain, MI | On Site | Nov 06 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f48a5e55be5e2604f88d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4a6158c62e63bc7feb37e?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Nov 06 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b7284b2124650c1401fcb3?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Nov 06 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Performance Improvement Intern - (Summer 2026)](https://jobright.ai/jobs/info/690ce21f221b890c27800a4a?utm_campaign=1050&utm_source=git)** | Salisbury, MD | On Site | Nov 06 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4a252fcd3367e8df165cf?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - New Britain/Middletown/Newington, CT](https://jobright.ai/jobs/info/68d402165ae5a90cfd4828bc?utm_campaign=1050&utm_source=git)** | New Britain, CT | On Site | Nov 06 |
-| **[Airtech Vacuum, Inc.](http://www.airtechusa.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/68f00b0078ba1621431e1c53?utm_campaign=1050&utm_source=git)** | Linthicum, MD | On Site | Nov 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Anderson](https://jobright.ai/jobs/info/68d4d0dcffc1276de3fde520?utm_campaign=1050&utm_source=git)** | Anderson, IN | On Site | Nov 06 |
-| **[Uline](http://www.uline.com)** | **[International Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd319821486c423c7c7f?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Nov 06 |
-| ↳ | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdeca9821486c423c7e1a?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

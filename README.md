@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[We Will Walk With You](www.wwwwy.org)** | **[Assistant Program Coordinator](https://jobright.ai/jobs/info/690faf55bb519377733e9a33?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Nov 08 |
+| **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Revenue Cycle Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690fa80a988c2b7b4ec4ef96?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/690fa780183be660d2676337?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/690f8ff0bb519377733e90ed?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | Remote | Nov 08 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - BTS Innovation Analyst Intern](https://jobright.ai/jobs/info/690c40dd4a1b456627b17240?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/690f7a6c988c2b7b4ec4e2e9?utm_campaign=1050&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 08 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Concord, NH Area](https://jobright.ai/jobs/info/68bae1fc5f3832749186a4f4?utm_campaign=1050&utm_source=git)** | Concord, NH | On Site | Nov 08 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c400033bef502c86f53?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 08 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Organizational Change Management Intern](https://jobright.ai/jobs/info/68bb7dfa6105227d118a653d?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/690f61ca221b890c278157c3?utm_campaign=1050&utm_source=git)** | Michigan, United States | Remote | Nov 08 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68f2d3009a63986de756c91e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Project Administrator (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/68bb6f008043103d4f228900?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Nov 08 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/690f145344146d3b6ec59ebc?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 08 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690f129d221b890c27813bdb?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 08 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/690f0d8344146d3b6ec59ad3?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 08 |
-| **[Landstar](http://www.landstar.com)** | **[College Intern - International & Air Operations](https://jobright.ai/jobs/info/690f0b34d046ab6061d03078?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 08 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/690f0aa0221b890c2781378f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

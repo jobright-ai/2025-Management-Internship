@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/690ecc6fd046ab6061d014e7?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Nov 07 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ed4ab44146d3b6ec58226?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 07 |
+| ↳ | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/690ecc6fd046ab6061d014e7?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Global Procurement Intern](https://jobright.ai/jobs/info/690ec8a3d046ab6061d012bf?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
-| ↳ | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ec797221b890c27811a23?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Operational Excellence Summer Intern](https://jobright.ai/jobs/info/690ec64244146d3b6ec57b54?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/690ec51c44146d3b6ec57a7e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 07 |
 | **[Iridium](http://www.iridium.com/)** | **[Iridium Aviation Business Analytics and Development Internship - Summer 2026](https://jobright.ai/jobs/info/690ec473d046ab6061d01089?utm_campaign=1050&utm_source=git)** | McLean, VA | Hybrid | Nov 07 |
@@ -104,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Children's Healthcare of Atlanta](http://www.choa.org)** | **[Strategic Planning Intern](https://jobright.ai/jobs/info/690e833b221b890c2780eda1?utm_campaign=1050&utm_source=git)** | Children's Healthcare of Atlanta Support Center | On Site | Nov 07 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Villanova (New York) Summer 2027 Internship - Investment Banking](https://jobright.ai/jobs/info/690e7885221b890c2780e661?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 07 |
 | **[BMO](http://www.bmo.com)** | **[Villanova (New York) Summer 2027 Internship - Investment Banking](https://jobright.ai/jobs/info/690e7306d046ab6061cfdbc6?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Nov 07 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[BOHConcepts](http://www.bohconcepts.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/690e6d0444146d3b6ec54243?utm_campaign=1050&utm_source=git)** | Bellevue, WA, US | On Site | Nov 07 |
 | **[UF Health](https://ufhealth.org/)** | **[Administrative Intern / Director of Operations / Days / PRN](https://jobright.ai/jobs/info/690e6c5cd046ab6061cfd6ab?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Nov 07 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Supply Chain](https://jobright.ai/jobs/info/690e6a0444146d3b6ec53f26?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Nov 07 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Crown Innovations, Inc.](https://www.crownci.com)** | **[Human Resources Assistant/Front Office Manager Intern](https://jobright.ai/jobs/info/690e6457221b890c2780d737?utm_campaign=1050&utm_source=git)** | Arlington, VA | Hybrid | Nov 07 |
 | **[UF Health Jacksonville](https://ufhealthjax.org)** | **[Administrative Intern / Director of Operations / Days / PRN](https://jobright.ai/jobs/info/690e644544146d3b6ec53a19?utm_campaign=1050&utm_source=git)** | Gainesville, Florida | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Intern - Summer 2026](https://jobright.ai/jobs/info/690e61f7d046ab6061cfcea8?utm_campaign=1050&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Nov 07 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e7af844146d3b6ec54c27?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[State Street](http://www.statestreet.com)** | **[Project Management Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6905c773ff462851fe00041d?utm_campaign=1050&utm_source=git)** | Quincy, MA | On Site | Nov 07 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Sports Information Office-Intern](https://jobright.ai/jobs/info/690e5c04d046ab6061cfca0d?utm_campaign=1050&utm_source=git)** | Bradford, PA | On Site | Nov 07 |
 | **[Western National Insurance](https://wnins.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68e7deffcc49a84b7e0fed4a?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Nov 07 |
@@ -139,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/690e4b00d046ab6061cfbfe9?utm_campaign=1050&utm_source=git)** | 9940 Havana St | On Site | Nov 07 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Los Angeles, CA)](https://jobright.ai/jobs/info/690e4afcd046ab6061cfbfe5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/690e8665221b890c2780f04a?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 07 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/690e741444146d3b6ec54672?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/690e7ac744146d3b6ec54bfe?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Nov 07 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/690e741444146d3b6ec54672?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 07 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/690e8482221b890c2780eef5?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 07 |
 | **[Performance Food Group](http://www.pfgc.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/690e4a3cd046ab6061cfbf6d?utm_campaign=1050&utm_source=git)** | 1 Performance Blvd | On Site | Nov 07 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Crew Resources - Pilot Pay Experience (Spring 2026)](https://jobright.ai/jobs/info/690e498fd046ab6061cfbf11?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/690e44f944146d3b6ec52682?utm_campaign=1050&utm_source=git)** | Shawano, Wisconsin (WI) | On Site | Nov 07 |
 | **[National Life Group](https://www.nationallife.com)** | **[Project Management Office Intern – Summer 2026](https://jobright.ai/jobs/info/690e44a244146d3b6ec5263f?utm_campaign=1050&utm_source=git)** | Addison, TX | On Site | Nov 07 |
 | ↳ | **[After Issue Intern - Summer 2026](https://jobright.ai/jobs/info/690e436344146d3b6ec52587?utm_campaign=1050&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
-| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Project Management](https://jobright.ai/jobs/info/690e6d27d046ab6061cfd77b?utm_campaign=1050&utm_source=git)** | 228 S Main St, Spring Grove, PA 17362, USA | On Site | Nov 07 |
-| ↳ | **[Internship- Supply Chain](https://jobright.ai/jobs/info/690e63a4221b890c2780d6b3?utm_campaign=1050&utm_source=git)** | 228 S Main St, Spring Grove, PA 17362, USA | On Site | Nov 07 |
+| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Supply Chain](https://jobright.ai/jobs/info/690e63a4221b890c2780d6b3?utm_campaign=1050&utm_source=git)** | 228 S Main St, Spring Grove, PA 17362, USA | On Site | Nov 07 |
+| ↳ | **[Internship- Project Management](https://jobright.ai/jobs/info/690e6d27d046ab6061cfd77b?utm_campaign=1050&utm_source=git)** | 228 S Main St, Spring Grove, PA 17362, USA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

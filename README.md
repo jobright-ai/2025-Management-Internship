@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/68c81b99f9c6ff7aedf0abf4?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: US Oncology Strategy & Operations Intern](https://jobright.ai/jobs/info/690f6d37bc852e6dc187d583?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, New York, NY - USA 2026](https://jobright.ai/jobs/info/68d70ac8d3fe025a3015e635?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 08 |
+| **[Robinhood](https://www.robinhood.com)** | **[Brokerage Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6908ed9dd046ab6061ccf243?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/690f6b82bc852e6dc187d50c?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 08 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Project Management, Lead Support Intern](https://jobright.ai/jobs/info/690f6a52bc852e6dc187d498?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Nov 08 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/690f6a1e37acd2126472ebd2?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Swagelok](http://www.swagelok.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bb3acb8043103d4f226e1f?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Nov 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690f129d221b890c27813bdb?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 08 |
 | **[Landstar](http://www.landstar.com)** | **[College Intern - International & Air Operations](https://jobright.ai/jobs/info/690f0b34d046ab6061d03078?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 08 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/690f0aa0221b890c2781378f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

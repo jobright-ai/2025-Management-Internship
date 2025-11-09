@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPX Technologies](https://www.spx.com)** | **[Intern, Construction Project Management](https://jobright.ai/jobs/info/68bb7fbe5f3832749186f9b6?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Nov 09 |
+| **[INFRASOURCE SERVICES LLC](http://www.infrasourceinc.com/)** | **[Associate Project Manager Internship](https://jobright.ai/jobs/info/68bb8c8c5f38327491870256?utm_campaign=1050&utm_source=git)** | Sumner, WA | On Site | Nov 09 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/68cd430e1ad6b16f0289734c?utm_campaign=1050&utm_source=git)** | Hopkins, SC | On Site | Nov 09 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Strategy & Management Summer Associate Program - 2026](https://jobright.ai/jobs/info/68ccd9445954791a1d6ffa92?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | On Site | Nov 09 |
+| **[SPX Technologies](https://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/68c152234d652f0447757156?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Nov 09 |
+| **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc69ccc9ee94dc9119b54?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Nov 09 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Facilities Management](https://jobright.ai/jobs/info/68bb46486105227d118a4be8?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 09 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69106481bb519377733ec1b3?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 09 |
+| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69106457bb519377733ec1a2?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Nov 09 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/69105d72183be660d2678987?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 09 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/68b0a9ee13563e782a9f8477?utm_campaign=1050&utm_source=git)** | San Diego | On Site | Nov 09 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/69105098988c2b7b4ec50eb0?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 09 |
@@ -66,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[We Will Walk With You](www.wwwwy.org)** | **[Assistant Program Coordinator](https://jobright.ai/jobs/info/690faf55bb519377733e9a33?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Nov 08 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Revenue Cycle Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690fa80a988c2b7b4ec4ef96?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/690fa780183be660d2676337?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 08 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/690f8ff0bb519377733e90ed?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | Remote | Nov 08 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - BTS Innovation Analyst Intern](https://jobright.ai/jobs/info/690c40dd4a1b456627b17240?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 08 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern- Spring](https://jobright.ai/jobs/info/690f7a6c988c2b7b4ec4e2e9?utm_campaign=1050&utm_source=git)** | Palm Beach Gardens, FL | On Site | Nov 08 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/690f78c0bb519377733e8b5d?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Global Supply Chain intern](https://jobright.ai/jobs/info/68d6cd4a894705799a2edde1?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Nov 08 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Superintendent Internship - Summer 2026 (San Antonio, TX)](https://jobright.ai/jobs/info/68cb9521ba798c1a501d2350?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 08 |
 | ↳ | **[Construction Project Management Internship - Summer 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/68f6981f9a65fd3458594e4e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
-| **[Clarios](https://www.clarios.com/)** | **[IT Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6abb6d3fe025a3015b085?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 08 |
-| **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6863e8b0f2906c665c3883e4?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Nov 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Project Intern (TikTok Shop - Operations) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68d7784b7a37c712687ce8c4?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
-| **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Division Chief - Internal Medicine - Cardiology - Chicago-22390](https://jobright.ai/jobs/info/68f2a9059a63986de756a057?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
-| **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68bb39ba6105227d118a44a1?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Nov 08 |
-| **[GHD](http://www.ghd.com)** | **[Project Services Administrator Intern](https://jobright.ai/jobs/info/68f328939a65fd34585845d4?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Nov 08 |
-| **[AMETEK](http://www.ametek.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f338ab9a63986de7570262?utm_campaign=1050&utm_source=git)** | Aurora, IL | On Site | Nov 08 |
-| **[Amway](http://www.amway.com)** | **[Global Supply Chain Planning Intern, Summer 2026 (42243)](https://jobright.ai/jobs/info/68e5b30eae2b894b1d712b5d?utm_campaign=1050&utm_source=git)** | Ada, MI | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

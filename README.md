@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/69105d72183be660d2678987?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 09 |
+| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/68b0a9ee13563e782a9f8477?utm_campaign=1050&utm_source=git)** | San Diego | On Site | Nov 09 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/69105098988c2b7b4ec50eb0?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 09 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - UCSD](https://jobright.ai/jobs/info/69105017988c2b7b4ec50e8e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Nov 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - CSULB](https://jobright.ai/jobs/info/691002c6988c2b7b4ec4f9fc?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Nov 08 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Business Operations & Development Intern](https://jobright.ai/jobs/info/690fc0fc183be660d26766b9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[We Will Walk With You](www.wwwwy.org)** | **[Assistant Program Coordinator](https://jobright.ai/jobs/info/690faf55bb519377733e9a33?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GHD](http://www.ghd.com)** | **[Project Services Administrator Intern](https://jobright.ai/jobs/info/68f328939a65fd34585845d4?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Nov 08 |
 | **[AMETEK](http://www.ametek.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f338ab9a63986de7570262?utm_campaign=1050&utm_source=git)** | Aurora, IL | On Site | Nov 08 |
 | **[Amway](http://www.amway.com)** | **[Global Supply Chain Planning Intern, Summer 2026 (42243)](https://jobright.ai/jobs/info/68e5b30eae2b894b1d712b5d?utm_campaign=1050&utm_source=git)** | Ada, MI | On Site | Nov 08 |
-| **[Arup](http://www.arup.com)** | **[Project Administration Intern (Available June 2026)](https://jobright.ai/jobs/info/690743f3122e8474c78e360e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 08 |
-| **[Swagelok](http://www.swagelok.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bb3acb8043103d4f226e1f?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Nov 08 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690f129d221b890c27813bdb?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 08 |
-| **[Landstar](http://www.landstar.com)** | **[College Intern - International & Air Operations](https://jobright.ai/jobs/info/690f0b34d046ab6061d03078?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

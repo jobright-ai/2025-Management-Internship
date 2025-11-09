@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiva](http://kiva.org)** | **[Review and Translation Program Project Manager Intern](https://jobright.ai/jobs/info/6910dc9b988c2b7b4ec52c42?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68cc5955128dc347fd922ea2?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | **[Stratify Edge](stratifyedge.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/6910b912bb519377733ecff5?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 09 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Production/Operations Internship - Berlin, NJ](https://jobright.ai/jobs/info/68cc0a067342c7623ae5dc77?utm_campaign=1050&utm_source=git)** | Berlin, NJ | On Site | Nov 09 |
 | ↳ | **[Summer 2026 Operations Internship - Newton, MA](https://jobright.ai/jobs/info/68e9dfcf54fbf903f6a7f2f8?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Nov 09 |
 | **[Rocket Lab](https://www.rocketlabusa.com)** | **[Project Management Intern Summer 2026](https://jobright.ai/jobs/info/68bb283f8043103d4f225f6f?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 09 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/6910ef4e183be660d267a538?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 09 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Toledo](https://jobright.ai/jobs/info/68bb3beb8043103d4f226f31?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Nov 09 |
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/690c5847221b890c277fcfb7?utm_campaign=1050&utm_source=git)** | Whitewater, WI | On Site | Nov 09 |
 | ↳ | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/69107018bb519377733ec562?utm_campaign=1050&utm_source=git)** | Sterling Heights, MI | On Site | Nov 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/68d794567a37c712687d1ccf?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Detroit](https://jobright.ai/jobs/info/68bb3b7c8043103d4f226ee1?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Nov 08 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/68d70cbe894705799a2f0438?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 08 |
-| **[Zipline](http://flyzipline.com)** | **[Global Supply Management Intern (Spring 2026)](https://jobright.ai/jobs/info/68d798c3295f8e37655decbd?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

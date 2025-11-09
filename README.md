@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68cc5955128dc347fd922ea2?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
+| ↳ | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
+| **[Stratify Edge](stratifyedge.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/6910b912bb519377733ecff5?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 09 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Advisory Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6910b7ffbb519377733ecfcd?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68cd77911ad6b16f02899cb6?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | **[Henkel](http://www.henkel.com)** | **[Customer Service/Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68bb6e0b8043103d4f22886d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 09 |
 | **[Arvento A](arventoa.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/6910b442183be660d2679afd?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Nov 09 |
@@ -69,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Intern - Business Track (June 2026)](https://jobright.ai/jobs/info/68cd38d9e23def7af55b6d99?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 09 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68d1398ecece431f8b582279?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/6910af3c183be660d2679a7c?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Nov 09 |
+| ↳ | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/6910ae46183be660d2679a4d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | ↳ | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/6910ad3fbb519377733ece9f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
-| ↳ | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/6910ad22183be660d2679a00?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/68cb999fefdec76df36bf508?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/68a3effe2d2a252445cd43b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 09 |
 | ↳ | **[Summer 2026 Production/Operations Internship - Berlin, NJ](https://jobright.ai/jobs/info/68cc0a067342c7623ae5dc77?utm_campaign=1050&utm_source=git)** | Berlin, NJ | On Site | Nov 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Nov 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/68d70cbe894705799a2f0438?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 08 |
 | **[Zipline](http://flyzipline.com)** | **[Global Supply Management Intern (Spring 2026)](https://jobright.ai/jobs/info/68d798c3295f8e37655decbd?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Controls Intern - Construction (Wallingford)](https://jobright.ai/jobs/info/68b9d2408043103d4f21ac5c?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Nov 08 |
-| **[SPORTFIVE](http://www.sportfive.com/)** | **[Operations Intern (Spring 2026)](https://jobright.ai/jobs/info/68f16fb6f462172a5a7d879f?utm_campaign=1050&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 08 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f888f4a628d10664e83d1b?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Nov 08 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ball State University](https://jobright.ai/jobs/info/68d74940cb1d8e52c9766c9e?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

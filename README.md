@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - CSULB](https://jobright.ai/jobs/info/691002c6988c2b7b4ec4f9fc?utm_campaign=1050&utm_source=git)** | Long Beach, CA | On Site | Nov 08 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Business Operations & Development Intern](https://jobright.ai/jobs/info/690fc0fc183be660d26766b9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 08 |
 | **[We Will Walk With You](www.wwwwy.org)** | **[Assistant Program Coordinator](https://jobright.ai/jobs/info/690faf55bb519377733e9a33?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Nov 08 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Revenue Cycle Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690fa80a988c2b7b4ec4ef96?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb9a2e8043103d4f22a04f?utm_campaign=1050&utm_source=git)** | Titusville, NJ | Hybrid | Nov 08 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lowell, MA Area](https://jobright.ai/jobs/info/68bae1665f3832749186a443?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Nov 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99795f383274918709aa?utm_campaign=1050&utm_source=git)** | Raritan, NJ | Hybrid | Nov 08 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Supply Planning](https://jobright.ai/jobs/info/691000f1183be660d2676d2d?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 08 |
 | **[Everllence](www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Nov 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69058914ff462851feffe472?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68f2d17d9a63986de756c846?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Project Administration Intern (Available June 2026)](https://jobright.ai/jobs/info/690743f3122e8474c78e360e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 08 |
 | **[Swagelok](http://www.swagelok.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68bb3acb8043103d4f226e1f?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Nov 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690f129d221b890c27813bdb?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Nov 08 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/690f0d8344146d3b6ec59ad3?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 08 |
 | **[Landstar](http://www.landstar.com)** | **[College Intern - International & Air Operations](https://jobright.ai/jobs/info/690f0b34d046ab6061d03078?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/690f0aa0221b890c2781378f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 08 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/690f0a62d046ab6061d03007?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridian Forge](https://www.linkedin.com/company/108612717)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/69119217183be660d267c9b3?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 09 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Undergraduate Intern - Project Coordinator - Research](https://jobright.ai/jobs/info/691179dbbb519377733ef4c7?utm_campaign=1050&utm_source=git)** | NYP/Queens | On Site | Nov 09 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Intern](https://jobright.ai/jobs/info/691166bdbb519377733ef051?utm_campaign=1050&utm_source=git)** | Spring, TX | On Site | Nov 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691154da183be660d267b43c?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Nov 09 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68cc5955128dc347fd922ea2?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | ↳ | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | **[Stratify Edge](stratifyedge.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/6910b912bb519377733ecff5?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 09 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Advisory Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6910b7ffbb519377733ecfcd?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68cd77911ad6b16f02899cb6?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | **[Henkel](http://www.henkel.com)** | **[Customer Service/Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68bb6e0b8043103d4f22886d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 09 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Nov 09 |
@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Supply Chain Intern - Business Track (June 2026)](https://jobright.ai/jobs/info/68cd38d9e23def7af55b6d99?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | Hybrid | Nov 09 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/68d1398ecece431f8b582279?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/6910af3c183be660d2679a7c?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Nov 09 |
-| ↳ | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/6910ae46183be660d2679a4d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | ↳ | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/6910ad3fbb519377733ece9f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
+| ↳ | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/6910ad22183be660d2679a00?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/68cb999fefdec76df36bf508?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 09 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Project Management Internship - Charlotte, NC](https://jobright.ai/jobs/info/68a3effe2d2a252445cd43b9?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 09 |
 | ↳ | **[Summer 2026 Production/Operations Internship - Berlin, NJ](https://jobright.ai/jobs/info/68cc0a067342c7623ae5dc77?utm_campaign=1050&utm_source=git)** | Berlin, NJ | On Site | Nov 09 |
@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/69107018bb519377733ec562?utm_campaign=1050&utm_source=git)** | Sterling Heights, MI | On Site | Nov 09 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d8050b7796a83635f0e5d7?utm_campaign=1050&utm_source=git)** | Burton, MI | On Site | Nov 09 |
 | **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6866e651b6c3efdd0181f345?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Nov 09 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/6908efc24a1b456627afa361?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Nov 09 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d802017796a83635f0e39d?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Nov 09 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Houston, TX)](https://jobright.ai/jobs/info/68f753ecb0edcf159dc7ad15?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 09 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68fe0811e04ac838fb5b31ca?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Nov 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations-Intern](https://jobright.ai/jobs/info/690f5184d046ab6061d04aef?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Nov 08 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f2b78e9a65fd345857ff08?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 08 |
 | **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/68d794567a37c712687d1ccf?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Detroit](https://jobright.ai/jobs/info/68bb3b7c8043103d4f226ee1?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

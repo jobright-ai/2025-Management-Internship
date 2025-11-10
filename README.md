@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/689fc69ccc9ee94dc9119b54?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Nov 09 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Facilities Management](https://jobright.ai/jobs/info/68bb46486105227d118a4be8?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69106481bb519377733ec1b3?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 09 |
-| ↳ | **[Operations Intern - Roger Williams University](https://jobright.ai/jobs/info/69106457bb519377733ec1a2?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Nov 09 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/69105d72183be660d2678987?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 09 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/68b0a9ee13563e782a9f8477?utm_campaign=1050&utm_source=git)** | San Diego | On Site | Nov 09 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/69105098988c2b7b4ec50eb0?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/68d794567a37c712687d1ccf?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Detroit](https://jobright.ai/jobs/info/68bb3b7c8043103d4f226ee1?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Nov 08 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/68d70cbe894705799a2f0438?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

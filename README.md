@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691154da183be660d267b43c?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Nov 09 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6911509abb519377733ee6ac?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Nov 09 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - East Hartford/Glastonbury/Manchester/Colchester, CT](https://jobright.ai/jobs/info/6911473c988c2b7b4ec53cb7?utm_campaign=1050&utm_source=git)** | East Hartford/Manchester/Glastonbury/Colchester | On Site | Nov 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6910fda4bb519377733ede46?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Nov 09 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6910f6be988c2b7b4ec53420?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 09 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Clubhouse Manager Internship (Free Housing)](https://jobright.ai/jobs/info/6910f25c988c2b7b4ec532f8?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Nov 09 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Advisory Intern – Summer/Winter 2026](https://jobright.ai/jobs/info/6910b7ffbb519377733ecfcd?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Operations Strategist)](https://jobright.ai/jobs/info/68cd77911ad6b16f02899cb6?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 09 |
 | **[Henkel](http://www.henkel.com)** | **[Customer Service/Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68bb6e0b8043103d4f22886d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 09 |
-| **[Arvento A](arventoa.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/6910b442183be660d2679afd?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Nov 09 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager (DMATS) (SkillBridge Intern)](https://jobright.ai/jobs/info/688508eafbbf032d0006bae1?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Nov 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lynn MA](https://jobright.ai/jobs/info/68bc16166105227d118abd94?utm_campaign=1050&utm_source=git)** | Lynn, MA | On Site | Nov 09 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Strategic Planning Intern](https://jobright.ai/jobs/info/68d8910122308b3db35ea154?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
@@ -147,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Everllence](www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Nov 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69058914ff462851feffe472?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 08 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68f2d17d9a63986de756c846?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Supply Planning](https://jobright.ai/jobs/info/6910ab12183be660d2679997?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 08 |
 | **[BW Papersystems](http://www.bwpapersystems.com)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/68f2c66b9a65fd3458580ec1?utm_campaign=1050&utm_source=git)** | Phillips, WI | On Site | Nov 08 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[IT Intern: Program Management - Kimball International, Jasper, IN](https://jobright.ai/jobs/info/690f52a4221b890c2781531d?utm_campaign=1050&utm_source=git)** | Jasper, IN | On Site | Nov 08 |
 | **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Intern-Operations/Supply Chain](https://jobright.ai/jobs/info/690f51d7221b890c278152e1?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](http://flyzipline.com)** | **[Technical Program Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/68d794567a37c712687d1ccf?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Detroit](https://jobright.ai/jobs/info/68bb3b7c8043103d4f226ee1?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Nov 08 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Nov 08 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Appalachian State University](https://jobright.ai/jobs/info/68d70cbe894705799a2f0438?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

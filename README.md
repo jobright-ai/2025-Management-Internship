@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedStar Health](http://www.medstarhealth.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/69143d55286ccf0a15125eb6?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 11 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[OPS Student Administrative Assistant](https://jobright.ai/jobs/info/69142739e344172248f77715?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Nov 11 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Global Supply Chain - PDM](https://jobright.ai/jobs/info/69141469d1047e3565d08b28?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Nov 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/691413d9e344172248f769c9?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Nov 11 |
@@ -99,11 +100,11 @@ For a complete list, click the following sortable link below:
 | **[Van Subaru](http://www.vansubaru.com)** | **[INTERN - Customer Advocacy Business Summer Intern](https://jobright.ai/jobs/info/6914125c1465e02904e9a023?utm_campaign=1050&utm_source=git)** | Camden, NJ, United States | On Site | Nov 11 |
 | **[IDEMIA](https://www.idemia.com/)** | **[IT Business Operations and Leadership Internship - Summer 2026](https://jobright.ai/jobs/info/6913c31b1465e02904e9762f?utm_campaign=1050&utm_source=git)** | US-MA-Bedford | Hybrid | Nov 11 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Customer Advocacy Business Summer Intern](https://jobright.ai/jobs/info/6913c257d1047e3565d05d39?utm_campaign=1050&utm_source=git)** | Camden, NJ, United States | On Site | Nov 11 |
-| **[PROJXON](www.projxon.com)** | **[Operations (Intern) Leadership Development Program](https://jobright.ai/jobs/info/6913c9931465e02904e97903?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Nov 11 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Global Supply Chain - PDM](https://jobright.ai/jobs/info/6913e7b9e344172248f75075?utm_campaign=1050&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 11 |
 | **[Northern Clover](http://www.northernclover.com)** | **[Operations Temp/Intern (can possibly lead to permanent part time)](https://jobright.ai/jobs/info/6913c10ed1047e3565d05c6d?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Nov 11 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6913c103d1047e3565d05c65?utm_campaign=1050&utm_source=git)** | Niles, IL | On Site | Nov 11 |
 | **[Interstates](http://interstates.com)** | **[Assistant Project Manager Intern - Cincinnati, OH](https://jobright.ai/jobs/info/6913c015d1047e3565d05bf5?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Nov 11 |
+| **[PROJXON](www.projxon.com)** | **[Operations Leadership Development Program (Intern)](https://jobright.ai/jobs/info/6913c9931465e02904e97903?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Nov 11 |
 | **[9Rooftops](https://9rooftops.com)** | **[Digital Project Manager Intern](https://jobright.ai/jobs/info/6913bad8d1047e3565d059ef?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 11 |
 | **[LF Driscoll](http://lfdriscoll.com)** | **[Intern](https://jobright.ai/jobs/info/6913b7051465e02904e96f37?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of West Florida](https://jobright.ai/jobs/info/6913b5261465e02904e96da2?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Omaha, NE - 2025 - 2026](https://jobright.ai/jobs/info/68b8871b07090163b6ba25e9?utm_campaign=1050&utm_source=git)** | Offutt Air Force Base, NE | On Site | Nov 11 |
 | **[Pavarini McGovern](http://pavarinimcgovern.com)** | **[Intern](https://jobright.ai/jobs/info/6913a82f1465e02904e96680?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69138a76e344172248f71f2a?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Nov 11 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/691382081465e02904e9525b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

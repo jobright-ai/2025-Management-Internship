@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Distribution Operations Analyst Intern](https://jobright.ai/jobs/info/6913e1df1465e02904e985b0?utm_campaign=1050&utm_source=git)** | Morrisville, NC | Remote | Nov 11 |
+| **[Healthcare Outcomes Performance Co. (HOPCo)](https://hopco.com)** | **[Graduate Administrative Intern (HSLI)](https://jobright.ai/jobs/info/6913e063e344172248f74db2?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 11 |
+| **[EASTEAM](easteamny.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6913e035e344172248f74d9e?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Nov 11 |
+| **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Operations Intern - Digital Commerce (Amazon)](https://jobright.ai/jobs/info/6913dde41465e02904e98355?utm_campaign=1050&utm_source=git)** | Bentonville, Arkansas, United States | Hybrid | Nov 11 |
+| **[Dollar General Store](https://www.dollargeneral.com/)** | **[DC INTERN](https://jobright.ai/jobs/info/6913d758e344172248f74a1d?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Nov 11 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Digital Relationship Management Analyst Intern](https://jobright.ai/jobs/info/6913d5c7d1047e3565d0682d?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 11 |
 | **[PROJXON](www.projxon.com)** | **[Operations Leadership Development Program (Intern)](https://jobright.ai/jobs/info/6913c9931465e02904e97903?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Nov 11 |
 | **[IDEMIA](https://www.idemia.com/)** | **[IT Business Operations and Leadership Internship - Summer 2026](https://jobright.ai/jobs/info/6913c31b1465e02904e9762f?utm_campaign=1050&utm_source=git)** | US-MA-Bedford | Hybrid | Nov 11 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Customer Advocacy Business Summer Intern](https://jobright.ai/jobs/info/6913c257d1047e3565d05d39?utm_campaign=1050&utm_source=git)** | Camden, NJ, United States | On Site | Nov 11 |
@@ -71,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[TickerTrends](https://www.tickertrends.io/)** | **[Executive Assistant](https://jobright.ai/jobs/info/6913b283e344172248f735cd?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
 | **[LF Driscoll](http://lfdriscoll.com)** | **[Intern](https://jobright.ai/jobs/info/6913b106d1047e3565d05328?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Nov 11 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Digital Relationship Management Analyst Intern](https://jobright.ai/jobs/info/6913b0f61465e02904e96b24?utm_campaign=1050&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 11 |
+| **[Illumio](http://www.illumio.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/68eef5a346e5b153e5a618c3?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Nov 11 |
 | **[Cliffton Verge](https://www.linkedin.com/company/108618613)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6913adbfe344172248f73251?utm_campaign=1050&utm_source=git)** | Ada, MI | On Site | Nov 11 |
 | **[Covestro](https://www.covestro.com)** | **[Innovation Excellence Management Intern](https://jobright.ai/jobs/info/6913c97b1465e02904e978f2?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 11 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - 30K Program Office (Onsite)](https://jobright.ai/jobs/info/6913a9611465e02904e9673f?utm_campaign=1050&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 11 |
@@ -118,11 +125,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/691382081465e02904e9525b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Mission Critical)](https://jobright.ai/jobs/info/68bf8249702aa35207aa6fc7?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 11 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68f66f0476a51a4307bda585?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 11 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Sourcing & Vendor Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6913978b1465e02904e95d2b?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 11 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/69136101e344172248f70d99?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Nov 11 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Supply Chain Transformation Intern](https://jobright.ai/jobs/info/6912d5e6ea9ab01b82bf54f5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | **[INVISTA](http://www.invista.com/)** | **[INVISTA Supply Chain Intern / Kennesaw, GA - Summer 2026](https://jobright.ai/jobs/info/69135f4be344172248f70d14?utm_campaign=1050&utm_source=git)** | Kennesaw, GA | On Site | Nov 11 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Supply Chain](https://jobright.ai/jobs/info/68f1fb95d2b6d776b59158a4?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 11 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Sourcing & Vendor Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/691386941465e02904e95414?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 11 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68f66da976a51a4307bda45c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 11 |
 | **[Henkel](http://www.henkel.com)** | **[Shift Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68ca2d6ff16e3266d2823859?utm_campaign=1050&utm_source=git)** | West Hazleton, PA | On Site | Nov 11 |
 | **[Bendix Commercial Vehicle Systems LLC](http://www.bendix.com)** | **[Co-op, Project Management (Posting)](https://jobright.ai/jobs/info/68cd63511ad6b16f02898fa1?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Nov 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[2026 Southeast Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/68f7878bb0edcf159dc82502?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Nov 11 |
 | ↳ | **[2026 Southeast Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/68f77aafb0edcf159dc80ef0?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 11 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/68f9bdfc7b89366816033f15?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Nov 11 |
-| ↳ | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/690ad8744a1b456627b0be3a?utm_campaign=1050&utm_source=git)** | Haslet, TX | On Site | Nov 11 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[2026 Southeast Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/68f77a0eb0edcf159dc80d52?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Nov 11 |
-| **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Supply Chain Internship](https://jobright.ai/jobs/info/68cf25d8dbd9fb154ede55b9?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Nov 11 |
-| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[MBA Summer Associate Intern, Finance](https://jobright.ai/jobs/info/68cd6f891ad6b16f02899923?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Nov 11 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68f69c0276a51a4307bdc358?utm_campaign=1050&utm_source=git)** | Kearney, NE | On Site | Nov 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/68dae7ef0dffed6f83d2a775?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

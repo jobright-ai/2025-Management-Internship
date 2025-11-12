@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[OPS Student Administrative Assistant](https://jobright.ai/jobs/info/69142739e344172248f77715?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Nov 11 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Global Supply Chain - PDM](https://jobright.ai/jobs/info/69141469d1047e3565d08b28?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Nov 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/691413d9e344172248f769c9?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Nov 11 |
 | **[SexSymbol Magazine](sexsymbolmagazine.com)** | **[Business Operations Intern (Unpaid, Remote – Internship)](https://jobright.ai/jobs/info/691411921465e02904e99fad?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69140f8e1465e02904e99f0a?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Nov 11 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/6914056ce344172248f76105?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | On Site | Nov 11 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Operations Intern - Digital Commerce (Amazon)](https://jobright.ai/jobs/info/691404741465e02904e99721?utm_campaign=1050&utm_source=git)** | Bentonville, AR | Hybrid | Nov 11 |
+| **[WVU Medicine](https://wvumedicine.org/)** | **[Intern Supply Chain and GPO](https://jobright.ai/jobs/info/69141fc8e344172248f77181?utm_campaign=1050&utm_source=git)** | Morgantown, WV | On Site | Nov 11 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/6913fabce344172248f75996?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Nov 11 |
 | **[Innovative Construction Group](https://www.icgbuilds.com/)** | **[Plant & Field Ops Intern](https://jobright.ai/jobs/info/6913f9e01465e02904e9901a?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Nov 11 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/6913f93ae344172248f758e5?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Nov 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pavarini McGovern](http://pavarinimcgovern.com)** | **[Intern](https://jobright.ai/jobs/info/6913a82f1465e02904e96680?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69138a76e344172248f71f2a?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Nov 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/691382081465e02904e9525b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 11 |
-| **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Mission Critical)](https://jobright.ai/jobs/info/68bf8249702aa35207aa6fc7?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 11 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68f66f0476a51a4307bda585?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

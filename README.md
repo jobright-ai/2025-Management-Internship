@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship (Summer '26) - Chicagoland Locations](https://jobright.ai/jobs/info/69158b359c388539cbdf45be?utm_campaign=1050&utm_source=git)** | Chicago | On Site | Nov 12 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[OPS Student Administrative Assistant](https://jobright.ai/jobs/info/691577e29c388539cbdf3e0f?utm_campaign=1050&utm_source=git)** | Florida, United States | On Site | Nov 12 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Solution Partner Program Specialist](https://jobright.ai/jobs/info/69156738286ccf0a1512dfe8?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | Nov 12 |
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/691566756f36db06ef04e6ca?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Nov 12 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69155dbf9c388539cbdf3059?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Nov 12 |
@@ -78,13 +80,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69156a959c388539cbdf354e?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Nov 12 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Planning Intern](https://jobright.ai/jobs/info/69156060286ccf0a1512dbdf?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 12 |
 | **[Canteen North America](http://Canteen.com)** | **[Operations Intern, Canteen / New Berlin, WI](https://jobright.ai/jobs/info/69156c5e6f36db06ef04e88c?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Nov 12 |
+| **[Dollar General](https://www.dollargeneral.com/)** | **[2026 Summer Intern Distribution Center- Supply Chain](https://jobright.ai/jobs/info/6915373f286ccf0a1512c519?utm_campaign=1050&utm_source=git)** | BERKELEY, Missouri | On Site | Nov 12 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Strategic Integration](https://jobright.ai/jobs/info/6915601d286ccf0a1512dbc4?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 12 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern - Facilities Maintenance](https://jobright.ai/jobs/info/691535ac9c388539cbdf1842?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Nov 12 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69155be99c388539cbdf2f3f?utm_campaign=1050&utm_source=git)** | Waterloo, IA | On Site | Nov 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69155b206f36db06ef04e1b4?utm_campaign=1050&utm_source=git)** | Mount Vernon, IL | On Site | Nov 12 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69156009286ccf0a1512dbba?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Nov 12 |
 | **[Ally](http://www.ally.com/)** | **[Summer 2026 Internship – Insurance Operations](https://jobright.ai/jobs/info/691532c3286ccf0a1512c284?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Nov 12 |
-| **[Dollar General](https://www.dollargeneral.com/)** | **[2026 Summer Intern Distribution Center- Supply Chain](https://jobright.ai/jobs/info/69152eaa6f36db06ef04c79e?utm_campaign=1050&utm_source=git)** | BERKELEY, Missouri | On Site | Nov 12 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69155bc59c388539cbdf2f35?utm_campaign=1050&utm_source=git)** | Del Mar, CA | Hybrid | Nov 12 |
 | **[Minor Football League ](http://www.mflishere.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69152bb76f36db06ef04c5c0?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/69152a936f36db06ef04c512?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Life Group](https://www.nationallife.com)** | **[After Issue Intern - Summer 2026](https://jobright.ai/jobs/info/6914edcc286ccf0a151295cb?utm_campaign=1050&utm_source=git)** | Montpelier, VT | On Site | Nov 12 |
 | ↳ | **[After Issue Intern - Summer 2026](https://jobright.ai/jobs/info/6914d3209c388539cbdede16?utm_campaign=1050&utm_source=git)** | Addison, TX | On Site | Nov 12 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Heavy Highway)](https://jobright.ai/jobs/info/68bf81a85c5d5f14f46d786b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 12 |
-| **[PwC](http://pwc.com)** | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8fccecadb2e5a06a5f41d?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 12 |
-| ↳ | **[Sustainability - Capital Projects & Infrastructure Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f6a96de2db04dc3e326b?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

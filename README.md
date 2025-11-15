@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
+| **[Mott MacDonald](https://www.mottmac.com/hungary)** | **[Corporate Services Internship - 2026](https://jobright.ai/jobs/info/6918381715b415636717fd4e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
+| **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Junior Project Manager](https://jobright.ai/jobs/info/691836aa15b415636717fcc3?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Nov 15 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Business Continuity/Disaster Recovery](https://jobright.ai/jobs/info/69182c86bcdbf3560c9cf34c?utm_campaign=1050&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Payments, Products & Marketing](https://jobright.ai/jobs/info/6918266645fb6f5ead8a2334?utm_campaign=1050&utm_source=git)** | Hancock Whitney Plaza - Gulfport, MS | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Wholesale Banking](https://jobright.ai/jobs/info/6918233045fb6f5ead8a21c0?utm_campaign=1050&utm_source=git)** | Kirby - Houston, TX | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Centralized Credit Services](https://jobright.ai/jobs/info/691821aa15b415636717ef61?utm_campaign=1050&utm_source=git)** | UNO Center - New Orleans, LA | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Loss Mitigation Strategic Services](https://jobright.ai/jobs/info/69182122bcdbf3560c9ced54?utm_campaign=1050&utm_source=git)** | Highway 77 - Panama City, FL | On Site | Nov 14 |
 | ↳ | **[Summer Intern- Wealth Management](https://jobright.ai/jobs/info/6918168e45fb6f5ead8a195d?utm_campaign=1050&utm_source=git)** | Tampa Wealth - Tampa, FL | On Site | Nov 14 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Enterprise & Operational Risk Management](https://jobright.ai/jobs/info/6918119015b415636717e5f4?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 14 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Sourcing & Vendor Management Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6913978b1465e02904e95d2b?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 14 |
 | **[STO Building Group](https://stobuildinggroup.com)** | **[Intern](https://jobright.ai/jobs/info/6917fed7bcdbf3560c9cd7a0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6917feb1bcdbf3560c9cd77f?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 14 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/6917a60445fb6f5ead89d1ab?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Nov 14 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Nov 14 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6917a3ef15b4156367179de3?utm_campaign=1050&utm_source=git)** | Hanover, PA | On Site | Nov 14 |
-| **[Lionchase North America](https://www.lionchase.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/6917a33115b4156367179d1f?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6917a28815b4156367179c74?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 14 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6917a16145fb6f5ead89cd29?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Nov 14 |
 | **[Brighton Jones](http://brightonjones.com)** | **[Intern - Seattle](https://jobright.ai/jobs/info/6917a0e545fb6f5ead89ccb6?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Nov 14 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Commercial Strategy, Technology, and Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6917922245fb6f5ead89c26f?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | Nov 14 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6917af1dbcdbf3560c9ca38e?utm_campaign=1050&utm_source=git)** | 200 W Old Wilson Bridge Road, Columbus, OH, 43085, US | On Site | Nov 14 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6917b2d445fb6f5ead89db2e?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Nov 14 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2026](https://jobright.ai/jobs/info/6917916a15b415636717904e?utm_campaign=1050&utm_source=git)** | Odenton, MD | On Site | Nov 14 |
 | **[Envita Solutions](http://heritage-interactive.com)** | **[Strategic Solutions Analyst Intern](https://jobright.ai/jobs/info/691790bc45fb6f5ead89c142?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Nov 14 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6917c13dbcdbf3560c9cb13b?utm_campaign=1050&utm_source=git)** | Livonia, MI | On Site | Nov 14 |
 | **[Badger Meter](http://badgermeter.com)** | **[Supply Chain (Procurement) Intern](https://jobright.ai/jobs/info/69178eee45fb6f5ead89c014?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Nov 14 |
@@ -124,15 +124,15 @@ For a complete list, click the following sortable link below:
 | **[BCI Construction Inc.](https://bciconstruction.us/)** | **[Project Internship](https://jobright.ai/jobs/info/6917c343bcdbf3560c9cb318?utm_campaign=1050&utm_source=git)** | Sauk Rapids, MN | On Site | Nov 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/6917b39ebcdbf3560c9ca6fa?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Nov 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6917b61e45fb6f5ead89ddc3?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 14 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6917a78f45fb6f5ead89d2d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 14 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6917a89515b415636717a298?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 14 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6917a78f45fb6f5ead89d2d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 14 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/6917bf4cbcdbf3560c9caf11?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6917c2a8bcdbf3560c9cb293?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 14 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6917aadb45fb6f5ead89d63a?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 14 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/6917bdebbcdbf3560c9cadd3?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Nov 14 |
-| ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/6917ae4abcdbf3560c9ca2bb?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 14 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6917aadb45fb6f5ead89d63a?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 14 |
 | ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/6917b646bcdbf3560c9ca962?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 14 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6917b70745fb6f5ead89de7d?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Nov 14 |
+| ↳ | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/6917ae4abcdbf3560c9ca2bb?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 14 |
 | **[City Union Mission](https://cityunionmission.org/)** | **[Men's Center Case Manager Intern](https://jobright.ai/jobs/info/6917c45445fb6f5ead89e744?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 14 |
 | **[Doyle Construction Company](https://www.doyleconco.com)** | **[Internship](https://jobright.ai/jobs/info/6917cbe5bcdbf3560c9cb7a7?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Nov 14 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Operations](https://jobright.ai/jobs/info/691784d7bcdbf3560c9c87ac?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 14 |

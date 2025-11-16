@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hajoca Corporation](https://www.hajoca.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69197e16bcdbf3560c9d5baf?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Nov 15 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/6919446945fb6f5ead8a7d77?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 15 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6919439b45fb6f5ead8a7d23?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Nov 15 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/691920b515b41563671844b9?utm_campaign=1050&utm_source=git)** | Wichita , Wichita, KS, US | Hybrid | Nov 15 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Administration Intern](https://jobright.ai/jobs/info/6918ddb5bcdbf3560c9d3bbe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[Blount Fine Foods](http://blountfinefoods.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6918d99a15b4156367183d81?utm_campaign=1050&utm_source=git)** | Warren, RI | On Site | Nov 15 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Winter 2026)](https://jobright.ai/jobs/info/6918b9c9bcdbf3560c9d3677?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Nov 15 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6918b96615b41563671838ab?utm_campaign=1050&utm_source=git)** | Indiana, United States | Remote | Nov 15 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Facilities Manager / Security Officer (SkillBridge Intern) - 21158](https://jobright.ai/jobs/info/6716dc926a17b09c402efe61?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Nov 15 |
 | **[Arora Engineers](http://www.aroraengineers.com)** | **[Project Administrator Intern](https://jobright.ai/jobs/info/690d05e7221b890c2780207c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 15 |
 | **[Knight Construction & Supply Inc.](https://www.knightconst.com)** | **[Project Manager INTERNSHIP - SUMMER 2026 (Knight Const. & Supply)](https://jobright.ai/jobs/info/6918ad96bcdbf3560c9d330b?utm_campaign=1050&utm_source=git)** | Deer Park, WA | On Site | Nov 15 |
@@ -146,10 +146,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688d9882e5cead4afd457d62?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | **[Sonoco](https://www.sonoco.com/)** | **[Intern- Supply Management RPC](https://jobright.ai/jobs/info/68a87bf1758f2e4ac3ff2c18?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Nov 15 |
 | **[Trench Group](https://trench-group.com/)** | **[Strategic Procurement Intern (8-Month Contract)](https://jobright.ai/jobs/info/69188aecbcdbf3560c9d29a6?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Nov 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Operations Intern (TikTok LIVE-AMS)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c9ac9895f5211cd2cf2b35?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68b7c0c55e55be5e2604d7b2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
+| ↳ | **[Operations Intern (TikTok LIVE-AMS)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c9ac9895f5211cd2cf2b35?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/68d36c748c62e63bc7fe0e9f?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 15 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68ce5cc2846f0b04af67927a?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Nov 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cd0ac11ad6b16f02893cbf?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e07f3fb99ec3563b0cfe8c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 15 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Wholesale Banking](https://jobright.ai/jobs/info/69185a0145fb6f5ead8a4da9?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68fd021ae0c73b3a11190fe0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |

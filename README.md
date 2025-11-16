@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Project Management Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68cf4153846f0b04af67fe8e?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Nov 16 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Business Unit of the CFO (Wealth Management)](https://jobright.ai/jobs/info/68d631b6ebcef82ef5cf7730?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 16 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6919c87945fb6f5ead8aa60d?utm_campaign=1050&utm_source=git)** | Pittsfield | On Site | Nov 16 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/69006e34e04ac838fb5c1d69?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Nov 16 |
+| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c30a975adaee6c9bda676a?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Nov 16 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 16 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Nov 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Nov 15 |
 | **[Gentherm](https://gentherm.com/)** | **[PMO Intern](https://jobright.ai/jobs/info/68fbee0d4129dd33cd1366e4?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Nov 15 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[Telehealth Administrative Internship - Summer 2026](https://jobright.ai/jobs/info/68fcb4a9e04ac838fb5ac096?utm_campaign=1050&utm_source=git)** | Murray, UT | On Site | Nov 15 |
-| **[Highmark](https://www.highmark.com)** | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/690c15d1d046ab6061ceabf6?utm_campaign=1050&utm_source=git)** | Erie-Meadville Area | On Site | Nov 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688d9882e5cead4afd457d62?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
-| **[Sonoco](https://www.sonoco.com/)** | **[Intern- Supply Management RPC](https://jobright.ai/jobs/info/68a87bf1758f2e4ac3ff2c18?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Nov 15 |
-| **[Trench Group](https://trench-group.com/)** | **[Strategic Procurement Intern (8-Month Contract)](https://jobright.ai/jobs/info/69188aecbcdbf3560c9d29a6?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Nov 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68b7c0c55e55be5e2604d7b2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
-| ↳ | **[Operations Intern (TikTok LIVE-AMS)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c9ac9895f5211cd2cf2b35?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

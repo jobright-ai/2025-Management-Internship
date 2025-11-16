@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/6919ef6645fb6f5ead8aabc2?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Nov 16 |
+| **[Arvento A](arventoa.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/691a017d45fb6f5ead8aae1a?utm_campaign=1050&utm_source=git)** | Washington, United States | Remote | Nov 16 |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Supply Chain Trainee Program Intern](https://jobright.ai/jobs/info/691a003445fb6f5ead8aadc3?utm_campaign=1050&utm_source=git)** | San Diego, CA | Remote | Nov 16 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Internship - Logan, UT - Summer 2026](https://jobright.ai/jobs/info/68ccc913a77e5d7d744f560e?utm_campaign=1050&utm_source=git)** | Logan, UT | On Site | Nov 16 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Waco, TX / Summer 2026](https://jobright.ai/jobs/info/68a9119d6acf96396f7249ba?utm_campaign=1050&utm_source=git)** | Woodway, TX | On Site | Nov 16 |
 | ↳ | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Nov 16 |
 | ↳ | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68cc176d16d00d2beeb199d3?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Nov 16 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68ced7eedbd9fb154ede321a?utm_campaign=1050&utm_source=git)** | Maumelle, AR | On Site | Nov 16 |
 | ↳ | **[DC Operations Intern / Casa Grande, AZ / Summer 2026](https://jobright.ai/jobs/info/68cd0b14b2a74e1837ed13f8?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Nov 16 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68aa04376acf96396f729658?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 16 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68b1351ae815524ae11fc0e9?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Nov 16 |
-| ↳ | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
+| ↳ | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68b1351ae815524ae11fc0e9?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Nov 16 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68ca2311f16e3266d282317c?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Nov 16 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Nov 16 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68cd0b93b2a74e1837ed14fe?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ac5531e5763f188e280d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 16 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68ce2dda1ad6b16f028a2ad7?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Nov 16 |
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c8e631f9c6ff7aedf1422f?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Nov 16 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Internship Program](https://jobright.ai/jobs/info/6919da0745fb6f5ead8aa906?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Nov 16 |
 | **[Henkel](http://www.henkel.com)** | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/68c35b08b8c22d38284711ba?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 16 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Project Management Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68cf4153846f0b04af67fe8e?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Nov 16 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Business Unit of the CFO (Wealth Management)](https://jobright.ai/jobs/info/68d631b6ebcef82ef5cf7730?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://www.dexteraxle.com/)** | **[MBA Summer Internship 2026](https://jobright.ai/jobs/info/68fbc04093c49825ab1055bd?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Nov 15 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/68c32a7263829b0a8a500664?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/6900b815f8ce7a040fdb8e3a?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Nov 15 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/690ace64d046ab6061ce0606?utm_campaign=1050&utm_source=git)** | Marietta, GA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

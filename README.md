@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signal Theory Inc.](https://www.signaltheory.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/691920b515b41563671844b9?utm_campaign=1050&utm_source=git)** | Wichita , Wichita, KS, US | Hybrid | Nov 15 |
 | **[Czinger Vehicles](http://www.czinger.com/)** | **[Summer 2026 Supply Chain Intern (Hypercar)](https://jobright.ai/jobs/info/68e01a3bf758fe1f97e496dd?utm_campaign=1050&utm_source=git)** | Torrance, California, United States | On Site | Nov 15 |
 | **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | On Site | Nov 15 |
 | **[Kids in the Game ](http://kidsinthegame.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6918e49f45fb6f5ead8a7056?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 15 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c7989ec96a22563ecf2c33?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Bethlehem](https://jobright.ai/jobs/info/68b51febbc187f64e1be5497?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Nov 15 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cea489dbd9fb154ede19c7?utm_campaign=1050&utm_source=git)** | Carrollton, GA | On Site | Nov 15 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/691898b4bcdbf3560c9d2dcd?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 15 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Supplier Lifecycle Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68e070b4b99ec3563b0cf793?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Nov 15 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Atlanta, GA](https://jobright.ai/jobs/info/68e00a11f758fe1f97e4901d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
@@ -100,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91be7a0c52d598ea35da6?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Management Internship - Norwood / Dedham area](https://jobright.ai/jobs/info/68dff1661852e62f007e5e00?utm_campaign=1050&utm_source=git)** | Norwood, MA | On Site | Nov 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f2c9109a65fd34585810a7?utm_campaign=1050&utm_source=git)** | Dinwiddie, VA | On Site | Nov 15 |
-| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68c48865e396b25cb5c69067?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern- TN](https://jobright.ai/jobs/info/691891a845fb6f5ead8a5ee6?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691890d715b4156367182cd0?utm_campaign=1050&utm_source=git)** | Bartlett, IL | On Site | Nov 15 |
@@ -114,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern-FL](https://jobright.ai/jobs/info/69188a3c15b4156367182af8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/68c3b4cc80e77b1fa6fcc647?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
+| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68cd23bbb2a74e1837ed3294?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Logistics Route Planning](https://jobright.ai/jobs/info/69092c5bbcccf20de59d82d5?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Nov 15 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[MBA Summer Internship 2026](https://jobright.ai/jobs/info/68fbc04093c49825ab1055bd?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Nov 15 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/68c32a7263829b0a8a500664?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |

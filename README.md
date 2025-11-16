@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Medical Affairs Intern](https://jobright.ai/jobs/info/6919446945fb6f5ead8a7d77?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 15 |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6919439b45fb6f5ead8a7d23?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Nov 15 |
 | **[Signal Theory Inc.](https://www.signaltheory.com)** | **[Project Management Internship](https://jobright.ai/jobs/info/691920b515b41563671844b9?utm_campaign=1050&utm_source=git)** | Wichita , Wichita, KS, US | Hybrid | Nov 15 |
 | **[Czinger Vehicles](http://www.czinger.com/)** | **[Summer 2026 Supply Chain Intern (Hypercar)](https://jobright.ai/jobs/info/68e01a3bf758fe1f97e496dd?utm_campaign=1050&utm_source=git)** | Torrance, California, United States | On Site | Nov 15 |
 | **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | On Site | Nov 15 |
@@ -100,7 +102,9 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91be7a0c52d598ea35da6?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Management Internship - Norwood / Dedham area](https://jobright.ai/jobs/info/68dff1661852e62f007e5e00?utm_campaign=1050&utm_source=git)** | Norwood, MA | On Site | Nov 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f2c9109a65fd34585810a7?utm_campaign=1050&utm_source=git)** | Dinwiddie, VA | On Site | Nov 15 |
+| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68c48865e396b25cb5c69067?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern- TN](https://jobright.ai/jobs/info/691891a845fb6f5ead8a5ee6?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/69193f2abcdbf3560c9d4876?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691890d715b4156367182cd0?utm_campaign=1050&utm_source=git)** | Bartlett, IL | On Site | Nov 15 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Rio Grande Valley](https://jobright.ai/jobs/info/68ca4be746caff4db51fcddc?utm_campaign=1050&utm_source=git)** | Mercedes, TX | On Site | Nov 15 |
@@ -113,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern-FL](https://jobright.ai/jobs/info/69188a3c15b4156367182af8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/68c3b4cc80e77b1fa6fcc647?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
-| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68cd23bbb2a74e1837ed3294?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Logistics Route Planning](https://jobright.ai/jobs/info/69092c5bbcccf20de59d82d5?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Nov 15 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[MBA Summer Internship 2026](https://jobright.ai/jobs/info/68fbc04093c49825ab1055bd?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Nov 15 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/68c32a7263829b0a8a500664?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/6918546215b415636718191f?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Nov 15 |
 | ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/6918536bbcdbf3560c9d17a9?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Centralized Credit Services](https://jobright.ai/jobs/info/6918507845fb6f5ead8a482b?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Nov 15 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/69184f7045fb6f5ead8a476f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69184ede45fb6f5ead8a4714?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 15 |
-| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Payments, Products & Marketing](https://jobright.ai/jobs/info/69184d8abcdbf3560c9d1468?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

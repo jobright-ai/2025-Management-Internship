@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Nov 16 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Coordinator III - Research Administration Coordinator (Internal Applicants Only)](https://jobright.ai/jobs/info/6919969abcdbf3560c9d699c?utm_campaign=1050&utm_source=git)** | Huntsville, TX | Hybrid | Nov 16 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/6919956dbcdbf3560c9d68e4?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Nov 16 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/691993ec15b41563671869e9?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Nov 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trench Group](https://trench-group.com/)** | **[Strategic Procurement Intern (8-Month Contract)](https://jobright.ai/jobs/info/69188aecbcdbf3560c9d29a6?utm_campaign=1050&utm_source=git)** | Pickering, Ontario, Canada | On Site | Nov 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68b7c0c55e55be5e2604d7b2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | ↳ | **[Operations Intern (TikTok LIVE-AMS)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c9ac9895f5211cd2cf2b35?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/68d36c748c62e63bc7fe0e9f?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 15 |
-| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68ce5cc2846f0b04af67927a?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Nov 15 |
-| **[Intermountain Health](https://intermountainhealthcare.org)** | **[Children's Health Admin Intern - Summer 2026](https://jobright.ai/jobs/info/68e07f3fb99ec3563b0cfe8c?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

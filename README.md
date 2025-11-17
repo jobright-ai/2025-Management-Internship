@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Structonix](structonix.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/691aa6f0bcdbf3560c9d9792?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 16 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f6b19a9a63986de75816e1?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Nov 16 |
 | **[Plato's Closet - TSRH](http://www.platoscloset.com)** | **[Management Intern (Des Moines / Iowa Area Students Only)](https://jobright.ai/jobs/info/691a781315b4156367188760?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | Nov 16 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Project Manager Process Improvement-New Product Development](https://jobright.ai/jobs/info/691a6a2c45fb6f5ead8ab740?utm_campaign=1050&utm_source=git)** | Lebanon, TN | Hybrid | Nov 16 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68ced7eedbd9fb154ede321a?utm_campaign=1050&utm_source=git)** | Maumelle, AR | On Site | Nov 16 |
 | ↳ | **[DC Operations Intern / Casa Grande, AZ / Summer 2026](https://jobright.ai/jobs/info/68cd0b14b2a74e1837ed13f8?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Nov 16 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68aa04376acf96396f729658?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 16 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
-| ↳ | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68b1351ae815524ae11fc0e9?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Nov 16 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68b1351ae815524ae11fc0e9?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68ca2311f16e3266d282317c?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Nov 16 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Nov 16 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68cd0b93b2a74e1837ed14fe?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91be7a0c52d598ea35da6?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Management Internship - Norwood / Dedham area](https://jobright.ai/jobs/info/68dff1661852e62f007e5e00?utm_campaign=1050&utm_source=git)** | Norwood, MA | On Site | Nov 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f2c9109a65fd34585810a7?utm_campaign=1050&utm_source=git)** | Dinwiddie, VA | On Site | Nov 15 |
+| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68c48865e396b25cb5c69067?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern- TN](https://jobright.ai/jobs/info/691891a845fb6f5ead8a5ee6?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/69193f2abcdbf3560c9d4876?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Retail Banking Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a8056acf96396f721944?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Nov 15 |
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern-FL](https://jobright.ai/jobs/info/69188a3c15b4156367182af8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/68c3b4cc80e77b1fa6fcc647?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
-| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68cd23bbb2a74e1837ed3294?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Shopper Insights Intern - MBA](https://jobright.ai/jobs/info/68ac18a1758f2e4ac30044c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
+| ↳ | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68cd5e671ad6b16f02898d73?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Nov 17 |
+| ↳ | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68ca655546caff4db51feea7?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | Nov 17 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Business Operations Intern - (GPSU/Mid-A)](https://jobright.ai/jobs/info/6900e336d5259a1b3cfef4b6?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 17 |
-| **[moomoo ](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6894d1fc4ed2ea559ca50bee?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Nov 17 |
+| **[moomoo](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6894d1fc4ed2ea559ca50bee?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Nov 17 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Operations Intern](https://jobright.ai/jobs/info/691b04d615b415636718c70f?utm_campaign=1050&utm_source=git)** | Indiana, United States | Remote | Nov 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/691af0a515b415636718c18b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 17 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/691ae9fd45fb6f5ead8aeeb5?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Nov 17 |
 | **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/691ae146bcdbf3560c9db386?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Nov 17 |
+| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Field Operations)](https://jobright.ai/jobs/info/691b146022a2cb4b9bd10218?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Corporate (Memphis, TN)](https://jobright.ai/jobs/info/691add8f45fb6f5ead8ae691?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/691add8915b415636718b581?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Nov 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/691ad74f45fb6f5ead8ae32f?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Project Management](https://jobright.ai/jobs/info/691acfaa45fb6f5ead8adebb?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
-| **[Structonix](structonix.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/691aa6f0bcdbf3560c9d9792?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 16 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Project Management](https://jobright.ai/jobs/info/691ad6bcbcdbf3560c9daf98?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f6b19a9a63986de75816e1?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Nov 16 |
 | **[Plato's Closet - TSRH](http://www.platoscloset.com)** | **[Management Intern (Des Moines / Iowa Area Students Only)](https://jobright.ai/jobs/info/691a781315b4156367188760?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | Nov 16 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Project Manager Process Improvement-New Product Development](https://jobright.ai/jobs/info/691a6a2c45fb6f5ead8ab740?utm_campaign=1050&utm_source=git)** | Lebanon, TN | Hybrid | Nov 16 |
@@ -82,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Maumelle, AR / Summer 2026](https://jobright.ai/jobs/info/68ced7eedbd9fb154ede321a?utm_campaign=1050&utm_source=git)** | Maumelle, AR | On Site | Nov 16 |
 | ↳ | **[DC Operations Intern / Casa Grande, AZ / Summer 2026](https://jobright.ai/jobs/info/68cd0b14b2a74e1837ed13f8?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Nov 16 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68aa04376acf96396f729658?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 16 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
-| ↳ | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68b1351ae815524ae11fc0e9?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Nov 16 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026: Development Capital Internship](https://jobright.ai/jobs/info/68b1351ae815524ae11fc0e9?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/68cd92f81ad6b16f0289b85c?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68ca2311f16e3266d282317c?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | On Site | Nov 16 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Nov 16 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68cd0b93b2a74e1837ed14fe?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 16 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Farmingdale State College](http://www.farmingdale.edu/)** | **[Project Director, Clean Energy Microcredentials](https://jobright.ai/jobs/info/68fbebb8f55bb021a889e264?utm_campaign=1050&utm_source=git)** | Farmingdale, NY | On Site | Nov 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Shamokin Dam](https://jobright.ai/jobs/info/68a7fa53d627244576e2fddc?utm_campaign=1050&utm_source=git)** | Shamokin Dam, PA | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68c3042d5001f8077bf602f3?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 15 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e043101852e62f007e9896?utm_campaign=1050&utm_source=git)** | Warrenton, VA | On Site | Nov 15 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68a908426acf96396f724329?utm_campaign=1050&utm_source=git)** | Roff, OK | On Site | Nov 15 |
 | **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c7989ec96a22563ecf2c33?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Nov 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Bethlehem](https://jobright.ai/jobs/info/68b51febbc187f64e1be5497?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Nov 15 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91be7a0c52d598ea35da6?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Nov 15 |
 | ↳ | **[Summer 2026 Management Internship - Norwood / Dedham area](https://jobright.ai/jobs/info/68dff1661852e62f007e5e00?utm_campaign=1050&utm_source=git)** | Norwood, MA | On Site | Nov 15 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68f2c9109a65fd34585810a7?utm_campaign=1050&utm_source=git)** | Dinwiddie, VA | On Site | Nov 15 |
-| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/68c48865e396b25cb5c69067?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 15 |
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern- TN](https://jobright.ai/jobs/info/691891a845fb6f5ead8a5ee6?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 15 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/69193f2abcdbf3560c9d4876?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 15 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

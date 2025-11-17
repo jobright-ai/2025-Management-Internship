@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plato's Closet - TSRH](http://www.platoscloset.com)** | **[Management Intern (Des Moines / Iowa Area Students Only)](https://jobright.ai/jobs/info/691a781315b4156367188760?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | Nov 16 |
+| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Project Manager Process Improvement-New Product Development](https://jobright.ai/jobs/info/691a6a2c45fb6f5ead8ab740?utm_campaign=1050&utm_source=git)** | Lebanon, TN | Hybrid | Nov 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations- EN](https://jobright.ai/jobs/info/691a518745fb6f5ead8ab591?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 16 |
 | ↳ | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/691a5154bcdbf3560c9d8220?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 16 |
 | ↳ | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/691a4f1b15b415636718843c?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern-FL](https://jobright.ai/jobs/info/69188a3c15b4156367182af8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/68c3b4cc80e77b1fa6fcc647?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Logistics Route Planning](https://jobright.ai/jobs/info/69092c5bbcccf20de59d82d5?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Nov 15 |
-| **[Dexter](https://www.dexteraxle.com/)** | **[MBA Summer Internship 2026](https://jobright.ai/jobs/info/68fbc04093c49825ab1055bd?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

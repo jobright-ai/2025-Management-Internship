@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Project Management](https://jobright.ai/jobs/info/691acfaa45fb6f5ead8adebb?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/691ae9fd45fb6f5ead8aeeb5?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Nov 17 |
+| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/691ae146bcdbf3560c9db386?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Corporate (Memphis, TN)](https://jobright.ai/jobs/info/691add8f45fb6f5ead8ae691?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Management and Administration Intern](https://jobright.ai/jobs/info/691add8915b415636718b581?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Nov 17 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/691ad74f45fb6f5ead8ae32f?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Project Management](https://jobright.ai/jobs/info/691ad6bcbcdbf3560c9daf98?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[Structonix](structonix.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/691aa6f0bcdbf3560c9d9792?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 16 |
 | **[Chapter](https://hellochapter.com?s=linked-bio)** | **[Project Management Intern](https://jobright.ai/jobs/info/68f6b19a9a63986de75816e1?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Nov 16 |
 | **[Plato's Closet - TSRH](http://www.platoscloset.com)** | **[Management Intern (Des Moines / Iowa Area Students Only)](https://jobright.ai/jobs/info/691a781315b4156367188760?utm_campaign=1050&utm_source=git)** | Ankeny, IA | On Site | Nov 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Rio Grande Valley](https://jobright.ai/jobs/info/68ca4be746caff4db51fcddc?utm_campaign=1050&utm_source=git)** | Mercedes, TX | On Site | Nov 15 |
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Intern/Coop - Business](https://jobright.ai/jobs/info/68fb04839e8e925ac6c88508?utm_campaign=1050&utm_source=git)** | Newnan, GA | On Site | Nov 15 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 15 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad9f1aab47a17f670bc9f?utm_campaign=1050&utm_source=git)** | Marshalltown, IA | On Site | Nov 15 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Program Assistant](https://jobright.ai/jobs/info/6918a9b415b41563671834cb?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 15 |
-| **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
-| **[Merchants Bank IN](http://bankmerchants.com)** | **[Retail Banking Intern - Summer 2026](https://jobright.ai/jobs/info/68a8a8056acf96396f721944?utm_campaign=1050&utm_source=git)** | Carmel, IN | On Site | Nov 15 |
-| **[AOA](https://www.insideaoa.com/)** | **[Project Management Intern-FL](https://jobright.ai/jobs/info/69188a3c15b4156367182af8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

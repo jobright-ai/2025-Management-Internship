@@ -57,33 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator](https://jobright.ai/jobs/info/691c386b22a2cb4b9bd19bc5?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Nov 18 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Tennessee State University](https://jobright.ai/jobs/info/691c31c2ff70244984166b29?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 18 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/691c089815b415636719572e?utm_campaign=1050&utm_source=git)** | Wixom, MI | On Site | Nov 17 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/691c239215b4156367196183?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 17 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/691bfbb622a2cb4b9bd18387?utm_campaign=1050&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
 | **[Chief Industries, Inc.](http://chiefind.com)** | **[Chief Industries, Inc Careers - Project Management Intern](https://jobright.ai/jobs/info/691bfa42bcdbf3560c9e4a82?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Nov 17 |
-| **[The University of New Mexico](http://unm.edu)** | **[Scribendi Office Manager](https://jobright.ai/jobs/info/691c0ced22a2cb4b9bd18c6e?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 17 |
 | **[MYR Group](https://myrgroup.com/)** | **[Internship - Project Coordinator](https://jobright.ai/jobs/info/691c0ab8bcdbf3560c9e5385?utm_campaign=1050&utm_source=git)** | Rochester Hills, Michigan | On Site | Nov 17 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/691bed2dbcdbf3560c9e4089?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 17 |
-| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Intern, Project Coordinator](https://jobright.ai/jobs/info/691bec0522a2cb4b9bd17896?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 17 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Operational Excellence Intern](https://jobright.ai/jobs/info/691c336aff70244984166b7a?utm_campaign=1050&utm_source=git)** | Brooklyn Park, MN | On Site | Nov 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691be912bcdbf3560c9e3e54?utm_campaign=1050&utm_source=git)** | Comstock Park, MI | On Site | Nov 17 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Project Coordinator Intern (Gregg Drilling) - Summer 2026](https://jobright.ai/jobs/info/691be35d15b4156367193c91?utm_campaign=1050&utm_source=git)** | Signal Hill, CA | On Site | Nov 17 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/691be1ec22a2cb4b9bd17138?utm_campaign=1050&utm_source=git)** | Wixom, 30811 Century Drive, Wixom, Michigan, United States of America | On Site | Nov 17 |
+| **[The University of New Mexico](http://unm.edu)** | **[Scribendi Office Manager](https://jobright.ai/jobs/info/691c0ced22a2cb4b9bd18c6e?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691be185bcdbf3560c9e3905?utm_campaign=1050&utm_source=git)** | Grand Forks, ND | On Site | Nov 17 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/691be09f15b4156367193a46?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ball State University](https://jobright.ai/jobs/info/691bfbb322a2cb4b9bd18385?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691bdc1915b4156367193773?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Nov 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bdbf715b415636719375c?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | Nov 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/691c0ac422a2cb4b9bd18b87?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 17 |
+| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Intern, Project Coordinator](https://jobright.ai/jobs/info/691c120115b4156367195a4b?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Business Transformation Office Intern](https://jobright.ai/jobs/info/691bd16a22a2cb4b9bd166b4?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Strategic IT Portfolio Management Intern (Graduate - Summer)](https://jobright.ai/jobs/info/691bd0fabcdbf3560c9e2eea?utm_campaign=1050&utm_source=git)** | Remote-IL | Remote | Nov 17 |
 | **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Baseball Operations](https://jobright.ai/jobs/info/691becb2bcdbf3560c9e401d?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Nov 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691becdcbcdbf3560c9e403b?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Nov 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bec7dbcdbf3560c9e3ffa?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Nov 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bebd822a2cb4b9bd17879?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bec7dbcdbf3560c9e3ffa?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Nov 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bf0e322a2cb4b9bd17bca?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Nov 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691beaa222a2cb4b9bd177d3?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Nov 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bf12915b415636719467a?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Nov 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bf5bd15b415636719493d?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bf12915b415636719467a?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Nov 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bfafe15b4156367194e70?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Nov 17 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bca4dbcdbf3560c9e29f1?utm_campaign=1050&utm_source=git)** | Washington | On Site | Nov 17 |
 | **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain, Material Management Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf45215b4156367194842?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Nov 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Assistant (Internship)](https://jobright.ai/jobs/info/691b6b0a15b415636718ee35?utm_campaign=1050&utm_source=git)** | Hicksville, NY | On Site | Nov 17 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Warehouse Operations Internship - Spring & Summer 2026](https://jobright.ai/jobs/info/691b41f322a2cb4b9bd11068?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Nov 17 |
 | **[Global Overview](https://www.123goecom.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/68e7fde0c4895107182c0751?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 17 |
-| **[Egan Company](https://www.eganco.com/)** | **[Assistant Project Manager Intern - Fargo, ND](https://jobright.ai/jobs/info/68dee10b44d32141e0c035e6?utm_campaign=1050&utm_source=git)** | Wahpeton, ND | Hybrid | Nov 17 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Category Sourcing and Procurement](https://jobright.ai/jobs/info/68cbf15f7342c7623ae5c8a1?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Nov 17 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Waverly, NE / Summer 2026](https://jobright.ai/jobs/info/691ad61f45fb6f5ead8ae281?utm_campaign=1050&utm_source=git)** | Waverly, NE | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

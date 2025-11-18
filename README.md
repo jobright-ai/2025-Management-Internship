@@ -57,18 +57,33 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Endeavor Air](http://www.endeavorair.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/691bfbb622a2cb4b9bd18387?utm_campaign=1050&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
+| **[Chief Industries, Inc.](http://chiefind.com)** | **[Chief Industries, Inc Careers - Project Management Intern](https://jobright.ai/jobs/info/691bfa42bcdbf3560c9e4a82?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Nov 17 |
+| **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern](https://jobright.ai/jobs/info/691bed2dbcdbf3560c9e4089?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 17 |
+| **[WSP in Canada](https://www.wsp.com/en-ca)** | **[Intern, Project Coordinator](https://jobright.ai/jobs/info/691bec0522a2cb4b9bd17896?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691be912bcdbf3560c9e3e54?utm_campaign=1050&utm_source=git)** | Comstock Park, MI | On Site | Nov 17 |
-| **[DeSHAZO, LLC](http://deshazo.com)** | **[Planning Production Intern](https://jobright.ai/jobs/info/691be783bcdbf3560c9e3d48?utm_campaign=1050&utm_source=git)** | Bessemer, AL | On Site | Nov 17 |
 | **[Sealaska](http://www.sealaska.com/)** | **[Project Coordinator Intern (Gregg Drilling) - Summer 2026](https://jobright.ai/jobs/info/691be35d15b4156367193c91?utm_campaign=1050&utm_source=git)** | Signal Hill, CA | On Site | Nov 17 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/691be1ec22a2cb4b9bd17138?utm_campaign=1050&utm_source=git)** | Wixom, 30811 Century Drive, Wixom, Michigan, United States of America | On Site | Nov 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691be185bcdbf3560c9e3905?utm_campaign=1050&utm_source=git)** | Grand Forks, ND | On Site | Nov 17 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/691be09f15b4156367193a46?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Nov 17 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ball State University](https://jobright.ai/jobs/info/691bfbb322a2cb4b9bd18385?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 17 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691bdc1915b4156367193773?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Nov 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bdbf715b415636719375c?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | Nov 17 |
 | **[Santander](https://www.santander.com/)** | **[Business Transformation Office Intern](https://jobright.ai/jobs/info/691bd16a22a2cb4b9bd166b4?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 17 |
 | **[Centene Corporation](http://www.centene.com)** | **[Strategic IT Portfolio Management Intern (Graduate - Summer)](https://jobright.ai/jobs/info/691bd0fabcdbf3560c9e2eea?utm_campaign=1050&utm_source=git)** | Remote-IL | Remote | Nov 17 |
+| **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Baseball Operations](https://jobright.ai/jobs/info/691becb2bcdbf3560c9e401d?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Nov 17 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691becdcbcdbf3560c9e403b?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bebd822a2cb4b9bd17879?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bec7dbcdbf3560c9e3ffa?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bf0e322a2cb4b9bd17bca?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691beaa222a2cb4b9bd177d3?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bf5bd15b415636719493d?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bf12915b415636719467a?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Nov 17 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691bfafe15b4156367194e70?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Nov 17 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Intern](https://jobright.ai/jobs/info/691bca4dbcdbf3560c9e29f1?utm_campaign=1050&utm_source=git)** | Washington | On Site | Nov 17 |
+| **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain, Material Management Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf45215b4156367194842?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Nov 17 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Hospitality Intern - Spire Luxury Apartments](https://jobright.ai/jobs/info/691bca08bcdbf3560c9e29bf?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 17 |
+| **[SolidSky](www.solid-sky.com)** | **[Admin & Operations Intern (Founder’s Office)](https://jobright.ai/jobs/info/691bf22a22a2cb4b9bd17c5c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Business Strategy Season Internship, Boston Bruins, TD Garden](https://jobright.ai/jobs/info/691bc73c15b4156367192b3d?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Nov 17 |
 | ↳ | **[Operations Management Internship, Busch Stadium](https://jobright.ai/jobs/info/691bc67715b4156367192aa3?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Nov 17 |
 | **[The Phelan Focus](www.thephelanfocus.com)** | **[Leadership Development Program (Intern)](https://jobright.ai/jobs/info/691bc3ee15b4156367192882?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Remote | Nov 17 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Administrative Co-Op](https://jobright.ai/jobs/info/6916fd40ab115751cca3e311?utm_campaign=1050&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Nov 17 |
 | **[Pella Corporation](http://www.pella.com)** | **[Logistics Intern - Summer 2026](https://jobright.ai/jobs/info/68e364aa1852e62f007faee9?utm_campaign=1050&utm_source=git)** | Pella, IA | On Site | Nov 17 |
 | ↳ | **[Department Manager Intern (Macomb, IL) - Summer 2026](https://jobright.ai/jobs/info/68e35dc6b99ec3563b0df35a?utm_campaign=1050&utm_source=git)** | Macomb, IL | On Site | Nov 17 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Internship](https://jobright.ai/jobs/info/68cd222b1ad6b16f028957e4?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Nov 17 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/691b548e15b415636718e264?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Nov 17 |
-| ↳ | **[Branch Manager Internship](https://jobright.ai/jobs/info/691b55acbcdbf3560c9ddfca?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Nov 17 |
-| **[TW Constructors](https://twc-stl.com)** | **[Internship (Summer 2026)](https://jobright.ai/jobs/info/68e8174dc4895107182c20b4?utm_campaign=1050&utm_source=git)** | Greater St. Louis | On Site | Nov 17 |
-| **[UF Health](https://ufhealth.org/)** | **[Office of Advancement Spring 2026 Intern](https://jobright.ai/jobs/info/691b484322a2cb4b9bd112c4?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Nov 17 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Shopper Insights Intern - MBA](https://jobright.ai/jobs/info/68ac18a1758f2e4ac30044c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 17 |
-| ↳ | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68cd5e671ad6b16f02898d73?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Nov 17 |
-| ↳ | **[2026 Summer Intern: Global Procurement - MBA](https://jobright.ai/jobs/info/68ca655546caff4db51feea7?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | Nov 17 |
-| **[Apple Bank](https://www.applebank.com)** | **[2026 Summer Intern- Retail Banking](https://jobright.ai/jobs/info/68ec90981eecd439f43fa188?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 17 |
-| **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Business Operations Intern - (GPSU/Mid-A)](https://jobright.ai/jobs/info/6900e336d5259a1b3cfef4b6?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 17 |
-| **[moomoo](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6894d1fc4ed2ea559ca50bee?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Nov 17 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/691ae9fd45fb6f5ead8aeeb5?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Nov 17 |
-| **[The Applied Research Laboratory at Penn State University](https://www.arl.psu.edu)** | **[Administrative Support Intern](https://jobright.ai/jobs/info/691ae146bcdbf3560c9db386?utm_campaign=1050&utm_source=git)** | University Park, PA | On Site | Nov 17 |
-| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern (Field Operations)](https://jobright.ai/jobs/info/691b146022a2cb4b9bd10218?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Nov 17 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Corporate (Memphis, TN)](https://jobright.ai/jobs/info/691add8f45fb6f5ead8ae691?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

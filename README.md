@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Strategy Intern - Remote](https://jobright.ai/jobs/info/691d6f400b7dff73415036c3?utm_campaign=1050&utm_source=git)** | Rochester, MN | Remote | Nov 18 |
+| **[L'Oréal](https://www.loreal.com/en/malaysia/)** | **[Internship- Supply Chain (S&OP)](https://jobright.ai/jobs/info/691d6e4e7481340785ed77b0?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Nov 18 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/691d57c30b7dff7341502b69?utm_campaign=1050&utm_source=git)** | Ft. Myers | On Site | Nov 18 |
 | ↳ | **[Management Trainee Spring Internship - Ogden](https://jobright.ai/jobs/info/691d57500b7dff7341502b54?utm_campaign=1050&utm_source=git)** | Ogden | On Site | Nov 18 |
 | ↳ | **[Spring 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/691d560f0b7dff7341502acf?utm_campaign=1050&utm_source=git)** | Sarasota | On Site | Nov 18 |
@@ -71,17 +73,17 @@ For a complete list, click the following sortable link below:
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Operations Analyst Internship- Distribution](https://jobright.ai/jobs/info/691d3d507481340785ed5445?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Nov 18 |
 | **[Pratt & Whitney](https://prattwhitney.com/)** | **[Stage Été 2026 - Transformations, Gestion de Réseau & Stratégie / Summer 2026 Intern - Network Transformation Initiatives and Strategy](https://jobright.ai/jobs/info/691d3b7c7481340785ed531c?utm_campaign=1050&utm_source=git)** | Longueuil, Quebec, Canada | On Site | Nov 18 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Organizational Research Intern](https://jobright.ai/jobs/info/691d3353bcdbf3560c9ee16b?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Nov 18 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d32ee7481340785ed4b3d?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Nov 18 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d3038bcdbf3560c9ee031?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Nov 18 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center - Pueblo, CO](https://jobright.ai/jobs/info/691d2f0e0b7dff7341500a38?utm_campaign=1050&utm_source=git)** | Pueblo, CO | Hybrid | Nov 18 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d2c510b7dff734150086a?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Nov 18 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Operations Leadership Internship- Distribution](https://jobright.ai/jobs/info/691d49c2bcdbf3560c9ef807?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Nov 18 |
 | **[Continental](https://www.continental.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/691d2b5ebcdbf3560c9edd08?utm_campaign=1050&utm_source=git)** | 325 E 10th St, Halstead, KS 67056, USA | On Site | Nov 18 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Nov 18 |
-| ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d281bbcdbf3560c9edb05?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Nov 18 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691d4b610b7dff73415021e5?utm_campaign=1050&utm_source=git)** | Livonia, MI | On Site | Nov 18 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Project Intern, Global Purchasing COE](https://jobright.ai/jobs/info/691aa2ad15b41563671897dd?utm_campaign=1050&utm_source=git)** | New Holland, PA | Hybrid | Nov 18 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/691d3940bcdbf3560c9ee5c9?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Nov 18 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691d3de47481340785ed54f1?utm_campaign=1050&utm_source=git)** | Coon Rapids, MN | On Site | Nov 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691d3d6d0b7dff734150147e?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Nov 18 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/691d3de47481340785ed54f1?utm_campaign=1050&utm_source=git)** | Coon Rapids, MN | On Site | Nov 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691d4005bcdbf3560c9eed09?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Nov 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691d434a7481340785ed5acd?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Nov 18 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/691d3ea70b7dff73415015bd?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Nov 18 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Gulf Region)](https://jobright.ai/jobs/info/68cf4eedfb49c96ca6ea6d14?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Nov 18 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/68c7e12d983e6768bc547dc4?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Nov 18 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68cd5f9fe23def7af55b9246?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Nov 18 |
-| **[Newmark](https://www.nmrk.com)** | **[Intern](https://jobright.ai/jobs/info/68ffd82ae0c73b3a1119f2fb?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 18 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Pacific Region)](https://jobright.ai/jobs/info/68e3f54b1852e62f007ffb5d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Nov 18 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Operations Intern (MBA)](https://jobright.ai/jobs/info/68ffe2abe04ac838fb5bccfc?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 18 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Change Management Intern](https://jobright.ai/jobs/info/691d666abcdbf3560c9f09a6?utm_campaign=1050&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

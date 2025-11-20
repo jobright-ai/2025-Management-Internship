@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Strategy and Operations Intern](https://jobright.ai/jobs/info/691e90743f782d2f1afb5e15?utm_campaign=1050&utm_source=git)** | Indiana, United States | Remote | Nov 19 |
+| **[GenPark](https://genpark.ai)** | **[Project Assistant Intern](https://jobright.ai/jobs/info/691ecedda49a885af9a2aed5?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 20 |
+| **[KRAFZEN](krafzeninc.com)** | **[Operations Manager Intern (Unpaid)](https://jobright.ai/jobs/info/691ecb2d09cc522e8773c213?utm_campaign=1050&utm_source=git)** | Canada | Remote | Nov 20 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Management Intern](https://jobright.ai/jobs/info/691e87fba49a885af9a29752?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | Remote | Nov 19 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring Internship - St. George](https://jobright.ai/jobs/info/691e84d63f782d2f1afb58bd?utm_campaign=1050&utm_source=git)** | St. George | On Site | Nov 19 |
 | **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Summer Intern](https://jobright.ai/jobs/info/691e7f50a49a885af9a292f2?utm_campaign=1050&utm_source=git)** | Raymond, WA | On Site | Nov 19 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[ASTEC](http://www.astecindustries.com)** | **[Intern - Logistics or Supply Chain](https://jobright.ai/jobs/info/691e73013f782d2f1afb4a9f?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Nov 19 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Logistics Supply Chain - Intern](https://jobright.ai/jobs/info/691e6b053f782d2f1afb46d9?utm_campaign=1050&utm_source=git)** | Florida | On Site | Nov 19 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Project Management Intern](https://jobright.ai/jobs/info/691eabc9a49a885af9a2a2d2?utm_campaign=1050&utm_source=git)** | Canonsburg, PA | On Site | Nov 19 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec446a49a885af9a2ab11?utm_campaign=1050&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
-| ↳ | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec0c409cc522e8773bea3?utm_campaign=1050&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec0c409cc522e8773bea3?utm_campaign=1050&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| ↳ | **[Operations Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec446a49a885af9a2ab11?utm_campaign=1050&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Logistics Supply Chain - Intern](https://jobright.ai/jobs/info/691e670409cc522e877397c7?utm_campaign=1050&utm_source=git)** | No | On Site | Nov 19 |
 | **[Weyerhaeuser](http://www.weyerhaeuser.com)** | **[Summer Intern](https://jobright.ai/jobs/info/691e7fcba49a885af9a29381?utm_campaign=1050&utm_source=git)** | USA-WA-Raymond | On Site | Nov 19 |
 | **[Superior](http://superiorgroup.net)** | **[Construction Assistant Project Manager Internship, Summer 2026](https://jobright.ai/jobs/info/691e5fd7a49a885af9a2812c?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Nov 19 |
@@ -84,10 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Admin Assistant to the Dean of Student Services](https://jobright.ai/jobs/info/691e512e3f782d2f1afb3bdf?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Nov 19 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
 | ↳ | **[Summer Intern, Innovation Industries - Life Sciences](https://jobright.ai/jobs/info/691e500e3f782d2f1afb3af6?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
-| **[ASTEC](http://www.astecindustries.com)** | **[Intern - Logistics or Supply Chain](https://jobright.ai/jobs/info/691e72e209cc522e87739cde?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Nov 19 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Veteran Project/Program Manager Intern - OVIP](https://jobright.ai/jobs/info/691e4f7209cc522e87738c35?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 19 |
+| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Veteran Project/Program Manager Intern - OVIP](https://jobright.ai/jobs/info/691e4e82a49a885af9a27813?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Veteran Project/Program Manager Intern - OVIP](https://jobright.ai/jobs/info/691e4e0e09cc522e87738b83?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 19 |
-| ↳ | **[Veteran Project/Program Manager Intern - OVIP](https://jobright.ai/jobs/info/691e4d72a49a885af9a2779f?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Penn State University](http://psu.edu)** | **[Events & Rental Management Intern](https://jobright.ai/jobs/info/691e4abda49a885af9a274c6?utm_campaign=1050&utm_source=git)** | Penn State University Park | On Site | Nov 19 |
 | **[Oracle](https://www.oracle.com/)** | **[Veteran Project/Program Manager Intern - OVIP](https://jobright.ai/jobs/info/691e464e3f782d2f1afb33ed?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 19 |
 | **[John Templeton Foundation](http://www.templeton.org)** | **[Meeting and Event Planning Intern](https://jobright.ai/jobs/info/691e45c63f782d2f1afb334e?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 19 |
@@ -114,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Project Analysis](https://jobright.ai/jobs/info/691e2fdd09cc522e87737231?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Nov 19 |
 | **[Plains All American](https://www.plains.com)** | **[Operational Strategy & Governance Intern](https://jobright.ai/jobs/info/691e2c97a49a885af9a25c5a?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/691e4bbb3f782d2f1afb3905?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Nov 19 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Change Initiatives Business Effectiveness](https://jobright.ai/jobs/info/691e27dd3f782d2f1afb1bdd?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
 | **[Haworth](http://www.haworth.com/)** | **[Material Planning and Inventory Intern - Holland, MI](https://jobright.ai/jobs/info/691e25223f782d2f1afb1971?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Nov 19 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Change Initiatives Business Effectiveness](https://jobright.ai/jobs/info/691e2515a49a885af9a25775?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 19 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Technology Portfolio Management](https://jobright.ai/jobs/info/691e20603f782d2f1afb155f?utm_campaign=1050&utm_source=git)** | Emeryville, CA | Hybrid | Nov 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/691e3a6609cc522e87737dc1?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Nov 19 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Internship](https://jobright.ai/jobs/info/691e1d2609cc522e8773659c?utm_campaign=1050&utm_source=git)** | Shelby Township, MI | On Site | Nov 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69013f3cd5259a1b3cff3868?utm_campaign=1050&utm_source=git)** | Obetz, OH | On Site | Nov 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Harrisburg, PA](https://jobright.ai/jobs/info/68ca43e30456a931db2967e1?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Nov 19 |
 | **[SageSure](https://www.sagesure.com)** | **[Claims Operations Intern](https://jobright.ai/jobs/info/6902202c98707b2b0fe6c9c1?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Nov 19 |
+| ↳ | **[Claims Operations Intern](https://jobright.ai/jobs/info/69021f0498707b2b0fe6c92d?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

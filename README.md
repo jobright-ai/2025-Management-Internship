@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/692033fa09cc522e87748c20?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 21 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68d76fbf61a175619f8cd393?utm_campaign=1050&utm_source=git)** | Erie, PA | On Site | Nov 21 |
+| **[Fessler & Bowman](https://www.fesslerandbowman.com)** | **[North Carolina Internship](https://jobright.ai/jobs/info/69203f19a49a885af9a37bc4?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 21 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69203c8d3f782d2f1afc3e01?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 21 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6920390e00c9ee50eaec06f0?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Nov 21 |
+| ↳ | **[Operations Intern - East Carolina University](https://jobright.ai/jobs/info/692035a13f782d2f1afc3b06?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 21 |
+| ↳ | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/692033fa09cc522e87748c20?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 21 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6920320a09cc522e87748b9f?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer - Genentech Community College Internship Program - Operations](https://jobright.ai/jobs/info/69202806a49a885af9a37139?utm_campaign=1050&utm_source=git)** | South San Francisco | On Site | Nov 21 |
 | **[Janicki](http://www.janicki.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6920262609cc522e877485cd?utm_campaign=1050&utm_source=git)** | Hamilton, WA | On Site | Nov 21 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Ohio State University](https://jobright.ai/jobs/info/69203ebe3f782d2f1afc3f12?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 21 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201bd3a49a885af9a36cf2?utm_campaign=1050&utm_source=git)** | Morristown | Hybrid | Nov 20 |
 | **[MANE](https://www.mane.com/)** | **[Operations Excellence Intern - Summer 2026](https://jobright.ai/jobs/info/691509a8286ccf0a1512a965?utm_campaign=1050&utm_source=git)** | Lebanon, OH | On Site | Nov 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6920328b09cc522e87748bd0?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 20 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69203c8ca49a885af9a37aaf?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 20 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692013a6a49a885af9a36888?utm_campaign=1050&utm_source=git)** | Franklin | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/6920133809cc522e87747db3?utm_campaign=1050&utm_source=git)** | LA Century City | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692012c009cc522e87747d98?utm_campaign=1050&utm_source=git)** | Sorrento Valley (San Diego) | Hybrid | Nov 20 |
@@ -82,22 +89,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/6920077a3f782d2f1afc24fc?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/6920076f3f782d2f1afc24ef?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692006513f782d2f1afc2460?utm_campaign=1050&utm_source=git)** | Boulder, CO | Hybrid | Nov 20 |
+| ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692005d73f782d2f1afc2419?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692004ae3f782d2f1afc2354?utm_campaign=1050&utm_source=git)** | Morristown, TN | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692004843f782d2f1afc2330?utm_campaign=1050&utm_source=git)** | Charlotte, AR | Hybrid | Nov 20 |
-| ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692002fd3f782d2f1afc2266?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Nov 20 |
 | **[CoreVista Strategies](corevistastrategies.us)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/692002d33f782d2f1afc2255?utm_campaign=1050&utm_source=git)** | Anchorage, AK | Hybrid | Nov 20 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692002bf3f782d2f1afc2245?utm_campaign=1050&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/6920012fa49a885af9a35d52?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/6920213f3f782d2f1afc31fa?utm_campaign=1050&utm_source=git)** | Santa Barbara | Hybrid | Nov 20 |
-| ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692023e33f782d2f1afc32d7?utm_campaign=1050&utm_source=git)** | Portland South | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern (Boston)](https://jobright.ai/jobs/info/69201f90a49a885af9a36e6c?utm_campaign=1050&utm_source=git)** | Massachussetts | Hybrid | Nov 20 |
+| ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/692023e33f782d2f1afc32d7?utm_campaign=1050&utm_source=git)** | Portland South | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69202c1d3f782d2f1afc3653?utm_campaign=1050&utm_source=git)** | Walnut Creek | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69202a333f782d2f1afc35dc?utm_campaign=1050&utm_source=git)** | Houston | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201119a49a885af9a3678e?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69202557a49a885af9a3704d?utm_campaign=1050&utm_source=git)** | South Portland, ME | Hybrid | Nov 20 |
-| ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201a3109cc522e877481a7?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201d4a09cc522e877482c5?utm_campaign=1050&utm_source=git)** | Radnor, PA | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201c7a09cc522e87748269?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | Hybrid | Nov 20 |
+| ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201a3109cc522e877481a7?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | Hybrid | Nov 20 |
 | ↳ | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201eb609cc522e8774834f?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Nov 20 |
 | **[Sailor Health](www.sailorhealth.com)** | **[Strategy & Ops Intern (NYU student)](https://jobright.ai/jobs/info/691fed64a49a885af9a35737?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 20 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026 Technical Program Manager Intern](https://jobright.ai/jobs/info/691feb2da49a885af9a35659?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Nov 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691f93e73f782d2f1afbe1fc?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Nov 20 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Personal Trust](https://jobright.ai/jobs/info/691fb1e209cc522e87744819?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Nov 20 |
 | **[CALVERT COUNTY PUBLIC SCHOOLS](https://www.calvertnet.k12.md.us)** | **[Student Services: Administrative Secretary 4 (Job ID# 3434)](https://jobright.ai/jobs/info/691f90463f782d2f1afbde90?utm_campaign=1050&utm_source=git)** | Prince Frederick, MD | On Site | Nov 20 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691f8d8b3f782d2f1afbdb72?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Nov 20 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern Program - IT Performance Management & Agility Intern](https://jobright.ai/jobs/info/691f8d49a49a885af9a3199e?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Commercial Real Estate](https://jobright.ai/jobs/info/691f8b2e3f782d2f1afbd986?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Duke University](https://jobright.ai/jobs/info/691f8af609cc522e87742b7e?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 20 |
-| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[McDonough Logistics Simulation and Slotting Summer 2026 Intern](https://jobright.ai/jobs/info/691f8a883f782d2f1afbd8f3?utm_campaign=1050&utm_source=git)** | McDonough, GA | On Site | Nov 20 |
-| **[Gas South](https://www.gassouth.com)** | **[Strategic Projects Intern](https://jobright.ai/jobs/info/691f89fd09cc522e87742abd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 20 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691f891709cc522e877429bf?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

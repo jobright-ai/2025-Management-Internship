@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Search Ads Product) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/69214775a49a885af9a448a4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 21 |
+| **[SpaceX](https://www.spacex.com)** | **[Summer 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6921421a00c9ee50eaecd244?utm_campaign=1050&utm_source=git)** | Flexible - Any SpaceX Site | On Site | Nov 21 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Project Manager, Clinical Development](https://jobright.ai/jobs/info/692140213f782d2f1afd093e?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Nov 21 |
+| **[Carolina Casualty (a Berkley Company)](http://carolinacas.com)** | **[Underwriting and Agency Management Intern](https://jobright.ai/jobs/info/69213e33a49a885af9a4444c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 21 |
+| **[City of Bowling Green, KY](https://www.bgky.org)** | **[Crew Leader - (Internal Only)](https://jobright.ai/jobs/info/69213aac3f782d2f1afd071a?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Nov 21 |
 | **[ODW Logistics](http://odwlogistics.com)** | **[Operations Intern - Summer of 2026](https://jobright.ai/jobs/info/69212a4900c9ee50eaecc6f0?utm_campaign=1050&utm_source=git)** | Hamilton, OH | On Site | Nov 21 |
 | **[Ebara Elliott Energy](http://www.elliott-turbo.com)** | **[Summer Supply Chain Management Intern](https://jobright.ai/jobs/info/692127e100c9ee50eaecc4a5?utm_campaign=1050&utm_source=git)** | Jeannette, PA | On Site | Nov 21 |
 | **[Chamberlin Roofing & Waterproofing](http://chamberlinltd.com)** | **[Project Intern](https://jobright.ai/jobs/info/692126953f782d2f1afcfc28?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 21 |
@@ -102,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[YEAROUT MECHANICAL, LLC](https://www.yearout.com/)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/6920f07000c9ee50eaec99a3?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 21 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6920f01e3f782d2f1afcd0ce?utm_campaign=1050&utm_source=git)** | Matthews, NC | On Site | Nov 21 |
 | **[Computershare Canada](http://www.computershare.com/ca/en)** | **[Internship - Corporate Actions Project Manager](https://jobright.ai/jobs/info/6920ef273f782d2f1afccf63?utm_campaign=1050&utm_source=git)** | Home Based, Massachusetts - Home Based, MA, 0000, US | Hybrid | Nov 21 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/692100a700c9ee50eaecaba3?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6920dfa7a49a885af9a402e5?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 21 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[T SUMMER INTERN, PROJECT MANAGEMENT OFFICE (PMO)](https://jobright.ai/jobs/info/6920dd11a49a885af9a400ee?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Procurement VPM - Summer Internship 2026](https://jobright.ai/jobs/info/6920dc5aa49a885af9a40057?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Nov 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Nov 21 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Corporate Housekeeping Operations](https://jobright.ai/jobs/info/68ccac5016d00d2beeb22b3e?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 21 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2026 MBA Internship Program](https://jobright.ai/jobs/info/6920c6593f782d2f1afcb59d?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 21 |
-| **[Avery Dennison](http://www.averydennison.com)** | **[Operations Co-Op (July/August 2026)](https://jobright.ai/jobs/info/6920c6083f782d2f1afcb56e?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Nov 21 |
-| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/6920c0dc3f782d2f1afcb097?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Nov 21 |
-| **[Vistar](http://www.vistar.com)** | **[Green Rabbit Operations Internship](https://jobright.ai/jobs/info/6920cc693f782d2f1afcbac1?utm_campaign=1050&utm_source=git)** | Braintree, MA | On Site | Nov 21 |
-| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Yard Intern (Summer 2026)](https://jobright.ai/jobs/info/6920c1e0a49a885af9a3edfd?utm_campaign=1050&utm_source=git)** | Milford, MA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

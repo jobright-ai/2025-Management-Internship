@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Platform Strategy Intern](https://jobright.ai/jobs/info/69220375d1ec2c3565c466f8?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69051c28122e8474c78d61dd?utm_campaign=1050&utm_source=git)** | Macedonia, OH | On Site | Nov 22 |
+| **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Supply Chain Systems Analyst (Logistics) Intern (Summer 2026)](https://jobright.ai/jobs/info/6921f8f53f782d2f1afd4402?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 22 |
 | **[Arvento A](arventoa.us)** | **[Organization Research Intern](https://jobright.ai/jobs/info/6921f2bfd1ec2c3565c46546?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Nov 22 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Supply Chain](https://jobright.ai/jobs/info/68e958abf195760c354a7bd0?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Nov 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9ba870930fe0bc462892c?utm_campaign=1050&utm_source=git)** | Uniontown, PA | On Site | Nov 22 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/68cc8a9b7342c7623ae663d2?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6921cd583f782d2f1afd3e3b?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Nov 22 |
 | **[GenPark](https://genpark.ai)** | **[Operations Intern](https://jobright.ai/jobs/info/6921ccbfd1ec2c3565c46075?utm_campaign=1050&utm_source=git)** | LA Metro Area | Hybrid | Nov 22 |
-| **[Ferrovias](ferrovias.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6921ccb8a49a885af9a47afb?utm_campaign=1050&utm_source=git)** | Ada County, ID | On Site | Nov 22 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6921cb13d1ec2c3565c45fb4?utm_campaign=1050&utm_source=git)** | Rochester, New York Metropolitan Area | Remote | Nov 22 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Operations Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/6893b2afa9199876488df690?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Nov 22 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 22 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[True Northon](https://www.linkedin.com/company/108612821)** | **[Business Process Operations Intern](https://jobright.ai/jobs/info/6921739fa49a885af9a45f17?utm_campaign=1050&utm_source=git)** | Madison, WI | Remote | Nov 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Search Ads Product) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/69214775a49a885af9a448a4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 21 |
 | **[SpaceX](https://www.spacex.com)** | **[Summer 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6921421a00c9ee50eaecd244?utm_campaign=1050&utm_source=git)** | Flexible - Any SpaceX Site | On Site | Nov 21 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Project Manager, Clinical Development](https://jobright.ai/jobs/info/692140213f782d2f1afd093e?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Nov 21 |
 | **[Carolina Casualty (a Berkley Company)](http://carolinacas.com)** | **[Underwriting and Agency Management Intern](https://jobright.ai/jobs/info/69213e33a49a885af9a4444c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 21 |
-| **[City of Bowling Green, KY](https://www.bgky.org)** | **[Crew Leader - (Internal Only)](https://jobright.ai/jobs/info/69213aac3f782d2f1afd071a?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[T Summer Intern, Project Management Office (PMO)](https://jobright.ai/jobs/info/69222e18d1ec2c3565c46eb6?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
+| ↳ | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/692221c8d1ec2c3565c46d1b?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
+| **[Juniper Communities](https://junipercommunities.com/)** | **[Executive Director Internship](https://jobright.ai/jobs/info/69221c92d1ec2c3565c46c34?utm_campaign=1050&utm_source=git)** | Hamilton Township, NJ | On Site | Nov 22 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Platform Strategy Intern](https://jobright.ai/jobs/info/69220375d1ec2c3565c466f8?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69051c28122e8474c78d61dd?utm_campaign=1050&utm_source=git)** | Macedonia, OH | On Site | Nov 22 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Supply Chain Systems Analyst (Logistics) Intern (Summer 2026)](https://jobright.ai/jobs/info/6921f8f53f782d2f1afd4402?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 22 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Operations Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/6893b2afa9199876488df690?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Nov 22 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 22 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f400a09a63986de7574247?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[VertoTech](vertotech.us)** | **[Business Internship Program](https://jobright.ai/jobs/info/6921c4e73f782d2f1afd3bec?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Nov 22 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Operations Management Intern (Manufacturing focus)](https://jobright.ai/jobs/info/691aaa52bcdbf3560c9d99a1?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Nov 22 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Global Knowledge Management & Digital Collaboration Intern](https://jobright.ai/jobs/info/68e9822065768b6412b1d00a?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Project Manager](https://jobright.ai/jobs/info/6921944bd1ec2c3565c451cb?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Nov 21 |
 | **[True Northon](https://www.linkedin.com/company/108612821)** | **[Business Process Operations Intern](https://jobright.ai/jobs/info/6921739fa49a885af9a45f17?utm_campaign=1050&utm_source=git)** | Madison, WI | Remote | Nov 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Search Ads Product) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/69214775a49a885af9a448a4?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Nov 21 |
-| **[SpaceX](https://www.spacex.com)** | **[Summer 2026 Business Operations Internship/Co-op](https://jobright.ai/jobs/info/6921421a00c9ee50eaecd244?utm_campaign=1050&utm_source=git)** | Flexible - Any SpaceX Site | On Site | Nov 21 |
-| **[Carolina Casualty (a Berkley Company)](http://carolinacas.com)** | **[Underwriting and Agency Management Intern](https://jobright.ai/jobs/info/69213e33a49a885af9a4444c?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

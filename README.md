@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dorman Products](https://www.dormanproducts.com/)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/69225a1c3f782d2f1afd4f81?utm_campaign=1050&utm_source=git)** | Colmar, PA | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[T Summer Intern, Project Management Office (PMO)](https://jobright.ai/jobs/info/69222e18d1ec2c3565c46eb6?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[10x Value Partners](http://10xvaluepartners.com/)** | **[Founders Associate Intern ARCbuild (m/f/d)](https://jobright.ai/jobs/info/692245e9d1ec2c3565c47088?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, IT Asset Manager (ITAM)](https://jobright.ai/jobs/info/692221c8d1ec2c3565c46d1b?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bae70930fe0bc4628973?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9ba980930fe0bc4628936?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Project Coordinator (DoD SkillBridge Internship)](https://jobright.ai/jobs/info/690d47f8d046ab6061cf4e55?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 22 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Change Management Intern](https://jobright.ai/jobs/info/6921d54ba49a885af9a47c5e?utm_campaign=1050&utm_source=git)** | Seattle, WA | Remote | Nov 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bc1dfeeb0006c1a56f08?utm_campaign=1050&utm_source=git)** | Wexford, PA | On Site | Nov 22 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cdc26d1ad6b16f0289eafb?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Nov 22 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/69050cb1122e8474c78d5712?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |

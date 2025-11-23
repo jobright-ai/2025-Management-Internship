@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/69237fb67795cd460c838baf?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
+| **[State Street](http://www.statestreet.com)** | **[Summer Internship 2026 - Global Delivery](https://jobright.ai/jobs/info/6923702638cd5478a8d569a7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 23 |
+| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non paid internship Scrum Master & Product Owner -Product Coordinator](https://jobright.ai/jobs/info/69236da638cd5478a8d569a5?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of West Alabama](https://jobright.ai/jobs/info/69236cc07795cd460c838a1b?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Nov 23 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69236b617795cd460c8389c8?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 23 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69236b5ac0cefa13343dabf0?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 23 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69236aa1c0cefa13343dabad?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Nov 23 |
+| ↳ | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6923651b38cd5478a8d568b7?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 23 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68b1ebfabc187f64e1bd7cca?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 23 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68cd6e1fe23def7af55b9bf5?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Nov 23 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Orlando, FL](https://jobright.ai/jobs/info/68ce05341ad6b16f028a0fbb?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 22 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f400a09a63986de7574247?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Operations Management Intern (Manufacturing focus)](https://jobright.ai/jobs/info/691aaa52bcdbf3560c9d99a1?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Nov 22 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Global Knowledge Management & Digital Collaboration Intern](https://jobright.ai/jobs/info/68e9822065768b6412b1d00a?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
-| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b1342304557a6c207bab8b?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Nov 22 |
-| **[Labatt Breweries of Canada](http://www.labattjobs.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/691dc0f0748c4e1301ec8459?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 22 |
-| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Operations Intern, WSP (2026 Summer)](https://jobright.ai/jobs/info/68eca1dd1eecd439f43fbf34?utm_campaign=1050&utm_source=git)** | Berkeley Heights, NJ | On Site | Nov 22 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - DHA Contract Support](https://jobright.ai/jobs/info/69050b4cff462851feff9c72?utm_campaign=1050&utm_source=git)** | Arlington, VA | Hybrid | Nov 22 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Project Manager, Clinical Development](https://jobright.ai/jobs/info/6921be7cd1ec2c3565c45c41?utm_campaign=1050&utm_source=git)** | San Rafael, CA | Hybrid | Nov 22 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/6895693e73b3a600fe887358?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

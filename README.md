@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/6922764b7795cd460c835adc?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 22 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/69225a1c3f782d2f1afd4f81?utm_campaign=1050&utm_source=git)** | Colmar, PA | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[T Summer Intern, Project Management Office (PMO)](https://jobright.ai/jobs/info/69222e18d1ec2c3565c46eb6?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[10x Value Partners](http://10xvaluepartners.com/)** | **[Founders Associate Intern ARCbuild (m/f/d)](https://jobright.ai/jobs/info/692245e9d1ec2c3565c47088?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Laboratory Manager](https://jobright.ai/jobs/info/6921852cd1ec2c3565c44d9d?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Corporate Strategy Intern](https://jobright.ai/jobs/info/692179213f782d2f1afd2576?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6921a418a49a885af9a4702f?utm_campaign=1050&utm_source=git)** | Wixom, MI | On Site | Nov 22 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern Clinical Supply Chain](https://jobright.ai/jobs/info/69218d1ca49a885af9a46a71?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

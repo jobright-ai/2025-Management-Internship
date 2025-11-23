@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Grain Handling (Multiple U.S. Locations)](https://jobright.ai/jobs/info/68b1ebfabc187f64e1bd7cca?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Nov 23 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68cd6e1fe23def7af55b9bf5?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Nov 23 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Orlando, FL](https://jobright.ai/jobs/info/68ce05341ad6b16f028a0fbb?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 23 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/692332407795cd460c8382e6?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 23 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68cf87d8fb49c96ca6ea938d?utm_campaign=1050&utm_source=git)** | Vermillion, SD | On Site | Nov 23 |
+| ↳ | **[Operations Intern- Summer 2026](https://jobright.ai/jobs/info/68ceb3ef846f0b04af67c66c?utm_campaign=1050&utm_source=git)** | Wilmington, OH | On Site | Nov 23 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Planning Intern – Summer 2026](https://jobright.ai/jobs/info/68b1e1e61ade4306aa6328bf?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Nov 23 |
 | **[McGough](http://www.mcgough.com)** | **[Internship/Co-Op, Project Management](https://jobright.ai/jobs/info/68b204cc1ade4306aa633dd7?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Nov 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Project Manager, Clinical Development](https://jobright.ai/jobs/info/69231db1c0cefa13343da359?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Nov 23 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68955df18c6d6b4426779399?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 23 |
-| **[Valorantum Capital](valorantumcapital.us)** | **[Business Strategy and Insights Intern](https://jobright.ai/jobs/info/69231799c0cefa13343da2b4?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 23 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[2026 Summer Intern - Syracuse](https://jobright.ai/jobs/info/68b0d795b47fb001d6895d8a?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Nov 23 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Miami, FL (June 2026)](https://jobright.ai/jobs/info/68b230a7f4e41a61efd82a1b?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Nov 23 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate - Commercial Strategy, Technology, and Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6917922245fb6f5ead89c26f?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | Nov 23 |
@@ -140,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL Internship & Co-Op 2025](https://jobright.ai/jobs/info/68f455009a65fd3458589887?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/68cc8a9b7342c7623ae663d2?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6921cd583f782d2f1afd3e3b?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Nov 22 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6921cb13d1ec2c3565c45fb4?utm_campaign=1050&utm_source=git)** | Rochester, New York Metropolitan Area | Remote | Nov 22 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Operations Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/6893b2afa9199876488df690?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Nov 22 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 22 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f400a09a63986de7574247?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - DHA Contract Support](https://jobright.ai/jobs/info/69050b4cff462851feff9c72?utm_campaign=1050&utm_source=git)** | Arlington, VA | Hybrid | Nov 22 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Project Manager, Clinical Development](https://jobright.ai/jobs/info/6921be7cd1ec2c3565c45c41?utm_campaign=1050&utm_source=git)** | San Rafael, CA | Hybrid | Nov 22 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/6895693e73b3a600fe887358?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, IT Enterprise Enablement (Business Excellence)](https://jobright.ai/jobs/info/691de26661dc50590a64b6c9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 22 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Phoenix & Portland](https://jobright.ai/jobs/info/68aecd7903c5f15c2fd8bb6a?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Nov 22 |
-| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, MBA, Strategy & Operations, Customer Experience](https://jobright.ai/jobs/info/69056732ff462851feffd293?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 22 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/68955f4a73b3a600fe886f4b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

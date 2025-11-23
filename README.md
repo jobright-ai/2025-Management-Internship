@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6922d8007795cd460c8377d8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 23 |
+| **[Capital Area Food Bank](https://www.capitalareafoodbank.org)** | **[Executive Administration Intern](https://jobright.ai/jobs/info/6922e80d7795cd460c837b5c?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 23 |
+| ↳ | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/6922e52c38cd5478a8d55ac4?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 23 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/6922dee038cd5478a8d55950?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 23 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6922d8977795cd460c8377f0?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Nov 23 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6922d8007795cd460c8377d8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 23 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6922d4397795cd460c837675?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 23 |
 | **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6922d25d7795cd460c837611?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 23 |
 | **[PEPOLA INDIA PRIVATE LIMITED](http://pepola.in)** | **[Intern Assistant](https://jobright.ai/jobs/info/6922c1dd7795cd460c837117?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lhoist](http://www.lhoist.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68cdfbc1b2a74e1837ede05d?utm_campaign=1050&utm_source=git)** | Calera, AL | On Site | Nov 22 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69052305ff462851feffad09?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Nov 22 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 22 |
-| **[Dorman Products](https://www.dormanproducts.com/)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/691ada6115b415636718b2c7?utm_campaign=1050&utm_source=git)** | Colmar, PA | Hybrid | Nov 22 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Administrative Associate III - Assistant to the Chair (Internal Applicants Only)](https://jobright.ai/jobs/info/69218d99d1ec2c3565c45058?utm_campaign=1050&utm_source=git)** | Huntsville, TX | Hybrid | Nov 22 |
-| **[Colorado State University](http://economics.colostate.edu/)** | **[Laboratory Manager](https://jobright.ai/jobs/info/6921852cd1ec2c3565c44d9d?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 22 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Corporate Strategy Intern](https://jobright.ai/jobs/info/692179213f782d2f1afd2576?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

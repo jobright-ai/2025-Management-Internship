@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6922d8007795cd460c8377d8?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 23 |
+| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6922d4397795cd460c837675?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 23 |
+| **[Lee County Port Authority](http://flylcpa.com)** | **[2026 Internship](https://jobright.ai/jobs/info/6922d25d7795cd460c837611?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 23 |
+| **[PEPOLA INDIA PRIVATE LIMITED](http://pepola.in)** | **[Intern Assistant](https://jobright.ai/jobs/info/6922c1dd7795cd460c837117?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/6922764b7795cd460c835adc?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 22 |
 | **[Dorman Products](https://www.dormanproducts.com/)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/69225a1c3f782d2f1afd4f81?utm_campaign=1050&utm_source=git)** | Colmar, PA | On Site | Nov 22 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[T Summer Intern, Project Management Office (PMO)](https://jobright.ai/jobs/info/69222e18d1ec2c3565c46eb6?utm_campaign=1050&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Administrative Associate III - Assistant to the Chair (Internal Applicants Only)](https://jobright.ai/jobs/info/69218d99d1ec2c3565c45058?utm_campaign=1050&utm_source=git)** | Huntsville, TX | Hybrid | Nov 22 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Laboratory Manager](https://jobright.ai/jobs/info/6921852cd1ec2c3565c44d9d?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Corporate Strategy Intern](https://jobright.ai/jobs/info/692179213f782d2f1afd2576?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[2026 Summer Intern Clinical Supply Chain](https://jobright.ai/jobs/info/69218d1ca49a885af9a46a71?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
-| **[Stantec](http://www.stantec.com)** | **[Assistant Project Manager](https://jobright.ai/jobs/info/6921c0bea49a885af9a4775c?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 21 |
-| ↳ | **[Assistant Project Manager](https://jobright.ai/jobs/info/6921944bd1ec2c3565c451cb?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Nov 21 |
-| **[True Northon](https://www.linkedin.com/company/108612821)** | **[Business Process Operations Intern](https://jobright.ai/jobs/info/6921739fa49a885af9a45f17?utm_campaign=1050&utm_source=git)** | Madison, WI | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

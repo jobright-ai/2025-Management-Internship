@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Patterson-Kelley](http://harscopk.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/6923a9c77795cd460c838e57?utm_campaign=1050&utm_source=git)** | Springfield-Branson, Missouri Area | Hybrid | Nov 23 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/69237fb67795cd460c838baf?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
 | **[State Street](http://www.statestreet.com)** | **[Summer Internship 2026 - Global Delivery](https://jobright.ai/jobs/info/6923702638cd5478a8d569a7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 23 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non paid internship Scrum Master & Product Owner -Product Coordinator](https://jobright.ai/jobs/info/69236da638cd5478a8d569a5?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Management Intern - Tampa, FL (June 2026)](https://jobright.ai/jobs/info/68b23114f4e41a61efd82a40?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Operations Intern - Undergraduate](https://jobright.ai/jobs/info/68cde8fa1ad6b16f0289fd42?utm_campaign=1050&utm_source=git)** | Winston-Salem, NC | On Site | Nov 23 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Project Intern, Global Purchasing COE](https://jobright.ai/jobs/info/691aa2ad15b41563671897dd?utm_campaign=1050&utm_source=git)** | New Holland, PA | Hybrid | Nov 23 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/69166f1c286ccf0a15135dd2?utm_campaign=1050&utm_source=git)** | Maquoketa, IA | On Site | Nov 23 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Estero, FL (June 2026)](https://jobright.ai/jobs/info/68b22f4d1ade4306aa634c59?utm_campaign=1050&utm_source=git)** | Estero, FL | On Site | Nov 23 |
 | ↳ | **[Construction Management Intern - Dallas, TX (June 2026)](https://jobright.ai/jobs/info/68eb80b076a1db7c59860835?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 23 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Project Coordination Intern](https://jobright.ai/jobs/info/6922fbf9c0cefa13343d9f4d?utm_campaign=1050&utm_source=git)** | St. Louis City County, MO | Remote | Nov 23 |

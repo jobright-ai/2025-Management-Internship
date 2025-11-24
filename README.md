@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Operational Excellence Intern - Summer 2026](https://jobright.ai/jobs/info/6923c6a6c0cefa13343db654?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Nov 23 |
+| **[X-Bow Systems](https://www.xbowsystems.com)** | **[Inventory & Site Logistics Intern](https://jobright.ai/jobs/info/6923bd92c0cefa13343db320?utm_campaign=1050&utm_source=git)** | Luling, TX | Hybrid | Nov 23 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/6923a9c77795cd460c838e57?utm_campaign=1050&utm_source=git)** | Springfield-Branson, Missouri Area | Hybrid | Nov 23 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Strategic Business Operations Intern](https://jobright.ai/jobs/info/69237fb67795cd460c838baf?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
 | **[State Street](http://www.statestreet.com)** | **[Summer Internship 2026 - Global Delivery](https://jobright.ai/jobs/info/6923702638cd5478a8d569a7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 23 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non paid internship Scrum Master & Product Owner -Product Coordinator](https://jobright.ai/jobs/info/69236da638cd5478a8d569a5?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 23 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of West Alabama](https://jobright.ai/jobs/info/69236cc07795cd460c838a1b?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Nov 23 |
 | ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69236b617795cd460c8389c8?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Nov 23 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69236b5ac0cefa13343dabf0?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Komatsu](https://www.komatsu.jp)** | **[Operations Management Intern (Manufacturing focus)](https://jobright.ai/jobs/info/691aaa52bcdbf3560c9d99a1?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Nov 22 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Global Knowledge Management & Digital Collaboration Intern](https://jobright.ai/jobs/info/68e9822065768b6412b1d00a?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
-| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b1342304557a6c207bab8b?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

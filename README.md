@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern / Bronx](https://jobright.ai/jobs/info/69240a1338cd5478a8d58cc5?utm_campaign=1050&utm_source=git)** | Bronx | On Site | Nov 23 |
+| **[Bowers CPAs & Advisors](http://bcpllc.com)** | **[Administrative Specialist Internship -Rochester (Jan-April 15, 2026)](https://jobright.ai/jobs/info/692404b1c0cefa13343dccc0?utm_campaign=1050&utm_source=git)** | Rochester, NY | On Site | Nov 23 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Westchester County, NY](https://jobright.ai/jobs/info/69240338c0cefa13343dca8c?utm_campaign=1050&utm_source=git)** | Westchester County, NY -  New Rochelle, Port Chester, Mamaroneck & HPN Airport | On Site | Nov 23 |
 | **[ABB](https://global.abb/group/en)** | **[Operational Excellence Intern - Summer 2026](https://jobright.ai/jobs/info/6923c6a6c0cefa13343db654?utm_campaign=1050&utm_source=git)** | Mebane, NC | On Site | Nov 23 |
 | **[X-Bow Systems](https://www.xbowsystems.com)** | **[Inventory & Site Logistics Intern](https://jobright.ai/jobs/info/6923bd92c0cefa13343db320?utm_campaign=1050&utm_source=git)** | Luling, TX | Hybrid | Nov 23 |
 | **[Patterson-Kelley](http://harscopk.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/6923a9c77795cd460c838e57?utm_campaign=1050&utm_source=git)** | Springfield-Branson, Missouri Area | Hybrid | Nov 23 |
@@ -106,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Platform Strategy Intern](https://jobright.ai/jobs/info/69220375d1ec2c3565c466f8?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Nov 22 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69051c28122e8474c78d61dd?utm_campaign=1050&utm_source=git)** | Macedonia, OH | On Site | Nov 22 |
 | **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Supply Chain Systems Analyst (Logistics) Intern (Summer 2026)](https://jobright.ai/jobs/info/6921f8f53f782d2f1afd4402?utm_campaign=1050&utm_source=git)** | Monroeville, PA | On Site | Nov 22 |
+| **[HaciGroup](hacigroup.org)** | **[Operations Coordinator](https://jobright.ai/jobs/info/6923fde738cd5478a8d5875d?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Nov 22 |
 | **[Marquis Companies](http://www.marquiscompanies.com)** | **[Internship - Nursing Leadership](https://jobright.ai/jobs/info/68ffbae4e0c73b3a1119dd2e?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Nov 22 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[Intern- Supply Chain](https://jobright.ai/jobs/info/68e958abf195760c354a7bd0?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Nov 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9ba870930fe0bc462892c?utm_campaign=1050&utm_source=git)** | Uniontown, PA | On Site | Nov 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6921cd583f782d2f1afd3e3b?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Nov 22 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Operations Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/6893b2afa9199876488df690?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Nov 22 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/68b093a0b47fb001d689380b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Nov 22 |
-| **[StandardAero](http://www.standardaero.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f400a09a63986de7574247?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Operations Management Intern (Manufacturing focus)](https://jobright.ai/jobs/info/691aaa52bcdbf3560c9d99a1?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Nov 22 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Global Knowledge Management & Digital Collaboration Intern](https://jobright.ai/jobs/info/68e9822065768b6412b1d00a?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

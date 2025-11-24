@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6924297838cd5478a8d59693?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Nov 24 |
+| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68f73791ec6dbe7073fb79fc?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 24 |
+| **[Kestra Financial](http://www.kestrafinancial.com/)** | **[Summer Internship, Operations](https://jobright.ai/jobs/info/69243eb4c0cefa13343dddd6?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 24 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Undergrad Internship - Summer 2026](https://jobright.ai/jobs/info/692436eaec574f4265bb2ad9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/69242f34c0cefa13343dd9f5?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Nov 24 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6924297838cd5478a8d59693?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Nov 24 |
 | **[Snohomish School District](www.sno.wednet.edu)** | **[Administrative Assistant - Career Center (leave replacement)](https://jobright.ai/jobs/info/692426307795cd460c83b522?utm_campaign=1050&utm_source=git)** | Snohomish, WA | On Site | Nov 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of West Alabama](https://jobright.ai/jobs/info/69242287c0cefa13343dd740?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Nov 24 |
 | ↳ | **[Operations Intern - University of West Alabama](https://jobright.ai/jobs/info/6924157538cd5478a8d5913a?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Nov 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Transaction Intern - Summer 2026](https://jobright.ai/jobs/info/6905a628122e8474c78daa0c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 22 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/68ec8fefd4b0106e703e8f5b?utm_campaign=1050&utm_source=git)** | Oakbrook Terrace, IL | Hybrid | Nov 22 |
 | **[NAPA Auto Parts](https://napaprolink.com/)** | **[Supply Chain Distribution Intern - Summer 2026](https://jobright.ai/jobs/info/69056838ff462851feffd352?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bb2965768b6412b1ef6a?utm_campaign=1050&utm_source=git)** | Erie, PA | On Site | Nov 22 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68cc5108128dc347fd92274c?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Nov 22 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[2026 Southwest Branch Intern - Multiple Locations](https://jobright.ai/jobs/info/6921d075a49a885af9a47b7a?utm_campaign=1050&utm_source=git)** | Katy, TX | On Site | Nov 22 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL Internship & Co-Op 2025](https://jobright.ai/jobs/info/68f455009a65fd3458589887?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/6926c7a027bf2f41a2c479c7?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Nov 26 |
+| **[State Street](http://www.statestreet.com)** | **[Summer Internship 2026 - Global Delivery](https://jobright.ai/jobs/info/6923702638cd5478a8d569a7?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/6926c5d027bf2f41a2c47937?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Nov 26 |
+| ↳ | **[Operations Intern - University of New Mexico (Summer 2026)](https://jobright.ai/jobs/info/6926c4bb27bf2f41a2c478f6?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Nov 26 |
+| **[El Camino Health](https://www.elcaminohealth.org)** | **[Administrative Intern - FT - Days - Health Equity Department](https://jobright.ai/jobs/info/6926c0e1d47de4798ecd8a4b?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[etaily](https://etaily.com)** | **[Demand and Supply Planning Intern (Hybrid)](https://jobright.ai/jobs/info/6926b08a27bf2f41a2c4756c?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Nov 25 |
 | **[Uber](http://www.uber.com)** | **[2026 Mobility Strategic Operations Intern, US](https://jobright.ai/jobs/info/6926a599f0beb07232625f46?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Nov 25 |
 | **[City of Fort Myers](https://www.cityftmyers.com/)** | **[INTERN - SW FL Enterprise Center](https://jobright.ai/jobs/info/6926a51b27bf2f41a2c4738a?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Nov 25 |
@@ -120,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Engineering Project Management](https://jobright.ai/jobs/info/69262f05f0beb07232622e64?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Nov 25 |
 | **[TMX Group](http://www.tmx.com)** | **[Process Analyst Student Intern (Winter term)](https://jobright.ai/jobs/info/69262b15d47de4798ecd52f9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Co-Op/Intern - Spring 2026 - Boston, MA](https://jobright.ai/jobs/info/692629e6d47de4798ecd51f4?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 25 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - Canada](https://jobright.ai/jobs/info/6926c7fc27bf2f41a2c479f3?utm_campaign=1050&utm_source=git)** | London, Ontario, CAN | On Site | Nov 25 |
 | **[ACCO Engineered Systems](http://www.accoes.com)** | **[Intern](https://jobright.ai/jobs/info/692613f3d47de4798ecd4402?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Nov 25 |
 | **[Schneider](https://schneider.com)** | **[Supply Chain Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922c4bcccf20de59d7b5c?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Nov 25 |
 | **[Cemstone](https://cemstone.com/)** | **[Operations Intern 2026](https://jobright.ai/jobs/info/6926113927bf2f41a2c430d9?utm_campaign=1050&utm_source=git)** | 120 Rosemount - Packaging | On Site | Nov 25 |
@@ -133,10 +139,10 @@ For a complete list, click the following sortable link below:
 | **[PEAK6](https://www.peak6.com)** | **[Project Management Intern (Clients)](https://jobright.ai/jobs/info/69260994d47de4798ecd3cbe?utm_campaign=1050&utm_source=git)** | New York City, NY | Hybrid | Nov 25 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/6926091ff0beb0723262179b?utm_campaign=1050&utm_source=git)** | McKees Rocks, PA | On Site | Nov 25 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Strategy & Analytics Intern](https://jobright.ai/jobs/info/6926085bd47de4798ecd3bdf?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
-| **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Engineering Project Management](https://jobright.ai/jobs/info/69260683f0beb0723262155d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 25 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/692603d1f0beb0723262125b?utm_campaign=1050&utm_source=git)** | Mansfield, OH | On Site | Nov 25 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Procurement – Intern](https://jobright.ai/jobs/info/69260320d47de4798ecd3865?utm_campaign=1050&utm_source=git)** | Housing Stipend | Hybrid | Nov 25 |
 | **[Plug-in Studios](https://www.studio-plug.com/)** | **[Development & Project Management Intern](https://jobright.ai/jobs/info/69260175d47de4798ecd36b1?utm_campaign=1050&utm_source=git)** | Atlanta,GA,US | On Site | Nov 25 |
+| **[Honeywell](http://www.honeywell.com)** | **[Intern Bachelors Engineering Project Management](https://jobright.ai/jobs/info/692600a6f0beb0723262113f?utm_campaign=1050&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 25 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[1st Team Soccer Operations Intern](https://jobright.ai/jobs/info/6925ffa9f0beb07232621054?utm_campaign=1050&utm_source=git)** | Frisco, Texas | On Site | Nov 25 |
 | **[Avista](https://myavista.com)** | **[Project Management Intern (Enterprise Technology, Energy Resources, Energy Delivery)](https://jobright.ai/jobs/info/6925fba2f0beb07232620cdb?utm_campaign=1050&utm_source=git)** | Spokane, WA | On Site | Nov 25 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/69261b86d47de4798ecd49b4?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[MBA Corporate Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/68d263f38c62e63bc7fd76b2?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 25 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Portfolio Management and Client Administration](https://jobright.ai/jobs/info/6925ec1ff0beb072326205df?utm_campaign=1050&utm_source=git)** | Hancock Whitney Center - New Orleans, LA | On Site | Nov 25 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Global Culture and Inclusion Intern - Summer2026](https://jobright.ai/jobs/info/6925e648f0beb07232620326?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
-| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Business Management Project Associate](https://jobright.ai/jobs/info/6909324dbcccf20de59d884d?utm_campaign=1050&utm_source=git)** | Bloomington, IN | On Site | Nov 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68d1d4aea54edb3bf3e167a3?utm_campaign=1050&utm_source=git)** | Clayton, NC | On Site | Nov 25 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of West Alabama](https://jobright.ai/jobs/info/690967f4d046ab6061cd4f3e?utm_campaign=1050&utm_source=git)** | Livingston, AL | On Site | Nov 25 |
-| **[We Insure](https://weinsuregroup.com/)** | **[Project Management Intern (Revenue)](https://jobright.ai/jobs/info/6925e024d47de4798ecd25f2?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
-| **[Stellantis](https://www.stellantis.com/)** | **[STAGE : ASSISTANT(E) COMMUNICATION, RESEAUX SOCIAUX & EVENEMENTS](https://jobright.ai/jobs/info/69200fafa49a885af9a366a5?utm_campaign=1050&utm_source=git)** | Campus Green, MD | On Site | Nov 25 |
-| **[FedEx Freight](https://www.fedex.com/en-us/shipping/freight.html)** | **[Intern-Field Operations](https://jobright.ai/jobs/info/6925dd8727bf2f41a2c41225?utm_campaign=1050&utm_source=git)** | Roseville, MN | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

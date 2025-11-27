@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (16 Months)](https://jobright.ai/jobs/info/6927c90bf0beb0723262df2a?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 26 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Client Operations and Policy Admin](https://jobright.ai/jobs/info/6927c3f691ceeb2e8a542e89?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Nov 26 |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Nov 26 |
+| **[Charlotte Independence](https://www.charlotteindependence.com)** | **[Spring 2026 Internship: Equipment & Operations Manager](https://jobright.ai/jobs/info/6927bd3df0beb0723262d931?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6927b9aa91ceeb2e8a5429d8?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Nov 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b69bf0beb0723262d691?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Nov 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b599f0beb0723262d5e2?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Nov 26 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b503f0beb0723262d579?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Nov 26 |
+| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6927b23ff0beb0723262d394?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Nov 26 |
+| **[Zebrosys](www.zebrosys.com)** | **[Creative + Operations Assistant Intern](https://jobright.ai/jobs/info/6927ae8691ceeb2e8a5423a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Cedar Park](https://jobright.ai/jobs/info/6927a97b91ceeb2e8a54216e?utm_campaign=1050&utm_source=git)** | Cedar Park | On Site | Nov 26 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Facilities Coordinator Intern/Student Worker](https://jobright.ai/jobs/info/6927a87ef0beb0723262ce21?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Nov 26 |
 | **[East River Electric Power Cooperative, Inc](https://www.eastriver.coop)** | **[Project Services Intern](https://jobright.ai/jobs/info/6927a4f391ceeb2e8a541ed9?utm_campaign=1050&utm_source=git)** | Madison,SD,US | On Site | Nov 26 |
@@ -64,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Service Analytics & Insight](https://jobright.ai/jobs/info/69279a7ff0beb0723262c7c6?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | ↳ | **[Summer 2026 Intern - Executive Services](https://jobright.ai/jobs/info/6927966791ceeb2e8a5416b9?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Retail Executive Coordinator Intern](https://jobright.ai/jobs/info/692795a0f0beb0723262c5b0?utm_campaign=1050&utm_source=git)** | Maryville, TN | On Site | Nov 26 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern l Queens/Brooklyn NY](https://jobright.ai/jobs/info/6927c549f0beb0723262de1e?utm_campaign=1050&utm_source=git)** | Queens- Astoria, Woodside, Middle Village | On Site | Nov 26 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Apprentice Administration Assistant](https://jobright.ai/jobs/info/69278f8391ceeb2e8a541268?utm_campaign=1050&utm_source=git)** | Carthage, MO | Hybrid | Nov 26 |
 | **[GLAAD](http://www.glaad.org/)** | **[Executive Admin Intern](https://jobright.ai/jobs/info/69278dc0d47de4798ecde6be?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Montante Solar](https://www.montantesolar.com)** | **[Construction Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69278125f0beb0723262b48c?utm_campaign=1050&utm_source=git)** | Tonawanda, NY | On Site | Nov 26 |
@@ -94,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[X-Bow Systems](https://www.xbowsystems.com)** | **[Inventory & Site Logistics Intern](https://jobright.ai/jobs/info/6923bd92c0cefa13343db320?utm_campaign=1050&utm_source=git)** | Luling, TX | On Site | Nov 26 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**Internal Only** Assistant Director](https://jobright.ai/jobs/info/69276818f0beb07232629e50?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
 | **[Montante Group](https://www.montante.com/)** | **[Construction Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/692769a6f0beb07232629fb5?utm_campaign=1050&utm_source=git)** | Tonawanda, New York, United States | On Site | Nov 26 |
-| **[Mechronix](mechronix.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/692763c091ceeb2e8a53eb45?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 26 |
 | **[Triple Crown Corporation](https://www.triplecrowncorp.com)** | **[Internship - Construction Management](https://jobright.ai/jobs/info/69273e83f0beb07232628825?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Nov 26 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Project Management](https://jobright.ai/jobs/info/68ee8a61d078b81ad160b715?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/68d400065ae5a90cfd4827c8?utm_campaign=1050&utm_source=git)** | Enfield, CT | On Site | Nov 26 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/68b77b44f4e41a61efd99455?utm_campaign=1050&utm_source=git)** | Brooklyn, CT | On Site | Nov 26 |
 | **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - Fall 2025](https://jobright.ai/jobs/info/6925d3dcd47de4798ecd1e52?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Commercial Real Estate Internship](https://jobright.ai/jobs/info/68d01c8ffb49c96ca6eae05f?utm_campaign=1050&utm_source=git)** | Virginia, United States | On Site | Nov 26 |
-| **[Humana](http://www.humana.com)** | **[Summer 2026 MBA Internship – Strategy and Operations](https://jobright.ai/jobs/info/68d30fe28c62e63bc7fdd69a?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
-| **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/690d7ab94a1b456627b21b35?utm_campaign=1050&utm_source=git)** | Highland Park, MI | On Site | Nov 26 |
-| **[Comstock Companies](http://comstockcompanies.com/)** | **[Residential Property Management Internship](https://jobright.ai/jobs/info/68c6facf7d0db4114273b691?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Nov 26 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Atlanta)](https://jobright.ai/jobs/info/69270a52d47de4798ecd9a0c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
-| **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Public Markets Operations](https://jobright.ai/jobs/info/692727fcd47de4798ecda5b3?utm_campaign=1050&utm_source=git)** | Toronto - 16 York St | Hybrid | Nov 26 |
-| **[ParallelDots](http://www.paralleldots.com/)** | **[Project Managment Associate- Intern](https://jobright.ai/jobs/info/6927068ad47de4798ecd994b?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
-| **[Kerecis](http://www.kerecis.com)** | **[Medical Affairs Operations and Events Intern](https://jobright.ai/jobs/info/68d32c7117554c2d9eeee662?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Nov 26 |
-| **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/690abd5d4a1b456627b0ac97?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | On Site | Nov 26 |
-| **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Production Supervisor](https://jobright.ai/jobs/info/690af76e4a1b456627b0ccbc?utm_campaign=1050&utm_source=git)** | Sterling, VA | On Site | Nov 26 |
-| **[ADL Ventures](http://adlventures.com/)** | **[Intern (Project Execution)](https://jobright.ai/jobs/info/6927018491ceeb2e8a53bfd1?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

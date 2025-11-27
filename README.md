@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Facilities Coordinator Intern/Student Worker](https://jobright.ai/jobs/info/6928b556f0beb072326311e1?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Nov 27 |
+| **[Lewis & Clark Capital](https://lewisandclarkcapital.com/)** | **[MBA Summer Associate](https://jobright.ai/jobs/info/6928b11ad47de4798ece37c7?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Supply Chain Procurement Intern](https://jobright.ai/jobs/info/68f0342378ba1621431e368b?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Nov 27 |
 | **[McNally Companies](https://www.mcnallycorp.com)** | **[Project Technician Intern - Summer 2026 - McNally](https://jobright.ai/jobs/info/691e7a7109cc522e8773a213?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 27 |
 | **[Vosyn](https://vosyn.ai)** | **[Strategy & Business Development Intern — Master-Level Internship – Startup Programs](https://jobright.ai/jobs/info/6928a0a4d47de4798ece3538?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Independence](https://www.charlotteindependence.com)** | **[Spring 2026 Internship: Equipment & Operations Manager](https://jobright.ai/jobs/info/6927bd3df0beb0723262d931?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6927b9aa91ceeb2e8a5429d8?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Nov 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b69bf0beb0723262d691?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Nov 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b599f0beb0723262d5e2?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Nov 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b503f0beb0723262d579?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

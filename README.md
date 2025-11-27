@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wagner Spraytech Scandinavia A/S](https://www.wagner-group.com/en/industry/)** | **[Senior Operations Analyst](https://jobright.ai/jobs/info/6927ff62f0beb0723262f0cd?utm_campaign=1050&utm_source=git)** | Plymouth, MN | Hybrid | Nov 26 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Management Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/6927eca0f0beb0723262ed6c?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Nov 26 |
 | **[NeuraVia, Inc.](https://www.linkedin.com/company/108974958)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6927d9fcd47de4798ece1027?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Remote | Nov 26 |
 | **[PayrAdvisors](https://payradvisors.com)** | **[Healthcare Management Intern](https://jobright.ai/jobs/info/6927d820d47de4798ece0f11?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
 | **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (4 Months)](https://jobright.ai/jobs/info/6927cbfbf0beb0723262e148?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 26 |
@@ -109,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/69275102d47de4798ecdb58a?utm_campaign=1050&utm_source=git)** | Camp Hill, PA | On Site | Nov 26 |
 | **[X-Bow Systems](https://www.xbowsystems.com)** | **[Inventory & Site Logistics Intern](https://jobright.ai/jobs/info/6923bd92c0cefa13343db320?utm_campaign=1050&utm_source=git)** | Luling, TX | On Site | Nov 26 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[**Internal Only** Assistant Director](https://jobright.ai/jobs/info/69276818f0beb07232629e50?utm_campaign=1050&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
+| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Internal Logistics Intern/Co-op](https://jobright.ai/jobs/info/68d6dc03d3fe025a3015c6cf?utm_campaign=1050&utm_source=git)** | Farmington, CT | On Site | Nov 26 |
 | **[Montante Group](https://www.montante.com/)** | **[Construction Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/692769a6f0beb07232629fb5?utm_campaign=1050&utm_source=git)** | Tonawanda, New York, United States | On Site | Nov 26 |
 | **[Triple Crown Corporation](https://www.triplecrowncorp.com)** | **[Internship - Construction Management](https://jobright.ai/jobs/info/69273e83f0beb07232628825?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Nov 26 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Project Management](https://jobright.ai/jobs/info/68ee8a61d078b81ad160b715?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Nov 26 |
@@ -140,8 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Amgen](http://www.amgen.com)** | **[Medical Affairs Intern - PHMI Graduate Diploma - Queens](https://jobright.ai/jobs/info/69272253d47de4798ecda388?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Nov 26 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b726292124650c1401fb1c?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Nov 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/68cb3f769e3a822f5d2442cc?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Nov 26 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Internal Logistics Intern/Co-op](https://jobright.ai/jobs/info/68edef2081fdd1626d3a0b8f?utm_campaign=1050&utm_source=git)** | Farmington, CT | On Site | Nov 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/68b7cccc0514b74d7c3ea82a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Nov 26 |
+| ↳ | **[Management Trainee Spring 2026 Internship](https://jobright.ai/jobs/info/68b7cccc0514b74d7c3ea82a?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Nov 26 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Retail Operations Intern - Louisville, KY](https://jobright.ai/jobs/info/68d1f9f8a54edb3bf3e18360?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Nov 26 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Public Markets Operations](https://jobright.ai/jobs/info/69271f29d47de4798ecda185?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/68ed2ff870b66e2345d3b645?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Humana](http://www.humana.com)** | **[Summer 2026 MBA Internship – CenterWell](https://jobright.ai/jobs/info/68d2f7a017554c2d9eeec4db?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Sourcing Internship](https://jobright.ai/jobs/info/6905bb6c122e8474c78db597?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Nov 26 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Supply Chain](https://jobright.ai/jobs/info/691fc88709cc522e87745525?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 26 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/69199cc545fb6f5ead8a9efa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Distribution Supply Chain Intern (Onsite)](https://jobright.ai/jobs/info/690a689dd046ab6061cdc0b6?utm_campaign=1050&utm_source=git)** | Greater Cleveland | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

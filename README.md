@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Supply Chain Procurement Intern](https://jobright.ai/jobs/info/68f0342378ba1621431e368b?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Nov 27 |
+| **[McNally Companies](https://www.mcnallycorp.com)** | **[Project Technician Intern - Summer 2026 - McNally](https://jobright.ai/jobs/info/691e7a7109cc522e8773a213?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 27 |
+| **[Vosyn](https://vosyn.ai)** | **[Strategy & Business Development Intern — Master-Level Internship – Startup Programs](https://jobright.ai/jobs/info/6928a0a4d47de4798ece3538?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Nov 27 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Project Intern, Global Purchasing COE](https://jobright.ai/jobs/info/691aa2ad15b41563671897dd?utm_campaign=1050&utm_source=git)** | New Holland, PA | Hybrid | Nov 27 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/691005f4988c2b7b4ec4fa43?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Nov 27 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Development](https://jobright.ai/jobs/info/690c5bcd221b890c277fd151?utm_campaign=1050&utm_source=git)** | East Rutherford, NJ | On Site | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd78de50091dbfa50b86?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring Management Trainee Intern](https://jobright.ai/jobs/info/690baed2d046ab6061ce66ec?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | On Site | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd83578ba1621431e0c6e?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Nov 27 |
-| **[GenPark](https://genpark.ai)** | **[Project Assistant](https://jobright.ai/jobs/info/692889cdd47de4798ece31e2?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 27 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68cce0105954791a1d7003d2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 27 |
 | **[McCain Foods](http://www.mccain.com)** | **[PMT Production Management Internship - Summer 2026](https://jobright.ai/jobs/info/691ec92da49a885af9a2ac00?utm_campaign=1050&utm_source=git)** | Boise, ID | Hybrid | Nov 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/69288490f0beb07232630a2f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 27 |
@@ -105,8 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690c0ea2221b890c277fb045?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Nov 27 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Nov 27 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Distillery](https://jobright.ai/jobs/info/691fea4ba49a885af9a35504?utm_campaign=1050&utm_source=git)** | Frankfort, KY | On Site | Nov 27 |
-| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/69221076d1ec2c3565c469dd?utm_campaign=1050&utm_source=git)** | Menomonee Falls, WI | On Site | Nov 27 |
-| ↳ | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/692851b491ceeb2e8a54516c?utm_campaign=1050&utm_source=git)** | Mooresville, NC | On Site | Nov 27 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/692851b491ceeb2e8a54516c?utm_campaign=1050&utm_source=git)** | Mooresville, NC | On Site | Nov 27 |
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/68d4265f8c62e63bc7fe62ef?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Nov 27 |
 | **[DESRI](https://desri.com/)** | **[Generalist Intern (Summer 2026)](https://jobright.ai/jobs/info/68b89b3cea901c0d269f8015?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Technical Program Management Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68f032ee78ba1621431e3515?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b69bf0beb0723262d691?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Nov 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b599f0beb0723262d5e2?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Nov 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6927b503f0beb0723262d579?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Nov 26 |
-| **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6927b23ff0beb0723262d394?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Nov 26 |
-| **[fairlife, LLC](http://www.fairlife.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6927cf2a91ceeb2e8a5434e2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

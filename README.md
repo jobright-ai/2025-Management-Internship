@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Procurement](https://jobright.ai/jobs/info/69280f9191ceeb2e8a544564?utm_campaign=1050&utm_source=git)** | South San Francisco | On Site | Nov 27 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Global Procurement](https://jobright.ai/jobs/info/69280b3ef0beb0723262f37c?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 27 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6928096f91ceeb2e8a5443cf?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Nov 27 |
 | **[Wagner Spraytech Scandinavia A/S](https://www.wagner-group.com/en/industry/)** | **[Senior Operations Analyst](https://jobright.ai/jobs/info/6927ff62f0beb0723262f0cd?utm_campaign=1050&utm_source=git)** | Plymouth, MN | Hybrid | Nov 26 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Management Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/6927eca0f0beb0723262ed6c?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Nov 26 |
 | **[NeuraVia, Inc.](https://www.linkedin.com/company/108974958)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6927d9fcd47de4798ece1027?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Remote | Nov 26 |
 | **[PayrAdvisors](https://payradvisors.com)** | **[Healthcare Management Intern](https://jobright.ai/jobs/info/6927d820d47de4798ece0f11?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
-| **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (4 Months)](https://jobright.ai/jobs/info/6927cbfbf0beb0723262e148?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 26 |
+| **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (4 Months)](https://jobright.ai/jobs/info/6927cecc91ceeb2e8a5434b8?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 26 |
 | ↳ | **[Project Administrator, Student (16 Months)](https://jobright.ai/jobs/info/6927c90bf0beb0723262df2a?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 26 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Client Operations and Policy Admin](https://jobright.ai/jobs/info/6927c3f691ceeb2e8a542e89?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Nov 26 |
 | **[LA Clippers](http://www.clippers.com)** | **[2026 Business Operations Intern](https://jobright.ai/jobs/info/6927c3c291ceeb2e8a542e78?utm_campaign=1050&utm_source=git)** | Inglewood, CA | Hybrid | Nov 26 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6927cf2a91ceeb2e8a5434e2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Nov 26 |
 | **[Zebrosys](www.zebrosys.com)** | **[Creative + Operations Assistant Intern](https://jobright.ai/jobs/info/6927ae8691ceeb2e8a5423a2?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Cedar Park](https://jobright.ai/jobs/info/6927a97b91ceeb2e8a54216e?utm_campaign=1050&utm_source=git)** | Cedar Park | On Site | Nov 26 |
-| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Facilities Coordinator Intern/Student Worker](https://jobright.ai/jobs/info/6927a87ef0beb0723262ce21?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Nov 26 |
 | **[East River Electric Power Cooperative, Inc](https://www.eastriver.coop)** | **[Project Services Intern](https://jobright.ai/jobs/info/6927a4f391ceeb2e8a541ed9?utm_campaign=1050&utm_source=git)** | Madison,SD,US | On Site | Nov 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Service Analytics & Insight](https://jobright.ai/jobs/info/69279a7ff0beb0723262c7c6?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
 | ↳ | **[Summer 2026 Intern - Executive Services](https://jobright.ai/jobs/info/6927966791ceeb2e8a5416b9?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/690da294d046ab6061cf7c06?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - IT Program Management: Objective & Key Results Framework & Delivery Excellence](https://jobright.ai/jobs/info/69271b04f0beb07232627984?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 26 |
 | **[Humana](http://www.humana.com)** | **[Summer 2026 MBA Internship – CenterWell](https://jobright.ai/jobs/info/68d2f7a017554c2d9eeec4db?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Sourcing Internship](https://jobright.ai/jobs/info/6905bb6c122e8474c78db597?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Nov 26 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Supply Chain](https://jobright.ai/jobs/info/691fc88709cc522e87745525?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

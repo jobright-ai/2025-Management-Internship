@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Cedar Park](https://jobright.ai/jobs/info/6927a97b91ceeb2e8a54216e?utm_campaign=1050&utm_source=git)** | Cedar Park | On Site | Nov 26 |
+| **[Gardner-Webb University](http://gardner-webb.edu)** | **[Facilities Coordinator Intern/Student Worker](https://jobright.ai/jobs/info/6927a87ef0beb0723262ce21?utm_campaign=1050&utm_source=git)** | Shelby, NC | On Site | Nov 26 |
+| **[East River Electric Power Cooperative, Inc](https://www.eastriver.coop)** | **[Project Services Intern](https://jobright.ai/jobs/info/6927a4f391ceeb2e8a541ed9?utm_campaign=1050&utm_source=git)** | Madison,SD,US | On Site | Nov 26 |
+| **[LA Clippers](http://www.clippers.com)** | **[2026 Business Operations Intern](https://jobright.ai/jobs/info/69279d85d47de4798ecdf091?utm_campaign=1050&utm_source=git)** | Inglewood, CA | Hybrid | Nov 26 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Service Analytics & Insight](https://jobright.ai/jobs/info/69279a7ff0beb0723262c7c6?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
+| ↳ | **[Summer 2026 Intern - Executive Services](https://jobright.ai/jobs/info/6927966791ceeb2e8a5416b9?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Nov 26 |
+| **[Clayton](http://www.claytonhomes.com/)** | **[Retail Executive Coordinator Intern](https://jobright.ai/jobs/info/692795a0f0beb0723262c5b0?utm_campaign=1050&utm_source=git)** | Maryville, TN | On Site | Nov 26 |
 | **[Freeman Hospital](https://www.newcastle-hospitals.nhs.uk/consultants/dr-abbas-khushnood/)** | **[Apprentice Administration Assistant](https://jobright.ai/jobs/info/69278f8391ceeb2e8a541268?utm_campaign=1050&utm_source=git)** | Carthage, MO | Hybrid | Nov 26 |
 | **[GLAAD](http://www.glaad.org/)** | **[Executive Admin Intern](https://jobright.ai/jobs/info/69278dc0d47de4798ecde6be?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Montante Solar](https://www.montantesolar.com)** | **[Construction Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69278125f0beb0723262b48c?utm_campaign=1050&utm_source=git)** | Tonawanda, NY | On Site | Nov 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/690abd5d4a1b456627b0ac97?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | On Site | Nov 26 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Production Supervisor](https://jobright.ai/jobs/info/690af76e4a1b456627b0ccbc?utm_campaign=1050&utm_source=git)** | Sterling, VA | On Site | Nov 26 |
 | **[ADL Ventures](http://adlventures.com/)** | **[Intern (Project Execution)](https://jobright.ai/jobs/info/6927018491ceeb2e8a53bfd1?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Nov 26 |
-| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Supply Chain](https://jobright.ai/jobs/info/68d1ff3a8c62e63bc7fd214f?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Nov 26 |
-| **[Legends Global](http://legends.net)** | **[Operations Intern](https://jobright.ai/jobs/info/68fa5f45edd190144238b8ed?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Nov 26 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[FP&A Intern](https://jobright.ai/jobs/info/690a8440d046ab6061cddb35?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[Uber](http://www.uber.com)** | **[2026 Mobility Strategic Operations Intern, US](https://jobright.ai/jobs/info/6926fbc491ceeb2e8a53bdb0?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
-| ↳ | **[2026 Mobility Strategic Operations Intern, US](https://jobright.ai/jobs/info/6926f939f0beb07232626de5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[CAPTRUST](https://www.captrust.com)** | **[2026 Raleigh Summer Internship](https://jobright.ai/jobs/info/690ccc2c221b890c278001c2?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 26 |
-| **[Gilbert Mechanical Contractors, LLC](http://gilbertmech.com)** | **[Project Manager Intern - Gilbert](https://jobright.ai/jobs/info/691ff21409cc522e87746e90?utm_campaign=1050&utm_source=git)** | Edina, MN | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

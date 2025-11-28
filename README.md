@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/692960d14c474121999c9477?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Nov 28 |
+| **[California State University, Long Beach](http://www.csulb.edu/)** | **[Office Coordinator (Administrative Support Coordinator I) INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/69295be1fa28370be26942f2?utm_campaign=1050&utm_source=git)** | Chico, CA | On Site | Nov 28 |
 | **[TE Connectivity](http://www.te.com)** | **[Operations Strategy Intern](https://jobright.ai/jobs/info/69291d0991ceeb2e8a546ff3?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Hybrid | Nov 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291cd691ceeb2e8a546fe5?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 27 |
 | **[TE Connectivity](http://www.te.com)** | **[PROJECT MANAGER INTERN](https://jobright.ai/jobs/info/69291bedf0beb07232631e6b?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Procurement](https://jobright.ai/jobs/info/69280f9191ceeb2e8a544564?utm_campaign=1050&utm_source=git)** | South San Francisco | On Site | Nov 27 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Global Procurement](https://jobright.ai/jobs/info/69280b3ef0beb0723262f37c?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Nov 27 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6928096f91ceeb2e8a5443cf?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Nov 27 |
-| **[Wagner Spraytech Scandinavia A/S](https://www.wagner-group.com/en/industry/)** | **[Senior Operations Analyst](https://jobright.ai/jobs/info/6927ff62f0beb0723262f0cd?utm_campaign=1050&utm_source=git)** | Plymouth, MN | Hybrid | Nov 26 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Management Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/6927eca0f0beb0723262ed6c?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

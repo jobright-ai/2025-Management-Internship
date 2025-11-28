@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TE Connectivity](http://www.te.com)** | **[Operations Strategy Intern](https://jobright.ai/jobs/info/69291d0991ceeb2e8a546ff3?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Hybrid | Nov 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291cd691ceeb2e8a546fe5?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Nov 27 |
+| **[TE Connectivity](http://www.te.com)** | **[PROJECT MANAGER INTERN](https://jobright.ai/jobs/info/69291bedf0beb07232631e6b?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/6928f24591ceeb2e8a5469ec?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Nov 27 |
 | ↳ | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/6928eec491ceeb2e8a546994?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Nov 27 |
 | **[Region of Peel](http://peelregion.ca)** | **[Co-op Student – Administrative Support Assistant](https://jobright.ai/jobs/info/69290e2bf0beb07232631c87?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | Nov 27 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Digital Delivery Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68d42624ffc1276de3fd79fc?utm_campaign=1050&utm_source=git)** | Roanoke, VA | On Site | Nov 27 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Intern (Spring 2026)](https://jobright.ai/jobs/info/68cec3b4fb49c96ca6ea35b0?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
 | **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - Fall 2025](https://jobright.ai/jobs/info/6925d3f9d47de4798ecd1e65?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Nov 27 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/692927b9f0beb07232631f76?utm_campaign=1050&utm_source=git)** | Chesterfield, MI | On Site | Nov 27 |
 | **[Mountaire Farms](http://www.mountaire.com)** | **[Agri-Business (Operations) Intern](https://jobright.ai/jobs/info/690bc0dc221b890c277f7c09?utm_campaign=1050&utm_source=git)** | Millsboro, DE | On Site | Nov 27 |
 | **[Elanco](https://www.elanco.com)** | **[Operational Excellence Intern (Summer 2026)](https://jobright.ai/jobs/info/68f02433de50091dbfa52344?utm_campaign=1050&utm_source=git)** | Clinton, IN | On Site | Nov 27 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d353728c62e63bc7fdfcb5?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6928096f91ceeb2e8a5443cf?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Nov 27 |
 | **[Wagner Spraytech Scandinavia A/S](https://www.wagner-group.com/en/industry/)** | **[Senior Operations Analyst](https://jobright.ai/jobs/info/6927ff62f0beb0723262f0cd?utm_campaign=1050&utm_source=git)** | Plymouth, MN | Hybrid | Nov 26 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Management Intern D (Melbourne, FL)](https://jobright.ai/jobs/info/6927eca0f0beb0723262ed6c?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Nov 26 |
-| **[PayrAdvisors](https://payradvisors.com)** | **[Healthcare Management Intern](https://jobright.ai/jobs/info/6927d820d47de4798ece0f11?utm_campaign=1050&utm_source=git)** | United States | Remote | Nov 26 |
-| **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (4 Months)](https://jobright.ai/jobs/info/6927cecc91ceeb2e8a5434b8?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 26 |
-| ↳ | **[Project Administrator, Student (16 Months)](https://jobright.ai/jobs/info/6927c90bf0beb0723262df2a?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 26 |
-| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Client Operations and Policy Admin](https://jobright.ai/jobs/info/6927c3f691ceeb2e8a542e89?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b5e1366796e3028f90892?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 29 |
+| **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[IT – SCRUM Master](https://jobright.ai/jobs/info/692b5a7a66796e3028f90845?utm_campaign=1050&utm_source=git)** | Southlake, TX | On Site | Nov 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b4f6ffa28370be2698970?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 29 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/692b4e7ffa28370be2698929?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Nov 29 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/692b41e466796e3028f90599?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68bb39ba6105227d118a44a1?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Nov 29 |
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[Leadership Operations Support](https://jobright.ai/jobs/info/68b83e2c5b42bc4562823392?utm_campaign=1050&utm_source=git)** | Perry, OH | Hybrid | Nov 29 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (San Antonio, TX)](https://jobright.ai/jobs/info/69212deb00c9ee50eaecc80e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 29 |
-| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Project Management](https://jobright.ai/jobs/info/690e761a44146d3b6ec547fc?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Nov 29 |
-| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/690e37e3221b890c2780bced?utm_campaign=1050&utm_source=git)** | City of Industry, CA | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

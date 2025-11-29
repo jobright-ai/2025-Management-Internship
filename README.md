@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/692a787b4c474121999cc326?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, I&T Digital Workplace Management- EN](https://jobright.ai/jobs/info/692a785c4c474121999cc31f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/692a783f4c474121999cc317?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 28 |
+| ↳ | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/692a7774fa28370be269727f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/692a53c64c474121999cbf1b?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Nov 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692a53a94c474121999cbf10?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Nov 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692a53274c474121999cbeed?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | Nov 28 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/691d7a19bcdbf3560c9f1274?utm_campaign=1050&utm_source=git)** | Lutz, FL | On Site | Nov 28 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/6929e9b066796e3028f8d98b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Nov 28 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Strategic Planning Intern (Spring 2026)](https://jobright.ai/jobs/info/690e319f221b890c2780ba51?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 28 |
+| **[UPMC](https://www.upmc.com/)** | **[Supply Chain internship – Pittsburgh](https://jobright.ai/jobs/info/690d5ea9221b890c2780624f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 28 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/690e21b044146d3b6ec515dd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 28 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f14749f462172a5a7d5ab5?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Nov 28 |
@@ -96,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/6929d26efa28370be269549f?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f143f6f462172a5a7d5665?utm_campaign=1050&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 28 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d5cbbd046ab6061cf59a3?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Nov 28 |
-| **[UPMC](https://www.upmc.com/)** | **[Supply Chain internship – Pittsburgh](https://jobright.ai/jobs/info/690d6ebd221b890c27806ab4?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 28 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7a0d61ade4306aa64cbb1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - East Hartford/Glastonbury/Manchester/Colchester, CT](https://jobright.ai/jobs/info/68d401558c62e63bc7fe54cc?utm_campaign=1050&utm_source=git)** | East Hartford, CT | On Site | Nov 28 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d5df64a1b456627b20c2e?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Nov 28 |
@@ -135,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/68d430cd17554c2d9eef6a3d?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 28 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Nebraska](https://jobright.ai/jobs/info/690cfc83221b890c27801917?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Nov 28 |
 | **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfcd5128dc347fd91ced4?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Nov 28 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b72585f4e41a61efd95ed5?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Nov 28 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d4a252fcd3367e8df165cf?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 28 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b7284b2124650c1401fcb3?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Nov 28 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Texas](https://jobright.ai/jobs/info/690d122c221b890c27802c36?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Nov 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer 2026 Intern - VA/DC](https://jobright.ai/jobs/info/690082f2e04ac838fb5c276e?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Nov 28 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d45903ffc1276de3fd9f29?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Nov 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Georgia](https://jobright.ai/jobs/info/690d022ad046ab6061cf1738?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Nov 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Trainee Intern - Torrington, CT](https://jobright.ai/jobs/info/69299efd4c474121999c9e41?utm_campaign=1050&utm_source=git)** | Torrington | On Site | Nov 28 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Distribution Center](https://jobright.ai/jobs/info/68b774e7f4e41a61efd99194?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Nov 28 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Minnesota](https://jobright.ai/jobs/info/690cff9b221b890c27801b7b?utm_campaign=1050&utm_source=git)** | St Anthony, MN | On Site | Nov 28 |
-| **[Huntsman Corporation](https://www.huntsman.com)** | **[Supply Chain Excellence Intern](https://jobright.ai/jobs/info/690dd26944146d3b6ec500c6?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Nov 28 |
-| **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Mission Critical (June 2026)](https://jobright.ai/jobs/info/68f885d84bafad6d2d763761?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 28 |
-| **[DESRI](https://desri.com/)** | **[Generalist Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd829a1ad6b16f0289aa71?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -80,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/691d7a19bcdbf3560c9f1274?utm_campaign=1050&utm_source=git)** | Lutz, FL | On Site | Nov 28 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/6929e9b066796e3028f8d98b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Nov 28 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Strategic Planning Intern (Spring 2026)](https://jobright.ai/jobs/info/690e319f221b890c2780ba51?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Nov 28 |
-| **[UPMC](https://www.upmc.com/)** | **[Supply Chain internship – Pittsburgh](https://jobright.ai/jobs/info/690d5ea9221b890c2780624f?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 28 |
+| **[UPMC](https://www.upmc.com/)** | **[Supply Chain internship – Pittsburgh](https://jobright.ai/jobs/info/690d69854a1b456627b21155?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 28 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/690e21b044146d3b6ec515dd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 28 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f14749f462172a5a7d5ab5?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Nov 28 |

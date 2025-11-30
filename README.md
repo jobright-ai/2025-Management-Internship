@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ferrovias](ferrovias.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/692ca86b4c474121999d05f8?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 30 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Project Management Intern](https://jobright.ai/jobs/info/692ca5584c474121999d05a3?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Nov 30 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/692c8dc8fa28370be269b361?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | Remote | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Strategic Planning Intern](https://jobright.ai/jobs/info/692125dda49a885af9a435e9?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68f9be227b89366816033f63?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 29 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT M&A Integration Analyst - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68f15af6f462172a5a7d705c?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b5eef766b3f0fd094d5?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f2fdfe76a51a4307bc9c4c?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Nov 29 |
-| **[StandardAero](http://www.standardaero.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68f2d17d9a63986de756c846?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

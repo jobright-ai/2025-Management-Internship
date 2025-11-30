@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/692c8dc8fa28370be269b361?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | Remote | Nov 30 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Strategic Planning Intern](https://jobright.ai/jobs/info/692125dda49a885af9a435e9?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/68bbc72f6105227d118a9b74?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Nov 30 |
 | **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[St. James Hotel - Banquet Intern](https://jobright.ai/jobs/info/692c718b4c474121999d0156?utm_campaign=1050&utm_source=git)** | Red Wing, MN | On Site | Nov 30 |
@@ -67,8 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb797b8043103d4f228dac?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/691d59ec7481340785ed6cda?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, Charlotte, NC - USA 2026](https://jobright.ai/jobs/info/68d713ce894705799a2f07b6?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 30 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Project Management, Lead Support Intern](https://jobright.ai/jobs/info/690f6a52bc852e6dc187d498?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Nov 30 |
-| **[Citi](https://www.citi.com)** | **[U.S. Personal Banking Summer Leadership Associate, New York, NY - USA 2026](https://jobright.ai/jobs/info/68d70ac8d3fe025a3015e635?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 30 |
+| ↳ | **[U.S. Personal Banking Summer Leadership Associate, New York, NY - USA 2026](https://jobright.ai/jobs/info/68d70ac8d3fe025a3015e635?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68fdd7d80ab3b222462a5035?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | ↳ | **[Global Logistics Intern](https://jobright.ai/jobs/info/68f865666de2db04dc3dea16?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | ↳ | **[Organizational Change Management Intern](https://jobright.ai/jobs/info/68bb7dfa6105227d118a653d?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b5eef766b3f0fd094d5?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f2fdfe76a51a4307bc9c4c?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Nov 29 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68f2d17d9a63986de756c846?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Wellington & Lake Worth](https://jobright.ai/jobs/info/68d5f6f21f7fb2169ab14f5d?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

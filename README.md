@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Nov 29 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/692bb22b4c474121999ce10f?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 29 |
-| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/692ba4f266796e3028f90d05?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Matriosh](Matriosh.com)** | **[CEO Office Intern](https://jobright.ai/jobs/info/692b92bffa28370be2698e1c?utm_campaign=1050&utm_source=git)** | Menlo Park, CA | On Site | Nov 29 |
 | **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | On Site | Nov 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b5e1366796e3028f90892?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 29 |

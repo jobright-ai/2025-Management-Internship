@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | On Site | Nov 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b5e1366796e3028f90892?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 29 |
 | **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[IT – SCRUM Master](https://jobright.ai/jobs/info/692b5a7a66796e3028f90845?utm_campaign=1050&utm_source=git)** | Southlake, TX | On Site | Nov 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b4f6ffa28370be2698970?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 29 |
@@ -103,8 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b5eef766b3f0fd094d5?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f2fdfe76a51a4307bc9c4c?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Nov 29 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68f2d17d9a63986de756c846?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ec797221b890c27811a23?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 29 |
-| ↳ | **[2026 Summer Internship Program: Global Procurement Intern](https://jobright.ai/jobs/info/690ec8a3d046ab6061d012bf?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Nov 29 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Procurement Intern](https://jobright.ai/jobs/info/690ec8a3d046ab6061d012bf?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Wellington & Lake Worth](https://jobright.ai/jobs/info/68d5f6f21f7fb2169ab14f5d?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/690ecc6fd046ab6061d014e7?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Nov 29 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6916abfd9c388539cbdfdadd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 29 |
@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/690e1444d046ab6061cfa62c?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Nov 29 |
 | **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Global Technology, Project Coordinator](https://jobright.ai/jobs/info/690e1470d046ab6061cfa63b?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Nov 29 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6916cd7c6f36db06ef059de9?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Nov 29 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ed4ab44146d3b6ec58226?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 29 |
 | **[National Life Group](https://www.nationallife.com)** | **[Project Management Office Intern – Summer 2026](https://jobright.ai/jobs/info/690e44a244146d3b6ec5263f?utm_campaign=1050&utm_source=git)** | Addison, TX | On Site | Nov 29 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Spring 2026](https://jobright.ai/jobs/info/691587f7286ccf0a1512ef3a?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Nov 29 |
 | **[Potelco Inc](http://www.potelco.net/)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/692053bc00c9ee50eaec18e4?utm_campaign=1050&utm_source=git)** | Hubbard, OR | On Site | Nov 29 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Philadelphia 2025-2026](https://jobright.ai/jobs/info/68fff042e0c73b3a111a0b5e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 29 |
 | ↳ | **[Summer 2026 Intern - MD](https://jobright.ai/jobs/info/68da053e3c03cd3270942321?utm_campaign=1050&utm_source=git)** | Halethorpe, MD | On Site | Nov 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/68cfeff2dbd9fb154edec074?utm_campaign=1050&utm_source=git)** | Yuma, CO | On Site | Nov 29 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Innovation & Design Intern - Summer 2026](https://jobright.ai/jobs/info/690eb51fd046ab6061d005ef?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship-Procurement](https://jobright.ai/jobs/info/690e2b7dd046ab6061cfaf20?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Nov 29 |
 | **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68bb39ba6105227d118a44a1?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Nov 29 |
-| **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[Leadership Operations Support](https://jobright.ai/jobs/info/68b83e2c5b42bc4562823392?utm_campaign=1050&utm_source=git)** | Perry, OH | Hybrid | Nov 29 |
-| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (San Antonio, TX)](https://jobright.ai/jobs/info/69212deb00c9ee50eaecc80e?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

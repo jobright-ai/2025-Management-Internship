@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/692bb22b4c474121999ce10f?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 29 |
+| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/692ba4f266796e3028f90d05?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Matriosh](Matriosh.com)** | **[CEO Office Intern](https://jobright.ai/jobs/info/692b92bffa28370be2698e1c?utm_campaign=1050&utm_source=git)** | Menlo Park, CA | On Site | Nov 29 |
 | **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | On Site | Nov 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b5e1366796e3028f90892?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 29 |
 | **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[IT – SCRUM Master](https://jobright.ai/jobs/info/692b5a7a66796e3028f90845?utm_campaign=1050&utm_source=git)** | Southlake, TX | On Site | Nov 29 |
+| **[Lambton College](https://www.lambtoncollege.ca/)** | **[Work Integrated Learning (WIL) Project Supervisor](https://jobright.ai/jobs/info/692bb2bafa28370be26990a9?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Nov 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b4f6ffa28370be2698970?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 29 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/692b4e7ffa28370be2698929?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Nov 29 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/692b41e466796e3028f90599?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Procurement and Vendor Management Business Unit Liaison Analyst)](https://jobright.ai/jobs/info/691ce132ff7024498416b4a1?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be7?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Philadelphia 2025-2026](https://jobright.ai/jobs/info/68fff042e0c73b3a111a0b5e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 29 |
 | ↳ | **[Summer 2026 Intern - MD](https://jobright.ai/jobs/info/68da053e3c03cd3270942321?utm_campaign=1050&utm_source=git)** | Halethorpe, MD | On Site | Nov 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/68cfeff2dbd9fb154edec074?utm_campaign=1050&utm_source=git)** | Yuma, CO | On Site | Nov 29 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Innovation & Design Intern - Summer 2026](https://jobright.ai/jobs/info/690eb51fd046ab6061d005ef?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
-| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship-Procurement](https://jobright.ai/jobs/info/690e2b7dd046ab6061cfaf20?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

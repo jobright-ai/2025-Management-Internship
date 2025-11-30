@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Marketing Project Manager)](https://jobright.ai/jobs/info/68bb798e5f3832749186f74e?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Strategic Planning Intern](https://jobright.ai/jobs/info/692125dda49a885af9a435e9?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/68bbc72f6105227d118a9b74?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Nov 30 |
+| **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[St. James Hotel - Banquet Intern](https://jobright.ai/jobs/info/692c718b4c474121999d0156?utm_campaign=1050&utm_source=git)** | Red Wing, MN | On Site | Nov 30 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/68c79a7adb52c07d2884cd74?utm_campaign=1050&utm_source=git)** | Abilene, TX | On Site | Nov 30 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb78ab5f3832749186f65c?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Marketing Project Manager)](https://jobright.ai/jobs/info/68bb798e5f3832749186f74e?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb798f8043103d4f228dbf?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb797b8043103d4f228dac?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Digital Payments - Operations Analyst)](https://jobright.ai/jobs/info/691d59ec7481340785ed6cda?utm_campaign=1050&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
@@ -121,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c400033bef502c86f53?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/690ec51c44146d3b6ec57a7e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 29 |
 | **[Shure Incorporated](http://www.shure.com)** | **[New Product Project Management Intern](https://jobright.ai/jobs/info/68bb81956105227d118a681f?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/692b2c5cfa28370be26985f8?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Nov 29 |
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/692b27b6fa28370be2698567?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Nov 29 |
 | **[Rhode Island Public Transit Authority](https://www.ripta.com/)** | **[Intern-Procurement](https://jobright.ai/jobs/info/692b27b166796e3028f9033e?utm_campaign=1050&utm_source=git)** | Providence, RI | On Site | Nov 29 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b9599c?utm_campaign=1050&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Nov 29 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b5eef766b3f0fd094d5?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f2fdfe76a51a4307bc9c4c?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Nov 29 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68f2d17d9a63986de756c846?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ec797221b890c27811a23?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Wellington & Lake Worth](https://jobright.ai/jobs/info/68d5f6f21f7fb2169ab14f5d?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Nov 29 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6916abfd9c388539cbdfdadd?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Nov 29 |
-| **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/690e2480221b890c2780b35d?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Nov 29 |
-| ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/690e1444d046ab6061cfa62c?utm_campaign=1050&utm_source=git)** | Lone Tree, CO | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

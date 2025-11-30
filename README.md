@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Superintendent Internship - Summer 2026 (San Antonio, TX)](https://jobright.ai/jobs/info/68cb9521ba798c1a501d2350?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Nov 29 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ec5f6f2d960c37f158cb3a?utm_campaign=1050&utm_source=git)** | Mansfield, TX | On Site | Nov 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Philadelphia 2025-2026](https://jobright.ai/jobs/info/68fff042e0c73b3a111a0b5e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 29 |
-| ↳ | **[Summer 2026 Intern - MD](https://jobright.ai/jobs/info/68da053e3c03cd3270942321?utm_campaign=1050&utm_source=git)** | Halethorpe, MD | On Site | Nov 29 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/68cfeff2dbd9fb154edec074?utm_campaign=1050&utm_source=git)** | Yuma, CO | On Site | Nov 29 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Innovation & Design Intern - Summer 2026](https://jobright.ai/jobs/info/690eb51fd046ab6061d005ef?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

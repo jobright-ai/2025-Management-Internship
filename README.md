@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/692d3f8a4c474121999d1333?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Nov 30 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692d39ed4c474121999d126f?utm_campaign=1050&utm_source=git)** | MN - Minneapolis, 801 Plymouth Ave N | On Site | Nov 30 |
+| **[City of Gahanna](http://www.gahanna.gov/)** | **[Aquatics Coordinator/Intern - Recreation Leader](https://jobright.ai/jobs/info/692d357466796e3028f93f67?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Operations Intern](https://jobright.ai/jobs/info/692d2ddbfa28370be269c17e?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/692d2b434c474121999d115e?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Nov 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast CX & Project Management Intern](https://jobright.ai/jobs/info/692d2ae04c474121999d1141?utm_campaign=1050&utm_source=git)** | CT - Berlin, 222 New Park Dr | On Site | Nov 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/69251310ec574f4265bbb4c9?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 29 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68ccd90677add66568aba643?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 | **[Everllence](www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Nov 29 |
-| **[International Justice Mission](http://www.ijm.org)** | **[South Asia Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690ec91a221b890c27811ac9?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99795f383274918709aa?utm_campaign=1050&utm_source=git)** | Raritan, NJ | Hybrid | Nov 29 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Management Assistant](https://jobright.ai/jobs/info/69170770bcdbf3560c9c43cc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

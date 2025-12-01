@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Everus](http://www.mducsg.com/)** | **[Winter Internship - Construction Project Management](https://jobright.ai/jobs/info/692cf11b4c474121999d0be8?utm_campaign=1050&utm_source=git)** | KANSAS CITY, KS 66115, USA | On Site | Nov 30 |
+| **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccfda8d11b445e0bee599f?utm_campaign=1050&utm_source=git)** | Collegeville, PA | On Site | Nov 30 |
+| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cceea077add66568abc175?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Nov 30 |
+| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccee0f77add66568abc033?utm_campaign=1050&utm_source=git)** | King of Prussia, PA | On Site | Nov 30 |
+| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6a128dc347fd91cfb0?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Nov 30 |
+| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfcd5128dc347fd91ced4?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Nov 30 |
+| ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6c7342c7623ae5d022?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Nov 30 |
+| **[Capital Electric Construction Co., Inc.](http://capitalelectric.com)** | **[Winter Internship - Construction Project Management](https://jobright.ai/jobs/info/692cea754c474121999d0b2c?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Nov 30 |
+| **[Tech World Networking](techworldnetworking.us)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/692cdb4266796e3028f9372b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Nov 30 |
 | **[Ferrovias](ferrovias.us)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/692ca86b4c474121999d05f8?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Nov 30 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Project Management Intern](https://jobright.ai/jobs/info/692ca5584c474121999d05a3?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Nov 30 |
 | **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/692c8dc8fa28370be269b361?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | Remote | Nov 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[South Asia Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690ec91a221b890c27811ac9?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99795f383274918709aa?utm_campaign=1050&utm_source=git)** | Raritan, NJ | Hybrid | Nov 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Management Assistant](https://jobright.ai/jobs/info/69170770bcdbf3560c9c43cc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 29 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68c9171da0c52d598ea3584c?utm_campaign=1050&utm_source=git)** | Spring House, PA | Hybrid | Nov 29 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68a7db07758f2e4ac3feedfc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68f2d3009a63986de756c91e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Operational Excellence Summer Intern](https://jobright.ai/jobs/info/690ec64244146d3b6ec57b54?utm_campaign=1050&utm_source=git)** | Thousand Oaks, CA | On Site | Nov 29 |
-| **[McCain Foods](http://www.mccain.com)** | **[PMT Production Management Internship - Summer 2026](https://jobright.ai/jobs/info/691e6a2ca49a885af9a284ab?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | Hybrid | Nov 29 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68f9be227b89366816033f63?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Nov 29 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT M&A Integration Analyst - 2026 Summer Internship (Chicago Hybrid)](https://jobright.ai/jobs/info/68f15af6f462172a5a7d705c?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Nov 29 |
-| **[Uline](http://www.uline.com)** | **[Logistics Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b5eef766b3f0fd094d5?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/68f2fdfe76a51a4307bc9c4c?utm_campaign=1050&utm_source=git)** | Edgerton, KS | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

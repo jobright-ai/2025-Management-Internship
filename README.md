@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northmere Solutions](https://www.linkedin.com/company/104898627)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/692d811cfa28370be269d1f9?utm_campaign=1050&utm_source=git)** | Ada, MI | Remote | Dec 01 |
+| **[INFRASOURCE SERVICES LLC](http://www.infrasourceinc.com/)** | **[Associate Project Manager Internship](https://jobright.ai/jobs/info/692027fd3f782d2f1afc3498?utm_campaign=1050&utm_source=git)** | Sumner, WA | On Site | Dec 01 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Strategic Solutions Services](https://jobright.ai/jobs/info/692d76e2fa28370be269d016?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Dec 01 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Development - Business Process](https://jobright.ai/jobs/info/6911c002183be660d267dc82?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/692d743d4c474121999d1f21?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/692d6a1566796e3028f94984?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 01 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/692d607afa28370be269ca34?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Network Project Manager, Construction Intern](https://jobright.ai/jobs/info/692d5c44fa28370be269c92e?utm_campaign=1050&utm_source=git)** | WA - Everett, 1525 75th St Sw | On Site | Dec 01 |
 | **[RYKER](www.rykergis.com)** | **[Leadership Development Program](https://jobright.ai/jobs/info/692d52c466796e3028f9449b?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Dec 01 |
 | **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/692d3f8a4c474121999d1333?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Nov 30 |
+| ↳ | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/692d6715fa28370be269cbe3?utm_campaign=1050&utm_source=git)** | Duluth, Minnesota | On Site | Nov 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692d39ed4c474121999d126f?utm_campaign=1050&utm_source=git)** | MN - Minneapolis, 801 Plymouth Ave N | On Site | Nov 30 |
 | **[City of Gahanna](http://www.gahanna.gov/)** | **[Aquatics Coordinator/Intern - Recreation Leader](https://jobright.ai/jobs/info/692d357466796e3028f93f67?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Operations Intern](https://jobright.ai/jobs/info/692d2ddbfa28370be269c17e?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Operations Intern (Winter, 2026)](https://jobright.ai/jobs/info/691dacc8748c4e1301ec7543?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Midland, TX and Odessa, TX](https://jobright.ai/jobs/info/68bbc0456105227d118a964c?utm_campaign=1050&utm_source=git)** | Midland, TX | On Site | Nov 29 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b9599b?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Nov 29 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lowell, MA](https://jobright.ai/jobs/info/68bae1665f3832749186a443?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Nov 29 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701bc?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Nov 29 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be9?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Nov 29 |
-| ↳ | **[Construction Concrete Project Manager Intern or Co-op (Summer 2026)](https://jobright.ai/jobs/info/68affee913563e782a9f2e22?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68e8c6274ae21e3abbeedde6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Nov 29 |
-| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Los Angeles, CA)](https://jobright.ai/jobs/info/690e4afcd046ab6061cfbfe5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Nov 29 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/69251310ec574f4265bbb4c9?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Operations Intern](https://jobright.ai/jobs/info/692d2ddbfa28370be269c17e?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Nov 30 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/692d2b434c474121999d115e?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Nov 30 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast CX & Project Management Intern](https://jobright.ai/jobs/info/692d2ae04c474121999d1141?utm_campaign=1050&utm_source=git)** | CT - Berlin, 222 New Park Dr | On Site | Nov 30 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Delivery/ COO Intern](https://jobright.ai/jobs/info/692d28eb66796e3028f93e93?utm_campaign=1050&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Everus](http://www.mducsg.com/)** | **[Winter Internship - Construction Project Management](https://jobright.ai/jobs/info/692cf11b4c474121999d0be8?utm_campaign=1050&utm_source=git)** | KANSAS CITY, KS 66115, USA | On Site | Nov 30 |
 | **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccfda8d11b445e0bee599f?utm_campaign=1050&utm_source=git)** | Collegeville, PA | On Site | Nov 30 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cceea077add66568abc175?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Nov 30 |
@@ -65,10 +69,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfcd5128dc347fd91ced4?utm_campaign=1050&utm_source=git)** | Zebulon, NC | On Site | Nov 30 |
 | ↳ | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68cbfd6c7342c7623ae5d022?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Nov 30 |
 | **[Capital Electric Construction Co., Inc.](http://capitalelectric.com)** | **[Winter Internship - Construction Project Management](https://jobright.ai/jobs/info/692cea754c474121999d0b2c?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Nov 30 |
-| **[Tech World Networking](techworldnetworking.us)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/692cdb4266796e3028f9372b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Nov 30 |
 | **[Lambton College](https://www.lambtoncollege.ca/)** | **[Work Integrated Learning (WIL) Project Supervisor](https://jobright.ai/jobs/info/692d01f066796e3028f93ad7?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Nov 30 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Project Management Intern](https://jobright.ai/jobs/info/692ca5584c474121999d05a3?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Nov 30 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/692c8dc8fa28370be269b361?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | Remote | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Strategic Planning Intern](https://jobright.ai/jobs/info/692125dda49a885af9a435e9?utm_campaign=1050&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/68bbc72f6105227d118a9b74?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Nov 30 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68fe0811e04ac838fb5b31ca?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Nov 30 |
 | ↳ | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d8050b7796a83635f0e5d7?utm_campaign=1050&utm_source=git)** | Burton, MI | On Site | Nov 30 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Austin, TX)](https://jobright.ai/jobs/info/68bb41a16105227d118a4981?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Nov 30 |
+| **[MacLean-Fogg](https://macleanfogg.com)** | **[Supply Chain Internship (Summer 2026)](https://jobright.ai/jobs/info/692d1df866796e3028f93dc3?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | On Site | Nov 30 |
 | **[Guthrie](http://www.guthrie.org)** | **[Intern-Administrative - Nursing Staff Development - Per Diem](https://jobright.ai/jobs/info/6863e8b0f2906c665c3883e4?utm_campaign=1050&utm_source=git)** | Binghamton, NY | On Site | Nov 30 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Mississauga, ON, Canada](https://jobright.ai/jobs/info/692c2be866796e3028f929ef?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 30 |
 | **[SPX Technologies](https://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/692c2bd666796e3028f929e9?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Nov 30 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of West Alabama](https://jobright.ai/jobs/info/692c054e4c474121999cf8fc?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Nov 30 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/692c01514c474121999cf890?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Nov 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Nov 29 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[Administrative Secretary, College of Liberal Arts Tahlequah](https://jobright.ai/jobs/info/692bb22b4c474121999ce10f?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Nov 29 |
 | **[Matriosh](Matriosh.com)** | **[CEO Office Intern](https://jobright.ai/jobs/info/692b92bffa28370be2698e1c?utm_campaign=1050&utm_source=git)** | Menlo Park, CA | On Site | Nov 29 |
 | **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | On Site | Nov 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Old Dominion University](https://jobright.ai/jobs/info/692b5e1366796e3028f90892?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[South Asia Operations Intern - Summer 2026](https://jobright.ai/jobs/info/690ec91a221b890c27811ac9?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99795f383274918709aa?utm_campaign=1050&utm_source=git)** | Raritan, NJ | Hybrid | Nov 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Management Assistant](https://jobright.ai/jobs/info/69170770bcdbf3560c9c43cc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 29 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68c9171da0c52d598ea3584c?utm_campaign=1050&utm_source=git)** | Spring House, PA | Hybrid | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

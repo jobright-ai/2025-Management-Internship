@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Network Project Manager, Construction Intern](https://jobright.ai/jobs/info/692d5c44fa28370be269c92e?utm_campaign=1050&utm_source=git)** | WA - Everett, 1525 75th St Sw | On Site | Dec 01 |
+| **[RYKER](www.rykergis.com)** | **[Leadership Development Program](https://jobright.ai/jobs/info/692d52c466796e3028f9449b?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Dec 01 |
 | **[Rachel Contracting](https://www.rachelcontracting.com)** | **[Internship Estimator/Project Manager](https://jobright.ai/jobs/info/692d3f8a4c474121999d1333?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Nov 30 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692d39ed4c474121999d126f?utm_campaign=1050&utm_source=git)** | MN - Minneapolis, 801 Plymouth Ave N | On Site | Nov 30 |
 | **[City of Gahanna](http://www.gahanna.gov/)** | **[Aquatics Coordinator/Intern - Recreation Leader](https://jobright.ai/jobs/info/692d357466796e3028f93f67?utm_campaign=1050&utm_source=git)** | Gahanna, OH | On Site | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Operations (Los Angeles, CA)](https://jobright.ai/jobs/info/690e4afcd046ab6061cfbfe5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Nov 29 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[2026 Summer Intern - Finance MBA Leadership Development Program](https://jobright.ai/jobs/info/68bb99948043103d4f229fdc?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Nov 29 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Process Excellence](https://jobright.ai/jobs/info/69251310ec574f4265bbb4c9?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 29 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68ccd90677add66568aba643?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
-| **[Everllence](www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

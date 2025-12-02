@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: HR Project Manager](https://jobright.ai/jobs/info/692ea5a44c474121999da585?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Dec 02 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - North Providence/Pawtucket/Woonsocket/Johnston, RI](https://jobright.ai/jobs/info/692ea68aef4b48533d140bd5?utm_campaign=1050&utm_source=git)** | North Providence/Pawtucket/Woonsocket/Johnston | On Site | Dec 01 |
 | **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (4 Months)](https://jobright.ai/jobs/info/6927cecc91ceeb2e8a5434b8?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 01 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Care Delivery Strategy Master's Intern](https://jobright.ai/jobs/info/692e7074ef4b48533d13fdfd?utm_campaign=1050&utm_source=git)** | California-Pleasanton-Pleasanton Tech Cntr Building A | Hybrid | Dec 01 |
 | **[The Miller Group](https://www.millergroup.ca)** | **[Project Administrator, Student (16 Months)](https://jobright.ai/jobs/info/6927c90bf0beb0723262df2a?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 01 |
@@ -86,13 +88,13 @@ For a complete list, click the following sortable link below:
 | **[The Social Hub](https://www.thesocialhub.co/)** | **[Office Manager Intern](https://jobright.ai/jobs/info/692e881aef4b48533d1405e7?utm_campaign=1050&utm_source=git)** | NL-Hub | On Site | Dec 01 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Innovation](https://jobright.ai/jobs/info/692e455efa28370be26a2f92?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Princeton, WV](https://jobright.ai/jobs/info/692e5ecefa28370be26a3ff2?utm_campaign=1050&utm_source=git)** | Princeton, WV | On Site | Dec 01 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/692e6520ef4b48533d13f811?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Dec 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e5c134c474121999d8c8b?utm_campaign=1050&utm_source=git)** | Jeffersonville, IN | On Site | Dec 01 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/692e5c134c474121999d8c8b?utm_campaign=1050&utm_source=git)** | Jeffersonville, IN | On Site | Dec 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e6520ef4b48533d13f811?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Dec 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e66714c474121999d91d2?utm_campaign=1050&utm_source=git)** | Goshen, IN | On Site | Dec 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e63dbfa28370be26a4255?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Dec 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e6cb34c474121999d969a?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Dec 01 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e5d03fa28370be26a3f17?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Dec 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e641aef4b48533d13f71a?utm_campaign=1050&utm_source=git)** | Evendale, OH | On Site | Dec 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e5d03fa28370be26a3f17?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Dec 01 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e6cb34c474121999d969a?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Dec 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e5d9ffa28370be26a3f52?utm_campaign=1050&utm_source=git)** | Rolla, MO | On Site | Dec 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e686cfa28370be26a453e?utm_campaign=1050&utm_source=git)** | Yorkville, IL | On Site | Dec 01 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/692e5bb0fa28370be26a3e33?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Dec 01 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Hospital Operations Internship](https://jobright.ai/jobs/info/692df37afa28370be269fb6e?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/692e400e4c474121999d7ac9?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/692e3864ef4b48533d13dbbb?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 01 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/692e19fcef4b48533d13c89a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 01 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/692e1b64ef4b48533d13c98a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 01 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/692e19fcef4b48533d13c89a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 01 |
 | **[Yanfeng](http://www.yfai.com/)** | **[Summer 2026 Internship - Manufacturing Operations](https://jobright.ai/jobs/info/692dee374c474121999d46e8?utm_campaign=1050&utm_source=git)** | Romulus, MI, United States | On Site | Dec 01 |
 | **[Tri-City ValleyCats](http://www.tcvalleycats.com)** | **[Kitchen Manager Intern](https://jobright.ai/jobs/info/692e48e04c474121999d807a?utm_campaign=1050&utm_source=git)** | Troy, NY | On Site | Dec 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Intern - Princeton, WV](https://jobright.ai/jobs/info/692decfefa28370be269f69a?utm_campaign=1050&utm_source=git)** | Princeton | On Site | Dec 01 |
@@ -151,8 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Retail Management Intern](https://jobright.ai/jobs/info/692de79666796e3028f9718c?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Dec 01 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/691d60570b7dff734150306e?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Dec 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Strategy Intern, New York City, Summer 2026](https://jobright.ai/jobs/info/692e2c14ef4b48533d13d3c1?utm_campaign=1050&utm_source=git)** | New York, NY, USA | Hybrid | Dec 01 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/692de6eb66796e3028f9714a?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Dec 01 |
-| ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/692de58ffa28370be269f3b2?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 01 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2026 Summer Intern - Commercial Operations Planning](https://jobright.ai/jobs/info/692e3db64c474121999d7920?utm_campaign=1050&utm_source=git)** | Tampa, FL, USA | Hybrid | Dec 01 |
 | **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/692de084fa28370be269f145?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Dec 01 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Enterprise Strategy and Corporate Development Intern](https://jobright.ai/jobs/info/692de027fa28370be269f117?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 01 |

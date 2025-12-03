@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TEHORA inc.](https://www.tehora.ca)** | **[Analyste programmeur gÃ©omatique internÃ© (F2B)](https://jobright.ai/jobs/info/692fe6abfa28370be26ae17e?utm_campaign=1050&utm_source=git)** | MontrÃ©al, Quebec, Canada | On Site | Dec 02 |
+| ↳ | **[Analyste programmeur gÃ©omatique internÃ© (F2A)](https://jobright.ai/jobs/info/692fe5f5ef4b48533d14979d?utm_campaign=1050&utm_source=git)** | Quebec City, Quebec, Canada | Hybrid | Dec 02 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Solution Partner Program Specialist (Full time Jan - May 2026)](https://jobright.ai/jobs/info/692fce9eef4b48533d1490bc?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | Dec 02 |
 | **[Capital Factory](http://www.capitalfactory.com)** | **[Chief of Staff & Apprentice to the CEO](https://jobright.ai/jobs/info/692fb44aef4b48533d1484a5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 02 |
+| **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Organizational Change Management Intern & IT Program Management Summer 2026](https://jobright.ai/jobs/info/692fe12dfa28370be26ae018?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Dec 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/692fb1a0fa28370be26acd98?utm_campaign=1050&utm_source=git)** | Zachary, LA | On Site | Dec 02 |
+| **[ByteDance](http://bytedance.com)** | **[Insurance Operations Project Intern - Global Payment - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692fd5764c474121999e2ba5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 02 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/692fac63fa28370be26acaa9?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Dec 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/692fab6aef4b48533d148046?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 02 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Supply Chain Sourcing Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/692feb4f4c474121999e328e?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Dec 02 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Real Estate and Asset Management Intern](https://jobright.ai/jobs/info/692fcbd9fa28370be26ad86e?utm_campaign=1050&utm_source=git)** | Honolulu | On Site | Dec 02 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/692fa6dc4c474121999e17bf?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/692fa4a2ef4b48533d147afe?utm_campaign=1050&utm_source=git)** | Hammond, LA | On Site | Dec 02 |
@@ -73,8 +78,7 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Intern - Assoc Technical Program Manager](https://jobright.ai/jobs/info/692fa11def4b48533d1478fa?utm_campaign=1050&utm_source=git)** | 101 Green Street Floor 5, San Francisco, CALIFORNIA, United States | On Site | Dec 02 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Strategic Planning Department](https://jobright.ai/jobs/info/692f9fc7fa28370be26ac364?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/692f9f264c474121999e11a0?utm_campaign=1050&utm_source=git)** | Richfield, MN | On Site | Dec 02 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Care Delivery Strategy Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/692f9f13fa28370be26ac2d1?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Dec 02 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/692f9daafa28370be26ac1b2?utm_campaign=1050&utm_source=git)** | Avon, IN | On Site | Dec 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/692f9daafa28370be26ac1b2?utm_campaign=1050&utm_source=git)** | Avon, IN | On Site | Dec 02 |
 | **[Hyatt Regency](http://www.regency.hyatt.com/)** | **[Hotel Operations Internship - Adventures Intern](https://jobright.ai/jobs/info/692f99bafa28370be26abe95?utm_campaign=1050&utm_source=git)** | Incline Village, NV | On Site | Dec 02 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Waldo Hospital Nursing Administration](https://jobright.ai/jobs/info/692f99b0ef4b48533d1473c7?utm_campaign=1050&utm_source=git)** | Belfast, ME | On Site | Dec 02 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Operations Internship](https://jobright.ai/jobs/info/692f96c54c474121999e0c06?utm_campaign=1050&utm_source=git)** | Irving, TX | Hybrid | Dec 02 |
@@ -101,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern - Logistics, Year-Round](https://jobright.ai/jobs/info/692fa96a4c474121999e1993?utm_campaign=1050&utm_source=git)** | 1794 MacMillan Park Dr, Fort Mill, SC 29707, USA | On Site | Dec 02 |
 | **[Rosendin](https://www.rosendin.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/692fbe8cef4b48533d148975?utm_campaign=1050&utm_source=git)** | Gallatin, TN | Hybrid | Dec 02 |
 | **[Cooper Green Mercy Health Services Authority](https://coopergreen.org/)** | **[Administrative Intern_Graduate Level](https://jobright.ai/jobs/info/692f8a28fa28370be26ab4ba?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Dec 02 |
-| **[The GIANT Company](https://giantfoodstores.com)** | **[Supply Chain Intern - Carlisle](https://jobright.ai/jobs/info/692fa5404c474121999e1657?utm_campaign=1050&utm_source=git)** | Carlisle, PA | On Site | Dec 02 |
 | **[City of Phoenix](https://www.phoenix.gov/)** | **[Administrative Intern - Aviation Department (Temporary)](https://jobright.ai/jobs/info/692fab1fef4b48533d148003?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 02 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Retail Project Intern](https://jobright.ai/jobs/info/692fac2cfa28370be26aca73?utm_campaign=1050&utm_source=git)** | St James, NY | On Site | Dec 02 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - MaineHealth Medical Group Operations - Systems](https://jobright.ai/jobs/info/692fa5b34c474121999e16a6?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Dec 02 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Warehousing - Summer 2026](https://jobright.ai/jobs/info/69249326ec574f4265bb4984?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Dec 02 |
 | **[RoboKind](http://www.robokind.com/)** | **[Office Operations Intern (1099, Entry Level)](https://jobright.ai/jobs/info/692f9a53fa28370be26abeea?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 02 |
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Product Modification - Summer 2026](https://jobright.ai/jobs/info/6924b5e0ec574f4265bb610f?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Dec 02 |
-| **[CommScope](http://www.commscope.com)** | **[Intern-Project Management](https://jobright.ai/jobs/info/692f7c02ef4b48533d145ebd?utm_campaign=1050&utm_source=git)** | Shakopee, MN | On Site | Dec 02 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/692f7bdcfa28370be26aab34?utm_campaign=1050&utm_source=git)** | 1301 W Omaha Avenue, Norfolk, NE, 68701, US | On Site | Dec 02 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/692f7b5b4c474121999df87b?utm_campaign=1050&utm_source=git)** | Maryville, TN | On Site | Dec 02 |
 | **[Formlabs](http://www.formlabs.com)** | **[Program Management - Global Sourcing Intern (Summer 2026)](https://jobright.ai/jobs/info/692faaa64c474121999e1a8f?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Dec 02 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/692f75d8ef4b48533d145a2a?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN, 37128, United States | On Site | Dec 02 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[MBA Intern - Corporate Affairs](https://jobright.ai/jobs/info/692f7aca4c474121999df7f8?utm_campaign=1050&utm_source=git)** | US - Wilmington - DE | On Site | Dec 02 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Operations Facilitator](https://jobright.ai/jobs/info/692f87b0ef4b48533d146822?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 02 |
-| **[Centene Corporation](http://www.centene.com)** | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f77244c474121999df678?utm_campaign=1050&utm_source=git)** | Arizona, United States | Remote | Dec 02 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f76c0fa28370be26aa70a?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Dec 02 |
-| ↳ | **[Project Management Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/692f7590ef4b48533d1459ed?utm_campaign=1050&utm_source=git)** | Nashville Metro | Remote | Dec 02 |
 | **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[2026 Supply Chain/Operations Internship (PA)](https://jobright.ai/jobs/info/692f5f6a4c474121999de45d?utm_campaign=1050&utm_source=git)** | Breinigsville, PA | On Site | Dec 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/692f6c4f4c474121999decd8?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Dec 02 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/692f67adfa28370be26a9be6?utm_campaign=1050&utm_source=git)** | Haltom City, TX | On Site | Dec 02 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/692f5f61fa28370be26a9542?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

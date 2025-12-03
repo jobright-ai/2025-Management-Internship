@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plaud](https://www.plaud.ai/)** | **[Strategy Intern](https://jobright.ai/jobs/info/6930069cef4b48533d14a111?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Dec 03 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Business Implementation](https://jobright.ai/jobs/info/692ff1464c474121999e3510?utm_campaign=1050&utm_source=git)** | North Carolina, United States | Remote | Dec 03 |
 | **[TEHORA inc.](https://www.tehora.ca)** | **[Analyste programmeur gÃ©omatique internÃ© (F2B)](https://jobright.ai/jobs/info/692fe6abfa28370be26ae17e?utm_campaign=1050&utm_source=git)** | MontrÃ©al, Quebec, Canada | On Site | Dec 02 |
 | ↳ | **[Analyste programmeur gÃ©omatique internÃ© (F2A)](https://jobright.ai/jobs/info/692fe5f5ef4b48533d14979d?utm_campaign=1050&utm_source=git)** | Quebec City, Quebec, Canada | Hybrid | Dec 02 |
+| **[SmartBank](https://www.smartbank.com/)** | **[2026 Summer Intern- Branch Operations](https://jobright.ai/jobs/info/692ffafc4c474121999e3779?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Dec 02 |
+| **[Entergy](https://www.entergy.com)** | **[Student Intern, Business Operations Strategy, Summer 2026](https://jobright.ai/jobs/info/69300517fa28370be26aeb02?utm_campaign=1050&utm_source=git)** | Jefferson, LA | On Site | Dec 02 |
+| **[TEHORA inc.](https://www.tehora.ca)** | **[Analyste programmeur gÃ©omatique internÃ© (F2C)](https://jobright.ai/jobs/info/692ff7cffa28370be26ae75d?utm_campaign=1050&utm_source=git)** | LÃ©vis, Quebec, Canada | Hybrid | Dec 02 |
+| **[Apex Microtechnology](http://www.apexanalog.com/)** | **[Program Manager Intern](https://jobright.ai/jobs/info/692ff63ffa28370be26ae6bb?utm_campaign=1050&utm_source=git)** | Tucson, Arizona, United States | On Site | Dec 02 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Solution Partner Program Specialist (Full time Jan - May 2026)](https://jobright.ai/jobs/info/692fce9eef4b48533d1490bc?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | Dec 02 |
 | **[Capital Factory](http://www.capitalfactory.com)** | **[Chief of Staff & Apprentice to the CEO](https://jobright.ai/jobs/info/692fb44aef4b48533d1484a5?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 02 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Organizational Change Management Intern & IT Program Management Summer 2026](https://jobright.ai/jobs/info/692fe12dfa28370be26ae018?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Dec 02 |
@@ -66,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Insurance Operations Project Intern - Global Payment - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692fd5764c474121999e2ba5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 02 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/692fac63fa28370be26acaa9?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Dec 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/692fab6aef4b48533d148046?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 02 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[UAM Operations Support / Summer Internship](https://jobright.ai/jobs/info/693000ac4c474121999e3936?utm_campaign=1050&utm_source=git)** | Richfield, OH | On Site | Dec 02 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Supply Chain Sourcing Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/692feb4f4c474121999e328e?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Dec 02 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Real Estate and Asset Management Intern](https://jobright.ai/jobs/info/692fcbd9fa28370be26ad86e?utm_campaign=1050&utm_source=git)** | Honolulu | On Site | Dec 02 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/692fa6dc4c474121999e17bf?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 02 |
@@ -117,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Warehousing - Summer 2026](https://jobright.ai/jobs/info/69249326ec574f4265bb4984?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Dec 02 |
 | **[RoboKind](http://www.robokind.com/)** | **[Office Operations Intern (1099, Entry Level)](https://jobright.ai/jobs/info/692f9a53fa28370be26abeea?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 02 |
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Product Modification - Summer 2026](https://jobright.ai/jobs/info/6924b5e0ec574f4265bb610f?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Dec 02 |
+| **[CommScope](http://www.commscope.com)** | **[Intern-Project Management](https://jobright.ai/jobs/info/692f7c02ef4b48533d145ebd?utm_campaign=1050&utm_source=git)** | Shakopee, MN | On Site | Dec 02 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Supply Chain Management Intern](https://jobright.ai/jobs/info/692f7bdcfa28370be26aab34?utm_campaign=1050&utm_source=git)** | 1301 W Omaha Avenue, Norfolk, NE, 68701, US | On Site | Dec 02 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Retail Operations Intern](https://jobright.ai/jobs/info/692f7b5b4c474121999df87b?utm_campaign=1050&utm_source=git)** | Maryville, TN | On Site | Dec 02 |
 | **[Formlabs](http://www.formlabs.com)** | **[Program Management - Global Sourcing Intern (Summer 2026)](https://jobright.ai/jobs/info/692faaa64c474121999e1a8f?utm_campaign=1050&utm_source=git)** | Somerville, MA | On Site | Dec 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southwest Florida Water Management District](http://www.watermatters.org)** | **[Summer Intern - General Services (9502)](https://jobright.ai/jobs/info/691cc947bcdbf3560c9e9b68?utm_campaign=1050&utm_source=git)** | Brooksville, FL | Hybrid | Dec 02 |
 | **[ABB](https://global.abb/group/en)** | **[Intern – Project Management Assistant](https://jobright.ai/jobs/info/692f7377ef4b48533d14583a?utm_campaign=1050&utm_source=git)** | Saint-Laurent, Quebec, Canada | On Site | Dec 02 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Athletic Graduate Intern - Baseball (Operations)](https://jobright.ai/jobs/info/692f66acfa28370be26a9ab3?utm_campaign=1050&utm_source=git)** | Boiling Springs, NC, US | On Site | Dec 02 |
-| **[Lambton College](https://www.lambtoncollege.ca/)** | **[Work Integrated Learning (WIL) Project Supervisor](https://jobright.ai/jobs/info/692fce12ef4b48533d149084?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 02 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/692f75d8ef4b48533d145a2a?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN, 37128, United States | On Site | Dec 02 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[MBA Intern - Corporate Affairs](https://jobright.ai/jobs/info/692f7aca4c474121999df7f8?utm_campaign=1050&utm_source=git)** | US - Wilmington - DE | On Site | Dec 02 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Operations Facilitator](https://jobright.ai/jobs/info/692f87b0ef4b48533d146822?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 02 |
-| **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[2026 Supply Chain/Operations Internship (PA)](https://jobright.ai/jobs/info/692f5f6a4c474121999de45d?utm_campaign=1050&utm_source=git)** | Breinigsville, PA | On Site | Dec 02 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/692f6c4f4c474121999decd8?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Dec 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/692f67adfa28370be26a9be6?utm_campaign=1050&utm_source=git)** | Haltom City, TX | On Site | Dec 02 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/692f5f61fa28370be26a9542?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

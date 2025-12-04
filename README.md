@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/691ff20909cc522e87746e88?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Strategy & Operations Analyst](https://jobright.ai/jobs/info/68cbed26128dc347fd91c189?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
+| **[ITT Inc.](http://www.itt.com)** | **[2026 Summer Intern – Supply Chain](https://jobright.ai/jobs/info/68c54ae97d0db4114273377d?utm_campaign=1050&utm_source=git)** | Orchard Park, NY | On Site | Dec 04 |
 | **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccfda8d11b445e0bee599f?utm_campaign=1050&utm_source=git)** | Collegeville, PA | On Site | Dec 04 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Intern](https://jobright.ai/jobs/info/69314ad6ef4b48533d15366a?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Dec 04 |
 | **[Equity Residential](http://equityapartments.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69314488fa28370be26b7d55?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 04 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/69315e8bfa28370be26b8757?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 03 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2026 Project Management Office (PMO) Intern](https://jobright.ai/jobs/info/693125b6ef4b48533d152ae6?utm_campaign=1050&utm_source=git)** | Hanover, MD | Hybrid | Dec 03 |
 | **[Bernhard](https://bernhard.com/)** | **[Assistant Project Management Intern](https://jobright.ai/jobs/info/69314bb24c474121999ed02b?utm_campaign=1050&utm_source=git)** | US-CA-Fresno | On Site | Dec 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Key Account Manager Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69311dc9fa28370be26b6fd6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
@@ -71,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[GIANT](https://giantfoodstores.com/)** | **[Supply Chain Intern - Carlisle](https://jobright.ai/jobs/info/69310802ef4b48533d151b72?utm_campaign=1050&utm_source=git)** | Carlisle, PA | On Site | Dec 03 |
 | **[Visa](https://www.visa.com)** | **[Corporate Strategy MBA Intern - Summer 2026](https://jobright.ai/jobs/info/692099aa00c9ee50eaec5e50?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Dec 03 |
 | **[Neros Technologies](https://www.neros.tech)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/693101fefa28370be26b61a9?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Dec 03 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Internship Project Coordinator / Missionary Department](https://jobright.ai/jobs/info/69315dd34c474121999ed737?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 03 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Executive Assistant Intern](https://jobright.ai/jobs/info/6930fbc6ef4b48533d15153f?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Dec 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6930faacef4b48533d15144a?utm_campaign=1050&utm_source=git)** | Big Rapids, MI | On Site | Dec 03 |
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/692408d938cd5478a8d58bcf?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Dec 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Broward Health](http://www.browardhealth.org)** | **[Intern, Administrative-Dept of Learning-Per Diem BHC #25261](https://jobright.ai/jobs/info/6930c78aef4b48533d14f0b7?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 03 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Property and Casualty Intern - Summer 2026](https://jobright.ai/jobs/info/693093fd4c474121999e6353?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Dec 03 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Supply Chain Planner Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/68dc55adddc10244dd67458e?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Dec 03 |
-| **[Lonza](http://www.lonza.com)** | **[Summer 2026 Supply Chain Internship](https://jobright.ai/jobs/info/68c039208e65e77df55bf4c6?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Dec 03 |
-| **[WM](https://www.wm.com/)** | **[Project Controls Internship](https://jobright.ai/jobs/info/693071fdef4b48533d14ba93?utm_campaign=1050&utm_source=git)** | 800 CAPITOL ST STE 3000, HOUSTON, TX, 77002, US | On Site | Dec 03 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/68f66f0476a51a4307bda585?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 03 |
-| **[WM](https://www.wm.com/)** | **[Project Controls Internship](https://jobright.ai/jobs/info/69309dfefa28370be26b17cb?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 03 |
-| **[Tokio Marine North America Services](https://tmnas.com)** | **[Rotational Intern](https://jobright.ai/jobs/info/6930a6704c474121999e7124?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

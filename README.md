@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Martin Brower](http://martinbrower.com)** | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/68bf85ae8e65e77df55bb193?utm_campaign=1050&utm_source=git)** | Walker, LA | On Site | Dec 04 |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Project Management Intern](https://jobright.ai/jobs/info/691d195e7481340785ed3bdd?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 04 |
 | **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/691ff20909cc522e87746e88?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - TPS Strategy & Operations Analyst](https://jobright.ai/jobs/info/68cbed26128dc347fd91c189?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[ITT Inc.](http://www.itt.com)** | **[2026 Summer Intern – Supply Chain](https://jobright.ai/jobs/info/68c54ae97d0db4114273377d?utm_campaign=1050&utm_source=git)** | Orchard Park, NY | On Site | Dec 04 |
+| **[Waystar](http://www.waystar.com)** | **[Business Transformation/Growth Internship (Summer 2026)](https://jobright.ai/jobs/info/68c21f9663b706703e111ce6?utm_campaign=1050&utm_source=git)** | Duluth, GA | Hybrid | Dec 04 |
+| **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Corporate Strategy Intern - Graduate](https://jobright.ai/jobs/info/68dc63efa125e75c422a05a1?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 04 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Digital Strategy Associate](https://jobright.ai/jobs/info/68c1e39b233c7d3e64d05972?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 04 |
+| **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68f838fba628d10664e80918?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Dec 04 |
 | **[GSK](http://www.gsk.com)** | **[MBA Summer Internship, Finance, US, 2026](https://jobright.ai/jobs/info/68ccfda8d11b445e0bee599f?utm_campaign=1050&utm_source=git)** | Collegeville, PA | On Site | Dec 04 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Intern](https://jobright.ai/jobs/info/69314ad6ef4b48533d15366a?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Dec 04 |
 | **[Equity Residential](http://equityapartments.com)** | **[Sustainability Intern](https://jobright.ai/jobs/info/69314488fa28370be26b7d55?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 04 |
@@ -108,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Manager Project Intern (Brand Advertising - Monetization Product) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/6930ec6cef4b48533d150b67?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 03 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Intern - Assoc Technical Program Manager](https://jobright.ai/jobs/info/6930ef824c474121999ea7d3?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | Dec 03 |
 | **[Pinnova](https://www.linkedin.com/company/87987033)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6930e1bafa28370be26b4dd2?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 03 |
+| **[Broward Health](http://www.browardhealth.org)** | **[Intern, Administrative-Dept of Learning-Per Diem BHC #25261](https://jobright.ai/jobs/info/6930b7ce4c474121999e7ecb?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 03 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Graduate Internship – Business Technology Systems Solutions](https://jobright.ai/jobs/info/6930f1094c474121999ea910?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 03 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Strategy Intern](https://jobright.ai/jobs/info/6930e283fa28370be26b4e74?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 03 |
 | **[The Heritage Group](https://thgrp.com)** | **[Supply Chain Sourcing Intern](https://jobright.ai/jobs/info/6930e71c4c474121999ea243?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Transformation - Indigenous](https://jobright.ai/jobs/info/6930c07c4c474121999e8720?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, CA | On Site | Dec 03 |
 | **[RapidSOS](https://rapidsos.com)** | **[Strategy & Operations MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6930ac0f4c474121999e7520?utm_campaign=1050&utm_source=git)** | New York City or Boston | On Site | Dec 03 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6930cec34c474121999e925d?utm_campaign=1050&utm_source=git)** | US-PA-Canonsburg | On Site | Dec 03 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship - Strategy & Growth](https://jobright.ai/jobs/info/68f82b19ec6dbe7073fd1970?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | Hybrid | Dec 03 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Intern](https://jobright.ai/jobs/info/69309768ef4b48533d14ca34?utm_campaign=1050&utm_source=git)** | US-LA-Metairie | On Site | Dec 03 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Summer Intern](https://jobright.ai/jobs/info/6930d066fa28370be26b4246?utm_campaign=1050&utm_source=git)** | Florida | Hybrid | Dec 03 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Landside Operations](https://jobright.ai/jobs/info/6930a188ef4b48533d14d34f?utm_campaign=1050&utm_source=git)** | Jamaica, NY | On Site | Dec 03 |
-| **[Broward Health](http://www.browardhealth.org)** | **[Intern, Administrative-Dept of Learning-Per Diem BHC #25261](https://jobright.ai/jobs/info/6930c78aef4b48533d14f0b7?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 03 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Property and Casualty Intern - Summer 2026](https://jobright.ai/jobs/info/693093fd4c474121999e6353?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Dec 03 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Supply Chain Planner Intern - Green Bay, WI - Year round](https://jobright.ai/jobs/info/68dc55adddc10244dd67458e?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

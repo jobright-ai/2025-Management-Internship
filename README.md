@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69349c98764507023d1bd8fe?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
+| **[Northwestern Memorial Hospital](https://www.nm.org/locations/northwestern-memorial-hospital)** | **[Graduate Administrative Intern Program - Summer 2026](https://jobright.ai/jobs/info/69349184f131d96e4846b1c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
+| ↳ | **[Social Drivers of Health Intern - Summer 2026](https://jobright.ai/jobs/info/6934903bf131d96e4846b178?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Summer Student](https://jobright.ai/jobs/info/693485cfa0dde7020e2f5af5?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 06 |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69347c8da0dde7020e2f5927?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/69347bc6f131d96e4846ad98?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics(Winter 2026)](https://jobright.ai/jobs/info/69346b12764507023d1bcfdc?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 06 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cea489dbd9fb154ede19c7?utm_campaign=1050&utm_source=git)** | Carrollton, GA | On Site | Dec 06 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/69346946a0dde7020e2f55e7?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Dec 06 |
-| **[GenPark](https://genpark.ai)** | **[Project Development Intern](https://jobright.ai/jobs/info/69346545f131d96e4846a90b?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Dec 06 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Research Intern 2026](https://jobright.ai/jobs/info/68cf6499fb49c96ca6ea852e?utm_campaign=1050&utm_source=git)** | Wayzata, MN | On Site | Dec 06 |
 | **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c7989ec96a22563ecf2c33?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68dfedc9b99ec3563b0ca47e?utm_campaign=1050&utm_source=git)** | Skippers, VA | On Site | Dec 06 |
@@ -116,6 +118,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Intern Plano](https://jobright.ai/jobs/info/6933bb0ef131d96e48466830?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Dec 06 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933fe01f131d96e48468e5b?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[MBA Summer Internship 2026](https://jobright.ai/jobs/info/68fbc04093c49825ab1055bd?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Dec 06 |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/693492bbf131d96e4846b220?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Dec 06 |
 | **[Ferrovias](ferrovias.us)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/69345d4bf131d96e4846a762?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 06 |
 | **[MYR Group](https://myrgroup.com/)** | **[GSW Internship](https://jobright.ai/jobs/info/6917efa215b415636717cfaf?utm_campaign=1050&utm_source=git)** | Stone Mountain, GA | On Site | Dec 06 |
 | ↳ | **[GSW Internship](https://jobright.ai/jobs/info/6917eaed15b415636717cc78?utm_campaign=1050&utm_source=git)** | Amelia, OH | On Site | Dec 06 |
@@ -124,9 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Project Management (Technology Accelerators)](https://jobright.ai/jobs/info/6918883bbcdbf3560c9d28bd?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 06 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Dec 06 |
 | **[MYR Group](https://myrgroup.com/)** | **[GSW Internship](https://jobright.ai/jobs/info/6917f91745fb6f5ead8a0851?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | On Site | Dec 06 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/68c231644d652f044775dbba?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2026](https://jobright.ai/jobs/info/691e944aa49a885af9a29c7b?utm_campaign=1050&utm_source=git)** | Odenton, MD | On Site | Dec 06 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69344c38764507023d1bca7d?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 06 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68ccf02c5954791a1d7015da?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/69315d783a5f32082f714055?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[Clarios](https://www.clarios.com/)** | **[Logistics Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbea0a93c49825ab10742f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933aee9764507023d1b845a?utm_campaign=1050&utm_source=git)** | Princeton | Hybrid | Dec 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management (Partner Ecosystem)](https://jobright.ai/jobs/info/6933a83af131d96e48465950?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 05 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6933a6fa764507023d1b7b02?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/6933c36a764507023d1b940e?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

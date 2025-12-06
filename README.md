@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rocket Companies](https://rocket.com/)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69340470f131d96e4846908d?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 06 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship](https://jobright.ai/jobs/info/6917cf9915b415636717bc31?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 06 |
+| **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Office](https://jobright.ai/jobs/info/692053aa00c9ee50eaec18c4?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Dec 06 |
+| **[Badger Meter](http://badgermeter.com)** | **[Supply Chain (Procurement) Intern](https://jobright.ai/jobs/info/6933d0e5764507023d1b9c92?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
+| **[Highmark](https://www.highmark.com)** | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/69315ff53a5f32082f714689?utm_campaign=1050&utm_source=git)** | Erie-Meadville Area | On Site | Dec 06 |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Student Life Office Assistant](https://jobright.ai/jobs/info/6934143d764507023d1bbde4?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Dec 06 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Sortation Center, Houston, TX](https://jobright.ai/jobs/info/6933f204f131d96e484688fa?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 06 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693409b9764507023d1bb7f7?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 06 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6934072fa0dde7020e2f3cb2?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 06 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6933ff47f131d96e48468fb3?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933d2f5a0dde7020e2f233f?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6933c879a0dde7020e2f1aae?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Credit Union Branch Operations Intern](https://jobright.ai/jobs/info/6933517ef131d96e48461df3?utm_campaign=1050&utm_source=git)** | DeLand, FL | On Site | Dec 05 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad778aab47a17f670bbac?utm_campaign=1050&utm_source=git)** | Moorefield, WV | On Site | Dec 05 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 05 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ae21609808a6103e51eeb?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Dec 05 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/693340cfa0dde7020e2ebdf1?utm_campaign=1050&utm_source=git)** | Waltham | On Site | Dec 05 |
-| **[Roush](https://www.roush.com)** | **[Project Manager Intern - Winter 2026](https://jobright.ai/jobs/info/6933429c764507023d1b38f5?utm_campaign=1050&utm_source=git)** | Livonia, MI | On Site | Dec 05 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Dec 05 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Dec 05 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Project Management](https://jobright.ai/jobs/info/6933481df131d96e484616ed?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 05 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae3d609808a6103e51f6a?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Dec 05 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Transformation & Consumer Insights Intern](https://jobright.ai/jobs/info/69333962a0dde7020e2eb914?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Dec 05 |
-| ↳ | **[Transformation & Consumer Insights Intern](https://jobright.ai/jobs/info/69331a13764507023d1b2297?utm_campaign=1050&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

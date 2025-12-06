@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Summer Student](https://jobright.ai/jobs/info/693485cfa0dde7020e2f5af5?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 06 |
+| **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69347c8da0dde7020e2f5927?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
+| ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/69347bc6f131d96e4846ad98?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/69347b8b764507023d1bd306?utm_campaign=1050&utm_source=git)** | Raynham | On Site | Dec 06 |
+| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Project Management Intern and Assistant to the Founder](https://jobright.ai/jobs/info/69347906f131d96e4846ac46?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | Dec 06 |
+| **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Summer 2026](https://jobright.ai/jobs/info/69347836764507023d1bd1fa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 06 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Dec 06 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Business Continuity/Disaster Recovery](https://jobright.ai/jobs/info/6918702715b41563671824aa?utm_campaign=1050&utm_source=git)** | Gulfport, MS | On Site | Dec 06 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Facilities Manager / Security Officer (SkillBridge Intern) - 21158](https://jobright.ai/jobs/info/6716dc926a17b09c402efe61?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Dec 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics(Winter 2026)](https://jobright.ai/jobs/info/69346b12764507023d1bcfdc?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management (Partner Ecosystem)](https://jobright.ai/jobs/info/6933a83af131d96e48465950?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 05 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6933a6fa764507023d1b7b02?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/6933c36a764507023d1b940e?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 05 |
-| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Materials Management Analyst Intern](https://jobright.ai/jobs/info/6930bb56fa28370be26b301b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 05 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69339e65f131d96e48464ea4?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Dec 05 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69339e29f131d96e48464e89?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 05 |
-| **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Planning Coordinator Internship (Summer)](https://jobright.ai/jobs/info/69339dffa0dde7020e2efa7e?utm_campaign=1050&utm_source=git)** | Mesquite, TX | On Site | Dec 05 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69339c2df131d96e48464da4?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Dec 05 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69339c0ca0dde7020e2ef9ac?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Dec 05 |
-| **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Business Management Summer Student Intern](https://jobright.ai/jobs/info/69339bcca0dde7020e2ef98a?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Sortation Center, Houston, TX](https://jobright.ai/jobs/info/6933f204f131d96e484688fa?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 06 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933d2f5a0dde7020e2f233f?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6933c879a0dde7020e2f1aae?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688adce7aab47a17f670beb5?utm_campaign=1050&utm_source=git)** | Mount Pleasant, TX | On Site | Dec 05 |
 | **[National Beef Packing Company LLC](http://www.nationalbeef.com/)** | **[Operations Summer Internship](https://jobright.ai/jobs/info/6933506bf131d96e48461cee?utm_campaign=1050&utm_source=git)** | Selinsgrove, PA | On Site | Dec 05 |
 | **[effaced](www.effacedinc.com)** | **[International Development Intern](https://jobright.ai/jobs/info/69335cd9764507023d1b4cc2?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 05 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691691a06f36db06ef057de9?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 05 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69335d5ba0dde7020e2ed0aa?utm_campaign=1050&utm_source=git)** | Kennewick, WA, USA (Kennewick Office) | On Site | Dec 05 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 – Supply Chain Intern](https://jobright.ai/jobs/info/693358b6f131d96e48462493?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas | On Site | Dec 05 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Credit Union Branch Operations Intern ](https://jobright.ai/jobs/info/69334f35764507023d1b4046?utm_campaign=1050&utm_source=git)** | FL-Deland | On Site | Dec 05 |

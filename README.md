@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933d2f5a0dde7020e2f233f?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6933c879a0dde7020e2f1aae?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Assistant Vice President Internship - Strategy and Transformation](https://jobright.ai/jobs/info/6933b0ac764507023d1b85b0?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 05 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933aee9764507023d1b845a?utm_campaign=1050&utm_source=git)** | Princeton | Hybrid | Dec 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management (Partner Ecosystem)](https://jobright.ai/jobs/info/6933a83af131d96e48465950?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 05 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6933a6fa764507023d1b7b02?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/6933c36a764507023d1b940e?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 05 |
+| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Materials Management Analyst Intern](https://jobright.ai/jobs/info/6930bb56fa28370be26b301b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69339e65f131d96e48464ea4?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Dec 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69339e29f131d96e48464e89?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 05 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Planning Coordinator Internship (Summer)](https://jobright.ai/jobs/info/69339dffa0dde7020e2efa7e?utm_campaign=1050&utm_source=git)** | Mesquite, TX | On Site | Dec 05 |
@@ -119,7 +122,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6933725ef131d96e48463732?utm_campaign=1050&utm_source=git)** | Lowell, MA | Hybrid | Dec 05 |
 | ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | Hybrid | Dec 05 |
 | ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69335fb8a0dde7020e2ed264?utm_campaign=1050&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
-| **[Lambton College](https://www.lambtoncollege.ca/)** | **[Work Integrated Learning (WIL) Project Supervisor](https://jobright.ai/jobs/info/69338c2fa0dde7020e2ef100?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 05 |
 | **[Afresh](https://afresh.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69335e89f131d96e48462964?utm_campaign=1050&utm_source=git)** | Remote in US | Remote | Dec 05 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Project Management](https://jobright.ai/jobs/info/6933399e764507023d1b32b9?utm_campaign=1050&utm_source=git)** | New York, New York | Hybrid | Dec 05 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Global Procurement](https://jobright.ai/jobs/info/6933375b764507023d1b318a?utm_campaign=1050&utm_source=git)** | South San Francisco | On Site | Dec 05 |
@@ -136,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[National Beef Packing Company LLC](http://www.nationalbeef.com/)** | **[Operations Summer Internship](https://jobright.ai/jobs/info/6933506bf131d96e48461cee?utm_campaign=1050&utm_source=git)** | Selinsgrove, PA | On Site | Dec 05 |
 | **[effaced](www.effacedinc.com)** | **[International Development Intern](https://jobright.ai/jobs/info/69335cd9764507023d1b4cc2?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691691a06f36db06ef057de9?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 05 |
-| **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/693353a8764507023d1b4475?utm_campaign=1050&utm_source=git)** | Kennewick, WA, USA (Kennewick Office) | On Site | Dec 05 |
+| **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69335d5ba0dde7020e2ed0aa?utm_campaign=1050&utm_source=git)** | Kennewick, WA, USA (Kennewick Office) | On Site | Dec 05 |
 | **[Alcon](http://www.alcon.com)** | **[Summer 2026 – Supply Chain Intern](https://jobright.ai/jobs/info/693358b6f131d96e48462493?utm_campaign=1050&utm_source=git)** | Fort Worth, Texas | On Site | Dec 05 |
 | **[Self-Help Credit Union](https://www.self-help.org/)** | **[Credit Union Branch Operations Intern ](https://jobright.ai/jobs/info/69334f35764507023d1b4046?utm_campaign=1050&utm_source=git)** | FL-Deland | On Site | Dec 05 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/691622976f36db06ef0532d3?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Dec 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae3d609808a6103e51f6a?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Dec 05 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Transformation & Consumer Insights Intern](https://jobright.ai/jobs/info/69333962a0dde7020e2eb914?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Dec 05 |
 | ↳ | **[Transformation & Consumer Insights Intern](https://jobright.ai/jobs/info/69331a13764507023d1b2297?utm_campaign=1050&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Dec 05 |
-| **[Staples Stores](https://www.staplesconnect.com)** | **[National Operations Intern - June 2026](https://jobright.ai/jobs/info/693319edf131d96e4845fc7e?utm_campaign=1050&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | On Site | Dec 05 |
-| **[Staples Canada](http://www.staples.ca)** | **[National Operations Intern - June 2026](https://jobright.ai/jobs/info/69331862a0dde7020e2ea700?utm_campaign=1050&utm_source=git)** | Framingham, MA, United States | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

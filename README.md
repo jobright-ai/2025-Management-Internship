@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cea489dbd9fb154ede19c7?utm_campaign=1050&utm_source=git)** | Carrollton, GA | On Site | Dec 06 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/69346946a0dde7020e2f55e7?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Dec 06 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Research Intern 2026](https://jobright.ai/jobs/info/68cf6499fb49c96ca6ea852e?utm_campaign=1050&utm_source=git)** | Wayzata, MN | On Site | Dec 06 |
-| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c7989ec96a22563ecf2c33?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68dfedc9b99ec3563b0ca47e?utm_campaign=1050&utm_source=git)** | Skippers, VA | On Site | Dec 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933d2f5a0dde7020e2f233f?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6933c879a0dde7020e2f1aae?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
+| **[AB InBev APAC](http://www.ab-inbev.cn/)** | **[2023 Korea GMT(Graduate Management Trainee) Summer Intern 채용 (Test)](https://jobright.ai/jobs/info/69350f09764507023d1bef81?utm_campaign=1050&utm_source=git)** | Tower City, ND | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

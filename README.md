@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/6935251a764507023d1bf396?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 06 |
+| **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/691ff20909cc522e87746e88?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Dec 07 |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/69353c3af131d96e4846d7f6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6934f905764507023d1be961?utm_campaign=1050&utm_source=git)** | Encino, CA | Hybrid | Dec 06 |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69349c98764507023d1bd8fe?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/693497b4f131d96e4846b2dd?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933d2f5a0dde7020e2f233f?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6933c879a0dde7020e2f1aae?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
-| **[AB InBev APAC](http://www.ab-inbev.cn/)** | **[2023 Korea GMT(Graduate Management Trainee) Summer Intern 채용 (Test)](https://jobright.ai/jobs/info/69350f09764507023d1bef81?utm_campaign=1050&utm_source=git)** | Tower City, ND | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

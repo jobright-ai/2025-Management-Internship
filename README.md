@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/69006e34e04ac838fb5c1d69?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Dec 07 |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/6900b815f8ce7a040fdb8e3a?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Dec 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/69316ea63b6d6f265f4e8d6a?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 07 |
+| ↳ | **[Intern/Co-Op- Spring 2026 (Nashville)](https://jobright.ai/jobs/info/69009d83e04ac838fb5c31f0?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 07 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 07 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
 | ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68fd021ae0c73b3a11190fe0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/68d36c748c62e63bc7fe0e9f?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 06 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship](https://jobright.ai/jobs/info/6917cf9915b415636717bc31?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 06 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Digital Delivery Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68c207fb4d652f044775c86c?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
 | **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Office](https://jobright.ai/jobs/info/692053aa00c9ee50eaec18c4?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Dec 06 |
-| **[Badger Meter](http://badgermeter.com)** | **[Supply Chain (Procurement) Intern](https://jobright.ai/jobs/info/6933d0e5764507023d1b9c92?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
-| **[Highmark](https://www.highmark.com)** | **[Summer 2026 Strategic Planning Undergraduate Intern](https://jobright.ai/jobs/info/69315ff53a5f32082f714689?utm_campaign=1050&utm_source=git)** | Erie-Meadville Area | On Site | Dec 06 |
-| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Student Life Office Assistant](https://jobright.ai/jobs/info/6934143d764507023d1bbde4?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Dec 06 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Sortation Center, Houston, TX](https://jobright.ai/jobs/info/6933f204f131d96e484688fa?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6934272d764507023d1bc23c?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

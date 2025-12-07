@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69349c98764507023d1bd8fe?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
+| ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/693497b4f131d96e4846b2dd?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | **[Northwestern Memorial Hospital](https://www.nm.org/locations/northwestern-memorial-hospital)** | **[Graduate Administrative Intern Program - Summer 2026](https://jobright.ai/jobs/info/69349184f131d96e4846b1c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | ↳ | **[Social Drivers of Health Intern - Summer 2026](https://jobright.ai/jobs/info/6934903bf131d96e4846b178?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
+| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Ballpark Operations Internship (Free Housing)](https://jobright.ai/jobs/info/6934c25b764507023d1bde54?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Dec 06 |
 | **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Summer Student](https://jobright.ai/jobs/info/693485cfa0dde7020e2f5af5?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 06 |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69347c8da0dde7020e2f5927?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/69347bc6f131d96e4846ad98?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933aee9764507023d1b845a?utm_campaign=1050&utm_source=git)** | Princeton | Hybrid | Dec 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management (Partner Ecosystem)](https://jobright.ai/jobs/info/6933a83af131d96e48465950?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 05 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6933a6fa764507023d1b7b02?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/6933c36a764507023d1b940e?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

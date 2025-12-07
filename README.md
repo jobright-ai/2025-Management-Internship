@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/6935251a764507023d1bf396?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6934f905764507023d1be961?utm_campaign=1050&utm_source=git)** | Encino, CA | Hybrid | Dec 06 |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69349c98764507023d1bd8fe?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/693497b4f131d96e4846b2dd?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69347c8da0dde7020e2f5927?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/69347bc6f131d96e4846ad98?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Raynham, MA](https://jobright.ai/jobs/info/69347b8b764507023d1bd306?utm_campaign=1050&utm_source=git)** | Raynham | On Site | Dec 06 |
-| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Project Management Intern and Assistant to the Founder](https://jobright.ai/jobs/info/69347906f131d96e4846ac46?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Remote | Dec 06 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Summer 2026](https://jobright.ai/jobs/info/69347836764507023d1bd1fa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 06 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Dec 06 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Business Continuity/Disaster Recovery](https://jobright.ai/jobs/info/6918702715b41563671824aa?utm_campaign=1050&utm_source=git)** | Gulfport, MS | On Site | Dec 06 |

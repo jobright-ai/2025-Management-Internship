@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68dfedc9b99ec3563b0ca47e?utm_campaign=1050&utm_source=git)** | Skippers, VA | On Site | Dec 06 |
 | **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 06 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/693124b8ef4b48533d152a85?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Dec 06 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Rio Grande Valley](https://jobright.ai/jobs/info/68ca4be746caff4db51fcddc?utm_campaign=1050&utm_source=git)** | Mercedes, TX | On Site | Dec 06 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Materials / Logistics / Supply Chain](https://jobright.ai/jobs/info/691ad53615b415636718af73?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Dec 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691890d715b4156367182cd0?utm_campaign=1050&utm_source=git)** | Bartlett, IL | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933aee9764507023d1b845a?utm_campaign=1050&utm_source=git)** | Princeton | Hybrid | Dec 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management (Partner Ecosystem)](https://jobright.ai/jobs/info/6933a83af131d96e48465950?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 05 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6933a6fa764507023d1b7b02?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern/Co-op - 2nd or 3rd Term](https://jobright.ai/jobs/info/6933c36a764507023d1b940e?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

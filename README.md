@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[Management Internship](https://jobright.ai/jobs/info/6935ed96764507023d1c1592?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 07 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/6919eefa15b4156367187a72?utm_campaign=1050&utm_source=git)** | Frankfort, NY | On Site | Dec 07 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Dec 07 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae0baaab47a17f670c01b?utm_campaign=1050&utm_source=git)** | Cold Spring, MN | On Site | Dec 07 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Dec 07 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6934fb9ff131d96e4846c638?utm_campaign=1050&utm_source=git)** | Tyler, TX | On Site | Dec 07 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/6933fe15f131d96e48468eaa?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Dec 07 |
-| **[AtlasQuo](https://www.linkedin.com/company/104164680)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6935add5f131d96e4846ecf7?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 07 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Spring Project Management Facilities Intern/Co-op (R14840)](https://jobright.ai/jobs/info/68fbe9744129dd33cd13644c?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | Dec 07 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Winter 2026)](https://jobright.ai/jobs/info/6918b9c9bcdbf3560c9d3677?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Dec 07 |
 | ↳ | **[Intern, Logistics (Winter 2026)](https://jobright.ai/jobs/info/6918a782bcdbf3560c9d31ee?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 07 |

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6934f905764507023d1be961?utm_campaign=1050&utm_source=git)** | Encino, CA | Hybrid | Dec 06 |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69349c98764507023d1bd8fe?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/693497b4f131d96e4846b2dd?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | **[Northwestern Memorial Hospital](https://www.nm.org/locations/northwestern-memorial-hospital)** | **[Graduate Administrative Intern Program - Summer 2026](https://jobright.ai/jobs/info/69349184f131d96e4846b1c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Rio Grande Valley](https://jobright.ai/jobs/info/68ca4be746caff4db51fcddc?utm_campaign=1050&utm_source=git)** | Mercedes, TX | On Site | Dec 06 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Materials / Logistics / Supply Chain](https://jobright.ai/jobs/info/691ad53615b415636718af73?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Dec 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691890d715b4156367182cd0?utm_campaign=1050&utm_source=git)** | Bartlett, IL | On Site | Dec 06 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/6934f7aca0dde7020e2f6d8b?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 06 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Atlanta, GA](https://jobright.ai/jobs/info/68e00a11f758fe1f97e4901d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933d2f5a0dde7020e2f233f?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6933c879a0dde7020e2f1aae?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
-| **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933aee9764507023d1b845a?utm_campaign=1050&utm_source=git)** | Princeton | Hybrid | Dec 05 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Supply Chain Management (Partner Ecosystem)](https://jobright.ai/jobs/info/6933a83af131d96e48465950?utm_campaign=1050&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 07 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
+| ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
+| **[Gentherm](https://gentherm.com/)** | **[PMO Intern](https://jobright.ai/jobs/info/68fbee0d4129dd33cd1366e4?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Dec 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/692f8b904c474121999e03ac?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
+| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cd0ac11ad6b16f02893cbf?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 07 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 07 |
 | **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/691ff20909cc522e87746e88?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Dec 07 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/69353c3af131d96e4846d7f6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6934f905764507023d1be961?utm_campaign=1050&utm_source=git)** | Encino, CA | Hybrid | Dec 06 |
@@ -122,7 +129,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933fe01f131d96e48468e5b?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Dec 06 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[MBA Summer Internship 2026](https://jobright.ai/jobs/info/68fbc04093c49825ab1055bd?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Dec 06 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/693492bbf131d96e4846b220?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Dec 06 |
-| **[Ferrovias](ferrovias.us)** | **[MBA Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/69345d4bf131d96e4846a762?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 06 |
 | **[MYR Group](https://myrgroup.com/)** | **[GSW Internship](https://jobright.ai/jobs/info/6917efa215b415636717cfaf?utm_campaign=1050&utm_source=git)** | Stone Mountain, GA | On Site | Dec 06 |
 | ↳ | **[GSW Internship](https://jobright.ai/jobs/info/6917eaed15b415636717cc78?utm_campaign=1050&utm_source=git)** | Amelia, OH | On Site | Dec 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e8072609580a2fe57f24b8?utm_campaign=1050&utm_source=git)** | Prince George, VA | On Site | Dec 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Student Life Office Assistant](https://jobright.ai/jobs/info/6934143d764507023d1bbde4?utm_campaign=1050&utm_source=git)** | Orem, UT | On Site | Dec 06 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Sortation Center, Houston, TX](https://jobright.ai/jobs/info/6933f204f131d96e484688fa?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 06 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6934272d764507023d1bc23c?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Dec 06 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693409b9764507023d1bb7f7?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 06 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6934072fa0dde7020e2f3cb2?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6933ff47f131d96e48468fb3?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
-| **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6933d2f5a0dde7020e2f233f?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Temporary Administrative Intern - Ophthalmology (Waltham)](https://jobright.ai/jobs/info/6933c879a0dde7020e2f1aae?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
-| **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Scheduling/Ballpark Operations Intern](https://jobright.ai/jobs/info/6933c164f131d96e48466c7a?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Employee Navigator](http://www.employeenavigator.com)** | **[Business Operations Internship](https://jobright.ai/jobs/info/69369be81c1c2161c13edfa2?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | On Site | Dec 08 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/69369aca1c1c2161c13edf69?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 08 |
+| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Strategy & Operations - 2026](https://jobright.ai/jobs/info/69369aca1c1c2161c13edf68?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 07 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Lexington, SC](https://jobright.ai/jobs/info/690b848c221b890c277f56b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Dec 07 |
 | **[Dollar General Store](https://www.dollargeneral.com/)** | **[Summer 2026 Warehouse Operations Intern – LONGVIEW, TX](https://jobright.ai/jobs/info/69361d76f131d96e4846fa23?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Dec 07 |
 | ↳ | **[2026 Summer Intern Distribution Center- Supply Chain](https://jobright.ai/jobs/info/69361ce2a0dde7020e2f9df6?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 07 |
@@ -104,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 07 |
 | **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/691ff20909cc522e87746e88?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Dec 07 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/69353c3af131d96e4846d7f6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
+| **[JR Automation](https://www.jrautomation.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6908cf1bbcccf20de59d3d52?utm_campaign=1050&utm_source=git)** | Holland, MI | On Site | Dec 06 |
 | **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/693659d7f131d96e48470f36?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 06 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/69365438a0dde7020e2faff4?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6934f905764507023d1be961?utm_campaign=1050&utm_source=git)** | Encino, CA | Hybrid | Dec 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad79009808a6103e51a55?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 06 |
-| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Acquisition Internship](https://jobright.ai/jobs/info/6918a8ffbcdbf3560c9d3256?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Culture & Integration (Year-Round)](https://jobright.ai/jobs/info/6917748a3ea85638ae1cabff?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
-| **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68ccd258b274cd205ab4fb6e?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/68ce7837fb49c96ca6ea0cd0?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

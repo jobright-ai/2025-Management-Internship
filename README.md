@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollar General Store](https://www.dollargeneral.com/)** | **[Summer 2026 Warehouse Operations Intern – LONGVIEW, TX](https://jobright.ai/jobs/info/69361d76f131d96e4846fa23?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Dec 07 |
+| ↳ | **[2026 Summer Intern Distribution Center- Supply Chain](https://jobright.ai/jobs/info/69361ce2a0dde7020e2f9df6?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 07 |
+| ↳ | **[2026 DC INTERN](https://jobright.ai/jobs/info/69361c68a0dde7020e2f9deb?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Dec 07 |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 07 |
 | **[GLAAD](http://www.glaad.org/)** | **[Executive Admin Intern](https://jobright.ai/jobs/info/69278dc0d47de4798ecde6be?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 07 |
 | **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[Management Internship](https://jobright.ai/jobs/info/6935ed96764507023d1c1592?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 07 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/6919eefa15b4156367187a72?utm_campaign=1050&utm_source=git)** | Frankfort, NY | On Site | Dec 07 |
@@ -128,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Rio Grande Valley](https://jobright.ai/jobs/info/68ca4be746caff4db51fcddc?utm_campaign=1050&utm_source=git)** | Mercedes, TX | On Site | Dec 06 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Materials / Logistics / Supply Chain](https://jobright.ai/jobs/info/691ad53615b415636718af73?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Dec 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/691890d715b4156367182cd0?utm_campaign=1050&utm_source=git)** | Bartlett, IL | On Site | Dec 06 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/6934f7aca0dde7020e2f6d8b?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 06 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Atlanta, GA](https://jobright.ai/jobs/info/68e00a11f758fe1f97e4901d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 06 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Acquisition Internship](https://jobright.ai/jobs/info/6918a8ffbcdbf3560c9d3256?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Culture & Integration (Year-Round)](https://jobright.ai/jobs/info/6917748a3ea85638ae1cabff?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
-| **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68ccd258b274cd205ab4fb6e?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/68ce7837fb49c96ca6ea0cd0?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

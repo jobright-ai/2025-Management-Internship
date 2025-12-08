@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Business Unit of the CFO (Wealth Management)](https://jobright.ai/jobs/info/6921680cd1ec2c3565c43f8d?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 08 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Project Management Intern](https://jobright.ai/jobs/info/6936c48ca0dde7020e2fd19c?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Dec 08 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Project Manager Process Improvement-New Product Development](https://jobright.ai/jobs/info/691a6a2c45fb6f5ead8ab740?utm_campaign=1050&utm_source=git)** | Lebanon, TN | Hybrid | Dec 08 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/6936b61fa0dde7020e2fce56?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 08 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Payments, Products & Marketing](https://jobright.ai/jobs/info/69184d8abcdbf3560c9d1468?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Dec 06 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/6888e96a9f961617fe21033d?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Dec 06 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Dec 06 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688adeac9f961617fe21ebf7?utm_campaign=1050&utm_source=git)** | Nacogdoches, TX | On Site | Dec 06 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Clinical Trial Operations Intern](https://jobright.ai/jobs/info/68e042e01852e62f007e9863?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

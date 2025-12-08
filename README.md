@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Project Manager Process Improvement-New Product Development](https://jobright.ai/jobs/info/691a6a2c45fb6f5ead8ab740?utm_campaign=1050&utm_source=git)** | Lebanon, TN | Hybrid | Dec 08 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/6936b61fa0dde7020e2fce56?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 08 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 08 |
 | **[Employee Navigator](http://www.employeenavigator.com)** | **[Business Operations Internship](https://jobright.ai/jobs/info/69369be81c1c2161c13edfa2?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | On Site | Dec 08 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/69369aca1c1c2161c13edf69?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 08 |
 | **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Strategy & Operations - 2026](https://jobright.ai/jobs/info/69369aca1c1c2161c13edf68?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Dec 06 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688adeac9f961617fe21ebf7?utm_campaign=1050&utm_source=git)** | Nacogdoches, TX | On Site | Dec 06 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Clinical Trial Operations Intern](https://jobright.ai/jobs/info/68e042e01852e62f007e9863?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 06 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad79009808a6103e51a55?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Dec 06 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 06 |
-| ↳ | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

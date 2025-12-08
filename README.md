@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Lexington, SC](https://jobright.ai/jobs/info/690b848c221b890c277f56b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Dec 07 |
 | **[Dollar General Store](https://www.dollargeneral.com/)** | **[Summer 2026 Warehouse Operations Intern – LONGVIEW, TX](https://jobright.ai/jobs/info/69361d76f131d96e4846fa23?utm_campaign=1050&utm_source=git)** | Longview, TX | On Site | Dec 07 |
 | ↳ | **[2026 Summer Intern Distribution Center- Supply Chain](https://jobright.ai/jobs/info/69361ce2a0dde7020e2f9df6?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 07 |
 | ↳ | **[2026 DC INTERN](https://jobright.ai/jobs/info/69361c68a0dde7020e2f9deb?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Dec 07 |
@@ -73,10 +74,10 @@ For a complete list, click the following sortable link below:
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Spring Project Management Facilities Intern/Co-op (R14840)](https://jobright.ai/jobs/info/68fbe9744129dd33cd13644c?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | Dec 07 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Winter 2026)](https://jobright.ai/jobs/info/6918b9c9bcdbf3560c9d3677?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Dec 07 |
 | ↳ | **[Intern, Logistics (Winter 2026)](https://jobright.ai/jobs/info/6918a782bcdbf3560c9d31ee?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 07 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/6935a550a0dde7020e2f9263?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Assistant Vice President Internship - Strategy and Transformation](https://jobright.ai/jobs/info/69359ff2764507023d1c0d0f?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 07 |
 | **[Henkel](http://www.henkel.com)** | **[Commercial Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ac5531e5763f188e280d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 07 |
 | ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/68c30a975adaee6c9bda676a?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Dec 07 |
+| ↳ | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/6936484af131d96e4847077f?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 07 |
 | **[Honeywell](http://www.honeywell.com)** | **[Summer 2026 Honeywell Building Automation Strategy and M&A Manager (MBA Intern)](https://jobright.ai/jobs/info/68fbe8cc4129dd33cd13639e?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 07 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad9f1aab47a17f670bc9f?utm_campaign=1050&utm_source=git)** | Marshalltown, IA | On Site | Dec 07 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad7a9aab47a17f670bbbf?utm_campaign=1050&utm_source=git)** | Beardstown, IL | On Site | Dec 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad79009808a6103e51a55?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 06 |
-| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Acquisition Internship](https://jobright.ai/jobs/info/6918a8ffbcdbf3560c9d3256?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

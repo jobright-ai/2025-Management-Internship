@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GLAAD](http://www.glaad.org/)** | **[Executive Admin Intern](https://jobright.ai/jobs/info/69278dc0d47de4798ecde6be?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 07 |
 | **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[Management Internship](https://jobright.ai/jobs/info/6935ed96764507023d1c1592?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 07 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/6919eefa15b4156367187a72?utm_campaign=1050&utm_source=git)** | Frankfort, NY | On Site | Dec 07 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Dec 07 |
@@ -108,6 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/693497b4f131d96e4846b2dd?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | **[Northwestern Memorial Hospital](https://www.nm.org/locations/northwestern-memorial-hospital)** | **[Graduate Administrative Intern Program - Summer 2026](https://jobright.ai/jobs/info/69349184f131d96e4846b1c2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
 | ↳ | **[Social Drivers of Health Intern - Summer 2026](https://jobright.ai/jobs/info/6934903bf131d96e4846b178?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 06 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Spring 2026 - College Intern - Bonita Springs, FL (Front Office, Food & Beverage, Recreation, and Housekeeping)](https://jobright.ai/jobs/info/68fca389e0c73b3a1118e46d?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Dec 06 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Ballpark Operations Internship (Free Housing)](https://jobright.ai/jobs/info/6934c25b764507023d1bde54?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Dec 06 |
 | **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Summer Student](https://jobright.ai/jobs/info/693485cfa0dde7020e2f5af5?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 06 |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69347c8da0dde7020e2f5927?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Culture & Integration (Year-Round)](https://jobright.ai/jobs/info/6917748a3ea85638ae1cabff?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 06 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68ccd258b274cd205ab4fb6e?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 06 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/68ce7837fb49c96ca6ea0cd0?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Supervisor Trainee Internship Summer 2026](https://jobright.ai/jobs/info/69340d99764507023d1bb9a3?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 06 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ce6ba2846f0b04af6799fa?utm_campaign=1050&utm_source=git)** | Lufkin, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

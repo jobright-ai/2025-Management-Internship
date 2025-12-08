@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 DC INTERN](https://jobright.ai/jobs/info/69361c68a0dde7020e2f9deb?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Dec 07 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 07 |
 | **[GLAAD](http://www.glaad.org/)** | **[Executive Admin Intern](https://jobright.ai/jobs/info/69278dc0d47de4798ecde6be?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 07 |
-| **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[Management Internship](https://jobright.ai/jobs/info/6935ed96764507023d1c1592?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 07 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Frankfort, NY / Summer 2026](https://jobright.ai/jobs/info/6919eefa15b4156367187a72?utm_campaign=1050&utm_source=git)** | Frankfort, NY | On Site | Dec 07 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Dec 07 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae0baaab47a17f670c01b?utm_campaign=1050&utm_source=git)** | Cold Spring, MN | On Site | Dec 07 |
@@ -96,10 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91be7a0c52d598ea35da6?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Dec 07 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Dec 07 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 07 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/69006e34e04ac838fb5c1d69?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Dec 07 |
+| **[Flex](https://flex.com)** | **[Strategy & Technology Intern](https://jobright.ai/jobs/info/6936678bf131d96e48471427?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 07 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/6900b815f8ce7a040fdb8e3a?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Dec 07 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/69316ea63b6d6f265f4e8d6a?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 07 |
-| ↳ | **[Intern/Co-Op- Spring 2026 (Nashville)](https://jobright.ai/jobs/info/69009d83e04ac838fb5c31f0?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 07 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 07 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
 | ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
@@ -109,6 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 07 |
 | **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/691ff20909cc522e87746e88?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Dec 07 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/69353c3af131d96e4846d7f6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
+| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/693659d7f131d96e48470f36?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 06 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/69365438a0dde7020e2faff4?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[HUB International](https://www.hubinternational.com)** | **[Intern](https://jobright.ai/jobs/info/6934f905764507023d1be961?utm_campaign=1050&utm_source=git)** | Encino, CA | Hybrid | Dec 06 |
 | **[X-energy](https://x-energy.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69349c98764507023d1bd8fe?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
 | ↳ | **[Project Controls Intern](https://jobright.ai/jobs/info/693497b4f131d96e4846b2dd?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Dec 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad79009808a6103e51a55?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 06 |
 | ↳ | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 06 |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Acquisition Internship](https://jobright.ai/jobs/info/6918a8ffbcdbf3560c9d3256?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

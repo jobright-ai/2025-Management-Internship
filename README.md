@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business strategic planning intern](https://jobright.ai/jobs/info/69390a7fd52e071e19864d91?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Dec 09 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[Operations and Strategy Intern](https://jobright.ai/jobs/info/693907b37548dd746be58447?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 09 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6905a56aff462851fefff1bf?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 09 |
 | **[TAIT](http://www.taittowers.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6938fddba0dde7020e319a32?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
+| **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- SUPPLY CHAIN MANAGEMENT](https://jobright.ai/jobs/info/69391cdf48a8ce22990d3e69?utm_campaign=1050&utm_source=git)** | Pascagoula, MS | On Site | Dec 09 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Building Operations Coordinator](https://jobright.ai/jobs/info/6938f2d3aabec14a727de488?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 09 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Resilience Intern - Summer 2026](https://jobright.ai/jobs/info/6938ef4da0dde7020e318c86?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 09 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Finance & Process Documentation Intern - Spring 2026 - Lakeland, FL](https://jobright.ai/jobs/info/6938ec4fa0dde7020e318a66?utm_campaign=1050&utm_source=git)** | Lakeland, FL | Hybrid | Dec 09 |
@@ -69,11 +71,14 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6938e617a0dde7020e3186a8?utm_campaign=1050&utm_source=git)** | Athens, OH | On Site | Dec 09 |
 | **[Real Monarchs](http://www.RealMonarchs.com)** | **[Equipment Management Intern](https://jobright.ai/jobs/info/6938e29da0dde7020e3181ca?utm_campaign=1050&utm_source=git)** | Herriman, UT | On Site | Dec 09 |
 | **[TAIT](http://www.taittowers.com)** | **[Project Management, Live Intern](https://jobright.ai/jobs/info/693906b1d52e071e198641be?utm_campaign=1050&utm_source=git)** | Lititz, PA | On Site | Dec 09 |
+| ↳ | **[Project Management, Fixed Intern](https://jobright.ai/jobs/info/69390b9d610de506401c5d26?utm_campaign=1050&utm_source=git)** | Lititz, PA | On Site | Dec 09 |
+| ↳ | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6939160448a8ce22990d36fe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6938de44a0dde7020e317a19?utm_campaign=1050&utm_source=git)** | Northwood, OH | On Site | Dec 09 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 AI Strategy Intern](https://jobright.ai/jobs/info/6938fdbea0dde7020e319a12?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Dec 09 |
 | ↳ | **[Summer 2026 AI Strategy Intern](https://jobright.ai/jobs/info/6938f334aabec14a727de4dd?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 09 |
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[IT PMO Intern](https://jobright.ai/jobs/info/69027170ff462851fefe31f9?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Claims Operations](https://jobright.ai/jobs/info/6938d3acaabec14a727dbac6?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Dec 09 |
+| **[Baltimore Orioles](https://www.mlb.com/orioles/)** | **[Baseball Operations Administration Intern](https://jobright.ai/jobs/info/6939240356b68f3dc4e69da6?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Dec 09 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Post-Graduate Athletic Intern, Operations Assistant – Men’s Basketball](https://jobright.ai/jobs/info/6938d346aabec14a727dba00?utm_campaign=1050&utm_source=git)** | Lubbock | On Site | Dec 09 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6938f86ea0dde7020e319704?utm_campaign=1050&utm_source=git)** | Garden City, KS | On Site | Dec 09 |
 | **[UPMC](https://www.upmc.com/)** | **[Supply Chain internship – Pittsburgh](https://jobright.ai/jobs/info/6938f825aabec14a727de747?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
@@ -93,12 +98,12 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/6936779ca0dde7020e2fbbcb?utm_campaign=1050&utm_source=git)** | Spring, TX | Hybrid | Dec 09 |
 | **[Sentara Health](http://www.sentara.com)** | **[Intern-Supply Chain - Hybrid Norfolk](https://jobright.ai/jobs/info/6938b93ea0dde7020e3153de?utm_campaign=1050&utm_source=git)** | Norfolk, VA | Hybrid | Dec 09 |
 | **[EAIGG: Ethical AI Governance Group](https://www.eaigg.org)** | **[Venture & Innovation Fellow](https://jobright.ai/jobs/info/6938c645b95c305f206dfb6c?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 09 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Sourcing](https://jobright.ai/jobs/info/6938926db95c305f206dc134?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Dec 09 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6938bc2da0dde7020e3155d4?utm_campaign=1050&utm_source=git)** | Tontitown, AR | On Site | Dec 09 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938bc78aabec14a727da836?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 09 |
-| ↳ | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938b3b1a0dde7020e314f72?utm_campaign=1050&utm_source=git)** | West Salem, WI | On Site | Dec 09 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938b3b1a0dde7020e314f72?utm_campaign=1050&utm_source=git)** | West Salem, WI | On Site | Dec 09 |
+| ↳ | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938bc78aabec14a727da836?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 09 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor DoD SkillBridge Internship / Corporate Strategy Intern (Woodall Rodgers - Downtown Dallas)](https://jobright.ai/jobs/info/69388edfa0dde7020e31208a?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69388cedaabec14a727d6e48?utm_campaign=1050&utm_source=git)** | Willow Street, PA | On Site | Dec 09 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Sourcing](https://jobright.ai/jobs/info/69388a78a0dde7020e311d01?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Dec 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/693888f2aabec14a727d6bb4?utm_campaign=1050&utm_source=git)** | Pelzer, SC | On Site | Dec 09 |
 | **[MANE](https://www.mane.com/)** | **[Specialty Business Unit Category Intern - Summer 2026](https://jobright.ai/jobs/info/693888efb95c305f206db979?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | Dec 09 |
 | **[The L.E. Myers Co.](https://lemyers.com/)** | **[Operations & Project Support Intern – Electrical Utilities](https://jobright.ai/jobs/info/6938aeb7b95c305f206dec92?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 09 |
@@ -115,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Green Bay Packaging](https://gbp.com/)** | **[Logistics Intern - Summer 2026](https://jobright.ai/jobs/info/6938a8e1a0dde7020e314883?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Dec 09 |
 | **[NavGurukul](https://www.navgurukul.org/)** | **[Project Coordinator and Management Intern](https://jobright.ai/jobs/info/69387f86aabec14a727d65f8?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/6938a8c1b95c305f206de83d?utm_campaign=1050&utm_source=git)** | Anderson, SC | On Site | Dec 09 |
-| **[H. J. Russell & Company](http://hjrussell.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6938a6efaabec14a727d94e8?utm_campaign=1050&utm_source=git)** | Atlanta Metro | On Site | Dec 09 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69389291aabec14a727d727b?utm_campaign=1050&utm_source=git)** | Northwood, OH | On Site | Dec 09 |
 | **[Amgen](http://www.amgen.com)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/69389f1aaabec14a727d86cc?utm_campaign=1050&utm_source=git)** | United States - Remote | Remote | Dec 09 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Assistant Project Manager - Summer Internship 2026 - Dallas Process Solutions](https://jobright.ai/jobs/info/693871ffa0dde7020e310965?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6922d5f7c0cefa13343d98e9?utm_campaign=1050&utm_source=git)** | Canfield, OH | On Site | Dec 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Dalton](https://jobright.ai/jobs/info/69002d39e0c73b3a111a2f06?utm_campaign=1050&utm_source=git)** | Dalton, GA | On Site | Dec 09 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Supply Chain Management](https://jobright.ai/jobs/info/691cb613ff702449841699bb?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Personal Lines Underwriting Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffc543e04ac838fb5bb0fe?utm_campaign=1050&utm_source=git)** | Westfield Center, OH | Hybrid | Dec 09 |
-| **[Mitsubishi Heavy Industries](https://www.mhi.com)** | **[Global Sourcing Associate Internship](https://jobright.ai/jobs/info/693854c8aabec14a727d2ca1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 09 |
-| **[Arvento A](arventoa.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/69385f72a0dde7020e30e5e4?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 09 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68ec8c26c26b9574506f2f37?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

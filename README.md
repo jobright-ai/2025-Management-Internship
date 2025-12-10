@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/6939414b56b68f3dc4e6c05b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Business strategic planning intern](https://jobright.ai/jobs/info/69390a7fd52e071e19864d91?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Dec 09 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[Operations and Strategy Intern](https://jobright.ai/jobs/info/693907b37548dd746be58447?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 09 |
 | **[CWT](http://www.mycwt.com/)** | **[Intern DOD SkillBridge Program](https://jobright.ai/jobs/info/6905a56aff462851fefff1bf?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 09 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Sentara Health](http://www.sentara.com)** | **[Intern-Supply Chain - Hybrid Norfolk](https://jobright.ai/jobs/info/6938b93ea0dde7020e3153de?utm_campaign=1050&utm_source=git)** | Norfolk, VA | Hybrid | Dec 09 |
 | **[EAIGG: Ethical AI Governance Group](https://www.eaigg.org)** | **[Venture & Innovation Fellow](https://jobright.ai/jobs/info/6938c645b95c305f206dfb6c?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 09 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6938bc2da0dde7020e3155d4?utm_campaign=1050&utm_source=git)** | Tontitown, AR | On Site | Dec 09 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938b3b1a0dde7020e314f72?utm_campaign=1050&utm_source=git)** | West Salem, WI | On Site | Dec 09 |
-| ↳ | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938bc78aabec14a727da836?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 09 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938bc78aabec14a727da836?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 09 |
+| ↳ | **[Intern - Distribution & Logistics](https://jobright.ai/jobs/info/6938b3b1a0dde7020e314f72?utm_campaign=1050&utm_source=git)** | West Salem, WI | On Site | Dec 09 |
 | **[Oncor Electric Delivery](http://www.oncor.com/)** | **[Oncor DoD SkillBridge Internship / Corporate Strategy Intern (Woodall Rodgers - Downtown Dallas)](https://jobright.ai/jobs/info/69388edfa0dde7020e31208a?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69388cedaabec14a727d6e48?utm_campaign=1050&utm_source=git)** | Willow Street, PA | On Site | Dec 09 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Sourcing](https://jobright.ai/jobs/info/69388a78a0dde7020e311d01?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Dec 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Knowledge Management Program](https://jobright.ai/jobs/info/691baa46bcdbf3560c9e136d?utm_campaign=1050&utm_source=git)** | Columbia, MO | Hybrid | Dec 09 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6922d5f7c0cefa13343d98e9?utm_campaign=1050&utm_source=git)** | Canfield, OH | On Site | Dec 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Dalton](https://jobright.ai/jobs/info/69002d39e0c73b3a111a2f06?utm_campaign=1050&utm_source=git)** | Dalton, GA | On Site | Dec 09 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Supply Chain Management](https://jobright.ai/jobs/info/691cb613ff702449841699bb?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

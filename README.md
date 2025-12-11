@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 – Global Investments Operations](https://jobright.ai/jobs/info/693a6e82ac80bb5492bcf634?utm_campaign=1050&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 10 |
+| **[Equity Residential](http://equityapartments.com)** | **[Onsite Property Management Internship Summer 2026 - Park Place at San Mateo](https://jobright.ai/jobs/info/693a6b9356b68f3dc4e7c804?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Dec 10 |
+| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Procurement](https://jobright.ai/jobs/info/693a735e48a8ce22990e71ff?utm_campaign=1050&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 10 |
 | **[The L.E. Myers Co.](https://lemyers.com/)** | **[Operations & Project Support Intern - Electrical Utilities](https://jobright.ai/jobs/info/693a447f56b68f3dc4e79bfd?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 10 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Resident Management Intern](https://jobright.ai/jobs/info/693a4350ac80bb5492bcc4ce?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 10 |
-| ↳ | **[Resident Management Intern](https://jobright.ai/jobs/info/693a3c3256b68f3dc4e793f2?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 10 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Construction Project Management Intern, Data Center – Summer 2026](https://jobright.ai/jobs/info/693a3a8a56b68f3dc4e7916d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Dec 10 |
-| **[AMH](https://www.americanhomes4rent.com/)** | **[Resident Management Intern](https://jobright.ai/jobs/info/693a391048a8ce22990e341d?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Dec 10 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Construction Project Management Intern, Data Center – Summer 2026](https://jobright.ai/jobs/info/693a3fae56b68f3dc4e79909?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Dec 10 |
+| **[AMH](https://www.americanhomes4rent.com/)** | **[Resident Management Intern](https://jobright.ai/jobs/info/693a3c3256b68f3dc4e793f2?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 10 |
+| ↳ | **[Resident Management Intern](https://jobright.ai/jobs/info/693a391048a8ce22990e341d?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Dec 10 |
 | ↳ | **[Resident Management Intern](https://jobright.ai/jobs/info/693a389156b68f3dc4e78dfe?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 10 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/693a3829ac80bb5492bcbdf6?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Dec 10 |
 | **[AMH](https://www.americanhomes4rent.com/)** | **[Resident Management Intern](https://jobright.ai/jobs/info/693a37d056b68f3dc4e78ce5?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 10 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[Financial Security Intern – Project Management Office Analyst](https://jobright.ai/jobs/info/693a50d1ac80bb5492bcd434?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 10 |
 | **[MaxLite](http://maxlite.com)** | **[Intern, Management Associate (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/693a26ea48a8ce22990e211e?utm_campaign=1050&utm_source=git)** | Pinebrook,NJ,US | On Site | Dec 10 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Procurement](https://jobright.ai/jobs/info/693a503e48a8ce22990e5967?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 10 |
-| **[Arcadis](http://www.arcadis.com)** | **[LACCD Intern - Amy Chen](https://jobright.ai/jobs/info/693a263d48a8ce22990e208b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 10 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - DHA Contract Support](https://jobright.ai/jobs/info/6904ee5963502c0aded766b0?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Dec 10 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Business Administrative Intern - Office of the CETO](https://jobright.ai/jobs/info/693a2460ac80bb5492bca7cb?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Dec 10 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/693a497b48a8ce22990e470e?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Dec 10 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[DH Pace Company, Inc.](https://www.dhpace.com/)** | **[Summer Internship 2026! Full-time and paid!](https://jobright.ai/jobs/info/693a3c5348a8ce22990e39bc?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 10 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2025 Management Intern - DFW Airport](https://jobright.ai/jobs/info/693a425748a8ce22990e4048?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 10 |
 | **[King Law Offices](http://kinglawoffices.com)** | **[Lead Conversion Team Internship](https://jobright.ai/jobs/info/693a3b8656b68f3dc4e792e6?utm_campaign=1050&utm_source=git)** | Forest City, NC | Hybrid | Dec 10 |
+| **[Arcadis](http://www.arcadis.com)** | **[LACCD Intern - Amy Chen](https://jobright.ai/jobs/info/693a3d1756b68f3dc4e79524?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 10 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Capital District North (Saratoga Springs, NY and Clifton Park, NY)](https://jobright.ai/jobs/info/693a18be48a8ce22990e17b6?utm_campaign=1050&utm_source=git)** | Saratoga Springs | On Site | Dec 10 |
 | **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Logistics Sustainability Internship](https://jobright.ai/jobs/info/693a367b56b68f3dc4e789e6?utm_campaign=1050&utm_source=git)** | Bedford, NH | On Site | Dec 10 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693a3510ac80bb5492bcbc3d?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6901acaef8ce7a040fdc1e70?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Dec 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Strategic Initiatives Bachelor's Intern](https://jobright.ai/jobs/info/6939d1bc48a8ce22990dd2c3?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Dec 10 |
 | **[Munich Re](https://www.munichre.com)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/691d1f5fbcdbf3560c9ed690?utm_campaign=1050&utm_source=git)** | Cincinnati Metro | Hybrid | Dec 10 |
-| **[CDM Service Group, Inc.](http://www.cdminvestmentgroup.com)** | **[Intern](https://jobright.ai/jobs/info/693a1ac256b68f3dc4e77354?utm_campaign=1050&utm_source=git)** | Grandview, MO | On Site | Dec 10 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6901a70fd5259a1b3cff7003?utm_campaign=1050&utm_source=git)** | Cold Springs, NV | On Site | Dec 10 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Strategy and Business Development Operations Intern - McLean VA](https://jobright.ai/jobs/info/6939aca356b68f3dc4e70102?utm_campaign=1050&utm_source=git)** | United States-Virginia-McLean | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

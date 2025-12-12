@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Dec 12 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e725fdae2b894b1d721cc8?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Dec 12 |
+| **[2J Supply Company, Inc.](https://www.2jsupply.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6903c3fdff462851fefee7e8?utm_campaign=1050&utm_source=git)** | Dayton, OH | On Site | Dec 12 |
+| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Technical Program Manager Intern](https://jobright.ai/jobs/info/691feb2da49a885af9a35659?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Dec 12 |
+| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Assistant Construction Project Management Intern](https://jobright.ai/jobs/info/68f22fe7af0b5a06b584b2b9?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 12 |
+| **[Precision Castparts](http://precast.com)** | **[Supply Chain Intern (Co-Op)](https://jobright.ai/jobs/info/691fb3c13f782d2f1afbf6b2?utm_campaign=1050&utm_source=git)** | Paramount, CA | On Site | Dec 12 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Planning and Insights Intern](https://jobright.ai/jobs/info/691f40ed3f782d2f1afb990b?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Dec 12 |
+| **[Major League Soccer](http://www.mlssoccer.com)** | **[Manager, Creative Project Manager (Temporary Role)](https://jobright.ai/jobs/info/691fa44d3f782d2f1afbee59?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68e74af9ae2b894b1d7233df?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Forestry Resource and Valuation Solutions Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/691f811809cc522e87742332?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Dec 12 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Assistant Vice President Internship - Strategy and Transformation](https://jobright.ai/jobs/info/693bfef749a7695fbd02ded2?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 12 |
@@ -64,9 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/691f5f1709cc522e8774038c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | ↳ | **[Category Manager Project Intern (TikTok Shop - Operations) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/691f673c09cc522e87740ac0?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
 | ↳ | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/691fb79d3f782d2f1afbf8f2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Assistant Construction Project Management Intern](https://jobright.ai/jobs/info/68f22fe7af0b5a06b584b2b9?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Central Live Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/691f77b2a49a885af9a30575?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
-| ↳ | **[Category Manager Project Intern (TikTok Shop - Fashion) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/691f768da49a885af9a30429?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
+| ↳ | **[Special Project Central Live Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/691f77b2a49a885af9a30575?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Dec 12 |
 | ↳ | **[Campus Intern - Colorado](https://jobright.ai/jobs/info/68cca1c2128dc347fd927805?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Dec 12 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Centralized Credit Services](https://jobright.ai/jobs/info/6918507845fb6f5ead8a482b?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Dec 12 |
@@ -104,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b8f97b309e3780087392c?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Dec 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/693bb6c750bbaf76504f1c3e?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Dec 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/693bc09750bbaf76504f225d?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Dec 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b936f5f2c001987ed8710?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Dec 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b92a75f2c001987ed8571?utm_campaign=1050&utm_source=git)** | Poplar Bluff, MO | On Site | Dec 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b936f5f2c001987ed8710?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Dec 11 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b996d5f2c001987ed91cd?utm_campaign=1050&utm_source=git)** | Warrensville Heights, OH | On Site | Dec 11 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Program Management & Strategic Initiatives Intern, NYC](https://jobright.ai/jobs/info/693b94cc5f2c001987ed89b3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[Equity Residential](http://equityapartments.com)** | **[Onsite Property Management Internship Summer 2026 - Vista 99/Mill Creek](https://jobright.ai/jobs/info/693b6bf35f2c001987ed6ca7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693b40e45f2c001987ed3d01?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b1cddb309e3780086d8a0?utm_campaign=1050&utm_source=git)** | Florida | On Site | Dec 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693b3b8cd4054a2bc02527ca?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 11 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Executive Assistant Intern](https://jobright.ai/jobs/info/693b4858b309e3780086fc56?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Dec 11 |
-| **[MaxLite](http://maxlite.com)** | **[Intern, Supply Chain (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/693b1b7a5f2c001987ed1c4c?utm_campaign=1050&utm_source=git)** | Pinebrook,NJ,US | On Site | Dec 11 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b3da5b309e3780086f473?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b4a16d4054a2bc02536b5?utm_campaign=1050&utm_source=git)** | Florida, United States | Remote | Dec 11 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b1a485f2c001987ed1b8c?utm_campaign=1050&utm_source=git)** | Texas | On Site | Dec 11 |
-| ↳ | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b19965f2c001987ed1afc?utm_campaign=1050&utm_source=git)** | Possible | On Site | Dec 11 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - FACTS Operations](https://jobright.ai/jobs/info/693b17f1b309e3780086d334?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - FACTS Operations](https://jobright.ai/jobs/info/693b3badb309e3780086f32c?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,13 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Technology Project Manager Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693b93e0b309e37800874250?utm_campaign=1050&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Dec 11 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Acquisition Management Specialist Intern (Transitioning Military)](https://jobright.ai/jobs/info/693b8fe7b309e378008739c2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 11 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/693b8aa1b309e378008735fc?utm_campaign=1050&utm_source=git)** | Monona, WI | On Site | Dec 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b8867b309e37800873448?utm_campaign=1050&utm_source=git)** | Hutchinson, MN | On Site | Dec 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b86e1b309e3780087332b?utm_campaign=1050&utm_source=git)** | Hanover Park, IL | On Site | Dec 11 |
+| **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Procurement (Ottawa)](https://jobright.ai/jobs/info/693ba2ce49a7695fbd0296d5?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Dec 11 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693b76805f2c001987ed6f5e?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Dec 11 |
 | **[MaxLite](http://maxlite.com)** | **[Intern, Supply Chain (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/693b8ea3b309e378008737fa?utm_campaign=1050&utm_source=git)** | Pine Brook, NJ | On Site | Dec 11 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/693b8f97b309e3780087392c?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Dec 11 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/693b98b5b309e37800874ab6?utm_campaign=1050&utm_source=git)** | Omaha Metropolitan Area | On Site | Dec 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b97d85f2c001987ed8fc5?utm_campaign=1050&utm_source=git)** | Moorhead, MN | On Site | Dec 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b8f97b309e3780087392c?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Dec 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b965ab309e378008746c8?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Dec 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b9444b309e37800874315?utm_campaign=1050&utm_source=git)** | Westover, WV | On Site | Dec 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b936f5f2c001987ed8710?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Dec 11 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693b92a75f2c001987ed8571?utm_campaign=1050&utm_source=git)** | Poplar Bluff, MO | On Site | Dec 11 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b996d5f2c001987ed91cd?utm_campaign=1050&utm_source=git)** | Warrensville Heights, OH | On Site | Dec 11 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Program Management & Strategic Initiatives Intern, NYC](https://jobright.ai/jobs/info/693b94cc5f2c001987ed89b3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[Equity Residential](http://equityapartments.com)** | **[Onsite Property Management Internship Summer 2026 - Vista 99/Mill Creek](https://jobright.ai/jobs/info/693b6bf35f2c001987ed6ca7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 11 |
 | ↳ | **[Onsite Property Management Internship Summer 2026 - Vista del Lago](https://jobright.ai/jobs/info/693b6ba45f2c001987ed6c83?utm_campaign=1050&utm_source=git)** | San Juan Capistrano, CA | On Site | Dec 11 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Acquisition Management Specialist Intern (Transitioning Military)](https://jobright.ai/jobs/info/693b80535f2c001987ed72fa?utm_campaign=1050&utm_source=git)** | US-TX-Dallas | On Site | Dec 11 |
@@ -107,19 +117,19 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693b40e45f2c001987ed3d01?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b1cddb309e3780086d8a0?utm_campaign=1050&utm_source=git)** | Florida | On Site | Dec 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693b3b8cd4054a2bc02527ca?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 11 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - FACTS Operations](https://jobright.ai/jobs/info/693b3badb309e3780086f32c?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Executive Assistant Intern](https://jobright.ai/jobs/info/693b4858b309e3780086fc56?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Dec 11 |
 | **[MaxLite](http://maxlite.com)** | **[Intern, Supply Chain (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/693b1b7a5f2c001987ed1c4c?utm_campaign=1050&utm_source=git)** | Pinebrook,NJ,US | On Site | Dec 11 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b3da5b309e3780086f473?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b4a16d4054a2bc02536b5?utm_campaign=1050&utm_source=git)** | Florida, United States | Remote | Dec 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b1a485f2c001987ed1b8c?utm_campaign=1050&utm_source=git)** | Texas | On Site | Dec 11 |
 | ↳ | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b19965f2c001987ed1afc?utm_campaign=1050&utm_source=git)** | Possible | On Site | Dec 11 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - FACTS Operations](https://jobright.ai/jobs/info/693b17f1b309e3780086d334?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 U.S. Women's Open Short-Term Championship Administration Intern](https://jobright.ai/jobs/info/693b1755b309e3780086d2f8?utm_campaign=1050&utm_source=git)** | Pacific Palisades, Los Angeles, CA, USA | On Site | Dec 11 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Program Management Intern (Carlsbad, CA)](https://jobright.ai/jobs/info/693b16d9d4054a2bc02509f9?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Dec 11 |
-| **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b43635f2c001987ed3f03?utm_campaign=1050&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Dec 11 |
-| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b342bb309e3780086edd1?utm_campaign=1050&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Dec 11 |
+| **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b3d715f2c001987ed3a12?utm_campaign=1050&utm_source=git)** | Chattanooga, Tennessee, USA | Hybrid | Dec 11 |
 | ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b3712d4054a2bc025246f?utm_campaign=1050&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 11 |
-| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b3d715f2c001987ed3a12?utm_campaign=1050&utm_source=git)** | Chattanooga, Tennessee, USA | Hybrid | Dec 11 |
+| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b342bb309e3780086edd1?utm_campaign=1050&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Dec 11 |
+| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b43635f2c001987ed3f03?utm_campaign=1050&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Dec 11 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b11065f2c001987ed1052?utm_campaign=1050&utm_source=git)** | Arlington Heights | On Site | Dec 11 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b10235f2c001987ed0d0f?utm_campaign=1050&utm_source=git)** | Madison | On Site | Dec 11 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b0fb6b309e3780086c725?utm_campaign=1050&utm_source=git)** | West Milwaukee | On Site | Dec 11 |
@@ -139,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6933c105764507023d1b90b1?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Dec 11 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6933d120764507023d1b9d39?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Dec 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b28a3d4054a2bc0251708?utm_campaign=1050&utm_source=git)** | Florida | On Site | Dec 11 |
-| ↳ | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b2e51d4054a2bc0251dab?utm_campaign=1050&utm_source=git)** | Possible | On Site | Dec 11 |
+| ↳ | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b2a72b309e3780086e408?utm_campaign=1050&utm_source=git)** | Possible | On Site | Dec 11 |
 | ↳ | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b2d9b5f2c001987ed2e20?utm_campaign=1050&utm_source=git)** | Texas | On Site | Dec 11 |
 | **[Technip Energies](https://www.ten.com/)** | **[Facilities Intern](https://jobright.ai/jobs/info/693b31335f2c001987ed31bf?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 11 |
 | ↳ | **[Facilities Intern](https://jobright.ai/jobs/info/693b00805f2c001987ecf531?utm_campaign=1050&utm_source=git)** | West Memorial Place 2 9th -14th floor, 15377 Memorial Drive, Houston, Texas 77079, Houston, Texas, 77079, US | On Site | Dec 11 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cleveland-Cliffs](http://www.clevelandcliffs.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68cc25307342c7623ae5fcb7?utm_campaign=1050&utm_source=git)** | West Chester, OH | On Site | Dec 11 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Strategic Sales Project Management Intern](https://jobright.ai/jobs/info/6902cc6f00a1816c41ea17cd?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Dec 11 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Program Management Intern (Lynchburg, VA)](https://jobright.ai/jobs/info/691e0d3709cc522e877355ec?utm_campaign=1050&utm_source=git)** | Lynchburg, VA | On Site | Dec 11 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/6901c8ad4539ea1f21422f1e?utm_campaign=1050&utm_source=git)** | Cerritos, CA | On Site | Dec 11 |
-| **[YES Network](http://web.yesnetwork.com)** | **[Strategy and Operations Intern – YES Network (NYC)](https://jobright.ai/jobs/info/693b14afd4054a2bc02508ef?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 11 |
-| **[McCain Foods](https://www.mccain.com/)** | **[Production Management Internship](https://jobright.ai/jobs/info/691e34623f782d2f1afb257d?utm_campaign=1050&utm_source=git)** | Othello, WA | Hybrid | Dec 11 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693af32f5f2c001987eceed9?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 11 |
-| **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Property Operations Intern](https://jobright.ai/jobs/info/693b105ed4054a2bc024fd4f?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 11 |
-| ↳ | **[Property Operations Intern](https://jobright.ai/jobs/info/693b12e5d4054a2bc025035b?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 11 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/690255ba00a1816c41e9d063?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 11 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship – Summer 2026](https://jobright.ai/jobs/info/68e1e6a1b99ec3563b0d8b88?utm_campaign=1050&utm_source=git)** | Cumberland, RI | On Site | Dec 11 |
-| **[Chargerzilla](https://www.chargerzilla.com)** | **[Project Manager - Marketing (Intern)](https://jobright.ai/jobs/info/693b0db35f2c001987ed04b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 11 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6933ac99764507023d1b81a3?utm_campaign=1050&utm_source=git)** | Silver Spring, MD | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

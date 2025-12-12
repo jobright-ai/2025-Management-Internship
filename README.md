@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693be0674911ef04095f1827?utm_campaign=1050&utm_source=git)** | Arlington Heights, IL | On Site | Dec 12 |
+| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693bde5a49a7695fbd02cf10?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Dec 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Technology Project Manager Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693b93e0b309e37800874250?utm_campaign=1050&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Dec 11 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Acquisition Management Specialist Intern (Transitioning Military)](https://jobright.ai/jobs/info/693b8fe7b309e378008739c2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 11 |
 | **[Siemens](https://www.siemens.com)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/693bbf6950bbaf76504f21ae?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 11 |
@@ -120,22 +122,21 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b4cd45f2c001987ed4cee?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Dec 11 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b42cdb309e3780086f891?utm_campaign=1050&utm_source=git)** | Aurora, OH | On Site | Dec 11 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b3c3eb309e3780086f39f?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 11 |
-| ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b44e9b309e3780086fa0d?utm_campaign=1050&utm_source=git)** | West Milwaukee, WI | On Site | Dec 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693b40e45f2c001987ed3d01?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b1cddb309e3780086d8a0?utm_campaign=1050&utm_source=git)** | Florida | On Site | Dec 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693b3b8cd4054a2bc02527ca?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 11 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - FACTS Operations](https://jobright.ai/jobs/info/693b3badb309e3780086f32c?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship- Executive Assistant Intern](https://jobright.ai/jobs/info/693b4858b309e3780086fc56?utm_campaign=1050&utm_source=git)** | Orlando, FL | Remote | Dec 11 |
 | **[MaxLite](http://maxlite.com)** | **[Intern, Supply Chain (On-Site, Pine Brook, New Jersey)](https://jobright.ai/jobs/info/693b1b7a5f2c001987ed1c4c?utm_campaign=1050&utm_source=git)** | Pinebrook,NJ,US | On Site | Dec 11 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b3da5b309e3780086f473?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 11 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b4a16d4054a2bc02536b5?utm_campaign=1050&utm_source=git)** | Florida, United States | Remote | Dec 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b1a485f2c001987ed1b8c?utm_campaign=1050&utm_source=git)** | Texas | On Site | Dec 11 |
 | ↳ | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b19965f2c001987ed1afc?utm_campaign=1050&utm_source=git)** | Possible | On Site | Dec 11 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - FACTS Operations](https://jobright.ai/jobs/info/693b17f1b309e3780086d334?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 11 |
 | **[United States Golf Association (USGA)](http://www.usga.org)** | **[2026 U.S. Women's Open Short-Term Championship Administration Intern](https://jobright.ai/jobs/info/693b1755b309e3780086d2f8?utm_campaign=1050&utm_source=git)** | Pacific Palisades, Los Angeles, CA, USA | On Site | Dec 11 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Program Management Intern (Carlsbad, CA)](https://jobright.ai/jobs/info/693b16d9d4054a2bc02509f9?utm_campaign=1050&utm_source=git)** | Carlsbad, CA | On Site | Dec 11 |
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b3712d4054a2bc025246f?utm_campaign=1050&utm_source=git)** | Portland, Maine, USA | Hybrid | Dec 11 |
-| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b342bb309e3780086edd1?utm_campaign=1050&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Dec 11 |
 | ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b3d715f2c001987ed3a12?utm_campaign=1050&utm_source=git)** | Chattanooga, Tennessee, USA | Hybrid | Dec 11 |
+| ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b342bb309e3780086edd1?utm_campaign=1050&utm_source=git)** | Columbia, South Carolina, USA | Hybrid | Dec 11 |
 | ↳ | **[Business Intern (Summer 2026)](https://jobright.ai/jobs/info/693b43635f2c001987ed3f03?utm_campaign=1050&utm_source=git)** | Baton Rouge, Louisiana, USA | Hybrid | Dec 11 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b11065f2c001987ed1052?utm_campaign=1050&utm_source=git)** | Arlington Heights | On Site | Dec 11 |
 | ↳ | **[Operations Management Leadership Program - Internship](https://jobright.ai/jobs/info/693b10235f2c001987ed0d0f?utm_campaign=1050&utm_source=git)** | Madison | On Site | Dec 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6933c105764507023d1b90b1?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Dec 11 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6933d120764507023d1b9d39?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Dec 11 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b28a3d4054a2bc0251708?utm_campaign=1050&utm_source=git)** | Florida | On Site | Dec 11 |
-| ↳ | **[Production Operations Planning - Intern](https://jobright.ai/jobs/info/693b2e51d4054a2bc0251dab?utm_campaign=1050&utm_source=git)** | Possible | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

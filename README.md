@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[ADMINISTRATIVE ASSISTANT-EXE *Open to internal County employees only *](https://jobright.ai/jobs/info/693d353749a7695fbd03e864?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Dec 13 |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Office Assistant](https://jobright.ai/jobs/info/693d20c4aa598a08c3eddd66?utm_campaign=1050&utm_source=git)** | Meriden, CT | On Site | Dec 13 |
+| **[CommScope](http://www.commscope.com)** | **[Global Planning Intern](https://jobright.ai/jobs/info/693d1ceaaa598a08c3eddaee?utm_campaign=1050&utm_source=git)** | Catawba, NC | On Site | Dec 12 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Office Support Specialist - Office of Student Affairs](https://jobright.ai/jobs/info/693d0741aa598a08c3edd228?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Building Operations Coordinator](https://jobright.ai/jobs/info/6938f2d3aabec14a727de488?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Business Operations Intern - Summer 2026](https://jobright.ai/jobs/info/693ce846aa598a08c3edab0d?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Leepfrog Technologies](https://www.leepfrog.com/)** | **[Software Project Management Intern](https://jobright.ai/jobs/info/693cc29749a7695fbd038034?utm_campaign=1050&utm_source=git)** | Coralville,IA,US | On Site | Dec 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc26449a7695fbd038014?utm_campaign=1050&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 12 |
 | **[Definity](https://definityfirst.com/)** | **[Practicante de Desarrollo Organizacional / Culture Intern](https://jobright.ai/jobs/info/693cc11eaa598a08c3ed9599?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 12 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/693ce81649a7695fbd03940e?utm_campaign=1050&utm_source=git)** | Washington, IL | On Site | Dec 12 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693ce615aa598a08c3edaa16?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Dec 12 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/693ce615aa598a08c3edaa16?utm_campaign=1050&utm_source=git)** | Escanaba, MI | On Site | Dec 12 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/693ce81649a7695fbd03940e?utm_campaign=1050&utm_source=git)** | Washington, IL | On Site | Dec 12 |
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/693cc045aa598a08c3ed950c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[Primetals Technologies](https://primetals.com)** | **[Global Sourcing Associate Internship](https://jobright.ai/jobs/info/693ceb0a50bbaf7650500d37?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 12 |
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cbffe50bbaf76504ff6d6?utm_campaign=1050&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 12 |
@@ -112,14 +115,12 @@ For a complete list, click the following sortable link below:
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Observatory Operations Intern](https://jobright.ai/jobs/info/693ca2c649a7695fbd037034?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Administrative assistant](https://jobright.ai/jobs/info/693ca14d49a7695fbd036f3c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Business Operations Intern - Summer 2026](https://jobright.ai/jobs/info/693ca111aa598a08c3ed860a?utm_campaign=1050&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 12 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/693c99d050bbaf76504fe309?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c97d949a7695fbd0367e4?utm_campaign=1050&utm_source=git)** | Novi | On Site | Dec 12 |
-| ↳ | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c95c649a7695fbd035ca7?utm_campaign=1050&utm_source=git)** | Brownstown | On Site | Dec 12 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/693c96a150bbaf76504fd94b?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 12 |
+| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c95c649a7695fbd035ca7?utm_campaign=1050&utm_source=git)** | Brownstown | On Site | Dec 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Supply Chain Planning](https://jobright.ai/jobs/info/693c952caa598a08c3ed717e?utm_campaign=1050&utm_source=git)** | Herndon Area, VA | On Site | Dec 12 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/693c946849a7695fbd0354a2?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c92d850bbaf76504fc792?utm_campaign=1050&utm_source=git)** | Novi | On Site | Dec 12 |
-| **[Nightwing](nightwing.com)** | **[Logistics Intern - 2026](https://jobright.ai/jobs/info/693c92ae50bbaf76504fc71b?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Dec 12 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c921faa598a08c3ed6445?utm_campaign=1050&utm_source=git)** | Brownstown | On Site | Dec 12 |
+| ↳ | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c921faa598a08c3ed6445?utm_campaign=1050&utm_source=git)** | Brownstown | On Site | Dec 12 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Strategy and Business Operations](https://jobright.ai/jobs/info/693c8ed7aa598a08c3ed6208?utm_campaign=1050&utm_source=git)** | Miami, FL, United States | Hybrid | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Material Planning Intern](https://jobright.ai/jobs/info/693c8e43aa598a08c3ed617a?utm_campaign=1050&utm_source=git)** | Brownstown | On Site | Dec 12 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/693c8dc349a7695fbd0349d9?utm_campaign=1050&utm_source=git)** | San Diego, CA, United States | On Site | Dec 12 |
@@ -133,9 +134,10 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Production Planning Intern](https://jobright.ai/jobs/info/693c85bc50bbaf76504fbddd?utm_campaign=1050&utm_source=git)** | Minnetonka, MN | On Site | Dec 12 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Strategy and Communications Intern](https://jobright.ai/jobs/info/693c846e50bbaf76504fbcfe?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 12 |
 | **[Rambus](http://www.rambus.com/us)** | **[Intern, Strategic Programs](https://jobright.ai/jobs/info/693c817550bbaf76504fba30?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
+| **[Nightwing](nightwing.com)** | **[Logistics Intern - 2026](https://jobright.ai/jobs/info/693c9da449a7695fbd036c74?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Dec 12 |
+| **[Veolia](http://www.veolia.com/en/)** | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/693ca110aa598a08c3ed8609?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 12 |
 | **[goodr](https://goodr.com)** | **[Third Party Operations Intern](https://jobright.ai/jobs/info/693767cfa0dde7020e30278d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 12 |
 | **[DiscoverU Health](http://www.discoveruhealth.net)** | **[Healthcare Admin Intern](https://jobright.ai/jobs/info/693c9bfc50bbaf76504fe49e?utm_campaign=1050&utm_source=git)** | Laurel, MD | Hybrid | Dec 12 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/693cb015aa598a08c3ed8e6f?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 12 |
 | **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/693c98c649a7695fbd036a99?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Dec 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/693ca569aa598a08c3ed88dd?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Dec 12 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[CEO Office Intern](https://jobright.ai/jobs/info/693c96d950bbaf76504fdab7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior EcoSystem Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/691fe7063f782d2f1afc14e3?utm_campaign=1050&utm_source=git)** | Allen, TX | Hybrid | Dec 12 |
 | **[Seabrook Island Club](https://www.seabrookisland.com)** | **[Hospitality Intern - Food and Beverage Department](https://jobright.ai/jobs/info/693c881e50bbaf76504fbf8e?utm_campaign=1050&utm_source=git)** | Johns Island, SC | On Site | Dec 12 |
 | **[Tech World Networking](techworldnetworking.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/693c5a1caa598a08c3ed43b9?utm_campaign=1050&utm_source=git)** | Racine, WI | On Site | Dec 12 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Dec 12 |
-| **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern - Business Strategy](https://jobright.ai/jobs/info/6922b4897795cd460c836bbe?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

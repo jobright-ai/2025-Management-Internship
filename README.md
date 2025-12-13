@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Observatory Operations Intern](https://jobright.ai/jobs/info/693ca2c649a7695fbd037034?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Administrative assistant](https://jobright.ai/jobs/info/693ca14d49a7695fbd036f3c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Business Operations Intern - Summer 2026](https://jobright.ai/jobs/info/693ca111aa598a08c3ed860a?utm_campaign=1050&utm_source=git)** | US, CA, Santa Clara | On Site | Dec 12 |
+| **[Veolia](http://www.veolia.com/en/)** | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/693c99d050bbaf76504fe309?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c97d949a7695fbd0367e4?utm_campaign=1050&utm_source=git)** | Novi | On Site | Dec 12 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/693c96a150bbaf76504fd94b?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693c95c649a7695fbd035ca7?utm_campaign=1050&utm_source=git)** | Brownstown | On Site | Dec 12 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Production Planning Intern](https://jobright.ai/jobs/info/693c85bc50bbaf76504fbddd?utm_campaign=1050&utm_source=git)** | Minnetonka, MN | On Site | Dec 12 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Strategy and Communications Intern](https://jobright.ai/jobs/info/693c846e50bbaf76504fbcfe?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 12 |
 | **[Rambus](http://www.rambus.com/us)** | **[Intern, Strategic Programs](https://jobright.ai/jobs/info/693c817550bbaf76504fba30?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 12 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Asset Management Summer Intern](https://jobright.ai/jobs/info/693ca110aa598a08c3ed8609?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 12 |
 | **[goodr](https://goodr.com)** | **[Third Party Operations Intern](https://jobright.ai/jobs/info/693767cfa0dde7020e30278d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 12 |
 | **[DiscoverU Health](http://www.discoveruhealth.net)** | **[Healthcare Admin Intern](https://jobright.ai/jobs/info/693c9bfc50bbaf76504fe49e?utm_campaign=1050&utm_source=git)** | Laurel, MD | Hybrid | Dec 12 |
 | **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/693c98c649a7695fbd036a99?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Dec 12 |

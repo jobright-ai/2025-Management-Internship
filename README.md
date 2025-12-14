@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693de098aa598a08c3ee6423?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693de1b7aa598a08c3ee6488?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
+| ↳ | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693de098aa598a08c3ee6423?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Strategy and Business Operations](https://jobright.ai/jobs/info/693ddbfbaa598a08c3ee638e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
 | **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[Management Internship](https://jobright.ai/jobs/info/693dd5fb50bbaf765050c3ef?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 13 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[PGM 3 Month Internship](https://jobright.ai/jobs/info/693dc8cd49a7695fbd043176?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | Hybrid | Dec 13 |
-| **[Agropur](http://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/692777abf0beb0723262a81b?utm_campaign=1050&utm_source=git)** | Little Chute, WI | On Site | Dec 13 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68bee08d702aa35207aa13cb?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
 | **[CryptoSnake](https://www.youtube.com/@CryptoSnake)** | **[Internship — Executive Assistant to CEO](https://jobright.ai/jobs/info/693db4a150bbaf765050a77b?utm_campaign=1050&utm_source=git)** | Odessa, FL | On Site | Dec 13 |
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/693d9a5b50bbaf7650508b8a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
@@ -123,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Smartsheet Solutions](https://jobright.ai/jobs/info/6920cabea49a885af9a3f382?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Dec 13 |
 | **[PIM Brands](https://pimbrands.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6903d89863502c0aded6d4b9?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 13 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Distribution Operations Intern - Benson, NC](https://jobright.ai/jobs/info/68e81fa3c4895107182c273a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
-| **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/693d5b3e50bbaf765050682e?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Dec 13 |
 | **[CAPTRUST](https://www.captrust.com)** | **[Family Office Intern](https://jobright.ai/jobs/info/6920c92c00c9ee50eaec7fb0?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[Whirlpool Corporation](http://www.whirlpoolcorp.com/)** | **[The Global Leader Program MBA Internship (General Management) - Summer 2026](https://jobright.ai/jobs/info/68cf94c2846f0b04af6831fd?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Dec 13 |
 | **[The NRP Group LLC](http://nrpgroup.com)** | **[Property Management Internship / Summer 2026](https://jobright.ai/jobs/info/6923dc0238cd5478a8d57b19?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693ce00349a7695fbd039053?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Dec 12 |
 | ↳ | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693cdfd7aa598a08c3eda773?utm_campaign=1050&utm_source=git)** | Brownstown, AL | On Site | Dec 12 |
 | **[Piper Companies](http://www.pipercompanies.com)** | **[Supply Chain Planner](https://jobright.ai/jobs/info/693cd974aa598a08c3eda234?utm_campaign=1050&utm_source=git)** | Audubon, PA | On Site | Dec 12 |
+| **[Juniper Communities](https://junipercommunities.com/)** | **[Executive Director Internship](https://jobright.ai/jobs/info/693cd6d149a7695fbd038a03?utm_campaign=1050&utm_source=git)** | Hamilton Township, NJ | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

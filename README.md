@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dignity Health](https://www.dignityhealth.org)** | **[Administrative Intern Temporary](https://jobright.ai/jobs/info/693e139daa598a08c3ee81d6?utm_campaign=1050&utm_source=git)** | San Andreas, CA | On Site | Dec 13 |
+| **[JamJuice Inc](https://jamjuice.com/)** | **[Operations Intern (Unpaid, Part-Time, Hybrid)](https://jobright.ai/jobs/info/693e126f49a7695fbd046a15?utm_campaign=1050&utm_source=git)** | Nashville Metro | Hybrid | Dec 13 |
+| **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693de1b7aa598a08c3ee6488?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | ↳ | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693de098aa598a08c3ee6423?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Strategy and Business Operations](https://jobright.ai/jobs/info/693ddbfbaa598a08c3ee638e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
-| **[City of Durham](https://www.durhamnc.gov/3774/City-Jobs-Careers)** | **[Management Internship](https://jobright.ai/jobs/info/693dd5fb50bbaf765050c3ef?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 13 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[PGM 3 Month Internship](https://jobright.ai/jobs/info/693dc8cd49a7695fbd043176?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | Hybrid | Dec 13 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68bee08d702aa35207aa13cb?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
 | **[CryptoSnake](https://www.youtube.com/@CryptoSnake)** | **[Internship — Executive Assistant to CEO](https://jobright.ai/jobs/info/693db4a150bbaf765050a77b?utm_campaign=1050&utm_source=git)** | Odessa, FL | On Site | Dec 13 |
@@ -140,13 +142,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Internship](https://jobright.ai/jobs/info/6920c0dc3f782d2f1afcb097?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Dec 13 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[Technology Project Manager Intern - Summer 2026 (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/693d6e6549a7695fbd040b57?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 13 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aef7927bcb7608b3d2a41b?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Dec 13 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/693d3cde50bbaf7650506191?utm_campaign=1050&utm_source=git)** | Fair Lawn, NJ | On Site | Dec 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/693d3ae2aa598a08c3ee0056?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Dec 13 |
 | **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[ADMINISTRATIVE ASSISTANT-EXE *Open to internal County employees only *](https://jobright.ai/jobs/info/693d353749a7695fbd03e864?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Dec 13 |
 | **[Nightwing](nightwing.com)** | **[Supply Chain Intern - 2026](https://jobright.ai/jobs/info/693d43f749a7695fbd03ece5?utm_campaign=1050&utm_source=git)** | Sterling, VA | On Site | Dec 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Office Assistant](https://jobright.ai/jobs/info/693d20c4aa598a08c3eddd66?utm_campaign=1050&utm_source=git)** | Meriden, CT | On Site | Dec 13 |
 | **[CommScope](http://www.commscope.com)** | **[Global Planning Intern](https://jobright.ai/jobs/info/693d1ceaaa598a08c3eddaee?utm_campaign=1050&utm_source=git)** | Catawba, NC | On Site | Dec 12 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Office Support Specialist - Office of Student Affairs](https://jobright.ai/jobs/info/693d0741aa598a08c3edd228?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Building Operations Coordinator](https://jobright.ai/jobs/info/6938f2d3aabec14a727de488?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Business Operations Intern - Summer 2026](https://jobright.ai/jobs/info/693ce6fe49a7695fbd03938a?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Material Planning Intern](https://jobright.ai/jobs/info/693ce6ecaa598a08c3edaa74?utm_campaign=1050&utm_source=git)** | Brownstown, AL | On Site | Dec 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693cdfd7aa598a08c3eda773?utm_campaign=1050&utm_source=git)** | Brownstown, AL | On Site | Dec 12 |
 | **[Piper Companies](http://www.pipercompanies.com)** | **[Supply Chain Planner](https://jobright.ai/jobs/info/693cd974aa598a08c3eda234?utm_campaign=1050&utm_source=git)** | Audubon, PA | On Site | Dec 12 |
 | **[Juniper Communities](https://junipercommunities.com/)** | **[Executive Director Internship](https://jobright.ai/jobs/info/693cd6d149a7695fbd038a03?utm_campaign=1050&utm_source=git)** | Hamilton Township, NJ | On Site | Dec 12 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Onsite](https://jobright.ai/jobs/info/691698bb286ccf0a15137c01?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

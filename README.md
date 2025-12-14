@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VertoTech](vertotech.us)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693f115aaa598a08c3ef1360?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 14 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Platform Strategy Intern](https://jobright.ai/jobs/info/69220375d1ec2c3565c466f8?utm_campaign=1050&utm_source=git)** | Redwood City, CA | Hybrid | Dec 14 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cdc26d1ad6b16f0289eafb?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Dec 14 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68acf9f1d627244576e4a444?utm_campaign=1050&utm_source=git)** | Guion, AR | On Site | Dec 14 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Management Intern (Remote)](https://jobright.ai/jobs/info/693e7dfaaa598a08c3eed184?utm_campaign=1050&utm_source=git)** | Memphis, TN | Remote | Dec 14 |
 | ↳ | **[Project Management Intern (Remote)](https://jobright.ai/jobs/info/693e7ba349a7695fbd04b845?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | Remote | Dec 14 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 13 |
-| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Office Support Specialist - Office of Student Affairs](https://jobright.ai/jobs/info/693e4d28aa598a08c3eeaa57?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Administrative Intern Temporary](https://jobright.ai/jobs/info/693e2edf49a7695fbd0471af?utm_campaign=1050&utm_source=git)** | San Andreas, CA | On Site | Dec 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Future Workplace Strategist Intern](https://jobright.ai/jobs/info/6924c71bc0cefa13343e1c8c?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 13 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Administrative Intern Temporary](https://jobright.ai/jobs/info/693e139daa598a08c3ee81d6?utm_campaign=1050&utm_source=git)** | San Andreas, CA | On Site | Dec 13 |

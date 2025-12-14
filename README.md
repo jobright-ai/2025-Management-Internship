@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Office Support Specialist - Office of Student Affairs](https://jobright.ai/jobs/info/693e4d28aa598a08c3eeaa57?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Administrative Intern Temporary](https://jobright.ai/jobs/info/693e2edf49a7695fbd0471af?utm_campaign=1050&utm_source=git)** | San Andreas, CA | On Site | Dec 13 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Logistics (Spring '26)](https://jobright.ai/jobs/info/693e2dffaa598a08c3ee897b?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
 | **[Zscaler](https://www.zscaler.com)** | **[Future Workplace Strategist Intern](https://jobright.ai/jobs/info/6924c71bc0cefa13343e1c8c?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 13 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693de1b7aa598a08c3ee6488?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | ↳ | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693de098aa598a08c3ee6423?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Strategy and Business Operations](https://jobright.ai/jobs/info/693ddbfbaa598a08c3ee638e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
+| **[Agropur](http://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/693e414b50bbaf76505108ca?utm_campaign=1050&utm_source=git)** | Little Chute, WI | On Site | Dec 13 |
 | **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[PGM 3 Month Internship](https://jobright.ai/jobs/info/693dc8cd49a7695fbd043176?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | Hybrid | Dec 13 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68bee08d702aa35207aa13cb?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
 | **[CryptoSnake](https://www.youtube.com/@CryptoSnake)** | **[Internship — Executive Assistant to CEO](https://jobright.ai/jobs/info/693db4a150bbaf765050a77b?utm_campaign=1050&utm_source=git)** | Odessa, FL | On Site | Dec 13 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68e7f645c4895107182c024e?utm_campaign=1050&utm_source=git)** | Patrick AFB, FL | On Site | Dec 13 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/6903e66863502c0aded6e2d8?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Dec 13 |
 | **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Corporate Retail Operations Intern– Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/6920c3bc3f782d2f1afcb375?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693d88a3aa598a08c3ee261c?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/68e7fe65cc49a84b7e100591?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693d87ca50bbaf765050879c?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69051c9fff462851feffa931?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Dec 13 |
 | **[National Life Group](https://www.nationallife.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69211e2900c9ee50eaecbd27?utm_campaign=1050&utm_source=git)** | Addison, TX | On Site | Dec 13 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/692120393f782d2f1afcf6b1?utm_campaign=1050&utm_source=git)** | Montpelier, VT | On Site | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Glanbia Nutritionals](http://www.glanbianutritionals.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/693ce526aa598a08c3eda9ba?utm_campaign=1050&utm_source=git)** | Sharonville, OH | On Site | Dec 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Project Management](https://jobright.ai/jobs/info/693ce43b50bbaf7650500a94?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Material Planning Intern](https://jobright.ai/jobs/info/693ce3c949a7695fbd039216?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Dec 12 |
-| ↳ | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693ce00349a7695fbd039053?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Dec 12 |
-| ↳ | **[Parts Order Management Intern](https://jobright.ai/jobs/info/693cdfd7aa598a08c3eda773?utm_campaign=1050&utm_source=git)** | Brownstown, AL | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

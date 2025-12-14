@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 13 |
 | **[University of Illinois Chicago (UIC) School of Public Health](https://publichealth.uic.edu)** | **[Office Support Specialist - Office of Student Affairs](https://jobright.ai/jobs/info/693e4d28aa598a08c3eeaa57?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 | **[CommonSpirit Health](https://www.commonspirit.org)** | **[Administrative Intern Temporary](https://jobright.ai/jobs/info/693e2edf49a7695fbd0471af?utm_campaign=1050&utm_source=git)** | San Andreas, CA | On Site | Dec 13 |
 | **[Interco](https://intercotradingco.com/)** | **[Paid Internship - Logistics (Spring '26)](https://jobright.ai/jobs/info/693e2dffaa598a08c3ee897b?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 13 |
@@ -86,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68e7f645c4895107182c024e?utm_campaign=1050&utm_source=git)** | Patrick AFB, FL | On Site | Dec 13 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/6903e66863502c0aded6e2d8?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Dec 13 |
 | **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Corporate Retail Operations Intern– Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/6920c3bc3f782d2f1afcb375?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693d88a3aa598a08c3ee261c?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/68e7fe65cc49a84b7e100591?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693d87ca50bbaf765050879c?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/69051c9fff462851feffa931?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Dec 13 |
 | **[National Life Group](https://www.nationallife.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69211e2900c9ee50eaecbd27?utm_campaign=1050&utm_source=git)** | Addison, TX | On Site | Dec 13 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/692120393f782d2f1afcf6b1?utm_campaign=1050&utm_source=git)** | Montpelier, VT | On Site | Dec 13 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Snohomish County, WA](https://www.snohomishcountywa.gov/)** | **[ADMINISTRATIVE ASSISTANT-EXE *Open to internal County employees only *](https://jobright.ai/jobs/info/693d353749a7695fbd03e864?utm_campaign=1050&utm_source=git)** | Everett, WA | On Site | Dec 13 |
 | **[Nightwing](nightwing.com)** | **[Supply Chain Intern - 2026](https://jobright.ai/jobs/info/693d43f749a7695fbd03ece5?utm_campaign=1050&utm_source=git)** | Sterling, VA | On Site | Dec 13 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Office Assistant](https://jobright.ai/jobs/info/693d20c4aa598a08c3eddd66?utm_campaign=1050&utm_source=git)** | Meriden, CT | On Site | Dec 13 |
-| **[CommScope](http://www.commscope.com)** | **[Global Planning Intern](https://jobright.ai/jobs/info/693d1ceaaa598a08c3eddaee?utm_campaign=1050&utm_source=git)** | Catawba, NC | On Site | Dec 12 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/693e68d4aa598a08c3eeb1f3?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant - Building Operations Coordinator](https://jobright.ai/jobs/info/6938f2d3aabec14a727de488?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 12 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Business Operations Intern - Summer 2026](https://jobright.ai/jobs/info/693ce6fe49a7695fbd03938a?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
 | **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Material Planning Intern](https://jobright.ai/jobs/info/693ce6ecaa598a08c3edaa74?utm_campaign=1050&utm_source=git)** | Brownstown, AL | On Site | Dec 12 |
 | **[Glanbia Nutritionals](http://www.glanbianutritionals.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/693ce526aa598a08c3eda9ba?utm_campaign=1050&utm_source=git)** | Sharonville, OH | On Site | Dec 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Project Management](https://jobright.ai/jobs/info/693ce43b50bbaf7650500a94?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Dec 12 |
-| **[Rolls-Royce Power Systems AG](http://www.rrpowersystems.com)** | **[Material Planning Intern](https://jobright.ai/jobs/info/693ce3c949a7695fbd039216?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

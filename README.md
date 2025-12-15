@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratasys](http://www.stratasys.com)** | **[Intern - Fulfillment & Project Support](https://jobright.ai/jobs/info/693fd25149a7695fbd058771?utm_campaign=1050&utm_source=git)** | Belton, TX | On Site | Dec 15 |
+| **[City of Markham](https://www.markham.ca)** | **[Summer Student – Project Management, Strategy & Innovation](https://jobright.ai/jobs/info/693fd15850bbaf765052069c?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 15 |
+| **[TriHealth](http://www.trihealth.com)** | **[Intern - Corporate](https://jobright.ai/jobs/info/69355063764507023d1c00f3?utm_campaign=1050&utm_source=git)** | Norwood, OH | On Site | Dec 15 |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Project Management](https://jobright.ai/jobs/info/693fccc0aa598a08c3ef906d?utm_campaign=1050&utm_source=git)** | Brookfield, WI, US | Hybrid | Dec 15 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Consumer Banking](https://jobright.ai/jobs/info/693fc345aa598a08c3ef8725?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 15 |
+| **[City of Markham](https://www.markham.ca)** | **[Operations Research Analyst - Student](https://jobright.ai/jobs/info/693fd7a9aa598a08c3efa40a?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 14 |
 | **[Chase](https://www.chase.com/)** | **[2026 Business Transformation Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/693fb992aa598a08c3ef846f?utm_campaign=1050&utm_source=git)** | 1111 Polaris Pkwy, Columbus, OH, 43240, US | On Site | Dec 14 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Business Transformation Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/693fb8d549a7695fbd056913?utm_campaign=1050&utm_source=git)** | 1111 Polaris Pkwy, Columbus, OH, 43240, US | On Site | Dec 14 |
 | **[The SolutionPeople Network (TSPN)](http://www.TheSolutionPeopleNetwork.com)** | **[Community Manager](https://jobright.ai/jobs/info/693fb7fc49a7695fbd0568f0?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Dec 14 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CryptoSnake](https://www.youtube.com/@CryptoSnake)** | **[Internship — Executive Assistant to CEO](https://jobright.ai/jobs/info/693db4a150bbaf765050a77b?utm_campaign=1050&utm_source=git)** | Odessa, FL | On Site | Dec 13 |
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/693d9a5b50bbaf7650508b8a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693d97f650bbaf7650508af1?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Project Coordinator](https://jobright.ai/jobs/info/6939bcc248a8ce22990dc459?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 13 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Program Management](https://jobright.ai/jobs/info/69041d3dd64a22104aa970f0?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/6903c3d3ff462851fefee7b4?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Dec 13 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Supply Chain, Supplier Relations Management](https://jobright.ai/jobs/info/693d911249a7695fbd041135?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Dec 13 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6903acf1d64a22104aa919d3?utm_campaign=1050&utm_source=git)** | Lacey, WA | On Site | Dec 13 |
-| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - IT Program Management: Objective & Key Results Framework & Delivery Excellence](https://jobright.ai/jobs/info/693d8d5faa598a08c3ee273f?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - West Palm Beach, FL (June 2026)](https://jobright.ai/jobs/info/68b233cbbc187f64e1bd9ca1?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Dec 15 |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Project Management](https://jobright.ai/jobs/info/693ff35850bbaf7650520de6?utm_campaign=1050&utm_source=git)** | Brookfield, WI | Hybrid | Dec 15 |
+| **[City of Mountain View](http://mountainview.gov/)** | **[City Manager's Office Intern](https://jobright.ai/jobs/info/693ff35149a7695fbd058d0e?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Hybrid | Dec 15 |
+| **[Apotex Inc.](http://www.apotex.com)** | **[Student Project Coordinator](https://jobright.ai/jobs/info/693fee6eaa598a08c3efa89d?utm_campaign=1050&utm_source=git)** | North York, Ontario, Canada | On Site | Dec 15 |
 | **[Stratasys](http://www.stratasys.com)** | **[Intern - Fulfillment & Project Support](https://jobright.ai/jobs/info/693fd25149a7695fbd058771?utm_campaign=1050&utm_source=git)** | Belton, TX | On Site | Dec 15 |
 | **[City of Markham](https://www.markham.ca)** | **[Summer Student – Project Management, Strategy & Innovation](https://jobright.ai/jobs/info/693fd15850bbaf765052069c?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 15 |
 | **[TriHealth](http://www.trihealth.com)** | **[Intern - Corporate](https://jobright.ai/jobs/info/69355063764507023d1c00f3?utm_campaign=1050&utm_source=git)** | Norwood, OH | On Site | Dec 15 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Care Delivery Strategy Master's Intern](https://jobright.ai/jobs/info/692fa5b8fa28370be26ac738?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Dec 15 |
 | **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Project Management](https://jobright.ai/jobs/info/693fccc0aa598a08c3ef906d?utm_campaign=1050&utm_source=git)** | Brookfield, WI, US | Hybrid | Dec 15 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Consumer Banking](https://jobright.ai/jobs/info/693fc345aa598a08c3ef8725?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ | On Site | Dec 15 |
 | **[City of Markham](https://www.markham.ca)** | **[Operations Research Analyst - Student](https://jobright.ai/jobs/info/693fd7a9aa598a08c3efa40a?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 14 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693de098aa598a08c3ee6423?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Strategy and Business Operations](https://jobright.ai/jobs/info/693ddbfbaa598a08c3ee638e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/693e414b50bbaf76505108ca?utm_campaign=1050&utm_source=git)** | Little Chute, WI | On Site | Dec 13 |
-| **[Castle Pines Golf Club](https://castlepinesgolfclub.club)** | **[PGM 3 Month Internship](https://jobright.ai/jobs/info/693dc8cd49a7695fbd043176?utm_campaign=1050&utm_source=git)** | Castle Rock, CO | Hybrid | Dec 13 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68bee08d702aa35207aa13cb?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
-| **[CryptoSnake](https://www.youtube.com/@CryptoSnake)** | **[Internship — Executive Assistant to CEO](https://jobright.ai/jobs/info/693db4a150bbaf765050a77b?utm_campaign=1050&utm_source=git)** | Odessa, FL | On Site | Dec 13 |
-| **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/693d9a5b50bbaf7650508b8a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693d97f650bbaf7650508af1?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

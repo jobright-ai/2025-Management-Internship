@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OLG](https://www.olg.ca/en/home.html)** | **[Enterprise Strategy (CEO’s Office), MBA Intern](https://jobright.ai/jobs/info/693f9fe7aa598a08c3ef79b0?utm_campaign=1050&utm_source=git)** | Sault Ste. Marie, Ontario, Canada | On Site | Dec 14 |
+| ↳ | **[Enterprise Strategy (CEO’s Office), MBA Intern](https://jobright.ai/jobs/info/693f9f0550bbaf765051dbc9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 14 |
+| **[Grit Marketing](https://www.gritmarketing.net)** | **[Business Leadership Internship (Summer 2026)](https://jobright.ai/jobs/info/693f8a2d50bbaf765051bd23?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 14 |
 | **[Kuri Products](https://www.kuriproducts.com)** | **[Project Management Coordinator (Temp/Intern)](https://jobright.ai/jobs/info/693f5a7faa598a08c3ef32f9?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 14 |
 | **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Portfolio Management and Client Administration](https://jobright.ai/jobs/info/692634d027bf2f41a2c4470b?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Dec 14 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Intern - Summer 2026](https://jobright.ai/jobs/info/693f4e7849a7695fbd051820?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 14 |
-| **[Anchorage Digital](https://www.anchorage.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/693f430d50bbaf765051957b?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 14 |
-| **[Fireblocks](https://www.fireblocks.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/693f35b149a7695fbd0515ee?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 14 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Intern](https://jobright.ai/jobs/info/693f357d49a7695fbd0515e7?utm_campaign=1050&utm_source=git)** | Sussex, WI | Remote | Dec 14 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693f24a749a7695fbd0513bc?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Dec 14 |
 | **[VertoTech](vertotech.us)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693f115aaa598a08c3ef1360?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Leepfrog Technologies](https://www.leepfrog.com/)** | **[Software Project Management Intern](https://jobright.ai/jobs/info/693d8b8daa598a08c3ee26c1?utm_campaign=1050&utm_source=git)** | Coralville, IA | On Site | Dec 13 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6920c3613f782d2f1afcb305?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Dec 13 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68e7f645c4895107182c024e?utm_campaign=1050&utm_source=git)** | Patrick AFB, FL | On Site | Dec 13 |
-| **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/6903e66863502c0aded6e2d8?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

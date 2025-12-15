@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kuri Products](https://www.kuriproducts.com)** | **[Project Management Coordinator (Temp/Intern)](https://jobright.ai/jobs/info/693f5a7faa598a08c3ef32f9?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 14 |
+| **[Hancock Whitney](https://www.hancockwhitney.com/)** | **[Summer Intern- Portfolio Management and Client Administration](https://jobright.ai/jobs/info/692634d027bf2f41a2c4470b?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Dec 14 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Programs Intern - Summer 2026](https://jobright.ai/jobs/info/693f4e7849a7695fbd051820?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 14 |
 | **[Anchorage Digital](https://www.anchorage.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/693f430d50bbaf765051957b?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Fireblocks](https://www.fireblocks.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/693f35b149a7695fbd0515ee?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 14 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Intern](https://jobright.ai/jobs/info/693f357d49a7695fbd0515e7?utm_campaign=1050&utm_source=git)** | Sussex, WI | Remote | Dec 14 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/693f27c0aa598a08c3ef2eea?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 14 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693f24a749a7695fbd0513bc?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Dec 14 |
 | **[VertoTech](vertotech.us)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/693f115aaa598a08c3ef1360?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 14 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Platform Strategy Intern](https://jobright.ai/jobs/info/69220375d1ec2c3565c466f8?utm_campaign=1050&utm_source=git)** | Redwood City, CA | Hybrid | Dec 14 |
 | **[Symbotic](https://bit.ly/m/Symbotic)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cdc26d1ad6b16f0289eafb?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Dec 14 |
 | **[Covia](https://www.coviacorp.com/)** | **[Operations Internship Summer 2026](https://jobright.ai/jobs/info/68acf9f1d627244576e4a444?utm_campaign=1050&utm_source=git)** | Guion, AR | On Site | Dec 14 |
+| **[NODE](http://www.nodeclub.co)** | **[Agency Operations Intern(Field & Growth)](https://jobright.ai/jobs/info/693f60a6aa598a08c3ef477b?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Dec 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bbecfeeb0006c1a56ee4?utm_campaign=1050&utm_source=git)** | Altoona, PA | On Site | Dec 14 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68cc97dd128dc347fd927108?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Dec 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bb2965768b6412b1ef6a?utm_campaign=1050&utm_source=git)** | Erie, PA | On Site | Dec 14 |
@@ -143,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern - Alternatives Business Management Analyst](https://jobright.ai/jobs/info/68bee08d702aa35207aa13cb?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Dec 13 |
 | **[CryptoSnake](https://www.youtube.com/@CryptoSnake)** | **[Internship — Executive Assistant to CEO](https://jobright.ai/jobs/info/693db4a150bbaf765050a77b?utm_campaign=1050&utm_source=git)** | Odessa, FL | On Site | Dec 13 |
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/693d9a5b50bbaf7650508b8a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693d9963aa598a08c3ee2999?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Global Strategy and Transformation Intern (4 Months)](https://jobright.ai/jobs/info/693d97f650bbaf7650508af1?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Project Coordinator](https://jobright.ai/jobs/info/6939bcc248a8ce22990dc459?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 13 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Program Management](https://jobright.ai/jobs/info/69041d3dd64a22104aa970f0?utm_campaign=1050&utm_source=git)** | Kirkland, WA | On Site | Dec 13 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/6903c3d3ff462851fefee7b4?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6920c3613f782d2f1afcb305?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Dec 13 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/68e7f645c4895107182c024e?utm_campaign=1050&utm_source=git)** | Patrick AFB, FL | On Site | Dec 13 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/6903e66863502c0aded6e2d8?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Dec 13 |
-| **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Corporate Retail Operations Intern– Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/6920c3bc3f782d2f1afcb375?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Analyst - Supplier Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/693d88a3aa598a08c3ee261c?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

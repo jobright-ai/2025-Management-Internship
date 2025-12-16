@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vans](http://www.vans.com)** | **[Summer 2026 Operations Intern](https://jobright.ai/jobs/info/6933a5c5f131d96e4846568b?utm_campaign=1050&utm_source=git)** | Costa Mesa, CA | Hybrid | Dec 16 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Trial Intern - Cincinnati, OH](https://jobright.ai/jobs/info/68cb9903efdec76df36bf373?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 16 |
+| **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - New York (June 2026)](https://jobright.ai/jobs/info/69200f2ea49a885af9a36589?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 16 |
+| **[GEICO](http://www.geico.com)** | **[Claims Rotational Intern](https://jobright.ai/jobs/info/69414013bdcf884a5add1b7c?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 16 |
+| **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Emory Healthcare Administrative Undergrad Internship - Summer 2026](https://jobright.ai/jobs/info/692436eaec574f4265bb2ad9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
+| **[Panasonic Energy Corporation of North America](https://na.panasonic.com/panasonic-energy)** | **[Program Management Intern](https://jobright.ai/jobs/info/694134dd50bbaf765053308c?utm_campaign=1050&utm_source=git)** | De Soto, KS | On Site | Dec 16 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6940f5fc50bbaf7650530756?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 15 |
 | **[Combined Metals Company, LLC](https://www.combmet.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6940e625aa598a08c3f086fc?utm_campaign=1050&utm_source=git)** | Southington, CT | On Site | Dec 15 |
 | **[Jacobs](http://www.jacobs.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6940dc2f50bbaf765052e3c4?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | On Site | Dec 15 |
@@ -66,16 +72,15 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Office Support Intern - Fleet Operations Division](https://jobright.ai/jobs/info/6940bd3a49a7695fbd063b2e?utm_campaign=1050&utm_source=git)** | Mesquite, TX | Hybrid | Dec 15 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Executive Office Small Business Initiative Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/6940bc0150bbaf765052bb4c?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Dec 15 |
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Project Management & Business Analyst Intern](https://jobright.ai/jobs/info/6940bb9e49a7695fbd063a43?utm_campaign=1050&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 15 |
-| ↳ | **[Project Management & Business Analyst Intern](https://jobright.ai/jobs/info/6940a9af49a7695fbd06307e?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6940e74350bbaf765052eac4?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Dec 15 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e7c250bbaf765052eae2?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Dec 15 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6940e7c250bbaf765052eae2?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Dec 15 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e74350bbaf765052eac4?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Dec 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e7d750bbaf765052eaea?utm_campaign=1050&utm_source=git)** | Watertown, SD | On Site | Dec 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e6f4aa598a08c3f08746?utm_campaign=1050&utm_source=git)** | Jamestown, ND | On Site | Dec 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e48f50bbaf765052e9e4?utm_campaign=1050&utm_source=git)** | Alexandria, MN | On Site | Dec 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e7f950bbaf765052eaef?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Dec 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e74b50bbaf765052eac6?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Dec 15 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940dd3149a7695fbd06637f?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Dec 15 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940e6d5aa598a08c3f08740?utm_campaign=1050&utm_source=git)** | Fishers, IN | On Site | Dec 15 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6940dd3149a7695fbd06637f?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Dec 15 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Executive Office Small Business Initiative Intern / 2026 Treasury Summer Internship Program](https://jobright.ai/jobs/info/6940b1a550bbaf765052b5da?utm_campaign=1050&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Dec 15 |
 | **[Budget Rent a Car, UAE](https://one.budgetinternational.com/en_GB/BudgetThaiAirways/)** | **[Summer Management/Leadership Internship](https://jobright.ai/jobs/info/6940b0f8aa598a08c3f050aa?utm_campaign=1050&utm_source=git)** | OMAHA,NE,US | On Site | Dec 15 |
 | **[PVH Corp.](https://www.pvh.com)** | **[MBA Intern, Finance (Finance Leadership Development Program)](https://jobright.ai/jobs/info/6940cc2c50bbaf765052cff7?utm_campaign=1050&utm_source=git)** | New York, NY Tommy Hilfiger Office | On Site | Dec 15 |
@@ -84,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6940a703aa598a08c3f04bab?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Dec 15 |
 | **[College Pro](http://collegepro.com)** | **[Operations Manager Intern](https://jobright.ai/jobs/info/6940c423aa598a08c3f05beb?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | Hybrid | Dec 15 |
 | **[Flowserve Corporation](http://www.flowserve.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6940a40449a7695fbd062e80?utm_campaign=1050&utm_source=git)** | Kalamazoo, Michigan US | On Site | Dec 15 |
-| **[Acrisure](http://acrisure.com)** | **[Commercial Lines Insurance Intern](https://jobright.ai/jobs/info/6940c11eaa598a08c3f05a40?utm_campaign=1050&utm_source=git)** | NEW YORK | On Site | Dec 15 |
-| ↳ | **[Commercial Lines Insurance Intern](https://jobright.ai/jobs/info/6940c16149a7695fbd063d7d?utm_campaign=1050&utm_source=git)** | PENNSYLVANIA | On Site | Dec 15 |
+| **[Acrisure](http://acrisure.com)** | **[Commercial Lines Insurance Intern](https://jobright.ai/jobs/info/6940c16149a7695fbd063d7d?utm_campaign=1050&utm_source=git)** | PENNSYLVANIA | On Site | Dec 15 |
+| ↳ | **[Commercial Lines Insurance Intern](https://jobright.ai/jobs/info/6940c11eaa598a08c3f05a40?utm_campaign=1050&utm_source=git)** | NEW YORK | On Site | Dec 15 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Executive Vice President and Provost](https://jobright.ai/jobs/info/693ca2ca49a7695fbd037035?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 15 |
 | **[Intuit](https://www.intuit.com)** | **[MBA Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/69409b1750bbaf765052a91f?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Hybrid | Dec 15 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Intern - Assoc Technical Program Manager](https://jobright.ai/jobs/info/6930ef824c474121999ea7d3?utm_campaign=1050&utm_source=git)** | Waltham, MA | Hybrid | Dec 15 |
@@ -134,10 +139,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/6940636daa598a08c3f00408?utm_campaign=1050&utm_source=git)** | Wisconsin | On Site | Dec 15 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Management and Leadership Intern (Summer)](https://jobright.ai/jobs/info/694062fb50bbaf76505267b6?utm_campaign=1050&utm_source=git)** | Kansas City,MO,US | Hybrid | Dec 15 |
 | **[HEICO](http://www.heico.com)** | **[Process Improvement Intern](https://jobright.ai/jobs/info/6940610949a7695fbd05e5a7?utm_campaign=1050&utm_source=git)** | Hollywood, FL | On Site | Dec 15 |
-| **[Cisco](http://www.cisco.com)** | **[Critical Accounts Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/6940883d50bbaf765052960a?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, US | Hybrid | Dec 15 |
-| ↳ | **[Critical Accounts Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/694081eb49a7695fbd060983?utm_campaign=1050&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Dec 15 |
-| ↳ | **[Critical Accounts Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/6940793c50bbaf7650527994?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, US | Hybrid | Dec 15 |
+| **[Cisco](http://www.cisco.com)** | **[Critical Accounts Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/694081eb49a7695fbd060983?utm_campaign=1050&utm_source=git)** | Atlanta, Georgia, US | Hybrid | Dec 15 |
+| ↳ | **[Critical Accounts Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/6940883d50bbaf765052960a?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, US | Hybrid | Dec 15 |
 | ↳ | **[Critical Accounts Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/69407855aa598a08c3f0139f?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Hybrid | Dec 15 |
+| ↳ | **[Critical Accounts Manager MBA (Intern) - United States](https://jobright.ai/jobs/info/6940793c50bbaf7650527994?utm_campaign=1050&utm_source=git)** | RTP, North Carolina, US | Hybrid | Dec 15 |
 | **[FTI](http://www.faithtechinc.com)** | **[eMobility Project Management Intern](https://jobright.ai/jobs/info/6940846daa598a08c3f02bf6?utm_campaign=1050&utm_source=git)** | KS - Kansas City | On Site | Dec 15 |
 | ↳ | **[eMobility Project Management Intern](https://jobright.ai/jobs/info/694087f249a7695fbd06169e?utm_campaign=1050&utm_source=git)** | WI - Menasha | On Site | Dec 15 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - ECCO, Strategy Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/6940570b50bbaf76505261af?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 15 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Jordan Valley Community Health Center](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/69407499aa598a08c3f0122c?utm_campaign=1050&utm_source=git)** | Springfield,MO,US | On Site | Dec 15 |
 | **[ProEgg](https://proegg.com)** | **[Supply Chain and Logistics Intern](https://jobright.ai/jobs/info/6941100449a7695fbd069208?utm_campaign=1050&utm_source=git)** | Aurora, Colorado, United States | On Site | Dec 15 |
 | **[Enterprise Engineering Inc. (EEI)](http://joineei.com)** | **[Office Intern](https://jobright.ai/jobs/info/694069f149a7695fbd05eb78?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 15 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Construction Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69412f3bbdcf884a5add1900?utm_campaign=1050&utm_source=git)** | Indianapolis,  IN | On Site | Dec 15 |
+| ↳ | **[Construction Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69412df3aa598a08c3f0cd2e?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 15 |
 | **[Interstates](http://interstates.com)** | **[Assistant Project Manager Intern - Broken Arrow, OK](https://jobright.ai/jobs/info/69404c51aa598a08c3eff843?utm_campaign=1050&utm_source=git)** | Broken Arrow, OK | On Site | Dec 15 |
 | **[Jordan Valley Community Health Center](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/694070b0aa598a08c3f00ed9?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Dec 15 |
 | **[Enterprise Engineering Inc. (EEI)](http://joineei.com)** | **[Office Manager Intern](https://jobright.ai/jobs/info/69406a0e50bbaf7650526d27?utm_campaign=1050&utm_source=git)** | NYC Metro Area | Hybrid | Dec 15 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern-Group Business Perf. Mgmt.](https://jobright.ai/jobs/info/69406c2550bbaf7650526e93?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 15 |
-| **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69337028a0dde7020e2ee035?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Dec 15 |
-| **[Swagelok](http://www.swagelok.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68bb36546105227d118a40a7?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Dec 15 |
-| **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Plant Operations Intern (Processing Ergonomics) - Summer 2026](https://jobright.ai/jobs/info/6940666d49a7695fbd05e9ac?utm_campaign=1050&utm_source=git)** | Bryan, TX | Hybrid | Dec 15 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Strategic Sourcing](https://jobright.ai/jobs/info/694031da50bbaf76505236c1?utm_campaign=1050&utm_source=git)** | Cumberland, RI, United States | On Site | Dec 15 |
-| ↳ | **[Internship - Global Planning & Analytics, Industrial](https://jobright.ai/jobs/info/6940318daa598a08c3efd317?utm_campaign=1050&utm_source=git)** | New York, NY, United States | Hybrid | Dec 15 |
-| ↳ | **[Graduate/MBA Internship - Demand Planning](https://jobright.ai/jobs/info/69403139aa598a08c3efd2f0?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
-| **[Otis Elevator Co.](http://www.otis.com/)** | **[Digital Technology Project Coordinator Intern](https://jobright.ai/jobs/info/6940311150bbaf765052364b?utm_campaign=1050&utm_source=git)** | OTCTH: Connecticut Home Offices Remote Location, Remote City, CT, 06032 USA | Remote | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

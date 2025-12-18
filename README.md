@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Vendor Management Analyst - R10659](https://jobright.ai/jobs/info/68eec26646e5b153e5a5f838?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 18 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Enterprise Sustainability Intern](https://jobright.ai/jobs/info/690a7a04bcccf20de59e2e71?utm_campaign=1050&utm_source=git)** | Overland Park, KS | Hybrid | Dec 18 |
+| **[Koch](https://www.kochinc.com)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/68ed2ff870b66e2345d3b645?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Dec 18 |
+| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Client Operations and Policy Admin](https://jobright.ai/jobs/info/6927c3f691ceeb2e8a542e89?utm_campaign=1050&utm_source=git)** | Chesterfield, MO | On Site | Dec 18 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Operations Analyst Intern, NYC](https://jobright.ai/jobs/info/690ab468bcccf20de59e5152?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 18 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b726d52124650c1401fba1?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Dec 18 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Retail Operations Intern - Louisville, KY](https://jobright.ai/jobs/info/68d1f9f8a54edb3bf3e18360?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Enterprise Sustainability Intern](https://jobright.ai/jobs/info/691ae77cbcdbf3560c9db928?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 18 |
 | **[Jacobs](http://www.jacobs.com)** | **[Administrative Intern - Fall 2025](https://jobright.ai/jobs/info/6925d3dcd47de4798ecd1e52?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
@@ -87,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Albany International Corp.](http://www.albint.com/)** | **[Continuous Improvement Summer Intern](https://jobright.ai/jobs/info/690abaf2bcccf20de59e5532?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 18 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68d19882cece431f8b5859a8?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Dec 18 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Intern Summer 2026](https://jobright.ai/jobs/info/68ed768570b66e2345d3e5b7?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 18 |
+| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Supply Chain](https://jobright.ai/jobs/info/68d1ff3a8c62e63bc7fd214f?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Dec 18 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Executive Services](https://jobright.ai/jobs/info/6927966791ceeb2e8a5416b9?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 18 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/691abdd645fb6f5ead8ad53b?utm_campaign=1050&utm_source=git)** | Newington, NH | On Site | Dec 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ccff8677add66568abd795?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 18 |
@@ -125,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Flex](https://flex.com)** | **[Technical Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/6943a0aadd382f5f5669bd02?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 17 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Business Management (Onsite)](https://jobright.ai/jobs/info/69439f4550bbaf7650559fe2?utm_campaign=1050&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Dec 17 |
 | ↳ | **[Intern: 2026 Summer - F135 Program Digital Solutions (Onsite)](https://jobright.ai/jobs/info/69439efcdd382f5f5669bc35?utm_campaign=1050&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Dec 17 |
+| **[Framewell](www.framewell.org)** | **[Project Manager Internship (Jan-Mar 2026)](https://jobright.ai/jobs/info/6943fd8a50bbaf7650560458?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 17 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Project Management, Lead Support Intern](https://jobright.ai/jobs/info/6943836e94730b739876a0d2?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Dec 17 |
 | **[STV](http://www.stvinc.com/)** | **[Summer 2026 - Project Management Intern](https://jobright.ai/jobs/info/69437ffbdd382f5f56698f55?utm_campaign=1050&utm_source=git)** | Newark, NJ | Hybrid | Dec 17 |
 | **[Lactalis U.S. Yogurt](https://lactalisyogurtusa.com/)** | **[Supply Chain Overages, Shorts & Damages (OS&D) Internship](https://jobright.ai/jobs/info/69437835dd382f5f566988a2?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Dec 17 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69438a6edd382f5f5669af33?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Dec 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69438b6150bbaf765055878a?utm_campaign=1050&utm_source=git)** | Scottsbluff, NE | On Site | Dec 17 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6943901894730b739876c225?utm_campaign=1050&utm_source=git)** | Mount Vernon, IL | On Site | Dec 17 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6943895b50bbaf7650557ab4?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | Dec 17 |
-| **[CIM Group](https://www.cimgroup.com)** | **[Intern, Fund Operations](https://jobright.ai/jobs/info/6943573850bbaf76505537fe?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 17 |
-| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Asset Management](https://jobright.ai/jobs/info/6943545b94730b7398766128?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Dec 17 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Dec 17 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Colorado Region 2025 - 2026 (Evergreen)](https://jobright.ai/jobs/info/694351fe94730b7398765f79?utm_campaign=1050&utm_source=git)** | CO_Boulder_223114 | On Site | Dec 17 |
-| ↳ | **[Internship Program - Colorado Region 2025 - 2026 (Evergreen)](https://jobright.ai/jobs/info/69434e5550bbaf765055326a?utm_campaign=1050&utm_source=git)** | CO_Colorado Springs_224048 | On Site | Dec 17 |
-| **[SOLV Energy](https://www.solvenergy.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69434d0f50bbaf7650553192?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 17 |
-| **[Uber](http://www.uber.com)** | **[2026 Mobility  Strategic Operations Intern, Canada](https://jobright.ai/jobs/info/694369fd50bbaf7650555647?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

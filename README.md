@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6946dedcd1953b5d11c00ba0?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
+| ↳ | **[Program Management Graduate Intern](https://jobright.ai/jobs/info/6946db69d1953b5d11c00934?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
+| **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6946d87463141d1884569ac3?utm_campaign=1050&utm_source=git)** | Plymouth, WI | On Site | Dec 20 |
+| **[Mechronix](mechronix.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6946cdc4d1953b5d11bfedcc?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 20 |
+| **[Agropur](http://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/693e414b50bbaf76505108ca?utm_campaign=1050&utm_source=git)** | Little Chute, WI | On Site | Dec 20 |
+| **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69337028a0dde7020e2ee035?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Dec 20 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/6946c9cb7d506e3808f21fd6?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
+| ↳ | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/6946c9627d506e3808f21fb9?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – R&D Strategy & Operations](https://jobright.ai/jobs/info/6941a890bdcf884a5add6bba?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Century A/C Supply](http://centuryac.com)** | **[2026 Industrial Distribution Summer Internship](https://jobright.ai/jobs/info/6946b752d1953b5d11bfe410?utm_campaign=1050&utm_source=git)** | Beltway 77099 - Houston, TX 77099 | On Site | Dec 20 |
 | **[Zscaler](https://www.zscaler.com)** | **[Future Workplace Strategist Intern](https://jobright.ai/jobs/info/6924c71bc0cefa13343e1c8c?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 20 |
@@ -120,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d519bd24b1ee4c7b663f43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51d812ed36439e51e4d58?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Dec 20 |
 | **[DESRI](https://desri.com/)** | **[Generalist Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd829a1ad6b16f0289aa71?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Florida](https://jobright.ai/jobs/info/690d0179d046ab6061cf169c?utm_campaign=1050&utm_source=git)** | Delray Beach, FL | On Site | Dec 20 |
 | **[Emerson](http://www.emerson.com)** | **[Supply Chain Analyst Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d18384a1b456627b1d9fb?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
 | ↳ | **[Strategic Planner Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/693170f73b6d6f265f4e9229?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Flex](https://flex.com)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/6946405ed1953b5d11bf6bb4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/6946230f63141d188455cf3e?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
 | **[Wagner Spray Tech](https://www.wagnerspraytech.com)** | **[Warehouse Management Intern](https://jobright.ai/jobs/info/694622ff63141d188455cf34?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Dec 19 |
-| **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern](https://jobright.ai/jobs/info/69461f7d7d506e3808f17296?utm_campaign=1050&utm_source=git)** | Red Bank, NJ | On Site | Dec 19 |
-| **[Nasdaq](https://www.nasdaq.com)** | **[Project Management Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/6946160c7d506e3808f16b23?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 19 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6946130163141d188455c19c?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Dec 19 |
-| **[UCB](http://www.ucb.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/694612807d506e3808f169a7?utm_campaign=1050&utm_source=git)** | Oakville, Ontario, Canada | On Site | Dec 19 |
-| **[Montana Technological University](https://mtech.edu)** | **[Internship MDT Aviation](https://jobright.ai/jobs/info/6945ff4c63141d188455a36f?utm_campaign=1050&utm_source=git)** | West YellowstoneOther Locations | On Site | Dec 19 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69460e8ad1953b5d11bf2f06?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Dec 19 |
-| **[RNGD](https://rngd.com)** | **[NextGen - Internship 2026](https://jobright.ai/jobs/info/69460d1563141d188455bbc4?utm_campaign=1050&utm_source=git)** | Metairie, Louisiana, United States | On Site | Dec 19 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69460cb17d506e3808f162da?utm_campaign=1050&utm_source=git)** | Marion, IA | On Site | Dec 19 |
+| **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern](https://jobright.ai/jobs/info/6946199f63141d188455c7b2?utm_campaign=1050&utm_source=git)** | Red Bank, NJ | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

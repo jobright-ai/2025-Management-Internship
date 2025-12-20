@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/6946242d63141d188455cfd9?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Dec 19 |
+| **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/6946230f63141d188455cf3e?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
+| **[Wagner Spray Tech](https://www.wagnerspraytech.com)** | **[Warehouse Management Intern](https://jobright.ai/jobs/info/694622ff63141d188455cf34?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Dec 19 |
 | **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern](https://jobright.ai/jobs/info/6946199763141d188455c7af?utm_campaign=1050&utm_source=git)** | Red Bank, NJ | On Site | Dec 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Project Management Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/6946160c7d506e3808f16b23?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 19 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6946130163141d188455c19c?utm_campaign=1050&utm_source=git)** | Plover, WI | On Site | Dec 19 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/6945ca8dd1953b5d11bec9a4?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Dec 19 |
 | ↳ | **[Hourly Project Assistant II (Internship)](https://jobright.ai/jobs/info/6945c75d63141d188455557b?utm_campaign=1050&utm_source=git)** | Menands, NY | On Site | Dec 19 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Innovation Management Internship - Summer 2026](https://jobright.ai/jobs/info/6945c5bc951654073537e3b9?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Dec 19 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern](https://jobright.ai/jobs/info/6945c476d1953b5d11bec413?utm_campaign=1050&utm_source=git)** | Albany, NY | Hybrid | Dec 19 |
 | **[Orrstown Bank](http://orrstown.com)** | **[Intern](https://jobright.ai/jobs/info/6945c42763141d18845551a6?utm_campaign=1050&utm_source=git)** | Harrisburg Regional Office, Harrisburg, PA, US | On Site | Dec 19 |
 | **[Crane Company](http://www.craneco.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6945c3fd951654073537e1c9?utm_campaign=1050&utm_source=git)** | Montgomery, TX | On Site | Dec 19 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Family Office Intern, Spring 2027](https://jobright.ai/jobs/info/6945c281951654073537e000?utm_campaign=1050&utm_source=git)** | Greater Cleveland | Hybrid | Dec 19 |
@@ -134,9 +138,9 @@ For a complete list, click the following sortable link below:
 | **[Piper Companies](http://www.pipercompanies.com)** | **[Supply Chain Planner](https://jobright.ai/jobs/info/6945b0fb951654073537cb77?utm_campaign=1050&utm_source=git)** | Audubon, PA | On Site | Dec 19 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Dec 19 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[TravisMathew 2026 Summer Internship](https://jobright.ai/jobs/info/6945aed9951654073537c921?utm_campaign=1050&utm_source=git)** | Huntington Beach, CA | On Site | Dec 19 |
-| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer PATCO Purchasing Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945aed563141d1884553c39?utm_campaign=1050&utm_source=git)** | Lindenwold, NJ | On Site | Dec 19 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Dec 19 |
 | **[Superior Trim](https://www.superiortrim.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6945d15b951654073537fde4?utm_campaign=1050&utm_source=git)** | Springfield, OH | On Site | Dec 19 |
+| **[Delaware River Port Authority Police Department](https://www.drpa.org/police/)** | **[Summer PATCO Purchasing Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6945ac1e63141d18845539d0?utm_campaign=1050&utm_source=git)** | Lindenwold, NJ | On Site | Dec 19 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/68f2e5419a63986de756d06d?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Dec 19 |
 | ↳ | **[Senior Living Management Intern](https://jobright.ai/jobs/info/68f2e79e9a65fd3458581f94?utm_campaign=1050&utm_source=git)** | Hilton Head Island, SC | On Site | Dec 19 |
 | **[Leidos](https://www.leidos.com/)** | **[Power Delivery Project Management Intern](https://jobright.ai/jobs/info/6945a523d1953b5d11bea120?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Albany, GA](https://jobright.ai/jobs/info/688075332097a271a89a4e8e?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Dec 19 |
 | **[UT Southwestern Medical Center](https://utswmed.org)** | **[Research Analytics Manager, Temporary](https://jobright.ai/jobs/info/69459a57d1953b5d11be994f?utm_campaign=1050&utm_source=git)** | Texas-Dallas-5323 Harry Hines Blvd | On Site | Dec 19 |
 | **[City of New York](http://www1.nyc.gov)** | **[Project Manager Intern – TEP](https://jobright.ai/jobs/info/69459725951654073537b3c2?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Dec 19 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Minnesota](https://jobright.ai/jobs/info/6945d6b7951654073538080e?utm_campaign=1050&utm_source=git)** | Minneapolis - Saint Paul | On Site | Dec 19 |
-| **[Moraine Park Technical College](https://www.morainepark.edu/)** | **[Temporary - Administrative Aide – EWD Operations and Client Services](https://jobright.ai/jobs/info/6945b897951654073537d615?utm_campaign=1050&utm_source=git)** | US-WI-Fond du Lac | On Site | Dec 19 |
-| **[UT Southwestern Medical Center](https://utswmed.org)** | **[Research Analytics Manager, Temporary](https://jobright.ai/jobs/info/694592c963141d1884551ea8?utm_campaign=1050&utm_source=git)** | 5323 Harry Hines Blvd5323 Harry Hines Blvd | On Site | Dec 19 |
-| **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern - Summer](https://jobright.ai/jobs/info/694590fa63141d1884551d48?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

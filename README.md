@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Operations Intern](https://jobright.ai/jobs/info/6946fa68d1953b5d11c01a94?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 20 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6946dedcd1953b5d11c00ba0?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[Program Management Graduate Intern](https://jobright.ai/jobs/info/6946db69d1953b5d11c00934?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6946d87463141d1884569ac3?utm_campaign=1050&utm_source=git)** | Plymouth, WI | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Philippians 2:3 Consulting, LLC](www.P23consultants.com)** | **[Facilities Team Manager - Pecan Valley Resort Amenitites](https://jobright.ai/jobs/info/69464973d1953b5d11bf71a8?utm_campaign=1050&utm_source=git)** | Hurricane, UT 84737 | On Site | Dec 19 |
 | **[Flex](https://flex.com)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/6946405ed1953b5d11bf6bb4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 19 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/6946230f63141d188455cf3e?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
-| **[Wagner Spray Tech](https://www.wagnerspraytech.com)** | **[Warehouse Management Intern](https://jobright.ai/jobs/info/694622ff63141d188455cf34?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Dec 19 |
-| **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern](https://jobright.ai/jobs/info/6946199f63141d188455c7b2?utm_campaign=1050&utm_source=git)** | Red Bank, NJ | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

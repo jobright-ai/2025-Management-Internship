@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694716ec63141d188456d328?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
+| **[Amgen](http://www.amgen.com)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/694708ff7d506e3808f254d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/694708ef7d506e3808f254d2?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Dec 20 |
+| **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/6947020263141d188456b2a0?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 20 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69470191d1953b5d11c01e68?utm_campaign=1050&utm_source=git)** | Lafayette, LA, USA | On Site | Dec 20 |
+| **[Flinn Scientific, Inc.](http://flinnsci.com)** | **[Internship Procurement - Summer 2026](https://jobright.ai/jobs/info/6947014463141d188456b17a?utm_campaign=1050&utm_source=git)** | BATAVIA, IL 60510 | On Site | Dec 20 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Operations Intern](https://jobright.ai/jobs/info/6946fa68d1953b5d11c01a94?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6946dedcd1953b5d11c00ba0?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6946679563141d188456191d?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Dec 20 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694659fc63141d1884561071?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 20 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69465887d1953b5d11bf7fdd?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 20 |
-| ↳ | **[Operations Intern - University of Texas at Arlington](https://jobright.ai/jobs/info/6946582b63141d1884560fec?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 20 |
-| **[Montana State University - Office of Student Engagement](http://www.montana.edu/engagement)** | **[Assistant to the AVP of Student Wellness](https://jobright.ai/jobs/info/694654cd63141d1884560c4c?utm_campaign=1050&utm_source=git)** | Bozeman, MT | On Site | Dec 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Project Coordinator Co-Op / Internship – Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/6946540b7d506e3808f1b081?utm_campaign=1050&utm_source=git)** | Vancouver, BC, CA | On Site | Dec 19 |
-| **[Philippians 2:3 Consulting, LLC](www.P23consultants.com)** | **[Facilities Team Manager - Pecan Valley Resort Amenitites](https://jobright.ai/jobs/info/69464973d1953b5d11bf71a8?utm_campaign=1050&utm_source=git)** | Hurricane, UT 84737 | On Site | Dec 19 |
-| **[Flex](https://flex.com)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/6946405ed1953b5d11bf6bb4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 19 |
-| **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/6946230f63141d188455cf3e?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

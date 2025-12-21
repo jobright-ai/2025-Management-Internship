@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d519bd24b1ee4c7b663f43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51d812ed36439e51e4d58?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Dec 20 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[DESRI](https://desri.com/)** | **[Generalist Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd829a1ad6b16f0289aa71?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Florida](https://jobright.ai/jobs/info/690d0179d046ab6061cf169c?utm_campaign=1050&utm_source=git)** | Delray Beach, FL | On Site | Dec 20 |
 | **[Emerson](http://www.emerson.com)** | **[Supply Chain Analyst Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d18384a1b456627b1d9fb?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/691a9030bcdbf3560c9d8995?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cf9090846f0b04af68300a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
 | **[American Water](http://amwater.com)** | **[Operations Intern](https://jobright.ai/jobs/info/691aaaec45fb6f5ead8acc59?utm_campaign=1050&utm_source=git)** | Scranton, PA | Hybrid | Dec 20 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Poultry Operations Summer 2026 Intern](https://jobright.ai/jobs/info/694677bb63141d1884563bd2?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Dec 20 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Tuscaloosa, AL](https://jobright.ai/jobs/info/68c085f85c5d5f14f46dec39?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

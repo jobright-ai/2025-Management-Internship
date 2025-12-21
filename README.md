@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benny's Car Wash](http://www.bennyscarwash.com)** | **[Management Internship](https://jobright.ai/jobs/info/69485cabd1953b5d11c17eeb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[MBA Intern - Finance & Strategy Leadership Development Program (Summer 2026)](https://jobright.ai/jobs/info/69481afd63141d188457c8f1?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 21 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Vice President Intern](https://jobright.ai/jobs/info/69480a7a63141d188457c333?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Dec 21 |
 | **[Ferrovias](ferrovias.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6948032ad1953b5d11c12a9e?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/6929d3624c474121999ca5c5?utm_campaign=1050&utm_source=git)** | Buellton, CA | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd8fbde50091dbfa50a4d?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d6275d046ab6061cf5c38?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Dec 20 |
-| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/690d5df64a1b456627b20c2e?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

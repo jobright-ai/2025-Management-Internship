@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[MBA Intern - Finance & Strategy Leadership Development Program (Summer 2026)](https://jobright.ai/jobs/info/69481afd63141d188457c8f1?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 21 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Vice President Intern](https://jobright.ai/jobs/info/69480a7a63141d188457c333?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Dec 21 |
-| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/694805387d506e3808f359ba?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 21 |
 | **[Ferrovias](ferrovias.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6948032ad1953b5d11c12a9e?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ed4ab44146d3b6ec58226?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | ↳ | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/690ec51c44146d3b6ec57a7e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 21 |
@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/68b9d5085f3832749186142d?utm_campaign=1050&utm_source=git)** | Worthing, SD | On Site | Dec 21 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Project Management Intern Spring 2026](https://jobright.ai/jobs/info/68bb28896105227d118a3746?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 21 |
 | **[Rush University Medical Center](https://www.rush.edu/)** | **[Physician - Division Chief - Internal Medicine - Cardiology - Chicago-22390](https://jobright.ai/jobs/info/68f2a9059a63986de756a057?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 21 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Fall 2026 / Toledo](https://jobright.ai/jobs/info/68bb36d95f3832749186d3a5?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Dec 21 |
 | **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/68bb39ba6105227d118a44a1?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Dec 21 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/68cfeff2dbd9fb154edec074?utm_campaign=1050&utm_source=git)** | Yuma, CO | On Site | Dec 21 |
 | **[Clarios](https://www.clarios.com/)** | **[IT Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/6933a519f131d96e48465509?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 21 |
@@ -139,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6946dedcd1953b5d11c00ba0?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[Program Management Graduate Intern](https://jobright.ai/jobs/info/6946db69d1953b5d11c00934?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6946d87463141d1884569ac3?utm_campaign=1050&utm_source=git)** | Plymouth, WI | On Site | Dec 20 |
-| **[Mechronix](mechronix.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6946cdc4d1953b5d11bfedcc?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 20 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69337028a0dde7020e2ee035?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/6946c9cb7d506e3808f21fd6?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
 | ↳ | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/6946c9627d506e3808f21fb9?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/6929d3624c474121999ca5c5?utm_campaign=1050&utm_source=git)** | Buellton, CA | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd8fbde50091dbfa50a4d?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d6275d046ab6061cf5c38?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Dec 20 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/690d5df64a1b456627b20c2e?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Dec 20 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b72585f4e41a61efd95ed5?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

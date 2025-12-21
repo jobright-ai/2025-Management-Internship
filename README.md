@@ -138,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6946dedcd1953b5d11c00ba0?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[Program Management Graduate Intern](https://jobright.ai/jobs/info/6946db69d1953b5d11c00934?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6946d87463141d1884569ac3?utm_campaign=1050&utm_source=git)** | Plymouth, WI | On Site | Dec 20 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69337028a0dde7020e2ee035?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/6946c9cb7d506e3808f21fd6?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
 | ↳ | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/6946c9627d506e3808f21fb9?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd8fbde50091dbfa50a4d?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d6275d046ab6061cf5c38?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Dec 20 |
 | ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/690d5df64a1b456627b20c2e?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Dec 20 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b72585f4e41a61efd95ed5?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

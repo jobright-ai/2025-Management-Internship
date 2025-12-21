@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Program Management Graduate Intern](https://jobright.ai/jobs/info/6946db69d1953b5d11c00934?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6946d87463141d1884569ac3?utm_campaign=1050&utm_source=git)** | Plymouth, WI | On Site | Dec 20 |
 | **[Mechronix](mechronix.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6946cdc4d1953b5d11bfedcc?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 20 |
-| **[Agropur](http://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/693e414b50bbaf76505108ca?utm_campaign=1050&utm_source=git)** | Little Chute, WI | On Site | Dec 20 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69337028a0dde7020e2ee035?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/6946c9cb7d506e3808f21fd6?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
 | ↳ | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/6946c9627d506e3808f21fb9?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69466e887d506e3808f1dd6f?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6946679563141d188456191d?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Dec 20 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694659fc63141d1884561071?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 20 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69465887d1953b5d11bf7fdd?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

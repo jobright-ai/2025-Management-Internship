@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478076d1953b5d11c090a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 20 |
 | **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain, Material Management Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf45215b4156367194842?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Dec 20 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694716ec63141d188456d328?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
 | **[Amgen](http://www.amgen.com)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/694708ff7d506e3808f254d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 20 |
@@ -143,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Analyst Intern Summer 2026](https://jobright.ai/jobs/info/691ad59dbcdbf3560c9dadb8?utm_campaign=1050&utm_source=git)** | Madison, PA | Remote | Dec 20 |
 | **[Emerson](http://www.emerson.com)** | **[IT Planner Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/692a69c3fa28370be269713c?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
 | **[American Water](http://amwater.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69297a344c474121999c99bc?utm_campaign=1050&utm_source=git)** | Philipsburg, PA | Hybrid | Dec 20 |
+| **[S&C Electric Company](https://www.sandc.com/en)** | **[Internal Logistics Planning Intern-Franklin, WI](https://jobright.ai/jobs/info/6947804e7d506e3808f2c213?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Dec 20 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6893b540a9199876488df7d8?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 20 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[2026 Summer Business Administration Intern](https://jobright.ai/jobs/info/68d5da3663d77d6f6f3f2bb3?utm_campaign=1050&utm_source=git)** | Greenville, NC | On Site | Dec 20 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68d5ccb01f7fb2169ab13e20?utm_campaign=1050&utm_source=git)** | Paso Robles, CA | On Site | Dec 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Water](http://amwater.com)** | **[Operations Intern](https://jobright.ai/jobs/info/691aaaec45fb6f5ead8acc59?utm_campaign=1050&utm_source=git)** | Scranton, PA | Hybrid | Dec 20 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Poultry Operations Summer 2026 Intern](https://jobright.ai/jobs/info/694677bb63141d1884563bd2?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Dec 20 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Tuscaloosa, AL](https://jobright.ai/jobs/info/68c085f85c5d5f14f46dec39?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Dec 20 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69466e887d506e3808f1dd6f?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 20 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6946679563141d188456191d?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Dec 20 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694659fc63141d1884561071?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

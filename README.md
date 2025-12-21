@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain, Material Management Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf45215b4156367194842?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Dec 20 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694716ec63141d188456d328?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
 | **[Amgen](http://www.amgen.com)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/694708ff7d506e3808f254d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/694708ef7d506e3808f254d2?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69466e887d506e3808f1dd6f?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6946679563141d188456191d?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Dec 20 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694659fc63141d1884561071?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 20 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69465887d1953b5d11bf7fdd?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

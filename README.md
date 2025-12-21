@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at Arlington](https://jobright.ai/jobs/info/6947bbdc63141d1884577f15?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Dec 21 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947bbbe63141d1884577ebb?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 21 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947ba99d1953b5d11c0e3e8?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Dec 21 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947b5827d506e3808f304ce?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Dec 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478076d1953b5d11c090a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 20 |
 | **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain, Material Management Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf45215b4156367194842?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Dec 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operational Internship](https://jobright.ai/jobs/info/68cc0c987342c7623ae5e0c2?utm_campaign=1050&utm_source=git)** | Westford, MA | On Site | Dec 20 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/691a9030bcdbf3560c9d8995?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cf9090846f0b04af68300a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 20 |
-| **[American Water](http://amwater.com)** | **[Operations Intern](https://jobright.ai/jobs/info/691aaaec45fb6f5ead8acc59?utm_campaign=1050&utm_source=git)** | Scranton, PA | Hybrid | Dec 20 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Poultry Operations Summer 2026 Intern](https://jobright.ai/jobs/info/694677bb63141d1884563bd2?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Dec 20 |
-| **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Tuscaloosa, AL](https://jobright.ai/jobs/info/68c085f85c5d5f14f46dec39?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

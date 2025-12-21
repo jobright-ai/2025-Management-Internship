@@ -135,6 +135,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d519bd24b1ee4c7b663f43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 20 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51d812ed36439e51e4d58?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Dec 20 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[DESRI](https://desri.com/)** | **[Generalist Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd829a1ad6b16f0289aa71?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Dec 20 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Resident Internship - Spring 2026 - Florida](https://jobright.ai/jobs/info/690d0179d046ab6061cf169c?utm_campaign=1050&utm_source=git)** | Delray Beach, FL | On Site | Dec 20 |
 | **[Emerson](http://www.emerson.com)** | **[Supply Chain Analyst Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d18384a1b456627b1d9fb?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Dec 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69466e887d506e3808f1dd6f?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Dec 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6946679563141d188456191d?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Dec 20 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694659fc63141d1884561071?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 20 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69465887d1953b5d11bf7fdd?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Intern](https://jobright.ai/jobs/info/694982cd63141d18845919b1?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Dec 22 |
+| **[Sparrow](https://www.sparrowup.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69497fd87d506e3808f4a09e?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 22 |
+| **[Corient](https://corient.com)** | **[Family Office, Client Solutions Intern: Summer 2026](https://jobright.ai/jobs/info/692f05e7fa28370be26a6ef4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
+| **[Swagelok](http://www.swagelok.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6947c193d1953b5d11c0f40f?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Dec 22 |
+| **[Sutter Health](http://www.sutterhealth.org)** | **[Administrative Healthcare Summer Intern](https://jobright.ai/jobs/info/6949785663141d1884590442?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Dec 22 |
+| **[Kuehne+Nagel](http://www.kuehne-nagel.com)** | **[Sea Logistics Intern - 12months](https://jobright.ai/jobs/info/694977927d506e3808f49020?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 22 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Real Estate Property Management Intern](https://jobright.ai/jobs/info/6944807d94730b739877bd3e?utm_campaign=1050&utm_source=git)** | Triangle Area | On Site | Dec 22 |
+| ↳ | **[Credit Union Branch Operations Intern](https://jobright.ai/jobs/info/693743921c1c2161c13f2276?utm_campaign=1050&utm_source=git)** | Pasco, WA | On Site | Dec 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Vice President Intern](https://jobright.ai/jobs/info/694967997d506e3808f48cec?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 22 |
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Business Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/6949646a7d506e3808f48c86?utm_campaign=1050&utm_source=git)** | Lititz, PA | Hybrid | Dec 22 |
 | **[Valorantum](valorantum.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/694960c5d1953b5d11c2650c?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 22 |
@@ -93,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Benny's Car Wash](http://www.bennyscarwash.com)** | **[Management Internship](https://jobright.ai/jobs/info/69485cabd1953b5d11c17eeb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Dec 21 |
 | **[Staenberg-Loup Jewish Community Center](https://www.jccdenver.org)** | **[Office Manager](https://jobright.ai/jobs/info/6948a3c563141d1884584b1d?utm_campaign=1050&utm_source=git)** | Ranch Camp - Elbert, CO 80106 | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[MBA Intern - Finance & Strategy Leadership Development Program (Summer 2026)](https://jobright.ai/jobs/info/69481afd63141d188457c8f1?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 21 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Vice President Intern](https://jobright.ai/jobs/info/69480a7a63141d188457c333?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ed4ab44146d3b6ec58226?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | ↳ | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/690ec51c44146d3b6ec57a7e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Dec 21 |
@@ -102,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be9?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Dec 21 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Enterprise Strategy and Competitive Intelligence)](https://jobright.ai/jobs/info/68bb7b1e8043103d4f228f1a?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/686434ab3b01d176faa701bc?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 21 |
-| **[National Life Group](https://www.nationallife.com)** | **[Project Management Office Intern – Summer 2026](https://jobright.ai/jobs/info/690e44a244146d3b6ec5263f?utm_campaign=1050&utm_source=git)** | Addison, TX | On Site | Dec 21 |
 | **[McCain Foods](https://www.mccain.com/)** | **[PMT Production Management Internship - Summer 2026](https://jobright.ai/jobs/info/691e6a2ca49a885af9a284ab?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | Hybrid | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program:  US New Product Launches, Data, Digital & Technology (DD&T) Intern](https://jobright.ai/jobs/info/6946d0ca63141d1884568035?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Dec 21 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69422c8abdcf884a5addff24?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Dec 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6947ef47d1953b5d11c108ea?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Dec 21 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d5218524b1ee4c7b6643e3?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Dec 21 |
 | ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/691abdfc45fb6f5ead8ad5d5?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 21 |
-| **[Arup](http://www.arup.com)** | **[Project Administration Intern (Available June 2026)](https://jobright.ai/jobs/info/690743f3122e8474c78e360e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 21 |
-| **[GHD](http://www.ghd.com)** | **[Financial Project Support Intern](https://jobright.ai/jobs/info/68f328939a65fd34585845d4?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Dec 21 |
-| **[Agropur](http://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/6947c6647d506e3808f3284a?utm_campaign=1050&utm_source=git)** | Little Chute, WI | On Site | Dec 21 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947bbbe63141d1884577ebb?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 21 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947b5827d506e3808f304ce?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Dec 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478076d1953b5d11c090a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

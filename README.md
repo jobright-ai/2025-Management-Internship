@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EASTEAM](easteamny.com)** | **[Excecutive Assistant Intern](https://jobright.ai/jobs/info/6948eba6d1953b5d11c1fb6c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 21 |
 | **[GenPark](https://genpark.ai)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6948db747d506e3808f41c17?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 21 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Corporate Strategy MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6948c3fa63141d188458611f?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 21 |
 | **[mundane](https://mundane.bot/)** | **[operations intern](https://jobright.ai/jobs/info/6948bb43d1953b5d11c1c19d?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
@@ -141,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6946dedcd1953b5d11c00ba0?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | ↳ | **[Program Management Graduate Intern](https://jobright.ai/jobs/info/6946db69d1953b5d11c00934?utm_campaign=1050&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Masters Gallery Foods, Inc.](http://mastersgalleryfoods.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6946d87463141d1884569ac3?utm_campaign=1050&utm_source=git)** | Plymouth, WI | On Site | Dec 20 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69337028a0dde7020e2ee035?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/6946c9cb7d506e3808f21fd6?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
 | ↳ | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/6946c9627d506e3808f21fb9?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6948db747d506e3808f41c17?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 21 |
+| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Corporate Strategy MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6948c3fa63141d188458611f?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 21 |
 | **[mundane](https://mundane.bot/)** | **[operations intern](https://jobright.ai/jobs/info/6948bb43d1953b5d11c1c19d?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
 | **[Benny's Car Wash](http://www.bennyscarwash.com)** | **[Management Internship](https://jobright.ai/jobs/info/69485cabd1953b5d11c17eeb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Dec 21 |
 | **[Staenberg-Loup Jewish Community Center](https://www.jccdenver.org)** | **[Office Manager](https://jobright.ai/jobs/info/6948a3c563141d1884584b1d?utm_campaign=1050&utm_source=git)** | Ranch Camp - Elbert, CO 80106 | On Site | Dec 21 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern Wellington & Lake Worth](https://jobright.ai/jobs/info/68d5f6f21f7fb2169ab14f5d?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL | On Site | Dec 21 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Controls Intern - Construction (Wallingford)](https://jobright.ai/jobs/info/68b9d2408043103d4f21ac5c?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Dec 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Lowell, MA](https://jobright.ai/jobs/info/69355053a0dde7020e2f8666?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Dec 21 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Supply Planning](https://jobright.ai/jobs/info/6947a16463141d18845756c3?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Dec 21 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast)](https://jobright.ai/jobs/info/68c65f6f7d0db41142739421?utm_campaign=1050&utm_source=git)** | Wallingford, CT | On Site | Dec 21 |
 | **[Everllence](https://www.everllence.com)** | **[Logistics - Intern](https://jobright.ai/jobs/info/68cd94db1ad6b16f0289bc4a?utm_campaign=1050&utm_source=git)** | Brookshire, TX | On Site | Dec 21 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast)](https://jobright.ai/jobs/info/68ddd6b9a125e75c422af4ec?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Dec 21 |
@@ -127,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947bbbe63141d1884577ebb?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 21 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947b5827d506e3808f304ce?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Dec 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478076d1953b5d11c090a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Purchasing intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6948d6e6d1953b5d11c1ee44?utm_campaign=1050&utm_source=git)** | Georgia, United States | On Site | Dec 20 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 20 |
 | **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain, Material Management Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf45215b4156367194842?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Dec 20 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694716ec63141d188456d328?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d562f221b890c27805edd?utm_campaign=1050&utm_source=git)** | Dinuba, CA | On Site | Dec 20 |
 | **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/692a7774fa28370be269727f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/6929d3624c474121999ca5c5?utm_campaign=1050&utm_source=git)** | Buellton, CA | On Site | Dec 20 |
-| **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd8fbde50091dbfa50a4d?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d6275d046ab6061cf5c38?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

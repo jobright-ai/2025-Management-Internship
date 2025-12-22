@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d802017796a83635f0e39d?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Dec 22 |
+| ↳ | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68fe0811e04ac838fb5b31ca?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Dec 22 |
+| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Austin, TX)](https://jobright.ai/jobs/info/68bb41a16105227d118a4981?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 22 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68d8050b7796a83635f0e5d7?utm_campaign=1050&utm_source=git)** | Burton, MI | On Site | Dec 22 |
+| **[Arora Engineers](http://www.aroraengineers.com)** | **[Project Administrator Intern](https://jobright.ai/jobs/info/690d05e7221b890c2780207c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 22 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Facilities Management](https://jobright.ai/jobs/info/68bb46486105227d118a4be8?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 22 |
+| **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/691422d9e344172248f77319?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Dec 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69490f50d1953b5d11c21eef?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 22 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[Production Clearances & Licensing Operations Internship (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/69490e4263141d188458b4e0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69490de2d1953b5d11c21c31?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Supply Chain Intern, Materials Planning](https://jobright.ai/jobs/info/69337028a0dde7020e2ee035?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/6946c9cb7d506e3808f21fd6?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
 | ↳ | **[2026 Strategic Management Office Intern (MBA)](https://jobright.ai/jobs/info/6946c9627d506e3808f21fb9?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern – R&D Strategy & Operations](https://jobright.ai/jobs/info/6941a890bdcf884a5add6bba?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 20 |
-| **[Century A/C Supply](http://centuryac.com)** | **[2026 Industrial Distribution Summer Internship](https://jobright.ai/jobs/info/6946b752d1953b5d11bfe410?utm_campaign=1050&utm_source=git)** | Beltway 77099 - Houston, TX 77099 | On Site | Dec 20 |
-| **[Zscaler](https://www.zscaler.com)** | **[Future Workplace Strategist Intern](https://jobright.ai/jobs/info/6924c71bc0cefa13343e1c8c?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 20 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c2e0033bef502c86873?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 20 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Dec 20 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Dec 20 |
-| **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Participant Engagement](https://jobright.ai/jobs/info/6946a8db7d506e3808f20cea?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

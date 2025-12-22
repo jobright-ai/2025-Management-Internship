@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69490f50d1953b5d11c21eef?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 22 |
+| **[Paramount Global](https://www.paramountglobal.com/)** | **[Production Clearances & Licensing Operations Internship (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/69490e4263141d188458b4e0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69490de2d1953b5d11c21c31?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 22 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Jarislowsky Fraser - Operations Internship/Co-op - Summer 2026 - Montreal](https://jobright.ai/jobs/info/694908a363141d188458acd3?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 22 |
+| ↳ | **[GBM - Data and Operational Initiatives Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/6949069d63141d188458ac3a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[EASTEAM](easteamny.com)** | **[Excecutive Assistant Intern](https://jobright.ai/jobs/info/6948eba6d1953b5d11c1fb6c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 21 |
 | **[GenPark](https://genpark.ai)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6948db747d506e3808f41c17?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 21 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Corporate Strategy MBA Intern - Summer 2026](https://jobright.ai/jobs/info/6948c3fa63141d188458611f?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Dec 20 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Dec 20 |
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Participant Engagement](https://jobright.ai/jobs/info/6946a8db7d506e3808f20cea?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d519ed046ab6061cf551b?utm_campaign=1050&utm_source=git)** | Lathrop, CA | On Site | Dec 20 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f48a5e55be5e2604f88d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d562f221b890c27805edd?utm_campaign=1050&utm_source=git)** | Dinuba, CA | On Site | Dec 20 |
-| **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/692a7774fa28370be269727f?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 20 |
-| **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/6929d3624c474121999ca5c5?utm_campaign=1050&utm_source=git)** | Buellton, CA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

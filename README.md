@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Vice President Intern](https://jobright.ai/jobs/info/694967997d506e3808f48cec?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 22 |
+| **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Business Relations Intern (Summer 2026)](https://jobright.ai/jobs/info/6949646a7d506e3808f48c86?utm_campaign=1050&utm_source=git)** | Lititz, PA | Hybrid | Dec 22 |
+| **[Valorantum](valorantum.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/694960c5d1953b5d11c2650c?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 22 |
+| **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Internship](https://jobright.ai/jobs/info/694959e363141d188458fdfc?utm_campaign=1050&utm_source=git)** | Shelby Township, MI | On Site | Dec 22 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Reverse Logistics Summer 2026 Internship (Remote Friendly)](https://jobright.ai/jobs/info/6949576963141d188458fdb7?utm_campaign=1050&utm_source=git)** | Lititz, PA | Remote | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb797b8043103d4f228dac?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
 | ↳ | **[Summer Associate Internship (Mortgage Member Services Specialist)](https://jobright.ai/jobs/info/68bb78ab5f3832749186f65c?utm_campaign=1050&utm_source=git)** | Winchester, VA | Hybrid | Dec 22 |
@@ -77,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Arora Engineers](http://www.aroraengineers.com)** | **[Project Administrator Intern](https://jobright.ai/jobs/info/690d05e7221b890c2780207c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 22 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Facilities Management](https://jobright.ai/jobs/info/68bb46486105227d118a4be8?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 22 |
 | **[Ameren](http://ameren.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/691422d9e344172248f77319?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Dec 22 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Operational Excellence Intern Summer 2026](https://jobright.ai/jobs/info/691accbb15b415636718ab1b?utm_campaign=1050&utm_source=git)** | Hopkins, SC | On Site | Dec 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69490f50d1953b5d11c21eef?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 22 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[Production Clearances & Licensing Operations Internship (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/69490e4263141d188458b4e0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69490de2d1953b5d11c21c31?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 22 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Staenberg-Loup Jewish Community Center](https://www.jccdenver.org)** | **[Office Manager](https://jobright.ai/jobs/info/6948a3c563141d1884584b1d?utm_campaign=1050&utm_source=git)** | Ranch Camp - Elbert, CO 80106 | On Site | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[MBA Intern - Finance & Strategy Leadership Development Program (Summer 2026)](https://jobright.ai/jobs/info/69481afd63141d188457c8f1?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 21 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Vice President Intern](https://jobright.ai/jobs/info/69480a7a63141d188457c333?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Dec 21 |
-| **[Ferrovias](ferrovias.us)** | **[Health, Safety and Environment Intern- Spring 2026](https://jobright.ai/jobs/info/6948032ad1953b5d11c12a9e?utm_campaign=1050&utm_source=git)** | Mebane, NC | Remote | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Research Program Manager Intern](https://jobright.ai/jobs/info/690ed4ab44146d3b6ec58226?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | ↳ | **[2026 Summer Internship Program: Global Clinical Supply Chain - Planning Intern](https://jobright.ai/jobs/info/690ec51c44146d3b6ec57a7e?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 21 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Dec 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947bbbe63141d1884577ebb?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 21 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947b5827d506e3808f304ce?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Dec 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478076d1953b5d11c090a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Purchasing intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6948d6e6d1953b5d11c1ee44?utm_campaign=1050&utm_source=git)** | Georgia, United States | On Site | Dec 20 |
-| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 20 |
-| **[GlobalFoundries](https://gf.com/)** | **[Global Supply Chain, Material Management Intern (Summer 2026)](https://jobright.ai/jobs/info/691bf45215b4156367194842?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

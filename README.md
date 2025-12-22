@@ -121,9 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Project Administration Intern (Available June 2026)](https://jobright.ai/jobs/info/690743f3122e8474c78e360e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 21 |
 | **[GHD](http://www.ghd.com)** | **[Financial Project Support Intern](https://jobright.ai/jobs/info/68f328939a65fd34585845d4?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Dec 21 |
 | **[Agropur](http://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/6947c6647d506e3808f3284a?utm_campaign=1050&utm_source=git)** | Little Chute, WI | On Site | Dec 21 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at Arlington](https://jobright.ai/jobs/info/6947bbdc63141d1884577f15?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Dec 21 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947bbbe63141d1884577ebb?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 21 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947ba99d1953b5d11c0e3e8?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Dec 21 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947bbbe63141d1884577ebb?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Dec 21 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6947b5827d506e3808f304ce?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Dec 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69478076d1953b5d11c090a2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 20 |
@@ -131,8 +129,7 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694716ec63141d188456d328?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Dec 20 |
 | **[Amgen](http://www.amgen.com)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/694708ff7d506e3808f254d5?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/694708ef7d506e3808f254d2?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Dec 20 |
-| **[Trust Point Inc.](http://trustpointinc.com)** | **[Intern- Wealth Management](https://jobright.ai/jobs/info/6947020263141d188456b2a0?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 20 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69470191d1953b5d11c01e68?utm_campaign=1050&utm_source=git)** | Lafayette, LA, USA | On Site | Dec 20 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/69470191d1953b5d11c01e68?utm_campaign=1050&utm_source=git)** | Lafayette, LA, USA | On Site | Dec 20 |
 | **[Flinn Scientific, Inc.](http://flinnsci.com)** | **[Internship Procurement - Summer 2026](https://jobright.ai/jobs/info/6947014463141d188456b17a?utm_campaign=1050&utm_source=git)** | BATAVIA, IL 60510 | On Site | Dec 20 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Operations Intern](https://jobright.ai/jobs/info/6946fa68d1953b5d11c01a94?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 20 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/6929d3624c474121999ca5c5?utm_campaign=1050&utm_source=git)** | Buellton, CA | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Operations Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68efd8fbde50091dbfa50a4d?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Dec 20 |
 | **[Panda Restaurant Group](https://www.pandarg.com)** | **[Restaurant Internship](https://jobright.ai/jobs/info/690d6275d046ab6061cf5c38?utm_campaign=1050&utm_source=git)** | Rossford, OH | On Site | Dec 20 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/690d5df64a1b456627b20c2e?utm_campaign=1050&utm_source=git)** | Renton, WA | On Site | Dec 20 |
+| ↳ | **[Restaurant Internship](https://jobright.ai/jobs/info/6929fa0966796e3028f8dd61?utm_campaign=1050&utm_source=git)** | Spokane Valley, WA | On Site | Dec 20 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Utilization Management Operations - R10694](https://jobright.ai/jobs/info/68f01db59821486c423c8d60?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

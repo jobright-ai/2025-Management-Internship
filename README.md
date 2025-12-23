@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midrex Technologies, Inc.](https://www.midrex.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68f7f6b3b0edcf159dc8cccc?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 23 |
+| **[Trace3](http://trace3.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69408c68aa598a08c3f03b72?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Dec 23 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Supply Chain Operations Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/691ae24345fb6f5ead8ae9fa?utm_campaign=1050&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
+| ↳ | **[Global Sourcing Intern - Summer 2026 (Calhoun, Georgia, United States, 30701)](https://jobright.ai/jobs/info/691ad64c45fb6f5ead8ae2de?utm_campaign=1050&utm_source=git)** | Calhoun, GA | On Site | Dec 23 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/694a526831c12007d3b91026?utm_campaign=1050&utm_source=git)** | Fair Lawn, NJ | On Site | Dec 23 |
+| **[Nightwing](nightwing.com)** | **[Supply Chain Intern - 2026](https://jobright.ai/jobs/info/694a4ebe31c12007d3b90e9e?utm_campaign=1050&utm_source=git)** | Sterling, VA | On Site | Dec 23 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - DHA Contract Support](https://jobright.ai/jobs/info/6904ee5963502c0aded766b0?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Dec 22 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning](https://jobright.ai/jobs/info/694a271363141d188459d773?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Dec 22 |
 | **[Wagner Spray Tech](https://www.wagnerspraytech.com)** | **[Purchasing Intern](https://jobright.ai/jobs/info/694a19d063141d188459ca98?utm_campaign=1050&utm_source=git)** | Plymouth, MN | Hybrid | Dec 22 |
@@ -97,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694a108d63141d188459b735?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Dec 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0ad763141d188459a712?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL | On Site | Dec 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a14a963141d188459c1c0?utm_campaign=1050&utm_source=git)** | Schererville, IN | On Site | Dec 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0b177d506e3808f534e8?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Dec 22 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0fb17d506e3808f5412c?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Dec 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0baa7d506e3808f536b3?utm_campaign=1050&utm_source=git)** | Tinley Park, IL | On Site | Dec 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0fb17d506e3808f5412c?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Dec 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0b177d506e3808f534e8?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Dec 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0ffb63141d188459b5d6?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | Dec 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/694a0bbd63141d188459a98f?utm_campaign=1050&utm_source=git)** | Freeport, IL | On Site | Dec 22 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern- Strategy](https://jobright.ai/jobs/info/6949e51663141d18845970e7?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 22 |
@@ -109,15 +115,15 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Facilities Intern - Dallas TX](https://jobright.ai/jobs/info/694a0e9d7d506e3808f53e74?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
 | ↳ | **[2026 Summer - Material Program Management Intern - Melbourne FL](https://jobright.ai/jobs/info/694a071263141d1884599de6?utm_campaign=1050&utm_source=git)** | Melbourne, FL | Hybrid | Dec 22 |
 | **[Netflix](https://www.netflix.com)** | **[Security Technical Program Manager, Intern (Summer 2026)](https://jobright.ai/jobs/info/6949f9167d506e3808f5086b?utm_campaign=1050&utm_source=git)** | Los Gatos, CA | On Site | Dec 22 |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Production Operations Intern (Dallas TX)](https://jobright.ai/jobs/info/6949fdcdc6f0e2546ceed94c?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Production Operations Intern (Dallas TX)](https://jobright.ai/jobs/info/6949fcbc63141d1884598138?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Dec 22 |
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Accident & Health Underwriting](https://jobright.ai/jobs/info/694a097a7d506e3808f531ab?utm_campaign=1050&utm_source=git)** | Minnetonka | Hybrid | Dec 22 |
 | ↳ | **[2026 Summer Intern - Accident & Health Underwriting](https://jobright.ai/jobs/info/694a0af2c6f0e2546ceefc70?utm_campaign=1050&utm_source=git)** | Kennesaw | Hybrid | Dec 22 |
 | ↳ | **[2026 Summer Intern - Inland Marine Underwriting](https://jobright.ai/jobs/info/6949fde3c6f0e2546ceed982?utm_campaign=1050&utm_source=git)** | Remote - US | Remote | Dec 22 |
-| **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a074d63141d1884599eac?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Dec 22 |
-| ↳ | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a05d6c6f0e2546ceeef79?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Dec 22 |
+| **[Cisco](http://www.cisco.com)** | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a01047d506e3808f51b83?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, US | Remote | Dec 22 |
 | ↳ | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a1a5cc6f0e2546cef2398?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, US | Remote | Dec 22 |
-| ↳ | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a01047d506e3808f51b83?utm_campaign=1050&utm_source=git)** | Washington, District of Columbia, US | Remote | Dec 22 |
+| ↳ | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a074d63141d1884599eac?utm_campaign=1050&utm_source=git)** | San Francisco, California, US | Remote | Dec 22 |
 | ↳ | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a0ebc63141d188459b21c?utm_campaign=1050&utm_source=git)** | Austin, Texas, US | Remote | Dec 22 |
+| ↳ | **[Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/694a05d6c6f0e2546ceeef79?utm_campaign=1050&utm_source=git)** | San Jose, California, US | Remote | Dec 22 |
 | **[Bandon Dunes Golf Resort](https://www.bandondunesgolf.com/)** | **[Food and Beverage Internship @ Bandon Dunes Golf Resort](https://jobright.ai/jobs/info/694a017363141d1884598fec?utm_campaign=1050&utm_source=git)** | Bandon, OR | On Site | Dec 22 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[High School Intern - Rehab Aide](https://jobright.ai/jobs/info/694a0cf27d506e3808f53a77?utm_campaign=1050&utm_source=git)** | Bemidji, MN | On Site | Dec 22 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/6949c282d1953b5d11c2ce99?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 22 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain](https://jobright.ai/jobs/info/694a430f3019f50a4fe56b44?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Dec 22 |
 | **[Merjent](http://merjent.com)** | **[Cultural Resources Management Intern](https://jobright.ai/jobs/info/694a3d4731c12007d3b9002d?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 22 |
 | **[Jenner & Block](http://jenner.com/)** | **[Client Arrangments Intern](https://jobright.ai/jobs/info/694a3dc431c12007d3b900a2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 22 |
-| **[BMO](http://www.bmo.com)** | **[Scrum Master Intern, Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694a0276c6f0e2546ceee5d6?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 22 |
-| **[Jenner & Block](http://jenner.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/694a480c31c12007d3b908bf?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
-| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/694a433b187e565c6bfa4bef?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 22 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Hospitality FP&A Intern](https://jobright.ai/jobs/info/6949946563141d188459315a?utm_campaign=1050&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Dec 22 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/6949939bd1953b5d11c29511?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Dec 22 |
-| ↳ | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/694990fcd1953b5d11c2908a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
-| ↳ | **[2026 Summer Intern - Strategic Innovation Group](https://jobright.ai/jobs/info/6949909f7d506e3808f4b676?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
+| ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/694a480c31c12007d3b908bf?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

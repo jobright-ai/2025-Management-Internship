@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TRDI Incorporated](https://trdi.org/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6949f3bc7d506e3808f5044f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 22 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern - MaineHealth Medical Group Operations - Strategy](https://jobright.ai/jobs/info/6949f268d1953b5d11c2ddf4?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Dec 22 |
+| ↳ | **[Intern - MaineHealth Medical Group Operations - Systems](https://jobright.ai/jobs/info/6949efcdd1953b5d11c2da83?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Dec 22 |
+| ↳ | **[Intern - Waldo Hospital Nursing Administration](https://jobright.ai/jobs/info/6949ef17d1953b5d11c2d96c?utm_campaign=1050&utm_source=git)** | Belfast, ME | On Site | Dec 22 |
+| ↳ | **[Intern- Strategy](https://jobright.ai/jobs/info/6949e51663141d18845970e7?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 22 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/6949c282d1953b5d11c2ce99?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 22 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6949ad3cd1953b5d11c2afe3?utm_campaign=1050&utm_source=git)** | Bedford, TX | On Site | Dec 22 |
 | **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Operations-Intern](https://jobright.ai/jobs/info/690f5184d046ab6061d04aef?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 22 |
@@ -66,12 +71,10 @@ For a complete list, click the following sortable link below:
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern -Supply Chain](https://jobright.ai/jobs/info/69499b6bd1953b5d11c2a0e6?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Dec 22 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Hospitality FP&A Intern](https://jobright.ai/jobs/info/6949946563141d188459315a?utm_campaign=1050&utm_source=git)** | Orlando Corporate Headquarters | Hybrid | Dec 22 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/6949939bd1953b5d11c29511?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Dec 22 |
-| **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Property Operations Intern](https://jobright.ai/jobs/info/694991ca63141d1884592cd7?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 22 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/694990fcd1953b5d11c2908a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
+| ↳ | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/694990fcd1953b5d11c2908a?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
 | ↳ | **[2026 Summer Intern - Strategic Innovation Group](https://jobright.ai/jobs/info/6949909f7d506e3808f4b676?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
 | ↳ | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/69498d22d1953b5d11c28985?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
 | ↳ | **[2026 Summer Intern - Business Unit, CFO (Ind Retirement & Employee Benefits)](https://jobright.ai/jobs/info/69498a7d7d506e3808f4aced?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Property Operations Intern](https://jobright.ai/jobs/info/694986de7d506e3808f4ac51?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | On Site | Dec 22 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69497fd87d506e3808f4a09e?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Corient](https://corient.com)** | **[Family Office, Client Solutions Intern: Summer 2026](https://jobright.ai/jobs/info/692f05e7fa28370be26a6ef4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Swagelok](http://www.swagelok.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6947c193d1953b5d11c0f40f?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Dec 22 |
@@ -111,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69490de2d1953b5d11c21c31?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Jarislowsky Fraser - Operations Internship/Co-op - Summer 2026 - Montreal](https://jobright.ai/jobs/info/694908a363141d188458acd3?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 22 |
 | ↳ | **[GBM - Data and Operational Initiatives Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/6949069d63141d188458ac3a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
-| **[EASTEAM](easteamny.com)** | **[Excecutive Assistant Intern](https://jobright.ai/jobs/info/6948eba6d1953b5d11c1fb6c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 21 |
 | **[mundane](https://mundane.bot/)** | **[operations intern](https://jobright.ai/jobs/info/6948bb43d1953b5d11c1c19d?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Dec 21 |
 | **[Benny's Car Wash](http://www.bennyscarwash.com)** | **[Management Internship](https://jobright.ai/jobs/info/69485cabd1953b5d11c17eeb?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Dec 21 |
 | **[Staenberg-Loup Jewish Community Center](https://www.jccdenver.org)** | **[Office Manager](https://jobright.ai/jobs/info/6948a3c563141d1884584b1d?utm_campaign=1050&utm_source=git)** | Ranch Camp - Elbert, CO 80106 | On Site | Dec 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Potelco Inc](http://www.potelco.net/)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/692053bc00c9ee50eaec18e4?utm_campaign=1050&utm_source=git)** | Hubbard, OR | On Site | Dec 21 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Northeast)](https://jobright.ai/jobs/info/68d6924945853d0e39cc85f8?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | On Site | Dec 21 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/68b9d5085f3832749186142d?utm_campaign=1050&utm_source=git)** | Worthing, SD | On Site | Dec 21 |
-| **[Rocket Lab](https://rocketlabcorp.com)** | **[Project Management Intern Spring 2026](https://jobright.ai/jobs/info/68bb28896105227d118a3746?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 21 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Fall 2026 / Toledo](https://jobright.ai/jobs/info/6948ad5963141d1884584f4e?utm_campaign=1050&utm_source=git)** | Toledo, OH | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

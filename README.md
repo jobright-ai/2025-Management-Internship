@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/6949c282d1953b5d11c2ce99?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 22 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6949ad3cd1953b5d11c2afe3?utm_campaign=1050&utm_source=git)** | Bedford, TX | On Site | Dec 22 |
 | **[Crete Carrier Corporation](https://cretecarrier.com/)** | **[Operations-Intern](https://jobright.ai/jobs/info/690f5184d046ab6061d04aef?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Dec 22 |
+| **[Moxie Pest Control](https://www.moxieservices.com)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/6944beafa7227b3ece666a5d?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Dec 22 |
 | **[The Scion Group](http://thesciongroup.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/69499cc8d1953b5d11c2a1f4?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, United States | On Site | Dec 22 |
 | **[Hodess Cleanrooms, The Full Lifecycle Partner](https://www.hodesscleanrooms.com)** | **[Intern](https://jobright.ai/jobs/info/68d3273517554c2d9eeee447?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Dec 22 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern -Supply Chain](https://jobright.ai/jobs/info/69499b6bd1953b5d11c2a0e6?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Dec 22 |
@@ -69,8 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Strategic Innovation Group](https://jobright.ai/jobs/info/6949909f7d506e3808f4b676?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 22 |
 | ↳ | **[2026 Summer Intern - Innovation & Design Office, Operations](https://jobright.ai/jobs/info/69498d22d1953b5d11c28985?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
 | ↳ | **[2026 Summer Intern - Business Unit, CFO (Ind Retirement & Employee Benefits)](https://jobright.ai/jobs/info/69498a7d7d506e3808f4aced?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Property Operations Intern](https://jobright.ai/jobs/info/694989f9d1953b5d11c28679?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Dec 22 |
-| ↳ | **[Property Operations Intern](https://jobright.ai/jobs/info/694986de7d506e3808f4ac51?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | On Site | Dec 22 |
+| **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Property Operations Intern](https://jobright.ai/jobs/info/694986de7d506e3808f4ac51?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | On Site | Dec 22 |
 | **[Sparrow](https://www.sparrowup.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69497fd87d506e3808f4a09e?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 22 |
 | **[Corient](https://corient.com)** | **[Family Office, Client Solutions Intern: Summer 2026](https://jobright.ai/jobs/info/692f05e7fa28370be26a6ef4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Swagelok](http://www.swagelok.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6947c193d1953b5d11c0f40f?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Dec 22 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Valorantum](valorantum.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/694960c5d1953b5d11c2650c?utm_campaign=1050&utm_source=git)** | Racine, WI | Remote | Dec 22 |
 | **[Young Entrepreneurs Across America](https://www.yeaainternship.com)** | **[General Business Internship](https://jobright.ai/jobs/info/694959e363141d188458fdfc?utm_campaign=1050&utm_source=git)** | Shelby Township, MI | On Site | Dec 22 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern -Supply Chain](https://jobright.ai/jobs/info/69498ed27d506e3808f4b35b?utm_campaign=1050&utm_source=git)** | 27175 Energy Way, Novi, MI, 48377, US | On Site | Dec 22 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Operations Intern , Summer 2026 - Elk Grove Village, IL](https://jobright.ai/jobs/info/69499ecc63141d1884593cb8?utm_campaign=1050&utm_source=git)** | Elk Grove Village, IL | On Site | Dec 22 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Reverse Logistics Summer 2026 Internship (Remote Friendly)](https://jobright.ai/jobs/info/6949576963141d188458fdb7?utm_campaign=1050&utm_source=git)** | Lititz, PA | Remote | Dec 22 |
 | **[ITC Holdings Corp.](http://www.itc-holdings.com/)** | **[Intern -Supply Chain](https://jobright.ai/jobs/info/694996ebd1953b5d11c29a4f?utm_campaign=1050&utm_source=git)** | Novi, MI, United States | On Site | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Digital Strategist)](https://jobright.ai/jobs/info/68bb790b5f3832749186f6b8?utm_campaign=1050&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |

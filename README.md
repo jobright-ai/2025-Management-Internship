@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BMO](http://www.bmo.com)** | **[Corporate Real Estate Health & Safety Associate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c4008d64ebf28d821d79c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 24 |
-| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c3fb0d64ebf28d821d76b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 24 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/694c5c601a572a617dde9df9?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
+| ↳ | **[Purchasing & Procurement - Intern](https://jobright.ai/jobs/info/694c5b8a5d7312113470d3b5?utm_campaign=1050&utm_source=git)** | Nisku, Alberta, Canada | On Site | Dec 24 |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Engineering Project Manager Intern](https://jobright.ai/jobs/info/694c5abd5d7312113470d345?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
+| **[McCain Foods](https://www.mccain.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/694c5a9d5d7312113470d337?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | Hybrid | Dec 24 |
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c388b1a572a617dde72be?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
-| ↳ | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c2898d64ebf28d821d076?utm_campaign=1050&utm_source=git)** | New York | Hybrid | Dec 24 |
+| **[City Union Mission](https://cityunionmission.org/)** | **[Men's Center Case Manager Intern](https://jobright.ai/jobs/info/694c4fee5d7312113470b6e7?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 24 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Project Management Function Intern](https://jobright.ai/jobs/info/694c4c34d64ebf28d821df28?utm_campaign=1050&utm_source=git)** | Swiftwater, PA | On Site | Dec 24 |
+| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c3fb0d64ebf28d821d76b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c272dd64ebf28d821cfdc?utm_campaign=1050&utm_source=git)** | New York | Hybrid | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c1ee05d7312113470a335?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Corporate Real Estate Health & Safety Associate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c1ca1d64ebf28d821c6a2?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c1b17d64ebf28d821becc?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
@@ -86,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Supply Chain Internship](https://jobright.ai/jobs/info/68cf25d8dbd9fb154ede55b9?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Dec 24 |
 | **[Henkel](http://www.henkel.com)** | **[Shift Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68ca2d6ff16e3266d2823859?utm_campaign=1050&utm_source=git)** | West Hazleton, PA | On Site | Dec 24 |
 | **[MP Materials](https://mpmaterials.com)** | **[Summer Strategy Intern](https://jobright.ai/jobs/info/692fb5eaef4b48533d14859f?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 24 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69144115286ccf0a151260c5?utm_campaign=1050&utm_source=git)** | Garrisonville, VA | On Site | Dec 24 |
 | **[Greystar](http://greystar.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/692f3f81fa28370be26a850d?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Dec 24 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6912e073ea9ab01b82bf5f3d?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Dec 24 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[CM Intern](https://jobright.ai/jobs/info/692fc297ef4b48533d148aa0?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Dec 24 |
@@ -97,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Business Internship](https://jobright.ai/jobs/info/691aaa6dbcdbf3560c9d9a34?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Dec 24 |
 | **[Archer](https://www.archer.com)** | **[Airline Operations Intern](https://jobright.ai/jobs/info/694bda2cd64ebf28d8218607?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | **[Siemens](https://www.siemens.com)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6912ef60ea9ab01b82bf6773?utm_campaign=1050&utm_source=git)** | Cypress, CA | On Site | Dec 24 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/694bfbd71a572a617dde4974?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691868d015b4156367182139?utm_campaign=1050&utm_source=git)** | Kingston, Ontario, Canada | On Site | Dec 24 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Multifamily Project Management Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/69326888f131d96e4845bf47?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 24 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Intern Summer 2026](https://jobright.ai/jobs/info/6912ee65c98948514c47f9b8?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Dec 24 |
@@ -106,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Logistics](https://jobright.ai/jobs/info/692fa6dc4c474121999e17bf?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69125949ea9ab01b82bf1add?utm_campaign=1050&utm_source=git)** | Hamel, MN | On Site | Dec 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Program Manager, Operations (Adobe.com)](https://jobright.ai/jobs/info/6912eed0c98948514c47f9db?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Strategy MBA Intern](https://jobright.ai/jobs/info/694bfbd71a572a617dde4974?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[American Water](http://amwater.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6931618cfa28370be26b8926?utm_campaign=1050&utm_source=git)** | Short Hills, NJ | On Site | Dec 24 |
 | **[NextDecade](https://www.next-decade.com/)** | **[Summer 2026 Supply Chain Internship](https://jobright.ai/jobs/info/69126d38ea9ab01b82bf290f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692f926fef4b48533d146ead?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Dec 24 |
@@ -152,11 +159,4 @@ Job ID : 269646](https://jobright.ai/jobs/info/694bbb0cd64ebf28d8216c14?utm_camp
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Commissary Internship, Target Field](https://jobright.ai/jobs/info/694b399f1224705e900250c2?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694b51232d2650580da610fb?utm_campaign=1050&utm_source=git)** | Anderson, IN | On Site | Dec 23 |
 | **[The Miller Group](https://www.millergroup.ca)** | **[Project Assistant, Student (4 Months)](https://jobright.ai/jobs/info/694b724b5d731211346ff85e?utm_campaign=1050&utm_source=git)** | Whitchurch-Stouffville, Ontario, Canada | On Site | Dec 23 |
-| **[Etnyre International, Ltd.](https://etnyreinternational.com)** | **[Operations Intern](https://jobright.ai/jobs/info/694b4fb9d64ebf28d82109b7?utm_campaign=1050&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Dec 23 |
-| **[ADT](http://www.adt.com)** | **[Sourcing and Vendor Management Intern](https://jobright.ai/jobs/info/690ec22e221b890c27811664?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | Hybrid | Dec 23 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Mechanicsburg](https://jobright.ai/jobs/info/694b48103019f50a4fe66286?utm_campaign=1050&utm_source=git)** | Mechanicsburg | On Site | Dec 23 |
-| **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/694b462c3019f50a4fe6616d?utm_campaign=1050&utm_source=git)** | McCarran, NV | On Site | Dec 23 |
-| **[TRDI Incorporated](https://trdi.org/)** | **[Logistics Intern](https://jobright.ai/jobs/info/694b46051224705e90026fcb?utm_campaign=1050&utm_source=git)** | Holloman Air Force Base, NM | Hybrid | Dec 23 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/694b45024b53a1551f950e69?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | On Site | Dec 23 |
-| **[Seaman Corporation](http://www.seamancorp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694b44ff3019f50a4fe6609a?utm_campaign=1050&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

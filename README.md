@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/694b462c3019f50a4fe6616d?utm_campaign=1050&utm_source=git)** | McCarran, NV | On Site | Dec 23 |
+| **[TRDI Incorporated](https://trdi.org/)** | **[Logistics Intern](https://jobright.ai/jobs/info/694b46051224705e90026fcb?utm_campaign=1050&utm_source=git)** | Holloman Air Force Base, NM | Hybrid | Dec 23 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/694b45024b53a1551f950e69?utm_campaign=1050&utm_source=git)** | Toronto, ON, Canada | On Site | Dec 23 |
+| **[Seaman Corporation](http://www.seamancorp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694b44ff3019f50a4fe6609a?utm_campaign=1050&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
+| **[ProEgg](https://proegg.com)** | **[Supply Chain and Logistics Intern](https://jobright.ai/jobs/info/694b44021224705e90026e4b?utm_campaign=1050&utm_source=git)** | Colorado, United States | On Site | Dec 23 |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Concessions Internship, Target Field](https://jobright.ai/jobs/info/694b3c634b53a1551f950817?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
+| ↳ | **[Commissary Internship, Target Field](https://jobright.ai/jobs/info/694b399f1224705e900250c2?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
+| **[ChenMed](http://www.chenmed.com/)** | **[Intern](https://jobright.ai/jobs/info/694b38844b53a1551f94efbe?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Dec 23 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Special Projects Intern](https://jobright.ai/jobs/info/694b36033019f50a4fe640d2?utm_campaign=1050&utm_source=git)** | Red Oak, TX | Hybrid | Dec 23 |
+| **[Promega Corporation](http://www.promega.com/es)** | **[R&D Administrative Intern](https://jobright.ai/jobs/info/694b34d24b53a1551f94edea?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Dec 23 |
+| **[FirstCash](https://firstcash.com/)** | **[Real Estate Intern](https://jobright.ai/jobs/info/694b30d71224705e90024ce1?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 23 |
+| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Strategy & Portfolio Management](https://jobright.ai/jobs/info/694b306c1224705e90024cab?utm_campaign=1050&utm_source=git)** | Newton, MA | On Site | Dec 23 |
 | **[Mastercard](http://www.mastercard.com)** | **[Technical Program Management Intern, Summer 2026 - Toronto, Canada](https://jobright.ai/jobs/info/694b27e14b53a1551f94e89b?utm_campaign=1050&utm_source=git)** | North York, Ontario, Canada | On Site | Dec 23 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/694b27961224705e900249ab?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 23 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Commercial Grounds Maintenance Operations Internship](https://jobright.ai/jobs/info/694b243c3019f50a4fe63880?utm_campaign=1050&utm_source=git)** | Apex, NC | On Site | Dec 23 |
@@ -76,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Viasat](http://www.viasat.com)** | **[Supply Planning Intern](https://jobright.ai/jobs/info/694b099767a69734cac619bf?utm_campaign=1050&utm_source=git)** | Duluth, GA | On Site | Dec 23 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Risk and Reconciliation Operations Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694b09921224705e90021d57?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Spring Internship - Corporate Services - Facilities](https://jobright.ai/jobs/info/694b08fa3019f50a4fe60f63?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 23 |
+| **[Zoox](https://www.zoox.com/)** | **[Operations Program Management Intern](https://jobright.ai/jobs/info/694b089767a69734cac618be?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/694b08423019f50a4fe60efe?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Strategy & Analytics](https://jobright.ai/jobs/info/694b21353019f50a4fe636d5?utm_campaign=1050&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 23 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/694b01f23019f50a4fe6094a?utm_campaign=1050&utm_source=git)** | Chanhassen, MN | On Site | Dec 23 |
@@ -86,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Tropicana Brands Group](https://www.tropicanabrandsgroup.com)** | **[Supply Chain 2026 Logistics Internship](https://jobright.ai/jobs/info/694b19194b53a1551f94d57d?utm_campaign=1050&utm_source=git)** | City of Industry, CA | On Site | Dec 23 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Wealth Management - Business and Strategy Analyst Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694b26b71224705e9002492c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | **[Nokia](http://www.nokia.com)** | **[Technical Project Manager – Co-op/Intern](https://jobright.ai/jobs/info/694b1d6a3019f50a4fe63597?utm_campaign=1050&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 23 |
-| **[New York Habitat](https://www.nyhabitat.com/)** | **[Management Intern](https://jobright.ai/jobs/info/694af58f67a69734cac609c6?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Zoox](https://www.zoox.com/)** | **[Process and Strategy Analyst Intern](https://jobright.ai/jobs/info/694b14551224705e90022e55?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Research and Development Strategic Operations Intern](https://jobright.ai/jobs/info/694b16dc4b53a1551f94d04e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[Research & Operations - Fall 2026 HOD Intern](https://jobright.ai/jobs/info/694af3203019f50a4fe5fdea?utm_campaign=1050&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
@@ -105,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[YES Network](http://web.yesnetwork.com)** | **[Strategy and Operations Intern – Spring 2026 (NYC)](https://jobright.ai/jobs/info/693b14afd4054a2bc02508ef?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/6945fdbc63141d1884559f40?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
 | ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/6945f78b63141d1884559029?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694aff6f67a69734cac611f4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 23 |
 | **[McShane Construction Company](http://mcshane-construction.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/694afb063019f50a4fe603c4?utm_campaign=1050&utm_source=git)** | Madison,WI,US | On Site | Dec 23 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Intern](https://jobright.ai/jobs/info/694adc7a67a69734cac5fdea?utm_campaign=1050&utm_source=git)** | Sussex, WI | On Site | Dec 23 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694aff0f3019f50a4fe606ad?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 23 |
 | **[Lend At Ease (Lic 12257)](https://www.lendatease.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/694aef1e1224705e90020951?utm_campaign=1050&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Dec 23 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[IT - Technical Project Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/694acc783019f50a4fe5e1c3?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
 | **[Analog Devices](http://www.analog.com)** | **[Project/Program Management Intern](https://jobright.ai/jobs/info/690a759cbcccf20de59e2957?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | On Site | Dec 23 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68a869e96acf96396f71fc06?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Dec 23 |
 | ↳ | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/688bb5451808534a89cb53df?utm_campaign=1050&utm_source=git)** | Spartanburg, SC | On Site | Dec 23 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Memphis, TN (FDC)](https://jobright.ai/jobs/info/694ab4a767a69734cac5d425?utm_campaign=1050&utm_source=git)** | USA, TN, Memphis | On Site | Dec 23 |
-| ↳ | **[OBF Specialty Operations Intern - Summer 2026 - Olive Branch, MS](https://jobright.ai/jobs/info/694ab11267a69734cac5d27b?utm_campaign=1050&utm_source=git)** | USA, MS, Olive Branch | On Site | Dec 23 |
-| ↳ | **[Operations Intern - Summer 2026 - West Sacramento, CA](https://jobright.ai/jobs/info/694ab7ef3019f50a4fe5cc05?utm_campaign=1050&utm_source=git)** | USA, CA, West Sacramento | On Site | Dec 23 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/68c7988ac96a22563ecf2c06?utm_campaign=1050&utm_source=git)** | Republic, MO | On Site | Dec 23 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - ID, MT, WY, CO](https://jobright.ai/jobs/info/68c8f39bf9c6ff7aedf154e9?utm_campaign=1050&utm_source=git)** | Nampa, ID | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Princeton, WV](https://jobright.ai/jobs/info/6933ef24f131d96e48468525?utm_campaign=1050&utm_source=git)** | Princeton, WV | On Site | Dec 23 |
-| ↳ | **[Summer 2026 Management Internship - Downtown Boston](https://jobright.ai/jobs/info/6933d7e1f131d96e48467bcf?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 23 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/68c8ddfcf9c6ff7aedf137db?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - California](https://jobright.ai/jobs/info/68a86b2bd627244576e32814?utm_campaign=1050&utm_source=git)** | Fresno, CA | On Site | Dec 23 |
-| ↳ | **[Fulfillment Area Manager Intern 2026 - VA, NC, SC](https://jobright.ai/jobs/info/68ce5bdddbd9fb154eddedea?utm_campaign=1050&utm_source=git)** | West Columbia, SC | On Site | Dec 23 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Enterprise Strategy and Corporate Development Intern](https://jobright.ai/jobs/info/69316b73fa28370be26b969a?utm_campaign=1050&utm_source=git)** | Kansas City, MO | Hybrid | Dec 23 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68a87107758f2e4ac3ff2593?utm_campaign=1050&utm_source=git)** | Davenport, IA | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Beckley, WV](https://jobright.ai/jobs/info/692e5054ef4b48533d13e9af?utm_campaign=1050&utm_source=git)** | Beckley, WV | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

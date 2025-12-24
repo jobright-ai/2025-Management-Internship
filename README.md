@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694bb6b31a572a617dde0439?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PROJECT MANAGEMENT
+Job ID : 269424](https://jobright.ai/jobs/info/694bb4cc5d73121134703798?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Utah Jazz Bantam Game Day Intern](https://jobright.ai/jobs/info/694bb2e51a572a617dde01f3?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | Dec 24 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Operations Administrator - Intern](https://jobright.ai/jobs/info/694bb2285d731211347036b5?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
+| **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/694bb2191a572a617dde019b?utm_campaign=1050&utm_source=git)** | Morrow, OH | On Site | Dec 24 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/694bb04f5d731211347035d8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Zscaler](https://www.zscaler.com)** | **[Future Workplace Strategist Intern](https://jobright.ai/jobs/info/6924c71bc0cefa13343e1c8c?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 23 |
 | **[Archer](https://www.archer.com)** | **[Airline Operations Intern](https://jobright.ai/jobs/info/694b8bded64ebf28d8215454?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Dec 23 |
 | **[Blue Origin](http://www.blueorigin.com)** | **[Summer 2026 Business Strategy Intern - Graduate](https://jobright.ai/jobs/info/694b88b01a572a617ddded0a?utm_campaign=1050&utm_source=git)** | Greater Seattle Area | On Site | Dec 23 |
@@ -132,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Technical Project Manager – Co-op/Intern](https://jobright.ai/jobs/info/694b1d6a3019f50a4fe63597?utm_campaign=1050&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Dec 23 |
 | **[Zoox](https://www.zoox.com/)** | **[Process and Strategy Analyst Intern](https://jobright.ai/jobs/info/694b14551224705e90022e55?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Research and Development Strategic Operations Intern](https://jobright.ai/jobs/info/694b16dc4b53a1551f94d04e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694af3281224705e90020c30?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 23 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[Research & Operations - Fall 2026 HOD Intern](https://jobright.ai/jobs/info/694af3203019f50a4fe5fdea?utm_campaign=1050&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694af1981224705e90020af5?utm_campaign=1050&utm_source=git)** | US-NV-Reno | On Site | Dec 23 |
 | **[Faire](https://www.faire.com)** | **[Strategy & Analytics MBA Intern](https://jobright.ai/jobs/info/694af02b3019f50a4fe5fbc4?utm_campaign=1050&utm_source=git)** | New York City, NY | Hybrid | Dec 23 |
@@ -148,13 +156,6 @@ For a complete list, click the following sortable link below:
 | **[YES Network](http://web.yesnetwork.com)** | **[Strategy and Operations Intern – Spring 2026 (NYC)](https://jobright.ai/jobs/info/693b14afd4054a2bc02508ef?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/6945fdbc63141d1884559f40?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
 | ↳ | **[Retail Leadership Internship](https://jobright.ai/jobs/info/6945f78b63141d1884559029?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Dec 23 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694aff6f67a69734cac611f4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 23 |
 | **[McShane Construction Company](http://mcshane-construction.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/694afb063019f50a4fe603c4?utm_campaign=1050&utm_source=git)** | Madison,WI,US | On Site | Dec 23 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Intern](https://jobright.ai/jobs/info/694adc7a67a69734cac5fdea?utm_campaign=1050&utm_source=git)** | Sussex, WI | On Site | Dec 23 |
-| **[Lend At Ease (Lic 12257)](https://www.lendatease.com)** | **[Administrative Assistant Intern](https://jobright.ai/jobs/info/694aef1e1224705e90020951?utm_campaign=1050&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Dec 23 |
-| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[IT - Technical Project Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/694acc783019f50a4fe5e1c3?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
-| **[Analog Devices](http://www.analog.com)** | **[Project/Program Management Intern](https://jobright.ai/jobs/info/690a759cbcccf20de59e2957?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | On Site | Dec 23 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/694acb5e67a69734cac5e8ac?utm_campaign=1050&utm_source=git)** | Summerville, SC | On Site | Dec 23 |
-| **[Freeport-McMoRan](https://fcx.com)** | **[2026 Spring Internship - Corporate Services - Facilities](https://jobright.ai/jobs/info/694aca203019f50a4fe5d95e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ USA 85040 | On Site | Dec 23 |
-| **[McKesson](http://www.mckesson.com)** | **[Impact Strategy & Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/694aca091224705e9001e324?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

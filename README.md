@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/694cdecd29655e4dd656fea1?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Dec 24 |
-| ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/694cde73d4a7df7a06721cb1?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Dec 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694ca23ad4a7df7a0671d704?utm_campaign=1050&utm_source=git)** | Three Rivers, MI | On Site | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Supply Chain & Warehouse Operations Internship](https://jobright.ai/jobs/info/68d3055cf0d9af73038de3f6?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | ↳ | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
@@ -99,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Supply Chain Internship](https://jobright.ai/jobs/info/68cf25d8dbd9fb154ede55b9?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Dec 24 |
 | **[Henkel](http://www.henkel.com)** | **[Shift Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68ca2d6ff16e3266d2823859?utm_campaign=1050&utm_source=git)** | West Hazleton, PA | On Site | Dec 24 |
 | **[MP Materials](https://mpmaterials.com)** | **[Summer Strategy Intern](https://jobright.ai/jobs/info/692fb5eaef4b48533d14859f?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 24 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69144115286ccf0a151260c5?utm_campaign=1050&utm_source=git)** | Garrisonville, VA | On Site | Dec 24 |
 | **[Greystar](http://greystar.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/692f3f81fa28370be26a850d?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Dec 24 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/6912e073ea9ab01b82bf5f3d?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Dec 24 |
 | **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[CM Intern](https://jobright.ai/jobs/info/692fc297ef4b48533d148aa0?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Dec 24 |
@@ -111,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Archer](https://www.archer.com)** | **[Airline Operations Intern](https://jobright.ai/jobs/info/694bda2cd64ebf28d8218607?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | **[Siemens](https://www.siemens.com)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/6912ef60ea9ab01b82bf6773?utm_campaign=1050&utm_source=git)** | Cypress, CA | On Site | Dec 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer Internship Management Trainee](https://jobright.ai/jobs/info/691868d015b4156367182139?utm_campaign=1050&utm_source=git)** | Kingston, Ontario, Canada | On Site | Dec 24 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69144115286ccf0a151260c5?utm_campaign=1050&utm_source=git)** | Garrisonville, VA | On Site | Dec 24 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Multifamily Project Management Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/69326888f131d96e4845bf47?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 24 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Intern Summer 2026](https://jobright.ai/jobs/info/6912ee65c98948514c47f9b8?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Dec 24 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/6940f6cf49a7695fbd0687cd?utm_campaign=1050&utm_source=git)** | East Rutherford, NJ | On Site | Dec 24 |
@@ -142,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/694bb04f5d731211347035d8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Strategic and Project support
 Job ID : 269646](https://jobright.ai/jobs/info/694bbb0cd64ebf28d8216c14?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 23 |
-| **[Baranko Companies](https://barankocompanies.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/694cd6d8d4a7df7a06721ae5?utm_campaign=1050&utm_source=git)** | Dickinson, ND | On Site | Dec 23 |
 | **[Budget Car and Truck Rental of Memphis](https://www.budgetmemphis.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/694bb81b1a572a617dde070d?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 23 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Operations & Warehouse Intern](https://jobright.ai/jobs/info/694bbc315d7312113470411f?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 23 |
 | **[Zscaler](https://www.zscaler.com)** | **[Future Workplace Strategist Intern](https://jobright.ai/jobs/info/6924c71bc0cefa13343e1c8c?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Dec 23 |
@@ -158,4 +155,7 @@ Job ID : 269646](https://jobright.ai/jobs/info/694bbb0cd64ebf28d8216c14?utm_camp
 | **[Atain Insurance Companies](https://www.atainins.com/)** | **[Operations Assistant Intern](https://jobright.ai/jobs/info/694b80de5d73121134701ca1?utm_campaign=1050&utm_source=git)** | Farmington Hills, MI | Hybrid | Dec 23 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/694b5e1cd64ebf28d82111ef?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694b5bf31a572a617dddaef4?utm_campaign=1050&utm_source=git)** | Forest Lake, MN | On Site | Dec 23 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Analytics and Business Intelligence Internship/Co-op - Summer 2026 (8 months)](https://jobright.ai/jobs/info/694b5be31a572a617dddaee4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
+| ↳ | **[Global Operations - Escalated Customer Concerns Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694b5af9d64ebf28d821100b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
+| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025-2](https://jobright.ai/jobs/info/694b596e5d731211346fe217?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

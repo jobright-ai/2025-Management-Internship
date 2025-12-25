@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/694c60bf5d7312113470d678?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Dec 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/694c5c601a572a617dde9df9?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
 | ↳ | **[Purchasing & Procurement - Intern](https://jobright.ai/jobs/info/694c5b8a5d7312113470d3b5?utm_campaign=1050&utm_source=git)** | Nisku, Alberta, Canada | On Site | Dec 24 |
@@ -65,8 +66,9 @@ For a complete list, click the following sortable link below:
 | **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c388b1a572a617dde72be?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[City Union Mission](https://cityunionmission.org/)** | **[Men's Center Case Manager Intern](https://jobright.ai/jobs/info/694c4fee5d7312113470b6e7?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 24 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Project Management Function Intern](https://jobright.ai/jobs/info/694c4c34d64ebf28d821df28?utm_campaign=1050&utm_source=git)** | Swiftwater, PA | On Site | Dec 24 |
+| **[Alamos Gold Inc.](http://www.alamosgold.com/)** | **[Project Planning Intern](https://jobright.ai/jobs/info/69375db1a0dde7020e301e74?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c3fb0d64ebf28d821d76b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c272dd64ebf28d821cfdc?utm_campaign=1050&utm_source=git)** | New York | Hybrid | Dec 24 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c2898d64ebf28d821d076?utm_campaign=1050&utm_source=git)** | New York | Hybrid | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c1ee05d7312113470a335?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Corporate Real Estate Health & Safety Associate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c1ca1d64ebf28d821c6a2?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c1b17d64ebf28d821becc?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
@@ -157,6 +159,4 @@ Job ID : 269646](https://jobright.ai/jobs/info/694bbb0cd64ebf28d8216c14?utm_camp
 | ↳ | **[Global Operations - Escalated Customer Concerns Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694b5af9d64ebf28d821100b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025-2](https://jobright.ai/jobs/info/694b596e5d731211346fe217?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Commissary Internship, Target Field](https://jobright.ai/jobs/info/694b399f1224705e900250c2?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694b51232d2650580da610fb?utm_campaign=1050&utm_source=git)** | Anderson, IN | On Site | Dec 23 |
-| **[The Miller Group](https://www.millergroup.ca)** | **[Project Assistant, Student (4 Months)](https://jobright.ai/jobs/info/694b724b5d731211346ff85e?utm_campaign=1050&utm_source=git)** | Whitchurch-Stouffville, Ontario, Canada | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

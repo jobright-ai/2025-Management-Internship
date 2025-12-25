@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/694dab9929655e4dd6578f6c?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 25 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Production  Internship](https://jobright.ai/jobs/info/6916fe9eab115751cca3e40b?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 25 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe42c8e65e77df55be257?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | On Site | Dec 25 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6933cb3bf131d96e48467000?utm_campaign=1050&utm_source=git)** | Brooklyn, CT | On Site | Dec 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/68c3a44580e77b1fa6fcb4ac?utm_campaign=1050&utm_source=git)** | Enfield, CT | On Site | Dec 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship - Strategy & Growth](https://jobright.ai/jobs/info/6933ce22a0dde7020e2f21ca?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | Hybrid | Dec 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Eastpointe](https://jobright.ai/jobs/info/6933d05b764507023d1b9a5f?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 25 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6933eedff131d96e48468491?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Dec 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6933eedff131d96e48468491?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Dec 25 |
+| ↳ | **[Summer 2026 Management Trainee Intern Eastpointe](https://jobright.ai/jobs/info/6933d05b764507023d1b9a5f?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 25 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69326c43a0dde7020e2e6c04?utm_campaign=1050&utm_source=git)** | East Peoria, IL | On Site | Dec 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/6943b71f94730b739876dded?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2026](https://jobright.ai/jobs/info/693a4a66ac80bb5492bcca14?utm_campaign=1050&utm_source=git)** | Westfield, MA | On Site | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/694c60bf5d7312113470d678?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Dec 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/694c5c601a572a617dde9df9?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
-| ↳ | **[Purchasing & Procurement - Intern](https://jobright.ai/jobs/info/694c5b8a5d7312113470d3b5?utm_campaign=1050&utm_source=git)** | Nisku, Alberta, Canada | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

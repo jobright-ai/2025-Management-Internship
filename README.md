@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694ca23ad4a7df7a0671d704?utm_campaign=1050&utm_source=git)** | Three Rivers, MI | On Site | Dec 24 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Supply Chain & Warehouse Operations Internship](https://jobright.ai/jobs/info/68d3055cf0d9af73038de3f6?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
+| ↳ | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 24 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/694c60bf5d7312113470d678?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Dec 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 24 |
@@ -70,13 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Project Management Function Intern](https://jobright.ai/jobs/info/694c4c34d64ebf28d821df28?utm_campaign=1050&utm_source=git)** | Swiftwater, PA | On Site | Dec 24 |
 | **[Alamos Gold Inc.](http://www.alamosgold.com/)** | **[Project Planning Intern](https://jobright.ai/jobs/info/69375db1a0dde7020e301e74?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c3fb0d64ebf28d821d76b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c2898d64ebf28d821d076?utm_campaign=1050&utm_source=git)** | New York | Hybrid | Dec 24 |
+| **[PineBridge Investments](http://www.pinebridge.com)** | **[2026 Summer Internship - Fixed Income](https://jobright.ai/jobs/info/694c272dd64ebf28d821cfdc?utm_campaign=1050&utm_source=git)** | New York | Hybrid | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c1ee05d7312113470a335?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Corporate Real Estate Health & Safety Associate, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/694c1ca1d64ebf28d821c6a2?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 24 |
 | **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Global Technology & Operations](https://jobright.ai/jobs/info/694c1b17d64ebf28d821becc?utm_campaign=1050&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - West Sacramento, CA](https://jobright.ai/jobs/info/694c15ff5d731211347087fe?utm_campaign=1050&utm_source=git)** | West Sacramento, CA | On Site | Dec 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/694c15845d731211347087e6?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 24 |
-| **[Crest Vale](crestvale.us)** | **[Business Change Management Intern](https://jobright.ai/jobs/info/694c15091a572a617dde51b2?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Dec 24 |
 | **[McKesson](http://www.mckesson.com)** | **[OBF Specialty Operations Intern - Summer 2026 - Olive Branch, MS](https://jobright.ai/jobs/info/694c14b5d64ebf28d821b295?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Dec 24 |
 | **[Heritage Cooperative](http://heritagecooperative.com)** | **[Feed Operations Intern](https://jobright.ai/jobs/info/694c1374d64ebf28d821b25a?utm_campaign=1050&utm_source=git)** | Delaware, OH | Hybrid | Dec 24 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Memphis, TN (FDC)](https://jobright.ai/jobs/info/694c136f5d73121134708775?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 24 |
@@ -157,5 +158,4 @@ Job ID : 269646](https://jobright.ai/jobs/info/694bbb0cd64ebf28d8216c14?utm_camp
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694b5bf31a572a617dddaef4?utm_campaign=1050&utm_source=git)** | Forest Lake, MN | On Site | Dec 23 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Analytics and Business Intelligence Internship/Co-op - Summer 2026 (8 months)](https://jobright.ai/jobs/info/694b5be31a572a617dddaee4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | ↳ | **[Global Operations - Escalated Customer Concerns Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694b5af9d64ebf28d821100b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
-| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025-2](https://jobright.ai/jobs/info/694b596e5d731211346fe217?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Construction Management](https://jobright.ai/jobs/info/694d060329655e4dd6571560?utm_campaign=1050&utm_source=git)** | Hollywood, FL 33021 | On Site | Dec 24 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/694cdecd29655e4dd656fea1?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Dec 24 |
 | ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/694cde73d4a7df7a06721cb1?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Dec 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694ca23ad4a7df7a0671d704?utm_campaign=1050&utm_source=git)** | Three Rivers, MI | On Site | Dec 24 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[OBF Specialty Operations Intern - Summer 2026 - Olive Branch, MS](https://jobright.ai/jobs/info/694c14b5d64ebf28d821b295?utm_campaign=1050&utm_source=git)** | Olive Branch, MS | On Site | Dec 24 |
 | **[Heritage Cooperative](http://heritagecooperative.com)** | **[Feed Operations Intern](https://jobright.ai/jobs/info/694c1374d64ebf28d821b25a?utm_campaign=1050&utm_source=git)** | Delaware, OH | Hybrid | Dec 24 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Memphis, TN (FDC)](https://jobright.ai/jobs/info/694c136f5d73121134708775?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 24 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694c0a7a5d7312113470849c?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Dec 24 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Global Supply Chain Intern (6-Month program)](https://jobright.ai/jobs/info/694c252a1a572a617dde6e7b?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 24 |
 | **[MultiCare Health System](http://www.multicare.org)** | **[Administrative Intern](https://jobright.ai/jobs/info/692f9eda4c474121999e115d?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Dec 24 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Enterprise Strategy and Corporate Development Intern](https://jobright.ai/jobs/info/692fec20fa28370be26ae3e9?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 24 |

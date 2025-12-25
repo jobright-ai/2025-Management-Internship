@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 24 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/694c60bf5d7312113470d678?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Dec 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/694c5c601a572a617dde9df9?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
@@ -132,8 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Fast Enterprises, LLC](http://www.fastenterprises.com)** | **[Travel Coordinator and Administrative Intern](https://jobright.ai/jobs/info/69300bc1ef4b48533d14a2e7?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Dec 24 |
 | **[Plaud](https://www.plaud.ai/)** | **[Strategy Intern](https://jobright.ai/jobs/info/6930069cef4b48533d14a111?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/694bb6b31a572a617dde0439?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PROJECT MANAGEMENT
-Job ID : 269424](https://jobright.ai/jobs/info/694bb4cc5d73121134703798?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Utah Jazz Bantam Game Day Intern](https://jobright.ai/jobs/info/694bb2e51a572a617dde01f3?utm_campaign=1050&utm_source=git)** | Sandy, UT | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Operations Administrator - Intern](https://jobright.ai/jobs/info/694bb2285d731211347036b5?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Beech Acres Parenting Center](https://beechacres.org)** | **[Intern - Beyond the Classroom - $15.00 hourly](https://jobright.ai/jobs/info/694bb2191a572a617dde019b?utm_campaign=1050&utm_source=git)** | Morrow, OH | On Site | Dec 24 |
@@ -158,5 +158,4 @@ Job ID : 269646](https://jobright.ai/jobs/info/694bbb0cd64ebf28d8216c14?utm_camp
 | **[Scotiabank](https://www.scotiabank.com)** | **[Global Operations - Analytics and Business Intelligence Internship/Co-op - Summer 2026 (8 months)](https://jobright.ai/jobs/info/694b5be31a572a617dddaee4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | ↳ | **[Global Operations - Escalated Customer Concerns Internship/Co-op - Summer 2026](https://jobright.ai/jobs/info/694b5af9d64ebf28d821100b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 23 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025-2](https://jobright.ai/jobs/info/694b596e5d731211346fe217?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[Commissary Internship, Target Field](https://jobright.ai/jobs/info/694b399f1224705e900250c2?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

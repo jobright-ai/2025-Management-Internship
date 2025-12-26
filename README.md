@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694e4f20d4a7df7a06731d06?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Dec 26 |
 | **[Chargerzilla](https://www.chargerzilla.com)** | **[Marketing Project Manager (Intern) - Los Angeles](https://jobright.ai/jobs/info/694e15b129655e4dd657e4e7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 25 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Production  Internship](https://jobright.ai/jobs/info/6916fe9eab115751cca3e40b?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 25 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Brooklyn, CT](https://jobright.ai/jobs/info/6933cb3bf131d96e48467000?utm_campaign=1050&utm_source=git)** | Brooklyn, CT | On Site | Dec 25 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Enfield/Hartford/Windsor/Windsor Locks, CT](https://jobright.ai/jobs/info/68c3a44580e77b1fa6fcb4ac?utm_campaign=1050&utm_source=git)** | Enfield, CT | On Site | Dec 25 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship - Strategy & Growth](https://jobright.ai/jobs/info/6933ce22a0dde7020e2f21ca?utm_campaign=1050&utm_source=git)** | Fort Mill, SC | Hybrid | Dec 25 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6933eedff131d96e48468491?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Dec 25 |
-| ↳ | **[Summer 2026 Management Trainee Intern Eastpointe](https://jobright.ai/jobs/info/6933d05b764507023d1b9a5f?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 25 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Eastpointe](https://jobright.ai/jobs/info/6933d05b764507023d1b9a5f?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 25 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Pittsfield, MA](https://jobright.ai/jobs/info/6933eedff131d96e48468491?utm_campaign=1050&utm_source=git)** | Pittsfield, MA | On Site | Dec 25 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/69326c43a0dde7020e2e6c04?utm_campaign=1050&utm_source=git)** | East Peoria, IL | On Site | Dec 25 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Southern California)](https://jobright.ai/jobs/info/6943b71f94730b739876dded?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Spring 2026](https://jobright.ai/jobs/info/693a4a66ac80bb5492bcca14?utm_campaign=1050&utm_source=git)** | Westfield, MA | On Site | Dec 25 |
@@ -150,8 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Construction Management](https://jobright.ai/jobs/info/694d060329655e4dd6571560?utm_campaign=1050&utm_source=git)** | Hollywood, FL 33021 | On Site | Dec 24 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/694cdecd29655e4dd656fea1?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Dec 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694ca23ad4a7df7a0671d704?utm_campaign=1050&utm_source=git)** | Three Rivers, MI | On Site | Dec 24 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[INTERN - PROJECT MANAGEMENT
-Job ID : 269424](https://jobright.ai/jobs/info/694df4d6f5bef51c96eb669b?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Supply Chain & Warehouse Operations Internship](https://jobright.ai/jobs/info/68d3055cf0d9af73038de3f6?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | ↳ | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 24 |

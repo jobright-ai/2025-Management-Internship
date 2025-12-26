@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/694dab9929655e4dd6578f6c?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 25 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Production  Internship](https://jobright.ai/jobs/info/6916fe9eab115751cca3e40b?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 25 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe42c8e65e77df55be257?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | On Site | Dec 25 |
@@ -149,7 +148,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cf2568fb49c96ca6ea606b?utm_campaign=1050&utm_source=git)** | Hanover Park, IL | On Site | Dec 25 |
 | **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Construction Management](https://jobright.ai/jobs/info/694d060329655e4dd6571560?utm_campaign=1050&utm_source=git)** | Hollywood, FL 33021 | On Site | Dec 24 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/694cdecd29655e4dd656fea1?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Dec 24 |
-| ↳ | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/694cde73d4a7df7a06721cb1?utm_campaign=1050&utm_source=git)** | Roseburg, OR | On Site | Dec 24 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694ca23ad4a7df7a0671d704?utm_campaign=1050&utm_source=git)** | Three Rivers, MI | On Site | Dec 24 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Supply Chain & Warehouse Operations Internship](https://jobright.ai/jobs/info/68d3055cf0d9af73038de3f6?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
 | ↳ | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Dec 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/694c60bf5d7312113470d678?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Dec 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/694c5c601a572a617dde9df9?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
+| ↳ | **[Purchasing & Procurement - Intern](https://jobright.ai/jobs/info/694c5b8a5d7312113470d3b5?utm_campaign=1050&utm_source=git)** | Nisku, Alberta, Canada | On Site | Dec 24 |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Engineering Project Manager Intern](https://jobright.ai/jobs/info/694c5abd5d7312113470d345?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

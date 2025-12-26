@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694ee549ce13cd105657219c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Department Assistant Intern](https://jobright.ai/jobs/info/694ecbebce13cd105657175e?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Dec 26 |
 | **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[Supply Chain / Logistics Internship](https://jobright.ai/jobs/info/692f55b24c474121999dde7a?utm_campaign=1050&utm_source=git)** | New Jersey, United States | On Site | Dec 26 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694eb7fd29655e4dd65848aa?utm_campaign=1050&utm_source=git)** | Dedham, MA | On Site | Dec 26 |
 | ↳ | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694eb7f4ce13cd105656f8a3?utm_campaign=1050&utm_source=git)** | Roslindale, MA | On Site | Dec 26 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Supply Chain Intern - Starting in January](https://jobright.ai/jobs/info/693737edaabec14a727c52ec?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Dec 26 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Operations Internship](https://jobright.ai/jobs/info/6929c04b4c474121999ca2ec?utm_campaign=1050&utm_source=git)** | Sun Prairie, WI | On Site | Dec 26 |
 | **[Enervexa PowerLabs](enervexapowerlabs.us)** | **[Aviation Operations Scheduling Intern](https://jobright.ai/jobs/info/694ea372a2668b7f5451fb21?utm_campaign=1050&utm_source=git)** | Ada, MI | On Site | Dec 26 |
 | **[Arvento A](arventoa.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694e9f67a2668b7f5451fa82?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Dec 26 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd5c61e23def7af55b8b7d?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 26 |

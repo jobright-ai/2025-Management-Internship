@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chargerzilla](https://www.chargerzilla.com)** | **[Marketing Project Manager (Intern) - Los Angeles](https://jobright.ai/jobs/info/694e15b129655e4dd657e4e7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 25 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Production  Internship](https://jobright.ai/jobs/info/6916fe9eab115751cca3e40b?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 25 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe42c8e65e77df55be257?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | On Site | Dec 25 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - San Diego, CA (June 2026)](https://jobright.ai/jobs/info/68b22f7d1ade4306aa634c71?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Dec 25 |
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/69308e06ef4b48533d14c5f4?utm_campaign=1050&utm_source=git)** | Middleton, WI | On Site | Dec 25 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68a3805c1ab5f8579e8a6735?utm_campaign=1050&utm_source=git)** | Chardon, OH | On Site | Dec 25 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Supply Chain)](https://jobright.ai/jobs/info/6930bdf0ef4b48533d14e9ac?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | On Site | Dec 25 |
 | **[ECBuild](https://www.ec-build.com/)** | **[Construction Project Management/Field Intern - Summer 2026](https://jobright.ai/jobs/info/6942705e50bbaf7650546041?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | On Site | Dec 25 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Supply Chain)](https://jobright.ai/jobs/info/6930653cfa28370be26b0122?utm_campaign=1050&utm_source=git)** | St. Petersburg, FL | On Site | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Property and Casualty Intern - Summer 2026](https://jobright.ai/jobs/info/693093fd4c474121999e6353?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Dec 25 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68a381d637d3cc6b0d577ac4?utm_campaign=1050&utm_source=git)** | Brookfield, WI | On Site | Dec 25 |
 | **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68bf103b5c5d5f14f46d3540?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 25 |
@@ -157,5 +158,4 @@ Job ID : 269424](https://jobright.ai/jobs/info/694df4d6f5bef51c96eb669b?utm_camp
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/694c60bf5d7312113470d678?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Dec 24 |
 | **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/694c5c601a572a617dde9df9?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 24 |
-| ↳ | **[Purchasing & Procurement - Intern](https://jobright.ai/jobs/info/694c5b8a5d7312113470d3b5?utm_campaign=1050&utm_source=git)** | Nisku, Alberta, Canada | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

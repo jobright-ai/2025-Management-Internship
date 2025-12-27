@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Hartford](http://www.hartford.gov)** | **[Intern](https://jobright.ai/jobs/info/69503772ce13cd1056582764?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Dec 27 |
+| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/6950325f29655e4dd65973cf?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 27 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695010b5ce13cd1056581e14?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 27 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 27 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Operations Assistant Intern](https://jobright.ai/jobs/info/69500c1029655e4dd6596575?utm_campaign=1050&utm_source=git)** | Tulsa Metropolitan Area | Remote | Dec 27 |
@@ -68,10 +70,10 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/691622976f36db06ef0532d3?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/694f67b0ce13cd1056579fa7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6933725ef131d96e48463732?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Dec 27 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691697dd286ccf0a15137ba7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 27 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/694eee1729655e4dd658756b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 26 |
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694ee549ce13cd105657219c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Department Assistant Intern](https://jobright.ai/jobs/info/694ecbebce13cd105657175e?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Dec 26 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/692a826e4c474121999cc3c3?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Dec 26 |
 | **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[Supply Chain / Logistics Internship](https://jobright.ai/jobs/info/692f55b24c474121999dde7a?utm_campaign=1050&utm_source=git)** | New Jersey, United States | On Site | Dec 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/694c15845d731211347087e6?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 26 |
-| **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694eb7fd29655e4dd65848aa?utm_campaign=1050&utm_source=git)** | Dedham, MA | On Site | Dec 26 |
-| ↳ | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694eb7f4ce13cd105656f8a3?utm_campaign=1050&utm_source=git)** | Roslindale, MA | On Site | Dec 26 |
-| **[Landscape Forms](https://www.landscapeforms.com)** | **[Supply Chain Intern - Starting in January](https://jobright.ai/jobs/info/693737edaabec14a727c52ec?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

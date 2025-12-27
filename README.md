@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Intern](https://jobright.ai/jobs/info/694f7083ce13cd105657a4a4?utm_campaign=1050&utm_source=git)** | Orlando, Florida, USA | On Site | Dec 26 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694f5598a2668b7f54528439?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | Hybrid | Dec 26 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6941f628bdcf884a5addb335?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694f438029655e4dd658bf9a?utm_campaign=1050&utm_source=git)** | Cuyahoga Falls, OH | On Site | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arup](http://www.arup.com)** | **[Project Administration Intern (Available June 2026)](https://jobright.ai/jobs/info/691554a76f36db06ef04dc8d?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Medicare Advantage Servicing](https://jobright.ai/jobs/info/6932504da0dde7020e2e58e1?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 26 |
 | **[GlobalFoundries](https://gf.com/)** | **[Commercial Operations Intern, Finance & Operations (Summer 2026)](https://jobright.ai/jobs/info/69332936a0dde7020e2eaeb2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 26 |
-| **[MarketAxess](http://marketaxess.com)** | **[Operations Intern 2026](https://jobright.ai/jobs/info/6932273efa28370be26c29c1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

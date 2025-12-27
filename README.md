@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Intern - DFW Airport](https://jobright.ai/jobs/info/694f305cce13cd10565765a9?utm_campaign=1050&utm_source=git)** | DFW Dallas Fort Worth Airport | On Site | Dec 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Event and Content Operations Project Intern (TikTok-Product-Gaming) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/694f19fcce13cd105657487d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/694f004ea2668b7f545249a1?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 26 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/694ef4bd29655e4dd6587777?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Martin Brower](http://martinbrower.com)** | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/6931a493fa28370be26bd0b4?utm_campaign=1050&utm_source=git)** | City of Industry, CA | On Site | Dec 26 |
 | ↳ | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/68bf85ae8e65e77df55bb193?utm_campaign=1050&utm_source=git)** | Walker, LA | On Site | Dec 26 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Internship 2026](https://jobright.ai/jobs/info/6931d5d8fa28370be26be7bc?utm_campaign=1050&utm_source=git)** | Farmingdale, NY | On Site | Dec 26 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Digital Strategy Associate](https://jobright.ai/jobs/info/68c1e39b233c7d3e64d05972?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hankey Group](https://www.hankeygroup.com)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/69504f3ba2668b7f54534c5a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[City of Hartford](http://www.hartford.gov)** | **[Intern](https://jobright.ai/jobs/info/69503772ce13cd1056582764?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Dec 27 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/6950325f29655e4dd65973cf?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 27 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695010b5ce13cd1056581e14?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 27 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6933a6fa764507023d1b7b02?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 27 |
 | **[Precision Castparts](http://precast.com)** | **[Operations Intern (Co-Op)](https://jobright.ai/jobs/info/68cd37fab2a74e1837ed3eef?utm_campaign=1050&utm_source=git)** | South Gate, CA | On Site | Dec 27 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Quality Administrative Assistant Intern](https://jobright.ai/jobs/info/6916707d286ccf0a15135eeb?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Dec 27 |
+| **[Hannaford Supermarkets](https://www.hannaford.com/)** | **[Home Office Summer Intern](https://jobright.ai/jobs/info/68c501bfc96a22563ece5d4d?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Remote | Dec 27 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Real Estate - Summer 2026](https://jobright.ai/jobs/info/68df30345ab4977c2e9514bd?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Dec 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/689fe07bcc9ee94dc911a632?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Dec 27 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68c361a080e77b1fa6fc8c37?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694ee549ce13cd105657219c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Department Assistant Intern](https://jobright.ai/jobs/info/694ecbebce13cd105657175e?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Dec 26 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Supply Chain and Operations Intern - Multiple Locations](https://jobright.ai/jobs/info/692a826e4c474121999cc3c3?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Dec 26 |
-| **[Wakefern Food Corp.](http://www2.wakefern.com)** | **[Supply Chain / Logistics Internship](https://jobright.ai/jobs/info/692f55b24c474121999dde7a?utm_campaign=1050&utm_source=git)** | New Jersey, United States | On Site | Dec 26 |
-| **[BioSpace](http://www.biospace.com/)** | **[R&D Commercialization Project Management - Grad Intern](https://jobright.ai/jobs/info/694c15845d731211347087e6?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Event and Content Operations Project Intern (TikTok-Product-Gaming) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/694f19fcce13cd105657487d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/694f004ea2668b7f545249a1?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 26 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/694ef4bd29655e4dd6587777?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Dec 26 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Dec 26 |
@@ -87,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Operations Business Intern - Hudson, WI](https://jobright.ai/jobs/info/69320c4dd0010831497bebcc?utm_campaign=1050&utm_source=git)** | Osceola, WI | On Site | Dec 26 |
 | **[Pella Corporation](http://www.pella.com)** | **[Department Manager Intern (Gettysburg, PA) - Summer 2026](https://jobright.ai/jobs/info/693205244c474121999f5d67?utm_campaign=1050&utm_source=git)** | Gettysburg, PA | On Site | Dec 26 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6888ec39aab47a17f66fd9cb?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Dec 26 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69323e26f131d96e4845a09c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 26 |
 | **[Tanium](http://www.tanium.com)** | **[Revenue Operations Intern](https://jobright.ai/jobs/info/68f7eafd5dc1be601281e4cc?utm_campaign=1050&utm_source=git)** | California, United States | Hybrid | Dec 26 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Operations Business Intern - Hudson, WI](https://jobright.ai/jobs/info/6931f7d84c474121999f4f4c?utm_campaign=1050&utm_source=git)** | Menomonie, WI | On Site | Dec 26 |
 | **[Backhaul Direct](http://backhauldirect.com)** | **[Logistics Operations Intern - Spring 2026](https://jobright.ai/jobs/info/691ff0d93f782d2f1afc1ae1?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Dec 26 |
@@ -98,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship - Strategy & Growth](https://jobright.ai/jobs/info/6932fb3fa0dde7020e2e9ab5?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Dec 26 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Heavy Highway)](https://jobright.ai/jobs/info/68bf81a85c5d5f14f46d786b?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 26 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Operations Business Intern - Hudson, WI](https://jobright.ai/jobs/info/69321759fa28370be26c1ba6?utm_campaign=1050&utm_source=git)** | Twin Cities Area | On Site | Dec 26 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69324de8a0dde7020e2e56d2?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Dec 26 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Corporate Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/68dc596ea125e75c4229fd57?utm_campaign=1050&utm_source=git)** | Columbus, OH | Remote | Dec 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Business Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6931fe07d0010831497bded3?utm_campaign=1050&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Augusta](https://jobright.ai/jobs/info/6933fe30f131d96e48468f36?utm_campaign=1050&utm_source=git)** | Augusta, ME | On Site | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Operations/Supply Chain Intern](https://jobright.ai/jobs/info/68bf85ae8e65e77df55bb193?utm_campaign=1050&utm_source=git)** | Walker, LA | On Site | Dec 26 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Internship 2026](https://jobright.ai/jobs/info/6931d5d8fa28370be26be7bc?utm_campaign=1050&utm_source=git)** | Farmingdale, NY | On Site | Dec 26 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Digital Strategy Associate](https://jobright.ai/jobs/info/68c1e39b233c7d3e64d05972?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 26 |
-| ↳ | **[2026 Intern - TPS Strategy & Operations Analyst](https://jobright.ai/jobs/info/68cbed26128dc347fd91c189?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/694fa6e2a2668b7f5452d5e6?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 27 |
+| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/694fa134a2668b7f5452c331?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 27 |
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Intern](https://jobright.ai/jobs/info/694f7083ce13cd105657a4a4?utm_campaign=1050&utm_source=git)** | Orlando, Florida, USA | On Site | Dec 26 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694f5598a2668b7f54528439?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | Hybrid | Dec 26 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6941f628bdcf884a5addb335?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694eb7f4ce13cd105656f8a3?utm_campaign=1050&utm_source=git)** | Roslindale, MA | On Site | Dec 26 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Supply Chain Intern - Starting in January](https://jobright.ai/jobs/info/693737edaabec14a727c52ec?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Dec 26 |
 | **[Enervexa PowerLabs](enervexapowerlabs.us)** | **[Aviation Operations Scheduling Intern](https://jobright.ai/jobs/info/694ea372a2668b7f5451fb21?utm_campaign=1050&utm_source=git)** | Ada, MI | On Site | Dec 26 |
-| **[Arvento A](arventoa.us)** | **[Business Internship - Talent Pool](https://jobright.ai/jobs/info/694e9f67a2668b7f5451fa82?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Dec 26 |
 | **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/68cd5c61e23def7af55b8b7d?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 26 |
 | **[ABB](https://global.abb/group/en)** | **[Project Management Intern-Summer 2026](https://jobright.ai/jobs/info/691508ed286ccf0a1512a8f3?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Dec 26 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Affairs](https://jobright.ai/jobs/info/693240a4bc6af7687d9f4337?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Supply Line Management](https://jobright.ai/jobs/info/691718e9370fde633d07d42c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[Arup](http://www.arup.com)** | **[Project Administration Intern (Available June 2026)](https://jobright.ai/jobs/info/691554a76f36db06ef04dc8d?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Medicare Advantage Servicing](https://jobright.ai/jobs/info/6932504da0dde7020e2e58e1?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Dec 26 |
-| **[GlobalFoundries](https://gf.com/)** | **[Commercial Operations Intern, Finance & Operations (Summer 2026)](https://jobright.ai/jobs/info/69332936a0dde7020e2eaeb2?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

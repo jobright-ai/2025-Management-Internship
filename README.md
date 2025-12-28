@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Billionairevsns](www.billionairevsns.com)** | **[Operations & Media Intern](https://jobright.ai/jobs/info/6950d8e9a2668b7f5453bc76?utm_campaign=1050&utm_source=git)** | United States | On Site | Dec 27 |
+| **[RELEX Solutions](http://www.relexsolutions.com)** | **[Project Management Office Support Intern - Spanish speaking for LATAM Market](https://jobright.ai/jobs/info/691e7553a49a885af9a28b1a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | On Site | Dec 27 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - DHA Contract Support](https://jobright.ai/jobs/info/6904ee5963502c0aded766b0?utm_campaign=1050&utm_source=git)** | Arlington, VA | Hybrid | Dec 27 |
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/69505da0a2668b7f54534e8f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/69504f3ba2668b7f54534c5a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
@@ -73,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/691622976f36db06ef0532d3?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/694f67b0ce13cd1056579fa7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6933725ef131d96e48463732?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Dec 27 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691697dd286ccf0a15137ba7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 27 |
@@ -134,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69317f364c474121999f1480?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Dec 27 |
 | **[Western Metals Recycling - A Nucor Company](https://www.wmrecycling.com/)** | **[Operations and Sales Summer Internship Program](https://jobright.ai/jobs/info/691acc5c45fb6f5ead8adcfa?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 27 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69168cd1286ccf0a1513744d?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Dec 27 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/6933854ca0dde7020e2eed22?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69338492f131d96e48464014?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - IT Program Management: Objective & Key Results Framework & Delivery Excellence](https://jobright.ai/jobs/info/694789d07d506e3808f2cbd2?utm_campaign=1050&utm_source=git)** | Headquarters, NJ | Hybrid | Dec 27 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[INTEGRATED MASTER SCHEDULER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317543fa28370be26baf59?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Dec 27 |
 | ↳ | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69316e0ffa28370be26b9d3c?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Dec 27 |
@@ -143,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/694fa6e2a2668b7f5452d5e6?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/694fa134a2668b7f5452c331?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 27 |
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Intern](https://jobright.ai/jobs/info/694f7083ce13cd105657a4a4?utm_campaign=1050&utm_source=git)** | Orlando, Florida, USA | On Site | Dec 26 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/6950c23ace13cd105658ab52?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Dec 26 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/6950b94ba2668b7f5453af40?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Dec 26 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694f5598a2668b7f54528439?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | Hybrid | Dec 26 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6941f628bdcf884a5addb335?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Event and Content Operations Project Intern (TikTok-Product-Gaming) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/694f19fcce13cd105657487d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 26 |
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/694ef4bd29655e4dd6587777?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Dec 26 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Dec 26 |
-| **[Moxie Pest Control](https://www.moxieservices.com)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/6944beafa7227b3ece666a5d?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

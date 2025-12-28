@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Facilities Manager / Security Officer (SkillBridge Intern) - 21158](https://jobright.ai/jobs/info/6716dc926a17b09c402efe61?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Dec 28 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 28 |
+| **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 28 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Hospitality FP&A Intern](https://jobright.ai/jobs/info/69512f0829655e4dd65a496b?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Dec 28 |
@@ -70,12 +73,13 @@ For a complete list, click the following sortable link below:
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Intern/Coop - Business](https://jobright.ai/jobs/info/69228c367795cd460c836217?utm_campaign=1050&utm_source=git)** | Newnan, GA | On Site | Dec 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/6938fe0baabec14a727deb1f?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Dec 28 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68ccd258b274cd205ab4fb6e?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6939124eac80bb5492bbb101?utm_campaign=1050&utm_source=git)** | Sanford, NC | On Site | Dec 28 |
-| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6938fee5aabec14a727dee4f?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 28 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6938fee5aabec14a727dee4f?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 28 |
+| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6939124eac80bb5492bbb101?utm_campaign=1050&utm_source=git)** | Sanford, NC | On Site | Dec 28 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 28 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf4fa8dbd9fb154ede645f?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68c162c44d652f0447757524?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 28 |
 | ↳ | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933fe01f131d96e48468e5b?utm_campaign=1050&utm_source=git)** | Florence, SC | On Site | Dec 28 |
+| **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Summer Student](https://jobright.ai/jobs/info/693485cfa0dde7020e2f5af5?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae15a09808a6103e51ea7?utm_campaign=1050&utm_source=git)** | Broadway, VA | On Site | Dec 28 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 28 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Dec 28 |
@@ -125,10 +129,10 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/691622976f36db06ef0532d3?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/694f67b0ce13cd1056579fa7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6933725ef131d96e48463732?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Dec 27 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691697dd286ccf0a15137ba7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Facilities Management (Summer 2026)](https://jobright.ai/jobs/info/69338c20764507023d1b6b78?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 27 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Supply Chain Project Management](https://jobright.ai/jobs/info/69168be6286ccf0a1513734f?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Project Management & Service Delivery Intern](https://jobright.ai/jobs/info/693351cef131d96e48461e48?utm_campaign=1050&utm_source=git)** | Poughkeepsie, AR | On Site | Dec 27 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defc27a125e75c422b8d18?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Dec 27 |
-| ↳ | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defbb944d32141e0c048f7?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 27 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69335ea8764507023d1b4e0c?utm_campaign=1050&utm_source=git)** | Hopewell Junction, NY | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

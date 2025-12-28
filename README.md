@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelligent Protection Systems (Protech AI)](www.protechschools.com)** | **[Intern Business Admin](https://jobright.ai/jobs/info/69516e59ce13cd105659203b?utm_campaign=1050&utm_source=git)** | Dana Point, CA | On Site | Dec 28 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Tribal Education Partnership Program/BEST, Remote](https://jobright.ai/jobs/info/6948b6eb7d506e3808f3e816?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | Remote | Dec 28 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Facilities Manager / Security Officer (SkillBridge Intern) - 21158](https://jobright.ai/jobs/info/6716dc926a17b09c402efe61?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern Summer 2026- San Antonio](https://jobright.ai/jobs/info/68dc3802b32491561896237b?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Dec 28 |
 | **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 28 |
@@ -117,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - DHA Contract Support](https://jobright.ai/jobs/info/6904ee5963502c0aded766b0?utm_campaign=1050&utm_source=git)** | Arlington, VA | Hybrid | Dec 27 |
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/69505da0a2668b7f54534e8f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/69504f3ba2668b7f54534c5a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[City of Hartford](http://www.hartford.gov)** | **[Intern](https://jobright.ai/jobs/info/69503772ce13cd1056582764?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Dec 27 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695010b5ce13cd1056581e14?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 27 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 27 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Operations Assistant Intern](https://jobright.ai/jobs/info/69500c1029655e4dd6596575?utm_campaign=1050&utm_source=git)** | Tulsa Metropolitan Area | Remote | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 27 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Facilities Management (Summer 2026)](https://jobright.ai/jobs/info/69338c20764507023d1b6b78?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 27 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
-| **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Supply Chain Project Management](https://jobright.ai/jobs/info/69168be6286ccf0a1513734f?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

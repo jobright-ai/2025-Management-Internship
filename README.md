@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Pittsburgh 2025-2026](https://jobright.ai/jobs/info/694e2c61d4a7df7a06730d3a?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cff1c49a7695fbd03b8ae?utm_campaign=1050&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Program Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68fd021ae0c73b3a11190fe0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 28 |
+| **[Gray](http://ow.ly/Ed7S50BKOV3)** | **[Intern, Office](https://jobright.ai/jobs/info/692053aa00c9ee50eaec18c4?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Dec 28 |
+| **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/694e3c14f5bef51c96eb9b45?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 28 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68ce5cc2846f0b04af67927a?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 28 |
+| **[Sonoco](https://www.sonoco.com/)** | **[Intern- Supply Management RPC](https://jobright.ai/jobs/info/68a87bf1758f2e4ac3ff2c18?utm_campaign=1050&utm_source=git)** | Hartsville, SC | Hybrid | Dec 28 |
+| **[Badger Meter](http://badgermeter.com)** | **[Supply Chain (Procurement) Intern](https://jobright.ai/jobs/info/6938fdeaaabec14a727dea9d?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 28 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship](https://jobright.ai/jobs/info/694750d37d506e3808f2a2aa?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Dec 28 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/6950f21aa2668b7f5453cf70?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 28 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship-Procurement](https://jobright.ai/jobs/info/690e2b7dd046ab6061cfaf20?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | ↳ | **[Internship- Supply Chain](https://jobright.ai/jobs/info/690e6a0444146d3b6ec53f26?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
@@ -69,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Zen Technology & Solutions Pvt. Ltd](http://www.zentechsolutions.uk/)** | **[Part-Time Executive Assistant Internship at Climate Tech Startup](https://jobright.ai/jobs/info/69505da0a2668b7f54534e8f?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Dec 27 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Administrative Intern - Part Time](https://jobright.ai/jobs/info/69504f3ba2668b7f54534c5a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[City of Hartford](http://www.hartford.gov)** | **[Intern](https://jobright.ai/jobs/info/69503772ce13cd1056582764?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Dec 27 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/6950325f29655e4dd65973cf?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 27 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695010b5ce13cd1056581e14?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 27 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 27 |
 | **[Harvey Media](www.harveymediallc.com)** | **[Operations Assistant Intern](https://jobright.ai/jobs/info/69500c1029655e4dd6596575?utm_campaign=1050&utm_source=git)** | Tulsa Metropolitan Area | Remote | Dec 27 |
@@ -142,19 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Ingalls Shipbuilding, a Division of HII](https://hii.com/)** | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/69317f364c474121999f1480?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Dec 27 |
 | **[Western Metals Recycling - A Nucor Company](https://www.wmrecycling.com/)** | **[Operations and Sales Summer Internship Program](https://jobright.ai/jobs/info/691acc5c45fb6f5ead8adcfa?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Dec 27 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69168cd1286ccf0a1513744d?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Dec 27 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/6933854ca0dde7020e2eed22?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/69338492f131d96e48464014?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Dec 27 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - IT Program Management: Objective & Key Results Framework & Delivery Excellence](https://jobright.ai/jobs/info/694789d07d506e3808f2cbd2?utm_campaign=1050&utm_source=git)** | Headquarters, NJ | Hybrid | Dec 27 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[INTEGRATED MASTER SCHEDULER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317543fa28370be26baf59?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Dec 27 |
 | ↳ | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69316e0ffa28370be26b9d3c?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Dec 27 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/68fab21fb2c86843bf211208?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 27 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Tuscaloosa, AL](https://jobright.ai/jobs/info/68c085f85c5d5f14f46dec39?utm_campaign=1050&utm_source=git)** | Tuscaloosa, AL | On Site | Dec 27 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/694fa6e2a2668b7f5452d5e6?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 27 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/694fa134a2668b7f5452c331?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 27 |
-| **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Intern](https://jobright.ai/jobs/info/694f7083ce13cd105657a4a4?utm_campaign=1050&utm_source=git)** | Orlando, Florida, USA | On Site | Dec 26 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/6950b94ba2668b7f5453af40?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Dec 26 |
-| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694f5598a2668b7f54528439?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | Hybrid | Dec 26 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6941f628bdcf884a5addb335?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694f438029655e4dd658bf9a?utm_campaign=1050&utm_source=git)** | Cuyahoga Falls, OH | On Site | Dec 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/694f436fce13cd10565770cf?utm_campaign=1050&utm_source=git)** | Joliet, IL | On Site | Dec 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/694f431b29655e4dd658bf79?utm_campaign=1050&utm_source=git)** | Lake Ozark, MO | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

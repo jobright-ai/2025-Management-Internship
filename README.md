@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bernhard](https://bernhard.com/)** | **[Intern](https://jobright.ai/jobs/info/6951852329655e4dd65a72f8?utm_campaign=1050&utm_source=git)** | US-AR-Little Rock | On Site | Dec 28 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/69517fbf29655e4dd65a6e7b?utm_campaign=1050&utm_source=git)** | New London/Groton/Mystic/Old Saybrook/Norwich | On Site | Dec 28 |
 | **[Intelligent Protection Systems (Protech AI)](www.protechschools.com)** | **[Intern Business Admin](https://jobright.ai/jobs/info/69516e59ce13cd105659203b?utm_campaign=1050&utm_source=git)** | Dana Point, CA | On Site | Dec 28 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer - Tribal Education Partnership Program/BEST, Remote](https://jobright.ai/jobs/info/6948b6eb7d506e3808f3e816?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | Remote | Dec 28 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Facilities Manager / Security Officer (SkillBridge Intern) - 21158](https://jobright.ai/jobs/info/6716dc926a17b09c402efe61?utm_campaign=1050&utm_source=git)** | Fort Meade, MD | On Site | Dec 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Atlantic Region)](https://jobright.ai/jobs/info/69350b71a0dde7020e2f730a?utm_campaign=1050&utm_source=git)** | Elmsford, NY | On Site | Dec 27 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Rapid City, SD](https://jobright.ai/jobs/info/68cee90b846f0b04af67dbb2?utm_campaign=1050&utm_source=git)** | Rapid City, SD | On Site | Dec 27 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 27 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Facilities Management (Summer 2026)](https://jobright.ai/jobs/info/69338c20764507023d1b6b78?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 27 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -143,6 +143,8 @@ For a complete list, click the following sortable link below:
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/694fa6e2a2668b7f5452d5e6?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/694fa134a2668b7f5452c331?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 27 |
 | **[Wycliffe Bible Translators](https://www.wycliffe.org.uk)** | **[Intern](https://jobright.ai/jobs/info/694f7083ce13cd105657a4a4?utm_campaign=1050&utm_source=git)** | Orlando, Florida, USA | On Site | Dec 26 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/6950c23ace13cd105658ab52?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Dec 26 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/6950b94ba2668b7f5453af40?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Dec 26 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694f5598a2668b7f54528439?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | Hybrid | Dec 26 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6941f628bdcf884a5addb335?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/694f438029655e4dd658bf9a?utm_campaign=1050&utm_source=git)** | Cuyahoga Falls, OH | On Site | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/694ef4bd29655e4dd6587777?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Dec 26 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Dec 26 |
 | **[Moxie Pest Control](https://www.moxieservices.com)** | **[Housing Operations Intern](https://jobright.ai/jobs/info/6944beafa7227b3ece666a5d?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Dec 26 |
-| **[Royal Electric Company](https://www.royalelect.com/)** | **[Project Management Internship - Spring 2026](https://jobright.ai/jobs/info/694eee1729655e4dd658756b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Dec 26 |
-| **[Hebrew SeniorLife](http://www.hebrewseniorlife.org/)** | **[HealthCare Leadership Summer Intern](https://jobright.ai/jobs/info/694ee549ce13cd105657219c?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

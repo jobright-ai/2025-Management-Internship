@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6952be3b935649778e2086a4?utm_campaign=1050&utm_source=git)** | Carolinas Medical Center - 1000 Blythe Blvd, Charlotte, NC | On Site | Dec 29 |
+| **[Crawford Hoying](http://crawfordhoying.com)** | **[Residential Property Management Intern](https://jobright.ai/jobs/info/6952bc63935649778e2085b6?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
+| **[HUB International](https://www.hubinternational.com)** | **[HUB International Internship Program Summer 2025-2](https://jobright.ai/jobs/info/694b596e5d731211346fe217?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 29 |
+| **[Crawford Hoying](http://crawfordhoying.com)** | **[Commercial Property Management Intern](https://jobright.ai/jobs/info/6952bbc0935649778e20856d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 29 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6952b209f1f8465b79ea029a?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Dec 29 |
+| **[Framewell](www.framewell.org)** | **[Project Manager Internship (Spring 2026)](https://jobright.ai/jobs/info/6952b0aef1f8465b79ea0214?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 29 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6952b0835bb7de448ef5c9cf?utm_campaign=1050&utm_source=git)** | Grand Island, NE | On Site | Dec 29 |
+| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Operations Analyst Internship- Distribution](https://jobright.ai/jobs/info/6952af7af1f8465b79ea01b6?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Warehouse Operations Internship - Spring & Summer 2026](https://jobright.ai/jobs/info/6952af5b935649778e2078ad?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Dec 29 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6952aae6f1f8465b79e9ee22?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Dec 29 |
+| **[TD](https://www.td.com)** | **[Direct Investing Acquisition Strategy Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952a562f1f8465b79e9ebf5?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/6952a0d5f1f8465b79e9ea97?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69528fdf5bb7de448ef5add4?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Dec 29 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Supply Chain Summer Student](https://jobright.ai/jobs/info/693485cfa0dde7020e2f5af5?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae15a09808a6103e51ea7?utm_campaign=1050&utm_source=git)** | Broadway, VA | On Site | Dec 28 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 28 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Dec 28 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68c4ada3fce86561b92885ec?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Dec 28 |
-| ↳ | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/68ce883a846f0b04af67ac2f?utm_campaign=1050&utm_source=git)** | Leominster, MA | On Site | Dec 28 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Supply Chain](https://jobright.ai/jobs/info/6948b28a63141d18845855f0?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Woburn area](https://jobright.ai/jobs/info/69343a0da0dde7020e2f4bc0?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Dec 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ce6ba2846f0b04af6799fa?utm_campaign=1050&utm_source=git)** | Lufkin, TX | On Site | Dec 28 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68c797f37d0db4114273e0a7?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Dec 28 |
-| **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Summer 2026](https://jobright.ai/jobs/info/69347836764507023d1bd1fa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship - Culture & Integration (Year-Round)](https://jobright.ai/jobs/info/6917748a3ea85638ae1cabff?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Dec 28 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/69365438a0dde7020e2faff4?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

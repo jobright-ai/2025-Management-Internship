@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Chattanooga, TN](https://jobright.ai/jobs/info/69522a6a29655e4dd65af582?utm_campaign=1050&utm_source=git)** | 08 Chattanooga - Chattanooga, TN 37402 | On Site | Dec 28 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[S&E Indigenous People & ESG Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952244429655e4dd65af2f4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[Network Strategy, Planning & Delivery Intern/ Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695223a129655e4dd65af2d1?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[TDI Innovation Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69522302ce13cd105659a717?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[Strategic Insights and Business Optimization Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952221fa2668b7f5454b0af?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
+| ↳ | **[TD Asset Management Business Management Intern/Co-op (WINTER 2026)](https://jobright.ai/jobs/info/695221c2a2668b7f5454b09e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Strategic Insights and Business Optimization Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695215f8a2668b7f5454acab?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | ↳ | **[S&E Indigenous People & ESG Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695215f329655e4dd65aeedf?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/695215e9a2668b7f5454aca4?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
@@ -66,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TDI Innovation Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695213d4ce13cd105659a27a?utm_campaign=1050&utm_source=git)** | TD Centre - TD Tower - 66 Wellington Street West, Toronto, Ontario | Hybrid | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6952138ece13cd105659a268?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[Analog Devices](http://www.analog.com)** | **[Project/Program Management Intern](https://jobright.ai/jobs/info/690a759cbcccf20de59e2957?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | On Site | Dec 28 |
-| **[GenPark](https://genpark.ai)** | **[Project operation intern](https://jobright.ai/jobs/info/6951f60aa2668b7f54548098?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6951e0a229655e4dd65ab7a1?utm_campaign=1050&utm_source=git)** | Griffith, IN | On Site | Dec 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6951e063ce13cd1056596bf7?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Dec 28 |
 | **[Dollar General Store](https://www.dollargeneral.com/)** | **[DC INTERN](https://jobright.ai/jobs/info/6951bace29655e4dd65a93f3?utm_campaign=1050&utm_source=git)** | Blair, NE | On Site | Dec 28 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/691622976f36db06ef0532d3?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/694f67b0ce13cd1056579fa7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6933725ef131d96e48463732?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Dec 27 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691697dd286ccf0a15137ba7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 27 |
 | **[Airtech Vacuum](http://www.airtechusa.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69163e6f9c388539cbdf9090?utm_campaign=1050&utm_source=git)** | Linthicum Heights, MD | On Site | Dec 27 |
-| **[Enterprise](https://www.enterprise.com)** | **[Business Administration Internship - Summer 2026](https://jobright.ai/jobs/info/69339a02764507023d1b73dd?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Dec 27 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Global Procurement](https://jobright.ai/jobs/info/69335aea764507023d1b4b55?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Dec 27 |
-| **[Paramount](https://www.paramount.com)** | **[MBA Intern, Paramount Products & Experiences Strategy (Summer 2026 - In Person, LA)](https://jobright.ai/jobs/info/6943171050bbaf765054ee8a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Digital Delivery Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68c207fb4d652f044775c86c?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 27 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

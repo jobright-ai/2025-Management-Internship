@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Network Strategy, Planning & Delivery Intern/ Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952435a935649778e200efe?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[Strategic Insights and Business Optimization Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524350935649778e200efa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[TDI Innovation Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952427df1f8465b79e9972e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/69524220f1f8465b79e996e7?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 29 |
+| **[ADT](http://www.adt.com)** | **[Sourcing and Vendor Management Intern](https://jobright.ai/jobs/info/690ec22e221b890c27811664?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | Hybrid | Dec 29 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Chattanooga, TN](https://jobright.ai/jobs/info/69522a6a29655e4dd65af582?utm_campaign=1050&utm_source=git)** | 08 Chattanooga - Chattanooga, TN 37402 | On Site | Dec 28 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[S&E Indigenous People & ESG Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952244429655e4dd65af2f4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Network Strategy, Planning & Delivery Intern/ Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695223a129655e4dd65af2d1?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | On Site | Dec 27 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/691622976f36db06ef0532d3?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/694f67b0ce13cd1056579fa7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Dec 27 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6933725ef131d96e48463732?utm_campaign=1050&utm_source=git)** | Lowell, MA | On Site | Dec 27 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Dec 27 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Dec 27 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Dec 27 |
-| **[Airtech Vacuum](http://www.airtechusa.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69163e6f9c388539cbdf9090?utm_campaign=1050&utm_source=git)** | Linthicum Heights, MD | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

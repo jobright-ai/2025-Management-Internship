@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/6952a0d5f1f8465b79e9ea97?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69528fdf5bb7de448ef5add4?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 29 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Dec 29 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68c3042d5001f8077bf602f3?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Dec 29 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Dec 29 |
 | **[Henkel](http://www.henkel.com)** | **[Commercial Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/68c4ac5531e5763f188e280d?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Dec 29 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/693e2ce7aa598a08c3ee8805?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Dec 29 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68c91be7a0c52d598ea35da6?utm_campaign=1050&utm_source=git)** | Bossier City, LA | On Site | Dec 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Spring 2026 (Nashville)](https://jobright.ai/jobs/info/6937b9fb1c1c2161c13f8fd1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
-| ↳ | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/693a5ca256b68f3dc4e7c339?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Dec 29 |
 | **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/68cd2382e23def7af55b605a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/6937c7baa0dde7020e307cd7?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Network Strategy, Planning & Delivery Intern/ Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952435a935649778e200efe?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Strategic Insights and Business Optimization Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524350935649778e200efa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[TDI Innovation Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952427df1f8465b79e9972e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/69524220f1f8465b79e996e7?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 29 |
 | **[ADT](http://www.adt.com)** | **[Sourcing and Vendor Management Intern](https://jobright.ai/jobs/info/690ec22e221b890c27811664?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | Hybrid | Dec 29 |
 | **[Mauldin & Jenkins](http://mjcpa.com)** | **[Administrative Intern - Chattanooga, TN](https://jobright.ai/jobs/info/69522a6a29655e4dd65af582?utm_campaign=1050&utm_source=git)** | 08 Chattanooga - Chattanooga, TN 37402 | On Site | Dec 28 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[S&E Indigenous People & ESG Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952244429655e4dd65af2f4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6941f628bdcf884a5addb335?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6951e0a229655e4dd65ab7a1?utm_campaign=1050&utm_source=git)** | Griffith, IN | On Site | Dec 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6951e063ce13cd1056596bf7?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Dec 28 |
-| **[Dollar General Store](https://www.dollargeneral.com/)** | **[DC INTERN](https://jobright.ai/jobs/info/6951bace29655e4dd65a93f3?utm_campaign=1050&utm_source=git)** | Blair, NE | On Site | Dec 28 |
 | **[Bernhard](https://bernhard.com/)** | **[Intern](https://jobright.ai/jobs/info/6951852329655e4dd65a72f8?utm_campaign=1050&utm_source=git)** | US-AR-Little Rock | On Site | Dec 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/69517fbf29655e4dd65a6e7b?utm_campaign=1050&utm_source=git)** | New London/Groton/Mystic/Old Saybrook/Norwich | On Site | Dec 28 |
 | **[Intelligent Protection Systems (Protech AI)](www.protechschools.com)** | **[Intern Business Admin](https://jobright.ai/jobs/info/69516e59ce13cd105659203b?utm_campaign=1050&utm_source=git)** | Dana Point, CA | On Site | Dec 28 |

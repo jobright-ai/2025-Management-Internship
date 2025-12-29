@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollar General Store](https://www.dollargeneral.com/)** | **[DC INTERN](https://jobright.ai/jobs/info/6951bace29655e4dd65a93f3?utm_campaign=1050&utm_source=git)** | Blair, NE | On Site | Dec 28 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/6951aaf5ce13cd10565945d7?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Dec 28 |
 | **[Bernhard](https://bernhard.com/)** | **[Intern](https://jobright.ai/jobs/info/6951852329655e4dd65a72f8?utm_campaign=1050&utm_source=git)** | US-AR-Little Rock | On Site | Dec 28 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/69517fbf29655e4dd65a6e7b?utm_campaign=1050&utm_source=git)** | New London/Groton/Mystic/Old Saybrook/Norwich | On Site | Dec 28 |
 | **[Intelligent Protection Systems (Protech AI)](www.protechschools.com)** | **[Intern Business Admin](https://jobright.ai/jobs/info/69516e59ce13cd105659203b?utm_campaign=1050&utm_source=git)** | Dana Point, CA | On Site | Dec 28 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Yamaha Motor Corporation, USA](https://yamaha-motor.com)** | **[Intern/Coop - Business](https://jobright.ai/jobs/info/69228c367795cd460c836217?utm_campaign=1050&utm_source=git)** | Newnan, GA | On Site | Dec 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Supply Chain Summer Internship](https://jobright.ai/jobs/info/6938fe0baabec14a727deb1f?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Dec 28 |
 | **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68ccd258b274cd205ab4fb6e?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6938fee5aabec14a727dee4f?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 28 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6939124eac80bb5492bbb101?utm_campaign=1050&utm_source=git)** | Sanford, NC | On Site | Dec 28 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6939124eac80bb5492bbb101?utm_campaign=1050&utm_source=git)** | Sanford, NC | On Site | Dec 28 |
+| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6938fee5aabec14a727dee4f?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Dec 28 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Dec 28 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf4fa8dbd9fb154ede645f?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Dec 28 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Spring Intern](https://jobright.ai/jobs/info/68c162c44d652f0447757524?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68de9e5309bda65a4b62c315?utm_campaign=1050&utm_source=git)** | Henderson, NC | On Site | Dec 27 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Dec 27 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Atlantic Region)](https://jobright.ai/jobs/info/69350b71a0dde7020e2f730a?utm_campaign=1050&utm_source=git)** | Elmsford, NY | On Site | Dec 27 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Rapid City, SD](https://jobright.ai/jobs/info/68cee90b846f0b04af67dbb2?utm_campaign=1050&utm_source=git)** | Rapid City, SD | On Site | Dec 27 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

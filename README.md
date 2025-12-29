@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Facebook](https://www.meta.com)** | **[Business Management Summer Student Intern](https://jobright.ai/jobs/info/6952f33ff1f8465b79ea488a?utm_campaign=1050&utm_source=git)** | Columbia, South Carolina | On Site | Dec 29 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6952f082935649778e20ba57?utm_campaign=1050&utm_source=git)** | Trussville, AL | On Site | Dec 29 |
+| **[Work-Based Learning Alliance](https://workbasedlearningalliance.org)** | **[Director of Internship Coordinators](https://jobright.ai/jobs/info/6952e0f55bb7de448ef5f218?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 29 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/694b5e1cd64ebf28d82111ef?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Real Estate Acquisitions](https://jobright.ai/jobs/info/6952e3c0f1f8465b79ea2bce?utm_campaign=1050&utm_source=git)** | Hollywood, FL 33021 | On Site | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Personal Lines Operations Intern](https://jobright.ai/jobs/info/6952da125bb7de448ef5ebd8?utm_campaign=1050&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Direct Investing Acquisition Strategy Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952d5d95bb7de448ef5e711?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Commercial Lines Operations Intern](https://jobright.ai/jobs/info/6952d565f1f8465b79ea1e1a?utm_campaign=1050&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
@@ -70,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/6952c6435bb7de448ef5dd5e?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
 | ↳ | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/6952c5bdf1f8465b79ea142f?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
 | ↳ | **[Operations Leadership Internship- Distribution](https://jobright.ai/jobs/info/6952c538935649778e208a5a?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Strategist Intern](https://jobright.ai/jobs/info/6952c50f5bb7de448ef5dcde?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Operations Intern](https://jobright.ai/jobs/info/6952c3ac935649778e208982?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
 | **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6952c2f05bb7de448ef5dbce?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Summer 2026 Venture Team Intern / Office of the CEO](https://jobright.ai/jobs/info/690523bfff462851feffadc8?utm_campaign=1050&utm_source=git)** | New Haven, CT | On Site | Dec 29 |
@@ -87,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6952aae6f1f8465b79e9ee22?utm_campaign=1050&utm_source=git)** | Belleville, MI | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Direct Investing Acquisition Strategy Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952a562f1f8465b79e9ebf5?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/6952a0d5f1f8465b79e9ea97?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69528fdf5bb7de448ef5add4?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Dec 29 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/68c3042d5001f8077bf602f3?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Dec 29 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Dec 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Hospitality FP&A Intern](https://jobright.ai/jobs/info/69512f0829655e4dd65a496b?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Dec 28 |
-| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/693659d7f131d96e48470f36?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | On Site | Dec 28 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cea489dbd9fb154ede19c7?utm_campaign=1050&utm_source=git)** | Carrollton, GA | On Site | Dec 28 |
-| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ae0ea9f961617fe21ecd7?utm_campaign=1050&utm_source=git)** | Worthington, MN | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

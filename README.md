@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado State University](http://www.colostate.edu/)** | **[Laboratory Manager](https://jobright.ai/jobs/info/69539cd8935649778e21624a?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[TD Asset Management Business Management (Regina) Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69537872f1f8465b79eac486?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 29 |
 | ↳ | **[TD Asset Management Business Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69537705f1f8465b79eac35d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cff7150bbaf7650503051?utm_campaign=1050&utm_source=git)** | Seattle, WA | Remote | Dec 29 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
 | ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
-| **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Lexington, SC](https://jobright.ai/jobs/info/690b848c221b890c277f56b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

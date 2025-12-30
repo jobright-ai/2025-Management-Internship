@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transwestern](https://transwestern.com)** | **[Commercial Property Management Summer Intern](https://jobright.ai/jobs/info/6937365baabec14a727c51c6?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
+| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Chambersburg, PA](https://jobright.ai/jobs/info/691f8102a49a885af9a30f6b?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Dec 30 |
+| ↳ | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, Windsor, CT](https://jobright.ai/jobs/info/691f53953f782d2f1afba786?utm_campaign=1050&utm_source=git)** | Windsor, CT | On Site | Dec 30 |
+| ↳ | **[Operations Manager Intern (starting summer 2026) Upstream Distribution  Center, Suffolk, VA](https://jobright.ai/jobs/info/691e3132a49a885af9a25f6f?utm_campaign=1050&utm_source=git)** | Suffolk, VA | On Site | Dec 30 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/693b9d4150bbaf76504f05f7?utm_campaign=1050&utm_source=git)** | Stafford Springs, CT | On Site | Dec 30 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6953a1d1f1f8465b79eaef20?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
+| ↳ | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/69539e8e5bb7de448ef6b736?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 30 |
+| ↳ | **[Sr. Intern, Project Management](https://jobright.ai/jobs/info/69539e715bb7de448ef6b729?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 30 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[Laboratory Manager](https://jobright.ai/jobs/info/69539cd8935649778e21624a?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[TD Asset Management Business Management (Regina) Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69537872f1f8465b79eac486?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 29 |
 | ↳ | **[TD Asset Management Business Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69537705f1f8465b79eac35d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/693e2ce7aa598a08c3ee8805?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Dec 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/69534e7c935649778e210c4c?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Dec 29 |
 | ↳ | **[Intern/Co-Op- Spring 2026 (Nashville)](https://jobright.ai/jobs/info/6937b9fb1c1c2161c13f8fd1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
-| **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/68cd2382e23def7af55b605a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 29 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/6937c7baa0dde7020e307cd7?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Dec 29 |
-| **[Gentherm](https://gentherm.com/)** | **[PMO Intern](https://jobright.ai/jobs/info/68fbee0d4129dd33cd1366e4?utm_campaign=1050&utm_source=git)** | Novi, MI | Hybrid | Dec 29 |
-| **[KPMG Canada](https://home.kpmg.com/ca/en/home.html)** | **[GMA - Intern Strategy & Operations - 2026](https://jobright.ai/jobs/info/69369aca1c1c2161c13edf68?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cff7150bbaf7650503051?utm_campaign=1050&utm_source=git)** | Seattle, WA | Remote | Dec 29 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
-| ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

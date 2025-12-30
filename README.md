@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Logistics Optimization Intern](https://jobright.ai/jobs/info/69532d2e935649778e20f4b1?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/69532a50935649778e20f256?utm_campaign=1050&utm_source=git)** | Warwick/West Warwick/Cranston | On Site | Dec 29 |
+| **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/69532928935649778e20f154?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Dec 29 |
+| **[Equity Residential](http://equityapartments.com)** | **[Onsite Property Management Internship Summer 2026 - Washington D.C.](https://jobright.ai/jobs/info/695322d35bb7de448ef64152?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 29 |
+| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Operations Intern](https://jobright.ai/jobs/info/695318a8f1f8465b79ea5beb?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Dec 29 |
+| **[Scoular](http://www.scoular.com/)** | **[High School Intern](https://jobright.ai/jobs/info/695315f7935649778e20d04e?utm_campaign=1050&utm_source=git)** | Hancock, IA | On Site | Dec 29 |
 | **[Hoffman & Associates](https://www.hoffman-dev.com/)** | **[Office Operations Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/69531145f1f8465b79ea5961?utm_campaign=1050&utm_source=git)** | DC-Baltimore Area | On Site | Dec 29 |
 | **[Impact Advisors](https://www.impact-advisors.com)** | **[Healthcare Strategy and Operations Intern 2026](https://jobright.ai/jobs/info/69530db65bb7de448ef620e6?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Change Initiatives Business Effectiveness](https://jobright.ai/jobs/info/69530da5f1f8465b79ea57bd?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TDI Innovation Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695213d4ce13cd105659a27a?utm_campaign=1050&utm_source=git)** | TD Centre - TD Tower - 66 Wellington Street West, Toronto, Ontario | Hybrid | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6952138ece13cd105659a268?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[Analog Devices](http://www.analog.com)** | **[Project/Program Management Intern](https://jobright.ai/jobs/info/690a759cbcccf20de59e2957?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | On Site | Dec 28 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6941f628bdcf884a5addb335?utm_campaign=1050&utm_source=git)** | Oak Park Heights, MN | On Site | Dec 28 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6951e0a229655e4dd65ab7a1?utm_campaign=1050&utm_source=git)** | Griffith, IN | On Site | Dec 28 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6951e063ce13cd1056596bf7?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Dec 28 |
-| **[Bernhard](https://bernhard.com/)** | **[Intern](https://jobright.ai/jobs/info/6951852329655e4dd65a72f8?utm_campaign=1050&utm_source=git)** | US-AR-Little Rock | On Site | Dec 28 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/69517fbf29655e4dd65a6e7b?utm_campaign=1050&utm_source=git)** | New London/Groton/Mystic/Old Saybrook/Norwich | On Site | Dec 28 |
-| **[Intelligent Protection Systems (Protech AI)](www.protechschools.com)** | **[Intern Business Admin](https://jobright.ai/jobs/info/69516e59ce13cd105659203b?utm_campaign=1050&utm_source=git)** | Dana Point, CA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Summer Internship - Logistics](https://jobright.ai/jobs/info/69542b1caa05c26e7aae9e36?utm_campaign=1050&utm_source=git)** | Lenexa, KS | On Site | Dec 30 |
+| **[Kairoi Residential](https://www.kairoi.com/)** | **[Data Project Manager Intern-Technology Services](https://jobright.ai/jobs/info/695428c5aa05c26e7aae9c2a?utm_campaign=1050&utm_source=git)** | San Antonio,TX,US | On Site | Dec 30 |
+| **[DOXA](http://doxainsurance.com/)** | **[Pathways Internship Position](https://jobright.ai/jobs/info/68c86ea295f5211cd2ce533d?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | Hybrid | Dec 30 |
+| **[Perry Homes](http://perryhomes.com)** | **[2026 Summer Internship - Project Planner](https://jobright.ai/jobs/info/69541e175bb7de448ef70edf?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 30 |
+| **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Logistics Planning Intern - Summer 2026, Full Time (Paid/12 Weeks)](https://jobright.ai/jobs/info/69541a59aa05c26e7aae9452?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Dec 30 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Vendor Management](https://jobright.ai/jobs/info/69540c14aa05c26e7aae8fdc?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Dec 30 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Summer Internship - Logistics](https://jobright.ai/jobs/info/69540a86f1f8465b79eb3fb6?utm_campaign=1050&utm_source=git)** | 10101 Renner Blvd, Lenexa, KS, 66219, US | On Site | Dec 30 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[IT Project & Change Management Intern](https://jobright.ai/jobs/info/695409daf1f8465b79eb3f55?utm_campaign=1050&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 30 |
@@ -67,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Finance Corporate Internship - Summer 2026](https://jobright.ai/jobs/info/6953fda95bb7de448ef6e9f1?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Dec 30 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/6953ec495bb7de448ef6e650?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 30 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/6953e6dff1f8465b79eb1bd5?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 30 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6953e1b4f1f8465b79eb1a76?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | Hybrid | Dec 30 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations- EN](https://jobright.ai/jobs/info/691a518745fb6f5ead8ab591?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | Dec 30 |
 | **[ABB](https://global.abb/group/en)** | **[Manufacturing and Supply Chain Intern - Spring 2026](https://jobright.ai/jobs/info/69375fcb1c1c2161c13f38ca?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcesium](http://www.arcesium.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/690bd5534a1b456627b136fe?utm_campaign=1050&utm_source=git)** | New York | Hybrid | Dec 29 |
 | **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Spring Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/6952cf2cf1f8465b79ea18bf?utm_campaign=1050&utm_source=git)** | Kansas City,MO,US | On Site | Dec 29 |
 | **[Work-Based Learning Alliance](https://workbasedlearningalliance.org)** | **[Director of Internship Coordinators](https://jobright.ai/jobs/info/6952e0f55bb7de448ef5f218?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 29 |
-| **[BIG Construction](https://www.buildbig.com/)** | **[Project Intern](https://jobright.ai/jobs/info/6952ca9b5bb7de448ef5df88?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Direct Investing Acquisition Strategy Intern / Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6952c64f935649778e208aca?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/6952c6435bb7de448ef5dd5e?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
-| ↳ | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/6952c5bdf1f8465b79ea142f?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

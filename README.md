@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 29 |
+| **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Real Estate Administrative Intern](https://jobright.ai/jobs/info/69534d655bb7de448ef65ec0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
 | **[Kuvare Holdings](http://kuvare.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6953484e935649778e210949?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[TD Asset Management Business Management (Regina) Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695340c3935649778e21049e?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 29 |
 | **[Harris County](https://www.harriscountytx.gov/)** | **[Engineering Project Manager Intern](https://jobright.ai/jobs/info/694c5abd5d7312113470d345?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 29 |
@@ -142,7 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/68e03ffeb99ec3563b0cdce7?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Dec 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine Supply Chain Intern](https://jobright.ai/jobs/info/68ce49ab846f0b04af677f09?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Dec 29 |
 | **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/693e2ce7aa598a08c3ee8805?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Dec 29 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Spring 2026 (Nashville)](https://jobright.ai/jobs/info/6937b9fb1c1c2161c13f8fd1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Spring 2026 Internship](https://jobright.ai/jobs/info/69534e7c935649778e210c4c?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Dec 29 |
+| ↳ | **[Intern/Co-Op- Spring 2026 (Nashville)](https://jobright.ai/jobs/info/6937b9fb1c1c2161c13f8fd1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
 | **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/68cd2382e23def7af55b605a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Dec 29 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/6937c7baa0dde7020e307cd7?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Dec 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
 | ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
 | **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Lexington, SC](https://jobright.ai/jobs/info/690b848c221b890c277f56b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Dec 29 |
-| **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Dec 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cf6eeaa598a08c3edca26?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
-| **[TD](https://www.td.com)** | **[S&E Indigenous People & ESG Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69524f74935649778e202b7a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

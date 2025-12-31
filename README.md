@@ -57,13 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69548045f1f8465b79ebb493?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Dec 30 |
+| **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69549c49f1f8465b79ebcb05?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Dec 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69549a3cf1f8465b79ebca7d?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Dec 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6954949cf1f8465b79ebc209?utm_campaign=1050&utm_source=git)** | Vernon Hills, IL | On Site | Dec 30 |
+| **[REV Group, Inc](http://www.revgroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6945b81e63141d1884554781?utm_campaign=1050&utm_source=git)** | Brandon, SD | On Site | Dec 30 |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Community Center Intern](https://jobright.ai/jobs/info/69548f43f1f8465b79ebbf0f?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 30 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Strategic Services Summer Internship](https://jobright.ai/jobs/info/6954852d5bb7de448ef78345?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Dec 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695484f15bb7de448ef782c6?utm_campaign=1050&utm_source=git)** | Willmar, MN | On Site | Dec 30 |
+| **[Sedgwick County Government](https://www.sedgwickcounty.org/)** | **[Management Intern - COUNTY MANAGER](https://jobright.ai/jobs/info/695483d25bb7de448ef7808f?utm_campaign=1050&utm_source=git)** | Wichita, KS, US | On Site | Dec 30 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69548215aa05c26e7aaefca0?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | Dec 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695481c75bb7de448ef77bf9?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Dec 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695481ae5bb7de448ef77bbe?utm_campaign=1050&utm_source=git)** | Triadelphia, WV | On Site | Dec 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69548154f1f8465b79ebb578?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Dec 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69548045f1f8465b79ebb493?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Dec 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69547f03aa05c26e7aaef5ff?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Dec 30 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69547e4f5bb7de448ef77414?utm_campaign=1050&utm_source=git)** | Feasterville-Trevose, PA, US | On Site | Dec 30 |
 | ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69547c605bb7de448ef76fc9?utm_campaign=1050&utm_source=git)** | Feasterville-Trevose, PA | On Site | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Operational Excellence, Control, Regulatory Support Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69547bd45bb7de448ef76ebc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
 | **[Rocket Lab](https://rocketlabcorp.com)** | **[Project Management Intern Spring 2026](https://jobright.ai/jobs/info/695474995bb7de448ef75f65?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 30 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Strategic Services Summer Internship](https://jobright.ai/jobs/info/6954735e5bb7de448ef75ca6?utm_campaign=1050&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
+| **[Athletes First](http://www.athletesfirst.net/)** | **[Summer 2026 Football Operations Intern - Laguna Hills, CA](https://jobright.ai/jobs/info/69548ddeaa05c26e7aaf0b22?utm_campaign=1050&utm_source=git)** | Laguna Hills HQ, CA | On Site | Dec 30 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/69545842aa05c26e7aaed5c1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Dec 30 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[IT Project & Change Management Intern](https://jobright.ai/jobs/info/695453a65bb7de448ef74ca3?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Dec 30 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Enablement](https://jobright.ai/jobs/info/695453885bb7de448ef74c83?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Dec 30 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado State University](http://www.colostate.edu/)** | **[Laboratory Manager](https://jobright.ai/jobs/info/69539cd8935649778e21624a?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[TD Asset Management Business Management (Regina) Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69537872f1f8465b79eac486?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 29 |
 | ↳ | **[TD Asset Management Business Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69537705f1f8465b79eac35d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Construction Project Management Intern](https://jobright.ai/jobs/info/692decf8fa28370be269f695?utm_campaign=1050&utm_source=git)** | St Paul, MN | On Site | Dec 29 |
-| **[Kuvare Holdings](http://kuvare.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6953484e935649778e210949?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[TD Asset Management Business Management (Regina) Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/695340c3935649778e21049e?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 29 |
-| **[Harris County](https://www.harriscountytx.gov/)** | **[Engineering Project Manager Intern](https://jobright.ai/jobs/info/694c5abd5d7312113470d345?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Dec 29 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69533c255bb7de448ef6537c?utm_campaign=1050&utm_source=git)** | Hoover, AL | On Site | Dec 29 |
-| **[Budget Car and Truck Rental of Kansas City](https://budgetkc.com)** | **[Spring Management/Leadership Intern, Part-Time or Full-Time](https://jobright.ai/jobs/info/69533665935649778e20fbbf?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Dec 29 |
-| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69533626935649778e20fb7d?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Dec 29 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 - Technical Intern - Customer Ops Projects & Facilities Team](https://jobright.ai/jobs/info/69533601935649778e20fb52?utm_campaign=1050&utm_source=git)** | Newark, NJ, US | Hybrid | Dec 29 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Program Manager](https://jobright.ai/jobs/info/69533478f1f8465b79ea84f4?utm_campaign=1050&utm_source=git)** | Tempe, AZ, US, 85288 | Hybrid | Dec 29 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6953342af1f8465b79ea84b9?utm_campaign=1050&utm_source=git)** | Cape Girardeau, MO | On Site | Dec 29 |
-| **[Amrize](https://www.amrize.com)** | **[Business Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6953340d5bb7de448ef64cb1?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Dec 29 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695333aff1f8465b79ea8451?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Dec 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69533314935649778e20f94e?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/69559667f1f8465b79ec8d18?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Dec 31 |
+| **[Work4Flow](www.work4flow.com)** | **[ServiceNow Technical Project Management - Intern (Remote)](https://jobright.ai/jobs/info/695582eaf1f8465b79ec8569?utm_campaign=1050&utm_source=git)** | United States | Remote | Dec 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Supply Chain Intern (NJUS)](https://jobright.ai/jobs/info/695578779f1b381eb26ec83f?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[500009-026:Summer Intern, Operations](https://jobright.ai/jobs/info/69555fbaf1f8465b79ec7323?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer Project Intern (4 months)](https://jobright.ai/jobs/info/69555f159f1b381eb26eb783?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 31 |
@@ -85,13 +87,13 @@ For a complete list, click the following sortable link below:
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Assistant Vice President Intern](https://jobright.ai/jobs/info/69553c9eaa05c26e7aafa15b?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 31 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/68c7e12d983e6768bc547dc4?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Dec 31 |
 | **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/694647a1d1953b5d11bf6ed9?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Dec 31 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Sourcing](https://jobright.ai/jobs/info/69388a78a0dde7020e311d01?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Dec 31 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Personal Lines Underwriting Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffc543e04ac838fb5bb0fe?utm_campaign=1050&utm_source=git)** | Westfield Center, OH | Hybrid | Dec 31 |
 | **[MANE](https://www.mane.com/)** | **[Specialty Business Unit Category Intern - Summer 2026](https://jobright.ai/jobs/info/693888efb95c305f206db979?utm_campaign=1050&utm_source=git)** | Parsippany, NJ | On Site | Dec 31 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6922d5f7c0cefa13343d98e9?utm_campaign=1050&utm_source=git)** | Canfield, OH | On Site | Dec 31 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Project Management FTC Intern](https://jobright.ai/jobs/info/691bdec122a2cb4b9bd16ee2?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Dec 31 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/693f89ad49a7695fbd053d4e?utm_campaign=1050&utm_source=git)** | Newark, DE | On Site | Dec 31 |
 | **[Arconic](https://www.arconic.com)** | **[Procurement-Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/6938a1f7aabec14a727d8b82?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Dec 31 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Sourcing](https://jobright.ai/jobs/info/6938926db95c305f206dc134?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Dec 31 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Assistant Project Manager - Summer Internship 2026 - Dallas Process Solutions](https://jobright.ai/jobs/info/693871ffa0dde7020e310965?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68ec8c26c26b9574506f2f37?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
 | **[Nuvation Bio](https://www.nuvationbio.com/)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/6920024b09cc522e877471ed?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pinnacle Healthcare Consulting](https://askphc.com/)** | **[Intern](https://jobright.ai/jobs/info/695440d8aa05c26e7aaeba7a?utm_campaign=1050&utm_source=git)** | Centennial, CO | On Site | Dec 30 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Project Management Support - Intern, Japan Unit](https://jobright.ai/jobs/info/695440bbaa05c26e7aaeb9c4?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 30 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Rocket Classic Operations Intern - Summer 2026](https://jobright.ai/jobs/info/695440aaf1f8465b79eb6467?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Dec 30 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Program Manager Intern](https://jobright.ai/jobs/info/69420eeabdcf884a5addc8ae?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Dec 30 |
-| **[UNDP](http://www.undp.org)** | **[Project Management Support - Intern, Japan Unit](https://jobright.ai/jobs/info/6954403ef1f8465b79eb61d7?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69548045f1f8465b79ebb493?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Dec 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69547f03aa05c26e7aaef5ff?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Dec 30 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69547e4f5bb7de448ef77414?utm_campaign=1050&utm_source=git)** | Feasterville-Trevose, PA, US | On Site | Dec 30 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69547c605bb7de448ef76fc9?utm_campaign=1050&utm_source=git)** | Feasterville-Trevose, PA | On Site | Dec 30 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Operational Excellence, Control, Regulatory Support Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/69547bd45bb7de448ef76ebc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
+| **[Rocket Lab](https://rocketlabcorp.com)** | **[Project Management Intern Spring 2026](https://jobright.ai/jobs/info/695474995bb7de448ef75f65?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Dec 30 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Strategic Services Summer Internship](https://jobright.ai/jobs/info/6954735e5bb7de448ef75ca6?utm_campaign=1050&utm_source=git)** | US-CO-Denver | On Site | Dec 30 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/69545842aa05c26e7aaed5c1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Dec 30 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[IT Project & Change Management Intern](https://jobright.ai/jobs/info/695453a65bb7de448ef74ca3?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Dec 30 |
 | **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Enablement](https://jobright.ai/jobs/info/695453885bb7de448ef74c83?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Dec 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amrize](https://www.amrize.com)** | **[Business Management Intern (Summer 2026)](https://jobright.ai/jobs/info/6953340d5bb7de448ef64cb1?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Dec 29 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695333aff1f8465b79ea8451?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Dec 29 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69533314935649778e20f94e?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Dec 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695332d1f1f8465b79ea8382?utm_campaign=1050&utm_source=git)** | Casper, WY | On Site | Dec 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695332a15bb7de448ef64b77?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Dec 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695332035bb7de448ef64af6?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Dec 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695331d45bb7de448ef64ace?utm_campaign=1050&utm_source=git)** | Evergreen Park, IL | On Site | Dec 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6953317e935649778e20f7ec?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Dec 29 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6953304a935649778e20f6d0?utm_campaign=1050&utm_source=git)** | West Allis, WI | On Site | Dec 29 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Logistics Optimization Intern](https://jobright.ai/jobs/info/69532d2e935649778e20f4b1?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

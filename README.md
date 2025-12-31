@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[ACE Hardware](http://www.acehardware.af)** | **[Logistics Planning Intern - Summer 2026, Full Time (Paid/12 Weeks)](https://jobright.ai/jobs/info/695402155bb7de448ef6f239?utm_campaign=1050&utm_source=git)** | IL - Oak Brook | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/6953fe59aa05c26e7aae714a?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Dec 30 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Finance Corporate Internship - Summer 2026](https://jobright.ai/jobs/info/6953fda95bb7de448ef6e9f1?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Dec 30 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/6953ec495bb7de448ef6e650?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Dec 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Real Estate Transaction Services](https://jobright.ai/jobs/info/691e50ba09cc522e87738d7b?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 30 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6953e1b4f1f8465b79eb1a76?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | Hybrid | Dec 30 |
 | **[CN](http://www.cn.ca)** | **[Intern, Multimodal Operations- EN](https://jobright.ai/jobs/info/691a518745fb6f5ead8ab591?utm_campaign=1050&utm_source=git)** | Brampton, Ontario, Canada | On Site | Dec 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/693b9d4150bbaf76504f05f7?utm_campaign=1050&utm_source=git)** | Stafford Springs, CT | On Site | Dec 30 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6953a1d1f1f8465b79eaef20?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
+| ↳ | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/69539e8e5bb7de448ef6b736?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

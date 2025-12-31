@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b4125bb7de448ef7bf0e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
+| ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b079f1f8465b79ebf2d2?utm_campaign=1050&utm_source=git)** | San Jose, CA | Remote | Dec 30 |
+| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 30 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Procurement](https://jobright.ai/jobs/info/6954a92e5bb7de448ef79d34?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Dec 30 |
+| **[CalOptima](https://www.caloptima.org/)** | **[Intern (Privacy Operations) - Spring 2026](https://jobright.ai/jobs/info/6954a258f1f8465b79ebd0a7?utm_campaign=1050&utm_source=git)** | Orange, CA | On Site | Dec 30 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/69549c49f1f8465b79ebcb05?utm_campaign=1050&utm_source=git)** | Sioux Falls, SD | On Site | Dec 30 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69549a3cf1f8465b79ebca7d?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Dec 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6954949cf1f8465b79ebc209?utm_campaign=1050&utm_source=git)** | Vernon Hills, IL | On Site | Dec 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
 | **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/693b9d4150bbaf76504f05f7?utm_campaign=1050&utm_source=git)** | Stafford Springs, CT | On Site | Dec 30 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6953a1d1f1f8465b79eaef20?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
-| ↳ | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/69539e8e5bb7de448ef6b736?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 30 |
-| ↳ | **[Sr. Intern, Project Management](https://jobright.ai/jobs/info/69539e715bb7de448ef6b729?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Dec 30 |
-| **[Colorado State University](http://www.colostate.edu/)** | **[Laboratory Manager](https://jobright.ai/jobs/info/69539cd8935649778e21624a?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Dec 30 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[TD Asset Management Business Management (Regina) Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69537872f1f8465b79eac486?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Dec 29 |
-| ↳ | **[TD Asset Management Business Management Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69537705f1f8465b79eac35d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

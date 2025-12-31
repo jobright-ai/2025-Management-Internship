@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Franklin, KY / Summer 2026](https://jobright.ai/jobs/info/69545842aa05c26e7aaed5c1?utm_campaign=1050&utm_source=git)** | Franklin, KY | On Site | Dec 30 |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[IT Project & Change Management Intern](https://jobright.ai/jobs/info/695453a65bb7de448ef74ca3?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Dec 30 |
+| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Enablement](https://jobright.ai/jobs/info/695453885bb7de448ef74c83?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Dec 30 |
+| **[Adventist Health Portland](https://www.adventisthealthnw.com)** | **[Intern](https://jobright.ai/jobs/info/6954500eaa05c26e7aaecf7e?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Dec 30 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/69544cdef1f8465b79eb7ec3?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Dec 30 |
+| ↳ | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/69544928aa05c26e7aaeca22?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[Primient](https://primient.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/695446bfaa05c26e7aaec7f7?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Dec 30 |
 | **[TD](https://www.td.com)** | **[Operational Excellence, Control, Regulatory Support Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/6954465caa05c26e7aaec78d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
 | **[Pinnacle Healthcare Consulting](https://askphc.com/)** | **[Intern](https://jobright.ai/jobs/info/69544393f1f8465b79eb71f6?utm_campaign=1050&utm_source=git)** | Pinnacle Healthcare Consulting LLC, Centennial, CO, US | On Site | Dec 30 |
@@ -98,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Operations Support Services](https://jobright.ai/jobs/info/69374497aabec14a727c5c58?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Operations Intern / Casa Grande, AZ / Summer 2026](https://jobright.ai/jobs/info/68cd0b14b2a74e1837ed13f8?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Dec 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Program Manager](https://jobright.ai/jobs/info/6953cf06f1f8465b79eb1058?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Dec 30 |
-| **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Operations Intern , Summer 2026 - Rock Hill, SC](https://jobright.ai/jobs/info/69535559f1f8465b79ea9b19?utm_campaign=1050&utm_source=git)** | Rock Hill, NY | Hybrid | Dec 30 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Business Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6924e912c0cefa13343e3eee?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Dec 30 |
 | **[Cadence](https://www.cadence.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69375ed11c1c2161c13f37b7?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Real Estate - Toronto Office](https://jobright.ai/jobs/info/69378b74aabec14a727c91aa?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6953317e935649778e20f7ec?utm_campaign=1050&utm_source=git)** | Baraboo, WI | On Site | Dec 29 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6953304a935649778e20f6d0?utm_campaign=1050&utm_source=git)** | West Allis, WI | On Site | Dec 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Logistics Optimization Intern](https://jobright.ai/jobs/info/69532d2e935649778e20f4b1?utm_campaign=1050&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Warwick/West Warwick/Cranston, RI](https://jobright.ai/jobs/info/69532a50935649778e20f256?utm_campaign=1050&utm_source=git)** | Warwick/West Warwick/Cranston | On Site | Dec 29 |
-| **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Construction Intern - Summer 2026](https://jobright.ai/jobs/info/69532928935649778e20f154?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Dec 29 |
-| **[Equity Residential](http://equityapartments.com)** | **[Onsite Property Management Internship Summer 2026 - Washington D.C.](https://jobright.ai/jobs/info/695322d35bb7de448ef64152?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 29 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Operations Intern](https://jobright.ai/jobs/info/695318a8f1f8465b79ea5beb?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Dec 29 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69533804935649778e20fd6d?utm_campaign=1050&utm_source=git)** | Cottage Grove,MN,US | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

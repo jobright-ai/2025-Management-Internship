@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/6954efbdf1f8465b79ec1810?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
+| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/6954efb5f1f8465b79ec17fb?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 31 |
+| **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/6954ee0baa05c26e7aaf5b1f?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 31 |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Strategic Planning Intern (Spring 2026)](https://jobright.ai/jobs/info/690e319f221b890c2780ba51?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 31 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e6f6f1f8465b79ec0b54?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Dec 31 |
+| ↳ | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e61eaa05c26e7aaf5834?utm_campaign=1050&utm_source=git)** | Carlisle, PA | Hybrid | Dec 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b4125bb7de448ef7bf0e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
 | ↳ | **[Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954b079f1f8465b79ebf2d2?utm_campaign=1050&utm_source=git)** | San Jose, CA | Remote | Dec 30 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Dec 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center - Cedar Falls, IA](https://jobright.ai/jobs/info/68dcde4aa125e75c422a64fc?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Dec 30 |
 | **[Transwestern](https://transwestern.com)** | **[Commercial Property Management Summer Intern](https://jobright.ai/jobs/info/6937365baabec14a727c51c6?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Chambersburg, PA](https://jobright.ai/jobs/info/691f8102a49a885af9a30f6b?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Dec 30 |
-| ↳ | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, Windsor, CT](https://jobright.ai/jobs/info/691f53953f782d2f1afba786?utm_campaign=1050&utm_source=git)** | Windsor, CT | On Site | Dec 30 |
-| ↳ | **[Operations Manager Intern (starting summer 2026) Upstream Distribution  Center, Suffolk, VA](https://jobright.ai/jobs/info/691e3132a49a885af9a25f6f?utm_campaign=1050&utm_source=git)** | Suffolk, VA | On Site | Dec 30 |
-| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68ccd90ad11b445e0bee2c47?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
-| **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/693b9d4150bbaf76504f05f7?utm_campaign=1050&utm_source=git)** | Stafford Springs, CT | On Site | Dec 30 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Corporate Real Estate Intern](https://jobright.ai/jobs/info/6953a1d1f1f8465b79eaef20?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
-| ↳ | **[Supply Chain Intern Sr. Intern](https://jobright.ai/jobs/info/69539e8e5bb7de448ef6b736?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

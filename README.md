@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allison Transmission](http://www.allisontransmission.com)** | **[Operation Program Management Intern](https://jobright.ai/jobs/info/6947a17d7d506e3808f2f18c?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Dec 31 |
+| **[Core & Main](https://coreandmain.com/)** | **[Intern - Field](https://jobright.ai/jobs/info/69386fc4a0dde7020e310802?utm_campaign=1050&utm_source=git)** | Boardman, OH | On Site | Dec 31 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co-Op 2025](https://jobright.ai/jobs/info/69549849aa05c26e7aaf16a6?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
+| **[TW Constructors](https://twc-stl.com)** | **[Internship (Summer 2026)](https://jobright.ai/jobs/info/68e8174dc4895107182c20b4?utm_campaign=1050&utm_source=git)** | Greater St. Louis | On Site | Dec 31 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Intern Summer 2026](https://jobright.ai/jobs/info/68ffef9fe04ac838fb5bd95b?utm_campaign=1050&utm_source=git)** | New Stanton, PA | Hybrid | Dec 31 |
+| **[HP](http://www.hp.com)** | **[Enterprise Operations Business Internship](https://jobright.ai/jobs/info/693fb131aa598a08c3ef7f3a?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Dec 31 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Claims Operations](https://jobright.ai/jobs/info/6938d3acaabec14a727dbac6?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Dec 31 |
+| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/6954f435f1f8465b79ec291b?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 31 |
 | **[GenPark](https://genpark.ai)** | **[Project Management Intern](https://jobright.ai/jobs/info/6954efbdf1f8465b79ec1810?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Dec 31 |
-| **[City of Auburn, AL](https://www.auburnalabama.org/)** | **[Intern - City Market](https://jobright.ai/jobs/info/6954efb5f1f8465b79ec17fb?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Dec 31 |
 | **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/6954ee0baa05c26e7aaf5b1f?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 31 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Strategic Planning Intern (Spring 2026)](https://jobright.ai/jobs/info/690e319f221b890c2780ba51?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Dec 31 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e6f6f1f8465b79ec0b54?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Dec 31 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vannevar Labs](https://www.vannevarlabs.com)** | **[Mission Development MBA Intern 2026 - No Clearance Required](https://jobright.ai/jobs/info/69378f3baabec14a727c9486?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Dec 30 |
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Clinical Supply Chain Intern](https://jobright.ai/jobs/info/693742b5aabec14a727c5aae?utm_campaign=1050&utm_source=git)** | Hayward, CA | On Site | Dec 30 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Wealth Management/Yellow Cardinal](https://jobright.ai/jobs/info/6937043fa0dde7020e2fe670?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
-| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/69373228aabec14a727c4ef1?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Intern, Mortgage & Consumer Lending Administration](https://jobright.ai/jobs/info/6936fbb9a0dde7020e2fe34a?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Dec 30 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center - Pueblo, CO](https://jobright.ai/jobs/info/691d2f0e0b7dff7341500a38?utm_campaign=1050&utm_source=git)** | Pueblo, CO | On Site | Dec 30 |
-| **[K&A Engineering Consulting](https://www.kapower.us/)** | **[Operations Intern](https://jobright.ai/jobs/info/69376ffeaabec14a727c80da?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Dec 30 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center - Cedar Falls, IA](https://jobright.ai/jobs/info/68dcde4aa125e75c422a64fc?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Dec 30 |
-| **[Transwestern](https://transwestern.com)** | **[Commercial Property Management Summer Intern](https://jobright.ai/jobs/info/6937365baabec14a727c51c6?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Chambersburg, PA](https://jobright.ai/jobs/info/691f8102a49a885af9a30f6b?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

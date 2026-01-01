@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Project Management Technical paid intern (May and August hires)](https://jobright.ai/jobs/info/6956de11aa05c26e7ab1199a?utm_campaign=1050&utm_source=git)** | Riverton, UT | Hybrid | Jan 01 |
+| **[Trace3](http://trace3.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69408c68aa598a08c3f03b72?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 01 |
+| **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Stadium Operations Intern 2026](https://jobright.ai/jobs/info/6956dd65aa05c26e7ab11345?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 01 |
+| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Food and Beverage Internship (Free Housing)](https://jobright.ai/jobs/info/6956d497aa05c26e7ab0fe18?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Jan 01 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Assistant & Research Intern](https://jobright.ai/jobs/info/6956b98baa05c26e7ab0f45d?utm_campaign=1050&utm_source=git)** | St Louis, MO | Remote | Jan 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Operations Intern](https://jobright.ai/jobs/info/6952c3ac935649778e208982?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 01 |
 | ↳ | **[Summer 2026 - Operations Intern](https://jobright.ai/jobs/info/695318a8f1f8465b79ea5beb?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Jan 01 |
@@ -68,8 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/69568fb1f1f8465b79ed8252?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
 | ↳ | **[2026 Textron Leadership Development Internship Program – Finance & Accounting](https://jobright.ai/jobs/info/69568c62f1f8465b79ed80fb?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Jan 01 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69568a3bf1f8465b79ed7ff5?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 01 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d281bbcdbf3560c9edb05?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Jan 01 |
-| ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Jan 01 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Jan 01 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Operations Intern (MBA)](https://jobright.ai/jobs/info/68ffe2abe04ac838fb5bccfc?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast CX & Project Management Intern](https://jobright.ai/jobs/info/695682e2aa05c26e7ab0c6c5?utm_campaign=1050&utm_source=git)** | Berlin, CT | On Site | Jan 01 |
 | **[ABB](https://global.abb/group/en)** | **[Demand Management Intern- Summer 2026](https://jobright.ai/jobs/info/6939fef6ac80bb5492bc7b08?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Jan 01 |
@@ -93,7 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Summer 2026](https://jobright.ai/jobs/info/695674e29f1b381eb26fb2f5?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 01 |
 | **[Siemens](https://www.siemens.com)** | **[Technical Project Management - Internship](https://jobright.ai/jobs/info/691d4bb6bcdbf3560c9ef99c?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 01 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c8e3d7983e6768bc5530a9?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Jan 01 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/693bdabc50bbaf76504f4878?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Jan 01 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d2c510b7dff734150086a?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Jan 01 |
+| ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/693bdabc50bbaf76504f4878?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern - DFW Airport](https://jobright.ai/jobs/info/693a425748a8ce22990e4048?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 01 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Supply Chain Management Intern (Rotation)](https://jobright.ai/jobs/info/693a22f348a8ce22990e1dd3?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Jan 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Waukesha](https://jobright.ai/jobs/info/68ca497a06a34016008c6227?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Jan 01 |
@@ -138,12 +142,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern / Cleveland / Fall 2026](https://jobright.ai/jobs/info/693b09285f2c001987ecf8e0?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 01 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/69229a4d7795cd460c83652b?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Jan 01 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[Management Internship](https://jobright.ai/jobs/info/692122fb3f782d2f1afcf75a?utm_campaign=1050&utm_source=git)** | Crest Hill, IL | On Site | Jan 01 |
-| **[Able Aerospace](www.ableaerospace.com)** | **[2026 Summer High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/69565ad4aa05c26e7ab09695?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
 | **[ETS](http://www.ets.org)** | **[MBA Internship Program - Office of the CEO](https://jobright.ai/jobs/info/6939ca4e48a8ce22990dce07?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jan 01 |
 | **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/693a1ac256b68f3dc4e77354?utm_campaign=1050&utm_source=git)** | Grandview, MO | On Site | Jan 01 |
 | **[Atlassian](https://www.atlassian.com)** | **[Procurement Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/69013f73f8ce7a040fdbe0e9?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 | **[Zoox](https://www.zoox.com/)** | **[Supply Chain Intern, Indirect Procurement](https://jobright.ai/jobs/info/693a8c05e50e320634e2d5a1?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 01 |
 | **[Lennox](http://www.lennox.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f68fdd9a65fd345859487e?utm_campaign=1050&utm_source=git)** | Richardson, TX | On Site | Jan 01 |
+| **[Able Aerospace](www.ableaerospace.com)** | **[2026 Summer High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/6956718df1f8465b79ed6f76?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2026 US Undergraduate Internship -  Supply Chain Management](https://jobright.ai/jobs/info/695641ccf1f8465b79ed280c?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern – Integrated Operations (Facilities & Maintenance) – Fort Worth, TX](https://jobright.ai/jobs/info/69563d2ff1f8465b79ed2412?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern - Program Management H-1 and V-22 - Fort Worth, TX](https://jobright.ai/jobs/info/69563ce7f1f8465b79ed23dc?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship - Operations - Independence, KS](https://jobright.ai/jobs/info/6956385baa05c26e7ab06ca5?utm_campaign=1050&utm_source=git)** | Independence, KS | On Site | Jan 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Jan 01 |
 | **[Seneca Foods Corporation](http://senecafoods.com)** | **[Operations Intern - 2026](https://jobright.ai/jobs/info/69563204aa05c26e7ab06acb?utm_campaign=1050&utm_source=git)** | Montgomery, MN | On Site | Jan 01 |
-| **[Upbound Group](https://www.upbound.com)** | **[Acima FP&A Intern](https://jobright.ai/jobs/info/695631e7f1f8465b79ed1f38?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | Jan 01 |
-| **[Textron](http://textron.com)** | **[2026 Summer High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/695651049f1b381eb26f83d8?utm_campaign=1050&utm_source=git)** | US-Arizona-Mesa | On Site | Jan 01 |
-| ↳ | **[2026 Summer High School Intern - Business Management (Columbus, GA)](https://jobright.ai/jobs/info/69564d40f1f8465b79ed3743?utm_campaign=1050&utm_source=git)** | US-Georgia-Columbus | On Site | Jan 01 |
-| ↳ | **[2026 Summer Intern - Program Management H-1 and V-22 - Fort Worth, TX](https://jobright.ai/jobs/info/69565347aa05c26e7ab08fa4?utm_campaign=1050&utm_source=git)** | US-Texas-Fort Worth | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

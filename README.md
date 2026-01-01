@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ruoff Mortgage](http://ruoff.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6955d172aa05c26e7ab000bd?utm_campaign=1050&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 31 |
 | **[Leadership Triangle](https://leadershiptriangle.com)** | **[Real Estate Construction Project Management Intern](https://jobright.ai/jobs/info/6955b1deaa05c26e7aaff165?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Dec 31 |
 | **[A-C Electric Company](http://a-celectric.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69321373fa28370be26c17f0?utm_campaign=1050&utm_source=git)** | Bakersfield, CA | On Site | Dec 31 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6955a1d4f1f8465b79ec9854?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 31 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Internship - IT](https://jobright.ai/jobs/info/6955a005aa05c26e7aafe115?utm_campaign=1050&utm_source=git)** | Livonia, MI | Hybrid | Dec 31 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/69559667f1f8465b79ec8d18?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Dec 31 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer Project Intern (4 months)- EN](https://jobright.ai/jobs/info/6955a83faa05c26e7aafe8a4?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 31 |
+| ↳ | **[2026 Summer Project Intern (4 months)](https://jobright.ai/jobs/info/6955bc609f1b381eb26ef21f?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 31 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Retail Management Intern](https://jobright.ai/jobs/info/6955aa899f1b381eb26ee7ab?utm_campaign=1050&utm_source=git)** | La Crosse, WI | On Site | Dec 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Supply Chain Intern (NJUS)](https://jobright.ai/jobs/info/695578779f1b381eb26ec83f?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[500009-026:Summer Intern, Operations](https://jobright.ai/jobs/info/69555fbaf1f8465b79ec7323?utm_campaign=1050&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer Project Intern (4 months)](https://jobright.ai/jobs/info/69555f159f1b381eb26eb783?utm_campaign=1050&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/69544cdef1f8465b79eb7ec3?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Dec 30 |
 | ↳ | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/69544928aa05c26e7aaeca22?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Dec 30 |
 | **[Primient](https://primient.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/695446bfaa05c26e7aaec7f7?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Dec 30 |
-| **[TD](https://www.td.com)** | **[Operational Excellence, Control, Regulatory Support Co-op/Intern (SUMMER 2026)](https://jobright.ai/jobs/info/6954465caa05c26e7aaec78d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
-| **[Pinnacle Healthcare Consulting](https://askphc.com/)** | **[Intern](https://jobright.ai/jobs/info/69544393f1f8465b79eb71f6?utm_campaign=1050&utm_source=git)** | Pinnacle Healthcare Consulting LLC, Centennial, CO, US | On Site | Dec 30 |
-| **[The Essentials | Redesign, Staging & Real Estate Photography](http://www.theessentials.biz/)** | **[Intern](https://jobright.ai/jobs/info/695441f0aa05c26e7aaebfd4?utm_campaign=1050&utm_source=git)** | Pinnacle Healthcare Consulting LLC, Centennial, CO, US | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -72,7 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/69568fb1f1f8465b79ed8252?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
 | ↳ | **[2026 Textron Leadership Development Internship Program – Finance & Accounting](https://jobright.ai/jobs/info/69568c62f1f8465b79ed80fb?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Jan 01 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/69568a3bf1f8465b79ed7ff5?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 01 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Jan 01 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d281bbcdbf3560c9edb05?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Jan 01 |
+| ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Jan 01 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Operations Intern (MBA)](https://jobright.ai/jobs/info/68ffe2abe04ac838fb5bccfc?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast CX & Project Management Intern](https://jobright.ai/jobs/info/695682e2aa05c26e7ab0c6c5?utm_campaign=1050&utm_source=git)** | Berlin, CT | On Site | Jan 01 |
 | **[ABB](https://global.abb/group/en)** | **[Demand Management Intern- Summer 2026](https://jobright.ai/jobs/info/6939fef6ac80bb5492bc7b08?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Jan 01 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Supply Chain Intern, Indirect Procurement](https://jobright.ai/jobs/info/693a8c05e50e320634e2d5a1?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 01 |
 | **[Lennox](http://www.lennox.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68f68fdd9a65fd345859487e?utm_campaign=1050&utm_source=git)** | Richardson, TX | On Site | Jan 01 |
 | **[Able Aerospace](www.ableaerospace.com)** | **[2026 Summer High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/6956718df1f8465b79ed6f76?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jan 01 |
+| **[Textron](http://textron.com)** | **[2026 Summer High School Intern - Business Management (Mesa, AZ)](https://jobright.ai/jobs/info/69564892aa05c26e7ab07e3b?utm_campaign=1050&utm_source=git)** | US-Arizona-Mesa | On Site | Jan 01 |
 | **[adidas](https://www.adidas-group.com)** | **[2026 US Undergraduate Internship -  Supply Chain Management](https://jobright.ai/jobs/info/695641ccf1f8465b79ed280c?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern – Integrated Operations (Facilities & Maintenance) – Fort Worth, TX](https://jobright.ai/jobs/info/69563d2ff1f8465b79ed2412?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern - Program Management H-1 and V-22 - Fort Worth, TX](https://jobright.ai/jobs/info/69563ce7f1f8465b79ed23dc?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Supply Chain Analyst - Fort Worth, Texas](https://jobright.ai/jobs/info/69563b33f1f8465b79ed22d2?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 01 |
 | ↳ | **[2026 Summer Intern - Supply Chain - Amarillo, TX](https://jobright.ai/jobs/info/69563869aa05c26e7ab06cb1?utm_campaign=1050&utm_source=git)** | Amarillo, TX | On Site | Jan 01 |
 | ↳ | **[2026 Internship - Operations - Independence, KS](https://jobright.ai/jobs/info/6956385baa05c26e7ab06ca5?utm_campaign=1050&utm_source=git)** | Independence, KS | On Site | Jan 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Jan 01 |
-| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Operations Intern - 2026](https://jobright.ai/jobs/info/69563204aa05c26e7ab06acb?utm_campaign=1050&utm_source=git)** | Montgomery, MN | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

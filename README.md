@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Supply Chain Intern Summer 2026](https://jobright.ai/jobs/info/6958963aaa05c26e7ab2723b?utm_campaign=1050&utm_source=git)** | Arden Hills, MN | On Site | Jan 02 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/694b01f23019f50a4fe6094a?utm_campaign=1050&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695889bdf1f8465b79ef20e2?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Jan 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/695882ccaa05c26e7ab26770?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Jan 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695880ebaa05c26e7ab266a9?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Jan 02 |
+| **[MUSE Media House](https://www.instagram.com/musemediahouse/)** | **[Assistant](https://jobright.ai/jobs/info/6958a94daa05c26e7ab27627?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 02 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695880ebaa05c26e7ab266a9?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Jan 02 |
 | **[BMO](http://www.bmo.com)** | **[Project Coordinator, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6958913cf1f8465b79ef23f0?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[TMX Group](http://www.tmx.com)** | **[Project Analyst Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69586f9cf1f8465b79ef1396?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69588dcef1f8465b79ef2255?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jan 02 |
@@ -122,9 +125,8 @@ For a complete list, click the following sortable link below:
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/6957f79ff1f8465b79ee916e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
 | ↳ | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - Global Markets / New York](https://jobright.ai/jobs/info/6957e96bf1f8465b79ee8a79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Sagard](http://www.sagard.com)** | **[Intern, Chief of Staff (2026)](https://jobright.ai/jobs/info/6957e8809f1b381eb270d41a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6957e7db9f1b381eb270d3c6?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
+| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6957e44f9f1b381eb270d283?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
 | ↳ | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6958032daa05c26e7ab1f4b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
-| **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Jan 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6957d7b2f1f8465b79ee85c8?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Jan 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6957d6c59f1b381eb270ce7c?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 02 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship – Summer 2026](https://jobright.ai/jobs/info/68c9a69ff9c6ff7aedf1be3a?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Jan 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/6933c105764507023d1b90b1?utm_campaign=1050&utm_source=git)** | Manassas, VA | On Site | Jan 02 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship – Summer 2026](https://jobright.ai/jobs/info/68cec7f1fb49c96ca6ea37f9?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933f803764507023d1baffa?utm_campaign=1050&utm_source=git)** | Statesboro, GA | On Site | Jan 02 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Channel Operations Analyst Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6933b93ba0dde7020e2f115c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
-| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Development Intern (Summer Internship 6/1/2026-8/7/2026)](https://jobright.ai/jobs/info/69575972f1f8465b79ee240f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695889bdf1f8465b79ef20e2?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Jan 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695882ccaa05c26e7ab26770?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Jan 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695880ebaa05c26e7ab266a9?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Jan 02 |
+| **[BMO](http://www.bmo.com)** | **[Project Coordinator, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6958913cf1f8465b79ef23f0?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[TMX Group](http://www.tmx.com)** | **[Project Analyst Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69586f9cf1f8465b79ef1396?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69588dcef1f8465b79ef2255?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jan 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69588c10aa05c26e7ab26a66?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Jan 02 |
 | **[Broadridge](http://www.broadridge.com)** | **[Project Coordinator Intern (Hybrid)](https://jobright.ai/jobs/info/69586b44f1f8465b79ef119f?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | ↳ | **[Client Service Project Coordinator Intern (Hybrid)](https://jobright.ai/jobs/info/69586798f1f8465b79ef069e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[UU Student - Office Assistant (WS)](https://jobright.ai/jobs/info/69586179f1f8465b79eef53f?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 02 |
@@ -103,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Private Wealth Associate, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/695809859f1b381eb270f821?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 02 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Supply Chain Year-Round Intern](https://jobright.ai/jobs/info/6958090aaa05c26e7ab1f6eb?utm_campaign=1050&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Jan 02 |
 | **[Property Masters Inc](http://propertymasters.com)** | **[Construction Project Management Intern - Dallas, TX](https://jobright.ai/jobs/info/69582911aa05c26e7ab207da?utm_campaign=1050&utm_source=git)** | Dallas, Texas, United States | On Site | Jan 02 |
-| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/695807e3aa05c26e7ab1f64e?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Supply Chain Intern Summer 2026](https://jobright.ai/jobs/info/695807d6f1f8465b79eead17?utm_campaign=1050&utm_source=git)** | Virtual (USA) | Remote | Jan 02 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69582464f1f8465b79eebac0?utm_campaign=1050&utm_source=git)** | US-NE-Bellevue | On Site | Jan 02 |
 | **[Flatwater Group](https://flatwater-group.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/695803b49f1b381eb270f62a?utm_campaign=1050&utm_source=git)** | Bellevue, NE | Hybrid | Jan 02 |
@@ -117,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/6957f79ff1f8465b79ee916e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
 | ↳ | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - Global Markets / New York](https://jobright.ai/jobs/info/6957e96bf1f8465b79ee8a79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Sagard](http://www.sagard.com)** | **[Intern, Chief of Staff (2026)](https://jobright.ai/jobs/info/6957e8809f1b381eb270d41a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6957e44f9f1b381eb270d283?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
+| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6957e7db9f1b381eb270d3c6?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 02 |
 | ↳ | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6958032daa05c26e7ab1f4b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
 | **[New York City Economic Development Corporation](https://edc.nyc)** | **[Summer Intern, Asset Management – Design and Construction](https://jobright.ai/jobs/info/691f740e3f782d2f1afbc54a?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Jan 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6957d7b2f1f8465b79ee85c8?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Jan 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933f803764507023d1baffa?utm_campaign=1050&utm_source=git)** | Statesboro, GA | On Site | Jan 02 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Channel Operations Analyst Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/6933b93ba0dde7020e2f115c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Development Intern (Summer Internship 6/1/2026-8/7/2026)](https://jobright.ai/jobs/info/69575972f1f8465b79ee240f?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 02 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern- Northern NJ](https://jobright.ai/jobs/info/6933f378a0dde7020e2f3356?utm_campaign=1050&utm_source=git)** | Wayne, NJ | On Site | Jan 02 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccda2d5954791a1d6ffd80?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Jan 02 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6957e4adaa05c26e7ab1d276?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Jan 02 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Phoenix)](https://jobright.ai/jobs/info/68c852d0f9c6ff7aedf0cf3d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 02 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Project Services](https://jobright.ai/jobs/info/693b5497d4054a2bc0254dba?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

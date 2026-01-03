@@ -57,11 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Todd](https://toddagriscience.com)** | **[Software Project Management Intern (Summer '26)](https://jobright.ai/jobs/info/69594c02aa05c26e7ab32ae8?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Jan 03 |
 | **[Orbient 24](orbient24.us)** | **[Assistant Strategist Intern](https://jobright.ai/jobs/info/69594b679f1b381eb2722efd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/69593ff49f1b381eb2721317?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | **[PEPOLA INDIA PRIVATE LIMITED](http://pepola.in)** | **[Intern Assistant](https://jobright.ai/jobs/info/69592ef9aa05c26e7ab30aa6?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 03 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Strategy Summer MBA Intern](https://jobright.ai/jobs/info/695926f89f1b381eb27207d5?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program](https://jobright.ai/jobs/info/695926f2f1f8465b79efbbcd?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | On Site | Jan 03 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior EcoSystem Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/691fe7063f782d2f1afc14e3?utm_campaign=1050&utm_source=git)** | Allen, TX | Hybrid | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1f5d64a22104aa91d9e?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Jan 03 |
@@ -95,6 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1050&utm_source=git)** | Stevens Point, WI | On Site | Jan 03 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/694f54c8a2668b7f5452825d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 03 |
 | **[Whirlpool Corporation](https://www.whirlpoolcorp.com/)** | **[Global Supply Chain Leadership Development Program Intern, May 2026](https://jobright.ai/jobs/info/68d01d26846f0b04af687ac2?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Jan 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jan 03 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1050&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 03 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern, Japan Unit](https://jobright.ai/jobs/info/69592d95aa05c26e7ab309fa?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 03 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/693c72efaa598a08c3ed504a?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Program Management: Spring Co-Op Internship Opportunities](https://jobright.ai/jobs/info/693c2dfd50bbaf76504f7b2e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 03 |

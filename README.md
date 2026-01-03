@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Software Project Management Intern (Summer '26)](https://jobright.ai/jobs/info/69594c02aa05c26e7ab32ae8?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Jan 03 |
+| **[Orbient 24](orbient24.us)** | **[Assistant Strategist Intern](https://jobright.ai/jobs/info/69594b679f1b381eb2722efd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
+| **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/69593ff49f1b381eb2721317?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | **[PEPOLA INDIA PRIVATE LIMITED](http://pepola.in)** | **[Intern Assistant](https://jobright.ai/jobs/info/69592ef9aa05c26e7ab30aa6?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 03 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Corporate Strategy Summer MBA Intern](https://jobright.ai/jobs/info/695926f89f1b381eb27207d5?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Career Development Program](https://jobright.ai/jobs/info/695926f2f1f8465b79efbbcd?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | On Site | Jan 03 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[UPS Supply Chain Solutions 2026 Internship](https://jobright.ai/jobs/info/68cc883716d00d2beeb20fe2?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Jan 03 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Construction Safety Internship - Summer 2026](https://jobright.ai/jobs/info/691f73fb09cc522e87741732?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Jan 03 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e725fdae2b894b1d721cc8?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Intern / Fairfield County](https://jobright.ai/jobs/info/6933e456a0dde7020e2f2b63?utm_campaign=1050&utm_source=git)** | Bridgeport, CT | On Site | Jan 03 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026)](https://jobright.ai/jobs/info/689560b64ed2ea559ca55583?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 03 |
 | **[Nightwing](nightwing.com)** | **[Logistics Intern - 2026](https://jobright.ai/jobs/info/693c9da449a7695fbd036c74?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Jan 03 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Jan 03 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Operations Internship / Woburn, MA](https://jobright.ai/jobs/info/6958ce19f1f8465b79ef67b7?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / Philadelphia, PA](https://jobright.ai/jobs/info/6958cdf0aa05c26e7ab2b095?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / Las Vegas, NV](https://jobright.ai/jobs/info/6958cd80aa05c26e7ab2b049?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Jan 03 |
-| **[Work4Flow](www.work4flow.com)** | **[ServiceNow Technical Project Management - Intern](https://jobright.ai/jobs/info/6958c83f9f1b381eb271add4?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Supply Chain Intern Summer 2026](https://jobright.ai/jobs/info/6958963aaa05c26e7ab2723b?utm_campaign=1050&utm_source=git)** | Arden Hills, MN | On Site | Jan 02 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/694b01f23019f50a4fe6094a?utm_campaign=1050&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695889bdf1f8465b79ef20e2?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Jan 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/695882ccaa05c26e7ab26770?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Jan 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/695880ebaa05c26e7ab266a9?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Jan 02 |
 | **[TMX Group](http://www.tmx.com)** | **[Project Analyst Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69586f9cf1f8465b79ef1396?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69588dcef1f8465b79ef2255?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jan 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69588c10aa05c26e7ab26a66?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Jan 02 |
-| **[Broadridge](http://www.broadridge.com)** | **[Project Coordinator Intern (Hybrid)](https://jobright.ai/jobs/info/69586b44f1f8465b79ef119f?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

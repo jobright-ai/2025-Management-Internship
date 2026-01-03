@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum](valorantum.us)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/69598cdbf1f8465b79f00d48?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 03 |
+| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Ballpark Operations Internship (Free Housing)](https://jobright.ai/jobs/info/69597bb3f1f8465b79efefb7?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |
+| ↳ | **[2026 Clubhouse Manager Internship (Free Housing)](https://jobright.ai/jobs/info/69597971aa05c26e7ab3376b?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |
 | **[Orbient 24](orbient24.us)** | **[Assistant Strategist Intern](https://jobright.ai/jobs/info/69594b679f1b381eb2722efd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/69593ff49f1b381eb2721317?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
 | **[PEPOLA INDIA PRIVATE LIMITED](http://pepola.in)** | **[Intern Assistant](https://jobright.ai/jobs/info/69592ef9aa05c26e7ab30aa6?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 03 |
@@ -93,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1050&utm_source=git)** | Stevens Point, WI | On Site | Jan 03 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/694f54c8a2668b7f5452825d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 03 |
 | **[Whirlpool Corporation](https://www.whirlpoolcorp.com/)** | **[Global Supply Chain Leadership Development Program Intern, May 2026](https://jobright.ai/jobs/info/68d01d26846f0b04af687ac2?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Jan 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jan 03 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1050&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1050&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 03 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jan 03 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern, Japan Unit](https://jobright.ai/jobs/info/69592d95aa05c26e7ab309fa?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 03 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/693c72efaa598a08c3ed504a?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Program Management: Spring Co-Op Internship Opportunities](https://jobright.ai/jobs/info/693c2dfd50bbaf76504f7b2e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Supply Chain Intern Summer 2026](https://jobright.ai/jobs/info/6958963aaa05c26e7ab2723b?utm_campaign=1050&utm_source=git)** | Arden Hills, MN | On Site | Jan 02 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/694b01f23019f50a4fe6094a?utm_campaign=1050&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695889bdf1f8465b79ef20e2?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Jan 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695882ccaa05c26e7ab26770?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Jan 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/695880ebaa05c26e7ab266a9?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Jan 02 |
-| **[TMX Group](http://www.tmx.com)** | **[Project Analyst Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69586f9cf1f8465b79ef1396?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

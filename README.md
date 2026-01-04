@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brwnhouse Agency](www.brwnhouse.com)** | **[project coordinator intern](https://jobright.ai/jobs/info/695999679f1b381eb2725c60?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 03 |
+| **[Feline Apparel](www.felineapparel.com)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6959aea8f1f8465b79f01036?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jan 03 |
 | **[Valorantum](valorantum.us)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/69598cdbf1f8465b79f00d48?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 03 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Ballpark Operations Internship (Free Housing)](https://jobright.ai/jobs/info/69597bb3f1f8465b79efefb7?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |
 | ↳ | **[2026 Clubhouse Manager Internship (Free Housing)](https://jobright.ai/jobs/info/69597971aa05c26e7ab3376b?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |

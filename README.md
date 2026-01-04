@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexus Engineering Group](http://nexusegroup.com)** | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6959ecf8f1f8465b79f03faf?utm_campaign=1050&utm_source=git)** | Maumee, OH | On Site | Jan 03 |
+| ↳ | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6959ecc5f1f8465b79f03ead?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Business Management Project Associate](https://jobright.ai/jobs/info/6959d9a59f1b381eb2728653?utm_campaign=1050&utm_source=git)** | Bloomington, IN | On Site | Jan 03 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6959c934aa05c26e7ab37a78?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6959c7e2f1f8465b79f031a1?utm_campaign=1050&utm_source=git)** | Marinette, WI | On Site | Jan 03 |
 | **[Feline Apparel](www.felineapparel.com)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/6959aea8f1f8465b79f01036?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jan 03 |
-| **[Valorantum](valorantum.us)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/69598cdbf1f8465b79f00d48?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 03 |
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Ballpark Operations Internship (Free Housing)](https://jobright.ai/jobs/info/69597bb3f1f8465b79efefb7?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |
 | ↳ | **[2026 Clubhouse Manager Internship (Free Housing)](https://jobright.ai/jobs/info/69597971aa05c26e7ab3376b?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Intern - Technical](https://jobright.ai/jobs/info/69593ff49f1b381eb2721317?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
@@ -139,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Seabrook Island Club](https://www.seabrookisland.com)** | **[Hospitality Intern - Food and Beverage Department](https://jobright.ai/jobs/info/693c881e50bbaf76504fbf8e?utm_campaign=1050&utm_source=git)** | Johns Island, SC | On Site | Jan 03 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Assistant Construction Project Management Intern](https://jobright.ai/jobs/info/6956212d9f1b381eb26f5c70?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 03 |
 | **[Rambus](http://www.rambus.com/us)** | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/693c98c649a7695fbd036a99?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 03 |
+| ↳ | **[Intern, Strategic Programs](https://jobright.ai/jobs/info/6959e371aa05c26e7ab383df?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 03 |
 | **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cf633d846f0b04af681af5?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Jan 03 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Operations/Continuous Improvement Summer Intern 2026](https://jobright.ai/jobs/info/6902a28e00a1816c41ea065c?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Jan 03 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Colorado](https://jobright.ai/jobs/info/68cca1c2128dc347fd927805?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 03 |
-| **[City of Durham](https://www.durhamnc.gov)** | **[Management Internship](https://jobright.ai/jobs/info/6958eae1aa05c26e7ab2d690?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jan 03 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Supply Chain Year-Round Intern](https://jobright.ai/jobs/info/6958e7fbf1f8465b79ef8b5f?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Jan 03 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6958e6b5f1f8465b79ef883c?utm_campaign=1050&utm_source=git)** | Fair Lawn, NJ | On Site | Jan 03 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6958e339aa05c26e7ab2c831?utm_campaign=1050&utm_source=git)** | Sandy Springs, GA | On Site | Jan 03 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Operations Internship / Woburn, MA](https://jobright.ai/jobs/info/6958ce19f1f8465b79ef67b7?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / Philadelphia, PA](https://jobright.ai/jobs/info/6958cdf0aa05c26e7ab2b095?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / Las Vegas, NV](https://jobright.ai/jobs/info/6958cd80aa05c26e7ab2b049?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Jan 03 |
-| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Supply Chain Intern Summer 2026](https://jobright.ai/jobs/info/6958963aaa05c26e7ab2723b?utm_campaign=1050&utm_source=git)** | Arden Hills, MN | On Site | Jan 02 |
-| **[Life Time Inc.](https://www.lifetime.life/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/694b01f23019f50a4fe6094a?utm_campaign=1050&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Cleveland / Summer 2026](https://jobright.ai/jobs/info/6959f589aa05c26e7ab3a473?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

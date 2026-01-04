@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American Equipment Finance](http://faef.com)** | **[Operations Intern](https://jobright.ai/jobs/info/695a939eaa05c26e7ab4198c?utm_campaign=1050&utm_source=git)** | Victor, NY | Hybrid | Jan 04 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Project Manager, Clinical Development](https://jobright.ai/jobs/info/695a8ea4aa05c26e7ab418d7?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Jan 04 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695a8b67aa05c26e7ab41886?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 04 |
 | **[PropyLaw](www.propylaw.com)** | **[Executive Operations Intern](https://jobright.ai/jobs/info/695a8a449f1b381eb2731f08?utm_campaign=1050&utm_source=git)** | Austin, TX | Remote | Jan 04 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Jan 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Jan 03 |
 | **[Airbus Aircraft](http://www.airbus.com)** | **[Long-Term Internship - Operations Analyst](https://jobright.ai/jobs/info/691f822d09cc522e8774247a?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jan 03 |
 | **[Zipline](https://www.zipline.com/)** | **[Material Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc84b49a7695fbd0382d3?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 03 |
-| ↳ | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccba350bbaf76504ffc8b?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 03 |
-| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b0a1cd2d46f6396cae708f?utm_campaign=1050&utm_source=git)** | Wilmington, NC | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

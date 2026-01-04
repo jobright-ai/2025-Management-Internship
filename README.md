@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diaza Football](http://www.diaza.com)** | **[Spring Project Management Internship](https://jobright.ai/jobs/info/6959ff4faa05c26e7ab3a910?utm_campaign=1050&utm_source=git)** | Linden, NJ | On Site | Jan 03 |
 | **[Nexus Engineering Group](http://nexusegroup.com)** | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6959ecf8f1f8465b79f03faf?utm_campaign=1050&utm_source=git)** | Maumee, OH | On Site | Jan 03 |
 | ↳ | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6959ecc5f1f8465b79f03ead?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Business Management Project Associate](https://jobright.ai/jobs/info/6959d9a59f1b381eb2728653?utm_campaign=1050&utm_source=git)** | Bloomington, IN | On Site | Jan 03 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Stevens Point](https://jobright.ai/jobs/info/68ca49ce46caff4db51fc9b2?utm_campaign=1050&utm_source=git)** | Stevens Point, WI | On Site | Jan 03 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Project Management](https://jobright.ai/jobs/info/694f54c8a2668b7f5452825d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 03 |
 | **[Whirlpool Corporation](https://www.whirlpoolcorp.com/)** | **[Global Supply Chain Leadership Development Program Intern, May 2026](https://jobright.ai/jobs/info/68d01d26846f0b04af687ac2?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Jan 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1050&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 03 |
-| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jan 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68cc496716d00d2beeb1cfd8?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jan 03 |
+| ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1050&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 03 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern, Japan Unit](https://jobright.ai/jobs/info/69592d95aa05c26e7ab309fa?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 03 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/693c72efaa598a08c3ed504a?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Program Management: Spring Co-Op Internship Opportunities](https://jobright.ai/jobs/info/693c2dfd50bbaf76504f7b2e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 03 |
@@ -131,6 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68e74af9ae2b894b1d7233df?utm_campaign=1050&utm_source=git)** | Seattle, WA | Remote | Jan 03 |
 | **[Zipline](https://www.zipline.com/)** | **[Site Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc55549a7695fbd038162?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Operations Project Intern (SMB Product - PMO) 2026 Start (MBA/MS)](https://jobright.ai/jobs/info/693cb63a50bbaf76504ff297?utm_campaign=1050&utm_source=git)** | San Jose, CA | Remote | Jan 03 |
+| **[Major League Soccer](http://www.mlssoccer.com)** | **[Manager, Creative Project Manager (Temporary Role)](https://jobright.ai/jobs/info/695a1a58f1f8465b79f06d4b?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Zscaler](https://www.zscaler.com)** | **[Business Strategy and Communications Intern](https://jobright.ai/jobs/info/693c8d7f50bbaf76504fc3e7?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Jan 03 |
 | ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/691f814f3f782d2f1afbd185?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Jan 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Operations Internship / Cheyenne, WY](https://jobright.ai/jobs/info/6958cfe29f1b381eb271b3df?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / Woburn, MA](https://jobright.ai/jobs/info/6958ce19f1f8465b79ef67b7?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / Philadelphia, PA](https://jobright.ai/jobs/info/6958cdf0aa05c26e7ab2b095?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
-| ↳ | **[Distribution Operations Internship / Las Vegas, NV](https://jobright.ai/jobs/info/6958cd80aa05c26e7ab2b049?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Jan 03 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Cleveland / Summer 2026](https://jobright.ai/jobs/info/6959f589aa05c26e7ab3a473?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

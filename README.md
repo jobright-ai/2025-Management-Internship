@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris County](https://www.harriscountytx.gov/)** | **[Engineering Project Manager Intern](https://jobright.ai/jobs/info/694c5abd5d7312113470d345?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 04 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/695a25cff1f8465b79f074a0?utm_campaign=1050&utm_source=git)** | Fair Lawn, NJ | On Site | Jan 04 |
+| **[Bland Landscaping Company](http://blandlandscaping.com)** | **[Commercial Grounds Maintenance Operations Internship](https://jobright.ai/jobs/info/695a1efaf1f8465b79f0702e?utm_campaign=1050&utm_source=git)** | Apex, North Carolina | On Site | Jan 03 |
 | **[Diaza Football](http://www.diaza.com)** | **[Spring Project Management Internship](https://jobright.ai/jobs/info/6959ff4faa05c26e7ab3a910?utm_campaign=1050&utm_source=git)** | Linden, NJ | On Site | Jan 03 |
 | **[Nexus Engineering Group](http://nexusegroup.com)** | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6959ecf8f1f8465b79f03faf?utm_campaign=1050&utm_source=git)** | Maumee, OH | On Site | Jan 03 |
 | ↳ | **[Project Services Internship or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6959ecc5f1f8465b79f03ead?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca96a748d2e97b0d61eaf3?utm_campaign=1050&utm_source=git)** | Upper Marlboro, MD | On Site | Jan 03 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern, Japan Unit](https://jobright.ai/jobs/info/69592d95aa05c26e7ab309fa?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 03 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/693c72efaa598a08c3ed504a?utm_campaign=1050&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
+| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Midwest Region)](https://jobright.ai/jobs/info/695a2e0faa05c26e7ab3c3a0?utm_campaign=1050&utm_source=git)** | Manchester, MO | On Site | Jan 03 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Program Management: Spring Co-Op Internship Opportunities](https://jobright.ai/jobs/info/693c2dfd50bbaf76504f7b2e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 03 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6902591a98707b2b0fe6e803?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jan 03 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Business Operations Intern - Summer 2026](https://jobright.ai/jobs/info/693ce6fe49a7695fbd03938a?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Jan 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Distribution Operations Internship / Phoenix, AZ](https://jobright.ai/jobs/info/6958d09daa05c26e7ab2b333?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / Charlotte, NC](https://jobright.ai/jobs/info/6958d081aa05c26e7ab2b326?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 03 |
 | ↳ | **[Distribution Operations Internship / San Antonio, TX](https://jobright.ai/jobs/info/6958d04af1f8465b79ef6864?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 03 |
-| ↳ | **[Distribution Operations Internship / Fort Worth, TX](https://jobright.ai/jobs/info/6958d01f9f1b381eb271b404?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 03 |
-| ↳ | **[Distribution Operations Internship / Cheyenne, WY](https://jobright.ai/jobs/info/6958cfe29f1b381eb271b3df?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Jan 03 |
-| ↳ | **[Distribution Operations Internship / Woburn, MA](https://jobright.ai/jobs/info/6958ce19f1f8465b79ef67b7?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Jan 03 |
-| ↳ | **[Distribution Operations Internship / Philadelphia, PA](https://jobright.ai/jobs/info/6958cdf0aa05c26e7ab2b095?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/695abd11aa05c26e7ab439cd?utm_campaign=1050&utm_source=git)** | Leominster | On Site | Jan 04 |
 | **[First American Equipment Finance](http://faef.com)** | **[Operations Intern](https://jobright.ai/jobs/info/695a939eaa05c26e7ab4198c?utm_campaign=1050&utm_source=git)** | Victor, NY | Hybrid | Jan 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Project Manager, Clinical Development](https://jobright.ai/jobs/info/695a8ea4aa05c26e7ab418d7?utm_campaign=1050&utm_source=git)** | San Rafael, CA | On Site | Jan 04 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695a8b67aa05c26e7ab41886?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 04 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Industrial Logistics Intern](https://jobright.ai/jobs/info/692af2a9fa28370be2697e91?utm_campaign=1050&utm_source=git)** | Holland, MN | On Site | Jan 04 |
 | **[Roush](https://www.roush.com)** | **[Project Manager Intern - Winter 2026](https://jobright.ai/jobs/info/695a78b2aa05c26e7ab414d3?utm_campaign=1050&utm_source=git)** | Livonia, MI | On Site | Jan 04 |
 | **[McNally Companies](https://www.mcnallycorp.com)** | **[Project Technician Intern - Summer 2026 - McNally](https://jobright.ai/jobs/info/6920cc0c00c9ee50eaec8227?utm_campaign=1050&utm_source=git)** | Port Hope, Ontario, Canada | On Site | Jan 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[goodr](https://goodr.com)** | **[Third Party Operations Intern](https://jobright.ai/jobs/info/693767cfa0dde7020e30278d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9801cca9271990ce43b0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Jan 03 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Jan 03 |
+| **[Airbus Aircraft](http://www.airbus.com)** | **[Long-Term Internship - Operations Analyst](https://jobright.ai/jobs/info/691f822d09cc522e8774247a?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

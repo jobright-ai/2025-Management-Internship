@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[State Program Manager](https://jobright.ai/jobs/info/695b67c2aa05c26e7ab4c0ab?utm_campaign=1050&utm_source=git)** | Middletown, CT | Hybrid | Jan 04 |
+| **[DP World](https://www.dpworld.com/)** | **[Project Management (Transformation) Intern](https://jobright.ai/jobs/info/695b578f9f1b381eb273c194?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
 | **[Analog Devices](http://www.analog.com)** | **[Project/Program Management Intern](https://jobright.ai/jobs/info/695b495f9f1b381eb273ba25?utm_campaign=1050&utm_source=git)** | Chelmsford, MA | On Site | Jan 04 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Supply Chain Transformation Intern](https://jobright.ai/jobs/info/695b3ecaaa05c26e7ab49215?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 04 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695b2e6daa05c26e7ab489d7?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Jan 04 |
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Inland Marine Underwriting](https://jobright.ai/jobs/info/695b284ef1f8465b79f13f26?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Elevare Consulting](elevareconsulting.us)** | **[Graduate Assistant Strategist – Business Solutions](https://jobright.ai/jobs/info/695b237baa05c26e7ab4843a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 04 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/695b1ef49f1b381eb2738b4d?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 04 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- BUSINESS](https://jobright.ai/jobs/info/695ac9b29f1b381eb273471a?utm_campaign=1050&utm_source=git)** | Pascagoula, MS | On Site | Jan 04 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/695abd11aa05c26e7ab439cd?utm_campaign=1050&utm_source=git)** | Leominster | On Site | Jan 04 |
 | **[First American Equipment Finance](http://faef.com)** | **[Operations Intern](https://jobright.ai/jobs/info/695a939eaa05c26e7ab4198c?utm_campaign=1050&utm_source=git)** | Victor, NY | Hybrid | Jan 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6925186a38cd5478a8d623eb?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Jan 03 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Commercial Real Estate](https://jobright.ai/jobs/info/693fbe9449a7695fbd056b30?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69202557a49a885af9a3704d?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Jan 03 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6902d0a500a1816c41ea1a01?utm_campaign=1050&utm_source=git)** | Oregon, United States | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

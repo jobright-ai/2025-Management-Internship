@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695b2e6daa05c26e7ab489d7?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Jan 04 |
+| **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Inland Marine Underwriting](https://jobright.ai/jobs/info/695b284ef1f8465b79f13f26?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 04 |
+| **[Elevare Consulting](elevareconsulting.us)** | **[Graduate Assistant Strategist – Business Solutions](https://jobright.ai/jobs/info/695b237baa05c26e7ab4843a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 04 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Strategy and Transformation Intern](https://jobright.ai/jobs/info/695b1ef49f1b381eb2738b4d?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 04 |
 | **[HII](https://hii.com)** | **[2026 COLLEGE SUMMER INTERN- BUSINESS](https://jobright.ai/jobs/info/695ac9b29f1b381eb273471a?utm_campaign=1050&utm_source=git)** | Pascagoula, MS | On Site | Jan 04 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Leominster area](https://jobright.ai/jobs/info/695abd11aa05c26e7ab439cd?utm_campaign=1050&utm_source=git)** | Leominster | On Site | Jan 04 |
 | **[First American Equipment Finance](http://faef.com)** | **[Operations Intern](https://jobright.ai/jobs/info/695a939eaa05c26e7ab4198c?utm_campaign=1050&utm_source=git)** | Victor, NY | Hybrid | Jan 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69202557a49a885af9a3704d?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Jan 03 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6902d0a500a1816c41ea1a01?utm_campaign=1050&utm_source=git)** | Oregon, United States | On Site | Jan 03 |
 | **[goodr](https://goodr.com)** | **[Third Party Operations Intern](https://jobright.ai/jobs/info/693767cfa0dde7020e30278d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9801cca9271990ce43b0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Jan 03 |
-| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e723a9ae2b894b1d721a87?utm_campaign=1050&utm_source=git)** | Manhattan, KS | On Site | Jan 03 |
-| **[Airbus Aircraft](http://www.airbus.com)** | **[Long-Term Internship - Operations Analyst](https://jobright.ai/jobs/info/691f822d09cc522e8774247a?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jan 03 |
-| **[Zipline](https://www.zipline.com/)** | **[Material Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc84b49a7695fbd0382d3?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransUnion](http://www.transunion.com)** | **[Business Operations Summer Internship 2026](https://jobright.ai/jobs/info/6943270150bbaf765054ff51?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 08 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f41e5e55be5e2604f856?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Jan 08 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME](https://jobright.ai/jobs/info/69266be8d47de4798ecd7257?utm_campaign=1050&utm_source=git)** | Wilmington, DE | On Site | Jan 08 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/695faf58a112b402660e62d6?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 08 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Executive Intern](https://jobright.ai/jobs/info/69276e0b91ceeb2e8a53f318?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 08 |
 | **[Magna International](http://www.magna.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/695fad28a112b402660e6105?utm_campaign=1050&utm_source=git)** | Highland Park, MI | On Site | Jan 08 |
 | **[Stellantis](https://www.stellantis.com/)** | **[STAGE : ASSISTANT(E) COMMUNICATION, RESEAUX SOCIAUX & EVENEMENTS](https://jobright.ai/jobs/info/69200fafa49a885af9a366a5?utm_campaign=1050&utm_source=git)** | Campus Green, MD | On Site | Jan 08 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Kansas City)](https://jobright.ai/jobs/info/6942a17350bbaf7650548675?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 08 |
 | **[MN Custom Homes](https://www.mncustom.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/693a7f49f3cb0010f87089e2?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jan 08 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68e8b8b0cc49a84b7e10966e?utm_campaign=1050&utm_source=git)** | East Hampton, NY | On Site | Jan 08 |
 | **[KLA](https://www.kla.com)** | **[Service Parts Network Design Strategist Intern](https://jobright.ai/jobs/info/6943372350bbaf7650551178?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | On Site | Jan 08 |
@@ -76,9 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Toyota Tsusho America](http://www.taiamerica.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/690a42044a1b456627b058bc?utm_campaign=1050&utm_source=git)** | Georgetown, KY | On Site | Jan 08 |
 | **[CCMC](http://ccmcnet.com)** | **[Intern](https://jobright.ai/jobs/info/690a83344a1b456627b08af9?utm_campaign=1050&utm_source=git)** | Babcock Ranch, FL | On Site | Jan 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/693cee4350bbaf7650500e75?utm_campaign=1050&utm_source=git)** | Seattle, WA | Remote | Jan 08 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-LPN I - CAN Administration Calhoun Nursing Home](https://jobright.ai/jobs/info/67d52716d19474209a8c1236?utm_campaign=1050&utm_source=git)** | Calhoun City, MS | Remote | Jan 08 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Intern, Fund Operations](https://jobright.ai/jobs/info/69434c8e94730b7398765b28?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ccff8677add66568abd795?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Jan 08 |
 | **[Staples](http://www.staples.com)** | **[Fulfillment Center Intern (Greencastle, PA - Onsite) - June 2026](https://jobright.ai/jobs/info/695ea5f5a112b402660d4f77?utm_campaign=1050&utm_source=git)** | Greencastle, PA | On Site | Jan 08 |
+| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[2026 Summer Intern: Supply Chain](https://jobright.ai/jobs/info/69521189a2668b7f5454a9b3?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 08 |
 | **[OceanaGold Corporation](http://www.oceanagold.com/)** | **[Logistics Technician Internship](https://jobright.ai/jobs/info/6943456250bbaf7650552a6a?utm_campaign=1050&utm_source=git)** | Kershaw, SC | On Site | Jan 08 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69434d0f50bbaf7650553192?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 08 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/68b74d0d2124650c14021a05?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/695f2401a112b402660def3e?utm_campaign=1050&utm_source=git)** | Avon, OH | On Site | Jan 07 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/695f23b7a1bbea1d9a7a0579?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 07 |
 | **[Aramark Destinations](https://thenationsvacation.com/)** | **[2026 Subaru Park Internship](https://jobright.ai/jobs/info/695f23b6a112b402660dee6d?utm_campaign=1050&utm_source=git)** | Chester, PA, US, 19013 | On Site | Jan 07 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/695f2077a112b402660debd0?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 07 |
-| **[Anchor Health Properties](https://anchorhealthproperties.com/)** | **[Property Management Intern - Summer 2026](https://jobright.ai/jobs/info/695f205fa112b402660debc1?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

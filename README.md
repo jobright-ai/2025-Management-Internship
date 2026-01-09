@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68e8b8b0cc49a84b7e10966e?utm_campaign=1050&utm_source=git)** | East Hampton, NY | On Site | Jan 08 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Texas Region 2025 - 2026](https://jobright.ai/jobs/info/695fc89ca112b402660e729d?utm_campaign=1050&utm_source=git)** | Denison, TX | On Site | Jan 08 |
 | ↳ | **[Internship Program - Texas Region 2025 - 2026](https://jobright.ai/jobs/info/695fc769a112b402660e71b4?utm_campaign=1050&utm_source=git)** | Sherman, TX | On Site | Jan 08 |
-| ↳ | **[Internship Program - Texas Region 2025 - 2026](https://jobright.ai/jobs/info/695fc928a1bbea1d9a7a892f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 08 |
 | ↳ | **[Internship Program - Texas Region 2025 - 2026](https://jobright.ai/jobs/info/695fc8f6a1bbea1d9a7a890b?utm_campaign=1050&utm_source=git)** | TX_Lubbock_225039 | On Site | Jan 08 |
+| ↳ | **[Internship Program - Texas Region 2025 - 2026](https://jobright.ai/jobs/info/695fc928a1bbea1d9a7a892f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 08 |
 | **[CN](http://www.cn.ca)** | **[Intern, Procurement Optimization (IT/OT)- EN](https://jobright.ai/jobs/info/695c93f55e4962051b59b3f8?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 08 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship - Planning (Supply Chain)](https://jobright.ai/jobs/info/690a4049bcccf20de59e0335?utm_campaign=1050&utm_source=git)** | Bloomington, IN | On Site | Jan 08 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Operations Analyst Intern, NYC](https://jobright.ai/jobs/info/690ab468bcccf20de59e5152?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 08 |

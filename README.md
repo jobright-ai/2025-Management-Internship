@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Clinical Demand/Supply Planning Intern (Graduate)](https://jobright.ai/jobs/info/696093b7a1bbea1d9a7b59bc?utm_campaign=1050&utm_source=git)** | US - Boston - MA | On Site | Jan 08 |
+| **[CME Group](http://www.cmegroup.com)** | **[Global Command Center Intern - Summer 2026](https://jobright.ai/jobs/info/69609858a112b402660f43af?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 08 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Clinical Demand/Supply Planning Intern (Graduate)](https://jobright.ai/jobs/info/696093f07ebc25398eb678da?utm_campaign=1050&utm_source=git)** | US - Boston - MA | On Site | Jan 08 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[FCRM Intern (Hybrid)](https://jobright.ai/jobs/info/69608dc3a1bbea1d9a7b581a?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Jan 08 |
 | **[A24](http://a24films.com/)** | **[LA Workplace Experience Intern](https://jobright.ai/jobs/info/6960874b7ebc25398eb673b1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Development and Proposal Mgmt Business Undergraduate, Onsite](https://jobright.ai/jobs/info/696086e8a112b402660f3b82?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 08 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69608ddba1bbea1d9a7b5827?utm_campaign=1050&utm_source=git)** | Sheboygan, WI | On Site | Jan 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69608f7ea112b402660f3fcb?utm_campaign=1050&utm_source=git)** | Lewis Center, OH | On Site | Jan 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69608853a1bbea1d9a7b5590?utm_campaign=1050&utm_source=git)** | Franklin, WI | On Site | Jan 08 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6960875ca1bbea1d9a7b5523?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Jan 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69608f9ca1bbea1d9a7b58fb?utm_campaign=1050&utm_source=git)** | St Peters, MO | On Site | Jan 08 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6960875ca1bbea1d9a7b5523?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Jan 08 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6960856fa1bbea1d9a7b5438?utm_campaign=1050&utm_source=git)** | Marquette, MI | On Site | Jan 08 |
 | **[City of Brampton](http://www.brampton.ca)** | **[Intern, Economic Development, Investment Attraction](https://jobright.ai/jobs/info/696058faa1bbea1d9a7b3518?utm_campaign=1050&utm_source=git)** | CA-ON-Brampton | On Site | Jan 08 |
 | **[WarHorse Gaming](https://www.warhorsecasino.com/)** | **[Casino Operation Intern](https://jobright.ai/jobs/info/6960585aa112b402660f1d14?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jan 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Projects and Optimization](https://jobright.ai/jobs/info/696027d07ebc25398eb61965?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 08 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Las Vegas, NV (June 2026)](https://jobright.ai/jobs/info/69600af0a112b402660ebd56?utm_campaign=1050&utm_source=git)** | US-NV-Las Vegas | On Site | Jan 08 |
 | **[FMC Corporation](http://www.fmc.com)** | **[Digital Strategy, Portfolio and Change Intern](https://jobright.ai/jobs/info/696008d9a112b402660ebaf4?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 08 |
-| **[Upbound Group](https://www.upbound.com)** | **[Acima FP&A Intern](https://jobright.ai/jobs/info/695631e7f1f8465b79ed1f38?utm_campaign=1050&utm_source=git)** | Draper, UT | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

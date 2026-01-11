@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99849 Administrative Secretary, College of Optometry, Tahlequah](https://jobright.ai/jobs/info/6963b9182cbf4e44756d6498?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 11 |
+| **[Delaware River Port Authority](http://drpa.org)** | **[Summer PATCO Office of the General Manager Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6963b47d25e18715078046a5?utm_campaign=1050&utm_source=git)** | Lindenwold, NJ | On Site | Jan 11 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Corporate Strategy MBA Summer Intern](https://jobright.ai/jobs/info/6963b09c2cbf4e44756d62ac?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Jan 11 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Jan 11 |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6963af162cbf4e44756d6192?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c2e0033bef502c86873?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 11 |
+| **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6963ad6625e18715078042ec?utm_campaign=1050&utm_source=git)** | Northwood, OH | On Site | Jan 11 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Administrative Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6963a7afa112b4026611c540?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 11 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f48a5e55be5e2604f88d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Jan 11 |
@@ -85,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[US Youth Soccer](http://www.usyouthsoccer.org)** | **[Summer Operations and Events Internship](https://jobright.ai/jobs/info/69635900a112b402661174a6?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Jan 10 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/69631be42cbf4e44756cde27?utm_campaign=1050&utm_source=git)** | Farmington, MI | Hybrid | Jan 10 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6962fe8b2cbf4e44756cd43b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 10 |
+| **[EZ Tax Co](www.fileeztaxco.com)** | **[Student Intern](https://jobright.ai/jobs/info/69639e8725e187150780375c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Jan 10 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 10 |
 | **[PropyLaw](www.propylaw.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6962b8072cbf4e44756caae5?utm_campaign=1050&utm_source=git)** | Austin, TX | Remote | Jan 10 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Stadium Operations Intern 2026](https://jobright.ai/jobs/info/6962b3412cbf4e44756c923d?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b9c163141d188455487c?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
 | ↳ | **[Category Management Intern](https://jobright.ai/jobs/info/6945b143d1953b5d11bead68?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | On Site | Jan 10 |
 | **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/68d4265f8c62e63bc7fe62ef?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Jan 10 |
-| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Pharmacy Business Analytics](https://jobright.ai/jobs/info/6945d37d63141d1884557542?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Jan 10 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Technical Program Manager Intern](https://jobright.ai/jobs/info/69458d4c951654073537a68c?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Remote | Jan 10 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern- Summer](https://jobright.ai/jobs/info/69460468d1953b5d11bf1f4e?utm_campaign=1050&utm_source=git)** | Marysville, OH | On Site | Jan 10 |
-| **[ROCK](http://www.rockventures.com/)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6945d1bc63141d1884556e05?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Retail Operations](https://jobright.ai/jobs/info/6945ea3d63141d18845585f5?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
-| **[Lufthansa](https://www.lufthansa.com)** | **[Internship in Global Market Strategy (USA)](https://jobright.ai/jobs/info/69627343a112b4026610d2f3?utm_campaign=1050&utm_source=git)** | Uniondale, NY | On Site | Jan 10 |
-| **[Flex](https://flex.com)** | **[Program Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945f3cbd1953b5d11befd15?utm_campaign=1050&utm_source=git)** | Pflugerville, TX | On Site | Jan 10 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/695fc5fda1bbea1d9a7a85bc?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

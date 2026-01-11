@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fitnescity Health](https://www.fitnescity.com/)** | **[Operations Coordinator (Intern)](https://jobright.ai/jobs/info/696414d025e1871507809d41?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Jan 11 |
+| **[Mississippi Mud Monsters](https://ondeck2025.com/)** | **[Stadium Operations Internship](https://jobright.ai/jobs/info/696408f525e1871507808cdc?utm_campaign=1050&utm_source=git)** | Pearl, MS | On Site | Jan 11 |
+| **[Sysco](http://sysco.com)** | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/696404e325e187150780818b?utm_campaign=1050&utm_source=git)** | Harmony, PA | On Site | Jan 11 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026 (](https://jobright.ai/jobs/info/6963d8bf2cbf4e44756d8f23?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Jan 11 |
 | **[Columbia Distributing](http://www.coldist.com)** | **[Beer Careers Internship Program - Greater Seattle Area, WA](https://jobright.ai/jobs/info/6963d79ca112b4026611f6bf?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 11 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99849 Administrative Secretary, College of Optometry, Tahlequah](https://jobright.ai/jobs/info/6963b9182cbf4e44756d6498?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 11 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Corporate Strategy MBA Summer Intern](https://jobright.ai/jobs/info/6963b09c2cbf4e44756d62ac?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Jan 11 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6963af162cbf4e44756d6192?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c2e0033bef502c86873?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RELEX Solutions](http://www.relexsolutions.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68f0ab5ca6b9004b5e3235d9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6946048ad1953b5d11bf1f9b?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 10 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/68b78aadf4e41a61efd99bc7?utm_campaign=1050&utm_source=git)** | East Hanover, NJ | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern – Enterprise Project Management](https://jobright.ai/jobs/info/6945ee6dd1953b5d11bef9c9?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026 (](https://jobright.ai/jobs/info/6963d8bf2cbf4e44756d8f23?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Jan 11 |
+| **[Columbia Distributing](http://www.coldist.com)** | **[Beer Careers Internship Program - Greater Seattle Area, WA](https://jobright.ai/jobs/info/6963d79ca112b4026611f6bf?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 11 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99849 Administrative Secretary, College of Optometry, Tahlequah](https://jobright.ai/jobs/info/6963b9182cbf4e44756d6498?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 11 |
-| **[Delaware River Port Authority](http://drpa.org)** | **[Summer PATCO Office of the General Manager Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6963b47d25e18715078046a5?utm_campaign=1050&utm_source=git)** | Lindenwold, NJ | On Site | Jan 11 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Corporate Strategy MBA Summer Intern](https://jobright.ai/jobs/info/6963b09c2cbf4e44756d62ac?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Jan 11 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6963af162cbf4e44756d6192?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Philanthropic Intern - Summer 2026](https://jobright.ai/jobs/info/6945ce7f951654073537efde?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b9c163141d188455487c?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Jan 10 |
 | ↳ | **[Category Management Intern](https://jobright.ai/jobs/info/6945b143d1953b5d11bead68?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | On Site | Jan 10 |
-| **[Synthomer](https://www.synthomer.com)** | **[Leadership Development Program - Supply Chain](https://jobright.ai/jobs/info/68d4265f8c62e63bc7fe62ef?utm_campaign=1050&utm_source=git)** | Mogadore, OH | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

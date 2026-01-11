@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6962fe8b2cbf4e44756cd43b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 10 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 10 |
 | **[PropyLaw](www.propylaw.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6962b8072cbf4e44756caae5?utm_campaign=1050&utm_source=git)** | Austin, TX | Remote | Jan 10 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Stadium Operations Intern 2026](https://jobright.ai/jobs/info/6962b3412cbf4e44756c923d?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 10 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/695cc1655e4962051b59e5f1?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | ↳ | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/695c84789a87b95a9397d6fd?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | ↳ | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/695753db9f1b381eb2706c24?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b72585f4e41a61efd95ed5?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Jan 10 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/68f2e5419a63986de756d06d?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Jan 10 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7a0d61ade4306aa64cbb1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 10 |
@@ -109,7 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Jan 10 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
-| ↳ | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51d812ed36439e51e4d58?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 10 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/696018e3a112b402660eccfe?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Jan 10 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51d812ed36439e51e4d58?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 10 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945a353d1953b5d11be9ffa?utm_campaign=1050&utm_source=git)** | Clarington, Ontario, Canada | On Site | Jan 10 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6945f06b7d506e3808f131c3?utm_campaign=1050&utm_source=git)** | Fairfield, NJ | On Site | Jan 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/695f20afa1bbea1d9a7a02de?utm_campaign=1050&utm_source=git)** | Diamond Bar, CA | On Site | Jan 10 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/69624efea112b4026610b87d?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, IMG Models](https://jobright.ai/jobs/info/694609b57d506e3808f160df?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 10 |
-| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cf9090846f0b04af68300a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

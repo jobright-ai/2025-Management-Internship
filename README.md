@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696373f72cbf4e44756d3185?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Jan 11 |
+| **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Operations Analyst - Internship](https://jobright.ai/jobs/info/696368f22cbf4e44756d2117?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 11 |
+| **[RELEX Solutions](http://www.relexsolutions.com)** | **[Project Management Office Support Intern - Spanish speaking for LATAM Market](https://jobright.ai/jobs/info/691e7553a49a885af9a28b1a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 11 |
 | **[Pandora](https://www.pandoragroup.com)** | **[Intern, Operational Excellence Logistics](https://jobright.ai/jobs/info/6963421425e18715077fe413?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Jan 10 |
+| **[US Youth Soccer](http://www.usyouthsoccer.org)** | **[Summer Operations and Events Internship](https://jobright.ai/jobs/info/69635900a112b402661174a6?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Jan 10 |
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/69631be42cbf4e44756cde27?utm_campaign=1050&utm_source=git)** | Farmington, MI | Hybrid | Jan 10 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6962fe8b2cbf4e44756cd43b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 10 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Resilience Intern - Summer 2026](https://jobright.ai/jobs/info/6945d883951654073538096a?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 10 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68d5ccb01f7fb2169ab13e20?utm_campaign=1050&utm_source=git)** | Paso Robles, CA | On Site | Jan 10 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6893b540a9199876488df7d8?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jan 10 |
-| **[American Water](http://amwater.com)** | **[Operations Intern](https://jobright.ai/jobs/info/691aaaec45fb6f5ead8acc59?utm_campaign=1050&utm_source=git)** | Scranton, PA | On Site | Jan 10 |
-| **[Niagara Bottling](http://www.NiagaraWater.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/695f20afa1bbea1d9a7a02de?utm_campaign=1050&utm_source=git)** | Diamond Bar, CA | On Site | Jan 10 |
-| **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/69624efea112b4026610b87d?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Jan 10 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Intern, IMG Models](https://jobright.ai/jobs/info/694609b57d506e3808f160df?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

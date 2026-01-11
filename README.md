@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 10 |
 | **[PropyLaw](www.propylaw.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6962b8072cbf4e44756caae5?utm_campaign=1050&utm_source=git)** | Austin, TX | Remote | Jan 10 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Stadium Operations Intern 2026](https://jobright.ai/jobs/info/6962b3412cbf4e44756c923d?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 10 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962afae2cbf4e44756c918c?utm_campaign=1050&utm_source=git)** | Columbus, OH, USA | On Site | Jan 10 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Rosendin](https://www.rosendin.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6962a60425e18715077f7060?utm_campaign=1050&utm_source=git)** | Gallatin, TN | On Site | Jan 10 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Corporate SCM/Operations Outbound - Miramar, FL](https://jobright.ai/jobs/info/6962a5c125e18715077f700f?utm_campaign=1050&utm_source=git)** | Miramar, FL | On Site | Jan 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative Bachelor's Intern](https://jobright.ai/jobs/info/69629c2ca112b4026610f2ef?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 10 |
-| **[Stratify Edge](stratifyedge.us)** | **[2026 - Summer Assistant Vice President Internship - Analytics](https://jobright.ai/jobs/info/69629bef2cbf4e44756c855d?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Jan 10 |
 | **[Greystar](http://greystar.com)** | **[Property Management Intern- Chicago](https://jobright.ai/jobs/info/6962940725e18715077f698a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 10 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/696285992cbf4e44756c81e6?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 10 |
 | **[PropyLaw](www.propylaw.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/69627f9e2cbf4e44756c6908?utm_campaign=1050&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Jan 10 |

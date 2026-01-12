@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ericsson](https://www.ericsson.com)** | **[Strategy Analyst Intern](https://jobright.ai/jobs/info/68d6078263d77d6f6f3f3dfd?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jan 12 |
+| **[United Airlines](https://www.united.com)** | **[Intern - Global Supply Chain and MRO Shops (Summer 2026)](https://jobright.ai/jobs/info/6964ddf22cbf4e44756e4f29?utm_campaign=1050&utm_source=git)** | Arlington Heights, IL | On Site | Jan 12 |
+| **[Potelco Inc](http://www.potelco.net/)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/6959e1e79f1b381eb2728866?utm_campaign=1050&utm_source=git)** | Hubbard, OR | On Site | Jan 12 |
+| **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/695f68690badca5763afd222?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Jan 12 |
+| **[25madison](https://www.25madison.com/)** | **[2026 MBA Summer Internship](https://jobright.ai/jobs/info/6964d7b2a112b4026612b1f2?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 12 |
+| **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Warehousing - Summer 2026](https://jobright.ai/jobs/info/6964d6cb2cbf4e44756e4d99?utm_campaign=1050&utm_source=git)** | Dayton, NJ | On Site | Jan 12 |
+| **[GHD](http://www.ghd.com)** | **[Financial Project Support Intern](https://jobright.ai/jobs/info/68f328939a65fd34585845d4?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Jan 12 |
+| **[SPX Technologies](https://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/692c2bd666796e3028f929e9?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Jan 12 |
+| **[Arup](http://www.arup.com)** | **[Project Administration Intern (Available June 2026)](https://jobright.ai/jobs/info/690743f3122e8474c78e360e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 12 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Supervisor/Project Management](https://jobright.ai/jobs/info/6964b0b3a112b402661285bc?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Jan 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Summer 2026](https://jobright.ai/jobs/info/6964ad43a112b40266128373?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 12 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/6964bc0225e18715078121d2?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Jan 11 |
@@ -106,8 +115,6 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/691abdfc45fb6f5ead8ad5d5?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 11 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/68b84414ea901c0d269f505b?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 11 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d5218524b1ee4c7b6643e3?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Jan 11 |
-| **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Workplace Planning and Advice Process Improvement](https://jobright.ai/jobs/info/6946a47ad1953b5d11bfd832?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 11 |
-| ↳ | **[Summer 2026 Intern – Participant Engagement](https://jobright.ai/jobs/info/6946a8db7d506e3808f20cea?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Operations Analyst - Internship](https://jobright.ai/jobs/info/696368f22cbf4e44756d2117?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 11 |
 | **[RELEX Solutions](http://www.relexsolutions.com)** | **[Project Management Office Support Intern - Spanish speaking for LATAM Market](https://jobright.ai/jobs/info/691e7553a49a885af9a28b1a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 11 |
 | **[Pandora](https://www.pandoragroup.com)** | **[Intern, Operational Excellence Logistics](https://jobright.ai/jobs/info/6963421425e18715077fe413?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Jan 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Fishers/Noblesville](https://jobright.ai/jobs/info/68f0fe56e6870116b1f52914?utm_campaign=1050&utm_source=git)** | Noblesville, IN | On Site | Jan 10 |
 | **[Cohen & Co](http://www.cohencpa.com)** | **[Family Office Intern, Spring 2027](https://jobright.ai/jobs/info/6945c281951654073537e000?utm_campaign=1050&utm_source=git)** | Greater Cleveland | On Site | Jan 10 |
 | **[Airbnb](https://www.airbnb.com)** | **[Strategic Finance & Analytics Intern (MBA)](https://jobright.ai/jobs/info/69460077d1953b5d11bf1602?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 10 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d5dbcc2116ff37ee090b5f?utm_campaign=1050&utm_source=git)** | Sullivans Island, SC | On Site | Jan 10 |
-| ↳ | **[Construction Internship Program](https://jobright.ai/jobs/info/68d45903ffc1276de3fd9f29?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Jan 10 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68cce0105954791a1d7003d2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Jan 10 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694259abbdcf884a5ade3e0a?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Jan 10 |
-| **[UCB](http://www.ucb.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/694612807d506e3808f169a7?utm_campaign=1050&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jan 10 |
-| **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jan 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Platform Distribution Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69624c9d2cbf4e44756c4423?utm_campaign=1050&utm_source=git)** | Bristol, CT | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

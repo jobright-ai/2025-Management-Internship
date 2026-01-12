@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Intern, Sustainable Operations](https://jobright.ai/jobs/info/69644f1225e187150780c221?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Jan 11 |
+| **[Rosendin](https://www.rosendin.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69644ac42cbf4e44756ddcf6?utm_campaign=1050&utm_source=git)** | Gallatin, TN | On Site | Jan 11 |
+| **[25madison](https://www.25madison.com/)** | **[2026 MBA Summer Internship](https://jobright.ai/jobs/info/696448f5a112b40266124181?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 11 |
+| **[MaineHealth](https://mainehealth.org/)** | **[Intern - Waldo Hospital Nursing Administration](https://jobright.ai/jobs/info/696444052cbf4e44756dc0bb?utm_campaign=1050&utm_source=git)** | Belfast, ME | On Site | Jan 11 |
+| ↳ | **[Intern - MaineHealth Medical Group Operations - Strategy](https://jobright.ai/jobs/info/696443fc2cbf4e44756dc0b7?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Jan 11 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Strategy](https://jobright.ai/jobs/info/69643bd4a112b4026612275f?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 11 |
 | **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69642aaf25e187150780a10a?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Jan 11 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Strategy](https://jobright.ai/jobs/info/696426c2a112b40266122505?utm_campaign=1050&utm_source=git)** | 600 E Lafayette Blvd, Detroit, MI, 48226, US | On Site | Jan 11 |
 | **[Fitnescity Health](https://www.fitnescity.com/)** | **[Operations Coordinator (Intern)](https://jobright.ai/jobs/info/696414d025e1871507809d41?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Jan 11 |
@@ -91,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d5218524b1ee4c7b6643e3?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Jan 11 |
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Workplace Planning and Advice Process Improvement](https://jobright.ai/jobs/info/6946a47ad1953b5d11bfd832?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | ↳ | **[Summer 2026 Intern – Participant Engagement](https://jobright.ai/jobs/info/6946a8db7d506e3808f20cea?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 11 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696374b4a112b40266119b22?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Jan 11 |
-| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696373f72cbf4e44756d3185?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Jan 11 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696373f72cbf4e44756d3185?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Jan 11 |
 | **[Digital Factory, Inc.](https://dgtl-factory.com/)** | **[Operations Analyst - Internship](https://jobright.ai/jobs/info/696368f22cbf4e44756d2117?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 11 |
 | **[RELEX Solutions](http://www.relexsolutions.com)** | **[Project Management Office Support Intern - Spanish speaking for LATAM Market](https://jobright.ai/jobs/info/691e7553a49a885af9a28b1a?utm_campaign=1050&utm_source=git)** | Atlanta, GA, United States | On Site | Jan 11 |
 | **[Pandora](https://www.pandoragroup.com)** | **[Intern, Operational Excellence Logistics](https://jobright.ai/jobs/info/6963421425e18715077fe413?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Jan 10 |
@@ -100,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Burns & Wilcox](https://www.burnsandwilcox.com/)** | **[Corporate Strategy & Development Intern](https://jobright.ai/jobs/info/69631be42cbf4e44756cde27?utm_campaign=1050&utm_source=git)** | Farmington, MI | Hybrid | Jan 10 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6962fe8b2cbf4e44756cd43b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 10 |
 | **[EZ Tax Co](www.fileeztaxco.com)** | **[Student Intern](https://jobright.ai/jobs/info/69639e8725e187150780375c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Jan 10 |
+| **[Target Optical](https://www.targetoptical.com)** | **[New York Target Optical Strategy Summer 2026 Intern](https://jobright.ai/jobs/info/696024b77ebc25398eb614d4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 10 |
 | **[PropyLaw](www.propylaw.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6962b8072cbf4e44756caae5?utm_campaign=1050&utm_source=git)** | Austin, TX | Remote | Jan 10 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Stadium Operations Intern 2026](https://jobright.ai/jobs/info/6962b3412cbf4e44756c923d?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 10 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/696018e3a112b402660eccfe?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Jan 10 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51d812ed36439e51e4d58?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 10 |
-| **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945a353d1953b5d11be9ffa?utm_campaign=1050&utm_source=git)** | Clarington, Ontario, Canada | On Site | Jan 10 |
-| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b32e63141d1884554134?utm_campaign=1050&utm_source=git)** | Waltham, MA | On Site | Jan 10 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Property Management](https://jobright.ai/jobs/info/6945f06b7d506e3808f131c3?utm_campaign=1050&utm_source=git)** | Fairfield, NJ | On Site | Jan 10 |
-| **[OceanFirst Bank](https://oceanfirst.com/)** | **[Department Intern - IT Governance](https://jobright.ai/jobs/info/694620a77d506e3808f17349?utm_campaign=1050&utm_source=git)** | Red Bank, NJ | On Site | Jan 10 |
-| **[RELEX Solutions](http://www.relexsolutions.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68f0ab5ca6b9004b5e3235d9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

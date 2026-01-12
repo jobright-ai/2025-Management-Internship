@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/696489aea112b40266127223?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 11 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Supervisor/Project Management](https://jobright.ai/jobs/info/6964b0b3a112b402661285bc?utm_campaign=1050&utm_source=git)** | Marietta, OH | On Site | Jan 12 |
+| **[Capital One](http://www.capitalone.com)** | **[Intern, Strategy Analyst - Summer 2026](https://jobright.ai/jobs/info/6964ad43a112b40266128373?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 12 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/6964bc0225e18715078121d2?utm_campaign=1050&utm_source=git)** | Florence, OR | On Site | Jan 11 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69648c742cbf4e44756e0d89?utm_campaign=1050&utm_source=git)** | USA | Remote | Jan 11 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/696489aea112b40266127223?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 11 |
 | **[Carrier](https://www.corporate.carrier.com)** | **[Supply Chain Management Intern - Summer](https://jobright.ai/jobs/info/69647fb925e187150780ebf7?utm_campaign=1050&utm_source=git)** | Athens, GA | On Site | Jan 11 |
 | ↳ | **[Supply Chain Management Intern - Summer](https://jobright.ai/jobs/info/69647ea7a112b40266126f1e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 11 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Intern, Connected Leaders](https://jobright.ai/jobs/info/69647c132cbf4e44756e08cf?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Jan 11 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, President's Office](https://jobright.ai/jobs/info/696463b425e187150780c93d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | ↳ | **[Intern, Sustainable Operations](https://jobright.ai/jobs/info/696463822cbf4e44756de799?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | ↳ | **[Intern, Sustainable Operations](https://jobright.ai/jobs/info/69644f1225e187150780c221?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Jan 11 |
-| **[Rosendin](https://www.rosendin.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/69644ac42cbf4e44756ddcf6?utm_campaign=1050&utm_source=git)** | Gallatin, TN | On Site | Jan 11 |
 | **[25madison](https://www.25madison.com/)** | **[2026 MBA Summer Internship](https://jobright.ai/jobs/info/696448f5a112b40266124181?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 11 |
 | **[MaineHealth](https://mainehealth.org/)** | **[Intern - Waldo Hospital Nursing Administration](https://jobright.ai/jobs/info/696444052cbf4e44756dc0bb?utm_campaign=1050&utm_source=git)** | Belfast, ME | On Site | Jan 11 |
 | ↳ | **[Intern - MaineHealth Medical Group Operations - Strategy](https://jobright.ai/jobs/info/696443fc2cbf4e44756dc0b7?utm_campaign=1050&utm_source=git)** | South Portland, ME | On Site | Jan 11 |
@@ -79,12 +82,12 @@ For a complete list, click the following sortable link below:
 | **[Sysco](http://sysco.com)** | **[Warehouse Operations Supply Chain Intern](https://jobright.ai/jobs/info/696404e325e187150780818b?utm_campaign=1050&utm_source=git)** | Harmony, PA | On Site | Jan 11 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026 (](https://jobright.ai/jobs/info/6963d8bf2cbf4e44756d8f23?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Jan 11 |
 | **[Columbia Distributing](http://www.coldist.com)** | **[Beer Careers Internship Program - Greater Seattle Area, WA](https://jobright.ai/jobs/info/6963d79ca112b4026611f6bf?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 11 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99849 Administrative Secretary, College of Optometry, Tahlequah](https://jobright.ai/jobs/info/69648bfa2cbf4e44756e0d24?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 11 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/6963af162cbf4e44756d6192?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Jan 11 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c2e0033bef502c86873?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 11 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6963ad6625e18715078042ec?utm_campaign=1050&utm_source=git)** | Northwood, OH | On Site | Jan 11 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Administrative Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6963a7afa112b4026611c540?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 11 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Underwriting Intern](https://jobright.ai/jobs/info/694716ec63141d188456d328?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Jan 11 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7f48a5e55be5e2604f88d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[Delaware River Port Authority](http://drpa.org)** | **[Summer PATCO Office of the General Manager Intern - (2026) - $19.00/hr.](https://jobright.ai/jobs/info/6963f35625e187150780792d?utm_campaign=1050&utm_source=git)** | Lindenwold, NJ | On Site | Jan 11 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Jan 11 |
@@ -136,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/695cc1655e4962051b59e5f1?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | ↳ | **[Intern, Multimodal Operations - Indigenous- EN](https://jobright.ai/jobs/info/695c84789a87b95a9397d6fd?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 10 |
 | ↳ | **[Intern, Supply Chain - Indigenous- EN](https://jobright.ai/jobs/info/695753db9f1b381eb2706c24?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 10 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68b72585f4e41a61efd95ed5?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Jan 10 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 10 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/68f2e5419a63986de756d06d?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Jan 10 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7a0d61ade4306aa64cbb1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UCB](http://www.ucb.com)** | **[Medical Affairs Intern](https://jobright.ai/jobs/info/694612807d506e3808f169a7?utm_campaign=1050&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Jan 10 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jan 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Platform Distribution Operations Intern, Summer 2026](https://jobright.ai/jobs/info/69624c9d2cbf4e44756c4423?utm_campaign=1050&utm_source=git)** | Bristol, CT | On Site | Jan 10 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d519bd24b1ee4c7b663f43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
-| **[Builders FirstSource](http://www.bldr.com)** | **[Summer 2026 Operations Internship - Houston, TX](https://jobright.ai/jobs/info/693d283449a7695fbd03d417?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Health and Life Sciences Strategy (Health Futures, Redmond)](https://jobright.ai/jobs/info/694553f59516540735376558?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Jan 10 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

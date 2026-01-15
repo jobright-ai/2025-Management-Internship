@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Intern - Supply Chain - Greenville, SC](https://jobright.ai/jobs/info/6968a684639b452fb57e6c77?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Jan 15 |
+| **[FedEx Supply Chain](https://careers.fedex.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/6968a4ad639b452fb57e6a84?utm_campaign=1050&utm_source=git)** | San Bernardino, CA | On Site | Jan 14 |
+| **[Reworld Waste](https://www.reworldwaste.com)** | **[Intern](https://jobright.ai/jobs/info/6968a5edf25a380066972cac?utm_campaign=1050&utm_source=git)** | Maryland, United States | On Site | Jan 14 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations](https://jobright.ai/jobs/info/69689724639b452fb57e5650?utm_campaign=1050&utm_source=git)** | Reston, VA | Remote | Jan 14 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Continuous Improvement Intern / Stagiaire amélioration continue](https://jobright.ai/jobs/info/69686369f25a38006696cf2c?utm_campaign=1050&utm_source=git)** | Terrebonne, Quebec, Canada | On Site | Jan 14 |
 | **[Bridgewater Bank](https://www.bridgewaterbankmn.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69686369f25a38006696cf2b?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Jan 14 |
@@ -87,12 +90,12 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Temple and Killeen](https://jobright.ai/jobs/info/696845511703f05405a9f872?utm_campaign=1050&utm_source=git)** | Temple | On Site | Jan 14 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/696880721703f05405aa3e5c?utm_campaign=1050&utm_source=git)** | Antigo, WI | On Site | Jan 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69689949f25a3800669721a0?utm_campaign=1050&utm_source=git)** | Bellevue, NE | On Site | Jan 14 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/696885f01703f05405aa45eb?utm_campaign=1050&utm_source=git)** | North Platte, NE | On Site | Jan 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69689b15f25a38006697224e?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Jan 14 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/696885f01703f05405aa45eb?utm_campaign=1050&utm_source=git)** | North Platte, NE | On Site | Jan 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/696880c7639b452fb57e31e6?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jan 14 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69689994f25a3800669721d6?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Jan 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/696890c6f25a38006697145e?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Jan 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69687fe61703f05405aa3d7f?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Jan 14 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69689994f25a3800669721d6?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Jan 14 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/696883d41703f05405aa42e7?utm_campaign=1050&utm_source=git)** | Lancaster, OH | On Site | Jan 14 |
 | **[HPI Real Estate Services & Investments](http://www.hpitx.com/)** | **[Tenant Advisor Internship](https://jobright.ai/jobs/info/696892e8f25a380066971818?utm_campaign=1050&utm_source=git)** | AUSTIN,TX,US | On Site | Jan 14 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Operational Excellence Intern (Summer 2026)(Onsite)](https://jobright.ai/jobs/info/69688bd51703f05405aa50a1?utm_campaign=1050&utm_source=git)** | Annapolis, MD | On Site | Jan 14 |
@@ -102,17 +105,18 @@ For a complete list, click the following sortable link below:
 | **[The State University of New York](http://www.suny.edu/)** | **[Graduate Assistant for the Office of the Secretary](https://jobright.ai/jobs/info/69687166f25a38006696df9b?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Jan 14 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69683a7af25a38006696a04e?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Jan 14 |
 | **[Propak Logistics](http://propak.com)** | **[Business Operations Intern - Part Time](https://jobright.ai/jobs/info/69688805f25a38006696ffda?utm_campaign=1050&utm_source=git)** | Fort Smith, AR, US | On Site | Jan 14 |
+| **[De Soi](https://drinkdesoi.com/)** | **[MBA Intern Summer 2026](https://jobright.ai/jobs/info/6968a3e4f25a380066972a61?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 14 |
 | **[Mansfield Energy Corp](http://mansfield.energy/)** | **[Intern, Operations](https://jobright.ai/jobs/info/696838b5639b452fb57dd842?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 14 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/696886c71703f05405aa476a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Jan 14 |
-| ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/696862f7f25a38006696ce9a?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Remote | Jan 14 |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/696862f7f25a38006696ce9a?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Remote | Jan 14 |
+| ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/696886c71703f05405aa476a?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Jan 14 |
 | ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69685604639b452fb57df807?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Jan 14 |
 | ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69687a6b1703f05405aa3524?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Jan 14 |
 | ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/696883991703f05405aa4278?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Remote | Jan 14 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Waco](https://jobright.ai/jobs/info/69685d60f25a38006696c5bb?utm_campaign=1050&utm_source=git)** | Waco | On Site | Jan 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Midland/Odessa, TX](https://jobright.ai/jobs/info/696865b5f25a38006696d207?utm_campaign=1050&utm_source=git)** | Midland | On Site | Jan 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lubbock, TX](https://jobright.ai/jobs/info/696864461703f05405aa1715?utm_campaign=1050&utm_source=git)** | Lubbock | On Site | Jan 14 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/69685c5a1703f05405aa0d99?utm_campaign=1050&utm_source=git)** | Abilene | On Site | Jan 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Amarillo, TX](https://jobright.ai/jobs/info/6968517ff25a38006696b6b2?utm_campaign=1050&utm_source=git)** | Amarillo | On Site | Jan 14 |
+| ↳ | **[Summer 2026 Management Trainee Intern - Abilene, TX](https://jobright.ai/jobs/info/69685c5a1703f05405aa0d99?utm_campaign=1050&utm_source=git)** | Abilene | On Site | Jan 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern - College Station](https://jobright.ai/jobs/info/69685f471703f05405aa1168?utm_campaign=1050&utm_source=git)** | College Station | On Site | Jan 14 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Austin](https://jobright.ai/jobs/info/696855df1703f05405aa05c7?utm_campaign=1050&utm_source=git)** | South Austin | On Site | Jan 14 |
 | **[CRH](http://crh.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69684db3f25a38006696b206?utm_campaign=1050&utm_source=git)** | Cape Coral, FL | On Site | Jan 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](https://www.onestream.com)** | **[Technical Project Manager Intern](https://jobright.ai/jobs/info/696801eb639b452fb57d8fb3?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 14 |
 | **[AlgaeCal Inc.](https://www.algaecal.com/)** | **[Project Manager Intern (May - September Internship)](https://jobright.ai/jobs/info/696834be639b452fb57dd0c1?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
 | **[nVent](https://www.nvent.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6968469e639b452fb57dea44?utm_campaign=1050&utm_source=git)** | Anoka, MN | On Site | Jan 14 |
-| **[360°kids](https://www.360kids.ca/)** | **[Administrative Intern- unpaid student placement / co-ops winter](https://jobright.ai/jobs/info/69314278ef4b48533d153396?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 14 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/696823f3f25a380066967b6e?utm_campaign=1050&utm_source=git)** | Chantilly, VA | Hybrid | Jan 14 |
-| **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69683af51703f05405a9eb82?utm_campaign=1050&utm_source=git)** | Manitowoc, WI, US, 54220 | On Site | Jan 14 |
-| **[EnerMech](https://www.enermech.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69682e15639b452fb57dc55b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696b363bdb26b618950ebc5c?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 16 |
+| **[GenPark](https://genpark.ai)** | **[Project operation intern](https://jobright.ai/jobs/info/696b3317db26b618950eb986?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696b0c5bdb26b618950e86e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 16 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[INTERN - Operations Admin](https://jobright.ai/jobs/info/696b1ca05fc86241853a7f4c?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Jan 16 |
 | **[Visionworks of America](https://www.visionworks.com/)** | **[Sr. Operations Planning Analyst - INTERN](https://jobright.ai/jobs/info/696b1478db26b618950e8e80?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Remote | Jan 16 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/696aef08db26b618950e5bfa?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Windsor Locks, CT - Summer 2026](https://jobright.ai/jobs/info/696aebd95fc86241853a2947?utm_campaign=1050&utm_source=git)** | Windsor Locks, CT | On Site | Jan 16 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/696b071f5fc86241853a527b?utm_campaign=1050&utm_source=git)** | Fort Dodge, IA | On Site | Jan 16 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/696b0a3edb26b618950e85d2?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Jan 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/696b06e55fc86241853a522d?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Jan 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/696b0a3edb26b618950e85d2?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Jan 16 |
 | **[Victory Housing, Inc.](https://www.victoryhousing.org)** | **[Victory Housing’s Rotational Internship Program - Victory Housing Corporate Office](https://jobright.ai/jobs/info/696b1136350cf43803125410?utm_campaign=1050&utm_source=git)** | Rockville, MD | On Site | Jan 16 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Admin Internship](https://jobright.ai/jobs/info/696ae3cfdb26b618950e431e?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[IT Project Intern (Summer 2026)](https://jobright.ai/jobs/info/696b0366db26b618950e7ab9?utm_campaign=1050&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 16 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[EC Electric](http://ecpowerslife.com)** | **[Summer 2026 Internship (Assistant Project Manager)](https://jobright.ai/jobs/info/696aff115fc86241853a472d?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Jan 16 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Property Management Analyst Intern - Warner Robins GA - R10219614](https://jobright.ai/jobs/info/696ab59bdb26b618950df359?utm_campaign=1050&utm_source=git)** | Warner Robins, GA | On Site | Jan 16 |
 | **[CRH](http://crh.com)** | **[Operations Management Summer Internship](https://jobright.ai/jobs/info/696ab5925fc862418539c532?utm_campaign=1050&utm_source=git)** | Albany, NY | On Site | Jan 16 |
-| **[Samsung Ads](http://www.samsungads.com)** | **[Planning and Strategy Intern](https://jobright.ai/jobs/info/696aefb3350cf438031227df?utm_campaign=1050&utm_source=git)** | 6625 Excellence Way, Plano, TX, USA | On Site | Jan 16 |
-| ↳ | **[Planning and Strategy Intern](https://jobright.ai/jobs/info/696ae8c5db26b618950e4f2e?utm_campaign=1050&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Jan 16 |
+| **[Samsung Ads](http://www.samsungads.com)** | **[Planning and Strategy Intern](https://jobright.ai/jobs/info/696ae8c5db26b618950e4f2e?utm_campaign=1050&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Jan 16 |
+| ↳ | **[Planning and Strategy Intern](https://jobright.ai/jobs/info/696aefb3350cf438031227df?utm_campaign=1050&utm_source=git)** | 6625 Excellence Way, Plano, TX, USA | On Site | Jan 16 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Stadium Operations- Cleburne Railroaders](https://jobright.ai/jobs/info/696b08e05fc86241853a546e?utm_campaign=1050&utm_source=git)** | Cleburne, TX | On Site | Jan 16 |
 | **[Mohawk Global](http://mohawkglobal.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/696ab4fddb26b618950df2e4?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Jan 16 |
 | **[CRH](http://crh.com)** | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/696ab423350cf4380311bab1?utm_campaign=1050&utm_source=git)** | Livermore, CA | On Site | Jan 16 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Westfield, MA - Summer 2026](https://jobright.ai/jobs/info/696ab36d5fc862418539c2ad?utm_campaign=1050&utm_source=git)** | MA_Westfield_224144 | On Site | Jan 16 |
 | **[CRH](http://crh.com)** | **[Operations Intern (Vinyl)](https://jobright.ai/jobs/info/696ab26d350cf4380311b3cb?utm_campaign=1050&utm_source=git)** | Bulls Gap, TN | On Site | Jan 16 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Supply Chain](https://jobright.ai/jobs/info/696ab138db26b618950de7dc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
+| **[Mastercard](http://www.mastercard.com)** | **[Real Estate Services Intern, Summer 2026 - St. Louis, MO](https://jobright.ai/jobs/info/696ab0045fc862418539b6b3?utm_campaign=1050&utm_source=git)** | O'Fallon, Missouri | On Site | Jan 16 |
 | **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Strategic Procurement](https://jobright.ai/jobs/info/696aaefa350cf4380311a8c5?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Seasonal Intern - Omaha, NE](https://jobright.ai/jobs/info/696acbd9350cf4380311e0f3?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jan 16 |
-| ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/696acf18db26b618950e1dfe?utm_campaign=1050&utm_source=git)** | Chowchilla, CA | On Site | Jan 16 |
-| ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/696aca3ddb26b618950e1513?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Jan 16 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/696ad589db26b618950e2a16?utm_campaign=1050&utm_source=git)** | Cape Coral, FL | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

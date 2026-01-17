@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69326e48764507023d1ae837?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Jan 17 |
+| **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Readrise Leadership intern](https://jobright.ai/jobs/info/696bf6995fc86241853b47a5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Category Manager – Uniforms FT – 6600](https://jobright.ai/jobs/info/696bec185fc86241853b2c75?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 17 |
+| **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Operations Intern](https://jobright.ai/jobs/info/696bebf4350cf4380313242f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[Commercial Bank of California](https://www.cbcal.com)** | **[Intern](https://jobright.ai/jobs/info/696be7155fc86241853b2a7d?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jan 17 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Commercial Banking Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/696be1fd5fc86241853b25e3?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696bdd67db26b618950f4c15?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 17 |
@@ -109,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6967f7e81703f05405a99511?utm_campaign=1050&utm_source=git)** | Research Park, CA | On Site | Jan 17 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Jan 17 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Supply Chain - Summer 2026](https://jobright.ai/jobs/info/6959d95b9f1b381eb272857d?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69335ea8764507023d1b4e0c?utm_campaign=1050&utm_source=git)** | Hopewell Junction, NY | On Site | Jan 17 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69339c0ca0dde7020e2ef9ac?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Jan 17 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/6933b152f131d96e48465ffb?utm_campaign=1050&utm_source=git)** | Hollywood, FL | On Site | Jan 17 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jan 17 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696afe2ddb26b618950e735d?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Jan 16 |
 | **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Wholesale Intern](https://jobright.ai/jobs/info/696afe05db26b618950e732b?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Jan 16 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696af9575fc86241853a3f5d?utm_campaign=1050&utm_source=git)** | Thibodaux, LA | On Site | Jan 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/696af8f5db26b618950e6c11?utm_campaign=1050&utm_source=git)** | Elkhart, IN | On Site | Jan 16 |
-| **[Skanska](http://skanska.com)** | **[Summer 2026 Strategic Supply Chain Intern](https://jobright.ai/jobs/info/696af83b5fc86241853a3db9?utm_campaign=1050&utm_source=git)** | Franklin, TN | On Site | Jan 16 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/696af5d6350cf4380312311d?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Jan 16 |
-| **[Soucy](http://www.soucy-group.com)** | **[Intern - Project Manager - CKX Helmet Development (Summer 2026)](https://jobright.ai/jobs/info/696af5975fc86241853a3ad8?utm_campaign=1050&utm_source=git)** | Drummondville, Quebec, Canada | On Site | Jan 16 |
-| **[Van Drunen Farms](http://vandrunenfarms.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/696af56e5fc86241853a3abe?utm_campaign=1050&utm_source=git)** | Momence, IL | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

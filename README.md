@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696bc69cdb26b618950f47eb?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 17 |
+| **[Frontera Healthcare](https://fronterahcn.org)** | **[Spring 2025 Bilingual Healthcare Administrative Intern](https://jobright.ai/jobs/info/696bba865fc86241853b02f6?utm_campaign=1050&utm_source=git)** | Fredericksburg, TX | On Site | Jan 17 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - DSPV Operations & Vendor Management](https://jobright.ai/jobs/info/696bb41c350cf4380312f986?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 17 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Intern](https://jobright.ai/jobs/info/696baf6a350cf4380312f8b7?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696ba8b45fc86241853affdf?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 17 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Business Affairs](https://jobright.ai/jobs/info/696ba8895fc86241853affd5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696ba2a7db26b618950f2914?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
@@ -64,8 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[MHA Healthcare Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/696b9f305fc86241853afc01?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jan 17 |
 | **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Summer 2026 Internship - (Predicition Modeling/Data Analytics)](https://jobright.ai/jobs/info/696b9bb0db26b618950f24d8?utm_campaign=1050&utm_source=git)** | Grapevine, TX, USA | On Site | Jan 17 |
 | **[CN](http://www.cn.ca)** | **[Intern, Fleet Management- EN](https://jobright.ai/jobs/info/695b5f849f1b381eb273c2b0?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 17 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696bbd24350cf438031313fd?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 17 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696bbccd350cf43803130e96?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Jan 17 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694f5598a2668b7f54528439?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | On Site | Jan 17 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Intern - Supply Chain - Greenville, SC](https://jobright.ai/jobs/info/6968a684639b452fb57e6c77?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Jan 17 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Jan 17 |
 | **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Jan 17 |
 | **[Gast](http://www.gastmfg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69165dd39c388539cbdfa5df?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Jan 17 |
@@ -84,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae3d609808a6103e51f6a?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Jan 17 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Jan 17 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ae21609808a6103e51eeb?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Jan 17 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/696bb8cadb26b618950f2da1?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693354faf131d96e48462101?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Supply Chain Intern - Starting in January](https://jobright.ai/jobs/info/693737edaabec14a727c52ec?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 17 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69326d31a0dde7020e2e6e4a?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 17 |
@@ -126,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/695a2db5aa05c26e7ab3c241?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Project Manager Intern, CGI (February to May)](https://jobright.ai/jobs/info/696b4820db26b618950ecbb0?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Jan 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696b363bdb26b618950ebc5c?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 16 |
-| **[GenPark](https://genpark.ai)** | **[Project operation intern](https://jobright.ai/jobs/info/696b3317db26b618950eb986?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696b0c5bdb26b618950e86e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 16 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[INTERN - Operations Admin](https://jobright.ai/jobs/info/696b1ca05fc86241853a7f4c?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Jan 16 |
 | **[Visionworks of America](https://www.visionworks.com/)** | **[Sr. Operations Planning Analyst - INTERN](https://jobright.ai/jobs/info/696b1478db26b618950e8e80?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Remote | Jan 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Alliance Management / Project Management Intern](https://jobright.ai/jobs/info/696b17dedb26b618950e9fcf?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 16 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Coordinator - ISIT team (Summer 2026)](https://jobright.ai/jobs/info/696b0ffa350cf438031252e9?utm_campaign=1050&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 16 |
 | ↳ | **[Intern, Methods (Summer 2026)](https://jobright.ai/jobs/info/696b11b6350cf4380312548e?utm_campaign=1050&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 16 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain, Forecasting & Demand Planning Intern](https://jobright.ai/jobs/info/696af231db26b618950e62ed?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
-| **[Bank of Canada](http://www.bankofcanada.ca/careers)** | **[Student, Procurement Coordination](https://jobright.ai/jobs/info/696af0b65fc86241853a33dc?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 16 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/696aef53350cf4380312271e?utm_campaign=1050&utm_source=git)** | DeSoto, TX | On Site | Jan 16 |
-| **[Textron](http://textron.com)** | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/696aef08db26b618950e5bfa?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Jan 16 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Windsor Locks, CT - Summer 2026](https://jobright.ai/jobs/info/696aebd95fc86241853a2947?utm_campaign=1050&utm_source=git)** | Windsor Locks, CT | On Site | Jan 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/696b071f5fc86241853a527b?utm_campaign=1050&utm_source=git)** | Fort Dodge, IA | On Site | Jan 16 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/696b06e55fc86241853a522d?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

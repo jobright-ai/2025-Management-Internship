@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commercial Bank of California](https://www.cbcal.com)** | **[Intern](https://jobright.ai/jobs/info/696be7155fc86241853b2a7d?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jan 17 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Commercial Banking Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/696be1fd5fc86241853b25e3?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 17 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696bdd67db26b618950f4c15?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 17 |
+| **[Dailey Precast LLC, A Peckham Family Company](https://www.daileyprecast.com)** | **[Precast Leadership Development Intern (Req #: 1259)](https://jobright.ai/jobs/info/696bd87edb26b618950f4a53?utm_campaign=1050&utm_source=git)** | Shaftsbury, VT | On Site | Jan 17 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Theatrical Distribution Sales Planning and Audit Intern, Summer 2026](https://jobright.ai/jobs/info/69679950639b452fb57d2a27?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Jan 17 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696bc69cdb26b618950f47eb?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 17 |
 | **[Frontera Healthcare](https://fronterahcn.org)** | **[Spring 2025 Bilingual Healthcare Administrative Intern](https://jobright.ai/jobs/info/696bba865fc86241853b02f6?utm_campaign=1050&utm_source=git)** | Fredericksburg, TX | On Site | Jan 17 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - DSPV Operations & Vendor Management](https://jobright.ai/jobs/info/696bb41c350cf4380312f986?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 17 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Intern](https://jobright.ai/jobs/info/696baf6a350cf4380312f8b7?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 17 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696ba8b45fc86241853affdf?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 17 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Business Affairs](https://jobright.ai/jobs/info/696ba8895fc86241853affd5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696ba2a7db26b618950f2914?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 17 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Administrative Intern - Spring 2026 (Mobile, AL)](https://jobright.ai/jobs/info/69609eeda112b402660f49a2?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jan 17 |
 | **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/695a2db5aa05c26e7ab3c241?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Project Manager Intern, CGI (February to May)](https://jobright.ai/jobs/info/696b4820db26b618950ecbb0?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Jan 17 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696b363bdb26b618950ebc5c?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696b0c5bdb26b618950e86e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 16 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[INTERN - Operations Admin](https://jobright.ai/jobs/info/696b1ca05fc86241853a7f4c?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Jan 16 |
 | **[Visionworks of America](https://www.visionworks.com/)** | **[Sr. Operations Planning Analyst - INTERN](https://jobright.ai/jobs/info/696b1478db26b618950e8e80?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Remote | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/696af5d6350cf4380312311d?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Jan 16 |
 | **[Soucy](http://www.soucy-group.com)** | **[Intern - Project Manager - CKX Helmet Development (Summer 2026)](https://jobright.ai/jobs/info/696af5975fc86241853a3ad8?utm_campaign=1050&utm_source=git)** | Drummondville, Quebec, Canada | On Site | Jan 16 |
 | **[Van Drunen Farms](http://vandrunenfarms.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/696af56e5fc86241853a3abe?utm_campaign=1050&utm_source=git)** | Momence, IL | On Site | Jan 16 |
-| **[Cosette Pharmaceuticals, Inc.](https://cosettepharma.com)** | **[Alliance Management / Project Management Intern](https://jobright.ai/jobs/info/696b17dedb26b618950e9fcf?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 16 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Coordinator - ISIT team (Summer 2026)](https://jobright.ai/jobs/info/696b0ffa350cf438031252e9?utm_campaign=1050&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 16 |
-| ↳ | **[Intern, Methods (Summer 2026)](https://jobright.ai/jobs/info/696b11b6350cf4380312548e?utm_campaign=1050&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

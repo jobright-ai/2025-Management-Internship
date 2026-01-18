@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HII](https://hii.com)** | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/696ca92c350cf4380313d024?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 18 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/696ca9075fc86241853bd4c2?utm_campaign=1050&utm_source=git)** | Sussex, WI | Remote | Jan 18 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696ca56edb26b618950ff27d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 18 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696c9cb2db26b618950fe4b5?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Jan 18 |
 | **[Confido Health](https://www.confido.health)** | **[GTM and Events Operation Intern](https://jobright.ai/jobs/info/696c8b2edb26b618950fda3d?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Jan 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Management Trainee Intern - Part-time](https://jobright.ai/jobs/info/696c8a40db26b618950fd947?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Jan 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Middletown and Goshen, NY](https://jobright.ai/jobs/info/696c857ddb26b618950fd303?utm_campaign=1050&utm_source=git)** | Orange County - Middletown, Goshen, Harriman | On Site | Jan 17 |
@@ -140,16 +144,12 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69677967f25a38006695d977?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69681e311703f05405a9bd71?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/6933854ca0dde7020e2eed22?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Quality Administrative Assistant Intern](https://jobright.ai/jobs/info/6916707d286ccf0a15135eeb?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Jan 17 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69168cd1286ccf0a1513744d?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Jan 17 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/691a9ecdbcdbf3560c9d9366?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 17 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Administrative Intern - Spring 2026 (Mobile, AL)](https://jobright.ai/jobs/info/69609eeda112b402660f49a2?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jan 17 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/695a2db5aa05c26e7ab3c241?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Project Manager Intern, CGI (February to May)](https://jobright.ai/jobs/info/696b4820db26b618950ecbb0?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Jan 17 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696c8e4b350cf4380313aaa0?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Construction Project Management Intern](https://jobright.ai/jobs/info/696c8e5e5fc86241853bb18e?utm_campaign=1050&utm_source=git)** | Miramar, FL | Hybrid | Jan 16 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696c8ea1350cf4380313ac20?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 16 |
-| ↳ | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/696c8e7adb26b618950fdc3d?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Jan 16 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696c547c5fc86241853b7870?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Jan 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696b0c5bdb26b618950e86e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 16 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Operations Intern](https://jobright.ai/jobs/info/696c7459350cf43803139b68?utm_campaign=1050&utm_source=git)** | Rockaway, NJ | On Site | Jan 16 |

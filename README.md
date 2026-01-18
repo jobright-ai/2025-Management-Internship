@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caring Professionals, Inc.](http://caringprofessionals.com)** | **[Adminstrator Internships](https://jobright.ai/jobs/info/696d4785db26b618951069f9?utm_campaign=1050&utm_source=git)** | Dell Rapids, SD | On Site | Jan 18 |
+| **[Woke Holdings LLC](https://www.linkedin.com/company/109282621)** | **[Executive Internship](https://jobright.ai/jobs/info/696d3f1f5fc86241853c279a?utm_campaign=1050&utm_source=git)** | Ypsilanti, MI | On Site | Jan 18 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696d3ee4350cf43803142380?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Jan 18 |
 | **[The Classic Center](http://classiccenter.com)** | **[Arena Operations Internship](https://jobright.ai/jobs/info/696d36e8db26b61895104efb?utm_campaign=1050&utm_source=git)** | Athens, Georgia, United States | On Site | Jan 18 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696d2d875fc86241853c20b3?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 18 |
 | **[Beyond the Game Health](https://beyondthegamehealth.com/)** | **[Sports Events & Partnerships Intern (Project Management Focus)](https://jobright.ai/jobs/info/696d1fb45fc86241853c1e5e?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Jan 18 |
@@ -107,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Middletown and Goshen, NY](https://jobright.ai/jobs/info/696c857ddb26b618950fd303?utm_campaign=1050&utm_source=git)** | Orange County - Middletown, Goshen, Harriman | On Site | Jan 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/696c4bd2db26b618950f9f1a?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 17 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (Graduate)](https://jobright.ai/jobs/info/696c167d5fc86241853b4ade?utm_campaign=1050&utm_source=git)** | Livingston, CA | On Site | Jan 17 |
+| **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696d54aedb26b61895106b85?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 17 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69326e48764507023d1ae837?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Jan 17 |
 | **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Readrise Leadership intern](https://jobright.ai/jobs/info/696bf6995fc86241853b47a5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Category Manager – Uniforms FT – 6600](https://jobright.ai/jobs/info/696bec185fc86241853b2c75?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69326d31a0dde7020e2e6e4a?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 17 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Jan 17 |
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Real Estate - Summer 2026](https://jobright.ai/jobs/info/695a251af1f8465b79f0741f?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Atlantic Region)](https://jobright.ai/jobs/info/69597640f1f8465b79efeca0?utm_campaign=1050&utm_source=git)** | Elmsford, NY | On Site | Jan 17 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - Replenishment & Planning - Summer 2026](https://jobright.ai/jobs/info/6959e3b8aa05c26e7ab38505?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Jan 17 |
-| **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/6959ff09aa05c26e7ab3a83a?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

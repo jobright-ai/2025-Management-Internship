@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarios](https://www.clarios.com/)** | **[Logistics Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbea0a93c49825ab10742f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 18 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68ce5cc2846f0b04af67927a?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 18 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68ccf02c5954791a1d7015da?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 18 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Spring 2026 - College Intern - Bonita Springs, FL (Food & Beverage and Housekeeping)](https://jobright.ai/jobs/info/696cc2155fc86241853bdc8b?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Jan 18 |
+| **[Paramount](https://www.paramount.com)** | **[MBA Intern, Paramount Products & Experiences Strategy (Summer 2026 - In Person, LA)](https://jobright.ai/jobs/info/6943171050bbaf765054ee8a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 18 |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Summer Internship Program - Evansville, IN](https://jobright.ai/jobs/info/69510b6a29655e4dd65a297b?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Jan 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6967d45b639b452fb57d6622?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
+| **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern-Supply Chain](https://jobright.ai/jobs/info/696cafb7350cf4380313d497?utm_campaign=1050&utm_source=git)** | Davie, FL | On Site | Jan 18 |
 | **[HII](https://hii.com)** | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/696ca92c350cf4380313d024?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 18 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/696ca9075fc86241853bd4c2?utm_campaign=1050&utm_source=git)** | Sussex, WI | Remote | Jan 18 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696ca56edb26b618950ff27d?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 18 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69677967f25a38006695d977?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69681e311703f05405a9bd71?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 17 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/6933854ca0dde7020e2eed22?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Quality Administrative Assistant Intern](https://jobright.ai/jobs/info/6916707d286ccf0a15135eeb?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Jan 17 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69168cd1286ccf0a1513744d?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Jan 17 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/691a9ecdbcdbf3560c9d9366?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 17 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Administrative Intern - Spring 2026 (Mobile, AL)](https://jobright.ai/jobs/info/69609eeda112b402660f49a2?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jan 17 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Project Manager Intern, CGI (February to May)](https://jobright.ai/jobs/info/696b4820db26b618950ecbb0?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Jan 17 |
-| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696c547c5fc86241853b7870?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Jan 16 |
-| **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696b0c5bdb26b618950e86e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 16 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Operations Intern](https://jobright.ai/jobs/info/696c7459350cf43803139b68?utm_campaign=1050&utm_source=git)** | Rockaway, NJ | On Site | Jan 16 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[INTERN - Operations Admin](https://jobright.ai/jobs/info/696b1ca05fc86241853a7f4c?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Jan 16 |
-| **[Visionworks of America](https://www.visionworks.com/)** | **[Sr. Operations Planning Analyst - INTERN](https://jobright.ai/jobs/info/696b1478db26b618950e8e80?utm_campaign=1050&utm_source=git)** | San Antonio, TX | Remote | Jan 16 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Summer 2026 / Rooms](https://jobright.ai/jobs/info/696b11425fc86241853a5e5e?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/696b1014350cf43803125300?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Jan 16 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/695a2db5aa05c26e7ab3c241?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

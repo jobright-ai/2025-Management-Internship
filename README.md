@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (Graduate)](https://jobright.ai/jobs/info/696c167d5fc86241853b4ade?utm_campaign=1050&utm_source=git)** | Livingston, CA | On Site | Jan 17 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69326e48764507023d1ae837?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Jan 17 |
 | **[Readrise Education](https://www.linkedin.com/company/104867811)** | **[Readrise Leadership intern](https://jobright.ai/jobs/info/696bf6995fc86241853b47a5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Email Business Operations Specialist Internship](https://jobright.ai/jobs/info/696c0d08db26b618950f74be?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Jan 17 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Category Manager – Uniforms FT – 6600](https://jobright.ai/jobs/info/696bec185fc86241853b2c75?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 17 |
 | **[Wind Energy Transmission Texas, LLC](http://www.windenergyoftexas.com)** | **[Summer 2026 Operations Intern](https://jobright.ai/jobs/info/696bebf4350cf4380313242f?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[Commercial Bank of California](https://www.cbcal.com)** | **[Intern](https://jobright.ai/jobs/info/696be7155fc86241853b2a7d?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jan 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PGA TOUR](http://www.pgatour.com)** | **[Intern – Event Operations, Cadillac Championship](https://jobright.ai/jobs/info/696afffcdb26b618950e75c9?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jan 16 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/696afef1db26b618950e7456?utm_campaign=1050&utm_source=git)** | St Ann, MO | On Site | Jan 16 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696afe2ddb26b618950e735d?utm_campaign=1050&utm_source=git)** | Albany, GA | On Site | Jan 16 |
-| **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Wholesale Intern](https://jobright.ai/jobs/info/696afe05db26b618950e732b?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Jan 16 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696af9575fc86241853a3f5d?utm_campaign=1050&utm_source=git)** | Thibodaux, LA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

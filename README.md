@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Classic Center](http://classiccenter.com)** | **[Arena Operations Internship](https://jobright.ai/jobs/info/696d36e8db26b61895104efb?utm_campaign=1050&utm_source=git)** | Athens, Georgia, United States | On Site | Jan 18 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696d2d875fc86241853c20b3?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 18 |
+| **[Beyond the Game Health](https://beyondthegamehealth.com/)** | **[Sports Events & Partnerships Intern (Project Management Focus)](https://jobright.ai/jobs/info/696d1fb45fc86241853c1e5e?utm_campaign=1050&utm_source=git)** | California, United States | Remote | Jan 18 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Dayton, NJ (Summer 2026)](https://jobright.ai/jobs/info/696d1cd75fc86241853c1e31?utm_campaign=1050&utm_source=git)** | South Brunswick, NJ | On Site | Jan 18 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696d0cb9db26b618951031ca?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Jan 18 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/696d04f9db26b61895102c4c?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Jan 18 |
@@ -67,12 +70,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae15a09808a6103e51ea7?utm_campaign=1050&utm_source=git)** | Broadway, VA | On Site | Jan 18 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Jan 18 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/696cddb45fc86241853bfa5e?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jan 18 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/691697dd286ccf0a15137ba7?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Jan 18 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf4fa8dbd9fb154ede645f?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern Plano](https://jobright.ai/jobs/info/6933bb0ef131d96e48466830?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jan 18 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cea489dbd9fb154ede19c7?utm_campaign=1050&utm_source=git)** | Carrollton, GA | On Site | Jan 18 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688adeac9f961617fe21ebf7?utm_campaign=1050&utm_source=git)** | Nacogdoches, TX | On Site | Jan 18 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Jan 18 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/695ca054f1f8465b79f2d8dc?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Jan 18 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ce6ba2846f0b04af6799fa?utm_campaign=1050&utm_source=git)** | Lufkin, TX | On Site | Jan 18 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Supply Chain](https://jobright.ai/jobs/info/6966f34e639b452fb57c7fbf?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Jan 18 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Jan 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rural King](https://www.ruralking.com)** | **[Internship - Replenishment & Planning - Summer 2026](https://jobright.ai/jobs/info/6959e3b8aa05c26e7ab38505?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Jan 17 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Quanta Services Internship(s) - All Degrees / Summer 2026](https://jobright.ai/jobs/info/6959ff09aa05c26e7ab3a83a?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 17 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69438f4b50bbaf765055959a?utm_campaign=1050&utm_source=git)** | Mount Pleasant, TX | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6967f7e81703f05405a99511?utm_campaign=1050&utm_source=git)** | Research Park, CA | On Site | Jan 17 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

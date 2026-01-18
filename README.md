@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Corporate Strategy MBA Intern - Summer 2026](https://jobright.ai/jobs/info/696c58645fc86241853b7a45?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 17 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/696c4bd2db26b618950f9f1a?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 17 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (Graduate)](https://jobright.ai/jobs/info/696c167d5fc86241853b4ade?utm_campaign=1050&utm_source=git)** | Livingston, CA | On Site | Jan 17 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69326e48764507023d1ae837?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Jan 17 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Strategic Finance & Business Operations](https://jobright.ai/jobs/info/69336aad764507023d1b56b3?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Jan 17 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69316e0ffa28370be26b9d3c?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 17 |
 | ↳ | **[INTEGRATED MASTER SCHEDULER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69317543fa28370be26baf59?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 17 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Nashville)](https://jobright.ai/jobs/info/696018b6a112b402660ecbeb?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jan 17 |
 | **[Cemex US](http://www.cemex.com/)** | **[FINANCE/STRATEGIC PLANNING PROFESSIONAL INTERNSHIP DEVELOPMENT](https://jobright.ai/jobs/info/691ae18445fb6f5ead8ae84d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Event and Content Operations Project Intern (TikTok-Product-Gaming) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/694f19fcce13cd105657487d?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[CalPortland](https://www.calportland.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68dc87cfddc10244dd6763ea?utm_campaign=1050&utm_source=git)** | Scappoose, OR | On Site | Jan 17 |
@@ -136,11 +136,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69677967f25a38006695d977?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69681e311703f05405a9bd71?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 17 |
 | **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/6933854ca0dde7020e2eed22?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Quality Administrative Assistant Intern](https://jobright.ai/jobs/info/6916707d286ccf0a15135eeb?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Jan 17 |
 | **[ITT Inc.](http://www.itt.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69168cd1286ccf0a1513744d?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Jan 17 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[BUSINESS PLANNING ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/691a9ecdbcdbf3560c9d9366?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 17 |
 | **[Carr, Riggs & Ingram](https://www.cricpa.com/)** | **[Administrative Intern - Spring 2026 (Mobile, AL)](https://jobright.ai/jobs/info/69609eeda112b402660f49a2?utm_campaign=1050&utm_source=git)** | Mobile, AL | On Site | Jan 17 |
-| **[Hilmar](https://www.hilmarcheese.com)** | **[Intern - Operations](https://jobright.ai/jobs/info/695a2db5aa05c26e7ab3c241?utm_campaign=1050&utm_source=git)** | Hilmar, CA | On Site | Jan 17 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Project Manager Intern, CGI (February to May)](https://jobright.ai/jobs/info/696b4820db26b618950ecbb0?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Jan 17 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696c547c5fc86241853b7870?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Jan 16 |
 | **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696b0c5bdb26b618950e86e1?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 16 |

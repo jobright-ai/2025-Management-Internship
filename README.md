@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Costuming Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc4d2350cf43803149aa0?utm_campaign=1050&utm_source=git)** | Orlando, FL, USA | On Site | Jan 18 |
+| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696dd70bdb26b6189510ce2e?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 18 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Entertainment Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc6d45fc86241853c9d98?utm_campaign=1050&utm_source=git)** | Kissimmee, FL, USA | On Site | Jan 18 |
+| ↳ | **[Walt Disney World Costuming Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc4d2350cf43803149aa0?utm_campaign=1050&utm_source=git)** | Orlando, FL, USA | On Site | Jan 18 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/696db2d9db26b6189510a124?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 18 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Nonprofit Leadership & Management Intern](https://jobright.ai/jobs/info/696db0835fc86241853c7697?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 18 |
 | **[MasTec Advanced Technologies](http://www.jobsatmastec.com)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696dac6f5fc86241853c7606?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Jan 18 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Assistant Category Manager – Uniforms FT – 6600](https://jobright.ai/jobs/info/696bec185fc86241853b2c75?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 17 |
 | **[Commercial Bank of California](https://www.cbcal.com)** | **[Intern](https://jobright.ai/jobs/info/696be7155fc86241853b2a7d?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Jan 17 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Commercial Banking Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/696be1fd5fc86241853b25e3?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 17 |
-| **[Dailey Precast LLC, A Peckham Family Company](https://www.daileyprecast.com)** | **[Precast Leadership Development Intern (Req #: 1259)](https://jobright.ai/jobs/info/696bd87edb26b618950f4a53?utm_campaign=1050&utm_source=git)** | Shaftsbury, VT | On Site | Jan 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Theatrical Distribution Sales Planning and Audit Intern, Summer 2026](https://jobright.ai/jobs/info/69679950639b452fb57d2a27?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Jan 17 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696bc69cdb26b618950f47eb?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 17 |
 | **[Frontera Healthcare](https://fronterahcn.org)** | **[Spring 2025 Bilingual Healthcare Administrative Intern](https://jobright.ai/jobs/info/696bba865fc86241853b02f6?utm_campaign=1050&utm_source=git)** | Fredericksburg, TX | On Site | Jan 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693354faf131d96e48462101?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Supply Chain Intern - Starting in January](https://jobright.ai/jobs/info/693737edaabec14a727c52ec?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 17 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69326d31a0dde7020e2e6e4a?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 17 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

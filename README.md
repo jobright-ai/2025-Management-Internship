@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Costuming Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696df799db26b6189510eecb?utm_campaign=1050&utm_source=git)** | Anaheim, CA, USA | On Site | Jan 19 |
+| **[HII](https://hii.com)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/696df7625fc86241853cb74f?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 19 |
+| ↳ | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/696df6895fc86241853cb681?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 19 |
+| ↳ | **[PROCESS IMPROVEMENT ANALYST SKILLBRDIGE INTERN](https://jobright.ai/jobs/info/696df408db26b6189510e646?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 19 |
+| ↳ | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/696df252db26b6189510e1fd?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 19 |
+| ↳ | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/696df241db26b6189510e1ae?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 19 |
+| **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Airport Project Management Intern](https://jobright.ai/jobs/info/696de5b5db26b6189510d619?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 19 |
+| ↳ | **[Facility Project Management Intern](https://jobright.ai/jobs/info/696de50b5fc86241853cae34?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 19 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696dd70bdb26b6189510ce2e?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Entertainment Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc6d45fc86241853c9d98?utm_campaign=1050&utm_source=git)** | Kissimmee, FL, USA | On Site | Jan 18 |
 | ↳ | **[Walt Disney World Costuming Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc4d2350cf43803149aa0?utm_campaign=1050&utm_source=git)** | Orlando, FL, USA | On Site | Jan 18 |
@@ -114,6 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Confido Health](https://www.confido.health)** | **[GTM and Events Operation Intern](https://jobright.ai/jobs/info/696c8b2edb26b618950fda3d?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Jan 17 |
 | **[Hajoca Corporation](https://www.hajoca.com)** | **[Management Trainee Intern - Part-time](https://jobright.ai/jobs/info/696c8a40db26b618950fd947?utm_campaign=1050&utm_source=git)** | Ogden, UT | On Site | Jan 17 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Middletown and Goshen, NY](https://jobright.ai/jobs/info/696c857ddb26b618950fd303?utm_campaign=1050&utm_source=git)** | Orange County - Middletown, Goshen, Harriman | On Site | Jan 17 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6967ed5cf25a380066964482?utm_campaign=1050&utm_source=git)** | Poughkeepsie, AR | Hybrid | Jan 17 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (Graduate)](https://jobright.ai/jobs/info/696c167d5fc86241853b4ade?utm_campaign=1050&utm_source=git)** | Livingston, CA | On Site | Jan 17 |
 | **[Nutanix](http://www.nutanix.com)** | **[2026 MBA Intern - Corporate Strategy](https://jobright.ai/jobs/info/696d54aedb26b61895106b85?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 17 |
 | **[Drake & Associates, LLC](https://drakeandassociates.net/)** | **[Client Operations Intern](https://jobright.ai/jobs/info/69326e48764507023d1ae837?utm_campaign=1050&utm_source=git)** | Greater Milwaukee | On Site | Jan 17 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69676ad1639b452fb57d0bb2?utm_campaign=1050&utm_source=git)** | Sandy Springs, GA | Hybrid | Jan 17 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69392e2456b68f3dc4e6a519?utm_campaign=1050&utm_source=git)** | Moorefield, WV | On Site | Jan 17 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Jan 17 |
-| **[Enterprise](https://www.enterprise.com)** | **[Business Administration Internship - Summer 2026](https://jobright.ai/jobs/info/69339a02764507023d1b73dd?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Jan 17 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - January 2026](https://jobright.ai/jobs/info/69334e09764507023d1b3eff?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6933725ef131d96e48463732?utm_campaign=1050&utm_source=git)** | Lowell, MA | Hybrid | Jan 17 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae3d609808a6103e51f6a?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Jan 17 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Jan 17 |
-| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ae21609808a6103e51eeb?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693354faf131d96e48462101?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Jan 17 |
-| **[Landscape Forms](https://www.landscapeforms.com)** | **[Supply Chain Intern - Starting in January](https://jobright.ai/jobs/info/693737edaabec14a727c52ec?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 17 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69326d31a0dde7020e2e6e4a?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

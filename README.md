@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Costuming Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc4d2350cf43803149aa0?utm_campaign=1050&utm_source=git)** | Orlando, FL, USA | On Site | Jan 18 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/696db2d9db26b6189510a124?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 18 |
+| **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Nonprofit Leadership & Management Intern](https://jobright.ai/jobs/info/696db0835fc86241853c7697?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 18 |
+| **[MasTec Advanced Technologies](http://www.jobsatmastec.com)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696dac6f5fc86241853c7606?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Jan 18 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696da1ac5fc86241853c70a2?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 18 |
 | **[HII](https://hii.com)** | **[IT PMO Intern](https://jobright.ai/jobs/info/696d9e625fc86241853c6ebc?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jan 18 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696d9298db26b6189510908a?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 18 |
@@ -94,7 +98,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6938fee5aabec14a727dee4f?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jan 18 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Project Management (Technology Accelerators)](https://jobright.ai/jobs/info/6918883bbcdbf3560c9d28bd?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 18 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship - Culture & Integration (Year-Round)](https://jobright.ai/jobs/info/6917748a3ea85638ae1cabff?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 18 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/695e2f3fd0ad3651c294863e?utm_campaign=1050&utm_source=git)** | Memphis, TN | Hybrid | Jan 18 |
 | **[Clarios](https://www.clarios.com/)** | **[Logistics Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbea0a93c49825ab10742f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 18 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68ce5cc2846f0b04af67927a?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 18 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/68ccf02c5954791a1d7015da?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 18 |
@@ -127,7 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/696b9fe3db26b618950f2783?utm_campaign=1050&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 17 |
 | **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[MHA Healthcare Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/696b9f305fc86241853afc01?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jan 17 |
 | **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Summer 2026 Internship - (Predicition Modeling/Data Analytics)](https://jobright.ai/jobs/info/696b9bb0db26b618950f24d8?utm_campaign=1050&utm_source=git)** | Grapevine, TX, USA | On Site | Jan 17 |
-| **[CN](http://www.cn.ca)** | **[Intern, Fleet Management- EN](https://jobright.ai/jobs/info/695b5f849f1b381eb273c2b0?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 17 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696bbd24350cf438031313fd?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 17 |
 | ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696bbccd350cf43803130e96?utm_campaign=1050&utm_source=git)** | Lewisville, TX | On Site | Jan 17 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/694f5598a2668b7f54528439?utm_campaign=1050&utm_source=git)** | South Sioux City, NE | On Site | Jan 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Supply Chain Intern - Starting in January](https://jobright.ai/jobs/info/693737edaabec14a727c52ec?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 17 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69326d31a0dde7020e2e6e4a?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 17 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Jan 17 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - Real Estate - Summer 2026](https://jobright.ai/jobs/info/695a251af1f8465b79f0741f?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 17 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Atlantic Region)](https://jobright.ai/jobs/info/69597640f1f8465b79efeca0?utm_campaign=1050&utm_source=git)** | Elmsford, NY | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

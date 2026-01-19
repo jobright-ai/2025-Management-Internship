@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/695624e9f1f8465b79ed1775?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Jan 19 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cff7150bbaf7650503051?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 19 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
+| ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
+| **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/694e3c14f5bef51c96eb9b45?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cf6eeaa598a08c3edca26?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 19 |
+| **[Sonoco](https://www.sonoco.com/)** | **[Intern- Supply Management RPC](https://jobright.ai/jobs/info/68a87bf1758f2e4ac3ff2c18?utm_campaign=1050&utm_source=git)** | Hartsville, SC | On Site | Jan 19 |
+| **[Oatey Company](https://www.oatey.com//)** | **[Global Sourcing Intern](https://jobright.ai/jobs/info/68c56620db52c07d28842822?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Costuming Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696df799db26b6189510eecb?utm_campaign=1050&utm_source=git)** | Anaheim, CA, USA | On Site | Jan 19 |
 | **[HII](https://hii.com)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/696df7625fc86241853cb74f?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 19 |
 | ↳ | **[PROJECT MGMT ANALYST SKILLBRIDGE INTERN (IPPC](https://jobright.ai/jobs/info/696df6895fc86241853cb681?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 19 |
@@ -75,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[HII](https://hii.com)** | **[IT PMO Intern](https://jobright.ai/jobs/info/696d9e625fc86241853c6ebc?utm_campaign=1050&utm_source=git)** | Fairfax, VA | On Site | Jan 18 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696d9298db26b6189510908a?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 18 |
 | **[V2X Inc](https://gov2x.com)** | **[2026 Program Operations Intern](https://jobright.ai/jobs/info/6945e9d163141d1884558598?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 18 |
+| **[Chesterfield County](https://www.chesterfield.gov)** | **[2026 Summer Intern - Sports, Visitation and Entertainment (Sports Tourism)](https://jobright.ai/jobs/info/696e00255fc86241853cd539?utm_campaign=1050&utm_source=git)** | Chesterfield, VA | On Site | Jan 18 |
 | **[Chicago Sport and Social Club](https://chicagosocial.com)** | **[SPORT OPERATIONS & MANAGEMENT INTERNSHIP](https://jobright.ai/jobs/info/696d783f5fc86241853c4644?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 18 |
 | **[Caring Professionals, Inc.](http://caringprofessionals.com)** | **[Adminstrator Internships](https://jobright.ai/jobs/info/696d4785db26b618951069f9?utm_campaign=1050&utm_source=git)** | Dell Rapids, SD | On Site | Jan 18 |
 | **[Woke Holdings LLC](https://www.linkedin.com/company/109282621)** | **[Executive Internship](https://jobright.ai/jobs/info/696d3f1f5fc86241853c279a?utm_campaign=1050&utm_source=git)** | Ypsilanti, MI | On Site | Jan 18 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Intern - Supply Chain - Greenville, SC](https://jobright.ai/jobs/info/6968a684639b452fb57e6c77?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Jan 17 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Jan 17 |
-| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Jan 17 |
-| **[Gast](http://www.gastmfg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69165dd39c388539cbdfa5df?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Jan 17 |
-| **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Jan 17 |
-| **[Airtech Vacuum](http://www.airtechusa.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69163e6f9c388539cbdf9090?utm_campaign=1050&utm_source=git)** | Linthicum Heights, MD | On Site | Jan 17 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Jan 17 |
-| ↳ | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/691622976f36db06ef0532d3?utm_campaign=1050&utm_source=git)** | Londonderry, NH | On Site | Jan 17 |
-| **[Pella Corporation](http://www.pella.com)** | **[Department Manager Intern (Gettysburg, PA) - Summer 2026](https://jobright.ai/jobs/info/693205244c474121999f5d67?utm_campaign=1050&utm_source=git)** | Gettysburg, PA | On Site | Jan 17 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69676ad1639b452fb57d0bb2?utm_campaign=1050&utm_source=git)** | Sandy Springs, GA | Hybrid | Jan 17 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69392e2456b68f3dc4e6a519?utm_campaign=1050&utm_source=git)** | Moorefield, WV | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

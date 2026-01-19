@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Sport and Social Club](https://chicagosocial.com)** | **[SPORT OPERATIONS & MANAGEMENT INTERNSHIP](https://jobright.ai/jobs/info/696d783f5fc86241853c4644?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 18 |
 | **[Caring Professionals, Inc.](http://caringprofessionals.com)** | **[Adminstrator Internships](https://jobright.ai/jobs/info/696d4785db26b618951069f9?utm_campaign=1050&utm_source=git)** | Dell Rapids, SD | On Site | Jan 18 |
 | **[Woke Holdings LLC](https://www.linkedin.com/company/109282621)** | **[Executive Internship](https://jobright.ai/jobs/info/696d3f1f5fc86241853c279a?utm_campaign=1050&utm_source=git)** | Ypsilanti, MI | On Site | Jan 18 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/696d3ee4350cf43803142380?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Jan 18 |
 | **[The Classic Center](http://classiccenter.com)** | **[Arena Operations Internship](https://jobright.ai/jobs/info/696d36e8db26b61895104efb?utm_campaign=1050&utm_source=git)** | Athens, Georgia, United States | On Site | Jan 18 |
-| **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern -Supply Chain Management - Robinson Fresh](https://jobright.ai/jobs/info/696d2d875fc86241853c20b3?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 18 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Dayton, NJ (Summer 2026)](https://jobright.ai/jobs/info/696d1cd75fc86241853c1e31?utm_campaign=1050&utm_source=git)** | South Brunswick, NJ | On Site | Jan 18 |
 | **[Lakeside Foods, Inc.](https://www.lakesidefoods.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696d0cb9db26b618951031ca?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Jan 18 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Clinical Supply Project Management Intern](https://jobright.ai/jobs/info/696d04f9db26b61895102c4c?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Jan 18 |

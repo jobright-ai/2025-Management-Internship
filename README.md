@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern-Strategic Sourcing/Supply Chain-Summer 2026](https://jobright.ai/jobs/info/696ec28cdb26b6189511d4b9?utm_campaign=1050&utm_source=git)** | TN - Fayetteville | On Site | Jan 19 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Project Management Organization](https://jobright.ai/jobs/info/696ec26e5fc86241853daf32?utm_campaign=1050&utm_source=git)** | Tucson | On Site | Jan 19 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Supply Chain (SPECIFIC STATES ONLY - Please read description before applying)](https://jobright.ai/jobs/info/696ebec1db26b6189511d1e5?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | Jan 19 |
+| **[Concora Credit](https://about.concoracredit.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/696ebe74db26b6189511d0b3?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Jan 19 |
+| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Procurement Intern - Remote](https://jobright.ai/jobs/info/696ebd58db26b6189511ccd0?utm_campaign=1050&utm_source=git)** | US-TX-REMOTE | Remote | Jan 19 |
+| **[KELLER](http://www.keller.co.uk)** | **[Intern](https://jobright.ai/jobs/info/6960753d7ebc25398eb66b49?utm_campaign=1050&utm_source=git)** | Smyrna, GA | On Site | Jan 19 |
+| **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Student Operations Manager (Paid Internship)](https://jobright.ai/jobs/info/696ea9c7db26b6189511a0de?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 19 |
+| **[International SOS](http://www.internationalsos.com)** | **[International Operations Specialist](https://jobright.ai/jobs/info/696ea7e0db26b61895119c98?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | On Site | Jan 19 |
 | **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Student Operations Manager - Paid Internship](https://jobright.ai/jobs/info/696ea1615fc86241853d6a4f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696ea08adb26b61895118caa?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jan 19 |
 | **[Stratasys](http://www.stratasys.com)** | **[Intern - Logistics & Fulfillment](https://jobright.ai/jobs/info/696e9ddfdb26b6189511870d?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Jan 19 |
@@ -65,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Physical Therapy at St. Luke's](https://www.stlukesphysicaltherapy.com)** | **[Healthcare Administration Intern, Sterile Processing (Per Diem)](https://jobright.ai/jobs/info/696e99d3db26b61895117ec0?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | Hybrid | Jan 19 |
 | **[Textron](http://textron.com)** | **[2026 Textron Leadership Development Internship Program – Information Technology](https://jobright.ai/jobs/info/696aef08db26b618950e5bfa?utm_campaign=1050&utm_source=git)** | New Orleans, LA | On Site | Jan 19 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Operations Leadership Co-Op (Jun-Dec 2026)](https://jobright.ai/jobs/info/696e92b1db26b61895116ffd?utm_campaign=1050&utm_source=git)** | Neenah, WI | On Site | Jan 19 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management (Summer 2026)](https://jobright.ai/jobs/info/696ebc9ddb26b6189511cad7?utm_campaign=1050&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 19 |
+| ↳ | **[Intern, Quality Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/696eb8ec350cf4380315989b?utm_campaign=1050&utm_source=git)** | Mississauga, ON, CA, L5S 1W1 | Hybrid | Jan 19 |
 | **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/696e8d995fc86241853d4604?utm_campaign=1050&utm_source=git)** | Jacksonville, FL 32204 | On Site | Jan 19 |
 | **[Texas ABA Centers](https://www.linkedin.com/company/98057290)** | **[Temple Entrepreneurial Intern](https://jobright.ai/jobs/info/696e8c34350cf43803154251?utm_campaign=1050&utm_source=git)** | Wayne, Pennsylvania, United States | On Site | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/696e8aaddb26b618951167b2?utm_campaign=1050&utm_source=git)** | US-OH-Akron | On Site | Jan 19 |
@@ -107,7 +117,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ae3b209808a6103e51f60?utm_campaign=1050&utm_source=git)** | Douglas, GA | On Site | Jan 19 |
 | **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/68cd2382e23def7af55b605a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 19 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Jan 19 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Central Procurement Intern](https://jobright.ai/jobs/info/696e46cf350cf43803150996?utm_campaign=1050&utm_source=git)** | Clackamas, OR | On Site | Jan 19 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/695624e9f1f8465b79ed1775?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Jan 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cff7150bbaf7650503051?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 19 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Jan 18 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[FIELD MANAGER CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/696cddb45fc86241853bfa5e?utm_campaign=1050&utm_source=git)** | Greater Indianapolis | On Site | Jan 18 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf4fa8dbd9fb154ede645f?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Jan 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern Plano](https://jobright.ai/jobs/info/6933bb0ef131d96e48466830?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jan 18 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cea489dbd9fb154ede19c7?utm_campaign=1050&utm_source=git)** | Carrollton, GA | On Site | Jan 18 |
-| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688adeac9f961617fe21ebf7?utm_campaign=1050&utm_source=git)** | Nacogdoches, TX | On Site | Jan 18 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Jan 18 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/695ca054f1f8465b79f2d8dc?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Jan 18 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ce6ba2846f0b04af6799fa?utm_campaign=1050&utm_source=git)** | Lufkin, TX | On Site | Jan 18 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Supply Chain](https://jobright.ai/jobs/info/6966f34e639b452fb57c7fbf?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Jan 18 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Jan 18 |
-| ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ae0ea9f961617fe21ecd7?utm_campaign=1050&utm_source=git)** | Worthington, MN | On Site | Jan 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

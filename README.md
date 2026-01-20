@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nightwing](nightwing.com)** | **[Logistics Intern - 2026](https://jobright.ai/jobs/info/696f32909c3c52633455e33c?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Jan 19 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Coordinator - ISIT team (Summer 2026)](https://jobright.ai/jobs/info/696f1cf79c3c52633455db65?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 19 |
+| ↳ | **[Intern, Methods (Summer 2026)](https://jobright.ai/jobs/info/696f1ca90f4e0f657ea3853e?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Show Technical Production Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f15b082817106e976463d?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 19 |
 | **[Thaddeus Resource Center](http://www.thaddeus.org)** | **[Non-Profit Leadership and Management Intern](https://jobright.ai/jobs/info/696f155c9c3c52633455da41?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Clerical Undergraduate Year Round - Biological, Earth Systems, Radiation and Signature Science and Technology Center - Onsite](https://jobright.ai/jobs/info/696f09ab82817106e9763dec?utm_campaign=1050&utm_source=git)** | Livermore, CA | On Site | Jan 19 |
@@ -99,11 +102,9 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Project Management Organization](https://jobright.ai/jobs/info/696ec26e5fc86241853daf32?utm_campaign=1050&utm_source=git)** | Tucson | On Site | Jan 19 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Supply Chain (SPECIFIC STATES ONLY - Please read description before applying)](https://jobright.ai/jobs/info/696ebec1db26b6189511d1e5?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/696ebe74db26b6189511d0b3?utm_campaign=1050&utm_source=git)** | Akron, OH | On Site | Jan 19 |
-| **[RTX](http://www.raytheon.com)** | **[2026 Intern - Procurement Intern - Remote](https://jobright.ai/jobs/info/696ebd58db26b6189511ccd0?utm_campaign=1050&utm_source=git)** | US-TX-REMOTE | Remote | Jan 19 |
 | **[KELLER](http://www.keller.co.uk)** | **[Intern](https://jobright.ai/jobs/info/6960753d7ebc25398eb66b49?utm_campaign=1050&utm_source=git)** | Smyrna, GA | On Site | Jan 19 |
 | **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Student Operations Manager (Paid Internship)](https://jobright.ai/jobs/info/696ea9c7db26b6189511a0de?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 19 |
 | **[International SOS](http://www.internationalsos.com)** | **[International Operations Specialist](https://jobright.ai/jobs/info/696ea7e0db26b61895119c98?utm_campaign=1050&utm_source=git)** | Blue Bell, PA | On Site | Jan 19 |
-| **[Storage Scholars LLC](https://www.storagescholars.com)** | **[Student Operations Manager - Paid Internship](https://jobright.ai/jobs/info/696ea1615fc86241853d6a4f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696ea08adb26b61895118caa?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jan 19 |
 | **[Stratasys](http://www.stratasys.com)** | **[Intern - Logistics & Fulfillment](https://jobright.ai/jobs/info/696e9ddfdb26b6189511870d?utm_campaign=1050&utm_source=git)** | Plymouth, MN | On Site | Jan 19 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Services Strategy MBA Internship (Summer 2026)](https://jobright.ai/jobs/info/696e9c8fdb26b61895118442?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Jan 19 |
@@ -138,10 +139,8 @@ For a complete list, click the following sortable link below:
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Operations Analyst Internship- Distribution](https://jobright.ai/jobs/info/696e42eddb26b6189511309a?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Jan 19 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/696e40d3db26b61895112fa2?utm_campaign=1050&utm_source=git)** | Salina, KS | On Site | Jan 19 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Warehouse Operations Internship - Spring & Summer 2026](https://jobright.ai/jobs/info/696e4039db26b61895112f72?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Jan 19 |
-| **[TD](https://www.td.com)** | **[TDI Innovation Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952427df1f8465b79e9972e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Field Project Management Intern](https://jobright.ai/jobs/info/6965af105ad3a93f82311181?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Jan 19 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/696e3fb3db26b61895112f43?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Jan 19 |
-| **[TD](https://www.td.com)** | **[Strategic Insights and Business Optimization Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69524350935649778e200efa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Norwood / Dedham area](https://jobright.ai/jobs/info/68dff1661852e62f007e5e00?utm_campaign=1050&utm_source=git)** | Norwood, MA | On Site | Jan 19 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Navarre, OH / Summer 2026](https://jobright.ai/jobs/info/68cc176d16d00d2beeb199d3?utm_campaign=1050&utm_source=git)** | Navarre, OH | On Site | Jan 19 |
 | ↳ | **[DC Ops Intern / Macon, GA / Summer 2026](https://jobright.ai/jobs/info/68a903406acf96396f724221?utm_campaign=1050&utm_source=git)** | Macon, GA | On Site | Jan 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cff7150bbaf7650503051?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 19 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
 | ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
+| **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/694e3c14f5bef51c96eb9b45?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

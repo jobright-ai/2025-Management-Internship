@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keystone Custom Homes](https://www.keystonecustomhome.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/695fb94b7ebc25398eb59e93?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Jan 20 |
+| **[TTM Technologies](https://www.ttm.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/695f3181a112b402660df6cf?utm_campaign=1050&utm_source=git)** | Stafford Springs, CT | On Site | Jan 20 |
+| **[EnerMech](https://www.enermech.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69682e15639b452fb57dc55b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/696f48e082817106e9766d5a?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Jan 20 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696f3a9082817106e976538e?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jan 20 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/696f39070f4e0f657ea39197?utm_campaign=1050&utm_source=git)** | Lake Charles, LA | On Site | Jan 20 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/696ef3cc0f4e0f657ea355e6?utm_campaign=1050&utm_source=git)** | Oshkosh, WI | On Site | Jan 19 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/696eefea350cf4380315e339?utm_campaign=1050&utm_source=git)** | Sedalia, MO | On Site | Jan 19 |
 | **[Emmes](https://www.emmes.com/)** | **[Clinical Operations Intern](https://jobright.ai/jobs/info/696eefa4350cf4380315e31d?utm_campaign=1050&utm_source=git)** | Rockville, MD | Remote | Jan 19 |
-| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Operations Associate Internship](https://jobright.ai/jobs/info/696eef6d5fc86241853de248?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Jan 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696eef085fc86241853de225?utm_campaign=1050&utm_source=git)** | Glendale, AZ | On Site | Jan 19 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/696eee80db26b61895120899?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Jan 19 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696eeb835fc86241853de08d?utm_campaign=1050&utm_source=git)** | Cullman, AL | On Site | Jan 19 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Concora Credit](https://about.concoracredit.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/696ec8e55fc86241853db246?utm_campaign=1050&utm_source=git)** | Beaverton, OR | On Site | Jan 19 |
 | **[Ontario Transit Group - Ontario Line - Southern Civil, Stations & Tunnel](https://www.linkedin.com/company/90960341)** | **[Project Coordinator Co-op](https://jobright.ai/jobs/info/696ec8415fc86241853db1f5?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 19 |
 | **[W. W. Gay Mechanical Contractor, Inc.](https://www.wwgmc.com/)** | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/696ec54e350cf4380315b007?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Jan 19 |
-| ↳ | **[Assistant Project Manager Intern](https://jobright.ai/jobs/info/696ec3d7350cf4380315af05?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Jan 19 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern-Strategic Sourcing/Supply Chain-Summer 2026](https://jobright.ai/jobs/info/696ec28cdb26b6189511d4b9?utm_campaign=1050&utm_source=git)** | TN - Fayetteville | On Site | Jan 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Project Management Organization](https://jobright.ai/jobs/info/696ec26e5fc86241853daf32?utm_campaign=1050&utm_source=git)** | Tucson | On Site | Jan 19 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Supply Chain (SPECIFIC STATES ONLY - Please read description before applying)](https://jobright.ai/jobs/info/696ebec1db26b6189511d1e5?utm_campaign=1050&utm_source=git)** | Purchase, NY | On Site | Jan 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Services](http://www.republicservices.com)** | **[General Manager MBA Internship - Summer 2026](https://jobright.ai/jobs/info/68cd2382e23def7af55b605a?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 19 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Jan 19 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/695624e9f1f8465b79ed1775?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Jan 19 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

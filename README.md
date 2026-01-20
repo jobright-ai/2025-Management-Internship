@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/696f48e082817106e9766d5a?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Jan 20 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/696f3a9082817106e976538e?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jan 20 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/696f39070f4e0f657ea39197?utm_campaign=1050&utm_source=git)** | Lake Charles, LA | On Site | Jan 20 |
+| **[Oerlikon](http://www.oerlikon.com/)** | **[Procurement Sourcing Intern](https://jobright.ai/jobs/info/696f388e0f4e0f657ea39177?utm_campaign=1050&utm_source=git)** | Westbury, NY | On Site | Jan 20 |
 | **[Nightwing](nightwing.com)** | **[Logistics Intern - 2026](https://jobright.ai/jobs/info/696f32909c3c52633455e33c?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Jan 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Coordinator - ISIT team (Summer 2026)](https://jobright.ai/jobs/info/696f1cf79c3c52633455db65?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 19 |
 | ↳ | **[Intern, Methods (Summer 2026)](https://jobright.ai/jobs/info/696f1ca90f4e0f657ea3853e?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern - Lighting](https://jobright.ai/jobs/info/68ce7d70fb49c96ca6ea0de6?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Jan 19 |
 | **[State of Missouri](http://mo.gov)** | **[Administrative Intern (Communications) - Central Office](https://jobright.ai/jobs/info/695624e9f1f8465b79ed1775?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Jan 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Controls Intern Summer 2026](https://jobright.ai/jobs/info/68a90424758f2e4ac3ff6afa?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/693cff7150bbaf7650503051?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 19 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Project Delivery Intern](https://jobright.ai/jobs/info/68cbabdeba798c1a501d3ad7?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
-| ↳ | **[LaunchPad Golf Business Operations Intern](https://jobright.ai/jobs/info/68cfd1d1fb49c96ca6eabcca?utm_campaign=1050&utm_source=git)** | Prior Lake, MN | On Site | Jan 19 |
-| **[HDR](http://www.hdrinc.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/694e3c14f5bef51c96eb9b45?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

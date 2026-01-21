@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/6970823b333b6343a14d04d9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Jan 20 |
+| ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/6970811251f726477182c9a6?utm_campaign=1050&utm_source=git)** | Charlotte, NC | Remote | Jan 20 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6970804351f726477182c91d?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Indiana Pacers Basketball Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69707e90333b6343a14d0248?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69707d6f587dfa0bb55e1a33?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 20 |
+| ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/69707a1651f726477182c662?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Remote | Jan 20 |
+| ↳ | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/697077a851f726477182c5a4?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Jan 20 |
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Real Estate, Business Management Summer Internship](https://jobright.ai/jobs/info/69706185333b6343a14ced9b?utm_campaign=1050&utm_source=git)** | Newark, NJ | Hybrid | Jan 20 |
 | **[Siemens](https://www.siemens.com)** | **[Logistics Internship](https://jobright.ai/jobs/info/69705e7c51f726477182b2e7?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Jan 20 |
 | **[Nucleate Podcast](https://signal.nucleate.xyz/tag/podcast/)** | **[Production & Operations Intern](https://jobright.ai/jobs/info/6970543e51f7264771828854?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Jan 20 |
@@ -83,11 +90,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69706100333b6343a14ced53?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed9?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705042587dfa0bb55dd709?utm_campaign=1050&utm_source=git)** | Blaine, MN | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697052a7587dfa0bb55dd894?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705ab5333b6343a14cde77?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697052a7587dfa0bb55dd894?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705db2333b6343a14ceb5e?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6970514051f7264771828655?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705b6b333b6343a14ce52a?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6970514051f7264771828655?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Jan 20 |
 | **[Cresa](http://cresa.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6970317c333b6343a14c9ab3?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Student Project Coordinator](https://jobright.ai/jobs/info/69703138587dfa0bb55db3f9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 20 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Greenwood Hub (Summer 2026)](https://jobright.ai/jobs/info/6970310f587dfa0bb55db3ca?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Jan 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Operations Associate Summer 2026 Intern](https://jobright.ai/jobs/info/696ff09082817106e976f7a2?utm_campaign=1050&utm_source=git)** | Off-Site Employees (Corp Use) Kansas | On Site | Jan 20 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696fed4e0f4e0f657ea4349a?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Jan 20 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Logistics Intern](https://jobright.ai/jobs/info/696fecca82817106e976f34e?utm_campaign=1050&utm_source=git)** | Belton, MO | On Site | Jan 20 |
-| **[Cellular Sales](https://cellularport.com/)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/697014b582817106e9773011?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Jan 20 |
-| **[Park National Bank](https://parknationalbank.com/)** | **[Internship- South Carolina Rotational](https://jobright.ai/jobs/info/6970113e3ed06875134b0fd5?utm_campaign=1050&utm_source=git)** | Spartanburg, SC | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[Intern - Project Manager/Estimating](https://jobright.ai/jobs/info/69702d2d51f7264771825d1f?utm_campaign=1050&utm_source=git)** | Stephenson, VA | On Site | Jan 20 |
-| ↳ | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/6970164c3ed06875134b1497?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Jan 20 |
-| ↳ | **[Seasonal Intern - Omaha, NE](https://jobright.ai/jobs/info/697013eb3ed06875134b12b8?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jan 20 |
-| ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/697016e30f4e0f657ea4720e?utm_campaign=1050&utm_source=git)** | Redding, CA | On Site | Jan 20 |
-| ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/6970130682817106e9772e7c?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

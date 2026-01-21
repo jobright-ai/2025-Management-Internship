@@ -79,15 +79,15 @@ For a complete list, click the following sortable link below:
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Intern II](https://jobright.ai/jobs/info/69703a0351f7264771826ac5?utm_campaign=1050&utm_source=git)** | Golden, CO | On Site | Jan 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Project Management Oversight Intern](https://jobright.ai/jobs/info/6970369e333b6343a14c9f6c?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 | **[HPI Real Estate Services & Investments](http://www.hpitx.com/)** | **[INTERN](https://jobright.ai/jobs/info/6970349b333b6343a14c9d6e?utm_campaign=1050&utm_source=git)** | Austin,TX,US | On Site | Jan 20 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69706100333b6343a14ced53?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed8?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Jan 20 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed8?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69706100333b6343a14ced53?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed9?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705042587dfa0bb55dd709?utm_campaign=1050&utm_source=git)** | Blaine, MN | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705db2333b6343a14ceb5e?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697052a7587dfa0bb55dd894?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705ab5333b6343a14cde77?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705b6b333b6343a14ce52a?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705db2333b6343a14ceb5e?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6970514051f7264771828655?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705b6b333b6343a14ce52a?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Jan 20 |
 | **[Cresa](http://cresa.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6970317c333b6343a14c9ab3?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Student Project Coordinator](https://jobright.ai/jobs/info/69703138587dfa0bb55db3f9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 20 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Greenwood Hub (Summer 2026)](https://jobright.ai/jobs/info/6970310f587dfa0bb55db3ca?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Jan 20 |
@@ -107,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6970125f3ed06875134b1134?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Jan 20 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Operations Data Analyst](https://jobright.ai/jobs/info/6970115e82817106e9772c8e?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
 | **[SBA Pro-Life America](http://www.sbaprolife.org)** | **[Her PLAN Internship](https://jobright.ai/jobs/info/6970103e3ed06875134b0ead?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Jan 20 |
+| **[1st Source Bank](https://www.1stsource.com/)** | **[Intern, Aircraft Finance, South Bend, IN (Summer 2026)](https://jobright.ai/jobs/info/6970700f51f726477182c38f?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
 | **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Commercial Operations](https://jobright.ai/jobs/info/69702deb51f7264771825e02?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Jan 20 |
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/69700edc3ed06875134b0cf9?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 20 |
 | **[Newmark](https://www.nmrk.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69700ec20f4e0f657ea46a80?utm_campaign=1050&utm_source=git)** | 125 Park Avenue, New York, NY, 10017, US | On Site | Jan 20 |
@@ -142,6 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Operations Associate Summer 2026 Intern](https://jobright.ai/jobs/info/696ff7be3ed06875134af1c2?utm_campaign=1050&utm_source=git)** | Off-Site Employees (Corp Use) Nebraska | On Site | Jan 20 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Logistics Intern](https://jobright.ai/jobs/info/696ff1d982817106e976fae7?utm_campaign=1050&utm_source=git)** | Springboro, OH, US | On Site | Jan 20 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Performance Management and Insights Senior Intern](https://jobright.ai/jobs/info/696ff1983ed06875134ae1ce?utm_campaign=1050&utm_source=git)** | IL - Chicago | Hybrid | Jan 20 |
+| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69707067587dfa0bb55e160f?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Jan 20 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/6970707d587dfa0bb55e1620?utm_campaign=1050&utm_source=git)** | Walworth, NY | On Site | Jan 20 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Operations Associate Summer 2026 Intern](https://jobright.ai/jobs/info/696ff0dd3ed06875134adff4?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Jan 20 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Changemakers Program Project Manager](https://jobright.ai/jobs/info/697016ce0f4e0f657ea471f5?utm_campaign=1050&utm_source=git)** | Villanova, PA | On Site | Jan 20 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Operations Associate Summer 2026 Intern](https://jobright.ai/jobs/info/696ff09082817106e976f7a2?utm_campaign=1050&utm_source=git)** | Off-Site Employees (Corp Use) Kansas | On Site | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Intern - Omaha, NE](https://jobright.ai/jobs/info/697013eb3ed06875134b12b8?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jan 20 |
 | ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/697016e30f4e0f657ea4720e?utm_campaign=1050&utm_source=git)** | Redding, CA | On Site | Jan 20 |
 | ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/6970130682817106e9772e7c?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Jan 20 |
-| ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/697007f03ed06875134b06aa?utm_campaign=1050&utm_source=git)** | Livermore, CA | On Site | Jan 20 |
-| **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696fea5c0f4e0f657ea43204?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 20 |
-| **[RBC](https://www.rbc.com)** | **[Branch Manager Intern- EN](https://jobright.ai/jobs/info/697011cb0f4e0f657ea46d7e?utm_campaign=1050&utm_source=git)** | Sherbrooke, Quebec, Canada | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

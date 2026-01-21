@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Program Management](https://jobright.ai/jobs/info/69711ce6587dfa0bb55eaa08?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
+| **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Plant Warehouse Intern - Summer 2026](https://jobright.ai/jobs/info/69712d3c333b6343a14d9e34?utm_campaign=1050&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 21 |
+| **[Vitamix](http://vitamix.com)** | **[Information Technology, Service Management (Project Management/Business Analysis) Intern (Hybrid)](https://jobright.ai/jobs/info/69712c13587dfa0bb55eb41f?utm_campaign=1050&utm_source=git)** | Olmsted Township, Ohio, United States | Hybrid | Jan 21 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Summer 2026](https://jobright.ai/jobs/info/69712b9f51f7264771836011?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Jan 21 |
+| **[ASML](https://www.asml.com)** | **[Internship - Projects, Lean, Change Management](https://jobright.ai/jobs/info/697126cd587dfa0bb55eaf9d?utm_campaign=1050&utm_source=git)** | Chandler, AZ | Hybrid | Jan 21 |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/697125e251f7264771835a90?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 21 |
+| **[Transdev](http://www.transdev.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/6971257e587dfa0bb55eae3f?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Jan 21 |
+| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - International Logistics](https://jobright.ai/jobs/info/6971233a333b6343a14d9544?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
+| ↳ | **[Intern - Program Management](https://jobright.ai/jobs/info/69711ce6587dfa0bb55eaa08?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op - Supply Chain](https://jobright.ai/jobs/info/69711b1051f726477183548e?utm_campaign=1050&utm_source=git)** | Michigan, United States | On Site | Jan 21 |
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Enterprise Strategy - Summer Internship 2026](https://jobright.ai/jobs/info/696d97c2350cf43803146661?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern - Land Operations (Dallas)](https://jobright.ai/jobs/info/69711544587dfa0bb55ea6da?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | Jan 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Real Estate, Business Management Summer Internship](https://jobright.ai/jobs/info/69706185333b6343a14ced9b?utm_campaign=1050&utm_source=git)** | Newark, NJ | Hybrid | Jan 20 |
 | **[Siemens](https://www.siemens.com)** | **[Logistics Internship](https://jobright.ai/jobs/info/69705e7c51f726477182b2e7?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Jan 20 |
 | **[Nucleate Podcast](https://signal.nucleate.xyz/tag/podcast/)** | **[Production & Operations Intern](https://jobright.ai/jobs/info/6970543e51f7264771828854?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Jan 20 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69705266587dfa0bb55dd872?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 20 |
-| **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Supply Chain Summer 2026 Internship (Euclid, Oh)](https://jobright.ai/jobs/info/697050fd587dfa0bb55dd79f?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Jan 20 |
-| **[PGIM](https://www.pgim.com)** | **[PGIM: 2026 Real Estate, Business Management Summer Internship](https://jobright.ai/jobs/info/6970509e587dfa0bb55dd758?utm_campaign=1050&utm_source=git)** | Newark, NJ, USA | Hybrid | Jan 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/69704fe051f7264771828565?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Jan 20 |
-| **[Levy Restaurants](http://www.levyrestaurants.com/)** | **[Sports and Entertainment Assistant (Internship)](https://jobright.ai/jobs/info/69704c7151f7264771828346?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[Lonza](http://www.lonza.com)** | **[Strategic Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69704a1a333b6343a14cb9b9?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Jan 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/697048ee333b6343a14cb8aa?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

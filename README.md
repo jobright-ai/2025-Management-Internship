@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e61eaa05c26e7aaf5834?utm_campaign=1050&utm_source=git)** | Carlisle, PA | Hybrid | Jan 21 |
+| ↳ | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e6f6f1f8465b79ec0b54?utm_campaign=1050&utm_source=git)** | Salisbury, NC | Hybrid | Jan 21 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Intern Summer 2026](https://jobright.ai/jobs/info/68ffef9fe04ac838fb5bd95b?utm_campaign=1050&utm_source=git)** | New Stanton, PA | Hybrid | Jan 21 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e5b0aa05c26e7aaf5822?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Jan 21 |
+| **[Sandisk](https://www.sandisk.com/en-in)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/695433e6f1f8465b79eb5517?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Jan 21 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Claims Operations](https://jobright.ai/jobs/info/695e09d252ab763cd7ea754a?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jan 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6970ae3e333b6343a14d2dce?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
 | **[DigiShares](https://digishares.io/)** | **[Admin & Operations Intern](https://jobright.ai/jobs/info/6970aa1d587dfa0bb55e453f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/69709c99587dfa0bb55e4206?utm_campaign=1050&utm_source=git)** | Fair Lawn, NJ | On Site | Jan 21 |
@@ -94,13 +100,13 @@ For a complete list, click the following sortable link below:
 | **[HPI Real Estate Services & Investments](http://www.hpitx.com/)** | **[INTERN](https://jobright.ai/jobs/info/6970349b333b6343a14c9d6e?utm_campaign=1050&utm_source=git)** | Austin,TX,US | On Site | Jan 20 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed8?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69706100333b6343a14ced53?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed9?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705042587dfa0bb55dd709?utm_campaign=1050&utm_source=git)** | Blaine, MN | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed9?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697052a7587dfa0bb55dd894?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705db2333b6343a14ceb5e?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705ab5333b6343a14cde77?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705b6b333b6343a14ce52a?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6970514051f7264771828655?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705b6b333b6343a14ce52a?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Jan 20 |
 | **[Cresa](http://cresa.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6970317c333b6343a14c9ab3?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Student Project Coordinator](https://jobright.ai/jobs/info/69703138587dfa0bb55db3f9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 20 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Greenwood Hub (Summer 2026)](https://jobright.ai/jobs/info/6970310f587dfa0bb55db3ca?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Jan 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tyson Foods](http://tysonfoods.com)** | **[Operations Associate Summer 2026 Intern](https://jobright.ai/jobs/info/696ffba20f4e0f657ea45629?utm_campaign=1050&utm_source=git)** | Off-Site Employees (Corp Use) Texas | On Site | Jan 20 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Software Project Management Internship](https://jobright.ai/jobs/info/696ffb6f82817106e97712e1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Operations Associate Summer 2026 Intern](https://jobright.ai/jobs/info/696ff96082817106e9770d4c?utm_campaign=1050&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Jan 20 |
-| **[CRH](http://crh.com)** | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/696ff95d0f4e0f657ea4503d?utm_campaign=1050&utm_source=git)** | Absecon, NJ | On Site | Jan 20 |
-| **[LivaNova](http://www.livanova.com)** | **[Strategy and Analytics – Undergraduate Summer 2026 Intern](https://jobright.ai/jobs/info/696ff82982817106e9770a2c?utm_campaign=1050&utm_source=git)** | Texas, United States | Hybrid | Jan 20 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Operations Associate Summer 2026 Intern](https://jobright.ai/jobs/info/696ff7be3ed06875134af1c2?utm_campaign=1050&utm_source=git)** | Off-Site Employees (Corp Use) Nebraska | On Site | Jan 20 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Logistics Intern](https://jobright.ai/jobs/info/696ff1d982817106e976fae7?utm_campaign=1050&utm_source=git)** | Springboro, OH, US | On Site | Jan 20 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Performance Management and Insights Senior Intern](https://jobright.ai/jobs/info/696ff1983ed06875134ae1ce?utm_campaign=1050&utm_source=git)** | IL - Chicago | Hybrid | Jan 20 |
-| **[CRH](http://crh.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69707067587dfa0bb55e160f?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

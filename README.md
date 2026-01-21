@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Design Management Intern, NA](https://jobright.ai/jobs/info/6970e81351f7264771832168?utm_campaign=1050&utm_source=git)** | Denver, Colorado | On Site | Jan 21 |
 | **[Pella Corporation](http://www.pella.com)** | **[Department Manager Intern (Macomb, IL) - Summer 2026](https://jobright.ai/jobs/info/68e35dc6b99ec3563b0df35a?utm_campaign=1050&utm_source=git)** | Macomb, IL | On Site | Jan 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern - Eau Claire](https://jobright.ai/jobs/info/695509b2f1f8465b79ec2c5c?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 21 |
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[Intern – Development](https://jobright.ai/jobs/info/691b7e6115b415636718f820?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ | On Site | Jan 21 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/6970d476587dfa0bb55e68a1?utm_campaign=1050&utm_source=git)** | Mountain View, CA | Hybrid | Jan 21 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69547c605bb7de448ef76fc9?utm_campaign=1050&utm_source=git)** | Feasterville-Trevose, PA | On Site | Jan 21 |
 | **[Primergy](https://www.primergysolar.com)** | **[Project Development Intern](https://jobright.ai/jobs/info/6970d2c351f72647718313c9?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Jan 21 |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6970f203333b6343a14d6210?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Jan 21 |
 | **[Arconic](https://www.arconic.com)** | **[Procurement-Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/696c7ba3350cf43803139d90?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Jan 21 |
 | ↳ | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6938afa2b95c305f206ded63?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Jan 21 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/68c7e12d983e6768bc547dc4?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Jan 21 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Associate Analyst Intern, DTC Strategy, Summer 2026](https://jobright.ai/jobs/info/696a27a5db26b618950d4f89?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 21 |
 | **[Sandisk](https://www.sandisk.com/en-in)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/695433e6f1f8465b79eb5517?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Jan 21 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Claims Operations](https://jobright.ai/jobs/info/695e09d252ab763cd7ea754a?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jan 21 |
-| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Project Controls Planning Intern, CA, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d13d587dfa0bb55e66bd?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 21 |
-| ↳ | **[WDI Project Controls Estimating Intern, CA, Summer/Fall 2026](https://jobright.ai/jobs/info/6970ddee51f7264771831b26?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 21 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Project Controls Estimating Intern, CA, Summer/Fall 2026](https://jobright.ai/jobs/info/6970ddee51f7264771831b26?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 21 |
+| ↳ | **[WDI Project Controls Planning Intern, CA, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d13d587dfa0bb55e66bd?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 21 |
 | ↳ | **[WDI Project Controls Estimating Intern, FL, Summer/Fall 2026](https://jobright.ai/jobs/info/6970d83c587dfa0bb55e6af1?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6970ae3e333b6343a14d2dce?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
 | **[DigiShares](https://digishares.io/)** | **[Admin & Operations Intern](https://jobright.ai/jobs/info/6970aa1d587dfa0bb55e453f?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 21 |
@@ -133,15 +135,15 @@ For a complete list, click the following sortable link below:
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Intern II](https://jobright.ai/jobs/info/69703a0351f7264771826ac5?utm_campaign=1050&utm_source=git)** | Golden, CO | On Site | Jan 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Project Management Oversight Intern](https://jobright.ai/jobs/info/6970369e333b6343a14c9f6c?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
 | **[HPI Real Estate Services & Investments](http://www.hpitx.com/)** | **[INTERN](https://jobright.ai/jobs/info/6970349b333b6343a14c9d6e?utm_campaign=1050&utm_source=git)** | Austin,TX,US | On Site | Jan 20 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed8?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69706100333b6343a14ced53?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69706100333b6343a14ced53?utm_campaign=1050&utm_source=git)** | South Bend, IN | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed8?utm_campaign=1050&utm_source=git)** | Morris, IL | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697063c8333b6343a14ceed9?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705042587dfa0bb55dd709?utm_campaign=1050&utm_source=git)** | Blaine, MN | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705db2333b6343a14ceb5e?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697052a7587dfa0bb55dd894?utm_campaign=1050&utm_source=git)** | Hodgkins, IL | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705ab5333b6343a14cde77?utm_campaign=1050&utm_source=git)** | Oregon, OH | On Site | Jan 20 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705b6b333b6343a14ce52a?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705db2333b6343a14ceb5e?utm_campaign=1050&utm_source=git)** | Mishawaka, IN | On Site | Jan 20 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6970514051f7264771828655?utm_campaign=1050&utm_source=git)** | Fremont, NE | On Site | Jan 20 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69705b6b333b6343a14ce52a?utm_campaign=1050&utm_source=git)** | Dubuque, IA | On Site | Jan 20 |
 | **[Cresa](http://cresa.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6970317c333b6343a14c9ab3?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 20 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Student Project Coordinator](https://jobright.ai/jobs/info/69703138587dfa0bb55db3f9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 20 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Greenwood Hub (Summer 2026)](https://jobright.ai/jobs/info/6970310f587dfa0bb55db3ca?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Intern II](https://jobright.ai/jobs/info/69701b9e0f4e0f657ea474e4?utm_campaign=1050&utm_source=git)** | Golden, CO | On Site | Jan 20 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Student Intern- Housing Operations](https://jobright.ai/jobs/info/69701a450f4e0f657ea473a7?utm_campaign=1050&utm_source=git)** | Centennial, Colorado | On Site | Jan 20 |
 | **[Human Resources](http://www.sheboygancounty.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/6970189a82817106e977333f?utm_campaign=1050&utm_source=git)** | Canyon, TX | Hybrid | Jan 20 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Pittsburgh, PA  (Summer 2026)](https://jobright.ai/jobs/info/69703a7a333b6343a14ca39f?utm_campaign=1050&utm_source=git)** | Moon, PA | On Site | Jan 20 |
-| **[Johns Manville Industrial Insulation](http://www.jm.com/en/industrial-insulation)** | **[Intern - Project Management](https://jobright.ai/jobs/info/6970171f82817106e97731cf?utm_campaign=1050&utm_source=git)** | Littleton CO JMTC | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

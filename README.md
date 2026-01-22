@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Program Analyst Intern](https://jobright.ai/jobs/info/697045a5333b6343a14cae8d?utm_campaign=1050&utm_source=git)** | Racine County, WI | On Site | Jan 22 |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Global Vehicle Logistics and Customs Summer (STAR) Intern](https://jobright.ai/jobs/info/6971f4d0cda45e6953583342?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[International](https://www.international.com)** | **[IT Project Manager Intern](https://jobright.ai/jobs/info/6971ef03cda45e695358307d?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Jan 22 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Procurement Project Management Intern Summer 2026](https://jobright.ai/jobs/info/6971edd6cda45e6953582ca2?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Remote | Jan 22 |
 | **[HII](https://hii.com)** | **[PROCESS IMPROVEMENT ANALYST SKILLBRDIGE INTERN](https://jobright.ai/jobs/info/6971ed78b707bf728a4b874a?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69714570587dfa0bb55ed695?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Intern - Land Operations (Dallas)](https://jobright.ai/jobs/info/69714a3b333b6343a14dcb1d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[ASML](https://www.asml.com)** | **[Internship - Projects, Lean, Change Management](https://jobright.ai/jobs/info/697126cd587dfa0bb55eaf9d?utm_campaign=1050&utm_source=git)** | Chandler, AZ | Hybrid | Jan 21 |
-| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/697125e251f7264771835a90?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 21 |
-| **[Transdev](http://www.transdev.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/6971257e587dfa0bb55eae3f?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/69716e44587dfa0bb55f0d01?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 21 |
+| **[Impact Advisors](https://www.impact-advisors.com)** | **[Strategy & Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69716c0a333b6343a14df41e?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
+| **[Flex](https://flex.com)** | **[Strategic Planning Intern - Summer 2026](https://jobright.ai/jobs/info/697168a5333b6343a14df15f?utm_campaign=1050&utm_source=git)** | USA, UT, Salt Lake City | On Site | Jan 21 |
+| **[Pearl Meyer](https://www.pearlmeyer.com/)** | **[Survey Intern - Summer 2026](https://jobright.ai/jobs/info/69716831333b6343a14df0f7?utm_campaign=1050&utm_source=git)** | Wellesley, MA | Hybrid | Jan 21 |
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69715cc051f726477183a95c?utm_campaign=1050&utm_source=git)** | TX - Houston Division Office: 2929 Briarpark Drive Suite 400 Houston, TX 77042 | On Site | Jan 21 |
 | **[TMX Group](http://www.tmx.com)** | **[Client Coordinator Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69715b0c587dfa0bb55efc52?utm_campaign=1050&utm_source=git)** | Toronto - 100 Adelaide St W | Hybrid | Jan 21 |
 | **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant - Victoria BC, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69715904587dfa0bb55efa04?utm_campaign=1050&utm_source=git)** | Victoria, BC, CAN | On Site | Jan 21 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Business Unit Project Management Intern](https://jobright.ai/jobs/info/69714210587dfa0bb55ecf40?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 21 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Program Control Intern - Gilbert AZ - R10219958](https://jobright.ai/jobs/info/697161a0587dfa0bb55f03e2?utm_campaign=1050&utm_source=git)** | Gilbert, AZ | On Site | Jan 21 |
 | **[Hodess Cleanrooms, The Full Lifecycle Partner](https://www.hodesscleanrooms.com)** | **[Intern](https://jobright.ai/jobs/info/68d3273517554c2d9eeee447?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Jan 21 |
+| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Supply Chain](https://jobright.ai/jobs/info/69716cbd333b6343a14df496?utm_campaign=1050&utm_source=git)** | Spring Grove, PA | On Site | Jan 21 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Operating Office Intern](https://jobright.ai/jobs/info/69713f4b587dfa0bb55ec970?utm_campaign=1050&utm_source=git)** | NC - Remote | Remote | Jan 21 |
 | **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant - Kelowna BC, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69715e4c333b6343a14de9a0?utm_campaign=1050&utm_source=git)** | Kelowna, BC, CAN | On Site | Jan 21 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Design Management Intern, NA](https://jobright.ai/jobs/info/69713a58587dfa0bb55ec56b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 21 |
@@ -89,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Business Planning and Analytics MBA Intern](https://jobright.ai/jobs/info/697136d151f7264771836d09?utm_campaign=1050&utm_source=git)** | Fairhaven, MA | Hybrid | Jan 21 |
 | **[CRH](http://crh.com)** | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/69715e90587dfa0bb55f00d1?utm_campaign=1050&utm_source=git)** | Galloway, NJ | On Site | Jan 21 |
 | ↳ | **[Intern - Project Manager/Estimating](https://jobright.ai/jobs/info/69715a1151f726477183a663?utm_campaign=1050&utm_source=git)** | Stephenson, MI | On Site | Jan 21 |
-| **[Vantage Data Centers](https://vantage-dc.com)** | **[Design Management Intern, NA](https://jobright.ai/jobs/info/6971308a587dfa0bb55eb935?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 21 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova PCO Operations Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/697150af51f7264771839c60?utm_campaign=1050&utm_source=git)** | Houston | On Site | Jan 21 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship, Summer 2026](https://jobright.ai/jobs/info/6971582051f726477183a409?utm_campaign=1050&utm_source=git)** | Puyallup, WA | On Site | Jan 21 |
 | **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Plant Warehouse Intern - Summer 2026](https://jobright.ai/jobs/info/69712d3c333b6343a14d9e34?utm_campaign=1050&utm_source=git)** | Belleville, Ontario, Canada | On Site | Jan 21 |
@@ -101,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Fertilizer Canada](https://fertilizercanada.ca/)** | **[Administrative Intern (12-Month Contract)](https://jobright.ai/jobs/info/6971492f333b6343a14dc862?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/697125e251f7264771835a90?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 21 |
 | **[Transdev](http://www.transdev.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/6971257e587dfa0bb55eae3f?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Operating Office Intern](https://jobright.ai/jobs/info/6971504151f7264771839b4d?utm_campaign=1050&utm_source=git)** | DFW | On Site | Jan 21 |
-| ↳ | **[Operating Office Intern](https://jobright.ai/jobs/info/69714db6333b6343a14dd27d?utm_campaign=1050&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Operating Office Intern](https://jobright.ai/jobs/info/69714db6333b6343a14dd27d?utm_campaign=1050&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
+| ↳ | **[Operating Office Intern](https://jobright.ai/jobs/info/6971504151f7264771839b4d?utm_campaign=1050&utm_source=git)** | DFW | On Site | Jan 21 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Supply Chain Intern - San Diego CA](https://jobright.ai/jobs/info/69714724587dfa0bb55edadf?utm_campaign=1050&utm_source=git)** | United States-California-San Diego | On Site | Jan 21 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - International Logistics](https://jobright.ai/jobs/info/6971233a333b6343a14d9544?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 | ↳ | **[Intern - Program Management](https://jobright.ai/jobs/info/69711ce6587dfa0bb55eaa08?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69547c605bb7de448ef76fc9?utm_campaign=1050&utm_source=git)** | Feasterville-Trevose, PA | On Site | Jan 21 |
 | **[Primergy](https://www.primergysolar.com)** | **[Project Development Intern](https://jobright.ai/jobs/info/6970d2c351f72647718313c9?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Jan 21 |
 | **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6970f203333b6343a14d6210?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | On Site | Jan 21 |
-| **[Arconic](https://www.arconic.com)** | **[Procurement-Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/696c7ba3350cf43803139d90?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Jan 21 |
-| ↳ | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6938afa2b95c305f206ded63?utm_campaign=1050&utm_source=git)** | Bloomsburg, PA | On Site | Jan 21 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Center Operations Internship](https://jobright.ai/jobs/info/68c7e12d983e6768bc547dc4?utm_campaign=1050&utm_source=git)** | Massachusetts, United States | On Site | Jan 21 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Knowledge Management Program](https://jobright.ai/jobs/info/691baa46bcdbf3560c9e136d?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

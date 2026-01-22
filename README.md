@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[International](https://www.international.com)** | **[IT Project Manager Intern](https://jobright.ai/jobs/info/6971ef03cda45e695358307d?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Jan 22 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Procurement Project Management Intern Summer 2026](https://jobright.ai/jobs/info/6971edd6cda45e6953582ca2?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Remote | Jan 22 |
+| **[HII](https://hii.com)** | **[PROCESS IMPROVEMENT ANALYST SKILLBRDIGE INTERN](https://jobright.ai/jobs/info/6971ed78b707bf728a4b874a?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 22 |
+| **[Defense Information Systems Agency](https://disa.mil)** | **[Student Trainee (Management Analysis) - CES Intern](https://jobright.ai/jobs/info/6971ec6747b64f4e963e2b88?utm_campaign=1050&utm_source=git)** | Fort George G. Meade, MD | On Site | Jan 22 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Global Vehicle Logistics and Customs Summer (STAR) Intern](https://jobright.ai/jobs/info/6971ebfe47b64f4e963e2a22?utm_campaign=1050&utm_source=git)** | United States of America-Georgia-AtlantaWork Locations | Hybrid | Jan 22 |
+| ↳ | **[Global Vehicle Logistics and Customs Summer (STAR) Intern](https://jobright.ai/jobs/info/6971eb6fcda45e69535824b1?utm_campaign=1050&utm_source=git)** | One Mercedes-Benz DriveOne Mercedes-Benz Drive | Hybrid | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Arena Management Intern](https://jobright.ai/jobs/info/6971e3ca47b64f4e963e1585?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[Valorantum](valorantum.us)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/6971d0e347b64f4e963e0c04?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | Remote | Jan 21 |
 | **[Yarmouth-Dennis Red Sox](https://ydredsox.com)** | **[Game Day Baseball Operations Internship](https://jobright.ai/jobs/info/6971cb8a47b64f4e963e077b?utm_campaign=1050&utm_source=git)** | South Yarmouth, MA | On Site | Jan 21 |
@@ -97,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/69717b58587dfa0bb55f2d78?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 21 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Project Management Office Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69717b4651f726477183d741?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Jan 21 |
 | **[Okta](http://www.okta.com)** | **[Security Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69717ace51f726477183d6b7?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 21 |
-| **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Fleet Procurement Intern](https://jobright.ai/jobs/info/697177b1333b6343a14e12ce?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6971772c333b6343a14e1286?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 21 |
 | **[Alston Construction](https://alstonco.com/)** | **[Office Intern - Mission Critical](https://jobright.ai/jobs/info/697197a8587dfa0bb55f4795?utm_campaign=1050&utm_source=git)** | Atlanta, Georgia, United States | On Site | Jan 21 |
 | **[Horwitz](https://www.horwitz-nsi.com)** | **[Supply Chain & Logistics Internship](https://jobright.ai/jobs/info/697195e051f726477183f0f8?utm_campaign=1050&utm_source=git)** | New Hope, Minnesota, United States | On Site | Jan 21 |
@@ -150,11 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69714570587dfa0bb55ed695?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
 | **[Brookfield Residential](https://www.brookfieldresidential.com/)** | **[Intern - Land Operations (Dallas)](https://jobright.ai/jobs/info/69714a3b333b6343a14dcb1d?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[ASML](https://www.asml.com)** | **[Internship - Projects, Lean, Change Management](https://jobright.ai/jobs/info/697126cd587dfa0bb55eaf9d?utm_campaign=1050&utm_source=git)** | Chandler, AZ | Hybrid | Jan 21 |
-| **[Fertilizer Canada](https://fertilizercanada.ca/)** | **[Administrative Intern (12-Month Contract)](https://jobright.ai/jobs/info/6971492f333b6343a14dc862?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/697125e251f7264771835a90?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 21 |
 | **[Transdev](http://www.transdev.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/6971257e587dfa0bb55eae3f?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Operating Office Intern](https://jobright.ai/jobs/info/69714db6333b6343a14dd27d?utm_campaign=1050&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
-| ↳ | **[Operating Office Intern](https://jobright.ai/jobs/info/6971504151f7264771839b4d?utm_campaign=1050&utm_source=git)** | DFW | On Site | Jan 21 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Supply Chain Intern - San Diego CA](https://jobright.ai/jobs/info/69714724587dfa0bb55edadf?utm_campaign=1050&utm_source=git)** | United States-California-San Diego | On Site | Jan 21 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - International Logistics](https://jobright.ai/jobs/info/6971233a333b6343a14d9544?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

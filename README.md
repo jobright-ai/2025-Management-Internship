@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Site Operations](https://jobright.ai/jobs/info/69727eaf584a1c1ef6fd79b5?utm_campaign=1050&utm_source=git)** | Oceanside | On Site | Jan 22 |
+| **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69727e204ccbf64f8df2707a?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
+| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69727d80584a1c1ef6fd7860?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Jan 22 |
+| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship Program – Hospital Operations (One Westchester)](https://jobright.ai/jobs/info/69727b804ccbf64f8df26d8b?utm_campaign=1050&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Jan 22 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Performance Management and Insights Senior Intern](https://jobright.ai/jobs/info/69727ad54ccbf64f8df26ca3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
+| **[City of Eden Prairie](http://www.edenprairie.org)** | **[Turf and Grounds Management Intern- Summer 2026](https://jobright.ai/jobs/info/69727ac89b83b424830e6a28?utm_campaign=1050&utm_source=git)** | Eden Prairie, Minnesota, United States | On Site | Jan 22 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6972794a4ccbf64f8df26b15?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
+| **[USG](https://www.usg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/697278df4ccbf64f8df26a8a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative Bachelor's Intern](https://jobright.ai/jobs/info/697278209b83b424830e672a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
+| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Project Management](https://jobright.ai/jobs/info/697276e84ccbf64f8df26840?utm_campaign=1050&utm_source=git)** | Nine Greenway Plaza, Houston, TX, 77046, US | On Site | Jan 22 |
+| **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/697272569b83b424830e624c?utm_campaign=1050&utm_source=git)** | Idaho, United States | On Site | Jan 22 |
+| **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Intern - Project Management Engineer](https://jobright.ai/jobs/info/6972711e9b83b424830e6199?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jan 22 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[IT Project Manager Intern - Summer 2026](https://jobright.ai/jobs/info/69726c734ccbf64f8df26291?utm_campaign=1050&utm_source=git)** | Houston-Allen Pkwy Office | On Site | Jan 22 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Financial Services Operations Intern](https://jobright.ai/jobs/info/69726c04584a1c1ef6fd6bb2?utm_campaign=1050&utm_source=git)** | New York, New York | Hybrid | Jan 22 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/69726bd04ccbf64f8df2623e?utm_campaign=1050&utm_source=git)** | Hackensack, NJ | On Site | Jan 22 |
@@ -111,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/693bdabc50bbaf76504f4878?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Jan 22 |
 | ↳ | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d2c510b7dff734150086a?utm_campaign=1050&utm_source=git)** | Swedesboro, NJ | On Site | Jan 22 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6901acaef8ce7a040fdc1e70?utm_campaign=1050&utm_source=git)** | Spanish Springs, NV | On Site | Jan 22 |
-| **[Avery Dennison](http://www.averydennison.com)** | **[Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/6972580c9b83b424830e43d7?utm_campaign=1050&utm_source=git)** | Mentor, OH | On Site | Jan 22 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Real Estate Operations](https://jobright.ai/jobs/info/6901c9f0d5259a1b3cff7db3?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 22 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6901a70fd5259a1b3cff7003?utm_campaign=1050&utm_source=git)** | Cold Springs, NV | On Site | Jan 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Project Coordination Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69722910cda45e6953586a40?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 22 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Intern - Summer 2026](https://jobright.ai/jobs/info/691d212c7481340785ed4174?utm_campaign=1050&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/691cd8cbbcdbf3560c9ea5b0?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | Jan 22 |
 | ↳ | **[Management Trainee Intern - Waukesha](https://jobright.ai/jobs/info/68ca497a06a34016008c6227?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Jan 22 |
-| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 22 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Financial Security Intern – Project Management Office Analyst](https://jobright.ai/jobs/info/693a50d1ac80bb5492bcd434?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 22 |
-| **[Canvas](https://www.canvas-inc.com/)** | **[Project Management Support (Summer Intern)](https://jobright.ai/jobs/info/693a090f56b68f3dc4e7678e?utm_campaign=1050&utm_source=git)** | Tullahoma, TN | On Site | Jan 22 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Procurement](https://jobright.ai/jobs/info/693a503e48a8ce22990e5967?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 22 |
-| ↳ | **[Summer Intern 2026 – Global Investments Operations](https://jobright.ai/jobs/info/693a8938ed39e94c66590196?utm_campaign=1050&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 22 |
-| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Procurement](https://jobright.ai/jobs/info/693a735e48a8ce22990e71ff?utm_campaign=1050&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 22 |
-| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e36e983e6768bc552f62?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Jan 22 |
-| ↳ | **[Project Manager Intern](https://jobright.ai/jobs/info/68c8e3d7983e6768bc5530a9?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Jan 22 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Supply Chain Management Intern (Rotation)](https://jobright.ai/jobs/info/693a22f348a8ce22990e1dd3?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Jan 22 |
-| **[E&K Companies, Inc.](http://e-kco.com)** | **[Intern](https://jobright.ai/jobs/info/693a1ac256b68f3dc4e77354?utm_campaign=1050&utm_source=git)** | Grandview Heights, MS | On Site | Jan 22 |
-| **[Mercedes-Benz Vans USA](https://mbvans.com/)** | **[Global Vehicle Logistics and Customs Summer (STAR) Intern](https://jobright.ai/jobs/info/6972348dcda45e6953587061?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

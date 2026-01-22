@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Project Manager Intern](https://jobright.ai/jobs/info/6971b898333b6343a14e6d92?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 21 |
+| **[Flex](https://flex.com)** | **[Strategic Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6971c62d333b6343a14e796e?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 21 |
+| **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/6971c3dc51f7264771843885?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Jan 21 |
+| ↳ | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/6971c3ab333b6343a14e7899?utm_campaign=1050&utm_source=git)** | Gloucester City, NJ | On Site | Jan 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Business Planning and Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6971c044587dfa0bb55f86e4?utm_campaign=1050&utm_source=git)** | Celebration, FL, USA | On Site | Jan 21 |
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6971ae7851f7264771842272?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[DASNY (Dormitory Authority - State of New York )](https://www.dasny.org)** | **[Student Intern- Construction Project Management (13 positions) - Various Location in the NYC Area](https://jobright.ai/jobs/info/6971adf1587dfa0bb55f7824?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/6971aae0587dfa0bb55f6c7f?utm_campaign=1050&utm_source=git)** | Redwood City, CA | Hybrid | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Globe Life](https://www.globelifeinsurance.com)** | **[Enterprise Strategy - Summer Internship 2026](https://jobright.ai/jobs/info/696d97c2350cf43803146661?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Jan 21 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern - Land Operations (Dallas)](https://jobright.ai/jobs/info/69711544587dfa0bb55ea6da?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | Jan 21 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern - Distribution Operations](https://jobright.ai/jobs/info/697132ef51f7264771836870?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 21 |
-| **[Tricentis](https://tricentis.com)** | **[Strategic Analytics Intern](https://jobright.ai/jobs/info/697112c9587dfa0bb55ea4eb?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 21 |
-| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern - Land Operations (Austin)](https://jobright.ai/jobs/info/697110b151f7264771834ee6?utm_campaign=1050&utm_source=git)** | Austin, Texas | On Site | Jan 21 |
-| **[Marriott International](https://w-hotels.marriott.com)** | **[Administrative Food & Beverage Coordinator Intern](https://jobright.ai/jobs/info/69710dca587dfa0bb55ea11c?utm_campaign=1050&utm_source=git)** | 23808 Resort Pkwy, San Antonio, TX, 78261, US | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

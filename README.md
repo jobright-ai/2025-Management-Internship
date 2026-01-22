@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/6971aae0587dfa0bb55f6c7f?utm_campaign=1050&utm_source=git)** | Redwood City, CA | Hybrid | Jan 21 |
+| **[Siemens](https://www.siemens.com)** | **[Business Excellence - Process & Program Intern](https://jobright.ai/jobs/info/6971a75951f72647718405eb?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Jan 21 |
+| **[Aldridge Electric](http://www.aldridgegroup.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69719e92333b6343a14e36fa?utm_campaign=1050&utm_source=git)** | Illinois, United States | On Site | Jan 21 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69719d05333b6343a14e362c?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova PCO Operations Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/69719b8651f726477183f57b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 21 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Procurement Project Management Intern Summer 2026](https://jobright.ai/jobs/info/69719b7f587dfa0bb55f4a8f?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Remote | Jan 21 |
-| **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/6971994b333b6343a14e32f1?utm_campaign=1050&utm_source=git)** | La Canada Flintridge, CA | On Site | Jan 21 |
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern - GIS/Planning & Development Services](https://jobright.ai/jobs/info/69719823587dfa0bb55f47f2?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 21 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Technology Project Management Office Internship](https://jobright.ai/jobs/info/6971978951f726477183f24b?utm_campaign=1050&utm_source=git)** | Reynoldsburg, OH | Remote | Jan 21 |
 | **[Volo Sports](https://www.volosports.com)** | **[Sports Management Internship - Spring/summer 2026](https://jobright.ai/jobs/info/69719756587dfa0bb55f475b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Generac](https://www.generac.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697103d751f72647718333fd?utm_campaign=1050&utm_source=git)** | Pewaukee, WI - USA | On Site | Jan 21 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Upstate New York Area,](https://jobright.ai/jobs/info/697103b2587dfa0bb55e87e1?utm_campaign=1050&utm_source=git)** | Tully, NY | On Site | Jan 21 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Global Sourcing COE Summer Intern 2026](https://jobright.ai/jobs/info/697101e6587dfa0bb55e81f0?utm_campaign=1050&utm_source=git)** | Marlborough, MA | On Site | Jan 21 |
-| **[Ruder Finn](http://www.ruderfinn.com)** | **[Executive Trainee](https://jobright.ai/jobs/info/697101ae587dfa0bb55e81cd?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Central and Northern Florida,](https://jobright.ai/jobs/info/6971014b51f7264771832e7b?utm_campaign=1050&utm_source=git)** | Haines City, FL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

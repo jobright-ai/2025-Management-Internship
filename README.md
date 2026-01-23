@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/68cf7c37dbd9fb154ede8354?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Siemens](https://www.siemens.com)** | **[DOD SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/693bbf6950bbaf76504f21ae?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 23 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Real Estate Customer Experience (RECX)/Property Management](https://jobright.ai/jobs/info/6901cc25d5259a1b3cff7e47?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL | On Site | Jan 23 |
+| **[CAMH](https://www.camh.ca)** | **[Program Assistant - Crisis Critical Care Unit 6](https://jobright.ai/jobs/info/69739eb8206da320f49d91a1?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Strategic Sales Project Management Intern](https://jobright.ai/jobs/info/6902cc6f00a1816c41ea17cd?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Costuming Project Analyst Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f7b9f3ed06875134a7348?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 23 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e4ba983e6768bc5533b3?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ecaa1d55d64a20534db9?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Jan 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ed530488fd59f7d5e923?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Jan 22 |
 | **[Intel Corporation](http://www.intel.com)** | **[Supply Chain Project Manager Intern (Undergraduate)](https://jobright.ai/jobs/info/697300a1694e99351d1445c8?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Jan 22 |
-| ↳ | **[Supply Chain Project Manager Intern (Undergraduate)](https://jobright.ai/jobs/info/6972f6861790715e866be520?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

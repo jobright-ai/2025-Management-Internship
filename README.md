@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Ventures, Corporate Development - New York, NY](https://jobright.ai/jobs/info/69736a0437785856350d3608?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
+| **[Clarios](https://www.clarios.com/)** | **[Supply Chain Intern - Florence, KY (Summer 2026)](https://jobright.ai/jobs/info/6901318ef8ce7a040fdbd3b8?utm_campaign=1050&utm_source=git)** | Florence, KY | On Site | Jan 23 |
+| **[Americold Logistics, LLC.](http://americold.com)** | **[Global Operations Command Center Intern](https://jobright.ai/jobs/info/68e621ab1852e62f0081948f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68e6f2a9ae2b894b1d71fe65?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Jan 23 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Services Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccc2c0fa466330fef90bef?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
+| ↳ | **[Procurement Internship (Summer 2026)](https://jobright.ai/jobs/info/6963172325e18715077fc04f?utm_campaign=1050&utm_source=git)** | Westerville, OH | On Site | Jan 23 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - San Antonio](https://jobright.ai/jobs/info/695b5a3daa05c26e7ab4b5d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 23 |
+| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo, WI | On Site | Jan 23 |
+| **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Manufacturing](https://jobright.ai/jobs/info/6971a30e333b6343a14e39e9?utm_campaign=1050&utm_source=git)** | Frankfort, KY | On Site | Jan 23 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aec43503c5f15c2fd8b71d?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Project Management (Summer 2026)](https://jobright.ai/jobs/info/69735d1e206da320f49d5ba7?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | ↳ | **[Intern: Supplier Crisis & Risk Management (Summer 2026)](https://jobright.ai/jobs/info/69735b95206da320f49d5b35?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
@@ -117,7 +126,7 @@ For a complete list, click the following sortable link below:
 | **[MWH](https://mwhconstructors.com)** | **[Intern, Project Controls](https://jobright.ai/jobs/info/6972be07584a1c1ef6fdcfad?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Strategic Analytics Internship, 2026](https://jobright.ai/jobs/info/68c9a65aa0c52d598ea39746?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Global Supply Chain & Data Science](https://jobright.ai/jobs/info/6972dcde1d55d64a20533ec4?utm_campaign=1050&utm_source=git)** | Radnor, Pennsylvania | On Site | Jan 22 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6972d80d0488fd59f7d5d1f0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6972d80d0488fd59f7d5d1f0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Strategic Operations Research Analyst Intern / Orlando, FL](https://jobright.ai/jobs/info/6972dd120488fd59f7d5d873?utm_campaign=1050&utm_source=git)** | Florida | On Site | Jan 22 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/6972fd96694e99351d14434f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operation Intern](https://jobright.ai/jobs/info/6972b92c584a1c1ef6fdcbe3?utm_campaign=1050&utm_source=git)** | Middlesex, NJ | On Site | Jan 22 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Syntra Antwerpen en Vlaams Brabant (Syntra AB)](https://www.syntra-ab.be)** | **[Project Management Intern](https://jobright.ai/jobs/info/6972ca2a9b83b424830ed7d2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Exton, PA](https://jobright.ai/jobs/info/6972aa749b83b424830eb264?utm_campaign=1050&utm_source=git)** | Downingtown, PA | On Site | Jan 22 |
 | ↳ | **[Club Operations Intern - Gainesville, VA](https://jobright.ai/jobs/info/6972a0d19b83b424830ea5cb?utm_campaign=1050&utm_source=git)** | Gainesville, VA #0360 | On Site | Jan 22 |
-| ↳ | **[Club Operations Intern - Exton, PA](https://jobright.ai/jobs/info/6972a0209b83b424830ea43c?utm_campaign=1050&utm_source=git)** | Exton, PA #0086 | On Site | Jan 22 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Care Management Master's Intern](https://jobright.ai/jobs/info/69729e779b83b424830ea09d?utm_campaign=1050&utm_source=git)** | California-San Diego-California Service Center - Rio S.D. | Hybrid | Jan 22 |
-| **[Fertilizer Canada](https://fertilizercanada.ca/)** | **[Administrative Intern (12-Month Contract)](https://jobright.ai/jobs/info/6972bc9f4ccbf64f8df2c7a3?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 22 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - North Jacksonville, FL](https://jobright.ai/jobs/info/6972b92d584a1c1ef6fdcbe4?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Jan 22 |
-| **[Amentum](https://www.amentum.com/)** | **[Property Management Internship IRES - HSV](https://jobright.ai/jobs/info/69729be74ccbf64f8df29cb9?utm_campaign=1050&utm_source=git)** | Redstone Arsenal, AL | On Site | Jan 22 |
-| **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant - Edmonton AB, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69729bcb9b83b424830e9a9c?utm_campaign=1050&utm_source=git)** | Edmonton, AB, CAN | On Site | Jan 22 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Parkland, FL](https://jobright.ai/jobs/info/69729b3b4ccbf64f8df29b09?utm_campaign=1050&utm_source=git)** | Parkland, FL #0106 | On Site | Jan 22 |
-| ↳ | **[Club Operations Intern - Riverdale, NJ](https://jobright.ai/jobs/info/69729b20584a1c1ef6fda152?utm_campaign=1050&utm_source=git)** | Riverdale, NJ #0094 | On Site | Jan 22 |
-| ↳ | **[Club Operations Intern - Davenport, FL](https://jobright.ai/jobs/info/69729a189b83b424830e96c6?utm_campaign=1050&utm_source=git)** | Davenport, FL #0226 | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

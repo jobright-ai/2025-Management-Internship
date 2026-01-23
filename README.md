@@ -57,10 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Procurement Specialist](https://jobright.ai/jobs/info/6972ec1a98522904c697bd69?utm_campaign=1050&utm_source=git)** | Mississauga | Hybrid | Jan 22 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud PMO Intern](https://jobright.ai/jobs/info/6972e9b81d55d64a20534b7f?utm_campaign=1050&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6972e87d0488fd59f7d5e59f?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Jan 22 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6972e60f0488fd59f7d5e3b5?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Jan 22 |
+| **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Internship Program-Business Track](https://jobright.ai/jobs/info/6972e5d198522904c697b996?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
+| **[BMO](http://www.bmo.com)** | **[Private Wealth Administrative Assistant - Edmonton AB, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6972e19798522904c697b536?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 22 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6972e12c98522904c697b4be?utm_campaign=1050&utm_source=git)** | Freeport, IL | On Site | Jan 22 |
 | **[Ammunition](https://www.ammunition.agency)** | **[Ammunition Summer Internship 2026](https://jobright.ai/jobs/info/6972d80698522904c697aa53?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Strategic Operations Research Analyst Intern / Orlando, FL](https://jobright.ai/jobs/info/6972d2ff1d55d64a205332b8?utm_campaign=1050&utm_source=git)** | Possible | On Site | Jan 22 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Global Supply Chain & Data Science](https://jobright.ai/jobs/info/6972d2bf98522904c697a478?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Jan 22 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6972edd00488fd59f7d5e996?utm_campaign=1050&utm_source=git)** | Bolingbrook, IL | On Site | Jan 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ecc498522904c697bde8?utm_campaign=1050&utm_source=git)** | Mount Vernon, IL | On Site | Jan 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ecaa1d55d64a20534db9?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Jan 22 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ed530488fd59f7d5e923?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Jan 22 |
+| **[UNC Health Blue Ridge](https://www.unchealthblueridge.org)** | **[Intern](https://jobright.ai/jobs/info/696ff35f82817106e976ff31?utm_campaign=1050&utm_source=git)** | Morganton, NC | On Site | Jan 22 |
 | **[The Douglaston Companies](https://www.douglastondevelopment.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6972c48b584a1c1ef6fdd6ad?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6972c2e59b83b424830eca2b?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Kroll Restructuring Administration](https://jobright.ai/jobs/info/6972c0959b83b424830ec7f2?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jan 22 |
@@ -95,7 +106,8 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Midlothian, VA](https://jobright.ai/jobs/info/6972afe84ccbf64f8df2bb37?utm_campaign=1050&utm_source=git)** | Midlothian, VA | On Site | Jan 22 |
 | **[City of Eden Prairie](http://www.edenprairie.org)** | **[Turf and Grounds Management Intern- Summer 2026](https://jobright.ai/jobs/info/6972afb74ccbf64f8df2baf5?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 22 |
 | **[Amperesand](https://amperesand.io/)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/6972af734ccbf64f8df2baa9?utm_campaign=1050&utm_source=git)** | Reno, Nevada, United States | On Site | Jan 22 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Gainesville, VA](https://jobright.ai/jobs/info/6972aee4584a1c1ef6fdc173?utm_campaign=1050&utm_source=git)** | Gainesville, VA | On Site | Jan 22 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Perishable Distribution Operation Intern](https://jobright.ai/jobs/info/6972e2001d55d64a2053450f?utm_campaign=1050&utm_source=git)** | R3 Perishable DC Orlando, FL #0763 | On Site | Jan 22 |
+| ↳ | **[Club Operations Intern - Gainesville, VA](https://jobright.ai/jobs/info/6972aee4584a1c1ef6fdc173?utm_campaign=1050&utm_source=git)** | Gainesville, VA | On Site | Jan 22 |
 | ↳ | **[Club Operations Intern - Mt Juliet, TN](https://jobright.ai/jobs/info/6972adba584a1c1ef6fdc039?utm_campaign=1050&utm_source=git)** | Green Hill, TN | On Site | Jan 22 |
 | ↳ | **[Club Operations Intern - Davenport, FL](https://jobright.ai/jobs/info/6972ac7d9b83b424830eb4ba?utm_campaign=1050&utm_source=git)** | Davenport, FL | On Site | Jan 22 |
 | ↳ | **[Club Operations Intern - Newark, DE](https://jobright.ai/jobs/info/6972ab969b83b424830eb3ab?utm_campaign=1050&utm_source=git)** | Newark, DE | On Site | Jan 22 |
@@ -133,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Business Applications Operations](https://jobright.ai/jobs/info/6972a5dd4ccbf64f8df2b2a0?utm_campaign=1050&utm_source=git)** | Headquarters, NJ | On Site | Jan 22 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Program Management Intern - Spring 2026](https://jobright.ai/jobs/info/69728738584a1c1ef6fd8266?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Midlothian, VA](https://jobright.ai/jobs/info/6972a2b04ccbf64f8df2abc0?utm_campaign=1050&utm_source=git)** | Midlothian, VA #0391 | On Site | Jan 22 |
-| ↳ | **[Club Operations Intern - Garner, NC](https://jobright.ai/jobs/info/6972a1f2584a1c1ef6fdb07f?utm_campaign=1050&utm_source=git)** | Garner, NC #0151 | On Site | Jan 22 |
 | ↳ | **[Club Operations Intern - Mt Juliet, TN](https://jobright.ai/jobs/info/6972a4d14ccbf64f8df2b0d4?utm_campaign=1050&utm_source=git)** | Mt Juliet, TN #0397 | On Site | Jan 22 |
+| ↳ | **[Club Operations Intern - Garner, NC](https://jobright.ai/jobs/info/6972a1f2584a1c1ef6fdb07f?utm_campaign=1050&utm_source=git)** | Garner, NC #0151 | On Site | Jan 22 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Financial Services Operations Intern](https://jobright.ai/jobs/info/69726c04584a1c1ef6fd6bb2?utm_campaign=1050&utm_source=git)** | New York, New York | Hybrid | Jan 22 |
 | ↳ | **[Financial Services Operations Intern](https://jobright.ai/jobs/info/69726a3a584a1c1ef6fd6aa9?utm_campaign=1050&utm_source=git)** | Palm Bch Gdns, Florida | On Site | Jan 22 |
 | ↳ | **[Financial Services Operations Intern](https://jobright.ai/jobs/info/69726a68584a1c1ef6fd6ac5?utm_campaign=1050&utm_source=git)** | San Francisco, California | On Site | Jan 22 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Summer Intern 2026, US Orthopaedics Supply Chain](https://jobright.ai/jobs/info/6972a251584a1c1ef6fdb156?utm_campaign=1050&utm_source=git)** | West Chester, Pennsylvania, United States of America | Hybrid | Jan 22 |
 | **[Maximus](http://www.maximus.com/)** | **[Organizational Change Management (OCM) Intern](https://jobright.ai/jobs/info/69728154584a1c1ef6fd7cdc?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Pork Business Operations Summer 2026 Intern](https://jobright.ai/jobs/info/69729d254ccbf64f8df29fa7?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Jan 22 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Site Operations](https://jobright.ai/jobs/info/69729f6f4ccbf64f8df2a4c7?utm_campaign=1050&utm_source=git)** | Oceanside, CA | On Site | Jan 22 |
-| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Stadium Operations Intern](https://jobright.ai/jobs/info/69729cc94ccbf64f8df29edd?utm_campaign=1050&utm_source=git)** | Greenville, SC | On Site | Jan 22 |
-| **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69727e204ccbf64f8df2707a?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Jan 22 |
-| **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Summer 2026 Graduate Internship Program – Hospital Operations (One Westchester)](https://jobright.ai/jobs/info/69727b804ccbf64f8df26d8b?utm_campaign=1050&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Jan 22 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Performance Management and Insights Senior Intern](https://jobright.ai/jobs/info/69727ad54ccbf64f8df26ca3?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
-| **[City of Eden Prairie](http://www.edenprairie.org)** | **[Turf and Grounds Management Intern- Summer 2026](https://jobright.ai/jobs/info/69727ac89b83b424830e6a28?utm_campaign=1050&utm_source=git)** | Eden Prairie, Minnesota, United States | On Site | Jan 22 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6972794a4ccbf64f8df26b15?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
-| **[USG](https://www.usg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/697278df4ccbf64f8df26a8a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative Bachelor's Intern](https://jobright.ai/jobs/info/697278209b83b424830e672a?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 22 |
-| **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/6972a1359b83b424830ea6aa?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jan 22 |
-| **[Tallgrass](https://tallgrass.com/)** | **[Intern-Project Management](https://jobright.ai/jobs/info/697276e84ccbf64f8df26840?utm_campaign=1050&utm_source=git)** | Nine Greenway Plaza, Houston, TX, 77046, US | On Site | Jan 22 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Strategic Sourcing - Summer 2026](https://jobright.ai/jobs/info/69729a269b83b424830e96e4?utm_campaign=1050&utm_source=git)** | WI - Brillion | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

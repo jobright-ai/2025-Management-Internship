@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Great Lakes Region (Illinois-Iowa)](https://jobright.ai/jobs/info/69739741bc8e722e7b186303?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Jan 23 |
+| **[Arcadis](http://www.arcadis.com)** | **[Project Controls Intern](https://jobright.ai/jobs/info/69739659206da320f49d8cb9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 23 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/6973964dbc8e722e7b1862b6?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 23 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Distribution Operation Intern](https://jobright.ai/jobs/info/69739371bc8e722e7b186170?utm_campaign=1050&utm_source=git)** | R1 Dry DC Uxbridge, MA #0800 | On Site | Jan 23 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Indirect Procurement](https://jobright.ai/jobs/info/69739340bc8e722e7b186164?utm_campaign=1050&utm_source=git)** | Novi - Michigan, USA - Cabot Drive | On Site | Jan 23 |
+| **[NewYork-Presbyterian Hospital](http://www.nypventures.org/)** | **[Summer 2026 Graduate Internship Program – Hospital Operations (One Westchester)](https://jobright.ai/jobs/info/69738b3a37785856350d5f3d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 23 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Supply Chain Analyst](https://jobright.ai/jobs/info/697389bc206da320f49d86b6?utm_campaign=1050&utm_source=git)** | Frisco, TX | Hybrid | Jan 23 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Neuroscience Medical Affairs Intern](https://jobright.ai/jobs/info/6973871437785856350d5c96?utm_campaign=1050&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Jan 23 |
 | **[The HEINEKEN Company](http://www.theHEINEKENcompany.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697386fb206da320f49d84e8?utm_campaign=1050&utm_source=git)** | White Plains, NY | Hybrid | Jan 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[2026 Project Management Technical paid intern (May and August hires)](https://jobright.ai/jobs/info/6956de11aa05c26e7ab1199a?utm_campaign=1050&utm_source=git)** | Riverton, UT | Hybrid | Jan 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ed530488fd59f7d5e923?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Jan 22 |
 | **[Intel Corporation](http://www.intel.com)** | **[Supply Chain Project Manager Intern (Undergraduate)](https://jobright.ai/jobs/info/697300a1694e99351d1445c8?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Jan 22 |
 | ↳ | **[Supply Chain Project Manager Intern (Undergraduate)](https://jobright.ai/jobs/info/6972f6861790715e866be520?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 22 |
-| **[UNC Health Blue Ridge](https://www.unchealthblueridge.org)** | **[Intern](https://jobright.ai/jobs/info/696ff35f82817106e976ff31?utm_campaign=1050&utm_source=git)** | Morganton, NC | On Site | Jan 22 |
-| **[Tacoma Public Utilities](https://www.mytpu.org/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6972f77c694e99351d143f43?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Jan 22 |
-| **[Edelman](http://www.edelman.com)** | **[Corporate Summer Intern](https://jobright.ai/jobs/info/6972f7f9694e99351d143f91?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
-| **[The Douglaston Companies](https://www.douglastondevelopment.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6972c48b584a1c1ef6fdd6ad?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jan 22 |
-| **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6972c2e59b83b424830eca2b?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Kroll Restructuring Administration](https://jobright.ai/jobs/info/6972c0959b83b424830ec7f2?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jan 22 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Summer Intern 2026, US Orthopaedics Supply Chain](https://jobright.ai/jobs/info/6972c0604ccbf64f8df2cb95?utm_campaign=1050&utm_source=git)** | West Chester, PA | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

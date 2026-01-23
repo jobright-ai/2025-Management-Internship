@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ITT Inc.](http://www.itt.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/695a24deaa05c26e7ab3bc5b?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Jan 23 |
+| **[Novelis](http://novelis.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69657d652cbf4e44756f0e59?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697342b5206da320f49d4c49?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Jan 23 |
 | **[Jacobs](http://www.jacobs.com)** | **[Project Management Intern - Conshohocken, PA (LS)](https://jobright.ai/jobs/info/69734161bc8e722e7b1820b5?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 23 |
 | **[Defense Information Systems Agency](https://disa.mil)** | **[Program Analyst - CES Recent Graduate](https://jobright.ai/jobs/info/6973392b1790715e866c2de3?utm_campaign=1050&utm_source=git)** | Fort George G. Meade, MD | On Site | Jan 23 |
 | **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Part-Time Administrative Assistant (Intern)](https://jobright.ai/jobs/info/697336b2206da320f49d34df?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Jan 23 |
 | **[Flock Safety](https://www.flocksafety.com)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/697332a7bc8e722e7b1809af?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[City of Upland](https://www.uplandca.gov)** | **[Administrative Intern](https://jobright.ai/jobs/info/69732738694e99351d147dcb?utm_campaign=1050&utm_source=git)** | Upland, CA | On Site | Jan 22 |
+| **[Nightwing](nightwing.com)** | **[Supply Chain Intern - 2026](https://jobright.ai/jobs/info/697348fd206da320f49d5671?utm_campaign=1050&utm_source=git)** | Sterling, VA | On Site | Jan 22 |
 | **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Administration Manager](https://jobright.ai/jobs/info/697343581790715e866c4651?utm_campaign=1050&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Jan 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT Business Operations Intern](https://jobright.ai/jobs/info/69731157206da320f49d1e07?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
 | ↳ | **[HBCU Project Management Intern](https://jobright.ai/jobs/info/697310481790715e866c12c1?utm_campaign=1050&utm_source=git)** | Wake County, NC | Hybrid | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[Intern - Project Management Engineer](https://jobright.ai/jobs/info/697298069b83b424830e920b?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jan 22 |
 | **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Procurement Internship - Bilingual Korean required](https://jobright.ai/jobs/info/697297ec9b83b424830e91c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Newark, DE](https://jobright.ai/jobs/info/697296d9584a1c1ef6fd987f?utm_campaign=1050&utm_source=git)** | Newark, DE #0178 | On Site | Jan 22 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69266866f0beb07232624ad1?utm_campaign=1050&utm_source=git)** | Summit, NJ | Hybrid | Jan 22 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Cutler Ridge, FL](https://jobright.ai/jobs/info/697296a99b83b424830e8edf?utm_campaign=1050&utm_source=git)** | Cutler Ridge, FL #0091 | On Site | Jan 22 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Strategic Sourcing - Summer 2026](https://jobright.ai/jobs/info/697293d4584a1c1ef6fd9325?utm_campaign=1050&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

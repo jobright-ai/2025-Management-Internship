@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697342b5206da320f49d4c49?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Jan 23 |
+| **[Jacobs](http://www.jacobs.com)** | **[Project Management Intern - Conshohocken, PA (LS)](https://jobright.ai/jobs/info/69734161bc8e722e7b1820b5?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 23 |
+| **[Defense Information Systems Agency](https://disa.mil)** | **[Program Analyst - CES Recent Graduate](https://jobright.ai/jobs/info/6973392b1790715e866c2de3?utm_campaign=1050&utm_source=git)** | Fort George G. Meade, MD | On Site | Jan 23 |
+| **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Part-Time Administrative Assistant (Intern)](https://jobright.ai/jobs/info/697336b2206da320f49d34df?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Jan 23 |
+| **[Flock Safety](https://www.flocksafety.com)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/697332a7bc8e722e7b1809af?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[City of Upland](https://www.uplandca.gov)** | **[Administrative Intern](https://jobright.ai/jobs/info/69732738694e99351d147dcb?utm_campaign=1050&utm_source=git)** | Upland, CA | On Site | Jan 22 |
+| **[NHS Ayrshire & Arran](https://www.nhsaaa.net)** | **[Administration Manager](https://jobright.ai/jobs/info/697343581790715e866c4651?utm_campaign=1050&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Jan 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT Business Operations Intern](https://jobright.ai/jobs/info/69731157206da320f49d1e07?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
 | ↳ | **[HBCU Project Management Intern](https://jobright.ai/jobs/info/697310481790715e866c12c1?utm_campaign=1050&utm_source=git)** | Wake County, NC | Hybrid | Jan 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/69730bc0694e99351d145da3?utm_campaign=1050&utm_source=git)** | Sussex County, NJ | Remote | Jan 22 |
@@ -103,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Internship Program-Business Track](https://jobright.ai/jobs/info/6972df420488fd59f7d5da46?utm_campaign=1050&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jan 22 |
 | **[MWH](https://mwhconstructors.com)** | **[Intern, Project Controls](https://jobright.ai/jobs/info/6972be07584a1c1ef6fdcfad?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Strategic Analytics Internship, 2026](https://jobright.ai/jobs/info/68c9a65aa0c52d598ea39746?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
-| **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Part-Time Administrative Assistant (Intern)](https://jobright.ai/jobs/info/6972d9710488fd59f7d5d3eb?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Jan 22 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Global Supply Chain & Data Science](https://jobright.ai/jobs/info/6972dcde1d55d64a20533ec4?utm_campaign=1050&utm_source=git)** | Radnor, Pennsylvania | On Site | Jan 22 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6972d80d0488fd59f7d5d1f0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Strategic Operations Research Analyst Intern / Orlando, FL](https://jobright.ai/jobs/info/6972dd120488fd59f7d5d873?utm_campaign=1050&utm_source=git)** | Florida | On Site | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69266866f0beb07232624ad1?utm_campaign=1050&utm_source=git)** | Summit, NJ | Hybrid | Jan 22 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Cutler Ridge, FL](https://jobright.ai/jobs/info/697296a99b83b424830e8edf?utm_campaign=1050&utm_source=git)** | Cutler Ridge, FL #0091 | On Site | Jan 22 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Strategic Sourcing - Summer 2026](https://jobright.ai/jobs/info/697293d4584a1c1ef6fd9325?utm_campaign=1050&utm_source=git)** | Brillion, WI | On Site | Jan 22 |
-| **[Newmar Corporation](https://www.newmarcorp.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697293709b83b424830e8845?utm_campaign=1050&utm_source=git)** | Clearwater, FL, US | On Site | Jan 22 |
-| **[Talen Energy](https://www.talenenergy.com/)** | **[IT Project Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6972b1709b83b424830eba41?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Jan 22 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Site Operations](https://jobright.ai/jobs/info/69727eaf584a1c1ef6fd79b5?utm_campaign=1050&utm_source=git)** | Oceanside | On Site | Jan 22 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Maple Shade, NJ](https://jobright.ai/jobs/info/697291209b83b424830e83f2?utm_campaign=1050&utm_source=git)** | Maple Shade, NJ #0013 | On Site | Jan 22 |
-| **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2027)](https://jobright.ai/jobs/info/6972908b9b83b424830e82c9?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[repsol](http://www.repsol.com)** | **[Performance Management Intern](https://jobright.ai/jobs/info/6972fa601790715e866be769?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Jan 22 |
+| **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/6972f995206da320f49cef80?utm_campaign=1050&utm_source=git)** | Patrick AFB, FL | On Site | Jan 22 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6972f956694e99351d14404c?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
+| ↳ | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6972f8f6206da320f49cef24?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Jan 22 |
+| ↳ | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6972f734694e99351d143f04?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jan 22 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Procurement Specialist](https://jobright.ai/jobs/info/6972f6af694e99351d143ea5?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 22 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud PMO Intern](https://jobright.ai/jobs/info/6972f66e1790715e866be50c?utm_campaign=1050&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Corporate Summer Intern](https://jobright.ai/jobs/info/6972f640694e99351d143e47?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
+| **[Jacobs](http://www.jacobs.com)** | **[Supply Management / Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/6972f57d206da320f49cecdc?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 22 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Procurement Specialist](https://jobright.ai/jobs/info/6972ec1a98522904c697bd69?utm_campaign=1050&utm_source=git)** | Mississauga | Hybrid | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud PMO Intern](https://jobright.ai/jobs/info/6972e9b81d55d64a20534b7f?utm_campaign=1050&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6972e87d0488fd59f7d5e59f?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Jan 22 |
@@ -71,7 +80,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ecc498522904c697bde8?utm_campaign=1050&utm_source=git)** | Mount Vernon, IL | On Site | Jan 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ecaa1d55d64a20534db9?utm_campaign=1050&utm_source=git)** | Stillwater, MN | On Site | Jan 22 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6972ed530488fd59f7d5e923?utm_campaign=1050&utm_source=git)** | St Cloud, MN | On Site | Jan 22 |
+| **[Intel Corporation](http://www.intel.com)** | **[Supply Chain Project Manager Intern (Undergraduate)](https://jobright.ai/jobs/info/6972f6861790715e866be520?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 22 |
 | **[UNC Health Blue Ridge](https://www.unchealthblueridge.org)** | **[Intern](https://jobright.ai/jobs/info/696ff35f82817106e976ff31?utm_campaign=1050&utm_source=git)** | Morganton, NC | On Site | Jan 22 |
+| **[Tacoma Public Utilities](https://www.mytpu.org/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6972f77c694e99351d143f43?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Jan 22 |
+| **[Edelman](http://www.edelman.com)** | **[Corporate Summer Intern](https://jobright.ai/jobs/info/6972f7f9694e99351d143f91?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 22 |
 | **[The Douglaston Companies](https://www.douglastondevelopment.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6972c48b584a1c1ef6fdd6ad?utm_campaign=1050&utm_source=git)** | Bronx, NY | On Site | Jan 22 |
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6972c2e59b83b424830eca2b?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Kroll](http://www.kroll.com/)** | **[Intern, Kroll Restructuring Administration](https://jobright.ai/jobs/info/6972c0959b83b424830ec7f2?utm_campaign=1050&utm_source=git)** | New York, NY, United States | On Site | Jan 22 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Business Applications Operations](https://jobright.ai/jobs/info/6972a5dd4ccbf64f8df2b2a0?utm_campaign=1050&utm_source=git)** | Headquarters, NJ | On Site | Jan 22 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Program Management Intern - Spring 2026](https://jobright.ai/jobs/info/69728738584a1c1ef6fd8266?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Midlothian, VA](https://jobright.ai/jobs/info/6972a2b04ccbf64f8df2abc0?utm_campaign=1050&utm_source=git)** | Midlothian, VA #0391 | On Site | Jan 22 |
-| ↳ | **[Club Operations Intern - Mt Juliet, TN](https://jobright.ai/jobs/info/6972a4d14ccbf64f8df2b0d4?utm_campaign=1050&utm_source=git)** | Mt Juliet, TN #0397 | On Site | Jan 22 |
-| ↳ | **[Club Operations Intern - Garner, NC](https://jobright.ai/jobs/info/6972a1f2584a1c1ef6fdb07f?utm_campaign=1050&utm_source=git)** | Garner, NC #0151 | On Site | Jan 22 |
-| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Financial Services Operations Intern](https://jobright.ai/jobs/info/69726c04584a1c1ef6fd6bb2?utm_campaign=1050&utm_source=git)** | New York, New York | Hybrid | Jan 22 |
-| ↳ | **[Financial Services Operations Intern](https://jobright.ai/jobs/info/69726a3a584a1c1ef6fd6aa9?utm_campaign=1050&utm_source=git)** | Palm Bch Gdns, Florida | On Site | Jan 22 |
-| ↳ | **[Financial Services Operations Intern](https://jobright.ai/jobs/info/69726a68584a1c1ef6fd6ac5?utm_campaign=1050&utm_source=git)** | San Francisco, California | On Site | Jan 22 |
-| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69727d80584a1c1ef6fd7860?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Jan 22 |
-| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Office of the President & CEO](https://jobright.ai/jobs/info/6972a3dc9b83b424830eacd9?utm_campaign=1050&utm_source=git)** | New York, NY, US | Hybrid | Jan 22 |
-| **[Barletta Boat Company, LLC](https://www.barlettapontoonboats.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6972a2469b83b424830ea948?utm_campaign=1050&utm_source=git)** | Clearwater, FL, US | On Site | Jan 22 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Office of the President & CEO](https://jobright.ai/jobs/info/6972a10d4ccbf64f8df2a870?utm_campaign=1050&utm_source=git)** | New York, NY, US | Hybrid | Jan 22 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Summer Intern 2026, US Orthopaedics Supply Chain](https://jobright.ai/jobs/info/6972a251584a1c1ef6fdb156?utm_campaign=1050&utm_source=git)** | West Chester, Pennsylvania, United States of America | Hybrid | Jan 22 |
-| **[Maximus](http://www.maximus.com/)** | **[Organizational Change Management (OCM) Intern](https://jobright.ai/jobs/info/69728154584a1c1ef6fd7cdc?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 22 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Pork Business Operations Summer 2026 Intern](https://jobright.ai/jobs/info/69729d254ccbf64f8df29fa7?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Upland](https://www.uplandca.gov)** | **[Administrative Intern](https://jobright.ai/jobs/info/69732738694e99351d147dcb?utm_campaign=1050&utm_source=git)** | Upland, CA | On Site | Jan 22 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT Business Operations Intern](https://jobright.ai/jobs/info/69731157206da320f49d1e07?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
 | ↳ | **[HBCU Project Management Intern](https://jobright.ai/jobs/info/697310481790715e866c12c1?utm_campaign=1050&utm_source=git)** | Wake County, NC | Hybrid | Jan 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/69730bc0694e99351d145da3?utm_campaign=1050&utm_source=git)** | Sussex County, NJ | Remote | Jan 22 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Internship Program-Business Track](https://jobright.ai/jobs/info/6972df420488fd59f7d5da46?utm_campaign=1050&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Jan 22 |
 | **[MWH](https://mwhconstructors.com)** | **[Intern, Project Controls](https://jobright.ai/jobs/info/6972be07584a1c1ef6fdcfad?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Strategic Analytics Internship, 2026](https://jobright.ai/jobs/info/68c9a65aa0c52d598ea39746?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
-| **[Winnebago Industries](https://winnebagoind.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6972bc539b83b424830ec3d8?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Jan 22 |
 | **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Part-Time Administrative Assistant (Intern)](https://jobright.ai/jobs/info/6972d9710488fd59f7d5d3eb?utm_campaign=1050&utm_source=git)** | Troy, MI | Hybrid | Jan 22 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Global Supply Chain & Data Science](https://jobright.ai/jobs/info/6972dcde1d55d64a20533ec4?utm_campaign=1050&utm_source=git)** | Radnor, Pennsylvania | On Site | Jan 22 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6972d80d0488fd59f7d5d1f0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 22 |

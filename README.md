@@ -57,16 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[NCDOT Business Operations Intern](https://jobright.ai/jobs/info/69731157206da320f49d1e07?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Jan 22 |
+| ↳ | **[HBCU Project Management Intern](https://jobright.ai/jobs/info/697310481790715e866c12c1?utm_campaign=1050&utm_source=git)** | Wake County, NC | Hybrid | Jan 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Operations Intern](https://jobright.ai/jobs/info/69730bc0694e99351d145da3?utm_campaign=1050&utm_source=git)** | Sussex County, NJ | Remote | Jan 22 |
 | **[repsol](http://www.repsol.com)** | **[Performance Management Intern](https://jobright.ai/jobs/info/6972fa601790715e866be769?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Jan 22 |
 | **[Siemens](https://www.siemens.com)** | **[Building Automation Systems Project Management Internship](https://jobright.ai/jobs/info/6972f995206da320f49cef80?utm_campaign=1050&utm_source=git)** | Patrick AFB, FL | On Site | Jan 22 |
+| **[ExaCare AI](http://exacare.com)** | **[Strategy and Business Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/697318891790715e866c189b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 22 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6972f956694e99351d14404c?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Jan 22 |
 | ↳ | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6972f8f6206da320f49cef24?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Jan 22 |
-| ↳ | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6972f734694e99351d143f04?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jan 22 |
+| **[CN](http://www.cn.ca)** | **[Intern, Procurement (Operations)- EN](https://jobright.ai/jobs/info/6973199d694e99351d1471f9?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 22 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6972f734694e99351d143f04?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Jan 22 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Procurement Specialist](https://jobright.ai/jobs/info/6972f6af694e99351d143ea5?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud PMO Intern](https://jobright.ai/jobs/info/6972f66e1790715e866be50c?utm_campaign=1050&utm_source=git)** | Herndon, VA | Hybrid | Jan 22 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Corporate Summer Intern](https://jobright.ai/jobs/info/6972f640694e99351d143e47?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Jacobs](http://www.jacobs.com)** | **[Supply Management / Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/6972f57d206da320f49cecdc?utm_campaign=1050&utm_source=git)** | Conshohocken, PA | Hybrid | Jan 22 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Perishable Distribution Operation Intern](https://jobright.ai/jobs/info/69730cc6206da320f49d15a4?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 22 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Procurement Specialist](https://jobright.ai/jobs/info/6972ec1a98522904c697bd69?utm_campaign=1050&utm_source=git)** | Mississauga | Hybrid | Jan 22 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud PMO Intern](https://jobright.ai/jobs/info/6972e9b81d55d64a20534b7f?utm_campaign=1050&utm_source=git)** | Herndon, VA, US, 20171 | Hybrid | Jan 22 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6972e87d0488fd59f7d5e59f?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Site Operations](https://jobright.ai/jobs/info/69727eaf584a1c1ef6fd79b5?utm_campaign=1050&utm_source=git)** | Oceanside | On Site | Jan 22 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Maple Shade, NJ](https://jobright.ai/jobs/info/697291209b83b424830e83f2?utm_campaign=1050&utm_source=git)** | Maple Shade, NJ #0013 | On Site | Jan 22 |
 | **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2027)](https://jobright.ai/jobs/info/6972908b9b83b424830e82c9?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jan 22 |
-| **[UPMC](https://www.upmc.com/)** | **[Supply Chain internship – Pittsburgh](https://jobright.ai/jobs/info/69729084584a1c1ef6fd8c70?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Supply Chain Co-op/Intern - Summer 2026](https://jobright.ai/jobs/info/69728ee4584a1c1ef6fd899d?utm_campaign=1050&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Jan 22 |
-| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Operations Management Intern](https://jobright.ai/jobs/info/69728eaf4ccbf64f8df280fd?utm_campaign=1050&utm_source=git)** | Chillicothe, OH | On Site | Jan 22 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6972b8f24ccbf64f8df2c4c8?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Jan 22 |
-| **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/69728a4e584a1c1ef6fd85da?utm_campaign=1050&utm_source=git)** | Henderson, NV | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

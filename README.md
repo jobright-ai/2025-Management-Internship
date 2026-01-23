@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aec43503c5f15c2fd8b71d?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 23 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Project Management (Summer 2026)](https://jobright.ai/jobs/info/69735d1e206da320f49d5ba7?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
+| ↳ | **[Intern: Supplier Crisis & Risk Management (Summer 2026)](https://jobright.ai/jobs/info/69735b95206da320f49d5b35?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[I&C Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/69013d564539ea1f2141e6f7?utm_campaign=1050&utm_source=git)** | Warrendale, PA | Hybrid | Jan 23 |
 | **[ITT Inc.](http://www.itt.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/695a24deaa05c26e7ab3bc5b?utm_campaign=1050&utm_source=git)** | Santa Clarita, CA | On Site | Jan 23 |
 | **[Novelis](http://novelis.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/69657d652cbf4e44756f0e59?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697342b5206da320f49d4c49?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Parkland, FL](https://jobright.ai/jobs/info/69729b3b4ccbf64f8df29b09?utm_campaign=1050&utm_source=git)** | Parkland, FL #0106 | On Site | Jan 22 |
 | ↳ | **[Club Operations Intern - Riverdale, NJ](https://jobright.ai/jobs/info/69729b20584a1c1ef6fda152?utm_campaign=1050&utm_source=git)** | Riverdale, NJ #0094 | On Site | Jan 22 |
 | ↳ | **[Club Operations Intern - Davenport, FL](https://jobright.ai/jobs/info/69729a189b83b424830e96c6?utm_campaign=1050&utm_source=git)** | Davenport, FL #0226 | On Site | Jan 22 |
-| ↳ | **[Club Operations Intern - North Jacksonville, FL](https://jobright.ai/jobs/info/697298574ccbf64f8df29497?utm_campaign=1050&utm_source=git)** | North Jacksonville, FL #0231 | On Site | Jan 22 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Intern - Project Management Engineer](https://jobright.ai/jobs/info/697298069b83b424830e920b?utm_campaign=1050&utm_source=git)** | Beaumont, TX | On Site | Jan 22 |
-| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Procurement Internship - Bilingual Korean required](https://jobright.ai/jobs/info/697297ec9b83b424830e91c9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern - Newark, DE](https://jobright.ai/jobs/info/697296d9584a1c1ef6fd987f?utm_campaign=1050&utm_source=git)** | Newark, DE #0178 | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

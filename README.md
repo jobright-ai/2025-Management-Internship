@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACS System Associates Inc.](https://www.acssystem.com)** | **[Administrative Assistant (Internship)](https://jobright.ai/jobs/info/6974f25337785856350eeb2a?utm_campaign=1050&utm_source=git)** | Hicksville, NY | On Site | Jan 24 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Warehouse Operations Management](https://jobright.ai/jobs/info/69612740e7ed9a5731b9efc6?utm_campaign=1050&utm_source=git)** | Avenel, NJ | On Site | Jan 24 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/6974ee65bc8e722e7b19e408?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Valparaiso Warehouse](https://jobright.ai/jobs/info/6974e9a237785856350ee9f9?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Jan 24 |
 | ↳ | **[District Manager Intern - Southern Appalachian Gateway (GA-NC-AL-SC),](https://jobright.ai/jobs/info/6974e949bc8e722e7b19e2b6?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Jan 24 |
 | ↳ | **[Warehouse Operations Intern - Valparaiso Warehouse,](https://jobright.ai/jobs/info/6974e897bc8e722e7b19e285?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Jan 24 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025540ff462851fefe1fe1?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 24 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1f5d64a22104aa91d9e?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Jan 24 |
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025a81ff462851fefe23be?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 24 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Program Analyst Intern](https://jobright.ai/jobs/info/697045a5333b6343a14cae8d?utm_campaign=1050&utm_source=git)** | Racine County, WI | On Site | Jan 24 |
 | **[Veritiv](https://www.veritiv.com)** | **[Supply Planner Intern](https://jobright.ai/jobs/info/68cb4ec2efdec76df36bb1c9?utm_campaign=1050&utm_source=git)** | Norcross, GA | Hybrid | Jan 24 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 Intern: General Procurement (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6958184caa05c26e7ab1fbfb?utm_campaign=1050&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69026dd498707b2b0fe6f403?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697459e8bc8e722e7b196e74?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 23 |
 | **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/697452e2206da320f49e8dbb?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Jan 23 |
 | **[Interpro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697452c4206da320f49e8da8?utm_campaign=1050&utm_source=git)** | Lakehead, CA | On Site | Jan 23 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Development and Proposal Mgmt Business Undergraduate, Onsite](https://jobright.ai/jobs/info/696086e8a112b402660f3b82?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 23 |
-| **[Crusoe](https://crusoe.ai)** | **[Technical Program Management Intern (IT & Security Department), Summer 2026](https://jobright.ai/jobs/info/6974500c37785856350e5f67?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
-| **[Orion Steel](https://orionsteel.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69744e8cbc8e722e7b1952a7?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Jan 23 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Intern, Project Management](https://jobright.ai/jobs/info/697449d237785856350e4465?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Jan 23 |
+| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Salesforce & Scrum Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/69740e8c206da320f49e1c3d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
+| **[EVRAZ North America](http://www.evrazna.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69740d4bbc8e722e7b18ef75?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO, USA | On Site | Jan 23 |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations (MI/MN/WI)](https://jobright.ai/jobs/info/69740a4837785856350df1f2?utm_campaign=1050&utm_source=git)** | Lansing, MI | Hybrid | Jan 23 |
+| **[Charter Steel](http://www.chartersteel.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69740950206da320f49e192e?utm_campaign=1050&utm_source=git)** | Charter Dura-Bar - Woodstock, IL | On Site | Jan 23 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Leadership Internship](https://jobright.ai/jobs/info/697408d1206da320f49e18a6?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Jan 23 |
 | **[Zscaler](https://www.zscaler.com)** | **[Program Manager Intern, Sales](https://jobright.ai/jobs/info/6941b4a5bdcf884a5add7377?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Program Operations (MI/MN/WI)](https://jobright.ai/jobs/info/697406c5bc8e722e7b18eb03?utm_campaign=1050&utm_source=git)** | Fairfax, VA | Hybrid | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hospitality Internship Program - Summer 2026](https://jobright.ai/jobs/info/6973abdb37785856350d85a1?utm_campaign=1050&utm_source=git)** | Property - MGM Grand Las Vegas | On Site | Jan 23 |
 | ↳ | **[Hospitality Internship Program - Summer 2026](https://jobright.ai/jobs/info/6973ab81206da320f49daf65?utm_campaign=1050&utm_source=git)** | Property - Excalibur | On Site | Jan 23 |
 | ↳ | **[Hospitality Internship Program - Summer 2026](https://jobright.ai/jobs/info/6973ab62bc8e722e7b187784?utm_campaign=1050&utm_source=git)** | Property - Bellagio | On Site | Jan 23 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Global Sourcing and Procurement (MBA)](https://jobright.ai/jobs/info/6973aad837785856350d8411?utm_campaign=1050&utm_source=git)** | Home, KS | Remote | Jan 23 |
-| **[MGM Resorts International](http://mgmresorts.com)** | **[Hospitality Internship Program - Summer 2026](https://jobright.ai/jobs/info/6973a9c8206da320f49dadf6?utm_campaign=1050&utm_source=git)** | Office - US, Las Vegas, NV 980 Kelly Johnson Dr | On Site | Jan 23 |
-| ↳ | **[Hospitality Internship Program - Summer 2026](https://jobright.ai/jobs/info/6973a9b4bc8e722e7b187091?utm_campaign=1050&utm_source=git)** | Property - Park MGM | On Site | Jan 23 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Indirect Procurement](https://jobright.ai/jobs/info/6973a950206da320f49dad91?utm_campaign=1050&utm_source=git)** | Novi, MI | On Site | Jan 23 |
-| **[Ericsson](https://www.ericsson.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/6973a7c1206da320f49dac5d?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

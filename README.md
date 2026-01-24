@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Operations Intern](https://jobright.ai/jobs/info/692f0bf4ef4b48533d14262a?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Jan 24 |
+| **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
 | **[ACS System Associates Inc.](https://www.acssystem.com)** | **[Administrative Assistant (Internship)](https://jobright.ai/jobs/info/6974f25337785856350eeb2a?utm_campaign=1050&utm_source=git)** | Hicksville, NY | On Site | Jan 24 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Warehouse Operations Management](https://jobright.ai/jobs/info/69612740e7ed9a5731b9efc6?utm_campaign=1050&utm_source=git)** | Avenel, NJ | On Site | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/6974ee65bc8e722e7b19e408?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746b2737785856350e83ee?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | **[Interpro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69745a3d37785856350e7415?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
 | ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697459e8bc8e722e7b196e74?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 23 |
-| **[State of Michigan](https://michigancountymap.com/)** | **[Student Assistant](https://jobright.ai/jobs/info/697452e2206da320f49e8dbb?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Jan 23 |
-| **[Interpro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697452c4206da320f49e8da8?utm_campaign=1050&utm_source=git)** | Lakehead, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

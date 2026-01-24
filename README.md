@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Management Bachelor's Intern](https://jobright.ai/jobs/info/69750ad0206da320f49f2e91?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 24 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Operations Intern](https://jobright.ai/jobs/info/692f0bf4ef4b48533d14262a?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Jan 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
 | **[ACS System Associates Inc.](https://www.acssystem.com)** | **[Administrative Assistant (Internship)](https://jobright.ai/jobs/info/6974f25337785856350eeb2a?utm_campaign=1050&utm_source=git)** | Hicksville, NY | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746efb206da320f49ead26?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | ↳ | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746b2737785856350e83ee?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 | **[Interpro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69745a3d37785856350e7415?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
-| ↳ | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697459e8bc8e722e7b196e74?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

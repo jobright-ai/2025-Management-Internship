@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697523a4206da320f49f3874?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Jan 24 |
+| **[World Insurance Associates](https://toinsurance.com/)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/6975221537785856350f11bd?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Management Bachelor's Intern](https://jobright.ai/jobs/info/69750ad0206da320f49f2e91?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 24 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Operations Intern](https://jobright.ai/jobs/info/692f0bf4ef4b48533d14262a?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Jan 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/69748dbe37785856350ea855?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69748d9bbc8e722e7b19a63b?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 24 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Jan 24 |
-| **[GenPark](https://genpark.ai)** | **[Project management intern](https://jobright.ai/jobs/info/69748770206da320f49ebcdc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 24 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Operations Supervisor Summer Internship](https://jobright.ai/jobs/info/697480de206da320f49eb976?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Ops Leader](https://jobright.ai/jobs/info/6974747a206da320f49eb366?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746efb206da320f49ead26?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 23 |
 | ↳ | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746b2737785856350e83ee?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
-| **[Interpro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69745a3d37785856350e7415?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697490ab37785856350eb1fd?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Jan 24 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69749071206da320f49ed883?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 24 |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/6974901dbc8e722e7b19ac81?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69748f1737785856350eac80?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 24 |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/69748dbe37785856350ea855?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69748d9bbc8e722e7b19a63b?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 24 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Jan 24 |
+| **[GenPark](https://genpark.ai)** | **[Project management intern](https://jobright.ai/jobs/info/69748770206da320f49ebcdc?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 24 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Operations Supervisor Summer Internship](https://jobright.ai/jobs/info/697480de206da320f49eb976?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Ops Leader](https://jobright.ai/jobs/info/6974747a206da320f49eb366?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Uber](http://www.uber.com)** | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746efb206da320f49ead26?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 23 |
@@ -116,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Salesforce & Scrum Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/69740e8c206da320f49e1c3d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 23 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Salt Lake City, UT (Summer 2026)](https://jobright.ai/jobs/info/6974302e37785856350e2aac?utm_campaign=1050&utm_source=git)** | North Salt Lake, UT | On Site | Jan 23 |
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69740d4bbc8e722e7b18ef75?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO, USA | On Site | Jan 23 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Spring 2026 Management Intern Dallas](https://jobright.ai/jobs/info/697430e937785856350e2b7f?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Jan 23 |
-| ↳ | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/69742b0237785856350e24b3?utm_campaign=1050&utm_source=git)** | Merrillville, IN, US | On Site | Jan 23 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Internship (Summer '26) - Merriville, IN](https://jobright.ai/jobs/info/69742b0237785856350e24b3?utm_campaign=1050&utm_source=git)** | Merrillville, IN, US | On Site | Jan 23 |
+| ↳ | **[Spring 2026 Management Intern Dallas](https://jobright.ai/jobs/info/697430e937785856350e2b7f?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Jan 23 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/69742b7637785856350e2533?utm_campaign=1050&utm_source=git)** | Crystal Lake, IL, US | On Site | Jan 23 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Schaumburg, IL](https://jobright.ai/jobs/info/69742d3c206da320f49e4f8c?utm_campaign=1050&utm_source=git)** | Chicago: Northwest Suburbs | On Site | Jan 23 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Crystal Lake, IL](https://jobright.ai/jobs/info/69742a7e206da320f49e4c52?utm_campaign=1050&utm_source=git)** | Crystal Lake | On Site | Jan 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[19six Architects](https://www.19six.com/)** | **[Summer Internship](https://jobright.ai/jobs/info/6973e1a137785856350db26e?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 23 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Global Clinical Supply Chain](https://jobright.ai/jobs/info/6973e05037785856350db133?utm_campaign=1050&utm_source=git)** | Cambridge, MA | Hybrid | Jan 23 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Branch Operations Intern (Starting May 2026!) - Indianapolis, IN](https://jobright.ai/jobs/info/6973dfdbbc8e722e7b18b0ac?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
-| **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[Facility Project Management Intern](https://jobright.ai/jobs/info/696de50b5fc86241853cae34?utm_campaign=1050&utm_source=git)** | Boise, ID | On Site | Jan 23 |
-| **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Meeting Services Intern](https://jobright.ai/jobs/info/696971b9639b452fb57f4ed3?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jan 23 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/6973ddfd206da320f49dd6e2?utm_campaign=1050&utm_source=git)** | Harlingen, TX | On Site | Jan 23 |
-| **[EvidentABA](evidentaba.com)** | **[Family Office Operations Intern](https://jobright.ai/jobs/info/6973dde1206da320f49dd6c4?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Project Coordination Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ddd7bc8e722e7b18ac41?utm_campaign=1050&utm_source=git)** | Glendale, CA, USA | Hybrid | Jan 23 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Jan 23 |
-| **[The Wine Group](http://thewinegroup.com/)** | **[Seasonal Grower Relations Intern - Fresno](https://jobright.ai/jobs/info/6973dd4d37785856350dae62?utm_campaign=1050&utm_source=git)** | The Wine Group, 7409 West Central Ave., Fresno, California, United States of America | On Site | Jan 23 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6973feaabc8e722e7b18e2fa?utm_campaign=1050&utm_source=git)** | Marion, OH | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

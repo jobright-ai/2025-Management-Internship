@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Resident Company Club](https://residentcompanyclub.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6975479c206da320f49f58fb?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Jan 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6617](https://jobright.ai/jobs/info/69752852206da320f49f3a93?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 24 |
 | **[The Brewer-Garrett Company](https://www.brewer-garrett.com/)** | **[Project Coordination Internship](https://jobright.ai/jobs/info/6975268e37785856350f12fd?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697523a4206da320f49f3874?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/69748dbe37785856350ea855?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69748d9bbc8e722e7b19a63b?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 24 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Jan 24 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Operations Supervisor Summer Internship](https://jobright.ai/jobs/info/697480de206da320f49eb976?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

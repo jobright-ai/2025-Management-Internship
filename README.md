@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6617](https://jobright.ai/jobs/info/69752852206da320f49f3a93?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 24 |
+| **[The Brewer-Garrett Company](https://www.brewer-garrett.com/)** | **[Project Coordination Internship](https://jobright.ai/jobs/info/6975268e37785856350f12fd?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697523a4206da320f49f3874?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Jan 24 |
 | **[World Insurance Associates](https://toinsurance.com/)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/6975221537785856350f11bd?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Jan 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Management Bachelor's Intern](https://jobright.ai/jobs/info/69750ad0206da320f49f2e91?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Jan 24 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Operations Supervisor Summer Internship](https://jobright.ai/jobs/info/697480de206da320f49eb976?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Ops Leader](https://jobright.ai/jobs/info/6974747a206da320f49eb366?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
-| **[Uber](http://www.uber.com)** | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746efb206da320f49ead26?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 23 |
-| ↳ | **[2026 Strategy & Planning MBA Intern, United States](https://jobright.ai/jobs/info/69746b2737785856350e83ee?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

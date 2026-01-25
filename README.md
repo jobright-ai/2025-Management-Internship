@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Growth and Pipeline Studies](https://jobright.ai/jobs/info/69762cde206da320f4a00efe?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 25 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/69762c77206da320f4a00edd?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
+| **[Egotechworld](https://egotechworld.com/)** | **[Project Intern](https://jobright.ai/jobs/info/69762a5137785856350fea7a?utm_campaign=1050&utm_source=git)** | Mobile, AL | Remote | Jan 25 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/6903e66863502c0aded6e2d8?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 25 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/69761ec7206da320f4a00c18?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US | On Site | Jan 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Project Coordinator](https://jobright.ai/jobs/info/6969e070639b452fb57fdf1d?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Weitz Company](http://www.weitz.com)** | **[Nationwide Construction Safety Internship - Summer 2026](https://jobright.ai/jobs/info/691f73fb09cc522e87741732?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6957e44f9f1b381eb270d283?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 24 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Intern, Strategic Sourcing](https://jobright.ai/jobs/info/68e6eec51852e62f008208c2?utm_campaign=1050&utm_source=git)** | Hennepin County, MN | On Site | Jan 24 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Minneapolis, MN](https://jobright.ai/jobs/info/695826c0aa05c26e7ab2060d?utm_campaign=1050&utm_source=git)** | Brooklyn Park, MN | On Site | Jan 24 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - Global Markets / New York](https://jobright.ai/jobs/info/6957e96bf1f8465b79ee8a79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

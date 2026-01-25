@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Specialist FT – 6616](https://jobright.ai/jobs/info/69767eb33778585635102cb7?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 25 |
+| ↳ | **[Golf Course Manager FT – 6618](https://jobright.ai/jobs/info/69767e0e3778585635102af3?utm_campaign=1050&utm_source=git)** | Kodiak, AK | On Site | Jan 25 |
+| **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976783c206da320f4a0382d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Research and Strategy Intern](https://jobright.ai/jobs/info/69767510377858563510140b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Growth and Pipeline Studies](https://jobright.ai/jobs/info/697668d7206da320f4a032c3?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 25 |
 | **[Syngenta](http://www.syngenta.com)** | **[Operations Research Intern](https://jobright.ai/jobs/info/69693b46f25a38006697ceff?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Property Management Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/695827279f1b381eb27106ee?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccba350bbaf76504ffc8b?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/695824d7aa05c26e7ab20497?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Project Coordination Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974bd1d206da320f49ee481?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 24 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6958032daa05c26e7ab1f4b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

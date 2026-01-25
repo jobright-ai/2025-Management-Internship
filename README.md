@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pursuit](http://www.pursuit.org)** | **[Strategy and Operations Associate (Contract/Temp/MBA Internship)](https://jobright.ai/jobs/info/695dafc4f1f8465b79f3f879?utm_campaign=1050&utm_source=git)** | Long Island City | Hybrid | Jan 25 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/6975d249bc8e722e7b1a9c57?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 25 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6975cd5abc8e722e7b1a9ae8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
+| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6975cc55206da320f49fca67?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/6975c11f206da320f49fc373?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Project Controls Intern - Summer 2026](https://jobright.ai/jobs/info/697585d237785856350f5cd4?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Jan 24 |
@@ -108,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Property Management Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/695827279f1b381eb27106ee?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccba350bbaf76504ffc8b?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/695824d7aa05c26e7ab20497?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Care Management Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6974e107206da320f49f0de2?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Project Coordination Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974bd1d206da320f49ee481?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 24 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6958032daa05c26e7ab1f4b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valeo](http://www.valeo.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69749bed37785856350eb677?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697490ab37785856350eb1fd?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Jan 24 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69749071206da320f49ed883?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 24 |
-| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/6974901dbc8e722e7b19ac81?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69748f1737785856350eac80?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 24 |
-| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/69748dbe37785856350ea855?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

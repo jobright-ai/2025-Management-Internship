@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Research and Strategy Intern](https://jobright.ai/jobs/info/69767510377858563510140b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Growth and Pipeline Studies](https://jobright.ai/jobs/info/697668d7206da320f4a032c3?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 25 |
 | **[Syngenta](http://www.syngenta.com)** | **[Operations Research Intern](https://jobright.ai/jobs/info/69693b46f25a38006697ceff?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Business Applications Operations](https://jobright.ai/jobs/info/69763e50bc8e722e7b1adf60?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Jan 25 |
-| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Growth and Pipeline Studies](https://jobright.ai/jobs/info/69762cde206da320f4a00efe?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/69762c77206da320f4a00edd?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
 | **[Egotechworld](https://egotechworld.com/)** | **[Project Intern](https://jobright.ai/jobs/info/69762a5137785856350fea7a?utm_campaign=1050&utm_source=git)** | Mobile, AL | Remote | Jan 25 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/6903e66863502c0aded6e2d8?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Project Coordination Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974bd1d206da320f49ee481?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 24 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6958032daa05c26e7ab1f4b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Jan 24 |
-| **[Zipline](https://www.zipline.com/)** | **[Site Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc55549a7695fbd038162?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

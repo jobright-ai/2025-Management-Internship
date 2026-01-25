@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
 | **[ACS System Associates Inc.](https://www.acssystem.com)** | **[Administrative Assistant (Internship)](https://jobright.ai/jobs/info/6974f25337785856350eeb2a?utm_campaign=1050&utm_source=git)** | Hicksville, NY | On Site | Jan 24 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Warehouse Operations Management](https://jobright.ai/jobs/info/69612740e7ed9a5731b9efc6?utm_campaign=1050&utm_source=git)** | Avenel, NJ | On Site | Jan 24 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/6974ee65bc8e722e7b19e408?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Valparaiso Warehouse](https://jobright.ai/jobs/info/6974e9a237785856350ee9f9?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Jan 24 |
 | ↳ | **[District Manager Intern - Southern Appalachian Gateway (GA-NC-AL-SC),](https://jobright.ai/jobs/info/6974e949bc8e722e7b19e2b6?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Jan 24 |
 | ↳ | **[Warehouse Operations Intern - Valparaiso Warehouse,](https://jobright.ai/jobs/info/6974e897bc8e722e7b19e285?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697490ab37785856350eb1fd?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Jan 24 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69749071206da320f49ed883?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 24 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/6974901dbc8e722e7b19ac81?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69748f1737785856350eac80?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

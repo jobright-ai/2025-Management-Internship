@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Project Controls Intern - Summer 2026](https://jobright.ai/jobs/info/697585d237785856350f5cd4?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/697581cfbc8e722e7b1a50bf?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6975714dbc8e722e7b1a48af?utm_campaign=1050&utm_source=git)** | Burlington, VT, US | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697490ab37785856350eb1fd?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Jan 24 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69749071206da320f49ed883?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 24 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/6974901dbc8e722e7b19ac81?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69748f1737785856350eac80?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

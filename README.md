@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69755a6637785856350f3460?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Jan 24 |
 | **[Resident Company Club](https://residentcompanyclub.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6975479c206da320f49f58fb?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Jan 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6617](https://jobright.ai/jobs/info/69752852206da320f49f3a93?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 24 |
 | **[The Brewer-Garrett Company](https://www.brewer-garrett.com/)** | **[Project Coordination Internship](https://jobright.ai/jobs/info/6975268e37785856350f12fd?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 24 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[District Manager Intern - Southern Appalachian Gateway (GA-NC-AL-SC)](https://jobright.ai/jobs/info/6974e7c737785856350ee90b?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Jan 24 |
 | **[Etnyre International, Ltd.](https://etnyreinternational.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6974deb0206da320f49f0c7a?utm_campaign=1050&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Jan 24 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Shipping & Logistics Intern](https://jobright.ai/jobs/info/6974de7e206da320f49f0c5a?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 24 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Assistant Strategist Solutions Intern](https://jobright.ai/jobs/info/6974dc9f206da320f49f0b24?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6903b31a63502c0aded6b49e?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Jan 24 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201a3109cc522e877481a7?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025540ff462851fefe1fe1?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 24 |

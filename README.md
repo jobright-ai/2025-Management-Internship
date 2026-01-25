@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68cca5017342c7623ae678be?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Jan 25 |
+| ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aef7927bcb7608b3d2a41b?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 25 |
+| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cf633d846f0b04af681af5?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Jan 25 |
+| **[Rambus](http://www.rambus.com/us)** | **[Intern, Strategic Programs](https://jobright.ai/jobs/info/6968f58c1703f05405aad367?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 25 |
+| ↳ | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/6960fa7ff3f4cd132505fbe4?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 25 |
 | **[ABB](https://global.abb/group/en)** | **[Health, Safety & Environmental Intern - Summer 2026](https://jobright.ai/jobs/info/69602a3e7ebc25398eb61cb2?utm_campaign=1050&utm_source=git)** | Mebane, NC | Hybrid | Jan 25 |
 | **[Pursuit](http://www.pursuit.org)** | **[Strategy and Operations Associate (Contract/Temp/MBA Internship)](https://jobright.ai/jobs/info/695dafc4f1f8465b79f3f879?utm_campaign=1050&utm_source=git)** | Long Island City | Hybrid | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/6975d249bc8e722e7b1a9c57?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 25 |
@@ -133,10 +138,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Show Technical Production Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c71a333b6343a14d470f?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
 | ↳ | **[WDI Project Controls Estimating Intern, CA, Summer/Fall 2026](https://jobright.ai/jobs/info/6970c890587dfa0bb55e59c2?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cc1cbc8e722e7b19d4b8?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Jan 24 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974d2ee37785856350ee024?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Jan 24 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6974cd3f37785856350edcf8?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Jan 24 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Forestry Resource and Valuation Solutions Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/691f811809cc522e87742332?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Strategy Operations Project Intern (SMB Product - PMO) 2026 Start (MBA/MS)](https://jobright.ai/jobs/info/693cb63a50bbaf76504ff297?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Project Coordination Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974ca30bc8e722e7b19d3d2?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/691fb79d3f782d2f1afbf8f2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/68e725fdae2b894b1d721cc8?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Strategist](https://jobright.ai/jobs/info/68e6deefae2b894b1d71f10f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 24 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Operations/Continuous Improvement Summer Intern 2026](https://jobright.ai/jobs/info/6902a28e00a1816c41ea065c?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Jan 24 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6974d20fbc8e722e7b19d84e?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Jan 24 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69749bed37785856350eb677?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Jan 24 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697490ab37785856350eb1fd?utm_campaign=1050&utm_source=git)** | Kuna, ID | On Site | Jan 24 |
-| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69749071206da320f49ed883?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

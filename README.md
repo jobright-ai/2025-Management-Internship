@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Health, Safety & Environmental Intern - Summer 2026](https://jobright.ai/jobs/info/69602a3e7ebc25398eb61cb2?utm_campaign=1050&utm_source=git)** | Mebane, NC | Hybrid | Jan 25 |
 | **[Pursuit](http://www.pursuit.org)** | **[Strategy and Operations Associate (Contract/Temp/MBA Internship)](https://jobright.ai/jobs/info/695dafc4f1f8465b79f3f879?utm_campaign=1050&utm_source=git)** | Long Island City | Hybrid | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/6975d249bc8e722e7b1a9c57?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6975cd5abc8e722e7b1a9ae8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Fleet Operations Intern](https://jobright.ai/jobs/info/695837109f1b381eb2711813?utm_campaign=1050&utm_source=git)** | St Charles, MO | On Site | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 24 |
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/691f5f1709cc522e8774038c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
-| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68e74af9ae2b894b1d7233df?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Colorado](https://jobright.ai/jobs/info/68cca1c2128dc347fd927805?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/696826d2639b452fb57db7ec?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Jan 24 |

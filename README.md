@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syngenta](http://www.syngenta.com)** | **[Operations Research Intern](https://jobright.ai/jobs/info/69693b46f25a38006697ceff?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Business Applications Operations](https://jobright.ai/jobs/info/69763e50bc8e722e7b1adf60?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Jan 25 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Growth and Pipeline Studies](https://jobright.ai/jobs/info/69762cde206da320f4a00efe?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 25 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/69762c77206da320f4a00edd?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 25 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Project Management Bachelor's Intern](https://jobright.ai/jobs/info/69750ad0206da320f49f2e91?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 24 |
 | **[United Educators](https://www.ue.org/)** | **[Resolutions (Claims) Operations Intern](https://jobright.ai/jobs/info/692f0bf4ef4b48533d14262a?utm_campaign=1050&utm_source=git)** | Bethesda, MD | Hybrid | Jan 24 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 24 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Project Coordination Intern, Orlando, Summer/Fall 2026](https://jobright.ai/jobs/info/69722910cda45e6953586a40?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
 | **[ACS System Associates Inc.](https://www.acssystem.com)** | **[Administrative Assistant (Internship)](https://jobright.ai/jobs/info/6974f25337785856350eeb2a?utm_campaign=1050&utm_source=git)** | Hicksville, NY | On Site | Jan 24 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern – Warehouse Operations Management](https://jobright.ai/jobs/info/69612740e7ed9a5731b9efc6?utm_campaign=1050&utm_source=git)** | Avenel, NJ | On Site | Jan 24 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Valparaiso Warehouse](https://jobright.ai/jobs/info/6974e9a237785856350ee9f9?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / San Francisco & Los Angeles, CA](https://jobright.ai/jobs/info/6958032daa05c26e7ab1f4b9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 24 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Site Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc55549a7695fbd038162?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
-| **[The Weitz Company](http://www.weitz.com)** | **[Nationwide Construction Safety Internship - Summer 2026](https://jobright.ai/jobs/info/691f73fb09cc522e87741732?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Jan 24 |
-| **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

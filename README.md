@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6975714dbc8e722e7b1a48af?utm_campaign=1050&utm_source=git)** | Burlington, VT, US | On Site | Jan 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/69756dcb37785856350f50d6?utm_campaign=1050&utm_source=git)** | Lafayette, IN, US | On Site | Jan 24 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69755a6637785856350f3460?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Jan 24 |
-| **[Resident Company Club](https://residentcompanyclub.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6975479c206da320f49f58fb?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Jan 24 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Assistant PT – 6617](https://jobright.ai/jobs/info/69752852206da320f49f3a93?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 24 |
 | **[The Brewer-Garrett Company](https://www.brewer-garrett.com/)** | **[Project Coordination Internship](https://jobright.ai/jobs/info/6975268e37785856350f12fd?utm_campaign=1050&utm_source=git)** | Cleveland, OH | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697523a4206da320f49f3874?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Jan 24 |
@@ -99,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior EcoSystem Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/691fe7063f782d2f1afc14e3?utm_campaign=1050&utm_source=git)** | Allen, TX | Hybrid | Jan 24 |
 | **[Lyft](https://www.lyft.com/)** | **[Hardware Supply Chain Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691fb7f1a49a885af9a335a6?utm_campaign=1050&utm_source=git)** | San Francisco County, CA | Hybrid | Jan 24 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6968249c639b452fb57db22a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
-| ↳ | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6924cbf4ec574f4265bb7188?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Jan 24 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/68e7fe88c4895107182c07e2?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 24 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/696bdd565fc86241853b21ca?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6902591a98707b2b0fe6e803?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jan 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69749071206da320f49ed883?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 24 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/6974901dbc8e722e7b19ac81?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69748f1737785856350eac80?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 24 |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/69748dbe37785856350ea855?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69748d9bbc8e722e7b19a63b?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Jan 24 |
+| **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/697581cfbc8e722e7b1a50bf?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6975714dbc8e722e7b1a48af?utm_campaign=1050&utm_source=git)** | Burlington, VT, US | On Site | Jan 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/69756dcb37785856350f50d6?utm_campaign=1050&utm_source=git)** | Lafayette, IN, US | On Site | Jan 24 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69755a6637785856350f3460?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Jan 24 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - Global Markets / New York](https://jobright.ai/jobs/info/6957e96bf1f8465b79ee8a79?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 24 |
 | **[RELEX Solutions](http://www.relexsolutions.com)** | **[Project Management Office Support Intern - Spanish speaking for LATAM Market](https://jobright.ai/jobs/info/691f505ea49a885af9a2e1fd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Administrative assistant](https://jobright.ai/jobs/info/693ca14d49a7695fbd036f3c?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 24 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/6958e339aa05c26e7ab2c831?utm_campaign=1050&utm_source=git)** | Sandy Springs, GA | On Site | Jan 24 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/6903e4f3d64a22104aa94a78?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Jan 24 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Care Management Master's Intern](https://jobright.ai/jobs/info/6974e19637785856350ee76a?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[Bechtel Corporation](http://www.bechtel.com)** | **[2026 Student Internship (U.S.) - Supply Chain Management Intern](https://jobright.ai/jobs/info/691a9a6d45fb6f5ead8ac453?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/69749071206da320f49ed883?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 24 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/6974901dbc8e722e7b19ac81?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69748f1737785856350eac80?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 24 |
-| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/69748dbe37785856350ea855?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

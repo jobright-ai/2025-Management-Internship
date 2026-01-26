@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Project Management](https://jobright.ai/jobs/info/69771ea852f3c27ec64320c0?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jan 25 |
 | **[HII](https://hii.com)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69771acb52f3c27ec6431f3b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 25 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern, Gas Engineering Team](https://jobright.ai/jobs/info/697714e052f3c27ec6431b02?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 25 |
 | **[Maximus](http://www.maximus.com/)** | **[Global Impact & Belonging Intern](https://jobright.ai/jobs/info/697710c652f3c27ec6431854?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 25 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Growth and Pipeline Studies](https://jobright.ai/jobs/info/697668d7206da320f4a032c3?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 25 |
 | **[Syngenta](http://www.syngenta.com)** | **[Operations Research Intern](https://jobright.ai/jobs/info/69693b46f25a38006697ceff?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Business Applications Operations](https://jobright.ai/jobs/info/69763e50bc8e722e7b1adf60?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | On Site | Jan 25 |
-| **[Egotechworld](https://egotechworld.com/)** | **[Project Intern](https://jobright.ai/jobs/info/69762a5137785856350fea7a?utm_campaign=1050&utm_source=git)** | Mobile, AL | Remote | Jan 25 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/6903e66863502c0aded6e2d8?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Jan 25 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Waterbury/Watertown/Naugatuck, CT](https://jobright.ai/jobs/info/69761ec7206da320f4a00c18?utm_campaign=1050&utm_source=git)** | Waterbury, CT, US | On Site | Jan 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Technical Project Coordinator](https://jobright.ai/jobs/info/6969e070639b452fb57fdf1d?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 25 |

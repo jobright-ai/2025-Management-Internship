@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project manager intern](https://jobright.ai/jobs/info/6977b1c788e2b47213bba232?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 26 |
+| **[Columbia Distributing](http://www.coldist.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6977ad93fdeb8243a27a9313?utm_campaign=1050&utm_source=git)** | Kent, WA | On Site | Jan 26 |
+| ↳ | **[Summer Intern](https://jobright.ai/jobs/info/6977ad26fdeb8243a27a9256?utm_campaign=1050&utm_source=git)** | Wilsonville, OR | On Site | Jan 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - HIT Program Management Office (PMO)](https://jobright.ai/jobs/info/6977a78788e2b47213bb91ec?utm_campaign=1050&utm_source=git)** | Hillsboro | On Site | Jan 26 |
 | **[Vector Institute](https://vectorinstitute.ai/)** | **[FastLane Program Analyst Intern](https://jobright.ai/jobs/info/6977a60052f3c27ec643b9ba?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6977974e52f3c27ec643a9d3?utm_campaign=1050&utm_source=git)** | Menomonie, WI | On Site | Jan 26 |
 | ↳ | **[Retail Management Intern](https://jobright.ai/jobs/info/6977971c52f3c27ec643a983?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Jan 26 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Global Clinical Supply Chain](https://jobright.ai/jobs/info/6974207637785856350e19bd?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Jan 26 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year-Round - Development and Proposal Mgmt Business Undergraduate, Onsite](https://jobright.ai/jobs/info/696086e8a112b402660f3b82?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 26 |
 | **[Focus Partners Wealth](http://thecolonygroup.com)** | **[Operations Associate Intern](https://jobright.ai/jobs/info/69778d46fdeb8243a27a67fc?utm_campaign=1050&utm_source=git)** | St. Louis, MO | Hybrid | Jan 26 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Wealth Technology Strategy and Solutions Intern](https://jobright.ai/jobs/info/69778c67fdeb8243a27a6700?utm_campaign=1050&utm_source=git)** | St. Louis, MO | Hybrid | Jan 26 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Pathway (Workday) Starting August 2026](https://jobright.ai/jobs/info/6977876d52f3c27ec6439491?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Jan 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HII](https://hii.com)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6976dc363778585635106040?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Jan 25 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976db883778585635105ff2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6976cbad206da320f4a07bcc?utm_campaign=1050&utm_source=git)** | Alabaster, AL | On Site | Jan 25 |
-| **[Chewy](https://www.chewy.com)** | **[Area Manager I Intern](https://jobright.ai/jobs/info/6976cb8e3778585635105875?utm_campaign=1050&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 25 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Administrative Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976c7c5206da320f4a07ada?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
-| ↳ | **[Project Management Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976c786206da320f4a07ac9?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 25 |
-| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6976a4e13778585635103283?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

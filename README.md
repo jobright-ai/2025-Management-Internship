@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HII](https://hii.com)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69771acb52f3c27ec6431f3b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 25 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern, Gas Engineering Team](https://jobright.ai/jobs/info/697714e052f3c27ec6431b02?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 25 |
+| **[Maximus](http://www.maximus.com/)** | **[Global Impact & Belonging Intern](https://jobright.ai/jobs/info/697710c652f3c27ec6431854?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 25 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/69770bdc52f3c27ec6431582?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 25 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Strategy Interns Talent Pool](https://jobright.ai/jobs/info/6976f8e7fdeb8243a279d83f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Leadership Internship $19/HR](https://jobright.ai/jobs/info/6976f44e52f3c27ec642eed3?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6976ef89fdeb8243a279b7c6?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025a81ff462851fefe23be?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 24 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Program Analyst Intern](https://jobright.ai/jobs/info/697045a5333b6343a14cae8d?utm_campaign=1050&utm_source=git)** | Racine County, WI | On Site | Jan 24 |
 | **[Veritiv](https://www.veritiv.com)** | **[Supply Planner Intern](https://jobright.ai/jobs/info/68cb4ec2efdec76df36bb1c9?utm_campaign=1050&utm_source=git)** | Norcross, GA | Hybrid | Jan 24 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 Intern: General Procurement (12 weeks, June 2026 start)](https://jobright.ai/jobs/info/6958184caa05c26e7ab1fbfb?utm_campaign=1050&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Jan 24 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69026dd498707b2b0fe6f403?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
-| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/6903ad2563502c0aded6b004?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Jan 24 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025da498707b2b0fe6eaff?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

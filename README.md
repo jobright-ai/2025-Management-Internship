@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Strategy Interns Talent Pool](https://jobright.ai/jobs/info/6976f8e7fdeb8243a279d83f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
+| **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Leadership Internship $19/HR](https://jobright.ai/jobs/info/6976f44e52f3c27ec642eed3?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6976ef89fdeb8243a279b7c6?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/6976eb74fdeb8243a279b3a0?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976dc6bbc8e722e7b1b5010?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 25 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6920c3613f782d2f1afcb305?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Jan 25 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[NPD Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69038f87ff462851fefec303?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Jan 25 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/68af99222daaba398441f5e0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 25 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/6976eeb088e2b47213babd94?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Jan 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6962669025e18715077f4605?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Jan 25 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6964b6c025e1871507811cea?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Jan 25 |
@@ -116,6 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6975cd5abc8e722e7b1a9ae8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6975cc55206da320f49fca67?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/6975c11f206da320f49fc373?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Jan 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fc7152f3c27ec64308c3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976f7bb88e2b47213bad8ed?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
+| ↳ | **[Strategy Operations Project Intern (SMB Product - PMO) 2026 Start (MBA/MS)](https://jobright.ai/jobs/info/6976f79dfdeb8243a279d4bc?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Care Management Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976df92206da320f4a084f6?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Project Controls Intern - Summer 2026](https://jobright.ai/jobs/info/697585d237785856350f5cd4?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Jan 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/6903ad2563502c0aded6b004?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025da498707b2b0fe6eaff?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Jan 24 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - AI Data Center Program Management](https://jobright.ai/jobs/info/6974ca3d206da320f49f01c3?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6902d0a500a1816c41ea1a01?utm_campaign=1050&utm_source=git)** | Oregon, United States | On Site | Jan 24 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/690253e9ff462851fefe1f11?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 24 |
-| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Planning and Reporting Undergraduate Student Intern - Richland, Washington Duty Station](https://jobright.ai/jobs/info/6974c90437785856350edaae?utm_campaign=1050&utm_source=git)** | Richland, WA | Hybrid | Jan 24 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9801cca9271990ce43b0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6976a4e13778585635103283?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
 | **[Coast Guard Exchange (USCGCSC)](http://www.shopcgx.com)** | **[Administrative Specialist FT – 6616](https://jobright.ai/jobs/info/69767eb33778585635102cb7?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Jan 25 |
 | ↳ | **[Golf Course Manager FT – 6618](https://jobright.ai/jobs/info/69767e0e3778585635102af3?utm_campaign=1050&utm_source=git)** | Kodiak, AK | On Site | Jan 25 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976783c206da320f4a0382d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/6958256a9f1b381eb271059e?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Jan 24 |
 | ↳ | **[Property Management Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/695827279f1b381eb27106ee?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccba350bbaf76504ffc8b?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/695824d7aa05c26e7ab20497?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

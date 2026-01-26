@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fitnescity Health](https://www.fitnescity.com/)** | **[Operations Coordinator (Intern)](https://jobright.ai/jobs/info/697733a052f3c27ec64326f9?utm_campaign=1050&utm_source=git)** | New York, NY | Remote | Jan 26 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6977308588e2b47213baffcd?utm_campaign=1050&utm_source=git)** | Anaheim, CA, USA | On Site | Jan 26 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69772fe252f3c27ec64324e8?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 26 |
+| **[HII](https://hii.com)** | **[PROJECT MANAGEMENT ANALYST SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69772cd188e2b47213bafed7?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 26 |
+| **[Zscaler](https://www.zscaler.com)** | **[Program Manager Intern, Sales](https://jobright.ai/jobs/info/6941b4a5bdcf884a5add7377?utm_campaign=1050&utm_source=git)** | San Jose, California, USA | Hybrid | Jan 26 |
+| **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX Insights](https://jobright.ai/jobs/info/6977223452f3c27ec6432170?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Intern, Project Management](https://jobright.ai/jobs/info/69771ea852f3c27ec64320c0?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jan 25 |
 | **[HII](https://hii.com)** | **[FACILITIES PLANNER SKILLBRIDGE INTERN](https://jobright.ai/jobs/info/69771acb52f3c27ec6431f3b?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Jan 25 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern, Gas Engineering Team](https://jobright.ai/jobs/info/697714e052f3c27ec6431b02?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 25 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Etnyre International, Ltd.](https://etnyreinternational.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6974deb0206da320f49f0c7a?utm_campaign=1050&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Jan 24 |
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Shipping & Logistics Intern](https://jobright.ai/jobs/info/6974de7e206da320f49f0c5a?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6903b31a63502c0aded6b49e?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Jan 24 |
-| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Wealth Management Team Intern](https://jobright.ai/jobs/info/69201a3109cc522e877481a7?utm_campaign=1050&utm_source=git)** | Santa Barbara, CA | On Site | Jan 24 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025540ff462851fefe1fe1?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 24 |
-| ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6903b1f5d64a22104aa91d9e?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Jan 24 |
-| ↳ | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025a81ff462851fefe23be?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 24 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Program Analyst Intern](https://jobright.ai/jobs/info/697045a5333b6343a14cae8d?utm_campaign=1050&utm_source=git)** | Racine County, WI | On Site | Jan 24 |
-| **[Veritiv](https://www.veritiv.com)** | **[Supply Planner Intern](https://jobright.ai/jobs/info/68cb4ec2efdec76df36bb1c9?utm_campaign=1050&utm_source=git)** | Norcross, GA | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

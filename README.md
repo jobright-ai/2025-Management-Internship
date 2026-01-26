@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6976cbad206da320f4a07bcc?utm_campaign=1050&utm_source=git)** | Alabaster, AL | On Site | Jan 25 |
+| **[Chewy](https://www.chewy.com)** | **[Area Manager I Intern](https://jobright.ai/jobs/info/6976cb8e3778585635105875?utm_campaign=1050&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 25 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Administrative Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976c7c5206da320f4a07ada?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
 | ↳ | **[Project Management Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976c786206da320f4a07ac9?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Jan 25 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6976a4e13778585635103283?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6902591a98707b2b0fe6e803?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jan 24 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Material Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc84b49a7695fbd0382d3?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/6958256a9f1b381eb271059e?utm_campaign=1050&utm_source=git)** | Arlington, TX | On Site | Jan 24 |
-| ↳ | **[Property Management Intern - Summer 2026 - Dallas, TX](https://jobright.ai/jobs/info/695827279f1b381eb27106ee?utm_campaign=1050&utm_source=git)** | McKinney, TX | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

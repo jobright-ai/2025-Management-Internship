@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68cc97dd128dc347fd927108?utm_campaign=1050&utm_source=git)** | Gaithersburg, MD | On Site | Jan 26 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6971a5f1587dfa0bb55f51ed?utm_campaign=1050&utm_source=git)** | Lockport, IL | On Site | Jan 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bbd765768b6412b1efcf?utm_campaign=1050&utm_source=git)** | Greensburg, PA | On Site | Jan 26 |
+| ↳ | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9bb0965768b6412b1ef57?utm_campaign=1050&utm_source=git)** | Warren, MI | On Site | Jan 26 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/693171164c474121999ef229?utm_campaign=1050&utm_source=git)** | Macedonia, OH | On Site | Jan 26 |
+| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Central Procurement Intern](https://jobright.ai/jobs/info/6905725d63502c0aded7b25b?utm_campaign=1050&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jan 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9ba870930fe0bc462892c?utm_campaign=1050&utm_source=git)** | Uniontown, PA | On Site | Jan 26 |
+| **[BetaNXT](https://betanxt.com)** | **[Summer Intern, Project Management](https://jobright.ai/jobs/info/693ff35850bbaf7650520de6?utm_campaign=1050&utm_source=git)** | Brookfield, WI | Hybrid | Jan 26 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/689554304ed2ea559ca55041?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Jan 26 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Facility Management](https://jobright.ai/jobs/info/68cc978d128dc347fd927084?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Jan 26 |
+| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b18e67f4e41a61efd7e44c?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Jan 26 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/68e9b9fa0930fe0bc46288e7?utm_campaign=1050&utm_source=git)** | Grand Blanc, MI | On Site | Jan 26 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/6895582b8c6d6b4426779150?utm_campaign=1050&utm_source=git)** | Catlettsburg, KY | On Site | Jan 26 |
 | ↳ | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/6895693e73b3a600fe887358?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 26 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Global Innovation Intern](https://jobright.ai/jobs/info/68e827e5cc49a84b7e102f97?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 26 |
@@ -130,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Jan 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6962669025e18715077f4605?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Jan 25 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6964b6c025e1871507811cea?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Jan 25 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69776c3b88e2b47213bb456a?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 25 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Procurement (Buyer) Intern - Summer 2026](https://jobright.ai/jobs/info/6933f815764507023d1bb014?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Jan 25 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b1342304557a6c207bab8b?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jan 25 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Midwest Region)](https://jobright.ai/jobs/info/695a2e0faa05c26e7ab3c3a0?utm_campaign=1050&utm_source=git)** | Manchester, MO | On Site | Jan 25 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aea95c7bcb7608b3d28b99?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Jan 25 |
 | **[PIM Brands](https://pimbrands.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6903d89863502c0aded6d4b9?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 25 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Smartsheet Solutions](https://jobright.ai/jobs/info/6920cabea49a885af9a3f382?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jan 25 |
-| **[Dyno Nobel](http://www.dynonobel.com)** | **[Project Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69052305ff462851feffad09?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Jan 25 |
-| **[Air Products](https://www.airproducts.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/68b09f5713563e782a9f7e44?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Jan 25 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern](https://jobright.ai/jobs/info/68cca5017342c7623ae678be?utm_campaign=1050&utm_source=git)** | Essex Junction, VT | On Site | Jan 25 |
-| ↳ | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aef7927bcb7608b3d2a41b?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 25 |
-| **[Pentair](http://www.pentair.com)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68cf633d846f0b04af681af5?utm_campaign=1050&utm_source=git)** | Golden Valley, MN | On Site | Jan 25 |
-| **[Rambus](http://www.rambus.com/us)** | **[Intern, Strategic Programs](https://jobright.ai/jobs/info/6968f58c1703f05405aad367?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 25 |
-| ↳ | **[Indirect Procurement Intern](https://jobright.ai/jobs/info/6960fa7ff3f4cd132505fbe4?utm_campaign=1050&utm_source=git)** | San Jose, CA | Hybrid | Jan 25 |
-| **[ABB](https://global.abb/group/en)** | **[Health, Safety & Environmental Intern - Summer 2026](https://jobright.ai/jobs/info/69602a3e7ebc25398eb61cb2?utm_campaign=1050&utm_source=git)** | Mebane, NC | Hybrid | Jan 25 |
-| **[Pursuit](http://www.pursuit.org)** | **[Strategy and Operations Associate (Contract/Temp/MBA Internship)](https://jobright.ai/jobs/info/695dafc4f1f8465b79f3f879?utm_campaign=1050&utm_source=git)** | Long Island City | Hybrid | Jan 25 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Inventory Management - Intern](https://jobright.ai/jobs/info/6975d249bc8e722e7b1a9c57?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 25 |
-| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6975cd5abc8e722e7b1a9ae8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
-| ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6975cc55206da320f49fca67?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
-| **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/6975c11f206da320f49fc373?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

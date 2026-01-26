@@ -117,7 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6975cd5abc8e722e7b1a9ae8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6975cc55206da320f49fca67?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/6975c11f206da320f49fc373?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Jan 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fc7152f3c27ec64308c3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| **[TikTok](https://www.tiktok.com)** | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697703cb88e2b47213baeb76?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
+| ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976fc7152f3c27ec64308c3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | ↳ | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976f7bb88e2b47213bad8ed?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 24 |
 | ↳ | **[Strategy Operations Project Intern (SMB Product - PMO) 2026 Start (MBA/MS)](https://jobright.ai/jobs/info/6976f79dfdeb8243a279d4bc?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Care Management Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976df92206da320f4a084f6?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69026dd498707b2b0fe6f403?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 24 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/6903ad2563502c0aded6b004?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Jan 24 |
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/69025da498707b2b0fe6eaff?utm_campaign=1050&utm_source=git)** | Glenview, IL | On Site | Jan 24 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - AI Data Center Program Management](https://jobright.ai/jobs/info/6974ca3d206da320f49f01c3?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

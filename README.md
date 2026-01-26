@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BW Converting](http://www.bwconverting.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6976ef89fdeb8243a279b7c6?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
+| **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/6976eb74fdeb8243a279b3a0?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976dc6bbc8e722e7b1b5010?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 25 |
 | **[HII](https://hii.com)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6976dc363778585635106040?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Jan 25 |
 | **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976db883778585635105ff2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6920c3613f782d2f1afcb305?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Jan 25 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[NPD Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69038f87ff462851fefec303?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Jan 25 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/68af99222daaba398441f5e0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 25 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/6976eeb088e2b47213babd94?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Jan 25 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6962669025e18715077f4605?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Jan 25 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6964b6c025e1871507811cea?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Jan 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/690253e9ff462851fefe1f11?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Jan 24 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Planning and Reporting Undergraduate Student Intern - Richland, Washington Duty Station](https://jobright.ai/jobs/info/6974c90437785856350edaae?utm_campaign=1050&utm_source=git)** | Richland, WA | Hybrid | Jan 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9801cca9271990ce43b0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Jan 24 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior EcoSystem Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/691fe7063f782d2f1afc14e3?utm_campaign=1050&utm_source=git)** | Allen, TX | Hybrid | Jan 24 |
-| **[Lyft](https://www.lyft.com/)** | **[Hardware Supply Chain Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691fb7f1a49a885af9a335a6?utm_campaign=1050&utm_source=git)** | San Francisco County, CA | Hybrid | Jan 24 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/68e7fe88c4895107182c07e2?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

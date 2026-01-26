@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern - Pathway (Workday) Starting August 2026](https://jobright.ai/jobs/info/6977876d52f3c27ec6439491?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Jan 26 |
+| **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Logistics & Supply Chain Internship- Summer 2026](https://jobright.ai/jobs/info/69778659fdeb8243a27a5fb2?utm_campaign=1050&utm_source=git)** | Lititz, PA | On Site | Jan 26 |
+| **[Michelin](http://www.michelin.com/)** | **[2026 Summer Internship Lexington, SC](https://jobright.ai/jobs/info/690b848c221b890c277f56b6?utm_campaign=1050&utm_source=git)** | Lexington, SC | On Site | Jan 26 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Outbound Logistics Summer Intern (Remote Friendly)](https://jobright.ai/jobs/info/6977843788e2b47213bb678f?utm_campaign=1050&utm_source=git)** | Lititz, PA | Remote | Jan 26 |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Operations Associate Intern](https://jobright.ai/jobs/info/697783b088e2b47213bb6701?utm_campaign=1050&utm_source=git)** | St. Louis, MO | Hybrid | Jan 26 |
+| ↳ | **[Infrastructure & Operations (I&O) - Vendor Management Intern](https://jobright.ai/jobs/info/69778262fdeb8243a27a5b42?utm_campaign=1050&utm_source=git)** | St. Louis, MO | Hybrid | Jan 26 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Corporate Initiatives Intern- Summer 2026 COACH College Program](https://jobright.ai/jobs/info/695b99a8f396ad6ddab14c3b?utm_campaign=1050&utm_source=git)** | Boston, MA | Hybrid | Jan 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com)** | **[Student Project Coordinator](https://jobright.ai/jobs/info/69703138587dfa0bb55db3f9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jan 26 |
 | **[Symbotic](https://www.symbotic.com)** | **[MBA Intern- Executive Projects](https://jobright.ai/jobs/info/68cdc26d1ad6b16f0289eafb?utm_campaign=1050&utm_source=git)** | Wilmington, MA | On Site | Jan 26 |
@@ -122,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Intern, Gas Engineering Team](https://jobright.ai/jobs/info/697714e052f3c27ec6431b02?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 25 |
 | **[Maximus](http://www.maximus.com/)** | **[Global Impact & Belonging Intern](https://jobright.ai/jobs/info/697710c652f3c27ec6431854?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/69770bdc52f3c27ec6431582?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 25 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Strategy Interns Talent Pool](https://jobright.ai/jobs/info/6976f8e7fdeb8243a279d83f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Food & Beverage Leadership Internship $19/HR](https://jobright.ai/jobs/info/6976f44e52f3c27ec642eed3?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6976ef89fdeb8243a279b7c6?utm_campaign=1050&utm_source=git)** | Green Bay, WI | On Site | Jan 25 |
 | **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/6976eb74fdeb8243a279b3a0?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[NPD Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69038f87ff462851fefec303?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Jan 25 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/68af99222daaba398441f5e0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 25 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Jan 25 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6962669025e18715077f4605?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Jan 25 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6964b6c025e1871507811cea?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Jan 25 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/69776c3b88e2b47213bb456a?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 25 |
-| **[Sensata Technologies](http://www.sensata.com)** | **[Procurement (Buyer) Intern - Summer 2026](https://jobright.ai/jobs/info/6933f815764507023d1bb014?utm_campaign=1050&utm_source=git)** | Attleboro, MA | On Site | Jan 25 |
-| **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/68b1342304557a6c207bab8b?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

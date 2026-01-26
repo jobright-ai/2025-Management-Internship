@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976dc6bbc8e722e7b1b5010?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Jan 25 |
+| **[HII](https://hii.com)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6976dc363778585635106040?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Jan 25 |
+| **[Falcomm](https://www.myfalcomm.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6976db883778585635105ff2?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 25 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/6976cbad206da320f4a07bcc?utm_campaign=1050&utm_source=git)** | Alabaster, AL | On Site | Jan 25 |
 | **[Chewy](https://www.chewy.com)** | **[Area Manager I Intern](https://jobright.ai/jobs/info/6976cb8e3778585635105875?utm_campaign=1050&utm_source=git)** | Wilkes-Barre, PA | On Site | Jan 25 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Administrative Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976c7c5206da320f4a07ada?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 25 |
@@ -110,9 +113,11 @@ For a complete list, click the following sortable link below:
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6975cd5abc8e722e7b1a9ae8?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | ↳ | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6975cc55206da320f49fca67?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 24 |
 | **[Minnesota Department of Natural Resources](https://www.dnr.state.mn.us)** | **[Park Operations Intern](https://jobright.ai/jobs/info/6975c11f206da320f49fc373?utm_campaign=1050&utm_source=git)** | Park, MN | On Site | Jan 24 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Care Management Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6976df92206da320f4a084f6?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[HNTB](http://www.hntb.com/)** | **[Project Controls Intern - Summer 2026](https://jobright.ai/jobs/info/697585d237785856350f5cd4?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 24 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Jan 24 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/697581cfbc8e722e7b1a50bf?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfca206da320f4a086b7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 24 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Burlington, VT](https://jobright.ai/jobs/info/6975714dbc8e722e7b1a48af?utm_campaign=1050&utm_source=git)** | Burlington, VT, US | On Site | Jan 24 |
 | ↳ | **[Summer 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/69756dcb37785856350f50d6?utm_campaign=1050&utm_source=git)** | Lafayette, IN, US | On Site | Jan 24 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69755a6637785856350f3460?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Jan 24 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9801cca9271990ce43b0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Jan 24 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Junior EcoSystem Presales Business Manager Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/691fe7063f782d2f1afc14e3?utm_campaign=1050&utm_source=git)** | Allen, TX | Hybrid | Jan 24 |
 | **[Lyft](https://www.lyft.com/)** | **[Hardware Supply Chain Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/691fb7f1a49a885af9a335a6?utm_campaign=1050&utm_source=git)** | San Francisco County, CA | Hybrid | Jan 24 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6968249c639b452fb57db22a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 24 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[SW Project Manager Internship - Summer 2026](https://jobright.ai/jobs/info/68e7fe88c4895107182c07e2?utm_campaign=1050&utm_source=git)** | Plantation, FL | Hybrid | Jan 24 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/696bdd565fc86241853b21ca?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Jan 24 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/6902591a98707b2b0fe6e803?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jan 24 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Jan 24 |
-| **[Zipline](https://www.zipline.com/)** | **[Material Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc84b49a7695fbd0382d3?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corsair](http://www.corsair.com)** | **[Demand & Supply Planning Analyst Intern](https://jobright.ai/jobs/info/69407004aa598a08c3f00e56?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6978b1c252f3c27ec644f249?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 27 |
+| ↳ | **[WDW Analytical & Strategic Planning Intern, Fall 2026](https://jobright.ai/jobs/info/6978b0f188e2b47213bcc8ae?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6978b02488e2b47213bcc890?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
+| **[Trace3](http://trace3.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69406a07aa598a08c3f0097b?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 27 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[WDW Analytical & Strategic Planning Intern, Fall 2026](https://jobright.ai/jobs/info/6978ad7088e2b47213bcc7b8?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Construction Project Management Intern, Fall 2026](https://jobright.ai/jobs/info/6978ac4d88e2b47213bcc792?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 27 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68955df18c6d6b4426779399?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 27 |
+| ↳ | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68ccd8f9d11b445e0bee2c04?utm_campaign=1050&utm_source=git)** | Garyville, LA | On Site | Jan 27 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Carolinas Internship & Co Op 25-26](https://jobright.ai/jobs/info/696f13a10f4e0f657ea38224?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6978aa2288e2b47213bcc6dd?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 27 |
+| **[Brother USA](https://brother-usa.com)** | **[Supply Chain and Distribution Operations Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf5eaf1f8465b79f206a4?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Tampa, FL (June 2026)](https://jobright.ai/jobs/info/68b23114f4e41a61efd82a40?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/695c601922c9dc0d3d545b0e?utm_campaign=1050&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jan 27 |
 | ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/695c5da4f1f8465b79f28256?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 27 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Until](https://www.untillabs.com)** | **[Rotational Business Operations & Lab Operations Intern (University)](https://jobright.ai/jobs/info/69783a7639f7f96cc6d08609?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6978315988e2b47213bc387e?utm_campaign=1050&utm_source=git)** | Coon Rapids, MN | On Site | Jan 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6978393c88e2b47213bc416c?utm_campaign=1050&utm_source=git)** | Forest Lake, MN | On Site | Jan 26 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697830eb52f3c27ec6446017?utm_campaign=1050&utm_source=git)** | Cuyahoga Falls, OH | On Site | Jan 26 |
-| **[Hydro One](http://www.hydroone.com/)** | **[Co-op Student - Transmission Lines - Project Manager - 16 Months - May 2026](https://jobright.ai/jobs/info/695bab6df1f8465b79f1aee4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
-| **[JustFab](https://www.justfab.de)** | **[Strategy & Operations Intern](https://jobright.ai/jobs/info/697835c888e2b47213bc3c33?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
-| **[Crowe](https://www.crowe.com/)** | **[D365 ERP Project Coordinator Intern](https://jobright.ai/jobs/info/695c3d2622c9dc0d3d541c0e?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Technical Program Manager, Electronic Devices (Summer 2026)](https://jobright.ai/jobs/info/69780ede52f3c27ec6443f3e?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Jan 26 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Project Management Intern- Warner Robins GA](https://jobright.ai/jobs/info/69780ba388e2b47213bc11bc?utm_campaign=1050&utm_source=git)** | United States-Georgia-Warner Robins | On Site | Jan 26 |
-| **[TSMC Washington](http://www.wafertech.com)** | **[2026 Summer Intern - Purchasing & Logistics](https://jobright.ai/jobs/info/6978600739f7f96cc6d0cc57?utm_campaign=1050&utm_source=git)** | Camas, WA | On Site | Jan 26 |
-| **[Seabrook Island Club](https://www.seabrookisland.com)** | **[Hospitality Intern - Food and Beverage Department](https://jobright.ai/jobs/info/693c881e50bbaf76504fbf8e?utm_campaign=1050&utm_source=git)** | Johns Island, SC | On Site | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Operations and Sustainability Intern (Paid)](https://jobright.ai/jobs/info/6978293152f3c27ec64456bb?utm_campaign=1050&utm_source=git)** | Nashville,TN,US | On Site | Jan 26 |
-| **[Uber](http://www.uber.com)** | **[Sr Program Manager / Strategy & Planning MBA Intern , United States](https://jobright.ai/jobs/info/6978235788e2b47213bc23bd?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[Concora Credit](https://about.concoracredit.com)** | **[Operations Business Support Intern](https://jobright.ai/jobs/info/697820cd88e2b47213bc20c4?utm_campaign=1050&utm_source=git)** | Akron, OH, US | On Site | Jan 26 |
-| ↳ | **[Operations Business Support Intern](https://jobright.ai/jobs/info/697826a752f3c27ec64453c5?utm_campaign=1050&utm_source=git)** | US-OH-Akron | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

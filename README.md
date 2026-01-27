@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[HEOR Intern - Remote](https://jobright.ai/jobs/info/695cdaa05e4962051b5a008c?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | Remote | Jan 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6978b26d52f3c27ec644f271?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[Demand & Supply Planning Analyst Intern](https://jobright.ai/jobs/info/69407004aa598a08c3f00e56?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6978b1c252f3c27ec644f249?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 27 |
 | ↳ | **[WDW Analytical & Strategic Planning Intern, Fall 2026](https://jobright.ai/jobs/info/6978b0f188e2b47213bcc8ae?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Branch Operations Intern (Starting May 2026!) - Decatur, IL](https://jobright.ai/jobs/info/6974356537785856350e2e67?utm_campaign=1050&utm_source=git)** | Decatur, IL | On Site | Jan 26 |
 | **[CDM Service Group, Inc.](http://www.cdminvestmentgroup.com)** | **[Intern](https://jobright.ai/jobs/info/695c60a722c9dc0d3d545bab?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | On Site | Jan 26 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Operations and Sales Summer Internship Program](https://jobright.ai/jobs/info/695c394222c9dc0d3d5417c1?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 26 |
-| **[Hydro One](http://www.hydroone.com/)** | **[Management - University Co-op Student - Corporate Development Analyst - 4-12 Months - May 2026](https://jobright.ai/jobs/info/695baa4df396ad6ddab14f9b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud PMO Intern](https://jobright.ai/jobs/info/6978419852f3c27ec6447e6d?utm_campaign=1050&utm_source=git)** | Herndon, VA | Hybrid | Jan 26 |
 | **[SciPlay](https://www.sciplay.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6978429152f3c27ec6447fd3?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Jan 26 |
 | **[ESFM® USA](http://www.eurestservices.us)** | **[Facilities Management Internship / ESFM](https://jobright.ai/jobs/info/69783e4f52f3c27ec64479d1?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 26 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697852e052f3c27ec644aa64?utm_campaign=1050&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Jan 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69784d6839f7f96cc6d0b620?utm_campaign=1050&utm_source=git)** | Lake Ozark, MO | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Safety and Security Certification Intern](https://jobright.ai/jobs/info/69781ed9fdeb8243a27b12be?utm_campaign=1050&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
-| **[Hydro One](http://www.hydroone.com/)** | **[Co-Op Student - Capital Portfolio Delivery - Process Analyst - 16 Months - Toronto - May 2026](https://jobright.ai/jobs/info/695ba844f1f8465b79f1ae8b?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[JustFab](https://www.justfab.de)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/6978417888e2b47213bc4fc6?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Retail Operations Intern - Internal Opportunity](https://jobright.ai/jobs/info/69781d0152f3c27ec644495b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/69781bc488e2b47213bc1b2e?utm_campaign=1050&utm_source=git)** | Sarasota | On Site | Jan 26 |

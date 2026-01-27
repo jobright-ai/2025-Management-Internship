@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rosendin](https://www.rosendin.com)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/695d0d10f1f8465b79f33f89?utm_campaign=1050&utm_source=git)** | Pflugerville, TX | On Site | Jan 27 |
+| **[MEMIC](https://www.memic.com/)** | **[IT Project Management Internship](https://jobright.ai/jobs/info/6978d9c739f7f96cc6d134fa?utm_campaign=1050&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
+| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin](https://jobright.ai/jobs/info/6978d8bb52f3c27ec6451d16?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Jan 27 |
+| **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Real Estate Strategy](https://jobright.ai/jobs/info/6978d3c139f7f96cc6d131c3?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Project Management Intern](https://jobright.ai/jobs/info/6978d1db88e2b47213bcef82?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jan 27 |
+| **[Rosendin](https://www.rosendin.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6977db0152f3c27ec6440170?utm_campaign=1050&utm_source=git)** | Gallatin, TN | On Site | Jan 27 |
+| ↳ | **[Intern - Supply Chain](https://jobright.ai/jobs/info/695d0d10f1f8465b79f33f89?utm_campaign=1050&utm_source=git)** | Pflugerville, TX | On Site | Jan 27 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/6978cbc288e2b47213bcebad?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Business Planning and Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69736c7137785856350d364b?utm_campaign=1050&utm_source=git)** | Celebration, FL | On Site | Jan 27 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[HEOR Intern - Remote](https://jobright.ai/jobs/info/695cdaa05e4962051b5a008c?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | Remote | Jan 27 |
@@ -80,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/695c601922c9dc0d3d545b0e?utm_campaign=1050&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jan 27 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6978c5d288e2b47213bce7b7?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Jan 27 |
 | ↳ | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6978c83f88e2b47213bce92c?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Jan 27 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6978cc1288e2b47213bcebf4?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6978cc8739f7f96cc6d12d51?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Jan 27 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6978cc1288e2b47213bcebf4?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Jan 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/695c5da4f1f8465b79f28256?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 27 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Brookline, MA](https://jobright.ai/jobs/info/6978998139f7f96cc6d1055d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 27 |
 | **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Corporate Retail Operations Intern– Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/697896f088e2b47213bcc320?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697852e052f3c27ec644aa64?utm_campaign=1050&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Jan 26 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69784d6839f7f96cc6d0b620?utm_campaign=1050&utm_source=git)** | Lake Ozark, MO | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Safety and Security Certification Intern](https://jobright.ai/jobs/info/69781ed9fdeb8243a27b12be?utm_campaign=1050&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
-| **[JustFab](https://www.justfab.de)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/6978417888e2b47213bc4fc6?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
-| **[Tecovas](http://tecovas.com)** | **[Retail Operations Intern - Internal Opportunity](https://jobright.ai/jobs/info/69781d0152f3c27ec644495b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern SRQ Sarasota-Bradenton International Airport](https://jobright.ai/jobs/info/69781bc488e2b47213bc1b2e?utm_campaign=1050&utm_source=git)** | Sarasota | On Site | Jan 26 |
-| ↳ | **[Summer 2026 Management Internship - Brookline, MA](https://jobright.ai/jobs/info/69781b7a52f3c27ec64447f2?utm_campaign=1050&utm_source=git)** | Brookline | On Site | Jan 26 |
-| **[Uber](http://www.uber.com)** | **[Sr Program Manager / Strategy & Planning MBA Intern , United States](https://jobright.ai/jobs/info/69781a8f88e2b47213bc19bf?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

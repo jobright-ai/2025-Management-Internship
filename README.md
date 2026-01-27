@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Tampa, FL (June 2026)](https://jobright.ai/jobs/info/68b23114f4e41a61efd82a40?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 27 |
+| **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/695c601922c9dc0d3d545b0e?utm_campaign=1050&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Jan 27 |
+| ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/695c5da4f1f8465b79f28256?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 27 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Brookline, MA](https://jobright.ai/jobs/info/6978998139f7f96cc6d1055d?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Jan 27 |
+| **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Corporate Retail Operations Intern– Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/697896f088e2b47213bcc320?utm_campaign=1050&utm_source=git)** | Oak Brook, IL | On Site | Jan 27 |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Operations Reporting Intern (Summer 2026)](https://jobright.ai/jobs/info/695c27ceaa05c26e7ab57a92?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/695c512faa05c26e7ab5b477?utm_campaign=1050&utm_source=git)** | Garden City, NY | On Site | Jan 27 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Software Technical Program Manager Co-op (July to December)](https://jobright.ai/jobs/info/697883df52f3c27ec644d46b?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Jan 27 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Commercial Operations Intern](https://jobright.ai/jobs/info/695c7ae7f1f8465b79f29e72?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | Hybrid | Jan 27 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Live Poultry Operations Internship](https://jobright.ai/jobs/info/69787d8f88e2b47213bca475?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Jan 27 |
 | ↳ | **[Live Poultry Operations Internship](https://jobright.ai/jobs/info/69787b2139f7f96cc6d0e039?utm_campaign=1050&utm_source=git)** | Off-Site Employees (Corp Use) - Springdale, Arkansas | On Site | Jan 27 |
 | **[TJX Canada – Winners, Marshalls, HomeSense](https://jobs.tjx.com/global/en/locations-ca)** | **[Spring Term Workplace Services Project Coordinator Co-op/Intern](https://jobright.ai/jobs/info/69724bf24ccbf64f8df23773?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 27 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/695c512faa05c26e7ab5b477?utm_campaign=1050&utm_source=git)** | Garden City, NY | On Site | Jan 27 |
 | **[Culligan International](http://www.culligan.com/)** | **[Intern, Strategy Analyst](https://jobright.ai/jobs/info/695c82e9f1f8465b79f2a750?utm_campaign=1050&utm_source=git)** | Rosemont, IL | On Site | Jan 27 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Safety and Security Certification Intern](https://jobright.ai/jobs/info/697875d752f3c27ec644c448?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Kiewit](http://www.kiewit.com)** | **[Supply Chain Intern - Kiewit Offshore Services (Summer 2026)](https://jobright.ai/jobs/info/695c146e22c9dc0d3d53f2cd?utm_campaign=1050&utm_source=git)** | Ingleside, TX | On Site | Jan 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uber](http://www.uber.com)** | **[Sr Program Manager / Strategy & Planning MBA Intern , United States](https://jobright.ai/jobs/info/6978235788e2b47213bc23bd?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 26 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Operations Business Support Intern](https://jobright.ai/jobs/info/697820cd88e2b47213bc20c4?utm_campaign=1050&utm_source=git)** | Akron, OH, US | On Site | Jan 26 |
 | ↳ | **[Operations Business Support Intern](https://jobright.ai/jobs/info/697826a752f3c27ec64453c5?utm_campaign=1050&utm_source=git)** | US-OH-Akron | On Site | Jan 26 |
-| **[Didion](https://www.didioninc.com)** | **[Supply Chain/Purchasing Internship](https://jobright.ai/jobs/info/69782638fdeb8243a27b1b0a?utm_campaign=1050&utm_source=git)** | Cambria, WI | On Site | Jan 26 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[E&PS IAD Summer Intern](https://jobright.ai/jobs/info/6978029b52f3c27ec6443a82?utm_campaign=1050&utm_source=git)** | New Brunswick, New Jersey, United States of America | Hybrid | Jan 26 |
-| **[Kloeckner Metals - Americas](http://www.kloecknermetals.com/)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/6978439439f7f96cc6d09c1b?utm_campaign=1050&utm_source=git)** | Roswell, Georgia, United States | On Site | Jan 26 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Administrative Support (Queens North Division), Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6978274252f3c27ec6445484?utm_campaign=1050&utm_source=git)** | Flushing, NY | On Site | Jan 26 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern RSW Fort Myers Airport](https://jobright.ai/jobs/info/6978314839f7f96cc6d0798e?utm_campaign=1050&utm_source=git)** | Fort Myers, FL, US | On Site | Jan 26 |
-| ↳ | **[Summer 2026 Management Internship - Lynn, MA](https://jobright.ai/jobs/info/69781e0ffdeb8243a27b11dc?utm_campaign=1050&utm_source=git)** | Lynn | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

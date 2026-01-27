@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern, Some Travel Required - Seekonk, MA](https://jobright.ai/jobs/info/6978f4a888e2b47213bd029b?utm_campaign=1050&utm_source=git)** | Seekonk, MA | On Site | Jan 27 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Project Management Engineering](https://jobright.ai/jobs/info/6978f3ec52f3c27ec645372c?utm_campaign=1050&utm_source=git)** | Novi, MI | Hybrid | Jan 27 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern, Some Travel Required - Seekonk, MA](https://jobright.ai/jobs/info/6978f2f452f3c27ec645353e?utm_campaign=1050&utm_source=git)** | Seekonk, MA #0216 | On Site | Jan 27 |
+| ↳ | **[Club Operations Intern, Some Travel Required - Nashua, NH](https://jobright.ai/jobs/info/6978f26639f7f96cc6d1456b?utm_campaign=1050&utm_source=git)** | Nashua, NH #0039 | On Site | Jan 27 |
+| ↳ | **[Club Operations Intern, Some Travel Required - Greece, NY](https://jobright.ai/jobs/info/6978ef5552f3c27ec6452e6a?utm_campaign=1050&utm_source=git)** | Greece, NY #0185 | On Site | Jan 27 |
+| ↳ | **[Club Operations Intern, Some Travel Required - Chesterfield, MI](https://jobright.ai/jobs/info/6978ee5352f3c27ec6452c5b?utm_campaign=1050&utm_source=git)** | Chesterfield, MI #0385 | On Site | Jan 27 |
+| **[FORTÉ](https://www.ourforte.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6978ec4c52f3c27ec645288b?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 27 |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[Admin/Training Records Assistant Summer Intern](https://jobright.ai/jobs/info/692f669afa28370be26a9a9d?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Jan 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin,](https://jobright.ai/jobs/info/6978e44c39f7f96cc6d13a94?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[IT Project Management Internship](https://jobright.ai/jobs/info/6978e2b239f7f96cc6d139a8?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Summer 2026 - College Intern - West Palm Beach, FL (Front Office, Recreation, and Food & Beverage)](https://jobright.ai/jobs/info/6978e12852f3c27ec6452167?utm_campaign=1050&utm_source=git)** | Marriott's Ocean Pointe | On Site | Jan 27 |
@@ -66,12 +74,14 @@ For a complete list, click the following sortable link below:
 | **[MEMIC](https://www.memic.com/)** | **[IT Project Management Internship](https://jobright.ai/jobs/info/6978d9c739f7f96cc6d134fa?utm_campaign=1050&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Wisconsin](https://jobright.ai/jobs/info/6978d8bb52f3c27ec6451d16?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Real Estate Strategy](https://jobright.ai/jobs/info/6978d3c139f7f96cc6d131c3?utm_campaign=1050&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
+| **[Lactalis Canada](https://lactalis.ca/)** | **[Enterprise Strategy Projects Internship](https://jobright.ai/jobs/info/6978f57688e2b47213bd0338?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Jan 27 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Project Management Intern](https://jobright.ai/jobs/info/6978d1db88e2b47213bcef82?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jan 27 |
 | **[Rosendin](https://www.rosendin.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/6977db0152f3c27ec6440170?utm_campaign=1050&utm_source=git)** | Gallatin, TN | On Site | Jan 27 |
 | ↳ | **[Intern - Supply Chain](https://jobright.ai/jobs/info/695d0d10f1f8465b79f33f89?utm_campaign=1050&utm_source=git)** | Pflugerville, TX | On Site | Jan 27 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/6978cbc288e2b47213bcebad?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Business Planning and Strategy Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69736c7137785856350d364b?utm_campaign=1050&utm_source=git)** | Celebration, FL | On Site | Jan 27 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[HEOR Intern - Remote](https://jobright.ai/jobs/info/695cdaa05e4962051b5a008c?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | Remote | Jan 27 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/6978ecaa52f3c27ec645293b?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6978b26d52f3c27ec644f271?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[Demand & Supply Planning Analyst Intern](https://jobright.ai/jobs/info/69407004aa598a08c3f00e56?utm_campaign=1050&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6978b1c252f3c27ec644f249?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 27 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69782d7a52f3c27ec6445bde?utm_campaign=1050&utm_source=git)** | Marshalltown, IA | On Site | Jan 26 |
 | **[Rincon Research Corporation](http://www.rincon.com)** | **[Summer Intern - 2026](https://jobright.ai/jobs/info/6919612cbcdbf3560c9d5321?utm_campaign=1050&utm_source=git)** | Chantilly, VA | On Site | Jan 26 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69784b2988e2b47213bc6324?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Jan 26 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69782b3352f3c27ec6445904?utm_campaign=1050&utm_source=git)** | Watertown, SD | On Site | Jan 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/6978586e88e2b47213bc809a?utm_campaign=1050&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Jan 26 |
-| **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Distribution Center](https://jobright.ai/jobs/info/697827a488e2b47213bc2868?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Summer 2026 Operations and Sustainability Intern (Paid)](https://jobright.ai/jobs/info/6978259d88e2b47213bc262d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jan 26 |
-| **[RTX](http://www.raytheon.com)** | **[Summer 2026 Intern, Corp Supply Chain (Remote)](https://jobright.ai/jobs/info/697824fa52f3c27ec64451d3?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Remote | Jan 26 |
-| **[Kirby Risk](https://www.kirbyrisk.com)** | **[Branch Operations Intern (Starting May 2026!) - Decatur, IL](https://jobright.ai/jobs/info/6974356537785856350e2e67?utm_campaign=1050&utm_source=git)** | Decatur, IL | On Site | Jan 26 |
-| **[CDM Service Group, Inc.](http://www.cdminvestmentgroup.com)** | **[Intern](https://jobright.ai/jobs/info/695c60a722c9dc0d3d545bab?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | On Site | Jan 26 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[Operations and Sales Summer Internship Program](https://jobright.ai/jobs/info/695c394222c9dc0d3d5417c1?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 26 |
-| **[SAP](https://www.sap.com)** | **[SAP NS2 Cloud PMO Intern](https://jobright.ai/jobs/info/6978419852f3c27ec6447e6d?utm_campaign=1050&utm_source=git)** | Herndon, VA | Hybrid | Jan 26 |
-| **[SciPlay](https://www.sciplay.com)** | **[Production Assistant Intern](https://jobright.ai/jobs/info/6978429152f3c27ec6447fd3?utm_campaign=1050&utm_source=git)** | Cedar Falls, IA | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship- Cincinnati/Northern Kentucky](https://jobright.ai/jobs/info/695de9f7821f2713684b0cdf?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 27 |
+| **[Culligan International](http://www.culligan.com/)** | **[Intern, Project Management/Business Analyst](https://jobright.ai/jobs/info/695dd591924bd9135dd45d23?utm_campaign=1050&utm_source=git)** | Rosemont, IL | Hybrid | Jan 27 |
 | **[Uber](http://www.uber.com)** | **[2026 Global Shared Rides Program Manager / MBA Intern, United States](https://jobright.ai/jobs/info/6979b8a7ca92cf0d6a82feab?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Schulte Hospitality Group](http://schultehospitality.com)** | **[Summer Internship - Hotel Boulderado](https://jobright.ai/jobs/info/695dcef8924bd9135dd45286?utm_campaign=1050&utm_source=git)** | Boulder, CO | On Site | Jan 27 |
 | ↳ | **[Summer Internship - Graduate by Hilton Auburn](https://jobright.ai/jobs/info/695dcf4016906f25775f8ebe?utm_campaign=1050&utm_source=git)** | Auburn, AL | On Site | Jan 27 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food & Beverage Leadership Internship $19/HR](https://jobright.ai/jobs/info/695dd78b89be3415c746322d?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Jan 27 |
 | **[North Central Co-op CRS](https://www.co-op.crs)** | **[Board Director - North Central Co-op](https://jobright.ai/jobs/info/6979a6dcca92cf0d6a82f4af?utm_campaign=1050&utm_source=git)** | Stony Plain, Alberta, Canada | On Site | Jan 27 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Power Control Center), Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6979a166d7df290257fc113a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[Uber](http://www.uber.com)** | **[2026 Global Shared Rides Program Manager / MBA Intern, United States](https://jobright.ai/jobs/info/69799ee1d7df290257fc0fe3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/695dcf4516906f25775f8ebf?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
 | **[Lucchese Bootmaker](https://www.lucchese.com/)** | **[Planner & Allocator Intern](https://jobright.ai/jobs/info/69799a7fca92cf0d6a82d4d7?utm_campaign=1050&utm_source=git)** | Dallas Office, Dallas, TX, US | On Site | Jan 27 |
 | **[Uber](http://www.uber.com)** | **[2026 Customer Experience Operations Program / MBA Intern, United States](https://jobright.ai/jobs/info/69799a6fca92cf0d6a82d4a9?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 27 |
@@ -136,15 +137,15 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Internship](https://jobright.ai/jobs/info/6979775a0791bc1d72301f2d?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Jan 27 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Real Estate MBA Intern](https://jobright.ai/jobs/info/6979542788e2b47213bd89ed?utm_campaign=1050&utm_source=git)** | Newport Beach CA-700 | On Site | Jan 27 |
 | **[American College of Chest Physicians](https://www.chestnet.org/)** | **[Program Strategy Intern](https://jobright.ai/jobs/info/697970b0ca92cf0d6a82941b?utm_campaign=1050&utm_source=git)** | Glenview,IL,US | Hybrid | Jan 27 |
-| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern - Facilities and Environmental Services Management](https://jobright.ai/jobs/info/697982f50791bc1d723033fd?utm_campaign=1050&utm_source=git)** | WEST HARTFORD, CT, US | On Site | Jan 27 |
-| ↳ | **[Sodexo Strategic Intern- Patient Services/Retail](https://jobright.ai/jobs/info/697983359c90a224ecc3426a?utm_campaign=1050&utm_source=git)** | BALTIMORE, MD, US | On Site | Jan 27 |
-| ↳ | **[Sodexo Strategic Intern - Facilities and Environmental Services Management](https://jobright.ai/jobs/info/69797dc1ca92cf0d6a829f5b?utm_campaign=1050&utm_source=git)** | US-CT-WEST HARTFORD | On Site | Jan 27 |
+| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern - Facilities and Environmental Services Management](https://jobright.ai/jobs/info/69797dc1ca92cf0d6a829f5b?utm_campaign=1050&utm_source=git)** | US-CT-WEST HARTFORD | On Site | Jan 27 |
 | ↳ | **[Sodexo Strategic Intern- Patient Services/Retail](https://jobright.ai/jobs/info/6979754c0791bc1d72301d6b?utm_campaign=1050&utm_source=git)** | US-MD-BALTIMORE | On Site | Jan 27 |
+| ↳ | **[Sodexo Strategic Intern- Patient Services/Retail](https://jobright.ai/jobs/info/697983359c90a224ecc3426a?utm_campaign=1050&utm_source=git)** | BALTIMORE, MD, US | On Site | Jan 27 |
+| ↳ | **[Sodexo Strategic Intern - Facilities and Environmental Services Management](https://jobright.ai/jobs/info/697982f50791bc1d723033fd?utm_campaign=1050&utm_source=git)** | WEST HARTFORD, CT, US | On Site | Jan 27 |
 | ↳ | **[Sodexo Strategic Intern - Facilities and Environmental Services Management](https://jobright.ai/jobs/info/697976610791bc1d72301e49?utm_campaign=1050&utm_source=git)** | US-FL-DAYTONA BEACH | On Site | Jan 27 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Power Control Center), Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/6979702aca92cf0d6a8293a8?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[Licking Memorial Health Systems](http://www.lmhealth.org)** | **[MHA Internship- Seasonal](https://jobright.ai/jobs/info/69797891ca92cf0d6a829b3f?utm_campaign=1050&utm_source=git)** | Newark, Ohio, United States | On Site | Jan 27 |
-| **[Uber](http://www.uber.com)** | **[2026 Global Shared Rides Program Manager / MBA Intern, United States](https://jobright.ai/jobs/info/69796f8f9c90a224ecc3282d?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Jan 27 |
-| ↳ | **[2026 Global Shared Rides Program Manager / MBA Intern, United States](https://jobright.ai/jobs/info/697970390791bc1d723018e3?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Jan 27 |
+| **[Uber](http://www.uber.com)** | **[2026 Global Shared Rides Program Manager / MBA Intern, United States](https://jobright.ai/jobs/info/697970390791bc1d723018e3?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Jan 27 |
+| ↳ | **[2026 Global Shared Rides Program Manager / MBA Intern, United States](https://jobright.ai/jobs/info/69796f8f9c90a224ecc3282d?utm_campaign=1050&utm_source=git)** | New York, NY, US | On Site | Jan 27 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition Management](https://jobright.ai/jobs/info/697975ff0791bc1d72301e00?utm_campaign=1050&utm_source=git)** | Twin Falls Area | On Site | Jan 27 |
 | **[Cisco](http://www.cisco.com)** | **[Operations Strategy and Planning Manager MBA (Intern) United States](https://jobright.ai/jobs/info/6979506452f3c27ec645b2d1?utm_campaign=1050&utm_source=git)** | San Jose, California, US | On Site | Jan 27 |
 | **[Allison Smith Company LLC](http://allisonsmith.com)** | **[Assistant Project Manager (Summer Intern)](https://jobright.ai/jobs/info/6979504439f7f96cc6d1c853?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Jan 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OLLY PBC](https://www.olly.com)** | **[Temporary Natural Channel Project Manager](https://jobright.ai/jobs/info/695d810ff5f3c43f38e2521d?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Clinical Operations](https://jobright.ai/jobs/info/69732308694e99351d147adb?utm_campaign=1050&utm_source=git)** | Redwood City, CA | Hybrid | Jan 27 |
 | **[Troon](http://www.troon.com/)** | **[Office Admin & Events Support Intern](https://jobright.ai/jobs/info/6979428c52f3c27ec6459eb6?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Jan 27 |
-| **[XPO](https://www.xpo.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/69795bda88e2b47213bd9060?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

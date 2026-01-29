@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/697b314b1136d179eeeeac55?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6976fd04fdeb8243a279dddd?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Jan 29 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Operations Summer Internship 2026](https://jobright.ai/jobs/info/695f71dba1bbea1d9a7a2e65?utm_campaign=1050&utm_source=git)** | Egg Harbor, NJ | On Site | Jan 29 |
 | **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Warehousing - Summer 2026](https://jobright.ai/jobs/info/697b1aab1423772304eb3224?utm_campaign=1050&utm_source=git)** | Dayton, NJ | On Site | Jan 29 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/695f1c85a112b402660de6a7?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Jan 28 |
 | **[N0S.Tech](https://n0s.tech/)** | **[Business Administration Intern (Remote with In-Office Fridays / Unpaid)](https://jobright.ai/jobs/info/697afd0e1423772304eb01d2?utm_campaign=1050&utm_source=git)** | Vienna, VA | Remote | Jan 28 |
@@ -118,14 +120,12 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Cal Poly SLO](https://jobright.ai/jobs/info/697ad9671423772304eabd4f?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Franchise Operations Intern](https://jobright.ai/jobs/info/697ab992f6fc293b0a2cb52d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697adba417b11b1c2e41a99b?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/697add06c532c4768fe0939f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Withum](http://www.withum.com)** | **[Project Innovation Internship](https://jobright.ai/jobs/info/697ab314f6fc293b0a2ca3ef?utm_campaign=1050&utm_source=git)** | East Brunswick, NJ | Hybrid | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697ae2e4c532c4768fe09b8b?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
-| ↳ | **[Vendor Performance Management Intern](https://jobright.ai/jobs/info/697aea96c532c4768fe0ac53?utm_campaign=1050&utm_source=git)** | Buffalo, New York, United States | Hybrid | Jan 28 |
 | ↳ | **[Operations Analyst Intern](https://jobright.ai/jobs/info/697aeba01423772304eae04b?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
+| ↳ | **[Vendor Performance Management Intern](https://jobright.ai/jobs/info/697aea96c532c4768fe0ac53?utm_campaign=1050&utm_source=git)** | Buffalo, New York, United States | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697adfdc17b11b1c2e41ae6c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Category Leadership Capabilities Intern](https://jobright.ai/jobs/info/697acf4f8dbbf73badc81cef?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| ↳ | **[Digital Transformation PMO Intern](https://jobright.ai/jobs/info/697ad74c1423772304eabb2d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Supply Chain, Forecasting & Demand Planning Intern](https://jobright.ai/jobs/info/697ad800c532c4768fe08e10?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Field House SEA](https://jobright.ai/jobs/info/697acebe9d60e431a16c757f?utm_campaign=1050&utm_source=git)** | Field House, Sports, Fitness, and Aquatics Center - Waukegan, IL 60085 | On Site | Jan 28 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697ae48d1423772304eacca5?utm_campaign=1050&utm_source=git)** | Not in Nokia premises, US Virtual, US | Remote | Jan 28 |

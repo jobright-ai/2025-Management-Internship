@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/695f1c85a112b402660de6a7?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Jan 28 |
 | **[N0S.Tech](https://n0s.tech/)** | **[Business Administration Intern (Remote with In-Office Fridays / Unpaid)](https://jobright.ai/jobs/info/697afd0e1423772304eb01d2?utm_campaign=1050&utm_source=git)** | Vienna, VA | Remote | Jan 28 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Project Management Oversight Intern](https://jobright.ai/jobs/info/6978496852f3c27ec6448fa4?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Facilities Management Intern](https://jobright.ai/jobs/info/695f2c80a112b402660df52b?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 28 |
@@ -71,12 +72,16 @@ For a complete list, click the following sortable link below:
 | **[Pratt & Whitney](https://prattwhitney.com/)** | **[Internship - Summer 2026 - Project Coordinator, Digital Transformation](https://jobright.ai/jobs/info/695ee42008ab990f282a3484?utm_campaign=1050&utm_source=git)** | Lethbridge, Alberta, Canada | On Site | Jan 28 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Operations Intern](https://jobright.ai/jobs/info/695f2a28a112b402660df3b3?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Jan 28 |
 | **[Agropur](https://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/6969becff25a380066987652?utm_campaign=1050&utm_source=git)** | Hull, IA | On Site | Jan 28 |
+| **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Growth and Pipeline Studies](https://jobright.ai/jobs/info/697b0a621423772304eb1b10?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Scheels](http://www.scheels.com)** | **[Leadership & Management Internship](https://jobright.ai/jobs/info/697aeb161423772304eadf65?utm_campaign=1050&utm_source=git)** | Fargo, ND | On Site | Jan 28 |
+| **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Summer Internship - Procurement Coordinator Intern](https://jobright.ai/jobs/info/695f102c0badca5763af903a?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Jan 28 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6976df78bc8e722e7b1b5255?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Jan 28 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Intern - Foundation](https://jobright.ai/jobs/info/695f0a270badca5763af8436?utm_campaign=1050&utm_source=git)** | Detroit, MI | Hybrid | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Program Manager Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697ae04a1423772304eac54a?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 28 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Commercial Operations (LCS)](https://jobright.ai/jobs/info/697ae01a1423772304eac4fe?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Jan 28 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[SFGE - SO - Park Service Intern](https://jobright.ai/jobs/info/697b03c417b11b1c2e41f9b2?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Jan 28 |
 | **[Genmab](https://www.genmab.com)** | **[Global Medical Affairs Strategy Intern – Hematology](https://jobright.ai/jobs/info/695eff3ea1bbea1d9a79cc7e?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Jan 28 |
+| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Office Intern - Tacoma, WA](https://jobright.ai/jobs/info/697b00fac532c4768fe0dd5e?utm_campaign=1050&utm_source=git)** | Tacoma, WA | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Operations Analyst Intern](https://jobright.ai/jobs/info/697adde71423772304eac225?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
 | **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Procurement Intern](https://jobright.ai/jobs/info/695f1707a112b402660ddbc0?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697adc101423772304eac00c?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
@@ -116,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/697add06c532c4768fe0939f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Withum](http://www.withum.com)** | **[Project Innovation Internship](https://jobright.ai/jobs/info/697ab314f6fc293b0a2ca3ef?utm_campaign=1050&utm_source=git)** | East Brunswick, NJ | Hybrid | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697ae2e4c532c4768fe09b8b?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
-| ↳ | **[Vendor Performance Management Intern](https://jobright.ai/jobs/info/697aea96c532c4768fe0ac53?utm_campaign=1050&utm_source=git)** | Buffalo, New York, United States | Hybrid | Jan 28 |
 | ↳ | **[Operations Analyst Intern](https://jobright.ai/jobs/info/697aeba01423772304eae04b?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
+| ↳ | **[Vendor Performance Management Intern](https://jobright.ai/jobs/info/697aea96c532c4768fe0ac53?utm_campaign=1050&utm_source=git)** | Buffalo, New York, United States | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697adfdc17b11b1c2e41ae6c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Category Leadership Capabilities Intern](https://jobright.ai/jobs/info/697acf4f8dbbf73badc81cef?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Digital Transformation PMO Intern](https://jobright.ai/jobs/info/697ad74c1423772304eabb2d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - HIT Program Management Office (PMO)](https://jobright.ai/jobs/info/697aa8dbf6fc293b0a2c92c9?utm_campaign=1050&utm_source=git)** | Hillsboro | On Site | Jan 28 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/697aa717f6fc293b0a2c9033?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
 | **[Southwire Company](http://southwire.com)** | **[HV Project Management Intern](https://jobright.ai/jobs/info/697aa567f6fc293b0a2c8de3?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/697aa4698dbbf73badc7e0ab?utm_campaign=1050&utm_source=git)** | Remo, VA | Remote | Jan 28 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Material Requirements Planning Intern - Buffalo NY](https://jobright.ai/jobs/info/697a861a8dbbf73badc7afd8?utm_campaign=1050&utm_source=git)** | United States-New York-Buffalo | On Site | Jan 28 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Order Management](https://jobright.ai/jobs/info/697aa93af6fc293b0a2c9364?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 28 |
-| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Nurse Manager Intern--Periop and Procedural Services](https://jobright.ai/jobs/info/697a83ef8dbbf73badc7ab92?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Jan 28 |
-| **[Orlando Utilities Commission (OUC - The Reliable One)](https://www.ouc.com/)** | **[Program Development Intern - Summer 2026](https://jobright.ai/jobs/info/697a82cc8dbbf73badc7a966?utm_campaign=1050&utm_source=git)** | Orlando, FL | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

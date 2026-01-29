@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Howard Hughes Medical Institute (HHMI)](http://www.hhmi.org/)** | **[Procurement Intern](https://jobright.ai/jobs/info/695f1707a112b402660ddbc0?utm_campaign=1050&utm_source=git)** | Chevy Chase, MD | Hybrid | Jan 28 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697adc101423772304eac00c?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
+| ↳ | **[Vendor Performance Management Intern](https://jobright.ai/jobs/info/697ad808c532c4768fe08e1d?utm_campaign=1050&utm_source=git)** | Buffalo, NY | Hybrid | Jan 28 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697acf6d8dbbf73badc81d08?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Jan 28 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697acf638dbbf73badc81cfe?utm_campaign=1050&utm_source=git)** | Grimes, IA | On Site | Jan 28 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Demand Forecasting Intern](https://jobright.ai/jobs/info/695ed2d60badca5763af4816?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
@@ -73,9 +76,14 @@ For a complete list, click the following sortable link below:
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Project Coordinator Intern - Summer 2026](https://jobright.ai/jobs/info/697ac112f6fc293b0a2cbbf5?utm_campaign=1050&utm_source=git)** | Houston,TX,US | Hybrid | Jan 28 |
 | **[Webster Bank](https://www.websterbank.com)** | **[Summer Intern - Credit Risk Administration](https://jobright.ai/jobs/info/697abd8a8dbbf73badc80d68?utm_campaign=1050&utm_source=git)** | Southington, CT | Hybrid | Jan 28 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Corporate Services Internship Program - Eden Prairie, MN](https://jobright.ai/jobs/info/697abbf58dbbf73badc80c39?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Jan 28 |
+| **[Republic Finance](http://republicfinance.com/)** | **[Bilingual Branch Operations Intern](https://jobright.ai/jobs/info/697adc0d1423772304eac009?utm_campaign=1050&utm_source=git)** | Brownsville, TX | On Site | Jan 28 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Cal Poly SLO](https://jobright.ai/jobs/info/697ad9671423772304eabd4f?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Franchise Operations Intern](https://jobright.ai/jobs/info/697ab992f6fc293b0a2cb52d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697adba417b11b1c2e41a99b?utm_campaign=1050&utm_source=git)** | Kenosha, WI | On Site | Jan 28 |
 | **[Withum](http://www.withum.com)** | **[Project Innovation Internship](https://jobright.ai/jobs/info/697ab314f6fc293b0a2ca3ef?utm_campaign=1050&utm_source=git)** | East Brunswick, NJ | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Category Leadership Capabilities Intern](https://jobright.ai/jobs/info/697acf4f8dbbf73badc81cef?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| ↳ | **[Digital Transformation PMO Intern](https://jobright.ai/jobs/info/697ad74c1423772304eabb2d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
+| ↳ | **[Supply Chain, Forecasting & Demand Planning Intern](https://jobright.ai/jobs/info/697ad800c532c4768fe08e10?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Waukegan Park District](https://www.waukeganparks.org)** | **[Intern - Field House SEA](https://jobright.ai/jobs/info/697acebe9d60e431a16c757f?utm_campaign=1050&utm_source=git)** | Field House, Sports, Fitness, and Aquatics Center - Waukegan, IL 60085 | On Site | Jan 28 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/697ac6c1f6fc293b0a2cc0fd?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Jan 28 |
 | **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/697ac90f8dbbf73badc81852?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Jan 28 |
@@ -101,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/697a8e198dbbf73badc7bd9f?utm_campaign=1050&utm_source=git)** | Palmer, MA | On Site | Jan 28 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Innovation Intern - Corporate Services (Kansas City)](https://jobright.ai/jobs/info/696ef2df82817106e97615cc?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
 | **[Duetti](https://duetti.co)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/697aa90c9d60e431a16c425c?utm_campaign=1050&utm_source=git)** | New York, Los Angeles, Miami | Hybrid | Jan 28 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Project Development, Real Estate](https://jobright.ai/jobs/info/697a89f7f6fc293b0a2c6394?utm_campaign=1050&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Jan 28 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - HIT Program Management Office (PMO)](https://jobright.ai/jobs/info/697aa8dbf6fc293b0a2c92c9?utm_campaign=1050&utm_source=git)** | Hillsboro | On Site | Jan 28 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/697aa717f6fc293b0a2c9033?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
 | **[Southwire Company](http://southwire.com)** | **[HV Project Management Intern](https://jobright.ai/jobs/info/697aa567f6fc293b0a2c8de3?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
@@ -142,19 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Hilton](https://www.hilton.com/en/)** | **[Front Office Intern - Conrad New York Downtown](https://jobright.ai/jobs/info/697aa5b49d60e431a16c3cfd?utm_campaign=1050&utm_source=git)** | Conrad New York102 North End Ave | On Site | Jan 28 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697a9c2b9d60e431a16c32bf?utm_campaign=1050&utm_source=git)** | Roanoke, VA | On Site | Jan 28 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697a8ffa8dbbf73badc7c0f9?utm_campaign=1050&utm_source=git)** | Woodbridge, VA | On Site | Jan 28 |
-| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Real Estate Project Management Intern (Remote)](https://jobright.ai/jobs/info/697a948bf6fc293b0a2c76ec?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | Remote | Jan 28 |
-| ↳ | **[Real Estate Project Management Intern (Remote)](https://jobright.ai/jobs/info/697a9a588dbbf73badc7d6ed?utm_campaign=1050&utm_source=git)** | Southfield, MI | Remote | Jan 28 |
+| **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Real Estate Project Management Intern (Remote)](https://jobright.ai/jobs/info/697a9a588dbbf73badc7d6ed?utm_campaign=1050&utm_source=git)** | Southfield, MI | Remote | Jan 28 |
+| ↳ | **[Real Estate Project Management Intern (Remote)](https://jobright.ai/jobs/info/697a948bf6fc293b0a2c76ec?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | Remote | Jan 28 |
 | ↳ | **[Real Estate Project Management Intern (Remote)](https://jobright.ai/jobs/info/697a94c6f6fc293b0a2c776a?utm_campaign=1050&utm_source=git)** | Columbus, IN | Remote | Jan 28 |
 | ↳ | **[Real Estate Project Management Intern (Remote)](https://jobright.ai/jobs/info/697a90848dbbf73badc7c22a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Jan 28 |
 | **[Veranova](https://veranova.com)** | **[Summer Intern - Operational Excellence](https://jobright.ai/jobs/info/697a8de58dbbf73badc7bd47?utm_campaign=1050&utm_source=git)** | Devens, MA, US | On Site | Jan 28 |
 | **[The Essentials | Redesign, Staging & Real Estate Photography](http://www.theessentials.biz/)** | **[Intern](https://jobright.ai/jobs/info/697a9235f6fc293b0a2c71ee?utm_campaign=1050&utm_source=git)** | 01, St.Louis, MO, US | On Site | Jan 28 |
 | **[Altera](https://www.altera.com)** | **[Technical Program Manager-Intern](https://jobright.ai/jobs/info/697a9eaef6fc293b0a2c8652?utm_campaign=1050&utm_source=git)** | San Jose, California, United States | On Site | Jan 28 |
 | **[FlexGen](https://flexgen.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/697a6b828dbbf73badc78eeb?utm_campaign=1050&utm_source=git)** | Durham, NC | On Site | Jan 28 |
-| **[Tech Verses](techverses.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697aacf99d60e431a16c4794?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 28 |
-| **[Kirby Risk](https://www.kirbyrisk.com)** | **[Supply Chain & Distribution Intern (Starting May 2026!)](https://jobright.ai/jobs/info/697a67239d60e431a16be493?utm_campaign=1050&utm_source=git)** | 5501 W 52nd St, Indianapolis, IN 46254, USA | On Site | Jan 28 |
-| ↳ | **[Branch Operations Intern (Starting May 2026!) - Kokomo, IN](https://jobright.ai/jobs/info/697a66cb9d60e431a16be438?utm_campaign=1050&utm_source=git)** | Kokomo, IN, USA | On Site | Jan 28 |
-| **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (JD Young program)](https://jobright.ai/jobs/info/697a65d3f6fc293b0a2c3546?utm_campaign=1050&utm_source=git)** | Fontana, CA | On Site | Jan 28 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Operations & Procurement Intern](https://jobright.ai/jobs/info/697a90448dbbf73badc7c195?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 28 |
-| **[Pyramid Healthcare](https://www.pyramidhc.com)** | **[Needs Assessment Intern-Summer 2026](https://jobright.ai/jobs/info/697a80049d60e431a16c0081?utm_campaign=1050&utm_source=git)** | Altoona, PA | Remote | Jan 28 |
-| **[BAE Systems](http://www.baesystems.com)** | **[NonTechnical Intern 1](https://jobright.ai/jobs/info/697a6123f6fc293b0a2c30b7?utm_campaign=1050&utm_source=git)** | Nashua New Hampshire | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

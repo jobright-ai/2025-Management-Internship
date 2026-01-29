@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/6976fd04fdeb8243a279dddd?utm_campaign=1050&utm_source=git)** | Perris, CA | On Site | Jan 29 |
+| **[Hilti North America](http://www.hilti.com)** | **[Operations Intern - Warehousing - Summer 2026](https://jobright.ai/jobs/info/697b1aab1423772304eb3224?utm_campaign=1050&utm_source=git)** | Dayton, NJ | On Site | Jan 29 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/695f1c85a112b402660de6a7?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Jan 28 |
 | **[N0S.Tech](https://n0s.tech/)** | **[Business Administration Intern (Remote with In-Office Fridays / Unpaid)](https://jobright.ai/jobs/info/697afd0e1423772304eb01d2?utm_campaign=1050&utm_source=git)** | Vienna, VA | Remote | Jan 28 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Project Management Oversight Intern](https://jobright.ai/jobs/info/6978496852f3c27ec6448fa4?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 28 |
@@ -98,13 +100,11 @@ For a complete list, click the following sortable link below:
 | **[Bernalillo County](https://www.bernco.gov/)** | **[College Intern- Fleet Shop](https://jobright.ai/jobs/info/6978dfba88e2b47213bcf6ae?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Jan 28 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697acb98f6fc293b0a2cc51f?utm_campaign=1050&utm_source=git)** | Lake County, IN | Remote | Jan 28 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, IT Project Management (Summer 2026)](https://jobright.ai/jobs/info/6961cdc5e7ed9a5731ba9c60?utm_campaign=1050&utm_source=git)** | Montgomery, AL | Hybrid | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Enterprise Operational Excellence & Digital Transformation Intern](https://jobright.ai/jobs/info/697ac9aa9d60e431a16c71d6?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697ac9958dbbf73badc818d2?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 28 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Operations & Procurement Intern](https://jobright.ai/jobs/info/697ac94bf6fc293b0a2cc351?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Remote | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/697ac8f58dbbf73badc8183a?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Intern II, Special Operations (Summer 2026)](https://jobright.ai/jobs/info/697ac8e09d60e431a16c711b?utm_campaign=1050&utm_source=git)** | Temple, TX | On Site | Jan 28 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - HIT Program Management Office (PMO)](https://jobright.ai/jobs/info/697ac8c38dbbf73badc81804?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Commercial Strategy & Operations Intern](https://jobright.ai/jobs/info/697ac8979d60e431a16c70cc?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[nVent](https://www.nvent.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697ae6d6c532c4768fe0a2a2?utm_campaign=1050&utm_source=git)** | Solon, OH | On Site | Jan 28 |
 | **[DISH TV](https://www.dish.com)** | **[Business Project Manager Intern](https://jobright.ai/jobs/info/697ae472c532c4768fe09e5d?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Global Development & Innovation, Digital Capability Intern](https://jobright.ai/jobs/info/697ac670f6fc293b0a2cc0b7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/697add06c532c4768fe0939f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Withum](http://www.withum.com)** | **[Project Innovation Internship](https://jobright.ai/jobs/info/697ab314f6fc293b0a2ca3ef?utm_campaign=1050&utm_source=git)** | East Brunswick, NJ | Hybrid | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697ae2e4c532c4768fe09b8b?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
-| ↳ | **[Operations Analyst Intern](https://jobright.ai/jobs/info/697aeba01423772304eae04b?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
 | ↳ | **[Vendor Performance Management Intern](https://jobright.ai/jobs/info/697aea96c532c4768fe0ac53?utm_campaign=1050&utm_source=git)** | Buffalo, New York, United States | Hybrid | Jan 28 |
+| ↳ | **[Operations Analyst Intern](https://jobright.ai/jobs/info/697aeba01423772304eae04b?utm_campaign=1050&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697adfdc17b11b1c2e41ae6c?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Category Leadership Capabilities Intern](https://jobright.ai/jobs/info/697acf4f8dbbf73badc81cef?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Digital Transformation PMO Intern](https://jobright.ai/jobs/info/697ad74c1423772304eabb2d?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |

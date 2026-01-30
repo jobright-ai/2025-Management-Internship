@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative Bachelor's Intern](https://jobright.ai/jobs/info/697d04b93f57a3356966ba25?utm_campaign=1050&utm_source=git)** | Baldwin Park, CA | On Site | Jan 30 |
+| **[GenPark](https://genpark.ai)** | **[Project Operation Intern](https://jobright.ai/jobs/info/697cfdc03f57a3356966b607?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 | **[Flex](https://flex.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/697cfc783f57a3356966b4f4?utm_campaign=1050&utm_source=git)** | USA, TX, Austin | On Site | Jan 30 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/697cf114137a05102565e972?utm_campaign=1050&utm_source=git)** | CA_Concord_826104 | On Site | Jan 30 |
 | ↳ | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/697cf1143f57a3356966a5b1?utm_campaign=1050&utm_source=git)** | CA_Van Nuys_224216 | On Site | Jan 30 |
@@ -68,9 +70,11 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Operations Summer Intern](https://jobright.ai/jobs/info/69655da46d52670c5c3e240a?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 30 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/697ce615727747250d579127?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Arena Administration (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce49b727747250d579014?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 30 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Administrative Assistant III - ACUHO-I Residence Life Internship (Full Time, Temporary)](https://jobright.ai/jobs/info/697d017b727747250d57b9d8?utm_campaign=1050&utm_source=git)** | Huntsville, TX | On Site | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Operations Summer Intern](https://jobright.ai/jobs/info/6965671b2cbf4e44756ee31a?utm_campaign=1050&utm_source=git)** | St Paul, MN | Hybrid | Jan 30 |
 | **[Mercury Systems](http://www.mrcy.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697ce198137a05102565cd2e?utm_campaign=1050&utm_source=git)** | Hudson, NH | On Site | Jan 30 |
 | **[GFL Environmental Inc.](https://gflenv.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697ce07a137a05102565cc74?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 30 |
+| **[Lodgco Hospitality](https://www.lodgco.net/)** | **[Lodgco Hospitality Internship - Summer 2026](https://jobright.ai/jobs/info/697d0011137a05102565f744?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | On Site | Jan 30 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Hospitality in Healthcare Internship](https://jobright.ai/jobs/info/697cd8ce727747250d578a68?utm_campaign=1050&utm_source=git)** | 1111 Marcus Ave, Lake Success, NY, 11042, US | On Site | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697cd784137a05102565c86f?utm_campaign=1050&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
 | ↳ | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/697cd65c727747250d5788c1?utm_campaign=1050&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
@@ -142,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Shift Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68ca2d6ff16e3266d2823859?utm_campaign=1050&utm_source=git)** | West Hazleton, PA | On Site | Jan 29 |
 | ↳ | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/69602d24a112b402660ee677?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | ↳ | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69609333a112b402660f40b1?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
-| ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/695f5164a112b402660e0583?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/695f51cea112b402660e072c?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | On Site | Jan 29 |
+| ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/695f5164a112b402660e0583?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - WesBanco Insurance - WHE](https://jobright.ai/jobs/info/697c38f01136d179eeeff9fd?utm_campaign=1050&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
 | ↳ | **[Intern - Strategy & Transformation](https://jobright.ai/jobs/info/697c383b0b88cc7d64233e2c?utm_campaign=1050&utm_source=git)** | Wheeling, WV | Hybrid | Jan 29 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Supply Chain - Internship](https://jobright.ai/jobs/info/697c366f0b88cc7d64233c0b?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[Operations Rotational Intern](https://jobright.ai/jobs/info/697c32810b88cc7d64233988?utm_campaign=1050&utm_source=git)** | Delta, PA | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Commercial Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/695ebd540badca5763af32d1?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Agile Project Management - Internship](https://jobright.ai/jobs/info/697c31471423772304ec95d3?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99880 Administrative Assistant, Office of the Dean, Muskogee](https://jobright.ai/jobs/info/697c30ce0b88cc7d642338ed?utm_campaign=1050&utm_source=git)** | Muskogee, OK | On Site | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Strategy Operations Intern – Summer 2026](https://jobright.ai/jobs/info/695fb98e7ebc25398eb59f3d?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Digital Transformation & Demand Management (Raleigh)](https://jobright.ai/jobs/info/697c2ef61423772304ec93dd?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/697c2e071136d179eeefe7d7?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

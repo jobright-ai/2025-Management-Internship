@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://flex.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/697cfc783f57a3356966b4f4?utm_campaign=1050&utm_source=git)** | USA, TX, Austin | On Site | Jan 30 |
+| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/697cf114137a05102565e972?utm_campaign=1050&utm_source=git)** | CA_Concord_826104 | On Site | Jan 30 |
+| ↳ | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/697cf1143f57a3356966a5b1?utm_campaign=1050&utm_source=git)** | CA_Van Nuys_224216 | On Site | Jan 30 |
+| **[Carrier](https://www.corporate.carrier.com)** | **[Commodity Management & Sourcing Intern - Summer](https://jobright.ai/jobs/info/697ceff1137a05102565e50a?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jan 30 |
+| ↳ | **[Commodity Management & Sourcing Intern - Summer](https://jobright.ai/jobs/info/697cee8a727747250d579dda?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Jan 30 |
+| **[Pyramid Healthcare](https://www.pyramidhc.com)** | **[Needs Assessment Intern-Summer 2026](https://jobright.ai/jobs/info/697ceb8b3f57a33569669295?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 30 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694cb5b6d4a7df7a0671f6aa?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
 | **[Arvento A](arventoa.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697ce8063f57a33569669007?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 30 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Operations Summer Intern](https://jobright.ai/jobs/info/69655da46d52670c5c3e240a?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 30 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/697ce615727747250d579127?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Jan 30 |
@@ -73,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Resource Planning & Process Optimization](https://jobright.ai/jobs/info/697cd052137a05102565c499?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Jan 30 |
 | **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[Executive Operations & Finance Fellowship](https://jobright.ai/jobs/info/697cceeb3f57a33569668215?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Jan 30 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Project Management Intern](https://jobright.ai/jobs/info/697cce00137a05102565c2eb?utm_campaign=1050&utm_source=git)** | Marlton, NJ | On Site | Jan 30 |
+| **[AECOM](http://www.aecom.com/)** | **[Program & Project Management Intern](https://jobright.ai/jobs/info/697ced3c137a05102565dc10?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Supply Chain and Procurement Intern](https://jobright.ai/jobs/info/697cc7dc3f57a33569667eb0?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | On Site | Jan 30 |
 | **[Inspire](https://inspirebrands.com)** | **[Supply Chain Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697ce44d3f57a33569668d8a?utm_campaign=1050&utm_source=git)** | Canton, MA | On Site | Jan 30 |
 | **[Unlimited USA Co](http://www.unlimited-usa.com)** | **[2026 Summer Supply Chain Intern](https://jobright.ai/jobs/info/697ce8453f57a3356966901f?utm_campaign=1050&utm_source=git)** | Garner, NC | On Site | Jan 30 |
@@ -82,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697cd61d727747250d57889b?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 30 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer Internship - 2026](https://jobright.ai/jobs/info/69291cd691ceeb2e8a546fe5?utm_campaign=1050&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 30 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Engineering & Construction Project Management Intern - Warrendale, PA](https://jobright.ai/jobs/info/68d451a617554c2d9eef861b?utm_campaign=1050&utm_source=git)** | Warrendale, PA | On Site | Jan 30 |
-| **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship Program - Facilities Operations - R10597](https://jobright.ai/jobs/info/69441f21dd382f5f566a33f3?utm_campaign=1050&utm_source=git)** | Dayton, OH | Remote | Jan 30 |
 | **[Honeywell](http://www.honeywell.com)** | **[Supply Chain - Summer 2026 Intern](https://jobright.ai/jobs/info/6950a3ccce13cd1056588378?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Morbark, LLC](http://www.morbark.com/)** | **[Intern - Supply Chain](https://jobright.ai/jobs/info/69446f8e50bbaf7650566ec8?utm_campaign=1050&utm_source=git)** | Winn, MI | On Site | Jan 30 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Development](https://jobright.ai/jobs/info/6933d0b3764507023d1b9be7?utm_campaign=1050&utm_source=git)** | East Rutherford, NJ | On Site | Jan 30 |
@@ -106,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Memphis](https://jobright.ai/jobs/info/68f0a64ea6b9004b5e3228a0?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Jan 30 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Indirect Procurement MBA Intern - Summer 2026](https://jobright.ai/jobs/info/697c9e36137a051025659025?utm_campaign=1050&utm_source=git)** | US, CA, Santa Clara | On Site | Jan 30 |
 | **[Stevens Industries, Inc.](http://stevensind.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69601aada1bbea1d9a7ae8a7?utm_campaign=1050&utm_source=git)** | Teutopolis, IL | On Site | Jan 30 |
-| **[Upbound Group](https://www.upbound.com)** | **[FP&A Intern](https://jobright.ai/jobs/info/697cc09f727747250d577ace?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Jan 30 |
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/690abd5d4a1b456627b0ac97?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 30 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[Facilities Intern](https://jobright.ai/jobs/info/68ed22d281fdd1626d3993f6?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Jan 30 |
 | **[Grainger](https://www.grainger.com)** | **[Global Supply Chain Intern](https://jobright.ai/jobs/info/6960330a7ebc25398eb62789?utm_campaign=1050&utm_source=git)** | Lake Forest, IL | Hybrid | Jan 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Strategy Operations Intern – Summer 2026](https://jobright.ai/jobs/info/695fb98e7ebc25398eb59f3d?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Digital Transformation & Demand Management (Raleigh)](https://jobright.ai/jobs/info/697c2ef61423772304ec93dd?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 29 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/697c2e071136d179eeefe7d7?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 29 |
-| **[Highgate](https://www.highgate.com)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697c2d9d1423772304ec927a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 29 |
-| **[Gowan Company](http://www.gowanco.com)** | **[Intern](https://jobright.ai/jobs/info/69602783a112b402660ee0d9?utm_campaign=1050&utm_source=git)** | Greater Yuma, AZ Area | On Site | Jan 29 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/697c2bf31136d179eeefe5d0?utm_campaign=1050&utm_source=git)** | Union City, CA | Hybrid | Jan 29 |
-| **[Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)](http://cmhc.ca/en)** | **[Summer 2026 Internship - Business Administration](https://jobright.ai/jobs/info/697c2ae01136d179eeefe484?utm_campaign=1050&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/695f3d2a0badca5763afc00e?utm_campaign=1050&utm_source=git)** | Stamford, CT | Hybrid | Jan 29 |
-| **[Air Liquide](http://www.airliquide.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697c2a181136d179eeefe3c4?utm_campaign=1050&utm_source=git)** | Newport, DE | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

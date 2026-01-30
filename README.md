@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Krispy Kreme](https://www.krispykreme.com)** | **[Summer Internship – Commercialization Project Manager Intern](https://jobright.ai/jobs/info/697bdd1f0b88cc7d6422b889?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Material Requirements Planning Intern - Buffalo NY - R10220131](https://jobright.ai/jobs/info/697be4fe0b88cc7d6422c8ae?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Jan 29 |
+| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697be4a40b88cc7d6422c86d?utm_campaign=1050&utm_source=git)** | Ashburn, VA | On Site | Jan 29 |
+| **[Krispy Kreme](https://www.krispykreme.com)** | **[Summer Internship – Brand & Creative Project Manager Intern](https://jobright.ai/jobs/info/697be0341423772304ec1e08?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
+| ↳ | **[Summer Internship – Commercialization Project Manager Intern](https://jobright.ai/jobs/info/697bdd1f0b88cc7d6422b889?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | **[RIS Rx](http://www.risrx.com)** | **[Postdoc Internship- PharmD](https://jobright.ai/jobs/info/697bdd0d1423772304ec16ec?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Project Managment Intern](https://jobright.ai/jobs/info/697bdc9c1136d179eeef718f?utm_campaign=1050&utm_source=git)** | Hudson Falls, NY | On Site | Jan 29 |
 | **[TerraForm Power](http://terraform.com)** | **[Intern, Projects and Optimization](https://jobright.ai/jobs/info/697bdc700b88cc7d6422b6e5?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 29 |
@@ -79,10 +82,12 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/68ed768570b66e2345d3e5b7?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Strategic Pricing and Contracting (Multiple Positions)](https://jobright.ai/jobs/info/697bc9a81136d179eeef4fe1?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/690ac8a7d046ab6061ce03bf?utm_campaign=1050&utm_source=git)** | Madison, PA | On Site | Jan 29 |
+| **[Clubhouse Fantasy Sports](https://harknessfantasysports.io/)** | **[Founder’s Associate (Intern)](https://jobright.ai/jobs/info/697be9300b88cc7d6422ce2b?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Outlyr](http://eigermarketing.com/)** | **[Professional Golf Operations Intern (MAVRK)](https://jobright.ai/jobs/info/697bc62f1423772304ebf2a4?utm_campaign=1050&utm_source=git)** | Grand Rapids, MI | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Consumer Engagement & AdTech Platforms Intern](https://jobright.ai/jobs/info/697bc5481136d179eeef4a6f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | ↳ | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/697bc4fd1136d179eeef4a18?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 29 |
 | ↳ | **[Supply Chain, Forecasting & Demand Planning Intern](https://jobright.ai/jobs/info/697bc4071136d179eeef48dd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[MaRS Discovery District](http://marsdd.com)** | **[Intern, Venture Growth - Momentum Program - Summer 2026](https://jobright.ai/jobs/info/697be5b80b88cc7d6422c932?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 29 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Spring 2027](https://jobright.ai/jobs/info/697bc33a1136d179eeef47f2?utm_campaign=1050&utm_source=git)** | Indianapolis, IN, USA | Hybrid | Jan 29 |
 | **[Interfor](http://www.interfor.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697bc2e50b88cc7d64228fee?utm_campaign=1050&utm_source=git)** | Longview, WA | On Site | Jan 29 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Operations Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69092722bcccf20de59d7f99?utm_campaign=1050&utm_source=git)** | Neenah, WI | Hybrid | Jan 29 |
@@ -105,6 +110,8 @@ For a complete list, click the following sortable link below:
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Digital Transformation PMO Intern](https://jobright.ai/jobs/info/697bbb4f1136d179eeef3ee9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Intern - Egg Procurement Logistics](https://jobright.ai/jobs/info/690a8ef04a1b456627b093a5?utm_campaign=1050&utm_source=git)** | Wakefield, NE | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697bb9b51136d179eeef3d14?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[Hudson Pacific Properties](http://hudsonpacificproperties.com)** | **[2026 NextGen Summer Internship - Property Management - Los Angeles](https://jobright.ai/jobs/info/6979062439f7f96cc6d15c51?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
+| ↳ | **[2026 NextGen Summer Internship - Property Management - Seattle](https://jobright.ai/jobs/info/6979130c88e2b47213bd2e3a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 29 |
 | **[Larta Institute](http://www.larta.org)** | **[Programs Intern](https://jobright.ai/jobs/info/697bdae01136d179eeef6dd6?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 29 |
 | **[Interfor](http://www.interfor.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697bb7480b88cc7d64228234?utm_campaign=1050&utm_source=git)** | Molalla, OR | On Site | Jan 29 |
 | **[Alsco Uniforms](https://alsco.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bb6631423772304ebe0fd?utm_campaign=1050&utm_source=git)** | Durham, North Carolina, United States | On Site | Jan 29 |
@@ -133,10 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Supply Chain & Operations Planning Co-op](https://jobright.ai/jobs/info/697ba4040b88cc7d642270e1?utm_campaign=1050&utm_source=git)** | Raymond, MS | On Site | Jan 29 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Commodity Strategy Intern](https://jobright.ai/jobs/info/697bc19d0b88cc7d64228e33?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Jan 29 |
 | **[McNally Companies](https://www.mcnallycorp.com)** | **[Project Technician Intern (4-12 months) - Summer 2026 - McNally](https://jobright.ai/jobs/info/697bd4350b88cc7d6422a67c?utm_campaign=1050&utm_source=git)** | Vaughan, Ontario, Canada | On Site | Jan 29 |
-| **[Alsco Uniforms](https://alsco.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bc5fe1136d179eeef4b4d?utm_campaign=1050&utm_source=git)** | Santa Rosa, California, United States | On Site | Jan 29 |
+| **[Alsco Uniforms](https://alsco.com)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bc53c1136d179eeef4a61?utm_campaign=1050&utm_source=git)** | Sarasota, Florida, United States | On Site | Jan 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bc83e0b88cc7d64229523?utm_campaign=1050&utm_source=git)** | Colonial Heights, Virginia, United States | On Site | Jan 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bcc5c1423772304ebfa3e?utm_campaign=1050&utm_source=git)** | Denver, Colorado, United States | On Site | Jan 29 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bc53c1136d179eeef4a61?utm_campaign=1050&utm_source=git)** | Sarasota, Florida, United States | On Site | Jan 29 |
+| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bc5fe1136d179eeef4b4d?utm_campaign=1050&utm_source=git)** | Santa Rosa, California, United States | On Site | Jan 29 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/697bcbf20b88cc7d642299dc?utm_campaign=1050&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 29 |
 | **[CIM Group](https://www.cimgroup.com)** | **[Intern, Fund Operations](https://jobright.ai/jobs/info/69434c8e94730b7398765b28?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 29 |
 | **[Allison Smith Company LLC](http://allisonsmith.com)** | **[Assistant Project Manager (Summer Intern)](https://jobright.ai/jobs/info/697ba1d80b88cc7d64226a9e?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Jan 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vishram International Services](https://vishraminternationalservices.com/)** | **[Management Intern](https://jobright.ai/jobs/info/697b9a270b88cc7d6422564e?utm_campaign=1050&utm_source=git)** | Dothan, AL | On Site | Jan 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDW Analytical & Strategic Planning Intern, Fall 2026](https://jobright.ai/jobs/info/6978b0f188e2b47213bcc8ae?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 29 |
 | ↳ | **[Disneyland Strategic Sourcing Intern, Fall 2026](https://jobright.ai/jobs/info/6978b1c252f3c27ec644f249?utm_campaign=1050&utm_source=git)** | Anaheim, CA | On Site | Jan 29 |
-| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/68b74d0d2124650c14021a05?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 29 |
-| **[Albany International Corp.](http://www.albint.com/)** | **[Continuous Improvement Summer Intern](https://jobright.ai/jobs/info/690abaf2bcccf20de59e5532?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Jan 29 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Commodity Strategy Intern](https://jobright.ai/jobs/info/697b94e21136d179eeef1266?utm_campaign=1050&utm_source=git)** | Lake Orion, MI, US | On Site | Jan 29 |
-| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dee08c62e63bc7fd0665?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Jan 29 |
-| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697bafb20b88cc7d64227c32?utm_campaign=1050&utm_source=git)** | Olympia, WA | On Site | Jan 29 |
-| **[Kohler Co.](https://www.kohlercompany.com)** | **[Kohler Intern - Program Management](https://jobright.ai/jobs/info/697baf6f0b88cc7d64227c17?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Jan 29 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, HIMCO Business Operations](https://jobright.ai/jobs/info/697b8d250b88cc7d64224e1d?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

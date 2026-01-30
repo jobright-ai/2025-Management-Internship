@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trace3](http://trace3.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69408c68aa598a08c3f03b72?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 30 |
+| **[Canvas](https://www.canvas-inc.com/)** | **[Project Management Support (Summer Intern)](https://jobright.ai/jobs/info/69676b1c639b452fb57d0cc5?utm_campaign=1050&utm_source=git)** | Arnold, MD | On Site | Jan 30 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/697c9004137a051025658d00?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Jan 30 |
+| **[WebFX](https://www.webfx.com)** | **[Web Project Coordinator Internship](https://jobright.ai/jobs/info/67eec162357dc4681d86420d?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Jan 30 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy Associate](https://jobright.ai/jobs/info/696031ff7ebc25398eb624d6?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 30 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Operations Intern](https://jobright.ai/jobs/info/697c84ce137a051025658986?utm_campaign=1050&utm_source=git)** | Fair Lawn, NJ | On Site | Jan 30 |
 | **[Aramark](http://www.aramark.com)** | **[Operations Supervisor Intern - Indianapolis Motor Speedway](https://jobright.ai/jobs/info/697c7b7c137a051025657ec6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[Nightwing](nightwing.com)** | **[Logistics Intern - 2026](https://jobright.ai/jobs/info/697c6abd727747250d571d5d?utm_campaign=1050&utm_source=git)** | Springfield, VA | On Site | Jan 30 |
 | **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697c6200137a051025654f2d?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 29 |
 | **[Tech Verses](techverses.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697c573b137a05102565482a?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 29 |
 | **[The Bancorp](http://www.thebancorp.com)** | **[FCRM Intern (Hybrid)](https://jobright.ai/jobs/info/69608dc3a1bbea1d9a7b581a?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Jan 29 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Resource Planning & Process Optimization](https://jobright.ai/jobs/info/697c4c1c0b88cc7d64236672?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Jan 29 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/697c408f0b88cc7d642359c6?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Jan 29 |
 | **[Agropur](https://www.agropur.com/en/)** | **[Operations Intern](https://jobright.ai/jobs/info/696b0e9c350cf43803125198?utm_campaign=1050&utm_source=git)** | Lake Norden, SD | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Shift Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68ca2d6ff16e3266d2823859?utm_campaign=1050&utm_source=git)** | West Hazleton, PA | On Site | Jan 29 |
 | ↳ | **[Supply Chain Intern – Summer 2026](https://jobright.ai/jobs/info/69602d24a112b402660ee677?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | ↳ | **[Procurement Intern: Summer - Fall 2026](https://jobright.ai/jobs/info/69609333a112b402660f40b1?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | Hybrid | Jan 29 |
-| ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/695f5164a112b402660e0583?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/695f51cea112b402660e072c?utm_campaign=1050&utm_source=git)** | Rocky Hill, CT | On Site | Jan 29 |
+| ↳ | **[PMO & Strategy Intern – Summer 2026](https://jobright.ai/jobs/info/695f5164a112b402660e0583?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 29 |
 | **[WesBanco](http://wesbanco.com)** | **[Intern - WesBanco Insurance - WHE](https://jobright.ai/jobs/info/697c38f01136d179eeeff9fd?utm_campaign=1050&utm_source=git)** | Wheeling, WV | On Site | Jan 29 |
 | ↳ | **[Intern - Strategy & Transformation](https://jobright.ai/jobs/info/697c383b0b88cc7d64233e2c?utm_campaign=1050&utm_source=git)** | Wheeling, WV | Hybrid | Jan 29 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Supply Chain - Internship](https://jobright.ai/jobs/info/697c366f0b88cc7d64233c0b?utm_campaign=1050&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
@@ -125,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Internship, Operations (Bagging)](https://jobright.ai/jobs/info/697c2bda1423772304ec8b9f?utm_campaign=1050&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | ↳ | **[Summer Internship, Logistics](https://jobright.ai/jobs/info/697c27801136d179eeefe0f4?utm_campaign=1050&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | ↳ | **[Summer Internship, Logistics](https://jobright.ai/jobs/info/697c27d31423772304ec87da?utm_campaign=1050&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
-| ↳ | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/697c26c41136d179eeefe01f?utm_campaign=1050&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | ↳ | **[Wonderful Scholar Summer Internship, Operations (Orange & Lemon)](https://jobright.ai/jobs/info/697c2c9d1423772304ec9087?utm_campaign=1050&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
+| ↳ | **[Wonderful Scholar Summer Internship, Logistics](https://jobright.ai/jobs/info/697c26c41136d179eeefe01f?utm_campaign=1050&utm_source=git)** | Delano, CA, USA | On Site | Jan 29 |
 | **[Kinectrics](http://www.kinectrics.com)** | **[Business Co-op Student, CFO Office](https://jobright.ai/jobs/info/697c35ed1423772304ec98aa?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, Service (Summer 2026)](https://jobright.ai/jobs/info/697c01b41423772304ec4f62?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Jan 29 |
 | **[Seabrook Island Club](https://www.seabrookisland.com)** | **[Hospitality Intern - Food and Beverage Department](https://jobright.ai/jobs/info/693c881e50bbaf76504fbf8e?utm_campaign=1050&utm_source=git)** | Johns Island, SC | On Site | Jan 29 |
@@ -136,25 +141,20 @@ For a complete list, click the following sortable link below:
 | **[Athletics](http://www.athletics.com)** | **[Player Development Intern](https://jobright.ai/jobs/info/697bfbe21136d179eeefa28b?utm_campaign=1050&utm_source=git)** | Mesa, AZ | On Site | Jan 29 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, Service (Summer 2026)](https://jobright.ai/jobs/info/697c1b331423772304ec748c?utm_campaign=1050&utm_source=git)** | PALO ALTO, California | On Site | Jan 29 |
 | **[Airgas](http://airgas.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697c1f461423772304ec7d4d?utm_campaign=1050&utm_source=git)** | Newport, DE (MEDAL) | On Site | Jan 29 |
-| **[General Dynamics](https://www.gd.com)** | **[Intern Administrative](https://jobright.ai/jobs/info/697c1e961136d179eeefd287?utm_campaign=1050&utm_source=git)** | USA-CT-Groton | On Site | Jan 29 |
-| ↳ | **[Intern Administrative](https://jobright.ai/jobs/info/697c2cd51423772304ec91b4?utm_campaign=1050&utm_source=git)** | CT-Groton, UNAVAILABLE, USA | On Site | Jan 29 |
+| **[General Dynamics](https://www.gd.com)** | **[Intern Administrative](https://jobright.ai/jobs/info/697c2cd51423772304ec91b4?utm_campaign=1050&utm_source=git)** | CT-Groton, UNAVAILABLE, USA | On Site | Jan 29 |
+| ↳ | **[Intern Administrative](https://jobright.ai/jobs/info/697c1e961136d179eeefd287?utm_campaign=1050&utm_source=git)** | USA-CT-Groton | On Site | Jan 29 |
 | **[International Monetary Fund](http://www.imf.org/)** | **[Fund Internship Program (FIP) - Project Portfolio Intern - Information Technology Department](https://jobright.ai/jobs/info/697bec1c1136d179eeef8a60?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Jan 29 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c1c0e1136d179eeefcccd?utm_campaign=1050&utm_source=git)** | Irvine, California, United States | On Site | Jan 29 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c186c1423772304ec6f3a?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Jan 29 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c17cd0b88cc7d64230c2a?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Jan 29 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c16001423772304ec6a76?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Jan 29 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c20890b88cc7d6423216b?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Jan 29 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c225e1423772304ec8388?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Jan 29 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c136d0b88cc7d6423037d?utm_campaign=1050&utm_source=git)** | Thornton, Colorado, United States | On Site | Jan 29 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c17cd0b88cc7d64230c2a?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Jan 29 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c1b431423772304ec74ad?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Jan 29 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c16001423772304ec6a76?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Jan 29 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c227c1136d179eeefda39?utm_campaign=1050&utm_source=git)** | Tysons Corner, Virginia, United States | On Site | Jan 29 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c225e1423772304ec8388?utm_campaign=1050&utm_source=git)** | Fort Collins, Colorado, United States | On Site | Jan 29 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697c20890b88cc7d6423216b?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Research and Technology Project Management (Summer 2026)](https://jobright.ai/jobs/info/697c1d6a1136d179eeefcfd5?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c25da1423772304ec85e0?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jan 29 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c12a31423772304ec63f2?utm_campaign=1050&utm_source=git)** | Hudson Valley - Newburgh, Vails Gate | On Site | Jan 29 |
+| ↳ | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c25da1423772304ec85e0?utm_campaign=1050&utm_source=git)** | Fort Lauderdale, FL, US | On Site | Jan 29 |
 | ↳ | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c14341136d179eeefbce1?utm_campaign=1050&utm_source=git)** | Newburgh, NY, US | On Site | Jan 29 |
-| ↳ | **[Summer 2026 Management Trainee Intern Ft. Lauderdale](https://jobright.ai/jobs/info/697c1f160b88cc7d64231bd4?utm_campaign=1050&utm_source=git)** | Ft Lauderdale | On Site | Jan 29 |
-| ↳ | **[Summer 2026 Management Trainee Intern- Newburgh, NY](https://jobright.ai/jobs/info/697c12a31423772304ec63f2?utm_campaign=1050&utm_source=git)** | Hudson Valley - Newburgh, Vails Gate | On Site | Jan 29 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management - Program Development NPD (Summer 2026)](https://jobright.ai/jobs/info/697c24db1136d179eeefdee0?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
-| ↳ | **[Intern, EcoJet Project Management (Summer 2026)](https://jobright.ai/jobs/info/697c34121423772304ec9763?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
-| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern- Healthcare Technology Management](https://jobright.ai/jobs/info/697c12c00b88cc7d64230233?utm_campaign=1050&utm_source=git)** | US-IL-SKOKIE | On Site | Jan 29 |
-| ↳ | **[Sodexo Strategic Intern- Healthcare Technology Management](https://jobright.ai/jobs/info/697c1ecc1136d179eeefd30f?utm_campaign=1050&utm_source=git)** | SKOKIE, IL, US | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

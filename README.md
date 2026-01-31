@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations & Procurement Intern](https://jobright.ai/jobs/info/697e71ab7f40342e15d743cb?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right of Way – GST061-D- Right of Way Acquisition Intern- Paid](https://jobright.ai/jobs/info/697e5aee7f40342e15d72499?utm_campaign=1050&utm_source=git)** | Georgia - Dekalb - Atlanta | On Site | Jan 31 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative and Program Management Bachelor's Intern](https://jobright.ai/jobs/info/697e4a7e7f40342e15d71b2b?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Jan 31 |
 | ↳ | **[Data and Program Management Master's Intern](https://jobright.ai/jobs/info/697e46e6ce48107c0542804f?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/696c7c755fc86241853ba418?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jan 31 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51da224b1ee4c7b663fd8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
 | **[Texas Instruments](http://www.ti.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6961cec1f3f4cd132506cf07?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
-| **[Zoox](https://www.zoox.com/)** | **[Process Improvement Intern](https://jobright.ai/jobs/info/6944b74ca7227b3ece6662d1?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

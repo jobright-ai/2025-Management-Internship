@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6962669025e18715077f4605?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Jan 31 |
+| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/697dce54abff4c399a9caf17?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Operations Internship: Summer 2026](https://jobright.ai/jobs/info/6961bae3e7ed9a5731ba8ee9?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Jan 31 |
 | **[Dynareon](dynareon.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697dce18ce48107c0542278e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c5a7e7ed9a5731ba97ca?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Jan 31 |
@@ -68,7 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697db446abff4c399a9c8b12?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Housing Office Admin Intern](https://jobright.ai/jobs/info/697db406abff4c399a9c8ae3?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Jan 30 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697db323abff4c399a9c89ec?utm_campaign=1050&utm_source=git)** | Skokie, IL | On Site | Jan 30 |
-| ↳ | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697db208abff4c399a9c88d1?utm_campaign=1050&utm_source=git)** | Batavia, IL | On Site | Jan 30 |
+| **[Seneca Foods Corporation](http://senecafoods.com)** | **[Operations Intern - 2026](https://jobright.ai/jobs/info/697dcfdeabff4c399a9caf81?utm_campaign=1050&utm_source=git)** | Montgomery, MN | On Site | Jan 30 |
+| **[Covenant Living Communities and Services](https://covliving.org/)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697db208abff4c399a9c88d1?utm_campaign=1050&utm_source=git)** | Batavia, IL | On Site | Jan 30 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right Away – GST061-D- Property Management Intern- Paid](https://jobright.ai/jobs/info/697daf8babff4c399a9c8468?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Jan 30 |
 | **[Viwinco Windows](https://www.viwinco.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/697daeb97f40342e15d694ad?utm_campaign=1050&utm_source=git)** | Morgantown, Pennsylvania, United States | On Site | Jan 30 |
 | **[City of Gainesville](http://www.cityofgainesville.org/)** | **[Intern](https://jobright.ai/jobs/info/697dab2f7f40342e15d691f1?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Jan 30 |
@@ -120,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Lewisberry, PA (Summer 2026)](https://jobright.ai/jobs/info/697d5f49137a051025667fed?utm_campaign=1050&utm_source=git)** | Lewisberry, PA | On Site | Jan 30 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697d829d7f40342e15d64c9d?utm_campaign=1050&utm_source=git)** | Vernon Hills, IL | On Site | Jan 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697d8594abff4c399a9c3cdb?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697d7dfd3f57a33569676710?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Jan 30 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/697d89717f40342e15d65283?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Jan 30 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697d7dfd3f57a33569676710?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Jan 30 |
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[Logistics Intern - Campus Recruiting - Logistics Dept](https://jobright.ai/jobs/info/697d5df9137a051025667e26?utm_campaign=1050&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/697d5de2137a051025667e17?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
 | **[NANA Construction, LLC](https://nanaconstruction.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/697d5dc6727747250d584100?utm_campaign=1050&utm_source=git)** | Anchorage , AK, US | On Site | Jan 30 |
@@ -145,16 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Cinemark](http://www.cinemark.com)** | **[Inventory & Distribution Intern](https://jobright.ai/jobs/info/697d575d727747250d583929?utm_campaign=1050&utm_source=git)** | Plano, TX | Hybrid | Jan 30 |
 | **[MSU Residential and Hospitality Services](sle.msu.edu)** | **[Event Student Supervisor Intern](https://jobright.ai/jobs/info/697d56fe727747250d583905?utm_campaign=1050&utm_source=git)** | Center, IN | On Site | Jan 30 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/697d56b4727747250d5838de?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/697d769c3f57a33569675a81?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Jan 30 |
-| ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/697d7548137a051025669828?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Jan 30 |
+| **[WEX](http://www.wexinc.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/697d7548137a051025669828?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Jan 30 |
+| ↳ | **[Intern - Procurement](https://jobright.ai/jobs/info/697d769c3f57a33569675a81?utm_campaign=1050&utm_source=git)** | US - Remote | Remote | Jan 30 |
 | **[Evara Health](https://evarahealth.org)** | **[Intern](https://jobright.ai/jobs/info/697d5621727747250d583899?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Jan 30 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Rialto, CA  (Summer 2026)](https://jobright.ai/jobs/info/697d54e93f57a33569673471?utm_campaign=1050&utm_source=git)** | Bloomington, CA | On Site | Jan 30 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Project Manager) - Las Vegas](https://jobright.ai/jobs/info/697d398b3f57a3356967082e?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Jan 30 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697d72f33f57a335696757ae?utm_campaign=1050&utm_source=git)** | Covenant Living at Windsor Park - Carol Stream, IL | On Site | Jan 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/697d74343f57a335696758eb?utm_campaign=1050&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d7089727747250d585950?utm_campaign=1050&utm_source=git)** | Cincinnati, OH, USA | On Site | Jan 30 |
-| ↳ | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d75333f57a33569675966?utm_campaign=1050&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | On Site | Jan 30 |
-| **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Transformation](https://jobright.ai/jobs/info/696967fff25a38006698005a?utm_campaign=1050&utm_source=git)** | Chevy Chase, Maryland, United States | Hybrid | Jan 30 |
-| **[LCRA](https://www.lcra.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697d50b5727747250d581e8a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 30 |
-| **[Schindler Group](http://www.schindler.com/)** | **[Field Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697d4d86727747250d581b8a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 30 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d75333f57a33569675966?utm_campaign=1050&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | On Site | Jan 30 |
+| ↳ | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d7089727747250d585950?utm_campaign=1050&utm_source=git)** | Cincinnati, OH, USA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

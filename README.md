@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Junior Strategist Intern](https://jobright.ai/jobs/info/697e3f64abff4c399a9d07ef?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - AMBULATORY OPERATIONS, CAMDEN](https://jobright.ai/jobs/info/697a2e2cb4589b4ee87c6f73?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
+| ↳ | **[SUMMER INTERN - CRI CLINICAL OPERATIONS](https://jobright.ai/jobs/info/697a312aa8de441ca735519c?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
+| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/69626eaa2cbf4e44756c6399?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Enroute Computer Solutions - ECS](https://www.enroute-computer.com/)** | **[Corporate Office Intern](https://jobright.ai/jobs/info/697e3069abff4c399a9cec1a?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | Jan 31 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/697e2f2ace48107c05426430?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Jan 31 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/696273dda112b4026610d310?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Technical Program Management Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976d6d4206da320f4a080ab?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Supply Chain Program Management Intern- Summer 2026](https://jobright.ai/jobs/info/696eabbe5fc86241853d804f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship, Charlotte](https://jobright.ai/jobs/info/68b74eaa2124650c14021c03?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
-| ↳ | **[Operations Internship](https://jobright.ai/jobs/info/692293657795cd460c8362e0?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696145a8f3f4cd1325063ee9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6962669025e18715077f4605?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Jan 31 |
-| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/697dce54abff4c399a9caf17?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

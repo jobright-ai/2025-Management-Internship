@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Operations Internship: Summer 2026](https://jobright.ai/jobs/info/6961bae3e7ed9a5731ba8ee9?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Jan 31 |
+| **[Dynareon](dynareon.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697dce18ce48107c0542278e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c5a7e7ed9a5731ba97ca?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Jan 31 |
+| **[Valorantum](valorantum.us)** | **[Assistant Strategist – Business Solutions (New Grad)](https://jobright.ai/jobs/info/697dcc57ce48107c054220ca?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Jan 31 |
+| **[Camping World](https://investor.campingworld.com)** | **[Protections/Sr. Manager Operations Intern](https://jobright.ai/jobs/info/6969bc7a1703f05405abb529?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Jan 31 |
+| **[Veeam Software](http://www.veeam.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697dc24eabff4c399a9c9121?utm_campaign=1050&utm_source=git)** | Georgia, United States | Remote | Jan 31 |
+| **[Viwinco Windows](https://www.viwinco.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/697dbbe1abff4c399a9c8e26?utm_campaign=1050&utm_source=git)** | Morgantown, PA | On Site | Jan 31 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697db5b2ce48107c054204e7?utm_campaign=1050&utm_source=git)** | Carol Stream, IL | On Site | Jan 30 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Game Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697db446abff4c399a9c8b12?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Jan 30 |
 | **[Western Welding Academy](ApplyToWeld.com)** | **[Housing Office Admin Intern](https://jobright.ai/jobs/info/697db406abff4c399a9c8ae3?utm_campaign=1050&utm_source=git)** | Gillette, WY | On Site | Jan 30 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Project Manager) - Las Vegas](https://jobright.ai/jobs/info/697d398b3f57a3356967082e?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Jan 30 |
 | **[Covenant Living Communities and Services](https://covliving.org/)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697d72f33f57a335696757ae?utm_campaign=1050&utm_source=git)** | Covenant Living at Windsor Park - Carol Stream, IL | On Site | Jan 30 |
 | ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/697d74343f57a335696758eb?utm_campaign=1050&utm_source=git)** | Covenant Living Communities and Services- Skokie, IL | On Site | Jan 30 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d75333f57a33569675966?utm_campaign=1050&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | On Site | Jan 30 |
-| ↳ | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d7089727747250d585950?utm_campaign=1050&utm_source=git)** | Cincinnati, OH, USA | On Site | Jan 30 |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d7089727747250d585950?utm_campaign=1050&utm_source=git)** | Cincinnati, OH, USA | On Site | Jan 30 |
+| ↳ | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697d75333f57a33569675966?utm_campaign=1050&utm_source=git)** | Kemper Meadow Dr, Forest Park, OH 45240, USA | On Site | Jan 30 |
 | **[Berkadia](https://www.berkadia.com/)** | **[2026 Summer Intern- Transformation](https://jobright.ai/jobs/info/696967fff25a38006698005a?utm_campaign=1050&utm_source=git)** | Chevy Chase, Maryland, United States | Hybrid | Jan 30 |
 | **[LCRA](https://www.lcra.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/697d50b5727747250d581e8a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Jan 30 |
 | **[Schindler Group](http://www.schindler.com/)** | **[Field Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697d4d86727747250d581b8a?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[RailPros](http://railpros.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/697d4c5c137a0510256658d5?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Jan 30 |
-| **[Birchwood Automotive Group](https://www.birchwood.ca/)** | **[PROFESSIONAL INTERN - LOGISTICS ANALYST](https://jobright.ai/jobs/info/697d74ff727747250d585db3?utm_campaign=1050&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 30 |
-| **[Horizon Blue Cross Blue Shield of New Jersey](http://www.horizonblue.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/697d4ac43f57a33569671764?utm_campaign=1050&utm_source=git)** | Newark, NJ - Hybrid | Hybrid | Jan 30 |
-| **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/69616e14a112b402660ff0aa?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
-| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Model Risk Management](https://jobright.ai/jobs/info/697d4a1a137a05102566570f?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Corporate Operations- Supply Chain](https://jobright.ai/jobs/info/697d66683f57a33569674964?utm_campaign=1050&utm_source=git)** | US-VA-Richmond | On Site | Jan 30 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Value Chain Management](https://jobright.ai/jobs/info/697d48a5137a05102566563f?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

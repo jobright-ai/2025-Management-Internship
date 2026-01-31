@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, IMG Models](https://jobright.ai/jobs/info/694609b57d506e3808f160df?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51d812ed36439e51e4d58?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
+| **[Stop & Shop](http://stopandshop.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6960fe8cf3f4cd132505fd66?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Jan 31 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/696dc1f35fc86241853c98ff?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
+| **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b143d1953b5d11bead68?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 31 |
+| **[Coperion](http://www.coperion.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/690d8017d046ab6061cf6b5a?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Jan 31 |
+| **[Grimco, Inc.](http://midwestsign.com)** | **[Supply Chain & Procurement Internship - Summer 2026](https://jobright.ai/jobs/info/68d1c8d38c62e63bc7fcfb07?utm_campaign=1050&utm_source=git)** | Sunset Hills, MO | On Site | Jan 31 |
 | **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern](https://jobright.ai/jobs/info/696c6c5fdb26b618950fc6cc?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Jan 31 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/68b78aadf4e41a61efd99bc7?utm_campaign=1050&utm_source=git)** | East Hanover, NJ | On Site | Jan 31 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6893b540a9199876488df7d8?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jan 31 |
@@ -64,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d519bd24b1ee4c7b663f43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Analyst Intern Summer 2026](https://jobright.ai/jobs/info/691ad59dbcdbf3560c9dadb8?utm_campaign=1050&utm_source=git)** | Madison, PA | Remote | Jan 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976dfda206da320f4a0873c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Jan 31 |
 | **[Baptist Health](https://www.baptist-health.com/)** | **[AHG Practice Plus Intern](https://jobright.ai/jobs/info/697de33dabff4c399a9cb61b?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[Zoox](https://www.zoox.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6961cadbe7ed9a5731ba9ac7?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 31 |
 | **[LumoraX](lumorax.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697de212ce48107c05422fc1?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 31 |
@@ -71,6 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6961e237e7ed9a5731baa6f8?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
 | **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Innovation Management Internship - Summer 2026](https://jobright.ai/jobs/info/6945c225951654073537df8c?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jan 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
+| **[ROCK](http://www.rockventures.com/)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6945d1bc63141d1884556e05?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/696c7c755fc86241853ba418?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jan 31 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51da224b1ee4c7b663fd8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697d5f4c727747250d5842fe?utm_campaign=1050&utm_source=git)** | Fort Valley, GA | On Site | Jan 30 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Lewisberry, PA (Summer 2026)](https://jobright.ai/jobs/info/697d5f49137a051025667fed?utm_campaign=1050&utm_source=git)** | Lewisberry, PA | On Site | Jan 30 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/697d829d7f40342e15d64c9d?utm_campaign=1050&utm_source=git)** | Vernon Hills, IL | On Site | Jan 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697d8594abff4c399a9c3cdb?utm_campaign=1050&utm_source=git)** | Kalamazoo, MI | On Site | Jan 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697d7dfd3f57a33569676710?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Jan 30 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/697d89717f40342e15d65283?utm_campaign=1050&utm_source=git)** | West Burlington, IA | On Site | Jan 30 |
-| **[Fuyao Group](http://www.fuyaogroup.com)** | **[Logistics Intern - Campus Recruiting - Logistics Dept](https://jobright.ai/jobs/info/697d5df9137a051025667e26?utm_campaign=1050&utm_source=git)** | Moraine, OH, US | On Site | Jan 30 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Logistics](https://jobright.ai/jobs/info/697d5de2137a051025667e17?utm_campaign=1050&utm_source=git)** | Garden Grove, CA | On Site | Jan 30 |
-| **[NANA Construction, LLC](https://nanaconstruction.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/697d5dc6727747250d584100?utm_campaign=1050&utm_source=git)** | Anchorage , AK, US | On Site | Jan 30 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Project Management/AI and Software Solutions](https://jobright.ai/jobs/info/697d5ce6727747250d583ff6?utm_campaign=1050&utm_source=git)** | Downers Grove, IL, US | Hybrid | Jan 30 |
-| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Integrated Planning](https://jobright.ai/jobs/info/697d5cbb3f57a33569673e7e?utm_campaign=1050&utm_source=git)** | Canada | Remote | Jan 30 |
-| **[Colliers](http://www.colliers.com)** | **[Corporate Intern - Summer 2026](https://jobright.ai/jobs/info/697d5ca1727747250d583f8f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

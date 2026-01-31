@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enroute Computer Solutions - ECS](https://www.enroute-computer.com/)** | **[Corporate Office Intern](https://jobright.ai/jobs/info/697e3069abff4c399a9cec1a?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | Jan 31 |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/697e2f2ace48107c05426430?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Jan 31 |
+| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/696273dda112b4026610d310?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
+| ↳ | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/6962704c25e18715077f49e2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 31 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/697e2b12ce48107c0542630f?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Business Affairs](https://jobright.ai/jobs/info/696266dea112b4026610cf72?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse](https://jobright.ai/jobs/info/697e2035ce48107c054260bd?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Jan 31 |
 | ↳ | **[District Manager Intern - Minnesota, Iowa, South Dakota, North Dakota and Western Wisconsin](https://jobright.ai/jobs/info/697e1a4aabff4c399a9ce487?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Jan 31 |
 | **[By The Bay Health](https://bythebayhealth.org/)** | **[Clinical & Administrative Support Intern](https://jobright.ai/jobs/info/697e166dce48107c05425bfa?utm_campaign=1050&utm_source=git)** | Larkspur, CA | On Site | Jan 31 |
@@ -89,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Jan 31 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69617565a112b402660ff974?utm_campaign=1050&utm_source=git)** | Ridgeville, SC | On Site | Jan 31 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/696894791703f05405aa60b5?utm_campaign=1050&utm_source=git)** | Wilmer, TX | On Site | Jan 31 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68cce0105954791a1d7003d2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Jan 31 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Project Management](https://jobright.ai/jobs/info/6961a58be7ed9a5731ba7b80?utm_campaign=1050&utm_source=git)** | Verona, WI | On Site | Jan 31 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jan 31 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Technical Program Management Intern [Global Monetization Product and Technology]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6976d6d4206da320f4a080ab?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Supply Chain Program Management Intern- Summer 2026](https://jobright.ai/jobs/info/696eabbe5fc86241853d804f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship, Charlotte](https://jobright.ai/jobs/info/68b74eaa2124650c14021c03?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
-| **[Western Digital](https://www.westerndigital.com)** | **[Summer 2026 Intern – Global Supply Chain & Procurement](https://jobright.ai/jobs/info/6961737df3f4cd1325066b7e?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Jan 31 |
-| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/692293657795cd460c8362e0?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
+| ↳ | **[Operations Internship](https://jobright.ai/jobs/info/692293657795cd460c8362e0?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operations Intern (TikTok Local Services) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696145a8f3f4cd1325063ee9?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6962669025e18715077f4605?utm_campaign=1050&utm_source=git)** | Brownsburg, IN | On Site | Jan 31 |
 | **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Property Management Internship](https://jobright.ai/jobs/info/697dce54abff4c399a9caf17?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Jan 31 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Operations Internship: Summer 2026](https://jobright.ai/jobs/info/6961bae3e7ed9a5731ba8ee9?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Jan 31 |
-| **[Dynareon](dynareon.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697dce18ce48107c0542278e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Jan 31 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c5a7e7ed9a5731ba97ca?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Jan 31 |
-| **[Valorantum](valorantum.us)** | **[Assistant Strategist – Business Solutions (New Grad)](https://jobright.ai/jobs/info/697dcc57ce48107c054220ca?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Jan 31 |
-| **[Camping World](https://investor.campingworld.com)** | **[Protections/Sr. Manager Operations Intern](https://jobright.ai/jobs/info/6969bc7a1703f05405abb529?utm_campaign=1050&utm_source=git)** | Lincolnshire, IL | On Site | Jan 31 |
-| **[Veeam Software](http://www.veeam.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697dc24eabff4c399a9c9121?utm_campaign=1050&utm_source=git)** | Georgia, United States | Remote | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

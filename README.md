@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right Away – GST061-D- Property Management Intern- Paid](https://jobright.ai/jobs/info/697daf8babff4c399a9c8468?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Jan 30 |
+| **[Viwinco Windows](https://www.viwinco.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/697daeb97f40342e15d694ad?utm_campaign=1050&utm_source=git)** | Morgantown, Pennsylvania, United States | On Site | Jan 30 |
+| **[City of Gainesville](http://www.cityofgainesville.org/)** | **[Intern](https://jobright.ai/jobs/info/697dab2f7f40342e15d691f1?utm_campaign=1050&utm_source=git)** | Gainesville, FL | On Site | Jan 30 |
+| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697daa727f40342e15d69135?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[E&PS Real Estate Summer Intern](https://jobright.ai/jobs/info/697d9c54abff4c399a9c716c?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | Hybrid | Jan 30 |
 | **[Orvanta](orvanta.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697d9923abff4c399a9c6efd?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 30 |
 | **[Estes Forwarding Worldwide](http://efwnow.com)** | **[Intern, Corporate Operations- Supply Chain](https://jobright.ai/jobs/info/697d981f7f40342e15d6806c?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - HQ](https://jobright.ai/jobs/info/697d46d23f57a335696714f0?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Jan 30 |
 | **[NANA Construction, LLC](https://nanaconstruction.com/)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Construction HSSE Intern  Paid Internship](https://jobright.ai/jobs/info/697d67e3727747250d584c9e?utm_campaign=1050&utm_source=git)** | Anchorage | On Site | Jan 30 |
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Summer Intern - Domestic Relocation - US Based Remote](https://jobright.ai/jobs/info/697d4674727747250d5816b4?utm_campaign=1050&utm_source=git)** | US Remote Address 1, US Remote City, US Remote State, 00000, US | Remote | Jan 30 |
-| **[The State Group](https://www.stategroup.com)** | **[Construction Project Manager Intern - On-Site](https://jobright.ai/jobs/info/697d64c33f57a3356967472e?utm_campaign=1050&utm_source=git)** | United States | On Site | Jan 30 |
-| **[UNDP](http://www.undp.org)** | **[Project Management Support -  Intern](https://jobright.ai/jobs/info/697d45f83f57a33569671438?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Jan 30 |
-| **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Outbound Distribution Intern](https://jobright.ai/jobs/info/697d41923f57a3356967127c?utm_campaign=1050&utm_source=git)** | Katy, TX | On Site | Jan 30 |
-| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Office of Continuous Improvement Internship - Las Vegas](https://jobright.ai/jobs/info/697d418b3f57a33569671272?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Comstock Companies](http://comstockcompanies.com/)** | **[Commercial Real Estate Internship](https://jobright.ai/jobs/info/697fb9ee7f40342e15d85124?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
+| **[Comstock Companies](http://comstockcompanies.com/)** | **[Residential Property Management Internship](https://jobright.ai/jobs/info/697fc0f6ce48107c0543c816?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
+| ↳ | **[Commercial Real Estate Internship](https://jobright.ai/jobs/info/697fb9ee7f40342e15d85124?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Program Integration/Mission Excellence (Business, Project Management, Finance)](https://jobright.ai/jobs/info/697fae6cabff4c399a9e3cee?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
 | **[Woman's Hospital](http://www.womans.org/)** | **[Supply Chain Management - Summer Internship](https://jobright.ai/jobs/info/697f9b22abff4c399a9e33d3?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Feb 01 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697f94d6ce48107c0543a493?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 01 |
 | **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697f88657f40342e15d84044?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Procurement Internship](https://jobright.ai/jobs/info/697f850aabff4c399a9e3127?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
-| **[Veltrana Group](veltranagroup.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697f8248abff4c399a9e184f?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 01 |
 | **[Trace3](http://trace3.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69408c68aa598a08c3f03b72?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Resource Planning & Process Optimization](https://jobright.ai/jobs/info/697f7aa77f40342e15d82613?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Feb 01 |
 | ↳ | **[Internship - Strategic Pricing and Contracting (Multiple Positions)](https://jobright.ai/jobs/info/697f7a96abff4c399a9e1798?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
@@ -115,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f04da7f40342e15d7c17e?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | ↳ | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f00b07f40342e15d7bc0d?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| **[Valorantum](valorantum.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697ef07c7f40342e15d7aeaf?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 31 |
 | **[McKesson](http://www.mckesson.com)** | **[Impact Strategy & Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697ed003ce48107c0542e458?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697ecacaabff4c399a9d6a17?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697ec755abff4c399a9d69ba?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Akron Brass Company](http://www.akronbrass.com/)** | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/6945d7c495165407353808c6?utm_campaign=1050&utm_source=git)** | Wooster, OH | On Site | Jan 31 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Project & Operations Summer Intern](https://jobright.ai/jobs/info/69460a16d1953b5d11bf2af4?utm_campaign=1050&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/696c6576db26b618950fc42b?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | Jan 31 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Health and Life Sciences Strategy (Health Futures, Redmond)](https://jobright.ai/jobs/info/6971a5c551f726477183ff9b?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

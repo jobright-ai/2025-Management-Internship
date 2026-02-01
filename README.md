@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trace3](http://trace3.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69408c68aa598a08c3f03b72?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 01 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Resource Planning & Process Optimization](https://jobright.ai/jobs/info/697f7aa77f40342e15d82613?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Feb 01 |
+| ↳ | **[Internship - Strategic Pricing and Contracting (Multiple Positions)](https://jobright.ai/jobs/info/697f7a96abff4c399a9e1798?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
+| ↳ | **[Undergrad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/697f7a86abff4c399a9e178e?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Feb 01 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Business Operations & Procurement Intern](https://jobright.ai/jobs/info/697f7796ce48107c05438988?utm_campaign=1050&utm_source=git)** | Raleigh, NC | Remote | Feb 01 |
 | **[Lightwheel](https://lightwheel.ai/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697f71bcce48107c0543890d?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Feb 01 |
 | **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Executive Intern](https://jobright.ai/jobs/info/697f71a4abff4c399a9e16e7?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Business Administration, Project Management](https://jobright.ai/jobs/info/697f6e63ce48107c05438866?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Jan 31 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694259abbdcf884a5ade3e0a?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Jan 31 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Jan 31 |
-| **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d45903ffc1276de3fd9f29?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Jan 31 |
-| **[Connor, Clark & Lunn Private Capital Ltd. (CC&L)](https://www.cclprivatecapital.com)** | **[Intern, Strategy & Change Management](https://jobright.ai/jobs/info/6961b8b3a112b40266104958?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 31 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 31 |
-| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Jan 31 |
-| **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69617565a112b402660ff974?utm_campaign=1050&utm_source=git)** | Ridgeville, SC | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697ecacaabff4c399a9d6a17?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697ec755abff4c399a9d69ba?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 31 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/697ebcbeabff4c399a9d61ec?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 31 |
 | **[Greystar](http://greystar.com)** | **[Property Management Intern- Chicago](https://jobright.ai/jobs/info/6962940725e18715077f698a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/697e997fabff4c399a9d3aa5?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e9144ce48107c0542b003?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, IMG Models](https://jobright.ai/jobs/info/6945dc93d1953b5d11beee9d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
 | ↳ | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6961e6cbf3f4cd132506dcdc?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6961e237e7ed9a5731baa6f8?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
-| **[RLI Insurance Company](http://www.rlicorp.com/)** | **[Innovation Management Internship - Summer 2026](https://jobright.ai/jobs/info/6945c225951654073537df8c?utm_campaign=1050&utm_source=git)** | Peoria, IL | On Site | Jan 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

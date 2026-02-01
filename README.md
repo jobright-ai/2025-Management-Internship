@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/697e997fabff4c399a9d3aa5?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e9144ce48107c0542b003?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations & Procurement Intern](https://jobright.ai/jobs/info/697e71ab7f40342e15d743cb?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/697e900babff4c399a9d39e5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6967edaaf25a38006696455b?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Jan 31 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/696c7c755fc86241853ba418?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jan 31 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51da224b1ee4c7b663fd8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

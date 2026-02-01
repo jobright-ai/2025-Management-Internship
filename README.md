@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f04da7f40342e15d7c17e?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
+| ↳ | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f00b07f40342e15d7bc0d?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[Valorantum](valorantum.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697ef07c7f40342e15d7aeaf?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 31 |
 | **[McKesson](http://www.mckesson.com)** | **[Impact Strategy & Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697ed003ce48107c0542e458?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697ecacaabff4c399a9d6a17?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 31 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Jan 31 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69617565a112b402660ff974?utm_campaign=1050&utm_source=git)** | Ridgeville, SC | On Site | Jan 31 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/696894791703f05405aa60b5?utm_campaign=1050&utm_source=git)** | Wilmer, TX | On Site | Jan 31 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68cce0105954791a1d7003d2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Jan 31 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Project Management](https://jobright.ai/jobs/info/6961a58be7ed9a5731ba7b80?utm_campaign=1050&utm_source=git)** | Verona, WI | On Site | Jan 31 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697e09077f40342e15d6ed8b?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Jan 31 |
 | **[Baptist Health](https://www.baptist-health.com/)** | **[AHG Practice Plus Intern](https://jobright.ai/jobs/info/697de33dabff4c399a9cb61b?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
 | **[Zoox](https://www.zoox.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6961cadbe7ed9a5731ba9ac7?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 31 |
-| **[LumoraX](lumorax.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697de212ce48107c05422fc1?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 31 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, IMG Models](https://jobright.ai/jobs/info/6945dc93d1953b5d11beee9d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

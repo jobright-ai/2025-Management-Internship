@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[2026 Summer Internship: MBA Intern, Energy](https://jobright.ai/jobs/info/697f8e44abff4c399a9e327f?utm_campaign=1050&utm_source=git)** | Bentonville, AR | On Site | Feb 01 |
+| **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697f88657f40342e15d84044?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 01 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Procurement Internship](https://jobright.ai/jobs/info/697f850aabff4c399a9e3127?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
+| **[Veltrana Group](veltranagroup.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697f8248abff4c399a9e184f?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 01 |
 | **[Trace3](http://trace3.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/69408c68aa598a08c3f03b72?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Resource Planning & Process Optimization](https://jobright.ai/jobs/info/697f7aa77f40342e15d82613?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Feb 01 |
 | ↳ | **[Internship - Strategic Pricing and Contracting (Multiple Positions)](https://jobright.ai/jobs/info/697f7a96abff4c399a9e1798?utm_campaign=1050&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
@@ -94,8 +98,7 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1eabce48107c0543376b?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 01 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1e8bce48107c05433737?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 01 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/697f1d62abff4c399a9dc1a5?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Feb 01 |
-| **[Veltrana Group](veltranagroup.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697f1cce7f40342e15d7d11b?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f140e7f40342e15d7cbe5?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 01 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f140e7f40342e15d7cbe5?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 01 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f13297f40342e15d7cb42?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 01 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Business Planning and Analytics MBA Intern](https://jobright.ai/jobs/info/697136d151f7264771836d09?utm_campaign=1050&utm_source=git)** | Fairhaven, MA | Hybrid | Feb 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1274abff4c399a9dbb06?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Project & Operations Summer Intern](https://jobright.ai/jobs/info/69460a16d1953b5d11bf2af4?utm_campaign=1050&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/696c6576db26b618950fc42b?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | Jan 31 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Health and Life Sciences Strategy (Health Futures, Redmond)](https://jobright.ai/jobs/info/6971a5c551f726477183ff9b?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Jan 31 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Jan 31 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694259abbdcf884a5ade3e0a?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Jan 31 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

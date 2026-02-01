@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e9144ce48107c0542b003?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations & Procurement Intern](https://jobright.ai/jobs/info/697e71ab7f40342e15d743cb?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
+| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/697e900babff4c399a9d39e5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right of Way – GST061-D- Right of Way Acquisition Intern- Paid](https://jobright.ai/jobs/info/697e5aee7f40342e15d72499?utm_campaign=1050&utm_source=git)** | Georgia - Dekalb - Atlanta | On Site | Jan 31 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative and Program Management Bachelor's Intern](https://jobright.ai/jobs/info/697e4a7e7f40342e15d71b2b?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Jan 31 |
 | ↳ | **[Data and Program Management Master's Intern](https://jobright.ai/jobs/info/697e46e6ce48107c0542804f?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Jan 31 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Junior Strategist Intern](https://jobright.ai/jobs/info/697e3f64abff4c399a9d07ef?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 31 |
 | **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - AMBULATORY OPERATIONS, CAMDEN](https://jobright.ai/jobs/info/697a2e2cb4589b4ee87c6f73?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | ↳ | **[SUMMER INTERN - CRI CLINICAL OPERATIONS](https://jobright.ai/jobs/info/697a312aa8de441ca735519c?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/69626eaa2cbf4e44756c6399?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d517a1e678d65ec7d8b151?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - Operations](https://jobright.ai/jobs/info/696c7c755fc86241853ba418?utm_campaign=1050&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jan 31 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d51da224b1ee4c7b663fd8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Jan 31 |
-| **[Texas Instruments](http://www.ti.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6961cec1f3f4cd132506cf07?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

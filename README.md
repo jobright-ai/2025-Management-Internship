@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKesson](http://www.mckesson.com)** | **[Impact Strategy & Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697ed003ce48107c0542e458?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697ecacaabff4c399a9d6a17?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697ec755abff4c399a9d69ba?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 31 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/697ebcbeabff4c399a9d61ec?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LumoraX](lumorax.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697de212ce48107c05422fc1?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 31 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, IMG Models](https://jobright.ai/jobs/info/6945dc93d1953b5d11beee9d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
 | ↳ | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6961e6cbf3f4cd132506dcdc?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 31 |
-| ↳ | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6961e237e7ed9a5731baa6f8?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

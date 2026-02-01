@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Target](https://www.target.com)** | **[Operations Manager Intern (Starting Summer 2026) - Regional Distribution Center, Tifton, GA](https://jobright.ai/jobs/info/68db79fa9f13662d20e4b9cb?utm_campaign=1050&utm_source=git)** | Tifton, GA | On Site | Feb 01 |
+| **[Lightwheel](https://lightwheel.ai/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697f71bcce48107c0543890d?utm_campaign=1050&utm_source=git)** | San Francisco Bay Area | On Site | Feb 01 |
+| **[Virginia Housing](https://www.vhda.com/Pages/Home.aspx)** | **[Executive Intern](https://jobright.ai/jobs/info/697f71a4abff4c399a9e16e7?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Feb 01 |
+| **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Business Administration, Project Management](https://jobright.ai/jobs/info/697f6e63ce48107c05438866?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
+| **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Chambersburg, PA](https://jobright.ai/jobs/info/6973f345206da320f49df2ef?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Feb 01 |
+| ↳ | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, Windsor, CT](https://jobright.ai/jobs/info/6973efff206da320f49de89e?utm_campaign=1050&utm_source=git)** | Windsor, CT | On Site | Feb 01 |
+| ↳ | **[Operations Manager Intern (Starting Summer 2026) - Regional Distribution Center, Tifton, GA](https://jobright.ai/jobs/info/68db79fa9f13662d20e4b9cb?utm_campaign=1050&utm_source=git)** | Tifton, GA | On Site | Feb 01 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) -Regional Distribution Center, Midway, GA](https://jobright.ai/jobs/info/68ca2331f61c922772a73564?utm_campaign=1050&utm_source=git)** | Midway, GA | On Site | Feb 01 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/697f6404ce48107c054385cd?utm_campaign=1050&utm_source=git)** | Richmond, VA | Remote | Feb 01 |
 | **[CAMH](https://www.camh.ca)** | **[Program Assistant - Crisis Critical Care Unit 6](https://jobright.ai/jobs/info/697f5f6aabff4c399a9e1144?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 01 |
@@ -66,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68642c2e0033bef502c86873?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 01 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Procurement Operations Intern](https://jobright.ai/jobs/info/697f5979abff4c399a9e0dc9?utm_campaign=1050&utm_source=git)** | Houston, TX | Remote | Feb 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Data and Program Management Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/697f5957abff4c399a9e0daa?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 01 |
+| ↳ | **[Administrative Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/697f7485ce48107c05438924?utm_campaign=1050&utm_source=git)** | Baldwin Park, CA | On Site | Feb 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Salem, NH](https://jobright.ai/jobs/info/697f4e41ce48107c0543656e?utm_campaign=1050&utm_source=git)** | Salem, NH, US | On Site | Feb 01 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68cd8b14b2a74e1837ed8766?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Feb 01 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Feb 01 |
@@ -131,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b7a0d61ade4306aa64cbb1?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | **[Clinton Management](https://www.clintonmanagement.com)** | **[Property Management Intern](https://jobright.ai/jobs/info/697e10e8abff4c399a9ce19f?utm_campaign=1050&utm_source=git)** | Bronx, NY - Bronx, NY 10455 | On Site | Jan 31 |
 | **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c917a112b402661056ab?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Jan 31 |
-| **[Microsoft](https://www.microsoft.com)** | **[Project Control: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6960fea8f3f4cd132505fd67?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Jan 31 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b942b207090163b6ba9844?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 31 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Project Administrator (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/6961dcabf3f4cd132506d795?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Jan 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961c58da112b4026610549a?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Jan 31 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Jan 31 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69617565a112b402660ff974?utm_campaign=1050&utm_source=git)** | Ridgeville, SC | On Site | Jan 31 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68cce0105954791a1d7003d2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Jan 31 |
-| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Project Management](https://jobright.ai/jobs/info/6961a58be7ed9a5731ba7b80?utm_campaign=1050&utm_source=git)** | Verona, WI | On Site | Jan 31 |
-| **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
-| **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Jan 31 |
-| **[AXA XL](https://axaxl.com)** | **[Claims Intern - HYBRID](https://jobright.ai/jobs/info/6961856df3f4cd13250689be?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

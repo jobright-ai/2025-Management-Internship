@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Information Systems (IT) Leadership Intern](https://jobright.ai/jobs/info/697fd841ce48107c0543f517?utm_campaign=1050&utm_source=git)** | Cherry Valley, IL | On Site | Feb 01 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Residential Property Management Internship](https://jobright.ai/jobs/info/697fc0f6ce48107c0543c816?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
 | ↳ | **[Commercial Real Estate Internship](https://jobright.ai/jobs/info/697fb9ee7f40342e15d85124?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
 | **[Savannah River Mission Completion](https://www.savannahrivermissioncompletion.com/)** | **[2026 Summer Intern-Program Integration/Mission Excellence (Business, Project Management, Finance)](https://jobright.ai/jobs/info/697fae6cabff4c399a9e3cee?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Akron Brass Company](http://www.akronbrass.com/)** | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/6945d7c495165407353808c6?utm_campaign=1050&utm_source=git)** | Wooster, OH | On Site | Jan 31 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Project & Operations Summer Intern](https://jobright.ai/jobs/info/69460a16d1953b5d11bf2af4?utm_campaign=1050&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/696c6576db26b618950fc42b?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | Jan 31 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Health and Life Sciences Strategy (Health Futures, Redmond)](https://jobright.ai/jobs/info/6971a5c551f726477183ff9b?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1eabce48107c0543376b?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 01 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1e8bce48107c05433737?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 01 |
+| ↳ | **[Operations Intern](https://jobright.ai/jobs/info/697f1d62abff4c399a9dc1a5?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Feb 01 |
+| **[Veltrana Group](veltranagroup.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697f1cce7f40342e15d7d11b?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f140e7f40342e15d7cbe5?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 01 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f13297f40342e15d7cb42?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 01 |
+| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Business Planning and Analytics MBA Intern](https://jobright.ai/jobs/info/697136d151f7264771836d09?utm_campaign=1050&utm_source=git)** | Fairhaven, MA | Hybrid | Feb 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1274abff4c399a9dbb06?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 01 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f11d6ce48107c05432ece?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f11a3abff4c399a9dba73?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 01 |
+| **[Axiom World](https://axiomworld.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/697f0f317f40342e15d7c926?utm_campaign=1050&utm_source=git)** | Innovation, VA | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f0e2e7f40342e15d7c867?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f0d987f40342e15d7c7e1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grimco, Inc.](http://midwestsign.com)** | **[Supply Chain & Procurement Internship - Summer 2026](https://jobright.ai/jobs/info/68d1c8d38c62e63bc7fcfb07?utm_campaign=1050&utm_source=git)** | Sunset Hills, MO | On Site | Jan 31 |
 | **[ROCK](http://www.rockventures.com/)** | **[NFX Philanthropic Intern - Summer 2026](https://jobright.ai/jobs/info/6945ce7f951654073537efde?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
 | ↳ | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6945d1bc63141d1884556e05?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Jan 31 |
-| **[Sunbelt Controls](http://sunbeltcontrols.com)** | **[Intern](https://jobright.ai/jobs/info/696c6c5fdb26b618950fc6cc?utm_campaign=1050&utm_source=git)** | Vancouver, WA | On Site | Jan 31 |
-| **[James Hardie](https://www.jameshardie.com)** | **[Procurement Intern, SIO (Sales, Inventory, Operations) - Eagan, MN - AZEK](https://jobright.ai/jobs/info/697e10f8ce48107c05425a91?utm_campaign=1050&utm_source=git)** | United States | Remote | Jan 31 |
-| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Supply Chain Logistics Intern](https://jobright.ai/jobs/info/68b78aadf4e41a61efd99bc7?utm_campaign=1050&utm_source=git)** | East Hanover, NJ | On Site | Jan 31 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/6893b540a9199876488df7d8?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Jan 31 |
-| **[Werfen North America](http://www.instrumentationlaboratory.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696186a4a112b402661017e9?utm_campaign=1050&utm_source=git)** | Orangeburg, NY | On Site | Jan 31 |
-| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - East & South Central Locations](https://jobright.ai/jobs/info/68d519bd24b1ee4c7b663f43?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Analyst Intern Summer 2026](https://jobright.ai/jobs/info/691ad59dbcdbf3560c9dadb8?utm_campaign=1050&utm_source=git)** | Madison, PA | Remote | Jan 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Seller LIVE Operations Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6976dfda206da320f4a0873c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Jan 31 |
-| **[Orvanta](orvanta.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e1471abff4c399a9ce318?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
-| **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697e09077f40342e15d6ed8b?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

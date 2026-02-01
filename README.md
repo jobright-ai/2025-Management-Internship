@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6961cadbe7ed9a5731ba9ac7?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 31 |
 | **[LumoraX](lumorax.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/697de212ce48107c05422fc1?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Jan 31 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, IMG Models](https://jobright.ai/jobs/info/6945dc93d1953b5d11beee9d?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Jan 31 |
-| ↳ | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6961e6cbf3f4cd132506dcdc?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Jan 31 |
+| ↳ | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6961e237e7ed9a5731baa6f8?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

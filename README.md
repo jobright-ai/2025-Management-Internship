@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f0e2e7f40342e15d7c867?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f0d987f40342e15d7c7e1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
+| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697f07a9ce48107c0543295d?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Jan 31 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f04da7f40342e15d7c17e?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | ↳ | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f00b07f40342e15d7bc0d?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
@@ -68,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Greystar](http://greystar.com)** | **[Property Management Intern- Chicago](https://jobright.ai/jobs/info/6962940725e18715077f698a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/697e997fabff4c399a9d3aa5?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e9144ce48107c0542b003?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Operations & Procurement Intern](https://jobright.ai/jobs/info/697e71ab7f40342e15d743cb?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Jan 31 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/697e900babff4c399a9d39e5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right of Way – GST061-D- Right of Way Acquisition Intern- Paid](https://jobright.ai/jobs/info/697e5aee7f40342e15d72499?utm_campaign=1050&utm_source=git)** | Georgia - Dekalb - Atlanta | On Site | Jan 31 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative and Program Management Bachelor's Intern](https://jobright.ai/jobs/info/697e4a7e7f40342e15d71b2b?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Jan 31 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/696273dda112b4026610d310?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
 | ↳ | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/6962704c25e18715077f49e2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 31 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/697e2b12ce48107c0542630f?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Business Affairs](https://jobright.ai/jobs/info/696266dea112b4026610cf72?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Jan 31 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse](https://jobright.ai/jobs/info/697e2035ce48107c054260bd?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Jan 31 |
 | ↳ | **[District Manager Intern - Minnesota, Iowa, South Dakota, North Dakota and Western Wisconsin](https://jobright.ai/jobs/info/697e1a4aabff4c399a9ce487?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Jan 31 |
 | **[By The Bay Health](https://bythebayhealth.org/)** | **[Clinical & Administrative Support Intern](https://jobright.ai/jobs/info/697e166dce48107c05425bfa?utm_campaign=1050&utm_source=git)** | Larkspur, CA | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Jan 31 |
 | **[Orvanta](orvanta.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e1471abff4c399a9ce318?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
 | **[Coach USA](http://www.coachusa.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697e09077f40342e15d6ed8b?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Jan 31 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[AHG Practice Plus Intern](https://jobright.ai/jobs/info/697de33dabff4c399a9cb61b?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Jan 31 |
-| **[Zoox](https://www.zoox.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6961cadbe7ed9a5731ba9ac7?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

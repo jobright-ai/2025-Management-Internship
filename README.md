@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/698070bd49964d25b5e33f88?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 02 |
+| **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6980792f7f40342e15d94d8e?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Feb 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69807250abff4c399a9f400c?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 02 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6980724aabff4c399a9f4007?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 02 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/698071fcabff4c399a9f3feb?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 02 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/698071dd7f40342e15d949d5?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 02 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/698071a07f40342e15d949ba?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 02 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6980715b7f40342e15d9499f?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 02 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/698070bd49964d25b5e33f88?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 02 |
 | **[RWE](https://www.rwe.com)** | **[Intern, Project Controls and Estimating, Summer 2026](https://jobright.ai/jobs/info/6969b6a51703f05405abb18d?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
 | ↳ | **[Intern, Project Management,Summer 2026](https://jobright.ai/jobs/info/6969b792639b452fb57fa543?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698066c4abff4c399a9f2e38?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Feb 02 |
@@ -119,7 +126,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, Windsor, CT](https://jobright.ai/jobs/info/6973efff206da320f49de89e?utm_campaign=1050&utm_source=git)** | Windsor, CT | On Site | Feb 01 |
 | ↳ | **[Operations Manager Intern (Starting Summer 2026) - Regional Distribution Center, Tifton, GA](https://jobright.ai/jobs/info/68db79fa9f13662d20e4b9cb?utm_campaign=1050&utm_source=git)** | Tifton, GA | On Site | Feb 01 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) -Regional Distribution Center, Midway, GA](https://jobright.ai/jobs/info/68ca2331f61c922772a73564?utm_campaign=1050&utm_source=git)** | Midway, GA | On Site | Feb 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/697f6404ce48107c054385cd?utm_campaign=1050&utm_source=git)** | Richmond, VA | Remote | Feb 01 |
 | **[CAMH](https://www.camh.ca)** | **[Program Assistant - Crisis Critical Care Unit 6](https://jobright.ai/jobs/info/697f5f6aabff4c399a9e1144?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 01 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68649a551b884b43e8b95be5?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Feb 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Administrative and Program Management Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/697f5a94ce48107c0543801e?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
 | **[McKesson](http://www.mckesson.com)** | **[Impact Strategy & Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697ed003ce48107c0542e458?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 31 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697ecacaabff4c399a9d6a17?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/697ec755abff4c399a9d69ba?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Jan 31 |
-| **[Greystar](http://greystar.com)** | **[Property Management Intern- Chicago](https://jobright.ai/jobs/info/6962940725e18715077f698a?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Jan 31 |
-| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/697f63f8abff4c399a9e13bf?utm_campaign=1050&utm_source=git)** | Brookline, MO | On Site | Jan 31 |
-| **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/697e997fabff4c399a9d3aa5?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 31 |
-| **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e9144ce48107c0542b003?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
-| **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/697e900babff4c399a9d39e5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

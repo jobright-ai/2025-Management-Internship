@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/698042b9abff4c399a9f047b?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Feb 01 |
+| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/69804773abff4c399a9f0bbf?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Feb 01 |
+| ↳ | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/698042b9abff4c399a9f047b?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Feb 01 |
 | ↳ | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/698042b3ce48107c0544746d?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Feb 01 |
 | ↳ | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/698042a8abff4c399a9f046a?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Feb 01 |
 | ↳ | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/69804252ce48107c05447421?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Project Management Intern (Clients)](https://jobright.ai/jobs/info/6926563f27bf2f41a2c45537?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse](https://jobright.ai/jobs/info/697e2035ce48107c054260bd?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Jan 31 |
 | ↳ | **[District Manager Intern - Minnesota, Iowa, South Dakota, North Dakota and Western Wisconsin](https://jobright.ai/jobs/info/697e1a4aabff4c399a9ce487?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Jan 31 |
-| **[By The Bay Health](https://bythebayhealth.org/)** | **[Clinical & Administrative Support Intern](https://jobright.ai/jobs/info/697e166dce48107c05425bfa?utm_campaign=1050&utm_source=git)** | Larkspur, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

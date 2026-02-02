@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Kansas Health System](https://www.kansashealthsystem.com)** | **[Nurse Manager Intern-Cardiology](https://jobright.ai/jobs/info/6980c743abff4c399a9f8811?utm_campaign=1050&utm_source=git)** | Kansas City, KS | On Site | Feb 02 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Global Sourcing Intern - Summer 2026](https://jobright.ai/jobs/info/6980bf877f40342e15d98bbf?utm_campaign=1050&utm_source=git)** | Sugar Valley GA Support Center (US010514) | On Site | Feb 02 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Supply Chain & Procurement Intern - 2026](https://jobright.ai/jobs/info/6980bee149964d25b5e38117?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Remote | Feb 02 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (GSC)](https://jobright.ai/jobs/info/689d82cffaa4e875e8270ead?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Feb 02 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/6980bb22abff4c399a9f8048?utm_campaign=1050&utm_source=git)** | New Castle, DE | On Site | Feb 02 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/6980ba38abff4c399a9f7fec?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | On Site | Feb 02 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68e8c6274ae21e3abbeedde6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 02 |
-| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/697b290e1423772304eb494e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/697b290e1423772304eb494e?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 02 |
+| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/68e8c6274ae21e3abbeedde6?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 02 |
 | ↳ | **[Construction Concrete Project Manager Intern or Co-op (Summer 2026)](https://jobright.ai/jobs/info/6956168df1f8465b79ed0c16?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
 | ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694caf7629655e4dd656cec2?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Feb 02 |
 | ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/69422c8abdcf884a5addff24?utm_campaign=1050&utm_source=git)** | Savannah, GA | On Site | Feb 02 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/693911ed56b68f3dc4e68db4?utm_campaign=1050&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Feb 02 |
 | ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6942488614ee092a690091cd?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Feb 02 |
 | **[ChangeMakers](https://changemakers.ca)** | **[Project Coordinator - Internship Spring/Summer 2026](https://jobright.ai/jobs/info/6980b2b849964d25b5e37c5a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 02 |
+| **[Tech Verses](techverses.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/6980d18cabff4c399a9f9078?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 02 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6980b11aabff4c399a9f7bc9?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Feb 02 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[Administrative Intern](https://jobright.ai/jobs/info/6951f12b29655e4dd65abb5f?utm_campaign=1050&utm_source=git)** | Pennsylvania, United States | Hybrid | Feb 02 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/6980a85449964d25b5e373a5?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Feb 02 |
@@ -134,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[CCMC](http://ccmcnet.com)** | **[General Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1050&utm_source=git)** | Babcock Ranch, FL | On Site | Feb 01 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Supply Chain Excellence Intern](https://jobright.ai/jobs/info/695c466822c9dc0d3d542761?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Feb 01 |
 | **[Horizon Lane](horizonlane.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/698014567f40342e15d8d4c8?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/698008bb7f40342e15d8cdfb?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
 | **[Grace Church](http://www.grace.church)** | **[Grace Kids Admin Summer Intern](https://jobright.ai/jobs/info/698007d4ce48107c05443088?utm_campaign=1050&utm_source=git)** | Eden Prairie Campus - EDEN PRAIRIE, MN 55347 | On Site | Feb 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/698000d0abff4c399a9ebafb?utm_campaign=1050&utm_source=git)** | Quincy, MA, US | On Site | Feb 01 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/697ffec57f40342e15d8c5b8?utm_campaign=1050&utm_source=git)** | Quincy/Weymouth | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Operations Manager Intern (starting summer 2026) Regional Distribution Center, Chambersburg, PA](https://jobright.ai/jobs/info/6973f345206da320f49df2ef?utm_campaign=1050&utm_source=git)** | Chambersburg, PA | On Site | Feb 01 |
 | ↳ | **[Operations Manager Intern (starting summer 2026) Food Distribution Center, Windsor, CT](https://jobright.ai/jobs/info/6973efff206da320f49de89e?utm_campaign=1050&utm_source=git)** | Windsor, CT | On Site | Feb 01 |
 | ↳ | **[Operations Manager Intern (Starting Summer 2026) - Regional Distribution Center, Tifton, GA](https://jobright.ai/jobs/info/68db79fa9f13662d20e4b9cb?utm_campaign=1050&utm_source=git)** | Tifton, GA | On Site | Feb 01 |
-| ↳ | **[Operations Manager Intern (starting summer 2026) -Regional Distribution Center, Midway, GA](https://jobright.ai/jobs/info/68ca2331f61c922772a73564?utm_campaign=1050&utm_source=git)** | Midway, GA | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

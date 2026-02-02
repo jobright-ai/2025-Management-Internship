@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69805e14ce48107c05448c9a?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Feb 02 |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Operations and Field Services Intern](https://jobright.ai/jobs/info/69805dfeabff4c399a9f1d0c?utm_campaign=1050&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Corporate Supply Chain Management](https://jobright.ai/jobs/info/69805d07ce48107c05448c25?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
+| ↳ | **[Summer Intern - ISD Project Management](https://jobright.ai/jobs/info/6980598cce48107c054489b6?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69805909abff4c399a9f1abe?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 01 |
+| **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Investments Office](https://jobright.ai/jobs/info/698057507f40342e15d9240b?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 01 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/69804773abff4c399a9f0bbf?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Feb 01 |
 | ↳ | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/698042b9abff4c399a9f047b?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Feb 01 |
 | ↳ | **[2026 Summer Operations Intern](https://jobright.ai/jobs/info/698042b3ce48107c0544746d?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Feb 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/69626eaa2cbf4e44756c6399?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Enroute Computer Solutions - ECS](https://www.enroute-computer.com/)** | **[Corporate Office Intern](https://jobright.ai/jobs/info/697e3069abff4c399a9cec1a?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | Jan 31 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/697e2f2ace48107c05426430?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Jan 31 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/696273dda112b4026610d310?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Jan 31 |
-| ↳ | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/6962704c25e18715077f49e2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 31 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Corporate Strategy Intern](https://jobright.ai/jobs/info/697e2b12ce48107c0542630f?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Jan 31 |
-| **[Apex Fintech Solutions](https://apexfintechsolutions.com)** | **[Project Management Intern (Clients)](https://jobright.ai/jobs/info/6926563f27bf2f41a2c45537?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
-| **[ALDI USA](http://www.aldi.com)** | **[Warehouse Operations Intern - Loxley Warehouse](https://jobright.ai/jobs/info/697e2035ce48107c054260bd?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Jan 31 |
-| ↳ | **[District Manager Intern - Minnesota, Iowa, South Dakota, North Dakota and Western Wisconsin](https://jobright.ai/jobs/info/697e1a4aabff4c399a9ce487?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

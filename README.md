@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Intern, Sustainable Operations](https://jobright.ai/jobs/info/696463822cbf4e44756de799?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 01 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Intern*FR](https://jobright.ai/jobs/info/698037b1abff4c399a9efbe2?utm_campaign=1050&utm_source=git)** | Wake County, NC | On Site | Feb 01 |
 | **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/698026ffce48107c0544459e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
 | **[Orvanta](orvanta.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/6980247d7f40342e15d8e1fe?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 01 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Program Integration](https://jobright.ai/jobs/info/696463b72cbf4e44756de7a6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b942b207090163b6ba9844?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Jan 31 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68b93f7eea901c0d269fde18?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Jan 31 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Project Administrator (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/6961dcabf3f4cd132506d795?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Jan 31 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Intern (Melbourne, FL) 1](https://jobright.ai/jobs/info/697d8157abff4c399a9c371f?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Jan 31 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/69617adef3f4cd13250674e5?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

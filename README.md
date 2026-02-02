@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Supply Chain & Procurement Operations Intern](https://jobright.ai/jobs/info/697fe771ce48107c054402a6?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Feb 01 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Information Systems (IT) Leadership Intern](https://jobright.ai/jobs/info/697fd841ce48107c0543f517?utm_campaign=1050&utm_source=git)** | Cherry Valley, IL | On Site | Feb 01 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Residential Property Management Internship](https://jobright.ai/jobs/info/697fc0f6ce48107c0543c816?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
 | ↳ | **[Commercial Real Estate Internship](https://jobright.ai/jobs/info/697fb9ee7f40342e15d85124?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/696c6576db26b618950fc42b?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | Jan 31 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Health and Life Sciences Strategy (Health Futures, Redmond)](https://jobright.ai/jobs/info/6971a5c551f726477183ff9b?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Jan 31 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Jan 31 |
-| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694259abbdcf884a5ade3e0a?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

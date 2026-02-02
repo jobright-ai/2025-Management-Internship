@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Grain Operations Intern](https://jobright.ai/jobs/info/68b9d5085f3832749186142d?utm_campaign=1050&utm_source=git)** | Worthing, SD | On Site | Feb 02 |
+| **[Clarios](https://www.clarios.com/)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6ac9345853d0e39cc8f77?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Feb 02 |
+| **[Bray International, Inc.](https://mascotvalves.com/)** | **[Operations Excellence Intern](https://jobright.ai/jobs/info/695f68690badca5763afd222?utm_campaign=1050&utm_source=git)** | Greater Houston | On Site | Feb 02 |
+| **[SPX Technologies](https://www.spx.com)** | **[Commercial Strategy Intern](https://jobright.ai/jobs/info/692c2bd666796e3028f929e9?utm_campaign=1050&utm_source=git)** | Brentwood, MO | Hybrid | Feb 02 |
+| **[GHD](http://www.ghd.com)** | **[Financial Project Support Intern](https://jobright.ai/jobs/info/68f328939a65fd34585845d4?utm_campaign=1050&utm_source=git)** | Eureka, CA | Hybrid | Feb 02 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Business Administration Intern Paid Internship](https://jobright.ai/jobs/info/6980792f7f40342e15d94d8e?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Feb 02 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69807250abff4c399a9f400c?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 02 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6980724aabff4c399a9f4007?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69760c05206da320f49feadb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f0e2e7f40342e15d7c867?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | ↳ | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
-| **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f04da7f40342e15d7c17e?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
-| ↳ | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f00b07f40342e15d7bc0d?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
-| **[McKesson](http://www.mckesson.com)** | **[Impact Strategy & Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697ed003ce48107c0542e458?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Jan 31 |
-| **[The Hillman Group](http://www.hillmangroup.com)** | **[Change Management Intern - Summer 2026](https://jobright.ai/jobs/info/697ecacaabff4c399a9d6a17?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

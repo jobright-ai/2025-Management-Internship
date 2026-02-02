@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/698070bd49964d25b5e33f88?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 02 |
+| **[RWE](https://www.rwe.com)** | **[Intern, Project Controls and Estimating, Summer 2026](https://jobright.ai/jobs/info/6969b6a51703f05405abb18d?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Feb 02 |
+| ↳ | **[Intern, Project Management,Summer 2026](https://jobright.ai/jobs/info/6969b792639b452fb57fa543?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698066c4abff4c399a9f2e38?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Feb 02 |
+| **[Six Flags](https://www.sixflags.com)** | **[Wardrobe Hospitality Leadership Internship](https://jobright.ai/jobs/info/69806328ce48107c0544a094?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
+| ↳ | **[Food & Beverage Leadership Internship $19/HR](https://jobright.ai/jobs/info/698062bc7f40342e15d93b65?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Feb 02 |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Model Risk Management](https://jobright.ai/jobs/info/697d4a1a137a05102566570f?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 02 |
+| **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Facilities Operations Intern](https://jobright.ai/jobs/info/698060767f40342e15d93095?utm_campaign=1050&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
+| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/69806071ce48107c0544940c?utm_campaign=1050&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69805e14ce48107c05448c9a?utm_campaign=1050&utm_source=git)** | Lafayette, LA | On Site | Feb 02 |
 | **[Dutch Bros Coffee](http://www.dutchbros.com)** | **[Operations and Field Services Intern](https://jobright.ai/jobs/info/69805dfeabff4c399a9f1d0c?utm_campaign=1050&utm_source=git)** | 1930 W Rio Salado Pkwy Tempe AZ 85281 | Hybrid | Feb 02 |
 | **[Memorial Hermann Health System](https://www.memorialhermann.org/foundation)** | **[Summer Intern - Corporate Supply Chain Management](https://jobright.ai/jobs/info/69805d07ce48107c05448c25?utm_campaign=1050&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
@@ -81,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Program Integration](https://jobright.ai/jobs/info/696463b72cbf4e44756de7a6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Strategy MBA Intern](https://jobright.ai/jobs/info/69801ed87f40342e15d8db56?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Feb 01 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, President's Office](https://jobright.ai/jobs/info/696463b425e187150780c93d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 01 |
-| **[Metro Inc.](https://www.metro.ca/en)** | **[Inventory Manager Intern](https://jobright.ai/jobs/info/697daefc7f40342e15d6957c?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 01 |
 | **[CCMC](http://ccmcnet.com)** | **[General Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1050&utm_source=git)** | Babcock Ranch, FL | On Site | Feb 01 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Supply Chain Excellence Intern](https://jobright.ai/jobs/info/695c466822c9dc0d3d542761?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Feb 01 |
 | **[Horizon Lane](horizonlane.us)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/698014567f40342e15d8d4c8?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Project Management Support - Intern](https://jobright.ai/jobs/info/697e997fabff4c399a9d3aa5?utm_campaign=1050&utm_source=git)** | Utica-Rome Area | On Site | Jan 31 |
 | **[Blue Ventis](blueventis.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/697e9144ce48107c0542b003?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Jan 31 |
 | **[IDS Health, Inc](https://www.linkedin.com/company/107901732)** | **[Internship Supervisor (OMCP) – California Men’s Colony, (CMC) – San Luis Obispo, CA](https://jobright.ai/jobs/info/697e900babff4c399a9d39e5?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Jan 31 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Office of Right of Way – GST061-D- Right of Way Acquisition Intern- Paid](https://jobright.ai/jobs/info/697e5aee7f40342e15d72499?utm_campaign=1050&utm_source=git)** | Georgia - Dekalb - Atlanta | On Site | Jan 31 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative and Program Management Bachelor's Intern](https://jobright.ai/jobs/info/697e4a7e7f40342e15d71b2b?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Jan 31 |
-| ↳ | **[Data and Program Management Master's Intern](https://jobright.ai/jobs/info/697e46e6ce48107c0542804f?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Jan 31 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[SUMMER INTERN - AMBULATORY OPERATIONS, CAMDEN](https://jobright.ai/jobs/info/697a2e2cb4589b4ee87c6f73?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
-| ↳ | **[SUMMER INTERN - CRI CLINICAL OPERATIONS](https://jobright.ai/jobs/info/697a312aa8de441ca735519c?utm_campaign=1050&utm_source=git)** | Camden, NJ | On Site | Jan 31 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2027 Corporate, Investment Banking and Markets (CIBM) Summer Intern Program - GCIB / New York](https://jobright.ai/jobs/info/69626eaa2cbf4e44756c6399?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
-| **[Enroute Computer Solutions - ECS](https://www.enroute-computer.com/)** | **[Corporate Office Intern](https://jobright.ai/jobs/info/697e3069abff4c399a9cec1a?utm_campaign=1050&utm_source=git)** | Atlantic City, NJ | On Site | Jan 31 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/697e2f2ace48107c05426430?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/698026ffce48107c0544459e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
+| **[Orvanta](orvanta.us)** | **[Procurement & Category Management Intern](https://jobright.ai/jobs/info/6980247d7f40342e15d8e1fe?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 01 |
+| **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, Program Integration](https://jobright.ai/jobs/info/696463b72cbf4e44756de7a6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 01 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Strategy MBA Intern](https://jobright.ai/jobs/info/69801ed87f40342e15d8db56?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Feb 01 |
 | **[The Rockefeller Foundation](http://www.rockefellerfoundation.org)** | **[Summer Intern, President's Office](https://jobright.ai/jobs/info/696463b425e187150780c93d?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Metro Inc.](https://www.metro.ca/en)** | **[Inventory Manager Intern](https://jobright.ai/jobs/info/697daefc7f40342e15d6957c?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 01 |
 | **[CCMC](http://ccmcnet.com)** | **[General Intern](https://jobright.ai/jobs/info/6980152ace48107c05443868?utm_campaign=1050&utm_source=git)** | Babcock Ranch, FL | On Site | Feb 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Project Administrator (Enterprise Mobility IT), Summer 2026](https://jobright.ai/jobs/info/6961dcabf3f4cd132506d795?utm_campaign=1050&utm_source=git)** | St Louis, MO | Hybrid | Jan 31 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[Supply Chain Intern (Melbourne, FL) 1](https://jobright.ai/jobs/info/697d8157abff4c399a9c371f?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Jan 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/69617adef3f4cd13250674e5?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Lafayette](https://jobright.ai/jobs/info/68d4d13d8c62e63bc7feccc5?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Jan 31 |
-| **[Intuit](https://www.intuit.com)** | **[Summer 2026 Technical Program Manager Intern](https://jobright.ai/jobs/info/69458d4c951654073537a68c?utm_campaign=1050&utm_source=git)** | Mountain View, CA | On Site | Jan 31 |
-| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6961c697a112b4026610552b?utm_campaign=1050&utm_source=git)** | Grantsville, UT | On Site | Jan 31 |
-| **[Akron Brass Company](http://www.akronbrass.com/)** | **[Supply Chain Purchasing Intern](https://jobright.ai/jobs/info/6945d7c495165407353808c6?utm_campaign=1050&utm_source=git)** | Wooster, OH | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

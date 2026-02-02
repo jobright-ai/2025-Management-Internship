@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/698000d0abff4c399a9ebafb?utm_campaign=1050&utm_source=git)** | Quincy, MA, US | On Site | Feb 01 |
+| ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/697ffec57f40342e15d8c5b8?utm_campaign=1050&utm_source=git)** | Quincy/Weymouth | On Site | Feb 01 |
+| **[Ascension](https://www.ascensionpress.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697ff2a2abff4c399a9e9bd7?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 01 |
 | **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Supply Chain & Procurement Operations Intern](https://jobright.ai/jobs/info/697fe771ce48107c054402a6?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Feb 01 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Information Systems (IT) Leadership Intern](https://jobright.ai/jobs/info/697fd841ce48107c0543f517?utm_campaign=1050&utm_source=git)** | Cherry Valley, IL | On Site | Feb 01 |
 | **[Comstock Companies](http://comstockcompanies.com/)** | **[Residential Property Management Internship](https://jobright.ai/jobs/info/697fc0f6ce48107c0543c816?utm_campaign=1050&utm_source=git)** | Reston, VA | On Site | Feb 01 |
@@ -89,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Feb 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Strategy Analytics & Resource Management, Logistics) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967104fa135876680845748?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 01 |
 | **[Clarios](https://www.clarios.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/68d64103ebcef82ef5cf899c?utm_campaign=1050&utm_source=git)** | St Joseph, MO | On Site | Feb 01 |
-| **[Baptist Health](https://www.baptist-health.com/)** | **[AHG Practice Plus Intern](https://jobright.ai/jobs/info/697f3c40ce48107c05435cf3?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Feb 01 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/697f3894abff4c399a9de7af?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Feb 01 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/697f381a7f40342e15d7f676?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 01 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/697f37d97f40342e15d7f646?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Feb 01 |
@@ -100,11 +102,9 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1eabce48107c0543376b?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 01 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1e8bce48107c05433737?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 01 |
 | ↳ | **[Operations Intern](https://jobright.ai/jobs/info/697f1d62abff4c399a9dc1a5?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Feb 01 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f140e7f40342e15d7cbe5?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 01 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f13297f40342e15d7cb42?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 01 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Summer 2026 Business Planning and Analytics MBA Intern](https://jobright.ai/jobs/info/697136d151f7264771836d09?utm_campaign=1050&utm_source=git)** | Fairhaven, MA | Hybrid | Feb 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f1274abff4c399a9dbb06?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 01 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f11d6ce48107c05432ece?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f11d6ce48107c05432ece?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 01 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f11a3abff4c399a9dba73?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 01 |
 | **[Axiom World](https://axiomworld.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/697f0f317f40342e15d7c926?utm_campaign=1050&utm_source=git)** | Innovation, VA | On Site | Feb 01 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69760c05206da320f49feadb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 01 |

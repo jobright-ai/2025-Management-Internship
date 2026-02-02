@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Summer 2026 Procurement Internship](https://jobright.ai/jobs/info/698008bb7f40342e15d8cdfb?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Remote | Feb 01 |
+| **[Grace Church](http://www.grace.church)** | **[Grace Kids Admin Summer Intern](https://jobright.ai/jobs/info/698007d4ce48107c05443088?utm_campaign=1050&utm_source=git)** | Eden Prairie Campus - EDEN PRAIRIE, MN 55347 | On Site | Feb 01 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/698000d0abff4c399a9ebafb?utm_campaign=1050&utm_source=git)** | Quincy, MA, US | On Site | Feb 01 |
 | ↳ | **[Summer 2026 Management Internship - Dorchester / Quincy area](https://jobright.ai/jobs/info/697ffec57f40342e15d8c5b8?utm_campaign=1050&utm_source=git)** | Quincy/Weymouth | On Site | Feb 01 |
 | **[Ascension](https://www.ascensionpress.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697ff2a2abff4c399a9e9bd7?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 01 |
@@ -109,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Axiom World](https://axiomworld.net)** | **[Project Management Intern](https://jobright.ai/jobs/info/697f0f317f40342e15d7c926?utm_campaign=1050&utm_source=git)** | Innovation, VA | On Site | Feb 01 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Summer 2026 Internship](https://jobright.ai/jobs/info/69760c05206da320f49feadb?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 01 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f0e2e7f40342e15d7c867?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/697f0d987f40342e15d7c7e1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 01 |
-| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
+| ↳ | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 01 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f04da7f40342e15d7c17e?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Jan 31 |
 | ↳ | **[Scheduling and Events Summer Professional Intern](https://jobright.ai/jobs/info/697f00b07f40342e15d7bc0d?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Jan 31 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Leadership Development Program - Full Time and Internship](https://jobright.ai/jobs/info/6962d2462cbf4e44756cb183?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Project & Operations Summer Intern](https://jobright.ai/jobs/info/69460a16d1953b5d11bf2af4?utm_campaign=1050&utm_source=git)** | Westport, CT | Hybrid | Jan 31 |
 | **[LCS](https://www.lcsnet.com/)** | **[Senior Living Management Intern](https://jobright.ai/jobs/info/696c6576db26b618950fc42b?utm_campaign=1050&utm_source=git)** | Chapel Hill, NC | On Site | Jan 31 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Health and Life Sciences Strategy (Health Futures, Redmond)](https://jobright.ai/jobs/info/6971a5c551f726477183ff9b?utm_campaign=1050&utm_source=git)** | Redmond, WA | On Site | Jan 31 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/698151d47f40342e15da54e0?utm_campaign=1050&utm_source=git)** | Hazard, KY | On Site | Feb 02 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship - St. George](https://jobright.ai/jobs/info/6981576e7f40342e15da59ed?utm_campaign=1050&utm_source=git)** | St. George, UT, US | On Site | Feb 02 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Workforce Scheduling & Coordinating Intern](https://jobright.ai/jobs/info/696597255ad3a93f8230f458?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Feb 02 |
+| **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - PPMO](https://jobright.ai/jobs/info/6981565c7f40342e15da58c2?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 02 |
+| **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern - Management](https://jobright.ai/jobs/info/698155d97f40342e15da5839?utm_campaign=1050&utm_source=git)** | US-IN-FORT WAYNE | On Site | Feb 02 |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/69815587abff4c399aa04d1d?utm_campaign=1050&utm_source=git)** | South Williamson, KY | On Site | Feb 02 |
+| ↳ | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/698153ef49964d25b5e4474d?utm_campaign=1050&utm_source=git)** | Barbourville, KY | On Site | Feb 02 |
+| **[TKO](https://tkogrp.com)** | **[Intern - Program Management (Core), On Location](https://jobright.ai/jobs/info/698153bc7f40342e15da55ea?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/6981531d49964d25b5e446e0?utm_campaign=1050&utm_source=git)** | Middlesboro, KY | On Site | Feb 02 |
+| ↳ | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/698151d47f40342e15da54e0?utm_campaign=1050&utm_source=git)** | Hazard, KY | On Site | Feb 02 |
 | ↳ | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/698151537f40342e15da549e?utm_campaign=1050&utm_source=git)** | Whitesburg, KY | On Site | Feb 02 |
 | **[On Location](https://onlocationexp.com/)** | **[Intern - Program Management (Core), On Location](https://jobright.ai/jobs/info/698150ed7f40342e15da5459?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/696580b6a112b4026613745d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Feb 02 |
@@ -84,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Channel Contracting](https://jobright.ai/jobs/info/69813ac0abff4c399aa02228?utm_campaign=1050&utm_source=git)** | Eagan, MN | Hybrid | Feb 02 |
 | **[ResortPass](https://www.resortpass.com)** | **[Culture and Operations Intern](https://jobright.ai/jobs/info/698139f87f40342e15da2cbe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[J&J Innovative Medicine North America Operations Undergrad Summer Intern](https://jobright.ai/jobs/info/6981399b7f40342e15da2c35?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Feb 02 |
+| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/698157697f40342e15da59e6?utm_campaign=1050&utm_source=git)** | Bowling Green Metro | On Site | Feb 02 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[General Summer Intern- Kane County Cougars](https://jobright.ai/jobs/info/69813857abff4c399aa02089?utm_campaign=1050&utm_source=git)** | Geneva, IL | On Site | Feb 02 |
 | **[Dexter Magnetic Technologies](http://dextermag.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/698137f6abff4c399aa02034?utm_campaign=1050&utm_source=git)** | Elk Grove Village, IL | On Site | Feb 02 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern, Global Cloud PMO](https://jobright.ai/jobs/info/6981354f49964d25b5e417e1?utm_campaign=1050&utm_source=git)** | San Diego | Hybrid | Feb 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Project, Process, and Change Management Intern](https://jobright.ai/jobs/info/6981242cabff4c399a9ff957?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Feb 02 |
 | **[Maximus](http://www.maximus.com/)** | **[Enterprise Technology Intern- Project Coordinator](https://jobright.ai/jobs/info/6981012b7f40342e15d9da0b?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 02 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Project Management Intern](https://jobright.ai/jobs/info/6981002c7f40342e15d9d8e1?utm_campaign=1050&utm_source=git)** | North Carolina | Hybrid | Feb 02 |
-| ↳ | **[Summer 2026 - Project Management Intern](https://jobright.ai/jobs/info/6981000b49964d25b5e3cc45?utm_campaign=1050&utm_source=git)** | US-NC-Cary HQ | Hybrid | Feb 02 |
-| **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Intern Heart Institute](https://jobright.ai/jobs/info/698120a4abff4c399a9ff447?utm_campaign=1050&utm_source=git)** | Aurora, CO | Hybrid | Feb 02 |
-| **[Hopelab](https://hopelab.org)** | **[Strategy, Learning and Impact (SLI) Intern](https://jobright.ai/jobs/info/6980fee449964d25b5e3cada?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 02 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Nurse Intern - Clinical Delegation Oversight - Remote](https://jobright.ai/jobs/info/6980fe88abff4c399a9fcc98?utm_campaign=1050&utm_source=git)** | Minnetonka, MN | Remote | Feb 02 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - California Region - Summer 2026](https://jobright.ai/jobs/info/697d0525137a05102565fa0e?utm_campaign=1050&utm_source=git)** | Concord, CA | On Site | Feb 02 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Project Management Intern](https://jobright.ai/jobs/info/6980fe1b7f40342e15d9d607?utm_campaign=1050&utm_source=git)** | Cary HQ, NC, US | Hybrid | Feb 02 |
-| **[Olympic Steel](https://olysteel.com)** | **[Intern(Operational Excellence)](https://jobright.ai/jobs/info/6980fddf7f40342e15d9d5ae?utm_campaign=1050&utm_source=git)** | Minneapolis, Minnesota, United States | On Site | Feb 02 |
-| **[Stoke Space](https://www.stokespace.com)** | **[Fall 2026 Internship - Operations](https://jobright.ai/jobs/info/6980fda3abff4c399a9fcb64?utm_campaign=1050&utm_source=git)** | Kent, Washington | On Site | Feb 02 |
-| **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Executive Administrative Intern](https://jobright.ai/jobs/info/6980fd8d7f40342e15d9d53c?utm_campaign=1050&utm_source=git)** | Georgia - Fulton - Atlanta | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

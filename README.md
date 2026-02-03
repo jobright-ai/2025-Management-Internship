@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/6965c697a112b4026613d022?utm_campaign=1050&utm_source=git)** | Lodi, CA | On Site | Feb 02 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/6965b47a5ad3a93f82311639?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 02 |
+| **[Crusoe](https://crusoe.ai)** | **[Project Controls Intern, DIG (Digital Infrastructure Group) Team, Summer 2026](https://jobright.ai/jobs/info/6981939349964d25b5e4abfb?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 02 |
+| **[BW Papersystems](http://www.bwpapersystems.com)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/698193737f40342e15daba4b?utm_campaign=1050&utm_source=git)** | Phillips, WI | On Site | Feb 02 |
+| **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973ae1b206da320f49db192?utm_campaign=1050&utm_source=git)** | Austin, Texas, United States | On Site | Feb 02 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Value Chain Management](https://jobright.ai/jobs/info/698190ac49964d25b5e4aa25?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Feb 02 |
+| **[Refresco](https://www.refresco.com/)** | **[Intern Non Technical](https://jobright.ai/jobs/info/69818e04abff4c399aa0aed8?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Feb 02 |
+| **[Summit Line Construction](https://www.summitlineconstruction.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/696579152cbf4e44756f0a85?utm_campaign=1050&utm_source=git)** | North Las Vegas, NV | On Site | Feb 02 |
 | **[Nicholas and Company Inc. Foodservice](https://www.nicholasandco.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698182c349964d25b5e47fb8?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, US | On Site | Feb 02 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69658e635ad3a93f8230d5b0?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Feb 02 |
 | **[Nicholas and Company Inc. Foodservice](https://www.nicholasandco.com)** | **[Logistics and Transportation Intern](https://jobright.ai/jobs/info/6981804eabff4c399aa08574?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, US | On Site | Feb 02 |
@@ -82,9 +90,12 @@ For a complete list, click the following sortable link below:
 | **[On Location](https://onlocationexp.com/)** | **[Intern – Program Management (Aer Lingus Football Classic), On Location](https://jobright.ai/jobs/info/6981624349964d25b5e45724?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[Astrion](https://astrion.us)** | **[Operations Analysis Co-Op/Intern](https://jobright.ai/jobs/info/698161ac7f40342e15da6493?utm_campaign=1050&utm_source=git)** | Shalimar, FL | On Site | Feb 02 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/6981602eabff4c399aa05741?utm_campaign=1050&utm_source=git)** | Youngstown, OH | On Site | Feb 02 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698180037f40342e15da8b76?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Feb 02 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698183797f40342e15da8e02?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Feb 02 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698183797f40342e15da8e02?utm_campaign=1050&utm_source=git)** | Mount Prospect, IL | On Site | Feb 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698180037f40342e15da8b76?utm_campaign=1050&utm_source=git)** | Winona, MN | On Site | Feb 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69818d2e49964d25b5e4a773?utm_campaign=1050&utm_source=git)** | Fridley, MN | On Site | Feb 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69818816abff4c399aa0a870?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Feb 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69819061abff4c399aa0aff4?utm_campaign=1050&utm_source=git)** | East Sioux Falls, SD | On Site | Feb 02 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69818dbcabff4c399aa0ae52?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Feb 02 |
 | **[Conrad N. Hilton Foundation](http://www.hiltonfoundation.org)** | **[Intern, Strategy, Learning and Evaluation - Strategy](https://jobright.ai/jobs/info/69659e852cbf4e44756f46f5?utm_campaign=1050&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 02 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, Meetings Department](https://jobright.ai/jobs/info/695c4037f1f8465b79f248b2?utm_campaign=1050&utm_source=git)** | West Conshohocken, PA | Hybrid | Feb 02 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - International Operations](https://jobright.ai/jobs/info/69815a94abff4c399aa05154?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 02 |
@@ -131,11 +142,11 @@ For a complete list, click the following sortable link below:
 | **[Realty Operations Group](https://www.realtyoperations.com/)** | **[Commercial Property Management Intern](https://jobright.ai/jobs/info/698166a349964d25b5e45c49?utm_campaign=1050&utm_source=git)** | Jersey City, NJ, US | On Site | Feb 02 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Intern, Strategy, Governance & Programs – External Relations](https://jobright.ai/jobs/info/69813c9fabff4c399aa024b4?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 02 |
 | **[ResortPass](https://www.resortpass.com)** | **[Culture and Operations Intern](https://jobright.ai/jobs/info/6981646cabff4c399aa05c21?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 02 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/69815ef149964d25b5e4536e?utm_campaign=1050&utm_source=git)** | Coral Springs | On Site | Feb 02 |
-| ↳ | **[Summer 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/69815d6b7f40342e15da5f79?utm_campaign=1050&utm_source=git)** | Coral Springs, FL, US | On Site | Feb 02 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/69815d6b7f40342e15da5f79?utm_campaign=1050&utm_source=git)** | Coral Springs, FL, US | On Site | Feb 02 |
+| ↳ | **[Summer 2026 Management Trainee Intern Coral Springs](https://jobright.ai/jobs/info/69815ef149964d25b5e4536e?utm_campaign=1050&utm_source=git)** | Coral Springs | On Site | Feb 02 |
+| ↳ | **[Management Trainee Summer Internship - Provo](https://jobright.ai/jobs/info/69815de8abff4c399aa054d6?utm_campaign=1050&utm_source=git)** | Provo | On Site | Feb 02 |
 | ↳ | **[Management Trainee Summer Internship - Provo](https://jobright.ai/jobs/info/69816a3649964d25b5e46050?utm_campaign=1050&utm_source=git)** | Provo, UT, US | On Site | Feb 02 |
 | ↳ | **[Management Trainee Summer Internship - Logan](https://jobright.ai/jobs/info/69815fc849964d25b5e45455?utm_campaign=1050&utm_source=git)** | Logan, UT, US | On Site | Feb 02 |
-| ↳ | **[Management Trainee Summer Internship - Provo](https://jobright.ai/jobs/info/69815de8abff4c399aa054d6?utm_campaign=1050&utm_source=git)** | Provo | On Site | Feb 02 |
 | ↳ | **[Management Trainee Summer Internship - Ogden](https://jobright.ai/jobs/info/69815ebeabff4c399aa055c9?utm_campaign=1050&utm_source=git)** | Ogden, UT, US | On Site | Feb 02 |
 | ↳ | **[Management Trainee Summer Internship - Ogden](https://jobright.ai/jobs/info/698165737f40342e15da68df?utm_campaign=1050&utm_source=git)** | Ogden | On Site | Feb 02 |
 | **[Entegra](https://entegraps.fr/)** | **[Sodexo Strategic Intern- Patient Services](https://jobright.ai/jobs/info/6981606babff4c399aa0577f?utm_campaign=1050&utm_source=git)** | US-MA-Boston | On Site | Feb 02 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ResortPass](https://www.resortpass.com)** | **[Culture and Operations Intern](https://jobright.ai/jobs/info/698139f87f40342e15da2cbe?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[J&J Innovative Medicine North America Operations Undergrad Summer Intern](https://jobright.ai/jobs/info/6981399b7f40342e15da2c35?utm_campaign=1050&utm_source=git)** | Horsham, PA | On Site | Feb 02 |
 | **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/698157697f40342e15da59e6?utm_campaign=1050&utm_source=git)** | Bowling Green Metro | On Site | Feb 02 |
-| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[General Summer Intern- Kane County Cougars](https://jobright.ai/jobs/info/69813857abff4c399aa02089?utm_campaign=1050&utm_source=git)** | Geneva, IL | On Site | Feb 02 |
-| **[Dexter Magnetic Technologies](http://dextermag.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/698137f6abff4c399aa02034?utm_campaign=1050&utm_source=git)** | Elk Grove Village, IL | On Site | Feb 02 |
-| **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern, Global Cloud PMO](https://jobright.ai/jobs/info/6981354f49964d25b5e417e1?utm_campaign=1050&utm_source=git)** | San Diego | Hybrid | Feb 02 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Cal Poly SLO](https://jobright.ai/jobs/info/698133f349964d25b5e41611?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 02 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6981331dabff4c399aa01985?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Business Operations](https://jobright.ai/jobs/info/69813128abff4c399aa01821?utm_campaign=1050&utm_source=git)** | Novi, MI | Hybrid | Feb 02 |
-| **[State of Michigan](https://michigancountymap.com/)** | **[Veteran Intern (General Office Assistant) - Metro Region](https://jobright.ai/jobs/info/69812fec49964d25b5e41107?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Program Management (Core)](https://jobright.ai/jobs/info/69812dc17f40342e15da18ec?utm_campaign=1050&utm_source=git)** | NC-Raleigh (OL) | On Site | Feb 02 |
-| **[On Location](https://onlocationexp.com/)** | **[Intern - Program Management (Core)](https://jobright.ai/jobs/info/69812b3eabff4c399aa00887?utm_campaign=1050&utm_source=git)** | NC-Raleigh (OL) | On Site | Feb 02 |
-| ↳ | **[Intern - Program Management (Core)](https://jobright.ai/jobs/info/6981293149964d25b5e3fe1b?utm_campaign=1050&utm_source=git)** | GA-Atlanta (OL) | On Site | Feb 02 |
-| **[Turner & Townsend](https://www.turnerandtownsend.com/)** | **[Construction Project Management - Internship 2026](https://jobright.ai/jobs/info/698124acabff4c399a9ff9c6?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

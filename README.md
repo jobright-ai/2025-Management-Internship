@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - WA, OR](https://jobright.ai/jobs/info/68c65f8e7d0db41142739485?utm_campaign=1050&utm_source=git)** | Arlington, WA | On Site | Feb 03 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/68b29bc9f4e41a61efd86f5c?utm_campaign=1050&utm_source=git)** | West Jordan, UT | On Site | Feb 03 |
+| ↳ | **[Fulfillment Area Manager Intern 2026 - ND, SD, NE, MN, IA, IL, IN](https://jobright.ai/jobs/info/68cd77cdb2a74e1837ed721f?utm_campaign=1050&utm_source=git)** | Matteson, IL | On Site | Feb 03 |
+| **[Conrad N. Hilton Foundation](http://www.hiltonfoundation.org)** | **[Intern, Strategy, Learning and Evaluation - Program Related Investments](https://jobright.ai/jobs/info/69659ed15ad3a93f8230fc44?utm_campaign=1050&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 03 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[2026 Summer - Material Program Management Intern - Melbourne FL](https://jobright.ai/jobs/info/694a071263141d1884599de6?utm_campaign=1050&utm_source=git)** | Melbourne, FL | On Site | Feb 03 |
+| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/6972165fcda18b743864663e?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 03 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Business Affairs](https://jobright.ai/jobs/info/6981e399c3101f1400c38e66?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 03 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern / Summer 2026 / Detroit](https://jobright.ai/jobs/info/695f31eba112b402660df820?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Feb 03 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain](https://jobright.ai/jobs/info/6975028a37785856350f0694?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Feb 03 |
+| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/694a271363141d188459d773?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 03 |
+| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/6950b928ce13cd105658a819?utm_campaign=1050&utm_source=git)** | Roanoke, TX | On Site | Feb 03 |
+| **[Cisco](http://www.cisco.com)** | **[Project Specialist I (Intern) United States](https://jobright.ai/jobs/info/69721593cda45e6953584455?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 03 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Corporate Procurement Intern](https://jobright.ai/jobs/info/6981df98c3101f1400c38c5f?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Feb 03 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Project & Construction Management, Developmental Intern](https://jobright.ai/jobs/info/694a0583c6f0e2546ceeee9e?utm_campaign=1050&utm_source=git)** | White Plains, NY | On Site | Feb 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern - Customer Care and Aftersales Warehouse Operations](https://jobright.ai/jobs/info/68fe0811e04ac838fb5b31ca?utm_campaign=1050&utm_source=git)** | Hudson, WI | On Site | Feb 03 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 AI Strategy Intern](https://jobright.ai/jobs/info/69662e4f5ad3a93f82318c41?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Feb 03 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698174c37f40342e15da7f86?utm_campaign=1050&utm_source=git)** | Janesville, WI | On Site | Feb 02 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698171487f40342e15da7cde?utm_campaign=1050&utm_source=git)** | Evergreen Park, IL | On Site | Feb 02 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/696580b6a112b4026613745d?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Feb 02 |
-| ↳ | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/69658202a112b402661375db?utm_campaign=1050&utm_source=git)** | Haskell, TX | On Site | Feb 02 |
-| ↳ | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/696f136b82817106e976438d?utm_campaign=1050&utm_source=git)** | Monroe, LA | On Site | Feb 02 |
-| ↳ | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/698024127f40342e15d8e142?utm_campaign=1050&utm_source=git)** | Lebanon, IN | On Site | Feb 02 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/69814efeabff4c399aa0481e?utm_campaign=1050&utm_source=git)** | Hyden, KY | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Program Management (Core), On Location](https://jobright.ai/jobs/info/69814bc8abff4c399aa043e4?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Feb 02 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Management](https://jobright.ai/jobs/info/69814a7749964d25b5e43d78?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Feb 02 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Operations (Part-Time/Seasonal)](https://jobright.ai/jobs/info/69814a137f40342e15da4551?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Feb 02 |
-| **[TKO](https://tkogrp.com)** | **[Intern – Program Management (Aer Lingus Football Classic), On Location](https://jobright.ai/jobs/info/698172eaabff4c399aa07037?utm_campaign=1050&utm_source=git)** | TX-Dallas (OL) | On Site | Feb 02 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Program Manager, Field Service Northeast (Summer 2026)](https://jobright.ai/jobs/info/698148b849964d25b5e42baa?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Feb 02 |
-| **[On Location](https://onlocationexp.com/)** | **[Intern – Program Management (Aer Lingus Football Classic), On Location](https://jobright.ai/jobs/info/6981751eabff4c399aa071f6?utm_campaign=1050&utm_source=git)** | TX-Dallas (OL) | On Site | Feb 02 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - National Self Perform Operations Team (2026)](https://jobright.ai/jobs/info/6965796a5ad3a93f8230bf04?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 02 |
-| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Graduate Intern (Part-Time)](https://jobright.ai/jobs/info/6981de16a314e76369053e5c?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 02 |
-| **[Sodexo](http://www.sodexo.com)** | **[Sodexo Strategic Intern - Food & Nutrition](https://jobright.ai/jobs/info/6981465a7f40342e15da37b2?utm_campaign=1050&utm_source=git)** | Harlan, KY | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Field Operations Intern](https://jobright.ai/jobs/info/694b00e03019f50a4fe60848?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
+| **[The Hershey Company](http://thehersheycompany.com)** | **[Intern Operations Excellence (Spring 2026)](https://jobright.ai/jobs/info/692f7604ef4b48533d145a5c?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Feb 04 |
+| **[Zoox](https://www.zoox.com/)** | **[Operations Program Management Intern](https://jobright.ai/jobs/info/694b089767a69734cac618be?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/6966e9e4b098f4515f4e502d?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 04 |
+| **[Meritage Homes](https://www.meritagehomes.com)** | **[Construction Internship](https://jobright.ai/jobs/info/692df364fa28370be269fb51?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Feb 04 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/692fac63fa28370be26acaa9?utm_campaign=1050&utm_source=git)** | Murfreesboro, TN | On Site | Feb 04 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Supply Chain Operations Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/695621709f1b381eb26f5de0?utm_campaign=1050&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
+| **[INFRASOURCE SERVICES LLC](http://www.infrasourceinc.com/)** | **[Associate Project Manager Internship](https://jobright.ai/jobs/info/695a10a1f1f8465b79f06527?utm_campaign=1050&utm_source=git)** | Sumner, WA | On Site | Feb 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategy Operations Intern-(MSO) 2026 Summer (MBA)](https://jobright.ai/jobs/info/6977040888e2b47213baecb8?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 04 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6966be9e7a34f539205540cf?utm_campaign=1050&utm_source=git)** | Augusta, ME | On Site | Feb 04 |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Meetings & Congress Coordinator Intern](https://jobright.ai/jobs/info/694b0bb81224705e90021e86?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[IT - Technical Project Manager Intern (Spring 2026)](https://jobright.ai/jobs/info/694acc783019f50a4fe5e1c3?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 04 |
 | **[Zoox](https://www.zoox.com/)** | **[Process and Strategy Analyst Intern](https://jobright.ai/jobs/info/694b14551224705e90022e55?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
 | **[Transwestern](https://transwestern.com)** | **[Commercial Property Management Summer Intern](https://jobright.ai/jobs/info/69341908f131d96e484698dd?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 04 |
@@ -113,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[Arcesium](http://www.arcesium.com)** | **[Technology Operations (AI) Intern](https://jobright.ai/jobs/info/690c0c33221b890c277fae07?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Global Payments Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982ab590f6f7e7a2cdbfd46?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[Harmon](https://harmoninc.com/)** | **[Project Management Intern-Baltimore and New York](https://jobright.ai/jobs/info/6982ce488232105a2d0b2aaf?utm_campaign=1050&utm_source=git)** | Glen Burnie, MD | On Site | Feb 03 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6982d2000f6f7e7a2cdc3aed?utm_campaign=1050&utm_source=git)** | Triadelphia, WV | On Site | Feb 03 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6982caee8232105a2d0b27de?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Feb 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6982d266348f733a5c35de22?utm_campaign=1050&utm_source=git)** | Fond du Lac, WI | On Site | Feb 03 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6982caee8232105a2d0b27de?utm_campaign=1050&utm_source=git)** | West Duluth, MN | On Site | Feb 03 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6982d2000f6f7e7a2cdc3aed?utm_campaign=1050&utm_source=git)** | Triadelphia, WV | On Site | Feb 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6982ca948232105a2d0b278a?utm_campaign=1050&utm_source=git)** | Mitchell, SD | On Site | Feb 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6982c9278232105a2d0b2667?utm_campaign=1050&utm_source=git)** | West Bend, WI | On Site | Feb 03 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6982cb7e8232105a2d0b285b?utm_campaign=1050&utm_source=git)** | Cottage Grove, MN | On Site | Feb 03 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Intern - Assistant Project Manager SDM](https://jobright.ai/jobs/info/6982b772348f733a5c35b282?utm_campaign=1050&utm_source=git)** | Rapid City,, SD, US | On Site | Feb 03 |
 | **[Marex](http://marexspectron.com)** | **[Global Payments Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982ab9d0f6f7e7a2cdbfd80?utm_campaign=1050&utm_source=git)** | New York City, NY | On Site | Feb 03 |
 | **[THINK Surgical](http://thinksurgical.com)** | **[R&D Project Coordinator - Intern](https://jobright.ai/jobs/info/6982b1c8348f733a5c35aab5?utm_campaign=1050&utm_source=git)** | Fremont, CA, US | On Site | Feb 03 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern West Palm Beach](https://jobright.ai/jobs/info/6982b55e0f6f7e7a2cdc0835?utm_campaign=1050&utm_source=git)** | West Palm Beach, FL, US | On Site | Feb 03 |
-| ↳ | **[Summer 2026 Management Trainee Intern West Palm Beach](https://jobright.ai/jobs/info/6982aa4b348f733a5c35a332?utm_campaign=1050&utm_source=git)** | West Palm Beach | On Site | Feb 03 |
-| ↳ | **[Summer 2026 Management Trainee Intern - Westchester County, NY](https://jobright.ai/jobs/info/6982aa140f6f7e7a2cdbfbe5?utm_campaign=1050&utm_source=git)** | New Rochelle, NY, US | On Site | Feb 03 |
-| ↳ | **[Summer 2026 Management Trainee Intern Port St Lucie](https://jobright.ai/jobs/info/6982ab320f6f7e7a2cdbfd16?utm_campaign=1050&utm_source=git)** | Port St. Lucie, FL, US | On Site | Feb 03 |
-| ↳ | **[Summer 2026 Management Trainee Intern Jupiter/Stuart](https://jobright.ai/jobs/info/6982ae150f6f7e7a2cdc000c?utm_campaign=1050&utm_source=git)** | Jupiter, FL, US | On Site | Feb 03 |
-| ↳ | **[Summer 2026 Management Trainee Intern, Dearborn](https://jobright.ai/jobs/info/6982aa910f6f7e7a2cdbfc58?utm_campaign=1050&utm_source=git)** | Dearborn, MI, US | On Site | Feb 03 |
-| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[INTERN, Project Management](https://jobright.ai/jobs/info/69828d620f6f7e7a2cdbcdf7?utm_campaign=1050&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Feb 03 |
-| **[Castle Group](http://castlegroup.com)** | **[2026 Property Management Intern](https://jobright.ai/jobs/info/6982ae4b8232105a2d0b00cb?utm_campaign=1050&utm_source=git)** | Plantation, FL, US | On Site | Feb 03 |
-| ↳ | **[2026 Property Management Intern](https://jobright.ai/jobs/info/6982a8fd348f733a5c35a1c9?utm_campaign=1050&utm_source=git)** | US-FL-Plantation | On Site | Feb 03 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Strategy Analyst Intern](https://jobright.ai/jobs/info/6982b06d348f733a5c35a925?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Feb 03 |
-| **[Alston Construction](https://alstonco.com/)** | **[Office Intern - Mission Critical](https://jobright.ai/jobs/info/69830493348f733a5c3618ef?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

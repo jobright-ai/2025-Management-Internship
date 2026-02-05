@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Business Operations (Safety, Sensing and Industrial Components Organization)](https://jobright.ai/jobs/info/68dc7138a125e75c422a0d91?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 05 |
+| **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68dab0c30b832179ca4afcfa?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Feb 05 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6984acc1348f733a5c38c73a?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Feb 05 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6984ac790f6f7e7a2cdf2338?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 05 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Supply Chain - Buyer/ Supply Chain Coordinator](https://jobright.ai/jobs/info/697ee197abff4c399a9d923f?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 05 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6984aa740f6f7e7a2cdf2198?utm_campaign=1050&utm_source=git)** | Defiance, OH | On Site | Feb 05 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Project Administrator Intern](https://jobright.ai/jobs/info/6984a93e0f6f7e7a2cdf2096?utm_campaign=1050&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 05 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6984a90c0f6f7e7a2cdf2068?utm_campaign=1050&utm_source=git)** | Fort Wayne, IN | On Site | Feb 05 |
+| **[DeAngelis Diamond](http://deangelisdiamond.com)** | **[Internships & Co-Ops](https://jobright.ai/jobs/info/68a2c484468ac21d6fabaadf?utm_campaign=1050&utm_source=git)** | Sarasota, FL | On Site | Feb 05 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Multifamily Project Management Internship - Summer 2026 (Dallas, TX)](https://jobright.ai/jobs/info/6969bdb51703f05405abb8b9?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 05 |
 | **[ATI](https://www.forging.com)** | **[2026 Intern - Procurement/Supply Chain](https://jobright.ai/jobs/info/6933a4b0f131d96e4846539e?utm_campaign=1050&utm_source=git)** | Natrona Heights, PA | On Site | Feb 05 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern '25-'26 (Northern CA Bay Area)](https://jobright.ai/jobs/info/6954a524aa05c26e7aaf1c80?utm_campaign=1050&utm_source=git)** | Walnut Creek, CA | On Site | Feb 05 |
@@ -69,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Property and Casualty Intern - Summer 2026](https://jobright.ai/jobs/info/693093fd4c474121999e6353?utm_campaign=1050&utm_source=git)** | Pasadena, CA | On Site | Feb 05 |
 | **[Archer](https://www.archer.com)** | **[Airline Operations Intern](https://jobright.ai/jobs/info/694bda2cd64ebf28d8218607?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 05 |
 | **[nVent](https://www.nvent.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6968469e639b452fb57dea44?utm_campaign=1050&utm_source=git)** | Anoka, MN | On Site | Feb 05 |
+| **[Defence Construction Canada](https://www.dcc-cdc.gc.ca)** | **[Project Assistant (Student)](https://jobright.ai/jobs/info/6930d2b8fa28370be26b444e?utm_campaign=1050&utm_source=git)** | Saguenay, Quebec, Canada | On Site | Feb 05 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/696c5bfc350cf438031375da?utm_campaign=1050&utm_source=git)** | Rialto, CA | On Site | Feb 05 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/69848fbe348f733a5c389f3d?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 05 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Operations Management Internships](https://jobright.ai/jobs/info/68d3080ff0d9af73038de668?utm_campaign=1050&utm_source=git)** | Sandusky, OH | On Site | Feb 05 |
@@ -107,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Summer '26 Intern - CT](https://jobright.ai/jobs/info/696b54a7350cf4380312b3e4?utm_campaign=1050&utm_source=git)** | Shelton, CT | On Site | Feb 04 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Northern Ohio,](https://jobright.ai/jobs/info/698421410f6f7e7a2cde5107?utm_campaign=1050&utm_source=git)** | Hinckley, OH | On Site | Feb 04 |
 | ↳ | **[District Manager Intern - NOVA & Eastern NC,](https://jobright.ai/jobs/info/69842091348f733a5c37f4a7?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Feb 04 |
-| ↳ | **[District Manager Intern - Eastern PA, NJ, Northern DE,](https://jobright.ai/jobs/info/69841f05348f733a5c37f1ac?utm_campaign=1050&utm_source=git)** | Center Valley, PA | On Site | Feb 04 |
 | ↳ | **[Warehouse Operations Intern - Petersburg Warehouse,](https://jobright.ai/jobs/info/69841df68da7a612045e1392?utm_campaign=1050&utm_source=git)** | Petersburg, VA | On Site | Feb 04 |
 | ↳ | **[District Manager Intern - Gulf Coast Region to Tallahassee,](https://jobright.ai/jobs/info/69841dc48da7a612045e1336?utm_campaign=1050&utm_source=git)** | Loxley, AL | On Site | Feb 04 |
 | ↳ | **[District Manager Intern - Minnesota, Iowa, South Dakota, North Dakota and Western Wisconsin,](https://jobright.ai/jobs/info/69841d6f0f6f7e7a2cde49ec?utm_campaign=1050&utm_source=git)** | Faribault, MN | On Site | Feb 04 |
@@ -134,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[District Manager Intern - Midwest and Southern Plains (MO-AR-OK-KS),](https://jobright.ai/jobs/info/698412998da7a612045dfd01?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Feb 04 |
 | ↳ | **[District Manager Intern - Great Lakes Region (Illinois-Iowa),](https://jobright.ai/jobs/info/698410bd8da7a612045df969?utm_campaign=1050&utm_source=git)** | Dwight, IL | On Site | Feb 04 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/69840ba3348f733a5c37c8ab?utm_campaign=1050&utm_source=git)** | Tempe, AZ | On Site | Feb 04 |
-| **[Group 1001](https://group1001.com/)** | **[Scrum Master & Project Management Intern](https://jobright.ai/jobs/info/69683222639b452fb57dcc52?utm_campaign=1050&utm_source=git)** | Zionsville, IN | On Site | Feb 04 |
 | **[Vishay Intertechnology, Inc.](http://www.vishay.com/)** | **[Operations/Lean Intern](https://jobright.ai/jobs/info/6984081301214b4cdacc6425?utm_campaign=1050&utm_source=git)** | Yankton, SD | On Site | Feb 04 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Warehouse Coordinator](https://jobright.ai/jobs/info/69842ce18da7a612045e32ac?utm_campaign=1050&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 04 |
 | **[Jacobs](http://www.jacobs.com)** | **[Aviation Project Controls/Management Intern - Summer 2026](https://jobright.ai/jobs/info/698405fd348f733a5c37bb3f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 04 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69841cba0f6f7e7a2cde489d?utm_campaign=1050&utm_source=git)** | Lees Summit, MO | On Site | Feb 04 |
 | ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69841ce38da7a612045e1175?utm_campaign=1050&utm_source=git)** | Independence, MO | On Site | Feb 04 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69842dcd348f733a5c3811cd?utm_campaign=1050&utm_source=git)** | Morton Grove, IL | On Site | Feb 04 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698425438da7a612045e27c9?utm_campaign=1050&utm_source=git)** | Omaha Metropolitan Area | On Site | Feb 04 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/69842d8a0f6f7e7a2cde6d2a?utm_campaign=1050&utm_source=git)** | Elk River, MN | On Site | Feb 04 |
-| **[PlanetArt](http://www.planetart.com)** | **[Logistics Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69842041348f733a5c37f403?utm_campaign=1050&utm_source=git)** | Woodridge, Illinois, United States | Hybrid | Feb 04 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6983f5280f6f7e7a2cddf039?utm_campaign=1050&utm_source=git)** | Twin Cities Area | On Site | Feb 04 |
-| **[TKO](https://tkogrp.com)** | **[Intern - Production Management & Business Operations, WWE](https://jobright.ai/jobs/info/6983f4db348f733a5c379566?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Feb 04 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69842685348f733a5c3804df?utm_campaign=1050&utm_source=git)** | Hastings, NE | On Site | Feb 04 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6983f3fc348f733a5c379375?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Feb 04 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - DSPV Operations & Vendor Management](https://jobright.ai/jobs/info/696857041703f05405aa06d4?utm_campaign=1050&utm_source=git)** | Headquarters, NJ | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

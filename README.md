@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Lenox - New Business & Advanced Planning Intern](https://jobright.ai/jobs/info/6984673e348f733a5c3866b3?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 05 |
+| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/697a93c29d60e431a16c255c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 05 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Operations Internship / Woburn, MA](https://jobright.ai/jobs/info/6984562c348f733a5c385485?utm_campaign=1050&utm_source=git)** | Woburn, MA | On Site | Feb 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Procurement Operations](https://jobright.ai/jobs/info/698453170f6f7e7a2cdeac65?utm_campaign=1050&utm_source=git)** | Greenwood Village, CO | On Site | Feb 05 |
 | **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Business Internship - Edgemont, PA](https://jobright.ai/jobs/info/698446868da7a612045e6233?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Feb 04 |
@@ -134,15 +136,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/698422040f6f7e7a2cde5247?utm_campaign=1050&utm_source=git)** | Tempe, AZ, USA | On Site | Feb 04 |
 | **[Zoox](https://www.zoox.com/)** | **[Technical Program Management Intern, AI Tools Development](https://jobright.ai/jobs/info/6968149a639b452fb57da2fd?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/6983e800348f733a5c377a66?utm_campaign=1050&utm_source=git)** | Glastonbury, CT | Hybrid | Feb 04 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69840528348f733a5c37b956?utm_campaign=1050&utm_source=git)** | Denver Metropolitan Area | On Site | Feb 04 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[External Supply Planning Summer Intern](https://jobright.ai/jobs/info/6983e6cd0f6f7e7a2cddd0c2?utm_campaign=1050&utm_source=git)** | Titusville, NJ | On Site | Feb 04 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69840f99348f733a5c37d1d1?utm_campaign=1050&utm_source=git)** | GLASTONBURY, CT, US | Hybrid | Feb 04 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Supply Chain Integrated Business Planning & Execution](https://jobright.ai/jobs/info/6983e0cc01214b4cdacc09f2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Digital Program Internship](https://jobright.ai/jobs/info/6967fa061703f05405a9982b?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
-| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Project Scheduler) (Active Duty Service Members)](https://jobright.ai/jobs/info/69841ac78da7a612045e0d1b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO, US | On Site | Feb 04 |
-| ↳ | **[DoD SkillBridge Intern – (Project Scheduler) (Active Duty Service Members)](https://jobright.ai/jobs/info/69841c62348f733a5c37ecd9?utm_campaign=1050&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 04 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Program Management - Intern](https://jobright.ai/jobs/info/69842b460f6f7e7a2cde697b?utm_campaign=1050&utm_source=git)** | Possible | On Site | Feb 04 |
-| ↳ | **[Program Management - Intern](https://jobright.ai/jobs/info/69843c56348f733a5c3830b5?utm_campaign=1050&utm_source=git)** | Florida | On Site | Feb 04 |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Project Scheduler) (Active Duty Service Members)](https://jobright.ai/jobs/info/69841c62348f733a5c37ecd9?utm_campaign=1050&utm_source=git)** | US-CO-Colorado Springs | On Site | Feb 04 |
+| ↳ | **[DoD SkillBridge Intern – (Project Scheduler) (Active Duty Service Members)](https://jobright.ai/jobs/info/69841ac78da7a612045e0d1b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO, US | On Site | Feb 04 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Program Management - Intern](https://jobright.ai/jobs/info/69843c56348f733a5c3830b5?utm_campaign=1050&utm_source=git)** | Florida | On Site | Feb 04 |
+| ↳ | **[Program Management - Intern](https://jobright.ai/jobs/info/69842b460f6f7e7a2cde697b?utm_campaign=1050&utm_source=git)** | Possible | On Site | Feb 04 |
 | **[American Water](http://amwater.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69297a344c474121999c99bc?utm_campaign=1050&utm_source=git)** | Philipsburg, PA | On Site | Feb 04 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Chief Lending Officer Internship](https://jobright.ai/jobs/info/696808101703f05405a9a5e5?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Operations Intern](https://jobright.ai/jobs/info/6983dccb348f733a5c375a92?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Rooms/ Fall 2026](https://jobright.ai/jobs/info/6983cd3501214b4cdacbcfb6?utm_campaign=1050&utm_source=git)** | Bretton Woods, NH | On Site | Feb 04 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Procurement](https://jobright.ai/jobs/info/6983cb9d0f6f7e7a2cdd85c5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
 | **[Healthy New Albany](https://healthynewalbany.org/)** | **[Summer Meals Intern](https://jobright.ai/jobs/info/6983ebef0f6f7e7a2cdddfa5?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Feb 04 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

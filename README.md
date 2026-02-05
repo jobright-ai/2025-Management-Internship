@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Aviation Project Controls/Management Intern - Summer 2026](https://jobright.ai/jobs/info/698405fd348f733a5c37bb3f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 04 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Project Management Internship - Supply Chain Focus](https://jobright.ai/jobs/info/6984041901214b4cdacc5b5f?utm_campaign=1050&utm_source=git)** | West Lebanon, NH | On Site | Feb 04 |
 | **[Trillionaire Teacher](https://TrillionaireTeacher.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6983fd1001214b4cdacc4c34?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Republic Services](http://www.republicservices.com)** | **[MBA Intern](https://jobright.ai/jobs/info/6983fbc901214b4cdacc4946?utm_campaign=1050&utm_source=git)** | San Antonio, TX, USA | On Site | Feb 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Business and Finance Transformation Team Intern](https://jobright.ai/jobs/info/6983f9ca348f733a5c37a084?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 04 |
@@ -81,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Global Logistics](https://jobright.ai/jobs/info/6983db320f6f7e7a2cddb01c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/69706805333b6343a14cf3aa?utm_campaign=1050&utm_source=git)** | Orangeburg, SC | On Site | Feb 04 |
 | **[Liberty Bank - CT](http://www.liberty-bank.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/6967fa5d1703f05405a9988a?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Feb 04 |
+| **[WWE](http://wwe.com)** | **[Intern - Production Management & Business Operations, WWE](https://jobright.ai/jobs/info/698401d301214b4cdacc563f?utm_campaign=1050&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Feb 04 |
 | **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/6983f73e01214b4cdacc400f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 04 |
 | **[Schindler Elevator Corporation (U.S.)](http://www.schindler.com)** | **[Field Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697d91737f40342e15d673aa?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 04 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship Rooms/ Fall 2026](https://jobright.ai/jobs/info/6983cd3501214b4cdacbcfb6?utm_campaign=1050&utm_source=git)** | Bretton Woods, NH | On Site | Feb 04 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Global Logistics](https://jobright.ai/jobs/info/69838e8b0f6f7e7a2cdcff72?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Feb 04 |
 | **[State Street](https://www.statestreet.com/)** | **[Project Manager - Summer Internship-CRD](https://jobright.ai/jobs/info/6983e7d501214b4cdacc1dfb?utm_campaign=1050&utm_source=git)** | Burlington Massachusetts | On Site | Feb 04 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Intern, Procurement](https://jobright.ai/jobs/info/69838d50348f733a5c36a46b?utm_campaign=1050&utm_source=git)** | Chicago, Illinois | On Site | Feb 04 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6983b2fe0f6f7e7a2cdd426b?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Feb 04 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6983b50d348f733a5c36f1d6?utm_campaign=1050&utm_source=git)** | Westminster, Colorado, United States | On Site | Feb 04 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6983b92901214b4cdacb9c37?utm_campaign=1050&utm_source=git)** | Greeley, Colorado, United States | On Site | Feb 04 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6983bf790f6f7e7a2cdd654d?utm_campaign=1050&utm_source=git)** | Loveland, Colorado, United States | On Site | Feb 04 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6983c25d0f6f7e7a2cdd6cb7?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, United States | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

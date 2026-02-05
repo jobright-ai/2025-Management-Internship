@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Intern - Riverbend Operations, Kohler Hospitality](https://jobright.ai/jobs/info/6984e1af0f6f7e7a2cdf5e6c?utm_campaign=1050&utm_source=git)** | Kohler, WI | On Site | Feb 05 |
+| **[National Association of Insurance Commissioners (NAIC)](http://www.naic.org)** | **[Leaders of Tomorrow Summer Internship](https://jobright.ai/jobs/info/6984e1418da7a612045f2d6c?utm_campaign=1050&utm_source=git)** | Kansas City | Hybrid | Feb 05 |
+| **[GE Vernova](https://www.gevernova.com)** | **[Supply Chain Operations Excellence Intern](https://jobright.ai/jobs/info/6984dd2c8da7a612045f2879?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Planning and Administration Intern](https://jobright.ai/jobs/info/6984d75c8da7a612045f219d?utm_campaign=1050&utm_source=git)** | Watsonville, CA | On Site | Feb 05 |
+| **[National Association of Insurance Commissioners (NAIC)](http://www.naic.org)** | **[Leaders of Tomorrow Summer Internship](https://jobright.ai/jobs/info/6984d758348f733a5c38f461?utm_campaign=1050&utm_source=git)** | Kansas City, MO | Hybrid | Feb 05 |
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6984d5160f6f7e7a2cdf4afd?utm_campaign=1050&utm_source=git)** | MN-Remote | Remote | Feb 05 |
 | **[Driscoll's](http://www.driscolls.com)** | **[Information Services - Planning and Administration Intern](https://jobright.ai/jobs/info/6984d4cd348f733a5c38eea7?utm_campaign=1050&utm_source=git)** | US - Watsonville, California | On Site | Feb 05 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026- Santa Fe Springs, CA](https://jobright.ai/jobs/info/6984cfec0f6f7e7a2cdf3f16?utm_campaign=1050&utm_source=git)** | Santa Fe Springs, CA | On Site | Feb 05 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Supply Chain Summer 2026 Internship (Euclid, Oh)](https://jobright.ai/jobs/info/697050fd587dfa0bb55dd79f?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Feb 05 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Business Operations (Safety, Sensing and Industrial Components Organization)](https://jobright.ai/jobs/info/68dc7138a125e75c422a0d91?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 05 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68dab0c30b832179ca4afcfa?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Feb 05 |
+| **[VITAS Healthcare](http://www.vitas.com)** | **[Strategy & Analytics Intern- University of Miami graduate program](https://jobright.ai/jobs/info/6984d7428da7a612045f2153?utm_campaign=1050&utm_source=git)** | 201 S. Biscayne Boulevard, Suite 2856, Miami, FL, 33131, US | On Site | Feb 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6984acc1348f733a5c38c73a?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Feb 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6984ac790f6f7e7a2cdf2338?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 05 |
 | **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[2026 SC Johnson Leadership Development Program](https://jobright.ai/jobs/info/6984d11c348f733a5c38e73e?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Intern](https://jobright.ai/jobs/info/69682b051703f05405a9cf8d?utm_campaign=1050&utm_source=git)** | St Louis Park, MN | On Site | Feb 04 |
 | **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - Southern California and Phoenix,](https://jobright.ai/jobs/info/698415918da7a612045e0321?utm_campaign=1050&utm_source=git)** | Moreno Valley, CA | On Site | Feb 04 |
 | **[WWE](http://wwe.com)** | **[Intern - Production Management & Business Operations, WWE](https://jobright.ai/jobs/info/6984157d8da7a612045e0300?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Feb 04 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Innovation Intern](https://jobright.ai/jobs/info/694b27961224705e900249ab?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 04 |
-| **[ALDI USA](http://www.aldi.com)** | **[District Manager Intern - PA-NY-OH-WV,](https://jobright.ai/jobs/info/698414788da7a612045e00c6?utm_campaign=1050&utm_source=git)** | Saxonburg, PA | On Site | Feb 04 |
-| ↳ | **[District Manager Intern - Wisconsin,](https://jobright.ai/jobs/info/69841397348f733a5c37e0ed?utm_campaign=1050&utm_source=git)** | Oak Creek, WI | On Site | Feb 04 |
-| ↳ | **[District Manager Intern - Southern Appalachian Gateway (GA-NC-AL-SC),](https://jobright.ai/jobs/info/698413520f6f7e7a2cde3bec?utm_campaign=1050&utm_source=git)** | Jefferson, GA | On Site | Feb 04 |
-| ↳ | **[Warehouse Operations Intern - Valparaiso Warehouse,](https://jobright.ai/jobs/info/698413468da7a612045dfe67?utm_campaign=1050&utm_source=git)** | Valparaiso, IN | On Site | Feb 04 |
-| ↳ | **[District Manager Intern - Midwest and Southern Plains (MO-AR-OK-KS),](https://jobright.ai/jobs/info/698412998da7a612045dfd01?utm_campaign=1050&utm_source=git)** | Olathe, KS | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

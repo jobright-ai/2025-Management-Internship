@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WorkVille](http://www.workvillenyc.com)** | **[Community Manager- Internship](https://jobright.ai/jobs/info/6984bf0e8da7a612045f00ff?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 05 |
+| **[ABB](https://global.abb/group/en)** | **[Tech Meets Management: IS Project Management Intern- Summer 2026](https://jobright.ai/jobs/info/6984bee10f6f7e7a2cdf3269?utm_campaign=1050&utm_source=git)** | Cary, NC | Hybrid | Feb 05 |
+| **[Greystar](http://greystar.com)** | **[Intern - Property Management](https://jobright.ai/jobs/info/692f3f81fa28370be26a850d?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Feb 05 |
+| **[Henkel](http://www.henkel.com)** | **[Commercial Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/69817a10abff4c399aa07d63?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 05 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[DCS Operations Internship, Summer 2026](https://jobright.ai/jobs/info/69354c07764507023d1bffa2?utm_campaign=1050&utm_source=git)** | Temecula, CA | On Site | Feb 05 |
+| **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Supply Chain Summer 2026 Internship (Euclid, Oh)](https://jobright.ai/jobs/info/697050fd587dfa0bb55dd79f?utm_campaign=1050&utm_source=git)** | Euclid, OH | On Site | Feb 05 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Business Operations (Safety, Sensing and Industrial Components Organization)](https://jobright.ai/jobs/info/68dc7138a125e75c422a0d91?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 05 |
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Denver, CO)](https://jobright.ai/jobs/info/68dab0c30b832179ca4afcfa?utm_campaign=1050&utm_source=git)** | Englewood, CO | On Site | Feb 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6984acc1348f733a5c38c73a?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Feb 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Project Management Support Intern](https://jobright.ai/jobs/info/6984206a0f6f7e7a2cde4f92?utm_campaign=1050&utm_source=git)** | Portland, OR | Hybrid | Feb 04 |
 | **[Trillionaire Teacher](https://TrillionaireTeacher.com)** | **[Executive Assistant Intern](https://jobright.ai/jobs/info/6983fd1001214b4cdacc4c34?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Republic Services](http://www.republicservices.com)** | **[MBA Intern](https://jobright.ai/jobs/info/6983fbc901214b4cdacc4946?utm_campaign=1050&utm_source=git)** | San Antonio, TX, USA | On Site | Feb 04 |
-| **[Maximus](http://www.maximus.com/)** | **[Business and Finance Transformation Team Intern](https://jobright.ai/jobs/info/6983f9ca348f733a5c37a084?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 04 |
-| **[Whisker](https://www.litter-robot.com/)** | **[Sourcing and Logistics Intern (Summer 2026)](https://jobright.ai/jobs/info/69681732f25a380066966dcd?utm_campaign=1050&utm_source=git)** | Auburn Hills, MI | On Site | Feb 04 |
-| **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Project Management](https://jobright.ai/jobs/info/6983f8ad0f6f7e7a2cddf87d?utm_campaign=1050&utm_source=git)** | Etobicoke, ON | On Site | Feb 04 |
-| **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/69841cba0f6f7e7a2cde489d?utm_campaign=1050&utm_source=git)** | Lees Summit, MO | On Site | Feb 04 |
-| ↳ | **[Branch Operations Intern](https://jobright.ai/jobs/info/69841ce38da7a612045e1175?utm_campaign=1050&utm_source=git)** | Independence, MO | On Site | Feb 04 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69842dcd348f733a5c3811cd?utm_campaign=1050&utm_source=git)** | Morton Grove, IL | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

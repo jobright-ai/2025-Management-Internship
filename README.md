@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lonza](http://www.lonza.com)** | **[Summer 2026 Supply Chain Internship](https://jobright.ai/jobs/info/68c039208e65e77df55bf4c6?utm_campaign=1050&utm_source=git)** | Portsmouth, NH | On Site | Feb 06 |
+| **[Liebherr USA](https://www.liebherr.com/en-us/group/start-page-3782471)** | **[External Logistics Intern](https://jobright.ai/jobs/info/6968e9e1639b452fb57ebafb?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Feb 06 |
+| **[AIT Worldwide Logistics](https://www.aitworldwide.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/696835b51703f05405a9e1aa?utm_campaign=1050&utm_source=git)** | Secaucus, NJ | On Site | Feb 06 |
+| **[AXA XL](https://axaxl.com)** | **[Middle Market Internship- Underwriting, Private Equity](https://jobright.ai/jobs/info/69686f4b639b452fb57e1677?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 06 |
+| **[Colony Hardware](http://colonyhardware.com)** | **[Distribution Leadership Intern](https://jobright.ai/jobs/info/6969d024f25a3800669899c1?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 06 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/694d322cf5bef51c96eadc1d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 06 |
+| **[Lendistry](http://www.Lendistry.com)** | **[Lending Operations Intern](https://jobright.ai/jobs/info/69797b590791bc1d72302275?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 06 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - Round Rock and Cedar Park](https://jobright.ai/jobs/info/6969d42d639b452fb57fd481?utm_campaign=1050&utm_source=git)** | Round Rock, TX | On Site | Feb 06 |
 | **[Thales](http://www.thalesgroup.com)** | **[Project Controller Intern](https://jobright.ai/jobs/info/696838a2639b452fb57dd81e?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 05 |
 | **[AXA XL](https://axaxl.com)** | **[Middle Market Internship- Underwriting, Data and Analytics](https://jobright.ai/jobs/info/696884c21703f05405aa4435?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 05 |
 | **[Siemens](https://www.siemens.com)** | **[Digital Service Center Project Management Internship](https://jobright.ai/jobs/info/6969ccaa639b452fb57fd0ee?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Feb 05 |
@@ -65,14 +73,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hotel Internship Program](https://jobright.ai/jobs/info/69858444348f733a5c39f850?utm_campaign=1050&utm_source=git)** | Chandler Staybridge Suites, Chandler, AZ, US | On Site | Feb 05 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Coordinator, Project (Nuclear) - Intern](https://jobright.ai/jobs/info/696529d66d52670c5c3df7f6?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 05 |
 | **[Roadtex](http://roadtex.com)** | **[Supply Chain Analyst Intern- Greenfield, IN](https://jobright.ai/jobs/info/69698539639b452fb57f6251?utm_campaign=1050&utm_source=git)** | Greenfield, IN | Hybrid | Feb 05 |
+| **[GenPark](https://genpark.ai)** | **[Project Manager Intern](https://jobright.ai/jobs/info/69859f26348f733a5c3a2111?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Feb 05 |
 | **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Strategy](https://jobright.ai/jobs/info/6972df8798522904c697b26f?utm_campaign=1050&utm_source=git)** | Clayton, MO | On Site | Feb 05 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Command Center Scheduling, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/698592660f6f7e7a2ce06c7c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 05 |
 | **[NANA](http://nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Management HSSE Intern](https://jobright.ai/jobs/info/69856ec8348f733a5c39d635?utm_campaign=1050&utm_source=git)** | Anchorage, AK | On Site | Feb 05 |
 | **[AV](https://www.avinc.com/)** | **[Summer 2026 Program Management Intern](https://jobright.ai/jobs/info/69856eb3348f733a5c39d610?utm_campaign=1050&utm_source=git)** | Simi Valley, CA | On Site | Feb 05 |
-| **[Tharaldson Hospitality Management](https://tharaldson.com)** | **[Hotel Internship Program](https://jobright.ai/jobs/info/69858aad0f6f7e7a2ce06466?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga Homewood Suites, Rancho Cucamonga, CA, US | On Site | Feb 05 |
+| **[Tharaldson Hospitality Management](https://tharaldson.com)** | **[Hotel Internship Program](https://jobright.ai/jobs/info/69858cf80f6f7e7a2ce0681f?utm_campaign=1050&utm_source=git)** | Brea Residence Inn, Brea, CA, US | On Site | Feb 05 |
 | ↳ | **[Hotel Internship Program](https://jobright.ai/jobs/info/698598d48da7a61204604997?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga Ontario Springhill Suites, Ontario, CA, US | On Site | Feb 05 |
+| ↳ | **[Hotel Internship Program](https://jobright.ai/jobs/info/69858aad0f6f7e7a2ce06466?utm_campaign=1050&utm_source=git)** | Rancho Cucamonga Homewood Suites, Rancho Cucamonga, CA, US | On Site | Feb 05 |
 | ↳ | **[Hotel Internship Program](https://jobright.ai/jobs/info/69858c1b348f733a5c3a081a?utm_campaign=1050&utm_source=git)** | Redlands Residence Inn, Redlands, CA, US | On Site | Feb 05 |
-| ↳ | **[Hotel Internship Program](https://jobright.ai/jobs/info/69858cf80f6f7e7a2ce0681f?utm_campaign=1050&utm_source=git)** | Brea Residence Inn, Brea, CA, US | On Site | Feb 05 |
 | ↳ | **[Hotel Internship Program](https://jobright.ai/jobs/info/6985925d0f6f7e7a2ce06c76?utm_campaign=1050&utm_source=git)** | Tempe Homewood Suites, Tempe, AZ, US | On Site | Feb 05 |
 | **[Hyatt Regency Monterey Hotel & Spa](http://hyattregencymonterey.com)** | **[Summer Operations Internship - Food & Beverage](https://jobright.ai/jobs/info/69856b560f6f7e7a2ce02eb1?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Feb 05 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Transportation Management Ops Summer Internship 2026](https://jobright.ai/jobs/info/69856a29348f733a5c39cf65?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Feb 05 |
@@ -116,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procurement Intern](https://jobright.ai/jobs/info/698571a00f6f7e7a2ce03795?utm_campaign=1050&utm_source=git)** | Mason, MI, US | On Site | Feb 05 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Office Support Specialist - Health & Kinesiology](https://jobright.ai/jobs/info/698543780f6f7e7a2cdfe64f?utm_campaign=1050&utm_source=git)** | Urbana, IL | On Site | Feb 05 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698564aa348f733a5c39c456?utm_campaign=1050&utm_source=git)** | Burlington, WI | On Site | Feb 05 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698569318da7a612045ffa16?utm_campaign=1050&utm_source=git)** | Camby, IN | On Site | Feb 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698562ae0f6f7e7a2ce01e28?utm_campaign=1050&utm_source=git)** | Chillicothe, OH | On Site | Feb 05 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698569318da7a612045ffa16?utm_campaign=1050&utm_source=git)** | Camby, IN | On Site | Feb 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/69856ae98da7a612045ffcb8?utm_campaign=1050&utm_source=git)** | Beaver Dam, WI | On Site | Feb 05 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6985657a0f6f7e7a2ce0226d?utm_campaign=1050&utm_source=git)** | Battle Creek, MI | On Site | Feb 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/698542360f6f7e7a2cdfe3e2?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 05 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Command Center Scheduling, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69855d6f8da7a612045fe303?utm_campaign=1050&utm_source=git)** | Long Island City, NY | On Site | Feb 05 |
 | **[Hotel 55, Chicago Downtown](www.marriott.com/chidb)** | **[Summer Operations Internship - Food & Beverage](https://jobright.ai/jobs/info/69855cbf8da7a612045fe1c6?utm_campaign=1050&utm_source=git)** | Monterey, CA, US | On Site | Feb 05 |
 | **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Summer Operations Internship - Food & Beverage](https://jobright.ai/jobs/info/698572bf8da7a61204600dc7?utm_campaign=1050&utm_source=git)** | US-CA-Monterey | On Site | Feb 05 |
-| **[NANA Worley](http://nanaworleyparsons.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern  Paid Internship](https://jobright.ai/jobs/info/69856b3d8da7a612045ffd34?utm_campaign=1050&utm_source=git)** | Anchorage , AK, US | On Site | Feb 05 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern  Paid Internship](https://jobright.ai/jobs/info/698568178da7a612045ff8a9?utm_campaign=1050&utm_source=git)** | Anchorage | On Site | Feb 05 |
-| ↳ | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Worley Project Delivery Intern  Paid Internship](https://jobright.ai/jobs/info/69856a850f6f7e7a2ce029ad?utm_campaign=1050&utm_source=git)** | US-AK-Anchorage | On Site | Feb 05 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6972d80d0488fd59f7d5d1f0?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 05 |
-| **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6985508c0f6f7e7a2cdff940?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 05 |
-| **[Southern Alberta Institute of Technology (SAIT)](https://www.sait.ca/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69852d66348f733a5c395cb7?utm_campaign=1050&utm_source=git)** | Greater Calgary Metropolitan Area | On Site | Feb 05 |
-| **[OceanX](https://oceanx.org/)** | **[Missions Intern](https://jobright.ai/jobs/info/69852a60348f733a5c395ac4?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Summer Operations Internship - Guest Services](https://jobright.ai/jobs/info/698528f48da7a612045f876e?utm_campaign=1050&utm_source=git)** | Monterey, CA | On Site | Feb 05 |
-| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Branch Intern](https://jobright.ai/jobs/info/6985273a348f733a5c395650?utm_campaign=1050&utm_source=git)** | Frisco, TX | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

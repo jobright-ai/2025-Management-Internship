@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Operations Intern](https://jobright.ai/jobs/info/69877e000f6f7e7a2ce2c4c6?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Feb 07 |
 | **[Rescue Cooling Rentals](https://rescuecooling.com)** | **[Summer Operations Intern](https://jobright.ai/jobs/info/698775430f6f7e7a2ce2bc10?utm_campaign=1050&utm_source=git)** | DFW Metroplex | On Site | Feb 07 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Feb 07 |
 | **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Wholesale Intern](https://jobright.ai/jobs/info/696afe05db26b618950e732b?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Transporation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6986a3968ca8121a3a68f52c?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[Omaha Public Power District](https://www.oppd.com/)** | **[Intern Operations - North Omaha Station Summer (May 2026 - Aug 2026)](https://jobright.ai/jobs/info/6986a0508ca8121a3a68efa3?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6986be3b8da7a6120461aa47?utm_campaign=1050&utm_source=git)** | Rolla, MO | On Site | Feb 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6986c2778ca8121a3a693042?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Feb 06 |
-| **[Options For All](http://optionsforall.org)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69869f288ca8121a3a68edd7?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defc27a125e75c422b8d18?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Feb 07 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69438f4b50bbaf765055959a?utm_campaign=1050&utm_source=git)** | Mount Pleasant, TX | On Site | Feb 07 |
+| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69704695333b6343a14cb548?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Feb 07 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cd10ccb2a74e1837ed1a2f?utm_campaign=1050&utm_source=git)** | Marshville, NC | On Site | Feb 07 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Real Estate - Summer 2026](https://jobright.ai/jobs/info/695a251af1f8465b79f0741f?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
+| **[Howmet Aerospace](https://www.howmet.com)** | **[Procurement Intern - Summer 2026](https://jobright.ai/jobs/info/696bc4315fc86241853b1d9d?utm_campaign=1050&utm_source=git)** | La Porte, IN | On Site | Feb 07 |
+| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Strategic Finance & Business Operations](https://jobright.ai/jobs/info/69336aad764507023d1b56b3?utm_campaign=1050&utm_source=git)** | San Mateo, CA | On Site | Feb 07 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/698746c50f6f7e7a2ce28fa0?utm_campaign=1050&utm_source=git)** | Houston, TX, US | On Site | Feb 07 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[South Florida Summer 2026 Internship](https://jobright.ai/jobs/info/696f137682817106e97643ea?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6967f7e81703f05405a99511?utm_campaign=1050&utm_source=git)** | Research Park, CA | Hybrid | Feb 07 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Replenishment & Planning - Summer 2026](https://jobright.ai/jobs/info/6959e3b8aa05c26e7ab38505?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
+| **[Cemex US](http://www.cemex.com/)** | **[FINANCE/STRATEGIC PLANNING PROFESSIONAL INTERNSHIP DEVELOPMENT](https://jobright.ai/jobs/info/691ae18445fb6f5ead8ae84d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Operations Internship](https://jobright.ai/jobs/info/6984311b0f6f7e7a2cde7540?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Feb 07 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/69873d868da7a612046254f6?utm_campaign=1050&utm_source=git)** | Fall River, MA, US | On Site | Feb 07 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Nashville)](https://jobright.ai/jobs/info/696c82a3db26b618950fceed?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
@@ -75,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698710358ca8121a3a699cba?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870ff98da7a61204622544?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870fb18ca8121a3a699b9b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Administration](https://jobright.ai/jobs/info/6986b0350f6f7e7a2ce1c07c?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Feb 06 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Rental Program Intern](https://jobright.ai/jobs/info/6986818e8ca8121a3a68cfc8?utm_campaign=1050&utm_source=git)** | Minneapolis - Corporate | Hybrid | Feb 06 |
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69656dcda112b40266135b5d?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Feb 06 |
-| **[Amperesand](https://amperesand.io/)** | **[Technical Program Management Intern](https://jobright.ai/jobs/info/6972b1244ccbf64f8df2bcb2?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Feb 06 |
-| **[Sentara Health](http://www.sentara.com)** | **[Supply Chain Internship - Summer 2026 Hybrid](https://jobright.ai/jobs/info/69867eec0f6f7e7a2ce17e0c?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 06 |
-| **[maurices](https://www.maurices.com)** | **[Company Planning Intern](https://jobright.ai/jobs/info/69867dca8da7a61204614ba7?utm_campaign=1050&utm_source=git)** | Corporate Office-maurices-Duluth, MN 55802 | On Site | Feb 06 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Category Management Intern](https://jobright.ai/jobs/info/69867c798ca8121a3a68c853?utm_campaign=1050&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
-| **[Caltrain](http://www.caltrain.com/)** | **[Summer Internship - Caltrain Executive Administration](https://jobright.ai/jobs/info/69867c300f6f7e7a2ce179d1?utm_campaign=1050&utm_source=git)** | Millbrae, CA | On Site | Feb 06 |
-| **[Magna International](http://www.magna.com/)** | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/69871e5e0f6f7e7a2ce2624e?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Feb 06 |
-| **[Sentara Health](http://www.sentara.com)** | **[Strategic Sourcing & Contracting Internship - Summer 2026 Hybrid](https://jobright.ai/jobs/info/69867abc8ca8121a3a68c58d?utm_campaign=1050&utm_source=git)** | Virginia Beach, VA | Hybrid | Feb 06 |
-| **[Los Angeles Football Club (LAFC)](http://lafc.com)** | **[Stadium Operations Intern](https://jobright.ai/jobs/info/698679490f6f7e7a2ce17513?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 06 |
-| **[Austin Community College](http://austincc.edu)** | **[Intern III, Strategic Planning (Hourly)](https://jobright.ai/jobs/info/698678fd0f6f7e7a2ce17490?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 06 |
-| **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Summer 2026 Internship - Parts (Data & Analytics)](https://jobright.ai/jobs/info/696a87b9350cf43803117682?utm_campaign=1050&utm_source=git)** | Grapevine, TX | On Site | Feb 06 |
-| **[IKM Building Solutions](https://illingworth-kilgust.com)** | **[Internship - Assistant Project Manager](https://jobright.ai/jobs/info/696c4541db26b618950f9a61?utm_campaign=1050&utm_source=git)** | West Allis, WI | On Site | Feb 06 |
-| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698675b28da7a61204613faf?utm_campaign=1050&utm_source=git)** | Sugar Land, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

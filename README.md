@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Coordonnateur.trice administratif.ive cuisine, Stage (H/F/D)](https://jobright.ai/jobs/info/696aabfd5fc862418539a80f?utm_campaign=1050&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Feb 06 |
+| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Operational Excellence / Operations](https://jobright.ai/jobs/info/6986d1ae0f6f7e7a2ce20514?utm_campaign=1050&utm_source=git)** | Rochester, Michigan | On Site | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Infrastructure Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1a10f6f7e7a2ce20500?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Business Strategy Specialist Intern MBA - Summer 2026](https://jobright.ai/jobs/info/6986d1168ca8121a3a695129?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 06 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Summer Business Operations Intern](https://jobright.ai/jobs/info/696ad645db26b618950e2b93?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
 | **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696ab3abdb26b618950df090?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | Feb 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 06 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Material Supply Chain and Procurement Intern](https://jobright.ai/jobs/info/69860a3b8ca8121a3a68378e?utm_campaign=1050&utm_source=git)** | Taunton, MA | On Site | Feb 06 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[First Tee - Greater Seattle](http://www.firstteeseattle.org)** | **[PGA Junior League Intern](https://jobright.ai/jobs/info/6986ab648ca8121a3a69060a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | **[American Electric Power](http://aep.com)** | **[Business Operations Support Intern](https://jobright.ai/jobs/info/6986a9ac8ca8121a3a6902cd?utm_campaign=1050&utm_source=git)** | Ashland, KY | On Site | Feb 06 |
 | **[EduGlobal Inc.](eduglobal.ca)** | **[Administrative Assistant Intern (In-Person)](https://jobright.ai/jobs/info/6986c6988ca8121a3a693d86?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
+| **[Thompson Solutions Group](www.thompsonsolutionsgroup.com)** | **[Internship - Project Manager Service](https://jobright.ai/jobs/info/6986d1798ca8121a3a6951b2?utm_campaign=1050&utm_source=git)** | Sioux City, IA | On Site | Feb 06 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Admin Internship](https://jobright.ai/jobs/info/696ae3cfdb26b618950e431e?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Feb 06 |
 | **[IMCMV Holdings, Inc- Margaritaville Restaurants](https://www.margaritaville.com/careers)** | **[Back of House Leadership Intern](https://jobright.ai/jobs/info/6986a5c40f6f7e7a2ce1b118?utm_campaign=1050&utm_source=git)** | North Myrtle Beach, SC | On Site | Feb 06 |
 | **[HNTB](http://www.hntb.com/)** | **[Transporation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6986a3968ca8121a3a68f52c?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jonview](http://jonview.com/)** | **[Intern, Group Operations and Tour Director Administration](https://jobright.ai/jobs/info/698679300f6f7e7a2ce174d9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/6986976e8ca8121a3a68e735?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Feb 06 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/698655c78da7a61204610b2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 06 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Morristown Medical Center Administrative Intern](https://jobright.ai/jobs/info/698677bc8ca8121a3a68c0e4?utm_campaign=1050&utm_source=git)** | 100 Madison Ave, Morristown, NJ, 07960, US | On Site | Feb 06 |
-| **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Program Manager](https://jobright.ai/jobs/info/698652f88da7a61204610727?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69864f268da7a6120461026a?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Feb 06 |
-| **[Amica Insurance](http://www.amica.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69866b9e8ca8121a3a68b0e2?utm_campaign=1050&utm_source=git)** | Rhode Island, United States | Hybrid | Feb 06 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Intern - Supply Chain - Aiken, SC](https://jobright.ai/jobs/info/69864e5e0f6f7e7a2ce13217?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Feb 06 |
-| **[NRECA](https://www.electric.coop/)** | **[Strategic Program Management Intern](https://jobright.ai/jobs/info/69864d828da7a6120461005c?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

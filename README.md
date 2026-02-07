@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
+| ↳ | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6986c57f8ca8121a3a69370b?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
+| ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6967ed5cf25a380066964482?utm_campaign=1050&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
+| **[Pepper Construction Group](http://www.pepperconstruction.com)** | **[Intern Project Management/Operations - Summer 2026](https://jobright.ai/jobs/info/69332813f131d96e4846033f?utm_campaign=1050&utm_source=git)** | Dublin, OH | On Site | Feb 07 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Ops Intern / Hagerstown, MD / Summer 2026](https://jobright.ai/jobs/info/691ab517bcdbf3560c9d9f5f?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defc27a125e75c422b8d18?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Feb 07 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/69438f4b50bbaf765055959a?utm_campaign=1050&utm_source=git)** | Mount Pleasant, TX | On Site | Feb 07 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69704695333b6343a14cb548?utm_campaign=1050&utm_source=git)** | Lansing, MI | On Site | Feb 07 |
@@ -87,8 +94,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698710358ca8121a3a699cba?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870ff98da7a61204622544?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870fb18ca8121a3a699b9b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
@@ -119,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Project Manager](https://jobright.ai/jobs/info/6986b73e0f6f7e7a2ce1d15b?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 06 |
 | **[SupplyHouse](http://www.supplyhouse.com/)** | **[Category Management Intern](https://jobright.ai/jobs/info/6986b6900f6f7e7a2ce1d0b9?utm_campaign=1050&utm_source=git)** | United States | Hybrid | Feb 06 |
 | **[Milken Institute](http://milkeninstitute.org)** | **[Intern, Business and Program Development](https://jobright.ai/jobs/info/696178faf3f4cd1325067280?utm_campaign=1050&utm_source=git)** | Florida, United States | Hybrid | Feb 06 |
-| **[American Electric Power](http://aep.com)** | **[Intern](https://jobright.ai/jobs/info/6986b16f8ca8121a3a6910a4?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986afc38da7a612046194ce?utm_campaign=1050&utm_source=git)** | Brentwood, TN | On Site | Feb 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | **[maurices](https://www.maurices.com)** | **[Company Planning Intern](https://jobright.ai/jobs/info/6986ad618ca8121a3a69099a?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Feb 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Co-Op, Supply Chain](https://jobright.ai/jobs/info/69868be70f6f7e7a2ce18c49?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 06 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Business Strategy Specialist Intern MBA - Summer 2026](https://jobright.ai/jobs/info/6986a5858ca8121a3a68f868?utm_campaign=1050&utm_source=git)** | Building A,B,C 2225 Lawson Lane, Santa Clara, CALIFORNIA, United States | Hybrid | Feb 06 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/698683af0f6f7e7a2ce18348?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Feb 06 |
-| **[Streck](http://streck.com)** | **[Supply Chain Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6986b9548da7a6120461a4d2?utm_campaign=1050&utm_source=git)** | La Vista, Nebraska, United States | On Site | Feb 06 |
-| **[Agiliti](https://www.agilitihealth.com/)** | **[Rental Program Intern](https://jobright.ai/jobs/info/698683710f6f7e7a2ce18300?utm_campaign=1050&utm_source=git)** | Eden Prairie, MN | On Site | Feb 06 |
-| **[City of Coral Springs](https://www.coralsprings.gov/Home)** | **[Summer Internship 2026 - Building](https://jobright.ai/jobs/info/6986a2168da7a61204617e5e?utm_campaign=1050&utm_source=git)** | Coral Springs, FL | On Site | Feb 06 |
-| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Administration](https://jobright.ai/jobs/info/6986b0350f6f7e7a2ce1c07c?utm_campaign=1050&utm_source=git)** | Calgary, AB | On Site | Feb 06 |
-| **[Agiliti](https://www.agilitihealth.com/)** | **[Rental Program Intern](https://jobright.ai/jobs/info/6986818e8ca8121a3a68cfc8?utm_campaign=1050&utm_source=git)** | Minneapolis - Corporate | Hybrid | Feb 06 |
-| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69656dcda112b40266135b5d?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

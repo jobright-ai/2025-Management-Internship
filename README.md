@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698703478da7a61204621273?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
+| ↳ | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698702f28da7a6120462121e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[AeroMatrix 12](aeromatrix12.us)** | **[Supply Chain Intern Program 2026](https://jobright.ai/jobs/info/6986f2bf8da7a61204620418?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Feb 07 |
 | **[HNTB](http://www.hntb.com/)** | **[Transporation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6986f0e08ca8121a3a697895?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Coordonnateur.trice administratif.ive cuisine, Stage (H/F/D)](https://jobright.ai/jobs/info/696aabfd5fc862418539a80f?utm_campaign=1050&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Feb 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jonview](http://jonview.com/)** | **[Intern, Group Operations and Tour Director Administration](https://jobright.ai/jobs/info/698679300f6f7e7a2ce174d9?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
 | **[California Water Service Group](https://www.calwatergroup.com)** | **[Project Management Office Intern](https://jobright.ai/jobs/info/6986976e8ca8121a3a68e735?utm_campaign=1050&utm_source=git)** | Torrance, CA | On Site | Feb 06 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Business Administration Intern](https://jobright.ai/jobs/info/698655c78da7a61204610b2d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 06 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Morristown Medical Center Administrative Intern](https://jobright.ai/jobs/info/698677bc8ca8121a3a68c0e4?utm_campaign=1050&utm_source=git)** | 100 Madison Ave, Morristown, NJ, 07960, US | On Site | Feb 06 |
-| **[NBME](http://www.nbme.org/)** | **[Drexel Co-Op: Program Manager](https://jobright.ai/jobs/info/698652f88da7a61204610727?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

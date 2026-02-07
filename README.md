@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696ab3abdb26b618950df090?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | Feb 06 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 06 |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Material Supply Chain and Procurement Intern](https://jobright.ai/jobs/info/69860a3b8ca8121a3a68378e?utm_campaign=1050&utm_source=git)** | Taunton, MA | On Site | Feb 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Project Management Intern](https://jobright.ai/jobs/info/6986b9c70f6f7e7a2ce1d455?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Feb 06 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/696b1014350cf43803125300?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Feb 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6986b9660f6f7e7a2ce1d3ec?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Feb 06 |
@@ -70,15 +73,16 @@ For a complete list, click the following sortable link below:
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[Procurement Intern](https://jobright.ai/jobs/info/6986afc38da7a612046194ce?utm_campaign=1050&utm_source=git)** | Brentwood, TN | On Site | Feb 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6986ae648da7a612046192f5?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | **[maurices](https://www.maurices.com)** | **[Company Planning Intern](https://jobright.ai/jobs/info/6986ad618ca8121a3a69099a?utm_campaign=1050&utm_source=git)** | Duluth, MN | On Site | Feb 06 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae603db26b618950e48ae?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 06 |
 | **[First Tee - Greater Seattle](http://www.firstteeseattle.org)** | **[PGA Junior League Intern](https://jobright.ai/jobs/info/6986ab648ca8121a3a69060a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 06 |
 | **[American Electric Power](http://aep.com)** | **[Business Operations Support Intern](https://jobright.ai/jobs/info/6986a9ac8ca8121a3a6902cd?utm_campaign=1050&utm_source=git)** | Ashland, KY | On Site | Feb 06 |
+| **[EduGlobal Inc.](eduglobal.ca)** | **[Administrative Assistant Intern (In-Person)](https://jobright.ai/jobs/info/6986c6988ca8121a3a693d86?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Operations Admin Internship](https://jobright.ai/jobs/info/696ae3cfdb26b618950e431e?utm_campaign=1050&utm_source=git)** | Queensbury, NY | On Site | Feb 06 |
 | **[IMCMV Holdings, Inc- Margaritaville Restaurants](https://www.margaritaville.com/careers)** | **[Back of House Leadership Intern](https://jobright.ai/jobs/info/6986a5c40f6f7e7a2ce1b118?utm_campaign=1050&utm_source=git)** | North Myrtle Beach, SC | On Site | Feb 06 |
 | **[HNTB](http://www.hntb.com/)** | **[Transporation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6986a3968ca8121a3a68f52c?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 06 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Operations Risk](https://jobright.ai/jobs/info/6986a3940f6f7e7a2ce1add8?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Feb 06 |
 | **[Omaha Public Power District](https://www.oppd.com/)** | **[Intern Operations - North Omaha Station Summer (May 2026 - Aug 2026)](https://jobright.ai/jobs/info/6986a0508ca8121a3a68efa3?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6986be3b8da7a6120461aa47?utm_campaign=1050&utm_source=git)** | Rolla, MO | On Site | Feb 06 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6986c2778ca8121a3a693042?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Feb 06 |
 | **[Options For All](http://optionsforall.org)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69869f288ca8121a3a68edd7?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 06 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6986bd2d8da7a6120461a900?utm_campaign=1050&utm_source=git)** | Kirksville, MO | On Site | Feb 06 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6986bf508ca8121a3a692d16?utm_campaign=1050&utm_source=git)** | Sidney, OH | On Site | Feb 06 |
@@ -86,6 +90,8 @@ For a complete list, click the following sortable link below:
 | **[The Rockefeller University](http://rockefeller.edu)** | **[Operations Intern / DWB Incubator](https://jobright.ai/jobs/info/698698a60f6f7e7a2ce1a15c?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/6986b6c80f6f7e7a2ce1d0db?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae92a5fc86241853a22a2?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 06 |
+| **[Primetals Technologies](https://primetals.com)** | **[Project Analyst Associate (Intern)](https://jobright.ai/jobs/info/6986cbae8ca8121a3a694750?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 06 |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6986c6a48ca8121a3a693da4?utm_campaign=1050&utm_source=git)** | Hammond, IN | On Site | Feb 06 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Morristown Medical Center Administrative Intern](https://jobright.ai/jobs/info/6986931d8da7a6120461683e?utm_campaign=1050&utm_source=git)** | Morristown, NJ | On Site | Feb 06 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6986928d8ca8121a3a68e141?utm_campaign=1050&utm_source=git)** | Liverpool, NY | On Site | Feb 06 |
 | **[Skanska](http://skanska.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6986ada60f6f7e7a2ce1bccd?utm_campaign=1050&utm_source=git)** | South Hill, VA | On Site | Feb 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amica Insurance](http://www.amica.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/69866b9e8ca8121a3a68b0e2?utm_campaign=1050&utm_source=git)** | Rhode Island, United States | Hybrid | Feb 06 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Intern - Supply Chain - Aiken, SC](https://jobright.ai/jobs/info/69864e5e0f6f7e7a2ce13217?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Feb 06 |
 | **[NRECA](https://www.electric.coop/)** | **[Strategic Program Management Intern](https://jobright.ai/jobs/info/69864d828da7a6120461005c?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Feb 06 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Project Manager](https://jobright.ai/jobs/info/69866a930f6f7e7a2ce15eef?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 06 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Intern - Technical Project/Program Manager](https://jobright.ai/jobs/info/696a6e865fc862418539735c?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 06 |
-| **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Programme Management Intern](https://jobright.ai/jobs/info/6983a95c01214b4cdacb7195?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 06 |
-| **[SupplyHouse](http://www.supplyhouse.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698668270f6f7e7a2ce15a48?utm_campaign=1050&utm_source=git)** | Remote, Remote, United States | Remote | Feb 06 |
-| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, PMO/Performance Reporting IT](https://jobright.ai/jobs/info/69868e518da7a61204615fbd?utm_campaign=1050&utm_source=git)** | Hazelwood, MO (675) - USA037 - Hybrid | Hybrid | Feb 06 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Project Management Intern](https://jobright.ai/jobs/info/698671d48da7a61204613bf5?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

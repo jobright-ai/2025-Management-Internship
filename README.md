@@ -64,8 +64,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698710358ca8121a3a699cba?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870ff98da7a61204622544?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870fb18ca8121a3a699b9b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Sentara Health](http://www.sentara.com)** | **[Emergency Department Business Operations Internship - Summer 2026](https://jobright.ai/jobs/info/698671d70f6f7e7a2ce16bdd?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Feb 06 |
 | **[Baker Tilly Canada](https://www.bakertilly.ca)** | **[Administrative Co-Op](https://jobright.ai/jobs/info/698690198da7a612046162c1?utm_campaign=1050&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Feb 06 |
 | **[Hilcorp](http://www.hilcorp.com)** | **[I-26074 - Land Owner Relations Part-Time Intern](https://jobright.ai/jobs/info/69866ac48da7a61204612ca1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 06 |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Supply Chain Transformation Intern (Summer 2026)](https://jobright.ai/jobs/info/69866a778ca8121a3a68ae64?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Feb 06 |
+| **[Panasonic North America](https://homes.panasonic.com/)** | **[Supply Chain Transformation Intern (Summer 2026)](https://jobright.ai/jobs/info/69866a778ca8121a3a68ae64?utm_campaign=1050&utm_source=git)** | Newark, NJ | On Site | Feb 06 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern, Project Administration](https://jobright.ai/jobs/info/6986941e8ca8121a3a68e33d?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 06 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Program Manager (Tempe,AZ)](https://jobright.ai/jobs/info/698668e98da7a612046128c4?utm_campaign=1050&utm_source=git)** | Tempe, AZ | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

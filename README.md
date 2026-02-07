@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics](https://www.gd.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/698799600f6f7e7a2ce2d613?utm_campaign=1050&utm_source=git)** | USA-AZ-Scottsdale | On Site | Feb 07 |
+| ↳ | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/698797558ca8121a3a6a1cc0?utm_campaign=1050&utm_source=git)** | AZ-Scottsdale, UNAVAILABLE, USA | On Site | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/698794398da7a6120462a312?utm_campaign=1050&utm_source=git)** | Redding, CA | On Site | Feb 07 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/698793950f6f7e7a2ce2d091?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Feb 07 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Feb 07 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Supply Chain Master's Intern](https://jobright.ai/jobs/info/698780368da7a612046299c4?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
 | ↳ | **[Pharmacy Operations Master's Intern](https://jobright.ai/jobs/info/698780058da7a612046299b0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 07 |
 | ↳ | **[Equipment Leasing Bachelor's Intern](https://jobright.ai/jobs/info/69877fb58da7a612046299a0?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
+| **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/69879c528da7a6120462aa7c?utm_campaign=1050&utm_source=git)** | New Berlin, Wisconsin, United States of America | On Site | Feb 07 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Operations Intern](https://jobright.ai/jobs/info/69877e000f6f7e7a2ce2c4c6?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Feb 07 |
 | **[Rescue Cooling Rentals](https://rescuecooling.com)** | **[Summer Operations Intern](https://jobright.ai/jobs/info/698775430f6f7e7a2ce2bc10?utm_campaign=1050&utm_source=git)** | DFW Metroplex | On Site | Feb 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696ab3abdb26b618950df090?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | Feb 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Project Management Intern](https://jobright.ai/jobs/info/6986b9c70f6f7e7a2ce1d455?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Feb 06 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/696b1014350cf43803125300?utm_campaign=1050&utm_source=git)** | Triangle Area | Hybrid | Feb 06 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6986b9660f6f7e7a2ce1d3ec?utm_campaign=1050&utm_source=git)** | Antioch, IL | On Site | Feb 06 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6986b92f0f6f7e7a2ce1d3a7?utm_campaign=1050&utm_source=git)** | Celina, OH | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.D. Etnyre & Co.](https://www.etnyre.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698901b68da7a6120463fca1?utm_campaign=1050&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Feb 08 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fb330f6f7e7a2ce41352?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fb2d8ca8121a3a6b6526?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fb1d8da7a6120463f0c3?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fafa8ca8121a3a6b6517?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988faf08ca8121a3a6b6515?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fad70f6f7e7a2ce412f2?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fad18ca8121a3a6b650d?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Operations Internship](https://jobright.ai/jobs/info/6988f1f68da7a6120463e989?utm_campaign=1050&utm_source=git)** | Concord, NH | Hybrid | Feb 08 |
 | **[The Miami Football Club](https://www.miamifc.com/)** | **[Equipment Manager Intern](https://jobright.ai/jobs/info/6988eeae8da7a6120463e103?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Feb 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6988ee9c0f6f7e7a2ce407d0?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Feb 08 |
@@ -139,7 +147,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Operation Management Intern- Supply Chain](https://jobright.ai/jobs/info/698831598ca8121a3a6abe25?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880dcb8da7a61204631780?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 07 |
 | **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/6987f8938da7a6120462f969?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 07 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Operations Business Intern - R10222107](https://jobright.ai/jobs/info/6987ac498da7a6120462c3ef?utm_campaign=1050&utm_source=git)** | Palmdale, CA | On Site | Feb 07 |
 | ↳ | **[2026 Operations Business Intern - R10222107-2](https://jobright.ai/jobs/info/6987abe18da7a6120462c2cf?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Feb 07 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6987a7fe8ca8121a3a6a28cb?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/698797558ca8121a3a6a1cc0?utm_campaign=1050&utm_source=git)** | AZ-Scottsdale, UNAVAILABLE, USA | On Site | Feb 07 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/698794398da7a6120462a312?utm_campaign=1050&utm_source=git)** | Redding, CA | On Site | Feb 07 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/698793950f6f7e7a2ce2d091?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Feb 07 |
-| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/69161feb9c388539cbdf7f86?utm_campaign=1050&utm_source=git)** | St Marys, WV | On Site | Feb 07 |
-| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Fort Worth](https://jobright.ai/jobs/info/698787910f6f7e7a2ce2ca81?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 07 |
-| ↳ | **[2026 Summer Operations Internship- Greensboro](https://jobright.ai/jobs/info/6987876e0f6f7e7a2ce2ca66?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
-| ↳ | **[2026 Summer Operations Internship- Raleigh](https://jobright.ai/jobs/info/698786d00f6f7e7a2ce2c9dd?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Feb 07 |
-| ↳ | **[2026 Summer Operations Internship- S Ft Worth](https://jobright.ai/jobs/info/698785f80f6f7e7a2ce2c937?utm_campaign=1050&utm_source=git)** | Alvarado, TX | On Site | Feb 07 |
-| ↳ | **[2026 Summer Operations Internship- Charlotte](https://jobright.ai/jobs/info/698784858ca8121a3a6a1080?utm_campaign=1050&utm_source=git)** | Charlotte Metro | On Site | Feb 07 |
-| ↳ | **[2026 Summer Operations Internship- South Dallas](https://jobright.ai/jobs/info/698784258ca8121a3a6a1038?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

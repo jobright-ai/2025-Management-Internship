@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698710358ca8121a3a699cba?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870ff98da7a61204622544?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870fb18ca8121a3a699b9b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |

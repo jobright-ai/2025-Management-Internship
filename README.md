@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/6987f8938da7a6120462f969?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 07 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Operations Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e81f8ca8121a3a6a50af?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 07 |
 | ↳ | **[Supply Chain Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7fc8ca8121a3a6a5093?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
 | ↳ | **[Project Management Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e6c50f6f7e7a2ce30820?utm_campaign=1050&utm_source=git)** | Portland, OR | Remote | Feb 07 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[SFARI Administrative Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae70d5fc86241853a1d70?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/69873a210f6f7e7a2ce27e3c?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Feb 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f628ca8121a3a699aea?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Business Strategy Specialist Intern MBA - Summer 2026](https://jobright.ai/jobs/info/6986d1168ca8121a3a695129?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 06 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Summer Business Operations Intern](https://jobright.ai/jobs/info/696ad645db26b618950e2b93?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
 | **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696ab3abdb26b618950df090?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | Feb 06 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 06 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Project Management Intern](https://jobright.ai/jobs/info/6986b9c70f6f7e7a2ce1d455?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

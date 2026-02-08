@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/6988a97d8da7a6120463b78a?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Feb 08 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Project Management (Technology Accelerators)](https://jobright.ai/jobs/info/6918883bbcdbf3560c9d28bd?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 08 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/68c4aba4fce86561b928833a?utm_campaign=1050&utm_source=git)** | Alpharetta, GA | On Site | Feb 08 |
+| **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
+| **[Thermagia Engineering](thermagiaengineering.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/69889eed8da7a6120463b687?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 08 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Feb 08 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/696ef2d70f4e0f657ea35235?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Feb 08 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Operations Intern](https://jobright.ai/jobs/info/69888c790f6f7e7a2ce3d26d?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Feb 08 |
@@ -113,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Operation Intern- Supply Chain](https://jobright.ai/jobs/info/6988330b0f6f7e7a2ce376c7?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
 | ↳ | **[Summer 2026 Operation Management Intern- Supply Chain](https://jobright.ai/jobs/info/698831598ca8121a3a6abe25?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880dcb8da7a61204631780?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 07 |
-| **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/698808e80f6f7e7a2ce33caa?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 07 |
 | **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/6987f8938da7a6120462f969?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 07 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Operations Business Intern - R10222107](https://jobright.ai/jobs/info/6987ac498da7a6120462c3ef?utm_campaign=1050&utm_source=git)** | Palmdale, CA | On Site | Feb 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Project Manager Intern, CGI (February to May)](https://jobright.ai/jobs/info/696b4820db26b618950ecbb0?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Feb 07 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cf47e5dbd9fb154ede5f3c?utm_campaign=1050&utm_source=git)** | Gainesville, GA | On Site | Feb 07 |
 | ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ced0d4fb49c96ca6ea3bb6?utm_campaign=1050&utm_source=git)** | Guntersville, AL | On Site | Feb 07 |
-| **[BioSpace](http://www.biospace.com/)** | **[Project Management Internship - Supply Chain Focus](https://jobright.ai/jobs/info/6987681c0f6f7e7a2ce2a64c?utm_campaign=1050&utm_source=git)** | West Lebanon, NH | On Site | Feb 07 |
-| **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/696b03a55fc86241853a4d43?utm_campaign=1050&utm_source=git)** | Evanston, IL | Hybrid | Feb 07 |
-| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/698763568ca8121a3a69eddd?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 07 |
-| **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Shepherdsville, KY](https://jobright.ai/jobs/info/6987623d8ca8121a3a69ed47?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

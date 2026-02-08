@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Operations Intern (Vinyl)](https://jobright.ai/jobs/info/6988e68e8ca8121a3a6b4a65?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Feb 08 |
+| ↳ | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/6988e6758da7a6120463dbb9?utm_campaign=1050&utm_source=git)** | Galloway, NJ | On Site | Feb 08 |
+| **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/6988e66e8da7a6120463dbab?utm_campaign=1050&utm_source=git)** | Chowchilla, CA | On Site | Feb 08 |
+| **[City of Irving](https://www.cityofirving.org/2623/Family-Advocacy-Center)** | **[Graduate Intern (Part-Time)](https://jobright.ai/jobs/info/6988d8d00f6f7e7a2ce3fd28?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 08 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/697046ff51f7264771827b38?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Feb 08 |
 | **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Feb 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/698488c30f6f7e7a2cdef295?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Dallas](https://jobright.ai/jobs/info/698783a58da7a61204629b8a?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Project Management Bachelor's Intern](https://jobright.ai/jobs/info/6987a5088ca8121a3a6a272e?utm_campaign=1050&utm_source=git)** | Portland, OR | Remote | Feb 07 |
-| **[Overlake Medical Center & Clinics](https://www.overlakehospital.org/)** | **[MHA Healthcare Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698588760f6f7e7a2ce06105?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Supply Chain Master's Intern](https://jobright.ai/jobs/info/698780368da7a612046299c4?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
-| ↳ | **[Pharmacy Operations Master's Intern](https://jobright.ai/jobs/info/698780058da7a612046299b0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 07 |
-| ↳ | **[Equipment Leasing Bachelor's Intern](https://jobright.ai/jobs/info/69877fb58da7a612046299a0?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

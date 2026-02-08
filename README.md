@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Operations Internship](https://jobright.ai/jobs/info/6988f1f68da7a6120463e989?utm_campaign=1050&utm_source=git)** | Concord, NH | Hybrid | Feb 08 |
+| **[The Miami Football Club](https://www.miamifc.com/)** | **[Equipment Manager Intern](https://jobright.ai/jobs/info/6988eeae8da7a6120463e103?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Feb 08 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6988ee9c0f6f7e7a2ce407d0?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Feb 08 |
+| **[Metropolitan District Commission](https://themdc.org)** | **[College Intern - CAO Office](https://jobright.ai/jobs/info/6988ee868ca8121a3a6b4f53?utm_campaign=1050&utm_source=git)** | Hartford, CT | On Site | Feb 08 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Operations Intern (Vinyl)](https://jobright.ai/jobs/info/6988e68e8ca8121a3a6b4a65?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Feb 08 |
 | ↳ | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/6988e6758da7a6120463dbb9?utm_campaign=1050&utm_source=git)** | Galloway, NJ | On Site | Feb 08 |
 | **[Oldcastle Infrastructure](https://www.oldcastleprecast.com)** | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/6988e66e8da7a6120463dbab?utm_campaign=1050&utm_source=git)** | Chowchilla, CA | On Site | Feb 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Operations Internship- S Ft Worth](https://jobright.ai/jobs/info/698785f80f6f7e7a2ce2c937?utm_campaign=1050&utm_source=git)** | Alvarado, TX | On Site | Feb 07 |
 | ↳ | **[2026 Summer Operations Internship- Charlotte](https://jobright.ai/jobs/info/698784858ca8121a3a6a1080?utm_campaign=1050&utm_source=git)** | Charlotte Metro | On Site | Feb 07 |
 | ↳ | **[2026 Summer Operations Internship- South Dallas](https://jobright.ai/jobs/info/698784258ca8121a3a6a1038?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
-| ↳ | **[2026 Summer Operations Internship- Denver](https://jobright.ai/jobs/info/6987841d8da7a61204629b9c?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Business Affairs Intern, Summer 2026](https://jobright.ai/jobs/info/698488c30f6f7e7a2cdef295?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 07 |
-| **[Murphy-Hoffman Company (MHC Kenworth)](https://mhc.com)** | **[2026 Summer Operations Internship- Dallas](https://jobright.ai/jobs/info/698783a58da7a61204629b8a?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
-| **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Project Management Bachelor's Intern](https://jobright.ai/jobs/info/6987a5088ca8121a3a6a272e?utm_campaign=1050&utm_source=git)** | Portland, OR | Remote | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

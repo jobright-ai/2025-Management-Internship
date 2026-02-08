@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyatt](http://www.hyatt.com/)** | **[Spring 2026 - College Intern - Bonita Springs, FL (Food & Beverage and Housekeeping)](https://jobright.ai/jobs/info/696cc2155fc86241853bdc8b?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Feb 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/6984976f0f6f7e7a2cdf0b1d?utm_campaign=1050&utm_source=git)** | Memphis, TN | Hybrid | Feb 08 |
 | **[Pursuit](http://www.pursuit.org)** | **[Strategy and Operations Associate (Contract/Temp/MBA Internship)](https://jobright.ai/jobs/info/695dafc4f1f8465b79f3f879?utm_campaign=1050&utm_source=git)** | New York City | Hybrid | Feb 08 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69316e0ffa28370be26b9d3c?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Feb 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6978424c39f7f96cc6d095f3?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/693371dda0dde7020e2ee169?utm_campaign=1050&utm_source=git)** | Rochester, MN | Hybrid | Feb 07 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Program Activation](https://jobright.ai/jobs/info/69337038764507023d1b5a4e?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
 | ↳ | **[Intern, Shore Excursion Management](https://jobright.ai/jobs/info/69336c74a0dde7020e2edd22?utm_campaign=1050&utm_source=git)** | Miami, FL | Hybrid | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6986c57f8ca8121a3a69370b?utm_campaign=1050&utm_source=git)** | Tucson, AZ | Hybrid | Feb 07 |
-| ↳ | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/6967ed5cf25a380066964482?utm_campaign=1050&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

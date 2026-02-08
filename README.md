@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Feb 08 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/696ef2d70f4e0f657ea35235?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Feb 08 |
 | **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Operations Intern](https://jobright.ai/jobs/info/69888c790f6f7e7a2ce3d26d?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Feb 08 |
 | **[Clarios](https://www.clarios.com/)** | **[Logistics Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbea0a93c49825ab10742f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/696b03a55fc86241853a4d43?utm_campaign=1050&utm_source=git)** | Evanston, IL | Hybrid | Feb 07 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/698763568ca8121a3a69eddd?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 07 |
 | **[McKesson](http://www.mckesson.com)** | **[Operations Intern - Summer 2026 - Shepherdsville, KY](https://jobright.ai/jobs/info/6987623d8ca8121a3a69ed47?utm_campaign=1050&utm_source=git)** | Shepherdsville, KY | On Site | Feb 07 |
-| **[IBM](http://www.ibm.com)** | **[Supply Chain Management Professional Intern 2026](https://jobright.ai/jobs/info/69335ea8764507023d1b4e0c?utm_campaign=1050&utm_source=git)** | Hopewell Junction, NY | Hybrid | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

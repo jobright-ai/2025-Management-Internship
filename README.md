@@ -57,7 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698845258ca8121a3a6ad63f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698850360f6f7e7a2ce39111?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69884fe78da7a612046366fc?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69884f8e0f6f7e7a2ce390ec?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884f898da7a612046366e7?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 08 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69884d3b8ca8121a3a6ad938?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884d118ca8121a3a6ad910?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69884cdc8ca8121a3a6ad8fc?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Feb 08 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69884cd78ca8121a3a6ad8fb?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884cd68ca8121a3a6ad8f9?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69884c5c8da7a61204636688?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884c5a8da7a61204636685?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 08 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69884c3c8da7a6120463666b?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884c328da7a61204636665?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884c258da7a6120463665e?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884c200f6f7e7a2ce39074?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 08 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69884c168da7a61204636656?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884c058da7a61204636653?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884be18da7a61204636646?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884be08da7a61204636645?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884bd80f6f7e7a2ce3905b?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884bca0f6f7e7a2ce39053?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698845258ca8121a3a6ad63f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698845048ca8121a3a6ad613?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 07 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Operation Intern- Supply Chain](https://jobright.ai/jobs/info/6988330b0f6f7e7a2ce376c7?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
@@ -136,25 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Nashville)](https://jobright.ai/jobs/info/69880e7b8ca8121a3a6a87d7?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Fall River/Seekonk, MA](https://jobright.ai/jobs/info/69873d868da7a612046254f6?utm_campaign=1050&utm_source=git)** | Fall River, MA, US | On Site | Feb 07 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Fall 2026)](https://jobright.ai/jobs/info/68defbb944d32141e0c048f7?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Feb 07 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - Supply Chain - Summer 2026](https://jobright.ai/jobs/info/6959d95b9f1b381eb272857d?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 07 |
-| **[Harris](https://www.harriscompany.com/)** | **[Construction Project Manager Intern](https://jobright.ai/jobs/info/68cb9a089e3a822f5d248c82?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 07 |
-| **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - January 2026](https://jobright.ai/jobs/info/69334e09764507023d1b3eff?utm_campaign=1050&utm_source=git)** | Findlay, OH | On Site | Feb 07 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Project Coordinator Intern (Summer 2026)](https://jobright.ai/jobs/info/68c027df702aa35207aaaf87?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Feb 07 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Supply Chain](https://jobright.ai/jobs/info/69339c0ca0dde7020e2ef9ac?utm_campaign=1050&utm_source=git)** | Lexington, KY | On Site | Feb 07 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Facilities Management (Summer 2026)](https://jobright.ai/jobs/info/69338c20764507023d1b6b78?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 07 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Quality Administrative Assistant Intern](https://jobright.ai/jobs/info/6916707d286ccf0a15135eeb?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 07 |
-| **[Simons Foundation](https://www.simonsfoundation.org)** | **[SFARI Administrative Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae70d5fc86241853a1d70?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 07 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/69873a210f6f7e7a2ce27e3c?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Feb 07 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f628ca8121a3a699aea?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f3a0f6f7e7a2ce250d7?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870ed00f6f7e7a2ce24fe9?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698703478da7a61204621273?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
-| ↳ | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698702f28da7a6120462121e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
-| **[HNTB](http://www.hntb.com/)** | **[Transporation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6986f0e08ca8121a3a697895?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 06 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/698836a00f6f7e7a2ce37a6c?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

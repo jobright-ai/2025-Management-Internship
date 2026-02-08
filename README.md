@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  R&D Strategy & Operations](https://jobright.ai/jobs/info/6988b53c8da7a6120463b92c?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
+| **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Feb 08 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6939124eac80bb5492bbb101?utm_campaign=1050&utm_source=git)** | Sanford, NC | On Site | Feb 08 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Greater Portland](https://jobright.ai/jobs/info/68c25a584d652f044775fb85?utm_campaign=1050&utm_source=git)** | Portland, ME | On Site | Feb 08 |
+| ↳ | **[Summer 2026 Management Intern Plano](https://jobright.ai/jobs/info/6933bb0ef131d96e48466830?utm_campaign=1050&utm_source=git)** | Plano, TX | On Site | Feb 08 |
+| **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Development Operations](https://jobright.ai/jobs/info/6988b94f8da7a6120463b996?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 08 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68ce6ba2846f0b04af6799fa?utm_campaign=1050&utm_source=git)** | Lufkin, TX | On Site | Feb 08 |
+| ↳ | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688adeac9f961617fe21ebf7?utm_campaign=1050&utm_source=git)** | Nacogdoches, TX | On Site | Feb 08 |
+| **[Clarkson Construction Company](https://www.clarksonconstruction.com)** | **[Summer Internship - Project Management (Structures)](https://jobright.ai/jobs/info/68ccd258b274cd205ab4fb6e?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Feb 08 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/6939054a610de506401c46a7?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 08 |
 | ↳ | **[2026 JBS Operations Summer Internship](https://jobright.ai/jobs/info/688ad632aab47a17f670bb27?utm_campaign=1050&utm_source=git)** | Cactus, TX | On Site | Feb 08 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/6988a97d8da7a6120463b78a?utm_campaign=1050&utm_source=git)** | Beloit, WI | On Site | Feb 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Operations Master's Intern](https://jobright.ai/jobs/info/698780058da7a612046299b0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 07 |
 | ↳ | **[Equipment Leasing Bachelor's Intern](https://jobright.ai/jobs/info/69877fb58da7a612046299a0?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/69879c528da7a6120462aa7c?utm_campaign=1050&utm_source=git)** | New Berlin, Wisconsin, United States of America | On Site | Feb 07 |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Operations Intern](https://jobright.ai/jobs/info/69877e000f6f7e7a2ce2c4c6?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Feb 07 |
-| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68bfe4478e65e77df55be263?utm_campaign=1050&utm_source=git)** | Yountville, CA | On Site | Feb 07 |
-| **[Rescue Cooling Rentals](https://rescuecooling.com)** | **[Summer Operations Intern](https://jobright.ai/jobs/info/698775430f6f7e7a2ce2bc10?utm_campaign=1050&utm_source=git)** | DFW Metroplex | On Site | Feb 07 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/688ad94b09808a6103e51b01?utm_campaign=1050&utm_source=git)** | Russellville, AL | On Site | Feb 07 |
-| **[AXA XL](https://axaxl.com)** | **[Underwriting Operations - Wholesale Intern](https://jobright.ai/jobs/info/696afe05db26b618950e732b?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6973111b206da320f49d1d87?utm_campaign=1050&utm_source=git)** | Arcadia, WI | On Site | Feb 07 |
-| **[Gast](http://www.gastmfg.com/)** | **[Sourcing Intern](https://jobright.ai/jobs/info/69165dd39c388539cbdfa5df?utm_campaign=1050&utm_source=git)** | Benton Harbor, MI | On Site | Feb 07 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/68cc9290128dc347fd926b70?utm_campaign=1050&utm_source=git)** | Sumter, SC | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

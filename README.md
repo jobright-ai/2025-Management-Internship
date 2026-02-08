@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/697046ff51f7264771827b38?utm_campaign=1050&utm_source=git)** | Grand Prairie, TX | On Site | Feb 08 |
 | **[PACCAR](http://www.paccar.com/)** | **[Construction Project Management - Summer Internship 2026](https://jobright.ai/jobs/info/69188bf8bcdbf3560c9d2a47?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Program Management Intern Summer 2026](https://jobright.ai/jobs/info/6917a4a615b4156367179eb2?utm_campaign=1050&utm_source=git)** | Woodridge, IL | On Site | Feb 08 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[2026 Pilgrim's Operations Summer Internship](https://jobright.ai/jobs/info/6939124eac80bb5492bbb101?utm_campaign=1050&utm_source=git)** | Sanford, NC | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Supply Chain Master's Intern](https://jobright.ai/jobs/info/698780368da7a612046299c4?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
 | ↳ | **[Pharmacy Operations Master's Intern](https://jobright.ai/jobs/info/698780058da7a612046299b0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 07 |
 | ↳ | **[Equipment Leasing Bachelor's Intern](https://jobright.ai/jobs/info/69877fb58da7a612046299a0?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
-| **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/69879c528da7a6120462aa7c?utm_campaign=1050&utm_source=git)** | New Berlin, Wisconsin, United States of America | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

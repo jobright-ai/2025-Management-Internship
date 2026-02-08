@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698845258ca8121a3a6ad63f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
+| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698845048ca8121a3a6ad613?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 07 |
+| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Operation Intern- Supply Chain](https://jobright.ai/jobs/info/6988330b0f6f7e7a2ce376c7?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
+| ↳ | **[Summer 2026 Operation Management Intern- Supply Chain](https://jobright.ai/jobs/info/698831598ca8121a3a6abe25?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880dcb8da7a61204631780?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 07 |
 | **[Northeastern State University](http://www.nsuok.edu)** | **[N99827 Administrative Assistant](https://jobright.ai/jobs/info/698808e80f6f7e7a2ce33caa?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 07 |
 | **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
@@ -141,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[SFARI Administrative Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae70d5fc86241853a1d70?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/69873a210f6f7e7a2ce27e3c?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Feb 07 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f628ca8121a3a699aea?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698703478da7a61204621273?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | ↳ | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698702f28da7a6120462121e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[HNTB](http://www.hntb.com/)** | **[Transporation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6986f0e08ca8121a3a697895?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 06 |
-| **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Coordonnateur.trice administratif.ive cuisine, Stage (H/F/D)](https://jobright.ai/jobs/info/696aabfd5fc862418539a80f?utm_campaign=1050&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Feb 06 |
-| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Operational Excellence / Operations](https://jobright.ai/jobs/info/6986d1ae0f6f7e7a2ce20514?utm_campaign=1050&utm_source=git)** | Rochester, Michigan | On Site | Feb 06 |
-| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Infrastructure Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1a10f6f7e7a2ce20500?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Business Strategy Specialist Intern MBA - Summer 2026](https://jobright.ai/jobs/info/6986d1168ca8121a3a695129?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 06 |
-| **[StandardAero](http://www.standardaero.com/)** | **[Summer Business Operations Intern](https://jobright.ai/jobs/info/696ad645db26b618950e2b93?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
-| **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696ab3abdb26b618950df090?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | Feb 06 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Production Management Intern - Stephenville, TX - Summer 2026](https://jobright.ai/jobs/info/698836a00f6f7e7a2ce37a6c?utm_campaign=1050&utm_source=git)** | Stephenville, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

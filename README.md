@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Pharmacy Operations Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e81f8ca8121a3a6a50af?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 07 |
+| ↳ | **[Supply Chain Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e7fc8ca8121a3a6a5093?utm_campaign=1050&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
+| ↳ | **[Project Management Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e6c50f6f7e7a2ce30820?utm_campaign=1050&utm_source=git)** | Portland, OR | Remote | Feb 07 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Operations Business Intern - R10222107](https://jobright.ai/jobs/info/6987ac498da7a6120462c3ef?utm_campaign=1050&utm_source=git)** | Palmdale, CA | On Site | Feb 07 |
 | ↳ | **[2026 Operations Business Intern - R10222107-2](https://jobright.ai/jobs/info/6987abe18da7a6120462c2cf?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Feb 07 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6987a7fe8ca8121a3a6a28cb?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
@@ -135,26 +138,23 @@ For a complete list, click the following sortable link below:
 | **[Stoneridge](http://www.stoneridge.com)** | **[Quality Administrative Assistant Intern](https://jobright.ai/jobs/info/6916707d286ccf0a15135eeb?utm_campaign=1050&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 07 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[SFARI Administrative Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/696ae70d5fc86241853a1d70?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/69873a210f6f7e7a2ce27e3c?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Feb 07 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698711b70f6f7e7a2ce2569d?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698710e60f6f7e7a2ce254d4?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698710938da7a6120462267f?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/698710358ca8121a3a699cba?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870ff98da7a61204622544?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/6987103b0f6f7e7a2ce2538b?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224d9?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870fb18ca8121a3a699b9b?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
+| ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870fc58da7a612046224da?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f9a0f6f7e7a2ce251f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f858ca8121a3a699b3c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870f720f6f7e7a2ce25180?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f628ca8121a3a699aea?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870f3a0f6f7e7a2ce250d7?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870f1b0f6f7e7a2ce25074?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 07 |
 | ↳ | **[Operations Intern / Co-op - Northeastern University](https://jobright.ai/jobs/info/69870ed00f6f7e7a2ce24fe9?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/69870eb98da7a612046222c2?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 07 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698703478da7a61204621273?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 07 |
 | ↳ | **[2026 COO Global Operations Summer Internship - Early Careers](https://jobright.ai/jobs/info/698702f28da7a6120462121e?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 07 |
 | **[HNTB](http://www.hntb.com/)** | **[Transporation Planning Intern - Summer 2026](https://jobright.ai/jobs/info/6986f0e08ca8121a3a697895?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 06 |
-| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/698710cb8ca8121a3a699df5?utm_campaign=1050&utm_source=git)** | Pico Rivera, CA | On Site | Feb 06 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Coordonnateur.trice administratif.ive cuisine, Stage (H/F/D)](https://jobright.ai/jobs/info/696aabfd5fc862418539a80f?utm_campaign=1050&utm_source=git)** | Mont-Tremblant, Quebec, Canada | On Site | Feb 06 |
+| **[Endo](https://www.linkedin.com/company/11485)** | **[Intern, Operational Excellence / Operations](https://jobright.ai/jobs/info/6986d1ae0f6f7e7a2ce20514?utm_campaign=1050&utm_source=git)** | Rochester, Michigan | On Site | Feb 06 |
+| **[The Children's Museum of Indianapolis](https://www.childrensmuseum.org)** | **[Infrastructure Projects Intern - Summer 2026](https://jobright.ai/jobs/info/6986d1a10f6f7e7a2ce20500?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 06 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Sr. Business Strategy Specialist Intern MBA - Summer 2026](https://jobright.ai/jobs/info/6986d1168ca8121a3a695129?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 06 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Summer Business Operations Intern](https://jobright.ai/jobs/info/696ad645db26b618950e2b93?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 06 |
+| **[MasTec Power Delivery](https://www.mastec.com/expertise/power-delivery/)** | **[DoD Skillbridge Project Manager Internship -Military Affiliated Only](https://jobright.ai/jobs/info/696ab3abdb26b618950df090?utm_campaign=1050&utm_source=git)** | Northlake, TX | On Site | Feb 06 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/696ae2a4350cf43803120a7b?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 06 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Project Management Intern](https://jobright.ai/jobs/info/6986b9c70f6f7e7a2ce1d455?utm_campaign=1050&utm_source=git)** | Lehi, UT | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

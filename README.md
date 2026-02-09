@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a16247434001cc67c324?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 09 |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/6989a09947434001cc67c278?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0838ca8121a3a6be829?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 09 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0830f6f7e7a2ce4a057?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0298ca8121a3a6be7db?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 09 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899fdd0f6f7e7a2ce49fc5?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 09 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899f478ca8121a3a6be706?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 09 |
+| **[Therma](http://www.therma.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69899ede47434001cc67c108?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
+| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/69899bbe47434001cc67c06a?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/698966400f6f7e7a2ce465d1?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Feb 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895f1547434001cc677e71?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895eeb47434001cc677e60?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
@@ -103,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Air Supply Chain Manager Intern](https://jobright.ai/jobs/info/69184a00bcdbf3560c9d114a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Feb 08 |
 | **[Clarios](https://www.clarios.com/)** | **[Logistics Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbea0a93c49825ab10742f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 08 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/698999a30f6f7e7a2ce49d24?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Feb 08 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881b08ca8121a3a6b0211?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 08 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881658ca8121a3a6b0200?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Feb 08 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698880190f6f7e7a2ce3b8e9?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Feb 08 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884be18da7a61204636646?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884be08da7a61204636645?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884bd80f6f7e7a2ce3905b?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884bca0f6f7e7a2ce39053?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698845258ca8121a3a6ad63f?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/698845048ca8121a3a6ad613?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 07 |
-| **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Operation Intern- Supply Chain](https://jobright.ai/jobs/info/6988330b0f6f7e7a2ce376c7?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
-| ↳ | **[Summer 2026 Operation Management Intern- Supply Chain](https://jobright.ai/jobs/info/698831598ca8121a3a6abe25?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 07 |
-| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/698972ab8ca8121a3a6bcd12?utm_campaign=1050&utm_source=git)** | Pico Rivera, CA | On Site | Feb 07 |
-| **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880dcb8da7a61204631780?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 07 |
-| **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
-| **[TSCG](https://www.theshoppingcentergroup.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/69850867348f733a5c3925ce?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

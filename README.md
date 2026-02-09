@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Scrum Master Intern (Summer 2026)](https://jobright.ai/jobs/info/6989307b0f6f7e7a2ce43d5f?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Supply Chain Management Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/69892a358ca8121a3a6b6dc8?utm_campaign=1050&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/697a93c29d60e431a16c255c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | **[E.D. Etnyre & Co.](https://www.etnyre.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698901b68da7a6120463fca1?utm_campaign=1050&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Feb 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6987a7fe8ca8121a3a6a28cb?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
 | **[AIB Network](www.aibtv.com)** | **[Administrative Assistant - Internship](https://jobright.ai/jobs/info/6987a4608da7a6120462b0d7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/6987a43b8ca8121a3a6a2673?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Feb 07 |
-| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Operations & Warehouse Intern](https://jobright.ai/jobs/info/6987a2698da7a6120462b01e?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

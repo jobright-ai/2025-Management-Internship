@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APCO](http://www.apcoworldwide.com)** | **[Business Operations Intern - Summer/Fall '26](https://jobright.ai/jobs/info/6989d42e0f6f7e7a2ce4da6b?utm_campaign=1050&utm_source=git)** | Washington, United States | Hybrid | Feb 09 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c3904db8972cecfeff82?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 09 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c18f47434001cc67f1ac?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Feb 09 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c08d0f6f7e7a2ce4cfbf?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Feb 09 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69782da788e2b47213bc30cb?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a16247434001cc67c324?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 09 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/6989a09947434001cc67c278?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0838ca8121a3a6be829?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 09 |
-| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0830f6f7e7a2ce4a057?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0830f6f7e7a2ce4a057?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0838ca8121a3a6be829?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 09 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0298ca8121a3a6be7db?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 09 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899fdd0f6f7e7a2ce49fc5?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 09 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899f478ca8121a3a6be706?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884c258da7a6120463665e?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884c200f6f7e7a2ce39074?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 08 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69884c168da7a61204636656?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
-| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884c058da7a61204636653?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

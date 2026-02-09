@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6989ef4647434001cc682b4e?utm_campaign=1050&utm_source=git)** | Columbus, OH | On Site | Feb 09 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Norwood / Dedham area](https://jobright.ai/jobs/info/68dff1661852e62f007e5e00?utm_campaign=1050&utm_source=git)** | Norwood, MA | On Site | Feb 09 |
 | **[Shop Online New York](https://www.topofny.com)** | **[Administrative Assistant](https://jobright.ai/jobs/info/6989ee7d0f6f7e7a2ce50822?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 09 |
 | **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Logistics Internship (Summer 2026)](https://jobright.ai/jobs/info/6989ee584db8972cecff36cf?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Feb 09 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69782da788e2b47213bc30cb?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a16247434001cc67c324?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 09 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/6989a09947434001cc67c278?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0830f6f7e7a2ce4a057?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
-| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0838ca8121a3a6be829?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 09 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0838ca8121a3a6be829?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 09 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0830f6f7e7a2ce4a057?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0298ca8121a3a6be7db?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 09 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899fdd0f6f7e7a2ce49fc5?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 09 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899f478ca8121a3a6be706?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 09 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Fall 2026 (Memphis)](https://jobright.ai/jobs/info/6989ecff0f6f7e7a2ce503cd?utm_campaign=1050&utm_source=git)** | Memphis, TN | Hybrid | Feb 08 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Transportation Intern](https://jobright.ai/jobs/info/68fadba43c99cc1d96026e00?utm_campaign=1050&utm_source=git)** | Junction City, KS | On Site | Feb 08 |
 | **[Clarios](https://www.clarios.com/)** | **[Logistics Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/68fbea0a93c49825ab10742f?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 08 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/698999a30f6f7e7a2ce49d24?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Feb 08 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Spring 2026 - College Intern - Bonita Springs, FL (Food & Beverage and Housekeeping)](https://jobright.ai/jobs/info/696cc2155fc86241853bdc8b?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Feb 08 |
 | **[Pursuit](http://www.pursuit.org)** | **[Strategy and Operations Associate (Contract/Temp/MBA Internship)](https://jobright.ai/jobs/info/695dafc4f1f8465b79f3f879?utm_campaign=1050&utm_source=git)** | New York City | Hybrid | Feb 08 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69316e0ffa28370be26b9d3c?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Feb 08 |

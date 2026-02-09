@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/698951f247434001cc677443?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 08 |
+| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/6989519447434001cc67740d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 08 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/696613257a34f53920549f16?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Feb 08 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/69894dac47434001cc676a9f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 08 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - Global Delivery - Alpha Operations Summer Internship 2026](https://jobright.ai/jobs/info/698945a18ca8121a3a6b8f9b?utm_campaign=1050&utm_source=git)** | Berwyn, PA | On Site | Feb 08 |
+| **[Own Gold Asia PTE LTD](http://www.own.gold.sg/)** | **[Production Intern](https://jobright.ai/jobs/info/698944f18da7a612046422aa?utm_campaign=1050&utm_source=git)** | Malden, MA | On Site | Feb 08 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Scrum Master Intern (Summer 2026)](https://jobright.ai/jobs/info/6989307b0f6f7e7a2ce43d5f?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Supply Chain Management Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/69892a358ca8121a3a6b6dc8?utm_campaign=1050&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/697a93c29d60e431a16c255c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880dcb8da7a61204631780?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 07 |
 | **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
 | **[TSCG](https://www.theshoppingcentergroup.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/69850867348f733a5c3925ce?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 07 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Operations Business Intern - R10222107](https://jobright.ai/jobs/info/6987ac498da7a6120462c3ef?utm_campaign=1050&utm_source=git)** | Palmdale, CA | On Site | Feb 07 |
-| ↳ | **[2026 Operations Business Intern - R10222107-2](https://jobright.ai/jobs/info/6987abe18da7a6120462c2cf?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Feb 07 |
-| **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 07 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6987a7fe8ca8121a3a6a28cb?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 07 |
-| **[AIB Network](www.aibtv.com)** | **[Administrative Assistant - Internship](https://jobright.ai/jobs/info/6987a4608da7a6120462b0d7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
-| **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/6987a43b8ca8121a3a6a2673?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

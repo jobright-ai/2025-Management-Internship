@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Supply Chain Management Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/69892a358ca8121a3a6b6dc8?utm_campaign=1050&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/697a93c29d60e431a16c255c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
 | **[E.D. Etnyre & Co.](https://www.etnyre.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698901b68da7a6120463fca1?utm_campaign=1050&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Feb 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fb330f6f7e7a2ce41352?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 08 |
@@ -148,6 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Operation Management Intern- Supply Chain](https://jobright.ai/jobs/info/698831598ca8121a3a6abe25?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880dcb8da7a61204631780?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 07 |
 | **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
+| **[TSCG](https://www.theshoppingcentergroup.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/69850867348f733a5c3925ce?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 07 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Operations Business Intern - R10222107](https://jobright.ai/jobs/info/6987ac498da7a6120462c3ef?utm_campaign=1050&utm_source=git)** | Palmdale, CA | On Site | Feb 07 |
 | ↳ | **[2026 Operations Business Intern - R10222107-2](https://jobright.ai/jobs/info/6987abe18da7a6120462c2cf?utm_campaign=1050&utm_source=git)** | El Segundo, CA | On Site | Feb 07 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Sophomore Leadership Internship](https://jobright.ai/jobs/info/68df26a8fe896042b0b775cd?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AIB Network](www.aibtv.com)** | **[Administrative Assistant - Internship](https://jobright.ai/jobs/info/6987a4608da7a6120462b0d7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | **[ABB](https://global.abb/group/en)** | **[Supply Chain Management Intern - Summer 2026](https://jobright.ai/jobs/info/6987a43b8ca8121a3a6a2673?utm_campaign=1050&utm_source=git)** | New Berlin, WI | On Site | Feb 07 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Operations & Warehouse Intern](https://jobright.ai/jobs/info/6987a2698da7a6120462b01e?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 07 |
-| **[General Dynamics](https://www.gd.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/698799600f6f7e7a2ce2d613?utm_campaign=1050&utm_source=git)** | USA-AZ-Scottsdale | On Site | Feb 07 |
-| ↳ | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/698797558ca8121a3a6a1cc0?utm_campaign=1050&utm_source=git)** | AZ-Scottsdale, UNAVAILABLE, USA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

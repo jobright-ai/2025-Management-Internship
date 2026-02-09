@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c3904db8972cecfeff82?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 09 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c18f47434001cc67f1ac?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Feb 09 |
+| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/6989c08d0f6f7e7a2ce4cfbf?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Feb 09 |
+| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf4fa8dbd9fb154ede645f?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Feb 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69782da788e2b47213bc30cb?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a16247434001cc67c324?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 09 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/6989a09947434001cc67c278?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0838ca8121a3a6be829?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 09 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899f478ca8121a3a6be706?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 09 |
 | **[Therma](http://www.therma.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69899ede47434001cc67c108?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/69899bbe47434001cc67c06a?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/698966400f6f7e7a2ce465d1?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Feb 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895f1547434001cc677e71?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895eeb47434001cc677e60?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895ede0f6f7e7a2ce45df5?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 08 |
@@ -115,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op- Summer 2026 (Memphis)](https://jobright.ai/jobs/info/698999a30f6f7e7a2ce49d24?utm_campaign=1050&utm_source=git)** | Memphis, TN | On Site | Feb 08 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Los Angeles, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881b08ca8121a3a6b0211?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 08 |
 | ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Lakewood, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698881658ca8121a3a6b0200?utm_campaign=1050&utm_source=git)** | Lakewood, CA | On Site | Feb 08 |
-| ↳ | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698880190f6f7e7a2ce3b8e9?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Feb 08 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Spring 2026 - College Intern - Bonita Springs, FL (Food & Beverage and Housekeeping)](https://jobright.ai/jobs/info/696cc2155fc86241853bdc8b?utm_campaign=1050&utm_source=git)** | Bonita Springs, FL | On Site | Feb 08 |
 | **[Pursuit](http://www.pursuit.org)** | **[Strategy and Operations Associate (Contract/Temp/MBA Internship)](https://jobright.ai/jobs/info/695dafc4f1f8465b79f3f879?utm_campaign=1050&utm_source=git)** | New York City | Hybrid | Feb 08 |
 | **[Newport News Shipbuilding, A Division of HII](https://hii.com/)** | **[ADMINISTRATIVE SUPPORT SKILLBRIDGE INTERN (PLANT OPERATIONS](https://jobright.ai/jobs/info/69316e0ffa28370be26b9d3c?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884c200f6f7e7a2ce39074?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 08 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69884c168da7a61204636656?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884c058da7a61204636653?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Kent State University](https://jobright.ai/jobs/info/69884be18da7a61204636646?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 08 |
-| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884be08da7a61204636645?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 08 |
-| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69884bd80f6f7e7a2ce3905b?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

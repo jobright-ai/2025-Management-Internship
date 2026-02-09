@@ -57,10 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3d7547434001cc687234?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Feb 09 |
+| **[Amazon](https://amazon.com)** | **[Technical Program Manager LEO Internship – 2026 (US)](https://jobright.ai/jobs/info/698a3d3d4db8972cecff7c70?utm_campaign=1050&utm_source=git)** | Bellevue, Washington, USA | On Site | Feb 09 |
+| **[Cepheid](http://www.cepheid.com)** | **[Summer Logistics Intern](https://jobright.ai/jobs/info/698a3d350f6f7e7a2ce54e32?utm_campaign=1050&utm_source=git)** | Sunnyvale, CA | On Site | Feb 09 |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3cb247434001cc68716c?utm_campaign=1050&utm_source=git)** | Tallahassee, FL | On Site | Feb 09 |
+| **[Centers for Medicare & Medicaid Services](http://cms.gov/)** | **[Student Intern (Health Insurance)](https://jobright.ai/jobs/info/698a3c9b0f6f7e7a2ce54d9c?utm_campaign=1050&utm_source=git)** | Baltimore County, MD | On Site | Feb 09 |
+| **[Runnings](https://www.runnings.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698a3c540f6f7e7a2ce54d60?utm_campaign=1050&utm_source=git)** | Marshall, MN | On Site | Feb 09 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/698a3c134db8972cecff7b33?utm_campaign=1050&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 09 |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3c0d4db8972cecff7b2a?utm_campaign=1050&utm_source=git)** | Montgomeryville, PA | On Site | Feb 09 |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Facilities Internship](https://jobright.ai/jobs/info/698a3b700f6f7e7a2ce54c67?utm_campaign=1050&utm_source=git)** | Richmond, IN | On Site | Feb 09 |
+| **[PDS Health](http://www.pacificdentalservices.com/)** | **[Project Optimization Intern](https://jobright.ai/jobs/info/698a3b3f0f6f7e7a2ce54c30?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3b3b47434001cc686fc6?utm_campaign=1050&utm_source=git)** | Knoxville, TN | On Site | Feb 09 |
+| ↳ | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3b0047434001cc686f7f?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Feb 09 |
+| **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/698a3adf0f6f7e7a2ce54bca?utm_campaign=1050&utm_source=git)** | Morristown, TN | On Site | Feb 09 |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3ad50f6f7e7a2ce54bbf?utm_campaign=1050&utm_source=git)** | Ohio, United States | On Site | Feb 09 |
+| ↳ | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3ad547434001cc686f50?utm_campaign=1050&utm_source=git)** | Maple Grove, MN | On Site | Feb 09 |
+| ↳ | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3a7247434001cc686ee4?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 09 |
+| ↳ | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a3a5c0f6f7e7a2ce54b2b?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 09 |
+| **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Supply Chain Fulfillment Intern](https://jobright.ai/jobs/info/698a3a3c47434001cc686e9e?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Feb 09 |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a39a247434001cc686dee?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 09 |
+| **[Circle K](http://www.circlek.com)** | **[Real Estate Strategy & Reporting Intern](https://jobright.ai/jobs/info/698a39450f6f7e7a2ce54a05?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
+| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a39140f6f7e7a2ce549d1?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 09 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Seacoast, NH Area](https://jobright.ai/jobs/info/698a37d847434001cc686c63?utm_campaign=1050&utm_source=git)** | Portsmouth, NH, US | On Site | Feb 09 |
 | **[Fifth Third Bank](http://53.com)** | **[Early Insights (ONLY) Summer 2027 INTERN](https://jobright.ai/jobs/info/698a378e4db8972cecff767c?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
 | **[Nature's Touch Frozen Foods](https://www.naturestouchfrozenfoods.com/en)** | **[Logistics Clerk Intern](https://jobright.ai/jobs/info/698a35c24db8972cecff7512?utm_campaign=1050&utm_source=git)** | Montréal | Hybrid | Feb 09 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Operations Intern](https://jobright.ai/jobs/info/698a326d0f6f7e7a2ce545a4?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Methods CE (Summer 2026)](https://jobright.ai/jobs/info/698a303c4db8972cecff7235?utm_campaign=1050&utm_source=git)** | Pointe-Claire, Quebec, Canada | Hybrid | Feb 09 |
 | ↳ | **[Intern, Methods Core (Summer 2026)](https://jobright.ai/jobs/info/698a2f8147434001cc686749?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 09 |
 | **[Hudl](http://www.hudl.com)** | **[Logistics and Supply Chain Intern](https://jobright.ai/jobs/info/698a2e460f6f7e7a2ce5437c?utm_campaign=1050&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 09 |
@@ -137,24 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Culture & Tourism - Summer 2026](https://jobright.ai/jobs/info/6989a09947434001cc67c278?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0838ca8121a3a6be829?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 09 |
 | ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0830f6f7e7a2ce4a057?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 09 |
-| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/6989a0298ca8121a3a6be7db?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 09 |
-| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899fdd0f6f7e7a2ce49fc5?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 09 |
-| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/69899f478ca8121a3a6be706?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 09 |
-| **[Therma](http://www.therma.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69899ede47434001cc67c108?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
-| **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Safety & Risk Mgmt. - Summer 2026](https://jobright.ai/jobs/info/69899bbe47434001cc67c06a?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 09 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895f1547434001cc677e71?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 08 |
-| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895eeb47434001cc677e60?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
-| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895ede0f6f7e7a2ce45df5?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 08 |
-| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/698951f247434001cc677443?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 08 |
-| ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/6989519447434001cc67740d?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 08 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Strategy & Corporate Development Internship](https://jobright.ai/jobs/info/696613257a34f53920549f16?utm_campaign=1050&utm_source=git)** | Overland Park, KS | On Site | Feb 08 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Scrum Master Intern (Summer 2026)](https://jobright.ai/jobs/info/6989307b0f6f7e7a2ce43d5f?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
-| **[Kitty Hawk Kites & Adventures](https://www.kittyhawk.com)** | **[2026 Supply Chain Management Internship (Kill Devil Hills)](https://jobright.ai/jobs/info/69892a358ca8121a3a6b6dc8?utm_campaign=1050&utm_source=git)** | Kill Devil Hills, NC | On Site | Feb 08 |
-| **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/697a93c29d60e431a16c255c?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 08 |
-| **[E.D. Etnyre & Co.](https://www.etnyre.com)** | **[Operations Intern](https://jobright.ai/jobs/info/698901b68da7a6120463fca1?utm_campaign=1050&utm_source=git)** | BearCat  - Wickenburg, AZ 85390 | On Site | Feb 08 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fb330f6f7e7a2ce41352?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fb2d8ca8121a3a6b6526?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fb1d8da7a6120463f0c3?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988fafa8ca8121a3a6b6517?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 08 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/6988faf08ca8121a3a6b6515?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

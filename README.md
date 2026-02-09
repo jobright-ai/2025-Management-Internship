@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Assistant Vice President Internship](https://jobright.ai/jobs/info/698966400f6f7e7a2ce465d1?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | Remote | Feb 08 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895f1547434001cc677e71?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895eeb47434001cc677e60?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 08 |
 | ↳ | **[Operations Intern -  ASC Reno 2026](https://jobright.ai/jobs/info/69895ede0f6f7e7a2ce45df5?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 08 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 07 |
 | **[Smith's Food & Drug Centers](https://www.smithsfoodanddrug.com/)** | **[Summer 2026 Operation Intern- Supply Chain](https://jobright.ai/jobs/info/6988330b0f6f7e7a2ce376c7?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 07 |
 | ↳ | **[Summer 2026 Operation Management Intern- Supply Chain](https://jobright.ai/jobs/info/698831598ca8121a3a6abe25?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 07 |
+| **[City Of Pico Rivera](https://www.pico-rivera.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/698972ab8ca8121a3a6bcd12?utm_campaign=1050&utm_source=git)** | Pico Rivera, CA | On Site | Feb 07 |
 | **[Medfamily Wellcare Center](https://www.linkedin.com/company/107904471)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69880dcb8da7a61204631780?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 07 |
-| **[Madden's on Gull Lake](http://maddens.com)** | **[Hotel Management Internship](https://jobright.ai/jobs/info/6987f9040f6f7e7a2ce3289c?utm_campaign=1050&utm_source=git)** | Brainerd, MN 56401 | On Site | Feb 07 |
-| **[TSCG](https://www.theshoppingcentergroup.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/69850867348f733a5c3925ce?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

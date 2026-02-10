@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Technical Project Management](https://jobright.ai/jobs/info/698aee2a0f6f7e7a2ce6391d?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
+| **[Colorado Department of Revenue](https://dmv.colorado.gov)** | **[Internship Opportunity: Process Improvement and Change Management](https://jobright.ai/jobs/info/698aec404db8972cec005ebb?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Feb 10 |
+| **[Kapor Capital](http://www.kaporcapital.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698aec27c5761b521a9a49e2?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Feb 10 |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Assistant Construction Project Management Intern](https://jobright.ai/jobs/info/698ae7de4db8972cec005b26?utm_campaign=1050&utm_source=git)** | Houston, TX, US | On Site | Feb 10 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Project Management](https://jobright.ai/jobs/info/698ae6394db8972cec0059aa?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
+| **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - Corporate Strategy (MBA)](https://jobright.ai/jobs/info/698ae4e54db8972cec00588a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Feb 09 |
+| **[FUJIFILM Biotechnologies](https://fujifilmbiotechnologies.fujifilm.com/)** | **[Intern, Program Management](https://jobright.ai/jobs/info/698ae3f14db8972cec00579e?utm_campaign=1050&utm_source=git)** | Holly Springs, NC | On Site | Feb 09 |
 | **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/6971c3dc51f7264771843885?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Feb 09 |
-| **[Kapor Capital](http://www.kaporcapital.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698ac8b3c5761b521a9a2e03?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Feb 09 |
 | **[Heartflow](https://www.heartflow.com)** | **[MBA Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/698ac4340f6f7e7a2ce61798?utm_campaign=1050&utm_source=git)** | Rohnert Park, California | On Site | Feb 09 |
 | **[Groma](https://groma.com/)** | **[Property Operations Co-op (Fall 2026)](https://jobright.ai/jobs/info/698ac3ef4db8972cec004656?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Strategy Associate Internship](https://jobright.ai/jobs/info/698abfdb4db8972cec00390a?utm_campaign=1050&utm_source=git)** | USA VA Falls Church | Hybrid | Feb 09 |
@@ -102,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Facilities Office Planner Intern](https://jobright.ai/jobs/info/698a8f590f6f7e7a2ce5c201?utm_campaign=1050&utm_source=git)** | Possible | On Site | Feb 09 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Transportation Support, Emerging Talent Intern](https://jobright.ai/jobs/info/698a8e1fc5761b521a99d229?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Feb 09 |
 | **[Paradigm Max Q LLC](https://paradigmmaxq.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698a8da14db8972cecffe81d?utm_campaign=1050&utm_source=git)** | 50 Tech Parkway ste 201, Stafford, VA, USA | On Site | Feb 09 |
+| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/698aea68c5761b521a9a4836?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
 | **[Capco](http://www.capco.com)** | **[Business & Technology Insurance Intern - Summer 2026](https://jobright.ai/jobs/info/698a8b200f6f7e7a2ce5bd2f?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Masters Intern, Innovation Strategy (4 Months)](https://jobright.ai/jobs/info/698a8acfc5761b521a99cea5?utm_campaign=1050&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Feb 09 |
 | **[Wisconsin Housing and Economic Development Authority (WHEDA)](https://www.wheda.com/)** | **[INTERN-Project Management](https://jobright.ai/jobs/info/698a8ab6c5761b521a99ce97?utm_campaign=1050&utm_source=git)** | Madison, WI, US | Hybrid | Feb 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Greater Springfield Chamber of Commerce](http://www.gscc.org)** | **[Office Associate - DCFS SCR PCD - State Central Register - Springfield - M-F 11:30am-8pm shift](https://jobright.ai/jobs/info/698a784ac5761b521a99b2fc?utm_campaign=1050&utm_source=git)** | Springfield, IL | On Site | Feb 09 |
 | **[Fisk Electric Co.](https://www.fiskcorp.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698a54890f6f7e7a2ce56c25?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 09 |
 | **[Tutor Perini Corporation](http://www.tutorperini.com/)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698a538e0f6f7e7a2ce56a6b?utm_campaign=1050&utm_source=git)** | Houston, TX   | On Site | Feb 09 |
-| **[Custom Truck One Source](https://www.customtruck.com/)** | **[SUPPLY CHAIN INTERN](https://jobright.ai/jobs/info/698a527a47434001cc688748?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Feb 09 |
-| **[Columbia Bank](http://www.columbiabankflorida.com)** | **[Enterprise Project Management Intern](https://jobright.ai/jobs/info/698a52564db8972cecff9165?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Texas at Arlington](https://jobright.ai/jobs/info/698a523447434001cc6886f4?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 09 |
-| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a51d40f6f7e7a2ce566fe?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Feb 09 |
-| **[San Francisco Glens SC](https://www.sfglensacademy.com)** | **[Game Operations Intern](https://jobright.ai/jobs/info/698a514b0f6f7e7a2ce565d1?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
-| **[Cartesian](http://cartesian.systems)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/698a4ff747434001cc688446?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Feb 09 |
-| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a4ee40f6f7e7a2ce560d7?utm_campaign=1050&utm_source=git)** | Palm Springs, CA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

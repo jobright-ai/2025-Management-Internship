@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaspan ULC](https://www.seaspan.com)** | **[Masters Intern, Innovation Strategy (4 Months)](https://jobright.ai/jobs/info/698aad130f6f7e7a2ce5e28a?utm_campaign=1050&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Feb 09 |
+| **[Amazon](https://amazon.com)** | **[Technical Program Manager LEO Internship – 2026 (US)](https://jobright.ai/jobs/info/698aaba00f6f7e7a2ce5e1ce?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 09 |
+| **[ABB](https://global.abb/group/en)** | **[Corporate Supply Chain Intern- Summer 2026](https://jobright.ai/jobs/info/698aa9e24db8972cec00064d?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | Hybrid | Feb 09 |
+| **[True Anomaly](https://www.trueanomaly.space)** | **[Program Manager Intern](https://jobright.ai/jobs/info/698aa89f4db8972cec0004cc?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 09 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/698aa3fb4db8972cecffffda?utm_campaign=1050&utm_source=git)** | Alexandria, LA | On Site | Feb 09 |
 | **[ThredUp](http://www.thredup.com)** | **[DC Operations Intern](https://jobright.ai/jobs/info/698aa3764db8972cecffff60?utm_campaign=1050&utm_source=git)** | Lancaster, TX | On Site | Feb 09 |
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - Corporate Strategy (MBA)](https://jobright.ai/jobs/info/698aa3290f6f7e7a2ce5d874?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, United States | On Site | Feb 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liberty First Credit Union](https://www.libertyfirstcu.com/)** | **[Internship (Operations)](https://jobright.ai/jobs/info/698a4d454db8972cecff8c03?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Feb 09 |
 | **[The Hartford](http://www.thehartford.com)** | **[High School Internship Program, Office of the CTO Intern](https://jobright.ai/jobs/info/698a6b2c4db8972cecffb9ef?utm_campaign=1050&utm_source=git)** | Hartford, CT | Hybrid | Feb 09 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a4bc14db8972cecff8a59?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Feb 09 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - HIT Supply Chain / Materials Management](https://jobright.ai/jobs/info/698a4bae47434001cc68800a?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Feb 09 |
-| **[Gateway Logistics, Inc.](https://gatewaylogisticsinc.com)** | **[Operations and Sales Summer Internship](https://jobright.ai/jobs/info/698a4b5b47434001cc687fcb?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 09 |
-| **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Operational Excellence Intern - Summer 2026](https://jobright.ai/jobs/info/697237ae4ccbf64f8df225dd?utm_campaign=1050&utm_source=git)** | Del Mar, CA | Hybrid | Feb 09 |
-| **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a49d84db8972cecff890e?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

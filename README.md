@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Encore](https://www.encoreglobal.com/)** | **[IT Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/698b6b2c06d9b06224957d87?utm_campaign=1050&utm_source=git)** | Coppell, TX | On Site | Feb 10 |
+| **[Honeywell](http://www.honeywell.com)** | **[Summer 2026 Honeywell Building Automation Strategy and M&A Manager (MBA Intern)](https://jobright.ai/jobs/info/693e357349a7695fbd0473c8?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
+| **[Arvento A](arventoa.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698b5f4706d9b06224956acf?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 10 |
+| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/698b5c93c5761b521a9ad048?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 10 |
+| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/698b556ac5761b521a9ac4f4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 10 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698b54c50f6f7e7a2ce6ae5c?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 10 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[DC Operations Intern / Casa Grande, AZ / Summer 2026](https://jobright.ai/jobs/info/68cd0b14b2a74e1837ed13f8?utm_campaign=1050&utm_source=git)** | Casa Grande, AZ | On Site | Feb 10 |
+| **[Mindgruve](http://www.mindgruve.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/69378382aabec14a727c8d9d?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 10 |
 | **[moomoo](https://www.moomoo.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6894d1fc4ed2ea559ca50bee?utm_campaign=1050&utm_source=git)** | Jersey City, NJ | On Site | Feb 10 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Project Management](https://jobright.ai/jobs/info/6937afa4a0dde7020e30602f?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 10 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698b494a0f6f7e7a2ce69c35?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 10 |
@@ -67,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[TDIndustries, Inc.](https://www.tdindustries.com/)** | **[Construction Project Management Internship - Summer 2026 (Phoenix, AZ)](https://jobright.ai/jobs/info/69373228aabec14a727c4ef1?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 10 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (JD Young program)](https://jobright.ai/jobs/info/698b370fc5761b521a9a9e40?utm_campaign=1050&utm_source=git)** | Edgewater Park, NJ | On Site | Feb 10 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698b362c4db8972cec00b0a4?utm_campaign=1050&utm_source=git)** | Illinois, United States | Remote | Feb 10 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern/Co-Op - Fall 2026 (Nashville)](https://jobright.ai/jobs/info/698ab0400f6f7e7a2ce5e5c5?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 10 |
 | **[JD.COM](http://corporate.jd.com)** | **[Warehouse Operations Internship (Mandarin Speaking) (JD Young Program)](https://jobright.ai/jobs/info/698b2fe20f6f7e7a2ce680bd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | **[Kenan Advantage Group](http://www.thekag.com/)** | **[Dispatch Intern](https://jobright.ai/jobs/info/696ecc55350cf4380315b831?utm_campaign=1050&utm_source=git)** | North Canton, OH | On Site | Feb 10 |
 | ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/696ecd255fc86241853dc25d?utm_campaign=1050&utm_source=git)** | North Canton, OH | On Site | Feb 10 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698a92de0f6f7e7a2ce5c575?utm_campaign=1050&utm_source=git)** | Bismarck, ND | On Site | Feb 09 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Procurement](https://jobright.ai/jobs/info/698a92d20f6f7e7a2ce5c560?utm_campaign=1050&utm_source=git)** | Plano, Texas, United States | On Site | Feb 09 |
 | **[COLSA](http://www.colsa.com)** | **[Business Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698a92b60f6f7e7a2ce5c53d?utm_campaign=1050&utm_source=git)** | Colorado Springs Area | On Site | Feb 09 |
-| **[Rodney Hunt](http://www.rodneyhunt.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/698a8ff40f6f7e7a2ce5c2ac?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 09 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Facilities Office Planner Intern](https://jobright.ai/jobs/info/698a8f590f6f7e7a2ce5c201?utm_campaign=1050&utm_source=git)** | Possible | On Site | Feb 09 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Transportation Support, Emerging Talent Intern](https://jobright.ai/jobs/info/698a8e1fc5761b521a99d229?utm_campaign=1050&utm_source=git)** | Brooklyn, NY | On Site | Feb 09 |
-| **[Paradigm Max Q LLC](https://paradigmmaxq.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698a8da14db8972cecffe81d?utm_campaign=1050&utm_source=git)** | 50 Tech Parkway ste 201, Stafford, VA, USA | On Site | Feb 09 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/698aea68c5761b521a9a4836?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 09 |
-| **[Capco](http://www.capco.com)** | **[Business & Technology Insurance Intern - Summer 2026](https://jobright.ai/jobs/info/698a8b200f6f7e7a2ce5bd2f?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 09 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Masters Intern, Innovation Strategy (4 Months)](https://jobright.ai/jobs/info/698a8acfc5761b521a99cea5?utm_campaign=1050&utm_source=git)** | 2 Pemberton Avenue, North Vancouver, BC, V7P 2R2, CA | On Site | Feb 09 |
-| **[Wisconsin Housing and Economic Development Authority (WHEDA)](https://www.wheda.com/)** | **[INTERN-Project Management](https://jobright.ai/jobs/info/698a8ab6c5761b521a99ce97?utm_campaign=1050&utm_source=git)** | Madison, WI, US | Hybrid | Feb 09 |
-| **[Alberta Investment Management Corporation (AIMCo)](http://www.aimco.ca)** | **[Intern, Client Strategy & Business Planning (12-months)](https://jobright.ai/jobs/info/698a8a284db8972cecffe45a?utm_campaign=1050&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

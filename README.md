@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APTIM](https://www.aptim.com/)** | **[Constructions Management Intern (STRIVE Program)](https://jobright.ai/jobs/info/6971c3dc51f7264771843885?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Feb 09 |
+| **[Kapor Capital](http://www.kaporcapital.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698ac8b3c5761b521a9a2e03?utm_campaign=1050&utm_source=git)** | Oakland, CA | On Site | Feb 09 |
+| **[Heartflow](https://www.heartflow.com)** | **[MBA Summer Intern (Strategic Initiatives)](https://jobright.ai/jobs/info/698ac4340f6f7e7a2ce61798?utm_campaign=1050&utm_source=git)** | Rohnert Park, California | On Site | Feb 09 |
+| **[Groma](https://groma.com/)** | **[Property Operations Co-op (Fall 2026)](https://jobright.ai/jobs/info/698ac3ef4db8972cec004656?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Strategy Associate Internship](https://jobright.ai/jobs/info/698abfdb4db8972cec00390a?utm_campaign=1050&utm_source=git)** | USA VA Falls Church | Hybrid | Feb 09 |
 | **[Bassett Healthcare Network](https://www.bassett.org/)** | **[Administrative Intern](https://jobright.ai/jobs/info/6983de6b348f733a5c375f11?utm_campaign=1050&utm_source=git)** | Cooperstown, NY | On Site | Feb 09 |
 | **[Uber Freight](https://www.uberfreight.com)** | **[Transportation Management Ops Summer Internship 2026](https://jobright.ai/jobs/info/69856a29348f733a5c39cf65?utm_campaign=1050&utm_source=git)** | Exton, PA | On Site | Feb 09 |
@@ -117,10 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Wurth Elektronik](https://www.we-ics.com)** | **[Project Development Intern](https://jobright.ai/jobs/info/698a99c74db8972cecfff538?utm_campaign=1050&utm_source=git)** | Watertown, South Dakota, United States | On Site | Feb 09 |
 | **[Gentex Corporation](http://www.gentex.com)** | **[Commercial Management Intern](https://jobright.ai/jobs/info/698a755f4db8972cecffc7e6?utm_campaign=1050&utm_source=git)** | Zeeland, MI | On Site | Feb 09 |
 | **[COLSA](http://www.colsa.com)** | **[Business Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/698a9bc70f6f7e7a2ce5d0dc?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Feb 09 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Finance Summer Intern - Orlando, FL](https://jobright.ai/jobs/info/698a92084db8972cecffebfd?utm_campaign=1050&utm_source=git)** | Florida | Hybrid | Feb 09 |
-| ↳ | **[Production Operations Finance Summer Intern - Orlando, FL](https://jobright.ai/jobs/info/698a9c360f6f7e7a2ce5d179?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Feb 09 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Production Operations Finance Summer Intern - Orlando, FL](https://jobright.ai/jobs/info/698a9c360f6f7e7a2ce5d179?utm_campaign=1050&utm_source=git)** | Possible | Hybrid | Feb 09 |
+| ↳ | **[Production Operations Finance Summer Intern - Orlando, FL](https://jobright.ai/jobs/info/698a92084db8972cecffebfd?utm_campaign=1050&utm_source=git)** | Florida | Hybrid | Feb 09 |
 | ↳ | **[Facilities Office Planner Intern](https://jobright.ai/jobs/info/698a97ba4db8972cecfff2a8?utm_campaign=1050&utm_source=git)** | Pennsylvania | On Site | Feb 09 |
-| **[BMO](http://www.bmo.com)** | **[Information Coordinator, Corporate Real Estate - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/698a74664db8972cecffc666?utm_campaign=1050&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 09 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Field Operations Intern](https://jobright.ai/jobs/info/698a701a4db8972cecffbfa8?utm_campaign=1050&utm_source=git)** | OT407: TAO - MIAMI, FL 9786 Premier Parkway, Miramar, FL, 33025 USA | On Site | Feb 09 |
 | **[AARP](http://www.aarp.org)** | **[Office of Volunteer Engagement Technology and Operations Intern (Summer Start)](https://jobright.ai/jobs/info/698a8d974db8972cecffe814?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Feb 09 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Project Management_Production Support (Summer 2026)](https://jobright.ai/jobs/info/698a8e230f6f7e7a2ce5c0aa?utm_campaign=1050&utm_source=git)** | Pointe-Claire, Quebec, Canada | Hybrid | Feb 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Glens SC](https://www.sfglensacademy.com)** | **[Game Operations Intern](https://jobright.ai/jobs/info/698a514b0f6f7e7a2ce565d1?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | **[Cartesian](http://cartesian.systems)** | **[MBA Summer Intern](https://jobright.ai/jobs/info/698a4ff747434001cc688446?utm_campaign=1050&utm_source=git)** | Cambridge, MA | On Site | Feb 09 |
 | **[POOLCORP](http://www.poolcorp.com/)** | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a4ee40f6f7e7a2ce560d7?utm_campaign=1050&utm_source=git)** | Palm Springs, CA | On Site | Feb 09 |
-| ↳ | **[Warehouse Operations Management Intern](https://jobright.ai/jobs/info/698a4e834db8972cecff8d37?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Feb 09 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Supply Chain Management Rotational Intern](https://jobright.ai/jobs/info/6987a7fe8ca8121a3a6a28cb?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 09 |
-| **[Telligen](https://www.telligen.com/)** | **[Project Management Internship](https://jobright.ai/jobs/info/698a4dd70f6f7e7a2ce55ec3?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

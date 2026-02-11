@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alamos Gold Inc.](http://www.alamosgold.com/)** | **[Project Planning Intern](https://jobright.ai/jobs/info/698c9cc778b4502f12a31c1d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 11 |
+| **[Leadbay (YC F25)](https://leadbay.ai/)** | **[Chief of Staff - Intern](https://jobright.ai/jobs/info/698c9cba78b4502f12a31c11?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Feb 11 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/68ffef9fe04ac838fb5bd95b?utm_campaign=1050&utm_source=git)** | New Stanton, PA | Hybrid | Feb 11 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/698c9bd178b4502f12a31b11?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 11 |
+| **[Wurth Elektronik](https://www.we-ics.com)** | **[Project Development Intern](https://jobright.ai/jobs/info/698c9b4778b4502f12a31a8d?utm_campaign=1050&utm_source=git)** | Watertown, SD | On Site | Feb 11 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Intern - Senior Project Controls Tech - Aiken, SC](https://jobright.ai/jobs/info/69897b1347434001cc67b1a0?utm_campaign=1050&utm_source=git)** | Aiken, SC | On Site | Feb 11 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Supply Chain Strategy & Excellence (SCSE)](https://jobright.ai/jobs/info/698c95b0f64d441a164e8083?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 11 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e61eaa05c26e7aaf5834?utm_campaign=1050&utm_source=git)** | Carlisle, PA | Hybrid | Feb 11 |
+| ↳ | **[Procurement Systems Intern](https://jobright.ai/jobs/info/6954e5b0aa05c26e7aaf5822?utm_campaign=1050&utm_source=git)** | Scarborough, ME | Hybrid | Feb 11 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Program Office Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/698c9362f64d441a164e7e1d?utm_campaign=1050&utm_source=git)** | Annapolis, MD | On Site | Feb 11 |
+| ↳ | **[Program Office Intern (Summer 2026) (Onsite)](https://jobright.ai/jobs/info/698c8fda0f6f7e7a2ce84720?utm_campaign=1050&utm_source=git)** | Annapolis, MD | On Site | Feb 11 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Intake Services Intern Spring 2026](https://jobright.ai/jobs/info/69696ff41703f05405ab54c0?utm_campaign=1050&utm_source=git)** | Baltimore, MD | Hybrid | Feb 11 |
 | **[Samet Corporation](https://www.sametcorp.com/)** | **[Internship 2026](https://jobright.ai/jobs/info/698c832a0f6f7e7a2ce83941?utm_campaign=1050&utm_source=git)** | Greensboro, NC | On Site | Feb 11 |
 | ↳ | **[Internship 2026](https://jobright.ai/jobs/info/698c80bc78b4502f12a3048e?utm_campaign=1050&utm_source=git)** | North Charleston, SC | On Site | Feb 11 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696fe79e3ed06875134ad1a1?utm_campaign=1050&utm_source=git)** | Emeryville, CA | On Site | Feb 11 |
@@ -71,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Park Operations Project Development Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c7058f64d441a164e63b9?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 11 |
 | ↳ | **[20th Television Office of the President Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c703a78b4502f12a2f870?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 11 |
 | **[OneEnergy](http://oneenergyrenewables.com/)** | **[Project Delivery Intern](https://jobright.ai/jobs/info/698c6f8b78b4502f12a2f78e?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 11 |
+| **[Newmark](https://www.nmrk.com)** | **[Construction Management Intern](https://jobright.ai/jobs/info/69703c3b333b6343a14ca561?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 11 |
 | **[ARCO/Murray](http://arcomurray.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/696fe5393ed06875134aceb1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
 | **[Leo Burnett](https://www.leoburnett.com.au/)** | **[2026 Leo Chicago Summer Internship - Business Leadership](https://jobright.ai/jobs/info/698c5980f64d441a164e4a7a?utm_campaign=1050&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[Pearle Vision](http://www.pearlevision.com)** | **[New York Pearle Vision Store Operations Summer 2026 Intern](https://jobright.ai/jobs/info/698c5650f64d441a164e46e2?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 11 |
@@ -87,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Strategic Account Planning (1st Shift) - Miami FL](https://jobright.ai/jobs/info/698c643d0f6f7e7a2ce81ffc?utm_campaign=1050&utm_source=git)** | 7400 Corporate Center Drive, Suite C, Miami, FL, 33126, US | On Site | Feb 11 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69705266587dfa0bb55dd872?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 11 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 - Intern - RMS HOL Operations Coordinator](https://jobright.ai/jobs/info/69791e1239f7f96cc6d17c12?utm_campaign=1050&utm_source=git)** | Hollister, CA | Hybrid | Feb 11 |
-| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/698c5ae578b4502f12a2e038?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 11 |
 | **[Johns Manville](http://www.jm.com/)** | **[Intern - Project Management](https://jobright.ai/jobs/info/69703acf333b6343a14ca3ef?utm_campaign=1050&utm_source=git)** | Littleton, CO | On Site | Feb 11 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Procurement Analyst Intern, Shockwave](https://jobright.ai/jobs/info/698c39b40f6f7e7a2ce7f091?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
 | **[Texas Parks and Wildlife Department](http://www.tpwd.texas.gov)** | **[TPWD - Intern Clerk I - II - III (SP Region 2 - South Texas, The Valley, and Southern Gulf Coast)](https://jobright.ai/jobs/info/698c69720f6f7e7a2ce82604?utm_campaign=1050&utm_source=git)** | Texas - Statewide (454-STATEWIDE)Multiple Locations | On Site | Feb 11 |
@@ -112,11 +124,11 @@ For a complete list, click the following sortable link below:
 | **[Baldor Specialty Foods, Inc.](https://www.baldorfood.com)** | **[Intern - Procurement](https://jobright.ai/jobs/info/69700edc3ed06875134b0cf9?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Feb 10 |
 | ↳ | **[Intern - Operations Data Analyst](https://jobright.ai/jobs/info/6970115e82817106e9772c8e?utm_campaign=1050&utm_source=git)** | NYC Metro Area | On Site | Feb 10 |
 | **[NYS Office of Information Technology Services](https://its.ny.gov/)** | **[Student Assistant Internship (HESC) NYC, Ref# 10848](https://jobright.ai/jobs/info/69861d228ca8121a3a6842ae?utm_campaign=1050&utm_source=git)** | Albany, NY | Hybrid | Feb 10 |
-| ↳ | **[Student Assistant Internship (HESC) NYC, Ref# 10847](https://jobright.ai/jobs/info/69861eb28da7a6120460c6bc?utm_campaign=1050&utm_source=git)** | Albany, NY | Hybrid | Feb 10 |
 | ↳ | **[Student Assistant Internship (HESC) NYC, Ref# 10849](https://jobright.ai/jobs/info/698613f28da7a6120460bfaa?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
+| ↳ | **[Student Assistant Internship (HESC) NYC, Ref# 10847](https://jobright.ai/jobs/info/69861eb28da7a6120460c6bc?utm_campaign=1050&utm_source=git)** | Albany, NY | Hybrid | Feb 10 |
+| ↳ | **[Student Assistant Internship (HESC) NYC, Ref# 10847](https://jobright.ai/jobs/info/698615850f6f7e7a2ce0f1b6?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | ↳ | **[Student Assistant Internship (HESC) NYC, Ref# 10848](https://jobright.ai/jobs/info/698611530f6f7e7a2ce0eeec?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | ↳ | **[Student Assistant Internship (HESC) NYC, Ref# 10849](https://jobright.ai/jobs/info/698624a38ca8121a3a684922?utm_campaign=1050&utm_source=git)** | Albany, NY | Hybrid | Feb 10 |
-| ↳ | **[Student Assistant Internship (HESC) NYC, Ref# 10847](https://jobright.ai/jobs/info/698615850f6f7e7a2ce0f1b6?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 | **[Henkel](http://www.henkel.com)** | **[Shift Manager Intern – Summer 2026](https://jobright.ai/jobs/info/69817cab49964d25b5e47703?utm_campaign=1050&utm_source=git)** | West Hazleton, PA | On Site | Feb 10 |
 | ↳ | **[Commercial Excellence Intern – Summer 2026](https://jobright.ai/jobs/info/69817a10abff4c399aa07d63?utm_campaign=1050&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 10 |
 | ↳ | **[Procurement Intern – Fall 2026](https://jobright.ai/jobs/info/69816ed37f40342e15da7b06?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Feb 10 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Development Intern (MultiFamily)](https://jobright.ai/jobs/info/698c18a6e4f6572f0e44145a?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 10 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698c1cb20f6f7e7a2ce7b044?utm_campaign=1050&utm_source=git)** | Germantown, WI | On Site | Feb 10 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698bfe5291fdda424d58bd0f?utm_campaign=1050&utm_source=git)** | Greenwood, IN | On Site | Feb 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698bfab7e4f6572f0e43f302?utm_campaign=1050&utm_source=git)** | St Peters, MO | On Site | Feb 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698c066891fdda424d58c566?utm_campaign=1050&utm_source=git)** | Naperville, IL | On Site | Feb 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698c0ede91fdda424d58ce3f?utm_campaign=1050&utm_source=git)** | Quincy, IL | On Site | Feb 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698c119de4f6572f0e440be1?utm_campaign=1050&utm_source=git)** | Oakdale, MN | On Site | Feb 10 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698c1fc50f6f7e7a2ce7b42c?utm_campaign=1050&utm_source=git)** | West Lafayette, IN | On Site | Feb 10 |
-| **[Alstom](https://www.alstom.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/698c1f820f6f7e7a2ce7b3ea?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
-| **[Sound Transit](https://www.soundtransit.org)** | **[Continuous Improvement Intern - Summer 2026](https://jobright.ai/jobs/info/698bef72c5761b521a9b893a?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Software Project Management Internship](https://jobright.ai/jobs/info/696ffb6f82817106e97712e1?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 10 |
-| **[R. R. CASSIDY INC](https://www.rrcassidy.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/697001f182817106e9771ea5?utm_campaign=1050&utm_source=git)** | Texas, United States | On Site | Feb 10 |
-| **[SNA Displays](https://snadisplays.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698c1236e4f6572f0e440c91?utm_campaign=1050&utm_source=git)** | New York, New York, United States | On Site | Feb 10 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[GME Research and Program Management Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/698c19d591fdda424d58dae0?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 10 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Technical Operations & Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/698c05ff0f6f7e7a2ce795e5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

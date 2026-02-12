@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Project Scheduler) (Active Duty Service Members)](https://jobright.ai/jobs/info/697189c751f726477183e51d?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Feb 12 |
+| **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Skillbridge Intern - Strategy & Capture](https://jobright.ai/jobs/info/698de80f0f6f7e7a2ce9f2b4?utm_campaign=1050&utm_source=git)** | Fulton, MD | Hybrid | Feb 12 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696562f3a112b402661338a3?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Feb 12 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/698de5c20f6f7e7a2ce9eff9?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Feb 12 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Feb 12 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Feb 12 |
 | **[Zoox](https://www.zoox.com/)** | **[Supply Chain Intern, Indirect Procurement](https://jobright.ai/jobs/info/693a8c05e50e320634e2d5a1?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Feb 12 |
 | **[MechNova](mechnova.us)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/698dd9c478b4502f12a49a59?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 12 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Supply Chain Management Intern (Rotation)](https://jobright.ai/jobs/info/693a22f348a8ce22990e1dd3?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Feb 12 |
 | **[Veltrana Group](veltranagroup.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698dd29178b4502f12a49532?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 12 |
+| **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e36e983e6768bc552f62?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Feb 12 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Family Services - Summer2026](https://jobright.ai/jobs/info/698db5ea0f6f7e7a2ce9adda?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 12 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Project Management Intern](https://jobright.ai/jobs/info/698db35d78b4502f12a47240?utm_campaign=1050&utm_source=git)** | Albion, IN | On Site | Feb 12 |
 | **[International](https://www.international.com)** | **[IT Project Manager Intern](https://jobright.ai/jobs/info/6971ef03cda45e695358307d?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Feb 12 |
@@ -81,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Facilities Management and Operations Intern](https://jobright.ai/jobs/info/698da78578b4502f12a46158?utm_campaign=1050&utm_source=git)** | Jefferson City, MO | On Site | Feb 12 |
 | **[Republic Finance](http://republicfinance.com/)** | **[Branch Operations Intern](https://jobright.ai/jobs/info/698da7260f6f7e7a2ce9997c?utm_campaign=1050&utm_source=git)** | Bowling Green, KY | On Site | Feb 11 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Airport Operations COLLEGE Internship (6 Month) –Terminal Operations - Denver International Airport](https://jobright.ai/jobs/info/698db05af64d441a164fd9cb?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 11 |
-| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/698da766f64d441a164fcf11?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 11 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/698da660f64d441a164fcdd1?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Feb 11 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698da52af64d441a164fcc46?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Feb 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Quality Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/696ecdfe5fc86241853dc29c?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 11 |
@@ -97,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697153e351f7264771839f44?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Feb 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management (Summer 2026)](https://jobright.ai/jobs/info/696ede825fc86241853dd8e1?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Project Management Office Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69717b4651f726477183d741?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 11 |
-| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698d9c2c0f6f7e7a2ce98ec1?utm_campaign=1050&utm_source=git)** | US-CA-Santa Ana | On Site | Feb 11 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/698d9440f64d441a164fb92a?utm_campaign=1050&utm_source=git)** | Santa Ana, CA, US | On Site | Feb 11 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698d9440f64d441a164fb92a?utm_campaign=1050&utm_source=git)** | Santa Ana, CA, US | On Site | Feb 11 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/698d9c2c0f6f7e7a2ce98ec1?utm_campaign=1050&utm_source=git)** | US-CA-Santa Ana | On Site | Feb 11 |
 | **[Siemens](https://www.siemens.com)** | **[Business Excellence - Process & Program Internship](https://jobright.ai/jobs/info/6971a75951f72647718405eb?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Feb 11 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Administrative (Supply Chain)](https://jobright.ai/jobs/info/698d69fa78b4502f12a41342?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Feb 11 |
 | **[Rosendin](https://www.rosendin.com)** | **[Strategy Associate Intern (MBA)](https://jobright.ai/jobs/info/698d877f78b4502f12a43a5b?utm_campaign=1050&utm_source=git)** | Parkway, CA | On Site | Feb 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ZF Group](https://www.zf.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698d50990f6f7e7a2ce92800?utm_campaign=1050&utm_source=git)** | Miramar, US | On Site | Feb 11 |
 | **[Little Rock Rangers Soccer Club](http://littlerockrangers.com/)** | **[Intern - Equipment Manager](https://jobright.ai/jobs/info/698d4a320f6f7e7a2ce91ed3?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
 | ↳ | **[Intern – Game Day Operations](https://jobright.ai/jobs/info/698d59b078b4502f12a400ee?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698d4ec80f6f7e7a2ce9255e?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | Feb 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698d4c5a0f6f7e7a2ce92202?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Feb 11 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698d4afe0f6f7e7a2ce91ff9?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Feb 11 |
-| **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d696af64d441a164f727b?utm_campaign=1050&utm_source=git)** | Addison, IL | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

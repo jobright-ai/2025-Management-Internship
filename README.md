@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Feb 12 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Feb 12 |
+| **[Zoox](https://www.zoox.com/)** | **[Supply Chain Intern, Indirect Procurement](https://jobright.ai/jobs/info/693a8c05e50e320634e2d5a1?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Feb 12 |
+| **[MechNova](mechnova.us)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/698dd9c478b4502f12a49a59?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 12 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Supply Chain Management Intern (Rotation)](https://jobright.ai/jobs/info/693a22f348a8ce22990e1dd3?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Feb 12 |
 | **[Veltrana Group](veltranagroup.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698dd29178b4502f12a49532?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 12 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Family Services - Summer2026](https://jobright.ai/jobs/info/698db5ea0f6f7e7a2ce9adda?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 12 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Project Management Intern](https://jobright.ai/jobs/info/698db35d78b4502f12a47240?utm_campaign=1050&utm_source=git)** | Albion, IN | On Site | Feb 12 |
@@ -151,10 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698d4ec80f6f7e7a2ce9255e?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | Feb 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698d4c5a0f6f7e7a2ce92202?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Feb 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698d4afe0f6f7e7a2ce91ff9?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Feb 11 |
-| **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d47180f6f7e7a2ce91a85?utm_campaign=1050&utm_source=git)** | Glen Ellyn, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d696af64d441a164f727b?utm_campaign=1050&utm_source=git)** | Addison, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d6697f64d441a164f701c?utm_campaign=1050&utm_source=git)** | Westchester, IL | On Site | Feb 11 |
-| **[Clean Earth](http://www.phoenixsoilllc.com/)** | **[Facility Transportation and Operations Intern](https://jobright.ai/jobs/info/698d2acaf64d441a164f2049?utm_campaign=1050&utm_source=git)** | Carteret, NJ | On Site | Feb 11 |
-| **[PACCAR](http://www.paccar.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/698d4796f64d441a164f4e1b?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 11 |
-| **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d50a70f6f7e7a2ce92818?utm_campaign=1050&utm_source=git)** | La Grange, IL | On Site | Feb 11 |
+| **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d696af64d441a164f727b?utm_campaign=1050&utm_source=git)** | Addison, IL | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

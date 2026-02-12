@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veltrana Group](veltranagroup.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698dd29178b4502f12a49532?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 12 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Family Services - Summer2026](https://jobright.ai/jobs/info/698db5ea0f6f7e7a2ce9adda?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 12 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Project Management Intern](https://jobright.ai/jobs/info/698db35d78b4502f12a47240?utm_campaign=1050&utm_source=git)** | Albion, IN | On Site | Feb 12 |
 | **[International](https://www.international.com)** | **[IT Project Manager Intern](https://jobright.ai/jobs/info/6971ef03cda45e695358307d?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Feb 12 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - One Fire - Summer2026](https://jobright.ai/jobs/info/698db2160f6f7e7a2ce9a933?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 12 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/698da224f64d441a164fc87a?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Feb 12 |
+| ↳ | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/698dc14c0f6f7e7a2ce9bc55?utm_campaign=1050&utm_source=git)** | Panama City, FL | On Site | Feb 12 |
+| ↳ | **[Operations Intern - James Madison University](https://jobright.ai/jobs/info/698dbb1bf64d441a164fea35?utm_campaign=1050&utm_source=git)** | Harrisonburg, VA | On Site | Feb 12 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Executive Office Business Operations High School Intern - Denver International Airport](https://jobright.ai/jobs/info/698d98cf78b4502f12a4524c?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 12 |
+| **[Ontario First Nations Technical Services Corporation](https://www.ofntsc.org/)** | **[Student Administrative Support](https://jobright.ai/jobs/info/698dc7bc78b4502f12a489ea?utm_campaign=1050&utm_source=git)** | Brantford, Ontario, Canada | On Site | Feb 12 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Western Carolina University](https://jobright.ai/jobs/info/698db7b6f64d441a164fe5ac?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Feb 12 |
 | **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Material Planning Intern Summer 2026](https://jobright.ai/jobs/info/69712b9f51f7264771836011?utm_campaign=1050&utm_source=git)** | Columbus, MS | On Site | Feb 12 |
 | **[Canteen North America](http://Canteen.com)** | **[Operations Intern, Canteen / Wood Dale, IL](https://jobright.ai/jobs/info/698da9780f6f7e7a2ce99c66?utm_campaign=1050&utm_source=git)** | Wood Dale, IL | On Site | Feb 12 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/698daa00f64d441a164fd237?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 12 |
@@ -87,12 +92,13 @@ For a complete list, click the following sortable link below:
 | **[KCH Transportation](https://www.kchtrans.com)** | **[Operations Intern](https://jobright.ai/jobs/info/697153e351f7264771839f44?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Feb 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Program Management (Summer 2026)](https://jobright.ai/jobs/info/696ede825fc86241853dd8e1?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Project Management Office Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69717b4651f726477183d741?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 11 |
-| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698d9440f64d441a164fb92a?utm_campaign=1050&utm_source=git)** | Santa Ana, CA, US | On Site | Feb 11 |
-| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/698d9c2c0f6f7e7a2ce98ec1?utm_campaign=1050&utm_source=git)** | US-CA-Santa Ana | On Site | Feb 11 |
+| **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/698d9c2c0f6f7e7a2ce98ec1?utm_campaign=1050&utm_source=git)** | US-CA-Santa Ana | On Site | Feb 11 |
+| ↳ | **[Project Management Intern](https://jobright.ai/jobs/info/698d9440f64d441a164fb92a?utm_campaign=1050&utm_source=git)** | Santa Ana, CA, US | On Site | Feb 11 |
 | **[Siemens](https://www.siemens.com)** | **[Business Excellence - Process & Program Internship](https://jobright.ai/jobs/info/6971a75951f72647718405eb?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Feb 11 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern-Administrative (Supply Chain)](https://jobright.ai/jobs/info/698d69fa78b4502f12a41342?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Feb 11 |
 | **[Rosendin](https://www.rosendin.com)** | **[Strategy Associate Intern (MBA)](https://jobright.ai/jobs/info/698d877f78b4502f12a43a5b?utm_campaign=1050&utm_source=git)** | Parkway, CA | On Site | Feb 11 |
 | **[World Insurance Associates LLC](https://www.worldinsurance.com)** | **[Summer 2026 Real Estate Internship - Iselin, NJ](https://jobright.ai/jobs/info/69716e44587dfa0bb55f0d01?utm_campaign=1050&utm_source=git)** | Iselin, NJ | On Site | Feb 11 |
+| **[Rhode Island Department of Corrections](https://doc.ri.gov/)** | **[SEASONAL SUSTAINABILITY INTERN](https://jobright.ai/jobs/info/698db80078b4502f12a4773d?utm_campaign=1050&utm_source=git)** | Providence | Hybrid | Feb 11 |
 | **[ASML](https://www.asml.com)** | **[Internship - Projects, Lean, Change Management](https://jobright.ai/jobs/info/697126cd587dfa0bb55eaf9d?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Feb 11 |
 | **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Intern - Operations Control](https://jobright.ai/jobs/info/698d41830f6f7e7a2ce911a1?utm_campaign=1050&utm_source=git)** | Owensboro, KY | Hybrid | Feb 11 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Technology Project Management Office Internship](https://jobright.ai/jobs/info/6971978951f726477183f24b?utm_campaign=1050&utm_source=git)** | Reynoldsburg, OH | Remote | Feb 11 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698d4ec80f6f7e7a2ce9255e?utm_campaign=1050&utm_source=git)** | Altoona, IA | On Site | Feb 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698d4c5a0f6f7e7a2ce92202?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Feb 11 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/698d4afe0f6f7e7a2ce91ff9?utm_campaign=1050&utm_source=git)** | Ottumwa, IA | On Site | Feb 11 |
-| **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d696af64d441a164f727b?utm_campaign=1050&utm_source=git)** | Addison, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d47180f6f7e7a2ce91a85?utm_campaign=1050&utm_source=git)** | Glen Ellyn, IL | On Site | Feb 11 |
+| **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d47180f6f7e7a2ce91a85?utm_campaign=1050&utm_source=git)** | Glen Ellyn, IL | On Site | Feb 11 |
+| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d696af64d441a164f727b?utm_campaign=1050&utm_source=git)** | Addison, IL | On Site | Feb 11 |
 | ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d6697f64d441a164f701c?utm_campaign=1050&utm_source=git)** | Westchester, IL | On Site | Feb 11 |
 | **[Clean Earth](http://www.phoenixsoilllc.com/)** | **[Facility Transportation and Operations Intern](https://jobright.ai/jobs/info/698d2acaf64d441a164f2049?utm_campaign=1050&utm_source=git)** | Carteret, NJ | On Site | Feb 11 |
 | **[PACCAR](http://www.paccar.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/698d4796f64d441a164f4e1b?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 11 |
 | **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d50a70f6f7e7a2ce92818?utm_campaign=1050&utm_source=git)** | La Grange, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d494d0f6f7e7a2ce91d94?utm_campaign=1050&utm_source=git)** | Downers Grove, IL | On Site | Feb 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/698d256f78b4502f12a3af31?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Feb 11 |
-| **[Southeastern Pennsylvania Transportation Authority (SEPTA)](http://www.septa.org)** | **[Operations Analyst I (5204) Capital Program Support](https://jobright.ai/jobs/info/698d239c0f6f7e7a2ce8e4a6?utm_campaign=1050&utm_source=git)** | Philadelphia, PA | On Site | Feb 11 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Internship Project Coordinator -US Residents Only!](https://jobright.ai/jobs/info/698d3f5678b4502f12a3d8b1?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 11 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[IM Bus Development, Intern](https://jobright.ai/jobs/info/698d22d578b4502f12a3adb9?utm_campaign=1050&utm_source=git)** | New Brunswick, NJ | On Site | Feb 11 |
-| **[Delaware North](http://www.delawarenorth.com/)** | **[Concessions Internship, MetLife Stadium](https://jobright.ai/jobs/info/698d21d10f6f7e7a2ce8e0ee?utm_campaign=1050&utm_source=git)** | East Rutherford, NJ | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

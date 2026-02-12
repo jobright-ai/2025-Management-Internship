@@ -57,18 +57,32 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grimco, Inc.](http://midwestsign.com)** | **[Supply Chain Internship - Summer 2026](https://jobright.ai/jobs/info/698e104d78b4502f12a4de67?utm_campaign=1050&utm_source=git)** | Sunset Hills, MO | On Site | Feb 12 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - Dallas](https://jobright.ai/jobs/info/697841c688e2b47213bc521b?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 12 |
+| **[Voya Financial](https://www.voya.com/)** | **[Strategy Specialist Intern](https://jobright.ai/jobs/info/698e07a40f6f7e7a2cea1339?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Feb 12 |
+| **[Metro Inc.](https://www.metro.ca/en)** | **[Inventory Manager Intern](https://jobright.ai/jobs/info/698e00cef64d441a16503ac8?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 12 |
+| **[Brixenta](brixenta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698dfeac0f6f7e7a2cea0c3f?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/693bdabc50bbaf76504f4878?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Feb 12 |
+| **[ARCO Murray Construction Company](https://www.massprivatelending.com)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698d355678b4502f12a3cad9?utm_campaign=1050&utm_source=git)** | Fort Myers, FL | On Site | Feb 12 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern – (Project Scheduler) (Active Duty Service Members)](https://jobright.ai/jobs/info/697189c751f726477183e51d?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Feb 12 |
 | **[Collins Aerospace](https://www.collinsaerospace.com)** | **[Skillbridge Intern - Strategy & Capture](https://jobright.ai/jobs/info/698de80f0f6f7e7a2ce9f2b4?utm_campaign=1050&utm_source=git)** | Fulton, MD | Hybrid | Feb 12 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/696562f3a112b402661338a3?utm_campaign=1050&utm_source=git)** | Riverside, CA | On Site | Feb 12 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Intern - DFW Airport](https://jobright.ai/jobs/info/693a425748a8ce22990e4048?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 12 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/698de5c20f6f7e7a2ce9eff9?utm_campaign=1050&utm_source=git)** | Pittsburgh, PA | On Site | Feb 12 |
+| **[Coty](https://www.coty.com/)** | **[Intern MAKEUP EDUCATION ASSISTANT PROJECT MANAGER](https://jobright.ai/jobs/info/698e0e72f64d441a165045fd?utm_campaign=1050&utm_source=git)** | BERTHIER | On Site | Feb 12 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern-Supply Chain](https://jobright.ai/jobs/info/698e0aa4f64d441a1650430d?utm_campaign=1050&utm_source=git)** | Bethlehem, PA | On Site | Feb 12 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/698dfe030f6f7e7a2cea0ba3?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 12 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Demand Planning Intern](https://jobright.ai/jobs/info/68cdc1fae23def7af55bee35?utm_campaign=1050&utm_source=git)** | Waukegan, IL | On Site | Feb 12 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/698e02430f6f7e7a2cea0f25?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | Remote | Feb 12 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Distribution Center Area Manager Intern - Summer 2026](https://jobright.ai/jobs/info/691d28ecbcdbf3560c9edb84?utm_campaign=1050&utm_source=git)** | Ellabell, GA | On Site | Feb 12 |
 | **[Zoox](https://www.zoox.com/)** | **[Supply Chain Intern, Indirect Procurement](https://jobright.ai/jobs/info/693a8c05e50e320634e2d5a1?utm_campaign=1050&utm_source=git)** | Foster City, CA | On Site | Feb 12 |
 | **[MechNova](mechnova.us)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/698dd9c478b4502f12a49a59?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 12 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Supply Chain Management Intern (Rotation)](https://jobright.ai/jobs/info/693a22f348a8ce22990e1dd3?utm_campaign=1050&utm_source=git)** | Greater Houston | Hybrid | Feb 12 |
-| **[Veltrana Group](veltranagroup.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698dd29178b4502f12a49532?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 12 |
+| **[Dynareon](dynareon.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698e029578b4502f12a4cf60?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 12 |
+| **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management Internship - Summer 2026 (Charlotte, NC)](https://jobright.ai/jobs/info/698df49578b4502f12a4c018?utm_campaign=1050&utm_source=git)** | Belmont, NC | On Site | Feb 12 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e36e983e6768bc552f62?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Feb 12 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - Lancaster](https://jobright.ai/jobs/info/698dfd3d78b4502f12a4caa4?utm_campaign=1050&utm_source=git)** | Lancaster, PA, US | On Site | Feb 12 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - Family Services - Summer2026](https://jobright.ai/jobs/info/698db5ea0f6f7e7a2ce9adda?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 12 |
+| **[Western Welding Academy](ApplyToWeld.com)** | **[Housing Office Admin Intern](https://jobright.ai/jobs/info/698dfc90f64d441a165037a2?utm_campaign=1050&utm_source=git)** | Gillette, Wyoming | On Site | Feb 12 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Project Management Intern](https://jobright.ai/jobs/info/698db35d78b4502f12a47240?utm_campaign=1050&utm_source=git)** | Albion, IN | On Site | Feb 12 |
 | **[International](https://www.international.com)** | **[IT Project Manager Intern](https://jobright.ai/jobs/info/6971ef03cda45e695358307d?utm_campaign=1050&utm_source=git)** | Lisle, IL | On Site | Feb 12 |
 | **[Cherokee Nation](https://www.cherokee.org/)** | **[Intern I - One Fire - Summer2026](https://jobright.ai/jobs/info/698db2160f6f7e7a2ce9a933?utm_campaign=1050&utm_source=git)** | Tahlequah, OK | On Site | Feb 12 |
@@ -142,19 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d84fb78b4502f12a4371d?utm_campaign=1050&utm_source=git)** | Bellwood, IL | On Site | Feb 11 |
 | ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d80240f6f7e7a2ce96b2b?utm_campaign=1050&utm_source=git)** | Stone Park, IL | On Site | Feb 11 |
 | ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d945678b4502f12a44b77?utm_campaign=1050&utm_source=git)** | Villa Park, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d89a6f64d441a164fadc3?utm_campaign=1050&utm_source=git)** | La Grange Park, IL | On Site | Feb 11 |
 | ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d9abcf64d441a164fc05a?utm_campaign=1050&utm_source=git)** | Clarendon Hills, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d8efbf64d441a164fb388?utm_campaign=1050&utm_source=git)** | Western Springs, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d826a78b4502f12a433ea?utm_campaign=1050&utm_source=git)** | Westmont, IL | On Site | Feb 11 |
-| **[Olympus Corporation](https://heylink.me/yokubet.id/)** | **[Olympus Intern, Project Management & Process Improvement (Summer 2026)](https://jobright.ai/jobs/info/698d3148f64d441a164f2aae?utm_campaign=1050&utm_source=git)** | Center Valley, PA | Hybrid | Feb 11 |
-| **[Werner](http://wernerelectric.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698d8c45f64d441a164fb0a2?utm_campaign=1050&utm_source=git)** | Berkeley, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d8ba40f6f7e7a2ce9762a?utm_campaign=1050&utm_source=git)** | Elmhurst, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d8ac5f64d441a164faed5?utm_campaign=1050&utm_source=git)** | Lombard, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d9b84f64d441a164fc13d?utm_campaign=1050&utm_source=git)** | Hinsdale, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d9cb5f64d441a164fc293?utm_campaign=1050&utm_source=git)** | Hillside, IL | On Site | Feb 11 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/698d89d3f64d441a164fadeb?utm_campaign=1050&utm_source=git)** | Willowbrook, IL | On Site | Feb 11 |
-| **[Elite Sports Clubs](http://eliteclubs.com)** | **[Grill & Operations Intern (Milwaukee)](https://jobright.ai/jobs/info/698d4ff4f64d441a164f6119?utm_campaign=1050&utm_source=git)** | Glendale, WI | On Site | Feb 11 |
-| **[ZF Group](https://www.zf.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698d50990f6f7e7a2ce92800?utm_campaign=1050&utm_source=git)** | Miramar, US | On Site | Feb 11 |
-| **[Little Rock Rangers Soccer Club](http://littlerockrangers.com/)** | **[Intern - Equipment Manager](https://jobright.ai/jobs/info/698d4a320f6f7e7a2ce91ed3?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
-| ↳ | **[Intern – Game Day Operations](https://jobright.ai/jobs/info/698d59b078b4502f12a400ee?utm_campaign=1050&utm_source=git)** | Little Rock, AR | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

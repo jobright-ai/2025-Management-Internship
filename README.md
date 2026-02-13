@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698f85f86ea51a7610f1e17b?utm_campaign=1050&utm_source=git)** | Carol Stream, Illinois, United States | On Site | Feb 13 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Feb 13 |
+| **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Feb 13 |
+| **[U.S. Army MWR](https://www.armymwr.com/)** | **[OPERATIONS ASSISTANT (DEVELOPMENTAL) NF -01](https://jobright.ai/jobs/info/698f82120f6f7e7a2cebbf55?utm_campaign=1050&utm_source=git)** | Fort Polk, LA | On Site | Feb 13 |
+| **[Freshpet](http://freshpet.com)** | **[Intern - Operational Excellence (Operational Excellence)](https://jobright.ai/jobs/info/698f81310cc8ea15f1da0d28?utm_campaign=1050&utm_source=git)** | Bethlehem, PA, USA | On Site | Feb 13 |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - AZ, UT, NM, TX, OK, NV](https://jobright.ai/jobs/info/69573174f1f8465b79edfc98?utm_campaign=1050&utm_source=git)** | San Marcos, TX | On Site | Feb 13 |
+| **[HDR](http://www.hdrinc.com)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/698f7f320cc8ea15f1da0a25?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Feb 13 |
+| **[Atlas](http://www.atlasvanlines.com)** | **[International Logistics Intern (paid)](https://jobright.ai/jobs/info/698f7d3b6ea51a7610f1d58d?utm_campaign=1050&utm_source=git)** | Evansville, IN, US | On Site | Feb 13 |
+| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Global Quality Strategy and Business Operations Intern (Remote)](https://jobright.ai/jobs/info/698f7c740cc8ea15f1da0651?utm_campaign=1050&utm_source=git)** | Remote (US) | Remote | Feb 13 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698f73b50cc8ea15f1d9fd8b?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 13 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - Strategy & Business Development Student](https://jobright.ai/jobs/info/698f70ef0cc8ea15f1d9f9a2?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Feb 13 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Supply Chain](https://jobright.ai/jobs/info/691e57c63f782d2f1afb401d?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 13 |
@@ -71,8 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Manufacturing](https://jobright.ai/jobs/info/6971a30e333b6343a14e39e9?utm_campaign=1050&utm_source=git)** | Frankfort, KY | On Site | Feb 13 |
 | **[AeroMatrix 12](aeromatrix12.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/698f65ac0f6f7e7a2ceb994b?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 13 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ccc465a77e5d7d744f53a5?utm_campaign=1050&utm_source=git)** | Hyattsville, MD | On Site | Feb 13 |
+| **[GWL Realty Advisors](http://www.gwlrealtyadvisors.com/)** | **[Property Administrator Summer Student 2026](https://jobright.ai/jobs/info/698f810f6ea51a7610f1dacf?utm_campaign=1050&utm_source=git)** | West Vancouver, British Columbia, Canada | On Site | Feb 13 |
+| **[Veltrana Group](veltranagroup.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698f81af0f6f7e7a2cebbec7?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Supply Chain Strategy & Excellence (SCSE)](https://jobright.ai/jobs/info/698f5e200cc8ea15f1d9e060?utm_campaign=1050&utm_source=git)** | Home, KS | Remote | Feb 13 |
-| ↳ | **[Internship - Technical Project Management](https://jobright.ai/jobs/info/698f5b9a0f6f7e7a2ceb8c78?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Feb 13 |
+| **[XPEL TECHNOLOGIES CORP](http://sanantonio-clearbra.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/698f7c266ea51a7610f1d412?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Technical Project Management](https://jobright.ai/jobs/info/698f5b9a0f6f7e7a2ceb8c78?utm_campaign=1050&utm_source=git)** | Lexington, MA | On Site | Feb 13 |
+| **[HDR](http://www.hdrinc.com)** | **[Associate Project Manager Intern](https://jobright.ai/jobs/info/698f83770f6f7e7a2cebc1a4?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Feb 13 |
 | **[Altria](http://www.altria.com)** | **[Supply Chain Undergraduate Internship](https://jobright.ai/jobs/info/698f57cc0cc8ea15f1d9da79?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Feb 13 |
 | **[Mars](https://www.mars.com)** | **[Summer 2026 Mars Wrigley Supply Chain Internship – Hackettstown, NJ](https://jobright.ai/jobs/info/698d480178b4502f12a3e50e?utm_campaign=1050&utm_source=git)** | Hackettstown, NJ | Hybrid | Feb 13 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698f71d00f6f7e7a2ceba9bc?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 13 |
@@ -106,17 +119,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Project Manager Master's Intern](https://jobright.ai/jobs/info/698f38a20f6f7e7a2ceb583a?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Feb 13 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f50ee0cc8ea15f1d9d063?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | On Site | Feb 13 |
 | ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f41af6ea51a7610f186a1?utm_campaign=1050&utm_source=git)** | US-GA-Atlanta | On Site | Feb 13 |
-| ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f3dd66ea51a7610f180d6?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | On Site | Feb 13 |
 | ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f456f0f6f7e7a2ceb6f39?utm_campaign=1050&utm_source=git)** | US-CA-San Francisco | On Site | Feb 13 |
+| ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f3dd66ea51a7610f180d6?utm_campaign=1050&utm_source=git)** | San Francisco, CA, US | On Site | Feb 13 |
 | ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f4e0c6ea51a7610f1997d?utm_campaign=1050&utm_source=git)** | US-NY-New York | On Site | Feb 13 |
-| ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f3a180cc8ea15f1d9ae76?utm_campaign=1050&utm_source=git)** | US-MI-Birmingham | On Site | Feb 13 |
 | ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f47410f6f7e7a2ceb726f?utm_campaign=1050&utm_source=git)** | Birmingham, MI, US | On Site | Feb 13 |
+| ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f3a180cc8ea15f1d9ae76?utm_campaign=1050&utm_source=git)** | US-MI-Birmingham | On Site | Feb 13 |
 | ↳ | **[Associate, Account & Project Management Intern](https://jobright.ai/jobs/info/698f37b96ea51a7610f178ad?utm_campaign=1050&utm_source=git)** | Boston, MA, US | On Site | Feb 13 |
-| ↳ | **[Intern, Program Management](https://jobright.ai/jobs/info/698f43650f6f7e7a2ceb6b96?utm_campaign=1050&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
 | ↳ | **[Intern, Program Management](https://jobright.ai/jobs/info/698f335b0cc8ea15f1d9a44e?utm_campaign=1050&utm_source=git)** | Birmingham, MI, US | Hybrid | Feb 13 |
+| ↳ | **[Intern, Program Management](https://jobright.ai/jobs/info/698f43650f6f7e7a2ceb6b96?utm_campaign=1050&utm_source=git)** | Miami, FL, US | Hybrid | Feb 13 |
 | ↳ | **[Intern, Program Management](https://jobright.ai/jobs/info/698f532d6ea51a7610f1a1b1?utm_campaign=1050&utm_source=git)** | US-NY-New York | Hybrid | Feb 13 |
-| ↳ | **[2026 Leo Chicago Summer Internship - Business Leadership](https://jobright.ai/jobs/info/698f383f0cc8ea15f1d9abd2?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 13 |
 | ↳ | **[2026 Leo Chicago Summer Internship - Business Leadership](https://jobright.ai/jobs/info/698f3de86ea51a7610f180f8?utm_campaign=1050&utm_source=git)** | US-IL-Chicago | Hybrid | Feb 13 |
+| ↳ | **[2026 Leo Chicago Summer Internship - Business Leadership](https://jobright.ai/jobs/info/698f383f0cc8ea15f1d9abd2?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | Hybrid | Feb 13 |
 | **[Brixenta](brixenta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698f37820cc8ea15f1d9aaaf?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Feb 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Houston](https://jobright.ai/jobs/info/698f07536ea51a7610f1290a?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 13 |
 | **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Assets Protection Executive Intern (Store Leadership Intern) - Mission Viejo, CA (Starting Summer 2025)](https://jobright.ai/jobs/info/698f34476ea51a7610f17349?utm_campaign=1050&utm_source=git)** | Mission Viejo, CA | On Site | Feb 13 |
@@ -136,25 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/698f19056ea51a7610f1436d?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 13 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f082d0cc8ea15f1d95c2a?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Feb 13 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/698f32c50f6f7e7a2ceb4e51?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f23370cc8ea15f1d98a5f?utm_campaign=1050&utm_source=git)** | Wenatchee, WA | On Site | Feb 13 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/698f247b0f6f7e7a2ceb340d?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f175f6ea51a7610f13feb?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Feb 13 |
+| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f23370cc8ea15f1d98a5f?utm_campaign=1050&utm_source=git)** | Wenatchee, WA | On Site | Feb 13 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/698f0c280cc8ea15f1d95f49?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 13 |
+| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f175f6ea51a7610f13feb?utm_campaign=1050&utm_source=git)** | Montgomery, AL | On Site | Feb 13 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f1ac70f6f7e7a2ceb27bd?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 13 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/698f15910cc8ea15f1d96ed6?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 13 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f1d4c6ea51a7610f14c3a?utm_campaign=1050&utm_source=git)** | Rexburg, ID | On Site | Feb 13 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/698f18af6ea51a7610f142b1?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f21666ea51a7610f15474?utm_campaign=1050&utm_source=git)** | Los Alamos, NM | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f257c0f6f7e7a2ceb3492?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/698f0cae0cc8ea15f1d96006?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f30bc0f6f7e7a2ceb4a4f?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f23b80cc8ea15f1d98b7d?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f1aa10f6f7e7a2ceb2791?utm_campaign=1050&utm_source=git)** | Cheyenne, WY | On Site | Feb 13 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f19ab6ea51a7610f144c2?utm_campaign=1050&utm_source=git)** | Douglas, AZ | On Site | Feb 13 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/698f2cb30f6f7e7a2ceb42de?utm_campaign=1050&utm_source=git)** | Santa Ana, CA | On Site | Feb 13 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f1d300cc8ea15f1d97ebc?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Feb 12 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/698f19fc0f6f7e7a2ceb2681?utm_campaign=1050&utm_source=git)** | Yuma, AZ | On Site | Feb 12 |
-| **[Flock](https://www.flocksafety.com)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/697e59efce48107c054288fe?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 12 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Project Management Assistant](https://jobright.ai/jobs/info/698f22c96ea51a7610f15731?utm_campaign=1050&utm_source=git)** | Toronto, ON, CA, M5K 1B7 | Hybrid | Feb 12 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/6983c34d01214b4cdacbb781?utm_campaign=1050&utm_source=git)** | Medina, OH | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

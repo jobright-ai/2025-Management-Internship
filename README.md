@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Fleet Operations Intern](https://jobright.ai/jobs/info/695837109f1b381eb2711813?utm_campaign=1050&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
+| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Supply Chain](https://jobright.ai/jobs/info/6974216a206da320f49e4308?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 14 |
+| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6990651c6ea51a7610f2eb33?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Feb 14 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Planning and Insights Intern](https://jobright.ai/jobs/info/691f40ed3f782d2f1afb990b?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 14 |
+| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/6973f66f206da320f49dfc22?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Feb 14 |
+| **[Michael Foods](http://michaelfoods.com)** | **[Operations/Continuous Improvement Summer Intern 2026](https://jobright.ai/jobs/info/6902a28e00a1816c41ea065c?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Feb 14 |
+| **[Costco IT](https://www.costco.com/sustainability-introduction.html)** | **[CDS Intern - Merchandising Platform Operations](https://jobright.ai/jobs/info/699062c46ea51a7610f2e9bf?utm_campaign=1050&utm_source=git)** | Dallas, TX | Hybrid | Feb 14 |
+| ↳ | **[CDS Intern - Order Management](https://jobright.ai/jobs/info/699062946ea51a7610f2e992?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Feb 14 |
+| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Fleet Operations Intern](https://jobright.ai/jobs/info/69583751f1f8465b79eed504?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr. Business Strategy Specialist Intern MBA - Summer 2026](https://jobright.ai/jobs/info/69905cb10cc8ea15f1db218f?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | Hybrid | Feb 14 |
 | **[TikTok](https://www.tiktok.com)** | **[US Livestream Strategy Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697703cb88e2b47213baeb76?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
 | ↳ | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6978534c39f7f96cc6d0bfcc?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 14 |
@@ -108,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food & Beverage Leadership Internship](https://jobright.ai/jobs/info/69903c9f0f6f7e7a2cecae68?utm_campaign=1050&utm_source=git)** | Cherry Valley, IL | On Site | Feb 13 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69902b316ea51a7610f2ac75?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 13 |
 | **[The Ritedose Corporation](http://ritedose.com)** | **[Supply Chain Analytics Intern](https://jobright.ai/jobs/info/699001356ea51a7610f270ee?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Florida Regional Operations](https://jobright.ai/jobs/info/699031590f6f7e7a2cec9e22?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Pacific Northwest Regional Operations](https://jobright.ai/jobs/info/69902f440cc8ea15f1daed57?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
+| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Pacific Northwest Regional Operations](https://jobright.ai/jobs/info/69902f440cc8ea15f1daed57?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
+| ↳ | **[Summer Intern - ADL Florida Regional Operations](https://jobright.ai/jobs/info/699031590f6f7e7a2cec9e22?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 13 |
 | **[Atlas](http://www.atlasvanlines.com)** | **[International Logistics Intern (paid)](https://jobright.ai/jobs/info/699022a30cc8ea15f1dac913?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Feb 13 |
 | ↳ | **[Atlas Logistics Intern](https://jobright.ai/jobs/info/699031180f6f7e7a2cec9dc6?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Feb 13 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697d735e727747250d585c12?utm_campaign=1050&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 13 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colonial Group, Inc.](http://www.colonialgroupinc.com/)** | **[Logistics & Freight Summer Internship](https://jobright.ai/jobs/info/69900a840f6f7e7a2cec5ca9?utm_campaign=1050&utm_source=git)** | Savannah, GA, USA | On Site | Feb 13 |
 | **[GamblingCareers.com](https://www.gamblingcareers.com/)** | **[Collectibles Summer 2026 Intern - Operations](https://jobright.ai/jobs/info/698fcea16ea51a7610f23990?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Feb 13 |
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698fffb70cc8ea15f1da9849?utm_campaign=1050&utm_source=git)** | North Chicago, IL | On Site | Feb 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698fec530f6f7e7a2cec310b?utm_campaign=1050&utm_source=git)** | Lima, OH | On Site | Feb 13 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/698ff2d80f6f7e7a2cec383c?utm_campaign=1050&utm_source=git)** | Muskegon, MI | On Site | Feb 13 |
-| ↳ | **[Production Management Intern](https://jobright.ai/jobs/info/699000ec0cc8ea15f1da98dd?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | On Site | Feb 13 |
-| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Operations Division](https://jobright.ai/jobs/info/699048b40cc8ea15f1db0dd6?utm_campaign=1050&utm_source=git)** | HSFCU Headquarters, 333 Queen Street, Honolulu, Hawaii, United States of America | On Site | Feb 13 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/698fed6f6ea51a7610f2509e?utm_campaign=1050&utm_source=git)** | Wichita, KS | On Site | Feb 13 |
-| **[Glanbia Nutritionals](http://www.glanbianutritionals.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698ff9950cc8ea15f1da91bb?utm_campaign=1050&utm_source=git)** | St Johns, MI | On Site | Feb 13 |
-| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, IT Administration](https://jobright.ai/jobs/info/698fcd8c0cc8ea15f1da6989?utm_campaign=1050&utm_source=git)** | Canton, MI | On Site | Feb 13 |
-| **[Essendant](http://www.essendant.com/)** | **[Operations Intern](https://jobright.ai/jobs/info/698fc63b0cc8ea15f1da64de?utm_campaign=1050&utm_source=git)** | Phoenixville, PA | On Site | Feb 13 |
-| **[ARCO National Construction Company](https://www.arconational.com/)** | **[Construction Project Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/698fee880f6f7e7a2cec337f?utm_campaign=1050&utm_source=git)** | Cincinnati, OH | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

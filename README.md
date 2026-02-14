@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Operations Intern](https://jobright.ai/jobs/info/6990d2496ea51a7610f34183?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Feb 14 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Feb 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/6973cb2f37785856350d9cd9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 14 |
 | ↳ | **[Intern, Material Strategic Planning (Summer 2026)](https://jobright.ai/jobs/info/6973cb11206da320f49dc420?utm_campaign=1050&utm_source=git)** | Pointe-Claire, Quebec, Canada | Hybrid | Feb 14 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Lawn, IL](https://jobright.ai/jobs/info/6974a38737785856350eb98f?utm_campaign=1050&utm_source=git)** | Oak Lawn, IL | On Site | Feb 14 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo, WI | On Site | Feb 14 |
 | **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6972f2ea1790715e866bdcc6?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Feb 14 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - San Antonio](https://jobright.ai/jobs/info/695b5a3daa05c26e7ab4b5d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
 | **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[Supply Chain Intern (Summer 2026)](https://jobright.ai/jobs/info/6903e4f3d64a22104aa94a78?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Feb 14 |
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Workplace Planning and Advice Process Improvement](https://jobright.ai/jobs/info/6990817b6ea51a7610f309a4?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Feb 14 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c83b41983e6768bc54b037?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Feb 14 |
@@ -114,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 14 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Feb 14 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Salt Lake City, UT (Summer 2026)](https://jobright.ai/jobs/info/6974302e37785856350e2aac?utm_campaign=1050&utm_source=git)** | North Salt Lake, UT | On Site | Feb 14 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern-Indianapolis 2026](https://jobright.ai/jobs/info/6976eef7fdeb8243a279b697?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 14 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Feb 14 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Fleet Operations Intern](https://jobright.ai/jobs/info/695837109f1b381eb2711813?utm_campaign=1050&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Supply Chain](https://jobright.ai/jobs/info/6974216a206da320f49e4308?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699045100f6f7e7a2cecb952?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/699044f76ea51a7610f2d0ef?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699042430cc8ea15f1db0443?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
+| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699041360f6f7e7a2cecb3c0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

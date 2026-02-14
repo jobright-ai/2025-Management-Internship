@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Operations and Innovation Master's Intern](https://jobright.ai/jobs/info/6990bcdb6ea51a7610f33979?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/6990bcd90cc8ea15f1db770d?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 14 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026](https://jobright.ai/jobs/info/6990bc280f6f7e7a2ced2822?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Feb 14 |
+| **[POW Marketing](https://www.powmktg.com/)** | **[Business and Leadership Development Internship](https://jobright.ai/jobs/info/6990bbf90cc8ea15f1db76c7?utm_campaign=1050&utm_source=git)** | DFW Metroplex | On Site | Feb 14 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Capital Project Management Intern (Summer 2026) - Substation & Transmission](https://jobright.ai/jobs/info/6990bbb40cc8ea15f1db76b2?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 14 |
+| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/697b293a1136d179eeee8b87?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 14 |
+| ↳ | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/696bdd565fc86241853b21ca?utm_campaign=1050&utm_source=git)** | Aurora, CO | On Site | Feb 14 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/6990b7da6ea51a7610f338b4?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 14 |
+| **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - Operations](https://jobright.ai/jobs/info/6903ad2563502c0aded6b004?utm_campaign=1050&utm_source=git)** | East Greenbush, NY | On Site | Feb 14 |
+| **[MSIG USA](https://www.msigusa.com/)** | **[Operations Excellence Business Analyst Intern](https://jobright.ai/jobs/info/6990b77c0f6f7e7a2ced2726?utm_campaign=1050&utm_source=git)** | Warren, NJ | Hybrid | Feb 14 |
+| **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/697441aa37785856350e3a5f?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Feb 14 |
+| **[KI](http://www.ki.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6990af600f6f7e7a2ced24fe?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Feb 14 |
 | **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6990abbe0f6f7e7a2ced2291?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Feb 14 |
 | **[Crusoe](https://crusoe.ai)** | **[Technical Program Management Intern (IT & Security Department), Summer 2026](https://jobright.ai/jobs/info/6974500c37785856350e5f67?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699041060f6f7e7a2cecb36f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6990409e0cc8ea15f1db01b6?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699040840f6f7e7a2cecb275?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 14 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern — Digital Technology Project Manager Internship — Remote](https://jobright.ai/jobs/info/69903c920f6f7e7a2cecae62?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | Remote | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69903c530cc8ea15f1dafd7a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
-| **[Hawaii State Federal Credit Union](https://www.hawaiistatefcu.com)** | **[2026 Summer Student Intern - Operations Division](https://jobright.ai/jobs/info/69903c3e0f6f7e7a2cecae2d?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
-| **[Genentech](http://gene.com)** | **[MECOP 2026 Spring/Summer Intern - HIT Project Management Office (PMO)](https://jobright.ai/jobs/info/69903c290cc8ea15f1dafd68?utm_campaign=1050&utm_source=git)** | Hillsboro, OR | On Site | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69903b720f6f7e7a2cecad7d?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/698aea68c5761b521a9a4836?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699039576ea51a7610f2c4d8?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699038ca0cc8ea15f1daf965?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6990386f6ea51a7610f2c36b?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 14 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/698ed96a0f6f7e7a2ceb051c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 14 |
-| **[Orvanta](orvanta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69902f2c6ea51a7610f2b291?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 14 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food & Beverage Leadership Internship](https://jobright.ai/jobs/info/69903c9f0f6f7e7a2cecae68?utm_campaign=1050&utm_source=git)** | Cherry Valley, IL | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

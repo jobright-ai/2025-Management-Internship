@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Analyst, Global Quality Strategy and Business Operations](https://jobright.ai/jobs/info/6990a5036ea51a7610f31d3d?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Feb 14 |
+| **[Saddle Creek Logistics Services](https://www.sclogistics.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6973db5a37785856350dad2c?utm_campaign=1050&utm_source=git)** | Walton, KY | On Site | Feb 14 |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern  R&D Strategy & Performance Excellence (SPx)](https://jobright.ai/jobs/info/6990a30b0cc8ea15f1db58ac?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Feb 14 |
+| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship](https://jobright.ai/jobs/info/68ca9801cca9271990ce43b0?utm_campaign=1050&utm_source=git)** | Fredericksburg, VA | On Site | Feb 14 |
+| **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Planning and Reporting Undergraduate Student Intern - Richland, Washington Duty Station](https://jobright.ai/jobs/info/6974c90437785856350edaae?utm_campaign=1050&utm_source=git)** | Richland, WA | Hybrid | Feb 14 |
+| **[Valeo](http://www.valeo.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/697422c4206da320f49e448d?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 14 |
+| **[Zipline](https://www.zipline.com/)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccba350bbaf76504ffc8b?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Administrative assistant](https://jobright.ai/jobs/info/699096b50f6f7e7a2ced0790?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Schaumburg, IL](https://jobright.ai/jobs/info/6974a19ebc8e722e7b19b2d3?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Feb 14 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/6990917c0cc8ea15f1db550f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
@@ -70,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Neuroscience Medical Affairs Intern](https://jobright.ai/jobs/info/69908d0c6ea51a7610f3153a?utm_campaign=1050&utm_source=git)** | Titusville, NJ | On Site | Feb 14 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Operations Excellence Business Analyst Intern](https://jobright.ai/jobs/info/69908b460f6f7e7a2ced0127?utm_campaign=1050&utm_source=git)** | NJ-Warren | Hybrid | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Lawn, IL](https://jobright.ai/jobs/info/6974a38737785856350eb98f?utm_campaign=1050&utm_source=git)** | Oak Lawn, IL | On Site | Feb 14 |
-| **[Valeo](http://www.valeo.com/en/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/69749bed37785856350eb677?utm_campaign=1050&utm_source=git)** | Greensburg, IN | On Site | Feb 14 |
 | **[Yaskawa America, Inc. -  Drives & Motion Division](https://www.yaskawa.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/68ce342424dd5209002f0762?utm_campaign=1050&utm_source=git)** | Buffalo, WI | On Site | Feb 14 |
 | **[Harlan Electric Company](http://www.harlanelectric.com/why-harlan)** | **[Internship - Project Coordinator (Summer 2026)](https://jobright.ai/jobs/info/6972f2ea1790715e866bdcc6?utm_campaign=1050&utm_source=git)** | Rochester, MI | On Site | Feb 14 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - San Antonio](https://jobright.ai/jobs/info/695b5a3daa05c26e7ab4b5d4?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
@@ -86,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/6974207337785856350e19ba?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Feb 14 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Project Management Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6990970c0f6f7e7a2ced07aa?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Feb 14 |
+| ↳ | **[Project Manager Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/69909fe36ea51a7610f31bd8?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Office of the President Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c703a78b4502f12a2f870?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 14 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 14 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Feb 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orvanta](orvanta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69902f2c6ea51a7610f2b291?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Food & Beverage Leadership Internship](https://jobright.ai/jobs/info/69903c9f0f6f7e7a2cecae68?utm_campaign=1050&utm_source=git)** | Cherry Valley, IL | On Site | Feb 13 |
 | **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69902b316ea51a7610f2ac75?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 13 |
-| **[The Ritedose Corporation](http://ritedose.com)** | **[Supply Chain Analytics Intern](https://jobright.ai/jobs/info/699001356ea51a7610f270ee?utm_campaign=1050&utm_source=git)** | Columbia, SC | On Site | Feb 13 |
-| **[Anti-Defamation League](http://adl.org/)** | **[Summer Intern - ADL Florida Regional Operations](https://jobright.ai/jobs/info/699031590f6f7e7a2cec9e22?utm_campaign=1050&utm_source=git)** | Boca Raton, FL | Hybrid | Feb 13 |
-| ↳ | **[Summer Intern - ADL Pacific Northwest Regional Operations](https://jobright.ai/jobs/info/69902f440cc8ea15f1daed57?utm_campaign=1050&utm_source=git)** | Seattle, WA | Hybrid | Feb 13 |
-| **[Atlas](http://www.atlasvanlines.com)** | **[International Logistics Intern (paid)](https://jobright.ai/jobs/info/699022a30cc8ea15f1dac913?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Feb 13 |
-| ↳ | **[Atlas Logistics Intern](https://jobright.ai/jobs/info/699031180f6f7e7a2cec9dc6?utm_campaign=1050&utm_source=git)** | Evansville, IN | On Site | Feb 13 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697d735e727747250d585c12?utm_campaign=1050&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 13 |
-| **[OTG Management](http://www.otgexp.com/)** | **[Supply Chain Intern - Purchasing](https://jobright.ai/jobs/info/699017530cc8ea15f1dabf01?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

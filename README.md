@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Operations and Innovation Master's Intern](https://jobright.ai/jobs/info/6990bcdb6ea51a7610f33979?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Feb 14 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/6973cb2f37785856350d9cd9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 14 |
+| ↳ | **[Intern, Material Strategic Planning (Summer 2026)](https://jobright.ai/jobs/info/6973cb11206da320f49dc420?utm_campaign=1050&utm_source=git)** | Pointe-Claire, Quebec, Canada | Hybrid | Feb 14 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Administrative Bachelor's Intern Spanish Bilingual Preferred](https://jobright.ai/jobs/info/6990be2f0cc8ea15f1db7785?utm_campaign=1050&utm_source=git)** | Downey, CA | On Site | Feb 14 |
+| ↳ | **[Operations and Innovation Master's Intern](https://jobright.ai/jobs/info/6990bcdb6ea51a7610f33979?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/6990bcd90cc8ea15f1db770d?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 14 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026](https://jobright.ai/jobs/info/6990bc280f6f7e7a2ced2822?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Feb 14 |
 | **[POW Marketing](https://www.powmktg.com/)** | **[Business and Leadership Development Internship](https://jobright.ai/jobs/info/6990bbf90cc8ea15f1db76c7?utm_campaign=1050&utm_source=git)** | DFW Metroplex | On Site | Feb 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699045100f6f7e7a2cecb952?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/699044f76ea51a7610f2d0ef?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699042430cc8ea15f1db0443?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699041360f6f7e7a2cecb3c0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699041060f6f7e7a2cecb36f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6990409e0cc8ea15f1db01b6?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699040840f6f7e7a2cecb275?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

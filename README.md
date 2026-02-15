@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/699182c90f6f7e7a2ceddd51?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 15 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/699179576ea51a7610f3e32e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
+| **[Crest Vale](crestvale.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699177bd0cc8ea15f1dc244c?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 14 |
 | **[Orvanta](orvanta.us)** | **[Business Operations Intern – Talent Pool](https://jobright.ai/jobs/info/699143b50cc8ea15f1dbd8a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Project Management Intern](https://jobright.ai/jobs/info/699134ad6ea51a7610f38816?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 14 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Administrative assistant](https://jobright.ai/jobs/info/699096b50f6f7e7a2ced0790?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Schaumburg, IL](https://jobright.ai/jobs/info/6974a19ebc8e722e7b19b2d3?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Feb 14 |
 | ↳ | **[Management Trainee Internship (Summer '26) - Oak Park, IL](https://jobright.ai/jobs/info/6974a11d206da320f49edf1f?utm_campaign=1050&utm_source=git)** | Oak Park, IL | On Site | Feb 14 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/699090276ea51a7610f317b4?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Material Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc84b49a7695fbd0382d3?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | ↳ | **[Site Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc55549a7695fbd038162?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Traveling Site Coordinator Intern](https://jobright.ai/jobs/info/68c8e4ba983e6768bc5533b3?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Feb 14 |
@@ -145,8 +147,7 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699048b30cc8ea15f1db0dd1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699047d20cc8ea15f1db0c9d?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/699047c76ea51a7610f2d512?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69915e320cc8ea15f1dbffc9?utm_campaign=1050&utm_source=git)** | Arlington, OR | On Site | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699047280cc8ea15f1db0b8b?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
+| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699047280cc8ea15f1db0b8b?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699046d76ea51a7610f2d3b5?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699046a10f6f7e7a2cecbb6a?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/6990468f0cc8ea15f1db0a78?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/699046266ea51a7610f2d296?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699045170f6f7e7a2cecb95c?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699045136ea51a7610f2d122?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699045100f6f7e7a2cecb952?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

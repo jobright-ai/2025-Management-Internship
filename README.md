@@ -145,7 +145,8 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699048b30cc8ea15f1db0dd1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699047d20cc8ea15f1db0c9d?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/699047c76ea51a7610f2d512?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699047280cc8ea15f1db0b8b?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
+| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/69915e320cc8ea15f1dbffc9?utm_campaign=1050&utm_source=git)** | Arlington, OR | On Site | Feb 14 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699047280cc8ea15f1db0b8b?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699046d76ea51a7610f2d3b5?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699046a10f6f7e7a2cecbb6a?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/6990468f0cc8ea15f1db0a78?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699045170f6f7e7a2cecb95c?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699045136ea51a7610f2d122?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699045100f6f7e7a2cecb952?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/699044f76ea51a7610f2d0ef?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

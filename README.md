@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[KI](http://www.ki.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6990af600f6f7e7a2ced24fe?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Feb 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Feb 14 |
 | **[Crusoe](https://crusoe.ai)** | **[Technical Program Management Intern (IT & Security Department), Summer 2026](https://jobright.ai/jobs/info/6974500c37785856350e5f67?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Operations Intern](https://jobright.ai/jobs/info/6990aa010cc8ea15f1db6bb0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
 | **[MSIG USA](https://www.msigusa.com/)** | **[Operations Excellence Business Analyst Intern](https://jobright.ai/jobs/info/69908b460f6f7e7a2ced0127?utm_campaign=1050&utm_source=git)** | NJ-Warren | Hybrid | Feb 14 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Analyst, Global Quality Strategy and Business Operations](https://jobright.ai/jobs/info/6990a5036ea51a7610f31d3d?utm_campaign=1050&utm_source=git)** | Novato, CA | On Site | Feb 14 |
 | **[Saddle Creek Logistics Services](https://www.sclogistics.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/6973db5a37785856350dad2c?utm_campaign=1050&utm_source=git)** | Walton, KY | On Site | Feb 14 |
@@ -103,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://www.empower.com)** | **[Summer 2026 Intern – Workplace Planning and Advice Process Improvement](https://jobright.ai/jobs/info/6990817b6ea51a7610f309a4?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Feb 14 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c83b41983e6768bc54b037?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
-| **[Brixenta](brixenta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699093850f6f7e7a2ced06ad?utm_campaign=1050&utm_source=git)** | Los Angeles County, CA | On Site | Feb 14 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Nationwide Construction Safety Internship - Summer 2026](https://jobright.ai/jobs/info/691f73fb09cc522e87741732?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Feb 14 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68e6f2a9ae2b894b1d71fe65?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
 | **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973d2ea206da320f49dcda0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 14 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699042430cc8ea15f1db0443?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699041360f6f7e7a2cecb3c0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699041060f6f7e7a2cecb36f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 14 |
+| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6990409e0cc8ea15f1db01b6?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 14 |
+| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699040840f6f7e7a2cecb275?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

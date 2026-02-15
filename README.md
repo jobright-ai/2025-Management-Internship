@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vexra Engineering](vexraengineering.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/699240716ea51a7610f46cd7?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 15 |
+| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Food & Beverage Internship - Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/69923d6d6ea51a7610f469fe?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
+| ↳ | **[Omni Cares Rooms Internship - Summer 2026](https://jobright.ai/jobs/info/69923bd80cc8ea15f1dcac15?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
+| **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - Corporate Strategy (MBA)](https://jobright.ai/jobs/info/698aa3290f6f7e7a2ce5d874?utm_campaign=1050&utm_source=git)** | Chicago, Illinois, United States | On Site | Feb 15 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/69922d800f6f7e7a2cee4c2c?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 15 |
+| **[Pylon Building Group](https://www.pylonbuilding.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69922c846ea51a7610f45893?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Feb 15 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor](https://jobright.ai/jobs/info/699227090f6f7e7a2cee4815?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 15 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69921e290cc8ea15f1dc9541?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 15 |
 | **[Blue Ventis](blueventis.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699212a10f6f7e7a2cee3e45?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 15 |
@@ -64,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/698449ad0f6f7e7a2cdea258?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Feb 15 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/697b065f1423772304eb14b2?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 15 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Process Improvement Intern](https://jobright.ai/jobs/info/6991f1b00f6f7e7a2cee2e3b?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Feb 15 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Operations Analyst](https://jobright.ai/jobs/info/699219e16ea51a7610f44d0a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 15 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/6991e1a60f6f7e7a2cee2145?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 15 |
@@ -94,8 +99,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/69918c576ea51a7610f3f176?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 15 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69918be70f6f7e7a2cede18b?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 15 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/69918b296ea51a7610f3f029?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 15 |
-| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/699227d00f6f7e7a2cee489c?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 15 |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Internship (major - business operations)](https://jobright.ai/jobs/info/6991882a6ea51a7610f3ede3?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/699179576ea51a7610f3e32e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategic Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6991c7870f6f7e7a2cee0eed?utm_campaign=1050&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 14 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Feb 14 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Salt Lake City, UT (Summer 2026)](https://jobright.ai/jobs/info/6974302e37785856350e2aac?utm_campaign=1050&utm_source=git)** | North Salt Lake, UT | On Site | Feb 14 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Feb 14 |
-| **[American Industrial Transport - AITX](https://aitx.com/)** | **[Fleet Operations Intern](https://jobright.ai/jobs/info/695837109f1b381eb2711813?utm_campaign=1050&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Supply Chain](https://jobright.ai/jobs/info/6974216a206da320f49e4308?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

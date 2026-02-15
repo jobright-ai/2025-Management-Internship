@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Project Management Intern](https://jobright.ai/jobs/info/699134ad6ea51a7610f38816?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 14 |
+| **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/69912c160cc8ea15f1dbc091?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Operations and Innovation Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699122136ea51a7610f37b1f?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Supply Planning](https://jobright.ai/jobs/info/69911a4d6ea51a7610f37565?utm_campaign=1050&utm_source=git)** | Georgetown, ON | Hybrid | Feb 14 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6990ea480f6f7e7a2ced5118?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699045136ea51a7610f2d122?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699045100f6f7e7a2cecb952?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/699044f76ea51a7610f2d0ef?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699042430cc8ea15f1db0443?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699041360f6f7e7a2cecb3c0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699041060f6f7e7a2cecb36f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Operations and Innovation Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699122136ea51a7610f37b1f?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Supply Planning](https://jobright.ai/jobs/info/69911a4d6ea51a7610f37565?utm_campaign=1050&utm_source=git)** | Georgetown, ON | Hybrid | Feb 14 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6990ea480f6f7e7a2ced5118?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Operations Intern](https://jobright.ai/jobs/info/6990d2496ea51a7610f34183?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Feb 14 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Feb 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699042430cc8ea15f1db0443?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699041360f6f7e7a2cecb3c0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699041060f6f7e7a2cecb36f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6990409e0cc8ea15f1db01b6?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699040840f6f7e7a2cecb275?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

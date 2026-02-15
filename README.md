@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[Business Operations Intern – Talent Pool](https://jobright.ai/jobs/info/699143b50cc8ea15f1dbd8a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Project Management Intern](https://jobright.ai/jobs/info/699134ad6ea51a7610f38816?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/69912c160cc8ea15f1dbc091?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Feb 14 |
@@ -91,8 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Technical Program Manager Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccba350bbaf76504ffc8b?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[Germain Hôtels](https://www.germainhotels.com/)** | **[Intern, Administrative assistant](https://jobright.ai/jobs/info/699096b50f6f7e7a2ced0790?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Schaumburg, IL](https://jobright.ai/jobs/info/6974a19ebc8e722e7b19b2d3?utm_campaign=1050&utm_source=git)** | Schaumburg, IL | On Site | Feb 14 |
-| **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/6990917c0cc8ea15f1db550f?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
-| **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Internship (Summer '26) - Oak Park, IL](https://jobright.ai/jobs/info/6974a11d206da320f49edf1f?utm_campaign=1050&utm_source=git)** | Oak Park, IL | On Site | Feb 14 |
+| ↳ | **[Management Trainee Internship (Summer '26) - Oak Park, IL](https://jobright.ai/jobs/info/6974a11d206da320f49edf1f?utm_campaign=1050&utm_source=git)** | Oak Park, IL | On Site | Feb 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/699090276ea51a7610f317b4?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Material Planning Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc84b49a7695fbd0382d3?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | ↳ | **[Site Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc55549a7695fbd038162?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |

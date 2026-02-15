@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DP World](https://www.dpworld.com/)** | **[Business Operations (Real Estate) Intern](https://jobright.ai/jobs/info/68ccf8d15954791a1d7021e7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
+| **[PIM Brands](https://pimbrands.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6903d89863502c0aded6d4b9?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 15 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aef7927bcb7608b3d2a41b?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693cb386aa598a08c3ed9026?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 15 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Business Strategist](https://jobright.ai/jobs/info/68e6deefae2b894b1d71f10f?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Feb 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6978574f52f3c27ec644af6e?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 Forestry Resource and Valuation Solutions Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/697edaababff4c399a9d84ad?utm_campaign=1050&utm_source=git)** | Portland, OR | On Site | Feb 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Operation Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/6976dfca206da320f4a086b7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
+| ↳ | **[Strategy Operations Project Intern (SMB Product - PMO) 2026 Start (MBA/MS)](https://jobright.ai/jobs/info/6976f79dfdeb8243a279d4bc?utm_campaign=1050&utm_source=git)** | San Jose, CA | On Site | Feb 15 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/691a95b315b4156367189086?utm_campaign=1050&utm_source=git)** | Williston, ND | On Site | Feb 15 |
+| **[Hilton](https://www.hilton.com/en/)** | **[Room Operations Internship - Hilton Boston Park Plaza](https://jobright.ai/jobs/info/69585c1cf1f8465b79eef34f?utm_campaign=1050&utm_source=git)** | Boston, MA | On Site | Feb 15 |
 | **[UL Standards & Engagement](https://ulse.org)** | **[Strategic Initiatives Intern](https://jobright.ai/jobs/info/696b03a55fc86241853a4d43?utm_campaign=1050&utm_source=git)** | Evanston, IL | Hybrid | Feb 15 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Supply Planning](https://jobright.ai/jobs/info/6991900e0f6f7e7a2cede4e5?utm_campaign=1050&utm_source=git)** | Georgetown, Ontario, Canada | Hybrid | Feb 15 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69918f070cc8ea15f1dc35e2?utm_campaign=1050&utm_source=git)** | Greeley, CO | On Site | Feb 15 |
@@ -70,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Crest Vale](crestvale.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699177bd0cc8ea15f1dc244c?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 14 |
 | **[Orvanta](orvanta.us)** | **[Business Operations Intern – Talent Pool](https://jobright.ai/jobs/info/699143b50cc8ea15f1dbd8a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Project Management Intern](https://jobright.ai/jobs/info/699134ad6ea51a7610f38816?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/69912c160cc8ea15f1dbc091?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Feb 14 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Operations and Innovation Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/699122136ea51a7610f37b1f?utm_campaign=1050&utm_source=git)** | Pasadena, CA | Hybrid | Feb 14 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Intern, Supply Planning](https://jobright.ai/jobs/info/69911a4d6ea51a7610f37565?utm_campaign=1050&utm_source=git)** | Georgetown, ON | Hybrid | Feb 14 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697459e8bc8e722e7b196e74?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Feb 14 |
 | **[TruStage](https://www.trustage.com/)** | **[IT Technology Operations Intern (Hybrid)](https://jobright.ai/jobs/info/6973fc9e37785856350de56f?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Feb 14 |
 | **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69745a3d37785856350e7415?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699049ae6ea51a7610f2d784?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 14 |
-| **[Orion Steel](https://orionsteel.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69744e8cbc8e722e7b1952a7?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/6990492b0cc8ea15f1db0e8c?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/6990490a0f6f7e7a2cecbf39?utm_campaign=1050&utm_source=git)** | Calexico, CA | On Site | Feb 14 |
-| **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697452c4206da320f49e8da8?utm_campaign=1050&utm_source=git)** | Lakehead, CA | On Site | Feb 14 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699048b30cc8ea15f1db0dd1?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 14 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699047d20cc8ea15f1db0c9d?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 14 |
-| ↳ | **[Operations Intern - ACE Mentorship Program](https://jobright.ai/jobs/info/699047c76ea51a7610f2d512?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Temple University](https://jobright.ai/jobs/info/699047280cc8ea15f1db0b8b?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699046d76ea51a7610f2d3b5?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

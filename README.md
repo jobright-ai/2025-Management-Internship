@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor](https://jobright.ai/jobs/info/69921e290cc8ea15f1dc9541?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 15 |
+| **[Blue Ventis](blueventis.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699212a10f6f7e7a2cee3e45?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 15 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6920c3613f782d2f1afcb305?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Feb 15 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/698449ad0f6f7e7a2cdea258?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Feb 15 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/697b065f1423772304eb14b2?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 15 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
-| **[TalentSphere Global](talentsphereglobal.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6991f8aa0cc8ea15f1dc832b?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Remote | Feb 15 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Process Improvement Intern](https://jobright.ai/jobs/info/6991f1b00f6f7e7a2cee2e3b?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Feb 15 |
 | **[Brixenta](brixenta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6991e1f40f6f7e7a2cee2198?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Operations Analyst](https://jobright.ai/jobs/info/699219e16ea51a7610f44d0a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 15 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/6991e1a60f6f7e7a2cee2145?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 15 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Midwest Region)](https://jobright.ai/jobs/info/695a2e0faa05c26e7ab3c3a0?utm_campaign=1050&utm_source=git)** | Manchester, MO | On Site | Feb 15 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/6991de790cc8ea15f1dc6ea6?utm_campaign=1050&utm_source=git)** | Wisconsin, United States | Remote | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Supply Chain](https://jobright.ai/jobs/info/6974216a206da320f49e4308?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 14 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[IT Project Manager (Summer Internship)](https://jobright.ai/jobs/info/698f6aff0cc8ea15f1d9f158?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Feb 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Planning and Insights Intern](https://jobright.ai/jobs/info/691f40ed3f782d2f1afb990b?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 14 |
-| **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/6973f66f206da320f49dfc22?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Feb 14 |
-| **[Michael Foods](http://michaelfoods.com)** | **[Operations/Continuous Improvement Summer Intern 2026](https://jobright.ai/jobs/info/6902a28e00a1816c41ea065c?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

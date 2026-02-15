@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in the Game](http://kidsinthegame.com/)** | **[Program Management Intern](https://jobright.ai/jobs/info/6990ea480f6f7e7a2ced5118?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Operations Intern](https://jobright.ai/jobs/info/6990d2496ea51a7610f34183?utm_campaign=1050&utm_source=git)** | Wilmington, DE | Hybrid | Feb 14 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Project Manager - C2 SME (SkillBridge Intern)](https://jobright.ai/jobs/info/6974140837785856350df801?utm_campaign=1050&utm_source=git)** | Des Moines, IA | Hybrid | Feb 14 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Logistics (Summer 2026)](https://jobright.ai/jobs/info/6973cb2f37785856350d9cd9?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 14 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[MSIG USA](https://www.msigusa.com/)** | **[Operations Excellence Business Analyst Intern](https://jobright.ai/jobs/info/6990b77c0f6f7e7a2ced2726?utm_campaign=1050&utm_source=git)** | Warren, NJ | Hybrid | Feb 14 |
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/697441aa37785856350e3a5f?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Feb 14 |
 | **[KI](http://www.ki.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6990af600f6f7e7a2ced24fe?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Feb 14 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6990abbe0f6f7e7a2ced2291?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Feb 14 |
 | **[Crusoe](https://crusoe.ai)** | **[Technical Program Management Intern (IT & Security Department), Summer 2026](https://jobright.ai/jobs/info/6974500c37785856350e5f67?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Operations Intern](https://jobright.ai/jobs/info/6990aa010cc8ea15f1db6bb0?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 14 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973d2ea206da320f49dcda0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/6974207337785856350e19ba?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Feb 14 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Project Management Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6990970c0f6f7e7a2ced07aa?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Office of the President Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c703a78b4502f12a2f870?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 14 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 14 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Feb 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Brigham Young University - Idaho](https://jobright.ai/jobs/info/699044f76ea51a7610f2d0ef?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699042430cc8ea15f1db0443?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 14 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699041360f6f7e7a2cecb3c0?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 14 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699041060f6f7e7a2cecb36f?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

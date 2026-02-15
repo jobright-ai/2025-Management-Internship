@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6920c3613f782d2f1afcb305?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Feb 15 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/698449ad0f6f7e7a2cdea258?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Feb 15 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/697b065f1423772304eb14b2?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 15 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69918be70f6f7e7a2cede18b?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 15 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/69918b296ea51a7610f3f029?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 15 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Internship (major - business operations)](https://jobright.ai/jobs/info/6991882a6ea51a7610f3ede3?utm_campaign=1050&utm_source=git)** | Dallas, TX | Remote | Feb 15 |
-| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/699182c90f6f7e7a2ceddd51?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/699179576ea51a7610f3e32e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategic Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6991c7870f6f7e7a2cee0eed?utm_campaign=1050&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |

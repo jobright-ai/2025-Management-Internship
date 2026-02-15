@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Fulfillment Area Manager Intern 2026 - KS, MO, AR, LA](https://jobright.ai/jobs/info/6975820537785856350f5aa8?utm_campaign=1050&utm_source=git)** | Evangeline Parish County, LA | On Site | Feb 15 |
+| **[Pacific Scientific Energetic Materials Company](https://psemc.com/)** | **[NPD Program Management Intern (Summer 2026)](https://jobright.ai/jobs/info/69038f87ff462851fefec303?utm_campaign=1050&utm_source=git)** | Hollister, CA | On Site | Feb 15 |
 | **[DP World](https://www.dpworld.com/)** | **[Business Operations (Real Estate) Intern](https://jobright.ai/jobs/info/68ccf8d15954791a1d7021e7?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 15 |
 | **[PIM Brands](https://pimbrands.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/6903d89863502c0aded6d4b9?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 15 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Midwest Locations](https://jobright.ai/jobs/info/68aef7927bcb7608b3d2a41b?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 15 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/699182c90f6f7e7a2ceddd51?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/699179576ea51a7610f3e32e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Crest Vale](crestvale.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699177bd0cc8ea15f1dc244c?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 14 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategic Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6991c7870f6f7e7a2cee0eed?utm_campaign=1050&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 14 |
 | **[Orvanta](orvanta.us)** | **[Business Operations Intern – Talent Pool](https://jobright.ai/jobs/info/699143b50cc8ea15f1dbd8a9?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/69912c160cc8ea15f1dbc091?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Feb 14 |
@@ -139,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[Operations Intern](https://jobright.ai/jobs/info/68cab6edd905e25191d9bc85?utm_campaign=1050&utm_source=git)** | Valley City, ND | On Site | Feb 14 |
 | **[American Industrial Transport - AITX](https://aitx.com/)** | **[Fleet Operations Intern](https://jobright.ai/jobs/info/695837109f1b381eb2711813?utm_campaign=1050&utm_source=git)** | St Charles, MO | On Site | Feb 14 |
 | **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Supply Chain](https://jobright.ai/jobs/info/6974216a206da320f49e4308?utm_campaign=1050&utm_source=git)** | Omaha, NE | On Site | Feb 14 |
-| **[Association of Fundraising Professionals (AFP) Silicon Valley Chapter](http://afpsv.org)** | **[Supply Chain & Operations Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/6990651c6ea51a7610f2eb33?utm_campaign=1050&utm_source=git)** | Moorpark, CA | On Site | Feb 14 |
+| **[Proctor Loan Protector](https://proctorlp.com)** | **[IT Project Manager (Summer Internship)](https://jobright.ai/jobs/info/698f6aff0cc8ea15f1d9f158?utm_campaign=1050&utm_source=git)** | Troy, MI | On Site | Feb 14 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Planning and Insights Intern](https://jobright.ai/jobs/info/691f40ed3f782d2f1afb990b?utm_campaign=1050&utm_source=git)** | Irving, TX | On Site | Feb 14 |
 | **[Sheppard Pratt](https://sheppardpratt.org/)** | **[Administrative Internship - Operational Excellence (Hybrid) 2026](https://jobright.ai/jobs/info/6973f66f206da320f49dfc22?utm_campaign=1050&utm_source=git)** | Towson, MD | Hybrid | Feb 14 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Operations/Continuous Improvement Summer Intern 2026](https://jobright.ai/jobs/info/6902a28e00a1816c41ea065c?utm_campaign=1050&utm_source=git)** | Elizabeth, NJ | On Site | Feb 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wine Group](http://thewinegroup.com/)** | **[Seasonal Grower Relations Intern - Fresno](https://jobright.ai/jobs/info/697403bb37785856350debf4?utm_campaign=1050&utm_source=git)** | California, United States | On Site | Feb 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Special Project Strategist Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/69782d1e88e2b47213bc2de8?utm_campaign=1050&utm_source=git)** | Seattle, WA | On Site | Feb 14 |
 | **[Beedie](http://www.beedie.ca/)** | **[Summer Intern, Industrial Project Management](https://jobright.ai/jobs/info/69842a6e0f6f7e7a2cde67e5?utm_campaign=1050&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Feb 14 |
-| **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/697459e8bc8e722e7b196e74?utm_campaign=1050&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Feb 14 |
-| **[TruStage](https://www.trustage.com/)** | **[IT Technology Operations Intern (Hybrid)](https://jobright.ai/jobs/info/6973fc9e37785856350de56f?utm_campaign=1050&utm_source=git)** | Madison, WI | Hybrid | Feb 14 |
-| **[InterPro Pipe & Steel](https://www.interprosteel.com/)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/69745a3d37785856350e7415?utm_campaign=1050&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

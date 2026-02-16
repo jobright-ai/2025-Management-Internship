@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6992c571e0bddb6acac10e14?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Feb 15 |
+| **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/6992c12b81476f6176aa6145?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Feb 15 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6992be0a81476f6176aa60f8?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 15 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Research Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6992bb8cce78e77b4fd68a2c?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Feb 15 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[Supply Chain Excellence Intern](https://jobright.ai/jobs/info/695c466822c9dc0d3d542761?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Feb 15 |
 | **[EPL Group](https://eplgroup.co)** | **[Chief of Staff (MBA Student)](https://jobright.ai/jobs/info/69927e956ea51a7610f486ae?utm_campaign=1050&utm_source=git)** | Miami, NM | Hybrid | Feb 15 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Rooms Internship - Summer 2026](https://jobright.ai/jobs/info/6992780f6ea51a7610f48235?utm_campaign=1050&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
@@ -79,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/697b065f1423772304eb14b2?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 15 |
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Feb 15 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Operations Analyst](https://jobright.ai/jobs/info/699219e16ea51a7610f44d0a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 15 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Midwest Region)](https://jobright.ai/jobs/info/695a2e0faa05c26e7ab3c3a0?utm_campaign=1050&utm_source=git)** | Manchester, MO | On Site | Feb 15 |
 | **[AB InBev APAC](http://www.ab-inbev.cn/)** | **[2023 Korea GMT(Graduate Management Trainee) Summer Intern 채용 (Test)](https://jobright.ai/jobs/info/6988139d8da7a612046318b8?utm_campaign=1050&utm_source=git)** | Tower, MN | Hybrid | Feb 15 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Project Management Intern - Construction (Downtown Chicago)](https://jobright.ai/jobs/info/697c67e6727747250d571774?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
@@ -106,7 +109,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/69918b296ea51a7610f3f029?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/699179576ea51a7610f3e32e?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategic Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6991c7870f6f7e7a2cee0eed?utm_campaign=1050&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 14 |
-| **[Cupertino Electric, Inc.](http://www.cei.com)** | **[Project / Construction Management Internship - Summer 2026 (Multiple Locations)](https://jobright.ai/jobs/info/6992aed581476f6176aa2d45?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Feb 14 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Intern - San Antonio](https://jobright.ai/jobs/info/6992b812e0bddb6acac0eb91?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 14 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern - Real Estate & Workplace Services](https://jobright.ai/jobs/info/699139600f6f7e7a2ced79ef?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
 | **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/6992265a0cc8ea15f1dc9968?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 14 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Agile Project Coordinator Intern](https://jobright.ai/jobs/info/69912c160cc8ea15f1dbc091?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Feb 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Project Manager Intern](https://jobright.ai/jobs/info/68c83b41983e6768bc54b037?utm_campaign=1050&utm_source=git)** | Goodhue, MN | On Site | Feb 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Ops Leader](https://jobright.ai/jobs/info/6974747a206da320f49eb366?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 14 |
-| **[The Weitz Company](http://www.weitz.com)** | **[Nationwide Construction Safety Internship - Summer 2026](https://jobright.ai/jobs/info/691f73fb09cc522e87741732?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Feb 14 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68e6f2a9ae2b894b1d71fe65?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
-| **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973d2ea206da320f49dcda0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

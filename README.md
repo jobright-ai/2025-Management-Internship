@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69925a7c0f6f7e7a2cee706d?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 15 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69924ec26ea51a7610f479a4?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 15 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/699240716ea51a7610f46cd7?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 15 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Food & Beverage Internship - Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/69923d6d6ea51a7610f469fe?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
 | ↳ | **[Omni Cares Rooms Internship - Summer 2026](https://jobright.ai/jobs/info/69923bd80cc8ea15f1dcac15?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK | On Site | Feb 15 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Pylon Building Group](https://www.pylonbuilding.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69922c846ea51a7610f45893?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Feb 15 |
 | **[Azza HealthCare Agency](https://www.azzahealth.org/)** | **[Internship Supervisor](https://jobright.ai/jobs/info/699227090f6f7e7a2cee4815?utm_campaign=1050&utm_source=git)** | San Luis Obispo, CA | On Site | Feb 15 |
 | ↳ | **[Internship Supervisor](https://jobright.ai/jobs/info/69921e290cc8ea15f1dc9541?utm_campaign=1050&utm_source=git)** | LA Metro Area | On Site | Feb 15 |
-| **[Blue Ventis](blueventis.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699212a10f6f7e7a2cee3e45?utm_campaign=1050&utm_source=git)** | Denver, CO | On Site | Feb 15 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6920c3613f782d2f1afcb305?utm_campaign=1050&utm_source=git)** | Middletown, IA | On Site | Feb 15 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/698449ad0f6f7e7a2cdea258?utm_campaign=1050&utm_source=git)** | Flat Rock, MI | On Site | Feb 15 |
 | **[Bimbo Bakeries USA](https://bimbobakeriesusa.com)** | **[Production Analyst Internship](https://jobright.ai/jobs/info/697b065f1423772304eb14b2?utm_campaign=1050&utm_source=git)** | Mattoon, IL | On Site | Feb 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Office of the President Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c703a78b4502f12a2f870?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 14 |
 | **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 14 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Feb 14 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Logistics Intern - Salt Lake City, UT (Summer 2026)](https://jobright.ai/jobs/info/6974302e37785856350e2aac?utm_campaign=1050&utm_source=git)** | North Salt Lake, UT | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huntsman Corporation](https://www.huntsman.com)** | **[Supply Chain Excellence Intern](https://jobright.ai/jobs/info/695c466822c9dc0d3d542761?utm_campaign=1050&utm_source=git)** | The Woodlands, TX | On Site | Feb 15 |
+| **[EPL Group](https://eplgroup.co)** | **[Chief of Staff (MBA Student)](https://jobright.ai/jobs/info/69927e956ea51a7610f486ae?utm_campaign=1050&utm_source=git)** | Miami, NM | Hybrid | Feb 15 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Rooms Internship - Summer 2026](https://jobright.ai/jobs/info/6992780f6ea51a7610f48235?utm_campaign=1050&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
 | ↳ | **[Omni Cares Food & Beverage Internship - Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/699272ce6ea51a7610f47fbd?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
 | ↳ | **[Omni Cares Food & Beverage Internship - Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992712a0f6f7e7a2cee74bc?utm_campaign=1050&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Global Supply Management Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc6a3aa598a08c3ed98c4?utm_campaign=1050&utm_source=git)** | South San Francisco, CA | On Site | Feb 14 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Military DoD SkillBridge Internship - Ops Leader](https://jobright.ai/jobs/info/6974747a206da320f49eb366?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 14 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Nationwide Construction Safety Internship - Summer 2026](https://jobright.ai/jobs/info/691f73fb09cc522e87741732?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Feb 14 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68e6f2a9ae2b894b1d71fe65?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
-| **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973d2ea206da320f49dcda0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

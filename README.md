@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Feb 15 |
+| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Administrative Intern](https://jobright.ai/jobs/info/699264b00f6f7e7a2cee71a4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 15 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69925a7c0f6f7e7a2cee706d?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 15 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69924ec26ea51a7610f479a4?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 15 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/699240716ea51a7610f46cd7?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/6974207337785856350e19ba?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
 | **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Feb 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Office of the President Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c703a78b4502f12a2f870?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 14 |
-| **[ofi North America (Olam Food Ingredients)](www.ofi.com)** | **[Summer 2026 Intern: Supply Chain Planning (MBA & Graduate)](https://jobright.ai/jobs/info/6989876e0f6f7e7a2ce49535?utm_campaign=1050&utm_source=git)** | Oxnard, CA | On Site | Feb 14 |
-| **[Howmet Aerospace](https://www.howmet.com)** | **[Summer 2026 Procurement Intern IGT](https://jobright.ai/jobs/info/6973ddca37785856350daecf?utm_campaign=1050&utm_source=git)** | Hampton, VA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

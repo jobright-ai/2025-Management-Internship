@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[ATL Internship & Co-Op 2025](https://jobright.ai/jobs/info/698abe8a4db8972cec002e45?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 16 |
+| **[Ignite Digital](https://ignite-digital.com)** | **[Project Management Analyst- Skillbridge Internship](https://jobright.ai/jobs/info/68ccf032d11b445e0bee4a3a?utm_campaign=1050&utm_source=git)** | Charleston, South Carolina Metropolitan Area | On Site | Feb 16 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Strategic Planning Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69930239ce78e77b4fd6d28d?utm_campaign=1050&utm_source=git)** | Kissimmee, FL | On Site | Feb 16 |
 | **[Yotpo](http://www.yotpo.com)** | **[Revenue Operations - Summer Intern](https://jobright.ai/jobs/info/6992f7ea81476f6176aa9287?utm_campaign=1050&utm_source=git)** | New York, United States | Hybrid | Feb 16 |
 | **[Air Products](https://www.airproducts.com/)** | **[Summer Intern-Supply Chain (2026)](https://jobright.ai/jobs/info/68b09f5713563e782a9f7e44?utm_campaign=1050&utm_source=git)** | Allentown, PA | On Site | Feb 16 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/6992f5e381476f6176aa8f65?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 16 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6992da1dce78e77b4fd6a262?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 16 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6992d9b3e0bddb6acac11665?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/6992d215e0bddb6acac11276?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 16 |
-| **[Bluecrest Partners](bluecrestpartners.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6992c571e0bddb6acac10e14?utm_campaign=1050&utm_source=git)** | Miami, FL | Remote | Feb 15 |
 | **[Fred Meyer](https://www.fredmeyer.com/)** | **[Pharmacist Grad Intern](https://jobright.ai/jobs/info/6992c12b81476f6176aa6145?utm_campaign=1050&utm_source=git)** | Coos Bay, OR | On Site | Feb 15 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Operations Internship](https://jobright.ai/jobs/info/6992be0a81476f6176aa60f8?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Research Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6992bb8cce78e77b4fd68a2c?utm_campaign=1050&utm_source=git)** | New York, NY, USA | On Site | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Charter Dura-Bar](https://www.charterdura-bar.com/)** | **[Supply Chain Intern - Summer 2026](https://jobright.ai/jobs/info/697441aa37785856350e3a5f?utm_campaign=1050&utm_source=git)** | Woodstock, IL | On Site | Feb 14 |
 | **[KI](http://www.ki.com)** | **[Operations Management Intern](https://jobright.ai/jobs/info/6990af600f6f7e7a2ced24fe?utm_campaign=1050&utm_source=git)** | Manitowoc, WI | On Site | Feb 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Strategic Planning Operations Co-op, New Product Development (July to December)](https://jobright.ai/jobs/info/697488b737785856350e9936?utm_campaign=1050&utm_source=git)** | Needham, MA | Hybrid | Feb 14 |
-| **[Crusoe](https://crusoe.ai)** | **[Technical Program Management Intern (IT & Security Department), Summer 2026](https://jobright.ai/jobs/info/6974500c37785856350e5f67?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 14 |
-| **[MSIG USA](https://www.msigusa.com/)** | **[Operations Excellence Business Analyst Intern](https://jobright.ai/jobs/info/69908b460f6f7e7a2ced0127?utm_campaign=1050&utm_source=git)** | NJ-Warren | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

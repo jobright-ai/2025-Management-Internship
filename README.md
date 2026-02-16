@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Rooms Internship - Summer 2026](https://jobright.ai/jobs/info/6992780f6ea51a7610f48235?utm_campaign=1050&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
+| ↳ | **[Omni Cares Food & Beverage Internship - Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/699272ce6ea51a7610f47fbd?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
+| ↳ | **[Omni Cares Food & Beverage Internship - Summer 2026 (Center of Excellence)](https://jobright.ai/jobs/info/6992712a0f6f7e7a2cee74bc?utm_campaign=1050&utm_source=git)** | US-OK-Oklahoma City | On Site | Feb 15 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Feb 15 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Administrative Intern](https://jobright.ai/jobs/info/699264b00f6f7e7a2cee71a4?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 15 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Rooms Internship - Summer 2026](https://jobright.ai/jobs/info/69927e700cc8ea15f1dcced4?utm_campaign=1050&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 15 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Administrative Intern](https://jobright.ai/jobs/info/69925a7c0f6f7e7a2cee706d?utm_campaign=1050&utm_source=git)** | North Carolina, United States | On Site | Feb 15 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69924ec26ea51a7610f479a4?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 15 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/699240716ea51a7610f46cd7?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 15 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Operations Management Intern, Summer 2026 - Food (Multiple U.S. Locations)](https://jobright.ai/jobs/info/697506e5bc8e722e7b19ff97?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 15 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern](https://jobright.ai/jobs/info/6933ba13a0dde7020e2f13eb?utm_campaign=1050&utm_source=git)** | Derby, KS | On Site | Feb 15 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2026 - Operations Analyst](https://jobright.ai/jobs/info/699219e16ea51a7610f44d0a?utm_campaign=1050&utm_source=git)** | Toronto, Ontario | Hybrid | Feb 15 |
-| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/6991e1a60f6f7e7a2cee2145?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 15 |
 | **[Apex Service Partners](https://apexservicepartners.com)** | **[MBA Intern - Operational Leadership (Midwest Region)](https://jobright.ai/jobs/info/695a2e0faa05c26e7ab3c3a0?utm_campaign=1050&utm_source=git)** | Manchester, MO | On Site | Feb 15 |
 | **[Alamo Colleges District](https://www.alamo.edu/pac/)** | **[Associate Director of Student Financial Services - DIS - req13431](https://jobright.ai/jobs/info/6991de280cc8ea15f1dc6e53?utm_campaign=1050&utm_source=git)** | San Antonio, TX | On Site | Feb 15 |
 | **[Vexra Engineering](vexraengineering.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/6991ddb30cc8ea15f1dc6df6?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Weitz Company](http://www.weitz.com)** | **[Nationwide Construction Safety Internship - Summer 2026](https://jobright.ai/jobs/info/691f73fb09cc522e87741732?utm_campaign=1050&utm_source=git)** | Des Moines, IA | On Site | Feb 14 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Intern - Procurement](https://jobright.ai/jobs/info/68e6f2a9ae2b894b1d71fe65?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 14 |
 | **[Graphcore](https://www.graphcore.ai/)** | **[Intern, Program & Planning Operations](https://jobright.ai/jobs/info/6973d2ea206da320f49dcda0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 14 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Park Services Hospitality Leadership Internship](https://jobright.ai/jobs/info/6974207337785856350e19ba?utm_campaign=1050&utm_source=git)** | Gurnee, IL | On Site | Feb 14 |
-| **[Dominium](https://www.dominiumapartments.com/)** | **[Property Management Intern - Summer 2026 - Atlanta, GA](https://jobright.ai/jobs/info/6958236baa05c26e7ab2038c?utm_campaign=1050&utm_source=git)** | Lawrenceville, GA | On Site | Feb 14 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[20th Television Office of the President Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698c703a78b4502f12a2f870?utm_campaign=1050&utm_source=git)** | Burbank, CA | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

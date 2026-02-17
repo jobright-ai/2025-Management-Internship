@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6993de08ce78e77b4fd7b251?utm_campaign=1050&utm_source=git)** | Merrillville, IN | On Site | Feb 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993dddfce78e77b4fd7b1cc?utm_campaign=1050&utm_source=git)** | Schererville, IN | On Site | Feb 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993dc2dce78e77b4fd7b00e?utm_campaign=1050&utm_source=git)** | Norfolk, NE | On Site | Feb 16 |
+| **[Schneider Electric](https://www.se.com)** | **[SE Ventures Summer Associate](https://jobright.ai/jobs/info/6993d768ce78e77b4fd7aa9e?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Feb 16 |
 | **[Filtrex Service Group](https://www.filtrexservicegroup.com/)** | **[Service Logistics Intern](https://jobright.ai/jobs/info/6993cceece78e77b4fd7a15a?utm_campaign=1050&utm_source=git)** | Tulsa, OK 74135 | On Site | Feb 16 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Sourcing](https://jobright.ai/jobs/info/6993cc1581476f6176ab67f0?utm_campaign=1050&utm_source=git)** | Mason, OH | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Procurement](https://jobright.ai/jobs/info/6993cb9dce78e77b4fd7a024?utm_campaign=1050&utm_source=git)** | US-TX-Austin | On Site | Feb 16 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Project Management Intern](https://jobright.ai/jobs/info/6993c9bfe0bddb6acac2116d?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Production & Supply Planning Intern](https://jobright.ai/jobs/info/6993c902e0bddb6acac210d2?utm_campaign=1050&utm_source=git)** | Commerce, CA | On Site | Feb 16 |
+| **[Weather Shield Roofing Systems](https://weathershieldusa.com)** | **[Logistic Internship](https://jobright.ai/jobs/info/6993d55081476f6176ab7025?utm_campaign=1050&utm_source=git)** | Wyoming, MI, USA | On Site | Feb 16 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Procurement](https://jobright.ai/jobs/info/6993d53f81476f6176ab701a?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 16 |
+| **[Red Stag Fulfillment](https://redstagfulfillment.com/)** | **[Operations Intern - Salt Lake City, UT](https://jobright.ai/jobs/info/6993db44ce78e77b4fd7aee1?utm_campaign=1050&utm_source=git)** | US-UT-Salt Lake City | On Site | Feb 16 |
+| **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Procurement](https://jobright.ai/jobs/info/6993db2581476f6176ab74fc?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6993d0c581476f6176ab6c1b?utm_campaign=1050&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | **[UNICO Group](http://unicogroup.com)** | **[Office Administration Intern](https://jobright.ai/jobs/info/698e608078b4502f12a5286d?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Feb 16 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Business Operations](https://jobright.ai/jobs/info/6977a4d2fdeb8243a27a8450?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Feb 16 |
@@ -87,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Aypa Power](https://www.aypa.com)** | **[Commercial Operations, Intern](https://jobright.ai/jobs/info/6993803fce78e77b4fd75180?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Supply Chain - Intern](https://jobright.ai/jobs/info/6993ab8781476f6176ab45b9?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | On Site | Feb 16 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Chief Operating Officer Group](https://jobright.ai/jobs/info/69937eb781476f6176ab1672?utm_campaign=1050&utm_source=git)** | Portland, ME | Hybrid | Feb 16 |
-| **[Hilldrup](http://hilldrup.com)** | **[Intern, International](https://jobright.ai/jobs/info/69939ebbce78e77b4fd771b3?utm_campaign=1050&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
-| ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/69939ebce0bddb6acac1e5f4?utm_campaign=1050&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
+| **[Hilldrup](http://hilldrup.com)** | **[Intern, Operations](https://jobright.ai/jobs/info/69939ebce0bddb6acac1e5f4?utm_campaign=1050&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
+| ↳ | **[Intern, International](https://jobright.ai/jobs/info/69939ebbce78e77b4fd771b3?utm_campaign=1050&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
 | **[Canam](https://www.groupecanam.com)** | **[Field Coordinator Intern](https://jobright.ai/jobs/info/6993a33e81476f6176ab3a1a?utm_campaign=1050&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Feb 16 |
 | **[SAP](https://www.sap.com)** | **[SAP Sustainability iXp Intern - Partner Engagement & Chief of Staff Support](https://jobright.ai/jobs/info/6993a44a81476f6176ab3bb4?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Triangle, VA 2025 - 2026](https://jobright.ai/jobs/info/698e822af64d441a1650cd55?utm_campaign=1050&utm_source=git)** | Triangle, VA | On Site | Feb 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sparrow](https://www.sparrowup.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6993603ee0bddb6acac1a2d7?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Metso](http://www.metso.com/)** | **[Summer Intern, Quote and Order Management](https://jobright.ai/jobs/info/698cb4a578b4502f12a32fad?utm_campaign=1050&utm_source=git)** | Columbia, SC | Hybrid | Feb 16 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Care Internship / Rooms / Summer 2026](https://jobright.ai/jobs/info/69933db5ce78e77b4fd7125f?utm_campaign=1050&utm_source=git)** | Charlotte, NC | On Site | Feb 16 |
-| **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Logistics & Supply Chain Internship- Summer 2026](https://jobright.ai/jobs/info/69933b36e0bddb6acac184f6?utm_campaign=1050&utm_source=git)** | Lititz, PA | On Site | Feb 16 |
-| **[The Restaurant Store](https://www.therestaurantstore.com)** | **[Branch Manager Internship](https://jobright.ai/jobs/info/699331eace78e77b4fd70ce8?utm_campaign=1050&utm_source=git)** | Pennsauken, NJ | On Site | Feb 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69932f0b81476f6176aad5ca?utm_campaign=1050&utm_source=git)** | Lafayette, IN | On Site | Feb 16 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Internship](https://jobright.ai/jobs/info/68e9bbecfeeb0006c1a56ee4?utm_campaign=1050&utm_source=git)** | Altoona, PA | On Site | Feb 16 |
-| **[Alstom](https://www.alstom.com/)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/698c1f820f6f7e7a2ce7b3ea?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69932db281476f6176aad4bb?utm_campaign=1050&utm_source=git)** | Bellevue, NE | On Site | Feb 16 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/6895693e73b3a600fe887358?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
-| **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/69932c1481476f6176aad302?utm_campaign=1050&utm_source=git)** | Marion, IL | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

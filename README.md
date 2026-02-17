@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Research Operations Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945d9ace78e77b4fd853e0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Operations Intern - Rockford, IL](https://jobright.ai/jobs/info/6977f5e288e2b47213bc0292?utm_campaign=1050&utm_source=git)** | Rockford, IL | On Site | Feb 17 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Project Management Intern](https://jobright.ai/jobs/info/699459c3e0bddb6acac2c155?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 17 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Internship Program](https://jobright.ai/jobs/info/69945911e0bddb6acac2c051?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Feb 17 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Project Manager Internship Summer 2026 (Clarke)](https://jobright.ai/jobs/info/695c0a3caa05c26e7ab55c9e?utm_campaign=1050&utm_source=git)** | Waukesha, WI | On Site | Feb 17 |
+| **[Filtrex Service Group](https://www.filtrexservicegroup.com/)** | **[Service Logistics Intern](https://jobright.ai/jobs/info/699455c981476f6176ac0e05?utm_campaign=1050&utm_source=git)** | Tulsa, OK | On Site | Feb 17 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Summer 2026 Intern - Fashion Office Assistant - New York](https://jobright.ai/jobs/info/695c4d5c22c9dc0d3d543932?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 17 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 17 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Flight Operations – Project Development Office (Fall 2026)](https://jobright.ai/jobs/info/697867fb39f7f96cc6d0d1d7?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Feb 17 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Management Operations Intern Summer 2026](https://jobright.ai/jobs/info/6977e11752f3c27ec644098d?utm_campaign=1050&utm_source=git)** | Cranberry Township, PA | Hybrid | Feb 17 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Minnesota](https://jobright.ai/jobs/info/691ae6eabcdbf3560c9db773?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 17 |
@@ -113,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6993eddbe0bddb6acac23709?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993e29981476f6176ab7ed3?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ecb6e0bddb6acac235ca?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Feb 16 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ee6ee0bddb6acac237bb?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ec3c81476f6176ab8c26?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Feb 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ee6ee0bddb6acac237bb?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Feb 16 |
 | **[Schneider Electric](https://www.se.com)** | **[SE Ventures Summer Associate](https://jobright.ai/jobs/info/6993d768ce78e77b4fd7aa9e?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Feb 16 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6985508c0f6f7e7a2cdff940?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 16 |
 | **[Weather Shield Roofing Systems](https://weathershieldusa.com)** | **[Logistic Internship](https://jobright.ai/jobs/info/6993d55081476f6176ab7025?utm_campaign=1050&utm_source=git)** | Wyoming, MI, USA | On Site | Feb 16 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CalPortland](https://www.calportland.com)** | **[Operations Intern](https://jobright.ai/jobs/info/699381b2ce78e77b4fd75370?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 16 |
 | **[Leybold](https://www.leybold.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/6993a570ce78e77b4fd7798f?utm_campaign=1050&utm_source=git)** | Export, PA | On Site | Feb 16 |
 | **[Aypa Power](https://www.aypa.com)** | **[Commercial Operations, Intern](https://jobright.ai/jobs/info/6993803fce78e77b4fd75180?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Supply Chain - Intern](https://jobright.ai/jobs/info/6993ab8781476f6176ab45b9?utm_campaign=1050&utm_source=git)** | Ridgefield, CT | On Site | Feb 16 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Chief Operating Officer Group](https://jobright.ai/jobs/info/69937eb781476f6176ab1672?utm_campaign=1050&utm_source=git)** | Portland, ME | Hybrid | Feb 16 |
-| **[Hilldrup](http://hilldrup.com)** | **[Intern, International](https://jobright.ai/jobs/info/69939ebbce78e77b4fd771b3?utm_campaign=1050&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
-| ↳ | **[Intern, Operations](https://jobright.ai/jobs/info/69939ebce0bddb6acac1e5f4?utm_campaign=1050&utm_source=git)** | Stafford, VA, US | On Site | Feb 16 |
-| **[Canam](https://www.groupecanam.com)** | **[Field Coordinator Intern](https://jobright.ai/jobs/info/6993a33e81476f6176ab3a1a?utm_campaign=1050&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | Feb 16 |
-| **[SAP](https://www.sap.com)** | **[SAP Sustainability iXp Intern - Partner Engagement & Chief of Staff Support](https://jobright.ai/jobs/info/6993a44a81476f6176ab3bb4?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
-| **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Internship Program - Triangle, VA 2025 - 2026](https://jobright.ai/jobs/info/698e822af64d441a1650cd55?utm_campaign=1050&utm_source=git)** | Triangle, VA | On Site | Feb 16 |
-| **[Jabil](https://www.jabil.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/6993c413ce78e77b4fd79ae2?utm_campaign=1050&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

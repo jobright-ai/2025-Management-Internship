@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/699424dbce78e77b4fd819a8?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 17 |
+| **[Orchestra](https://www.orchestraco.com)** | **[Summer 2026 Corporate Internship](https://jobright.ai/jobs/info/69941f2181476f6176abdb52?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB Invest. Development Effectiveness and Impact Measurement for Private Sector Operations Intern](https://jobright.ai/jobs/info/69941ef681476f6176abdb28?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Feb 16 |
+| **[Ducommun Incorporated](http://www.ducommun.com)** | **[Supply Chain Intern - Summer/Fall 2026](https://jobright.ai/jobs/info/69941c15ce78e77b4fd81183?utm_campaign=1050&utm_source=git)** | Appleton, WI | On Site | Feb 16 |
 | **[Silvi Materials](http://silvi.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/69941545ce78e77b4fd809cf?utm_campaign=1050&utm_source=git)** | Fairless Hills, PA | On Site | Feb 16 |
 | **[Vexra Engineering](vexraengineering.us)** | **[Procurement Intern](https://jobright.ai/jobs/info/6993f7d481476f6176ab9bd3?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 16 |
 | **[PSC by Rocket Lab](https://www.planetarysystemscorp.com/)** | **[Project Management Intern Summer 2026](https://jobright.ai/jobs/info/69940da881476f6176abc416?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Feb 16 |
@@ -78,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6993eddbe0bddb6acac23709?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993e29981476f6176ab7ed3?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ecb6e0bddb6acac235ca?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Feb 16 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ec3c81476f6176ab8c26?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ee6ee0bddb6acac237bb?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Feb 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ec3c81476f6176ab8c26?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Feb 16 |
 | **[Schneider Electric](https://www.se.com)** | **[SE Ventures Summer Associate](https://jobright.ai/jobs/info/6993d768ce78e77b4fd7aa9e?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Feb 16 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6985508c0f6f7e7a2cdff940?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 16 |
 | **[Weather Shield Roofing Systems](https://weathershieldusa.com)** | **[Logistic Internship](https://jobright.ai/jobs/info/6993d55081476f6176ab7025?utm_campaign=1050&utm_source=git)** | Wyoming, MI, USA | On Site | Feb 16 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Acquisition Management Specialist Intern (Transitioning Military)](https://jobright.ai/jobs/info/6993a72381476f6176ab3fb5?utm_campaign=1050&utm_source=git)** | Whidbey Island, WA, US | On Site | Feb 16 |
 | **[Methode Electronics](http://methode.com)** | **[Program Management Intern](https://jobright.ai/jobs/info/698fda640cc8ea15f1da7126?utm_campaign=1050&utm_source=git)** | Southfield, MI | On Site | Feb 16 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Project Management Intern - DeliveryWorks](https://jobright.ai/jobs/info/6993ae69e0bddb6acac1f5a8?utm_campaign=1050&utm_source=git)** | Indianapolis | On Site | Feb 16 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship / Rooms / Summer 2026](https://jobright.ai/jobs/info/6993bfdae0bddb6acac208f4?utm_campaign=1050&utm_source=git)** | US-NC-Charlotte | On Site | Feb 16 |
-| ↳ | **[Omni Care Internship / Rooms / Summer 2026](https://jobright.ai/jobs/info/69939841ce78e77b4fd76a86?utm_campaign=1050&utm_source=git)** | Charlotte, NC, US | On Site | Feb 16 |
+| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Internship / Rooms / Summer 2026](https://jobright.ai/jobs/info/69939841ce78e77b4fd76a86?utm_campaign=1050&utm_source=git)** | Charlotte, NC, US | On Site | Feb 16 |
+| ↳ | **[Omni Care Internship / Rooms / Summer 2026](https://jobright.ai/jobs/info/6993bfdae0bddb6acac208f4?utm_campaign=1050&utm_source=git)** | US-NC-Charlotte | On Site | Feb 16 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Project Management Intern - Huntsville AL](https://jobright.ai/jobs/info/6993ac35ce78e77b4fd77fea?utm_campaign=1050&utm_source=git)** | United States-Alabama-Huntsville | On Site | Feb 16 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Internship - Keene, NH](https://jobright.ai/jobs/info/6993a6f981476f6176ab3f63?utm_campaign=1050&utm_source=git)** | Keene, NH, US | On Site | Feb 16 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Supply Chain Transformation Intern](https://jobright.ai/jobs/info/6993367ee0bddb6acac182a0?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 16 |
-| **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Business Office Intern FR](https://jobright.ai/jobs/info/69937c36e0bddb6acac1c0e4?utm_campaign=1050&utm_source=git)** | Naples, FL | On Site | Feb 16 |
-| **[Joby Aviation](http://www.jobyaviation.com)** | **[Material Program Manager (MPM) Intern](https://jobright.ai/jobs/info/69937d8ee0bddb6acac1c26a?utm_campaign=1050&utm_source=git)** | San Carlos, CA | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

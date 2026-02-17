@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Knowledge Management Program](https://jobright.ai/jobs/info/6994390bce78e77b4fd82cc4?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Feb 17 |
+| ↳ | **[Intern: Fleet Allocation Specialist](https://jobright.ai/jobs/info/69943895ce78e77b4fd82c41?utm_campaign=1050&utm_source=git)** | Columbia, MO | On Site | Feb 17 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Alabama](https://jobright.ai/jobs/info/6994380d81476f6176abf1b6?utm_campaign=1050&utm_source=git)** | Tampa, FL | On Site | Feb 17 |
 | **[Orvanta](orvanta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699436ebce78e77b4fd82a95?utm_campaign=1050&utm_source=git)** | Denver, CO | Remote | Feb 17 |
 | **[SE Health](https://sehc.com/)** | **[Strategy & Growth Analyst (Managed Services & AI Enablement) - Master’s Internship](https://jobright.ai/jobs/info/6994360b81476f6176abefdc?utm_campaign=1050&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 17 |
 | **[Culligan International](http://www.culligan.com/)** | **[Intern, Strategy Analyst](https://jobright.ai/jobs/info/695c82e9f1f8465b79f2a750?utm_campaign=1050&utm_source=git)** | Rosemont, IL | On Site | Feb 17 |
@@ -92,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6993eddbe0bddb6acac23709?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993e29981476f6176ab7ed3?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ecb6e0bddb6acac235ca?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Feb 16 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ec3c81476f6176ab8c26?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ee6ee0bddb6acac237bb?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Feb 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ec3c81476f6176ab8c26?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Feb 16 |
 | **[Schneider Electric](https://www.se.com)** | **[SE Ventures Summer Associate](https://jobright.ai/jobs/info/6993d768ce78e77b4fd7aa9e?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Feb 16 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6985508c0f6f7e7a2cdff940?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 16 |
 | **[Weather Shield Roofing Systems](https://weathershieldusa.com)** | **[Logistic Internship](https://jobright.ai/jobs/info/6993d55081476f6176ab7025?utm_campaign=1050&utm_source=git)** | Wyoming, MI, USA | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/699398b2ce78e77b4fd76ae9?utm_campaign=1050&utm_source=git)** | Jacksonville, AL | On Site | Feb 16 |
 | **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern Operations](https://jobright.ai/jobs/info/699227e30f6f7e7a2cee48a8?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 16 |
 | **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/69939a05e0bddb6acac1e13e?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 16 |
-| **[Naples Comprehensive Health - NCH](http://www.nchmd.org/)** | **[Administrative Intern NCH Medical Group FR](https://jobright.ai/jobs/info/69936dd581476f6176ab0a09?utm_campaign=1050&utm_source=git)** | Naples, FL | On Site | Feb 16 |
-| **[Collier Construction, LLC](http://www.collierconstruction.com)** | **[Assistant Project Coordinator Regular Position or Internship](https://jobright.ai/jobs/info/69938c40e0bddb6acac1d2e6?utm_campaign=1050&utm_source=git)** | Brenham, TX | On Site | Feb 16 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Risk](https://jobright.ai/jobs/info/69936ca5e0bddb6acac1b3de?utm_campaign=1050&utm_source=git)** | Portland, Maine | Hybrid | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

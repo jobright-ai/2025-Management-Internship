@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-Op - Supply Chain (Summer 2026)](https://jobright.ai/jobs/info/68ccd8f9d11b445e0bee2c04?utm_campaign=1050&utm_source=git)** | Garyville, LA | On Site | Feb 17 |
+| **[Big Sky Resort](http://www.bigskyresort.com)** | **[Hospitality Management Internship Program](https://jobright.ai/jobs/info/6977ba44fdeb8243a27aa800?utm_campaign=1050&utm_source=git)** | Big Sky, MT | On Site | Feb 17 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Software Technical Program Manager Co-op (July to December)](https://jobright.ai/jobs/info/697883df52f3c27ec644d46b?utm_campaign=1050&utm_source=git)** | Needham, MA | On Site | Feb 17 |
+| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Intern/Co-op - Commercial (Summer 2026 - Raleigh, NC)](https://jobright.ai/jobs/info/695c3a1caa05c26e7ab58a80?utm_campaign=1050&utm_source=git)** | Cary, NC | On Site | Feb 17 |
+| **[Fabletics](https://www.fabletics.com/)** | **[Technical Project Management Intern](https://jobright.ai/jobs/info/697869c839f7f96cc6d0d389?utm_campaign=1050&utm_source=git)** | El Segundo, CA | Hybrid | Feb 17 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Operations Intern - Garland, Texas (Shiloh)](https://jobright.ai/jobs/info/6977fa8052f3c27ec644352b?utm_campaign=1050&utm_source=git)** | Garland, TX | On Site | Feb 17 |
+| **[Cintas](https://www.cintas.com)** | **[Intern - Global Supply Chain - Distribution Center](https://jobright.ai/jobs/info/6993a25581476f6176ab38c5?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
+| **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Operations Intern - Marengo, IL](https://jobright.ai/jobs/info/6977ed9ffdeb8243a27ae627?utm_campaign=1050&utm_source=git)** | Marengo, IL | On Site | Feb 17 |
 | **[J.B. Hunt Transport Services, Inc.](http://www.jbhunt.com)** | **[Operations Internship - Summer 2026](https://jobright.ai/jobs/info/6978aa2288e2b47213bcc6dd?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[2026 Operations Intern - Fernley, NV](https://jobright.ai/jobs/info/6977eab0fdeb8243a27ae104?utm_campaign=1050&utm_source=git)** | Fernley, NV | On Site | Feb 17 |
 | ↳ | **[2026 Operations Intern - Massillon, OH](https://jobright.ai/jobs/info/6977eacefdeb8243a27ae139?utm_campaign=1050&utm_source=git)** | Massillon, OH | On Site | Feb 17 |
@@ -134,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Menards](https://www.menards.com)** | **[Management Internship](https://jobright.ai/jobs/info/6993eddbe0bddb6acac23709?utm_campaign=1050&utm_source=git)** | Montgomery, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993e29981476f6176ab7ed3?utm_campaign=1050&utm_source=git)** | Homer Glen, IL | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ecb6e0bddb6acac235ca?utm_campaign=1050&utm_source=git)** | Iowa City, IA | On Site | Feb 16 |
-| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ee6ee0bddb6acac237bb?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Feb 16 |
 | ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ec3c81476f6176ab8c26?utm_campaign=1050&utm_source=git)** | Mankato, MN | On Site | Feb 16 |
+| ↳ | **[Management Internship](https://jobright.ai/jobs/info/6993ee6ee0bddb6acac237bb?utm_campaign=1050&utm_source=git)** | Portage, IN | On Site | Feb 16 |
 | **[Schneider Electric](https://www.se.com)** | **[SE Ventures Summer Associate](https://jobright.ai/jobs/info/6993d768ce78e77b4fd7aa9e?utm_campaign=1050&utm_source=git)** | Palo Alto, CA | On Site | Feb 16 |
 | **[Jordan Valley Health](https://jordanvalley.org)** | **[Healthcare Administration Intern](https://jobright.ai/jobs/info/6985508c0f6f7e7a2cdff940?utm_campaign=1050&utm_source=git)** | Springfield, MO | On Site | Feb 16 |
 | **[Weather Shield Roofing Systems](https://weathershieldusa.com)** | **[Logistic Internship](https://jobright.ai/jobs/info/6993d55081476f6176ab7025?utm_campaign=1050&utm_source=git)** | Wyoming, MI, USA | On Site | Feb 16 |
@@ -143,18 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Oakwood Village](https://www.oakwoodvillage.net/)** | **[Development and Donor Relations Internship](https://jobright.ai/jobs/info/6993f6ccce78e77b4fd7d45f?utm_campaign=1050&utm_source=git)** | Madison, Wisconsin, United States | On Site | Feb 16 |
 | **[Red Stag Fulfillment](https://redstagfulfillment.com/)** | **[Operations Intern - Salt Lake City, UT](https://jobright.ai/jobs/info/6993ec7881476f6176ab8c70?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT, US | On Site | Feb 16 |
 | ↳ | **[Operations Intern - Salt Lake City, UT](https://jobright.ai/jobs/info/6993db44ce78e77b4fd7aee1?utm_campaign=1050&utm_source=git)** | US-UT-Salt Lake City | On Site | Feb 16 |
-| **[Silvi Materials](http://silvi.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/6993ef9381476f6176ab90e3?utm_campaign=1050&utm_source=git)** | US-PA-Fairless Hills | On Site | Feb 16 |
-| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/6993ea49e0bddb6acac231c2?utm_campaign=1050&utm_source=git)** | Fairless Hills, PA, US | On Site | Feb 16 |
+| **[Silvi Materials](http://silvi.com)** | **[Logistics Intern](https://jobright.ai/jobs/info/6993ea49e0bddb6acac231c2?utm_campaign=1050&utm_source=git)** | Fairless Hills, PA, US | On Site | Feb 16 |
+| ↳ | **[Logistics Intern](https://jobright.ai/jobs/info/6993ef9381476f6176ab90e3?utm_campaign=1050&utm_source=git)** | US-PA-Fairless Hills | On Site | Feb 16 |
 | **[RPM Living](https://www.rpmliving.com/)** | **[Intern, Procurement](https://jobright.ai/jobs/info/6993db2581476f6176ab74fc?utm_campaign=1050&utm_source=git)** | Austin, TX, US | On Site | Feb 16 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/6993d0c581476f6176ab6c1b?utm_campaign=1050&utm_source=git)** | Buffalo, NY, US | On Site | Feb 16 |
 | **[UNICO Group](http://unicogroup.com)** | **[Office Administration Intern](https://jobright.ai/jobs/info/698e608078b4502f12a5286d?utm_campaign=1050&utm_source=git)** | Lincoln, NE | On Site | Feb 16 |
 | **[Arkansas Children's](https://www.archildrens.org/locations/arkansas-childrens-nw)** | **[Elevate Summer Internship 2026- Business Operations](https://jobright.ai/jobs/info/6977a4d2fdeb8243a27a8450?utm_campaign=1050&utm_source=git)** | Springdale, AR | On Site | Feb 16 |
-| **[FleetPride](http://fleetpride.com/)** | **[Supply Chain Internship-Process Improvement](https://jobright.ai/jobs/info/6993f310ce78e77b4fd7cec1?utm_campaign=1050&utm_source=git)** | Dallas, Texas | On Site | Feb 16 |
-| **[Hannis T. Bourgeois, LLP](http://htbcpa.com)** | **[Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6993a0cbe0bddb6acac1e7b3?utm_campaign=1050&utm_source=git)** | Baton Rouge, LA | On Site | Feb 16 |
-| **[Fiserv](http://www.fiserv.com)** | **[Corporate Internship Program (Milwaukee, WI)](https://jobright.ai/jobs/info/69939a3a81476f6176ab2daf?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
-| **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Warehouse Operations Intern](https://jobright.ai/jobs/info/699398b781476f6176ab2bed?utm_campaign=1050&utm_source=git)** | Richmond, CA | On Site | Feb 16 |
-| **[Utz Brands, Inc.](http://www.utzsnacks.com/)** | **[Supply Chain Summer Internship](https://jobright.ai/jobs/info/699396aece78e77b4fd768a7?utm_campaign=1050&utm_source=git)** | State College, PA | On Site | Feb 16 |
-| **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[SkillBridge Acquisition Management Specialist Intern (Transitioning Military)](https://jobright.ai/jobs/info/6993927ce0bddb6acac1dad3?utm_campaign=1050&utm_source=git)** | Whidbey Island Station, WA | On Site | Feb 16 |
-| **[YMCA of the Rockies](https://ymcarockies.org)** | **[Program Administration Intern- EPC (2026)](https://jobright.ai/jobs/info/69939237ce78e77b4fd76574?utm_campaign=1050&utm_source=git)** | Estes Park, CO | On Site | Feb 16 |
-| **[New Era Cap](https://www.neweracap.com/)** | **[License Management Team Intern](https://jobright.ai/jobs/info/6993b592ce78e77b4fd78ac5?utm_campaign=1050&utm_source=git)** | Buffalo, NY | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

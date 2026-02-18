@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHI International Corp.](http://www.shi.com)** | **[Project Coordinator- Intern](https://jobright.ai/jobs/info/69951c50ce78e77b4fd933a7?utm_campaign=1050&utm_source=git)** | Piscataway, NJ | On Site | Feb 17 |
+| **[Sargent & Lundy](http://www.sargentlundy.com)** | **[Project Controls Intern (Summer 2026)](https://jobright.ai/jobs/info/6995189781476f6176acf5f4?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
+| **[Databricks](https://www.databricks.com)** | **[MBA Intern - Corporate Operations (Corp Ops)](https://jobright.ai/jobs/info/6995187fce78e77b4fd92fb8?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 17 |
 | **[Erbe USA Incorporated](https://www.erbe-med.com/)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699517f081476f6176acf54c?utm_campaign=1050&utm_source=git)** | Tempe, Arizona, United States | On Site | Feb 17 |
 | **[Disability Partnerships](http://www.disabilitypartnerships.org)** | **[Strategic Program Intern](https://jobright.ai/jobs/info/699517b881476f6176acf51d?utm_campaign=1050&utm_source=git)** | Texas, United States | Remote | Feb 17 |
 | **[Databricks](https://www.databricks.com)** | **[MBA Intern - Corporate Operations (Corp Ops)](https://jobright.ai/jobs/info/69951724ce78e77b4fd92f17?utm_campaign=1050&utm_source=git)** | San Francisco, California | On Site | Feb 17 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[ibis, ibis Styles, ibis budget](http://www.ibis.com)** | **[Stage Réceptionniste Revenue Manager Avec Logement (H/F)](https://jobright.ai/jobs/info/6994d27f81476f6176aca433?utm_campaign=1050&utm_source=git)** | All, MO | On Site | Feb 17 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Corporate Strategy & Operations Internship](https://jobright.ai/jobs/info/6994d1ad81476f6176aca31c?utm_campaign=1050&utm_source=git)** | 700 Sylvan Ave Englewood Cliffs, NJ, USA | On Site | Feb 17 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Ticket Operations– Ontario Reign](https://jobright.ai/jobs/info/6994f02481476f6176acc94b?utm_campaign=1050&utm_source=git)** | Ontario, CA | On Site | Feb 17 |
-| **[BOWA Construction](https://thebowagroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6994f979ce78e77b4fd90c28?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | On Site | Feb 17 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6994fb7781476f6176acd5ab?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Feb 17 |
+| **[BOWA Construction](https://thebowagroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6994fb7781476f6176acd5ab?utm_campaign=1050&utm_source=git)** | Dallas, TX, US | On Site | Feb 17 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6994f979ce78e77b4fd90c28?utm_campaign=1050&utm_source=git)** | Chicago, IL, US | On Site | Feb 17 |
 | **[Hill International, Inc.](http://hillintl.com)** | **[Construction Project Management Intern](https://jobright.ai/jobs/info/698c3a0a91fdda424d592035?utm_campaign=1050&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Supply Chain](https://jobright.ai/jobs/info/6994cbf981476f6176ac9dbb?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 17 |
 | **[Air Lift Company](http://airliftcompany.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6994fc2981476f6176acd6b9?utm_campaign=1050&utm_source=git)** | Lansing, MI, US | On Site | Feb 17 |
@@ -121,16 +124,16 @@ For a complete list, click the following sortable link below:
 | **[TriNet](http://trinet.com)** | **[Intern, Business Analyst, Insurance Services and Operations](https://jobright.ai/jobs/info/697910c839f7f96cc6d16d72?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 | **[STERIS](http://steris.com)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/6994c42be0bddb6acac33b4f?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 17 |
 | **[Suntory Global Spirits](https://www.suntoryglobalspirits.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6994e243e0bddb6acac3624a?utm_campaign=1050&utm_source=git)** | Clermont, KY | On Site | Feb 17 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - FAM Team](https://jobright.ai/jobs/info/6994e9c2e0bddb6acac36bd4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
-| ↳ | **[Intern - Operations Specialist](https://jobright.ai/jobs/info/6994e422e0bddb6acac3648d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations Specialist](https://jobright.ai/jobs/info/6994e422e0bddb6acac3648d?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
+| ↳ | **[Intern - FAM Team](https://jobright.ai/jobs/info/6994e9c2e0bddb6acac36bd4?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | ↳ | **[Intern - Operations (Yachts & Villas)](https://jobright.ai/jobs/info/6994ecd2ce78e77b4fd8ffee?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[MTF Biologics](https://www.mtfbiologics.org/)** | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/6994eecbce78e77b4fd902b2?utm_campaign=1050&utm_source=git)** | Jessup, PA | On Site | Feb 17 |
 | **[Red Hat](http://www.redhat.com)** | **[Program Manager Intern](https://jobright.ai/jobs/info/6994e04fce78e77b4fd8f022?utm_campaign=1050&utm_source=git)** | Boston | On Site | Feb 17 |
 | **[OTR Solutions](http://www.otrsolutions.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6994e816e0bddb6acac369b2?utm_campaign=1050&utm_source=git)** | Scottsdale, AZ | On Site | Feb 17 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Operational Excellence Intern - Summer 2026](https://jobright.ai/jobs/info/697237ae4ccbf64f8df225dd?utm_campaign=1050&utm_source=git)** | Del Mar, CA | Hybrid | Feb 17 |
 | **[Maxim Healthcare](https://www.maximhealthcare.com)** | **[HQ Intern - IT Asset Management](https://jobright.ai/jobs/info/6994bcc9e0bddb6acac32f39?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Feb 17 |
-| **[BECI](http://www.be-ci.com)** | **[Internship- Project Manager/Engineer (MIA)](https://jobright.ai/jobs/info/6994dc68e0bddb6acac35aca?utm_campaign=1050&utm_source=git)** | Hollywood, Florida, United States | On Site | Feb 17 |
-| ↳ | **[Internship- Project Manager/Engineer (NASH)](https://jobright.ai/jobs/info/6994f5a8ce78e77b4fd90964?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 17 |
+| **[BECI](http://www.be-ci.com)** | **[Internship- Project Manager/Engineer (NASH)](https://jobright.ai/jobs/info/6994f5a8ce78e77b4fd90964?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 17 |
+| ↳ | **[Internship- Project Manager/Engineer (MIA)](https://jobright.ai/jobs/info/6994dc68e0bddb6acac35aca?utm_campaign=1050&utm_source=git)** | Hollywood, Florida, United States | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Operations (Yachts & Villas)](https://jobright.ai/jobs/info/6994bbeace78e77b4fd8bc03?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 17 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Program Management Intern, Deep Learning Software - Summer 2026](https://jobright.ai/jobs/info/6978384888e2b47213bc3ff6?utm_campaign=1050&utm_source=git)** | Santa Clara, CA | On Site | Feb 17 |
 | **[SCP Health](https://www.scphealth.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6994eeac81476f6176acc73e?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Feb 17 |
@@ -144,17 +147,14 @@ For a complete list, click the following sortable link below:
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Club Operations Intern, Some Travel Required - Chesterfield, MI](https://jobright.ai/jobs/info/6978fdae88e2b47213bd0897?utm_campaign=1050&utm_source=git)** | Chesterfield, MI | On Site | Feb 17 |
 | **[Trean Corporation](https://www.treancorp.com/)** | **[Program Underwriting & Operations Intern](https://jobright.ai/jobs/info/6994eeca81476f6176acc762?utm_campaign=1050&utm_source=git)** | WAYZATA,MN,US | On Site | Feb 17 |
 | **[Robynex Automation](robynexautomation.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/6994d3b6ce78e77b4fd8e27d?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 17 |
-| **[Longbridge Financial, LLC (NMLS# 957935)](http://www.longbridge-financial.com)** | **[Summer Internship - Houston Office](https://jobright.ai/jobs/info/6994d8e9ce78e77b4fd8e8a0?utm_campaign=1050&utm_source=git)** | 945 Bunker Hill Rd, Houston, TX 77024, USA | On Site | Feb 17 |
-| ↳ | **[Summer Internship - Houston Office  - Servicing](https://jobright.ai/jobs/info/6994e8ed81476f6176acbf10?utm_campaign=1050&utm_source=git)** | 945 Bunker Hill Rd, Houston, TX 77024, USA | On Site | Feb 17 |
+| **[Longbridge Financial, LLC (NMLS# 957935)](http://www.longbridge-financial.com)** | **[Summer Internship - Houston Office  - Servicing](https://jobright.ai/jobs/info/6994e8ed81476f6176acbf10?utm_campaign=1050&utm_source=git)** | 945 Bunker Hill Rd, Houston, TX 77024, USA | On Site | Feb 17 |
+| ↳ | **[Summer Internship - Houston Office](https://jobright.ai/jobs/info/6994d8e9ce78e77b4fd8e8a0?utm_campaign=1050&utm_source=git)** | 945 Bunker Hill Rd, Houston, TX 77024, USA | On Site | Feb 17 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Summer 2026 Intern](https://jobright.ai/jobs/info/6978586e88e2b47213bc809a?utm_campaign=1050&utm_source=git)** | Nanaimo, British Columbia, Canada | On Site | Feb 17 |
-| **[MTF](https://www.mtf.co.nz/)** | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/6994de31e0bddb6acac35d0f?utm_campaign=1050&utm_source=git)** | US-PA-Jessup | On Site | Feb 17 |
-| ↳ | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/6994f22ece78e77b4fd906d8?utm_campaign=1050&utm_source=git)** | Jessup, PA, US | On Site | Feb 17 |
+| **[MTF](https://www.mtf.co.nz/)** | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/6994f22ece78e77b4fd906d8?utm_campaign=1050&utm_source=git)** | Jessup, PA, US | On Site | Feb 17 |
+| ↳ | **[Summer Intern - Supply Chain Management](https://jobright.ai/jobs/info/6994de31e0bddb6acac35d0f?utm_campaign=1050&utm_source=git)** | US-PA-Jessup | On Site | Feb 17 |
 | **[RBC](https://www.rbc.com)** | **[2026 PCG Spring Intern - Seattle](https://jobright.ai/jobs/info/6994d44081476f6176aca64f?utm_campaign=1050&utm_source=git)** | Seattle, Washington, United States of America | On Site | Feb 17 |
-| **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Executive Intern](https://jobright.ai/jobs/info/6994d0c8ce78e77b4fd8def7?utm_campaign=1050&utm_source=git)** | US-FL-Gainesville | On Site | Feb 17 |
-| ↳ | **[Executive Intern](https://jobright.ai/jobs/info/6994cf3081476f6176aca050?utm_campaign=1050&utm_source=git)** | Gainesville, FL, US | On Site | Feb 17 |
+| **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[Executive Intern](https://jobright.ai/jobs/info/6994cf3081476f6176aca050?utm_campaign=1050&utm_source=git)** | Gainesville, FL, US | On Site | Feb 17 |
+| ↳ | **[Executive Intern](https://jobright.ai/jobs/info/6994d0c8ce78e77b4fd8def7?utm_campaign=1050&utm_source=git)** | US-FL-Gainesville | On Site | Feb 17 |
 | **[RBC](https://www.rbc.com)** | **[2026 PCG Spring Intern - Seattle](https://jobright.ai/jobs/info/6994cf56ce78e77b4fd8dd49?utm_campaign=1050&utm_source=git)** | Seattle, Washington, United States of America | On Site | Feb 17 |
 | **[Aventiv Technologies](https://www.aventiv.com/)** | **[Summer 2026 Intern - Supply Chain](https://jobright.ai/jobs/info/6994f5c4e0bddb6acac37ac4?utm_campaign=1050&utm_source=git)** | Houston, Texas, United States | On Site | Feb 17 |
-| **[US LBM](http://uslbm.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6994aeaee0bddb6acac31f59?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 17 |
-| **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2026 – Portfolio Strategy and Asset Management Intern](https://jobright.ai/jobs/info/6994e58781476f6176acbabc?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Feb 17 |
-| ↳ | **[Intern the Otsuka Way 2026 – Portfolio Strategy and Asset Management Intern](https://jobright.ai/jobs/info/6994e05ee0bddb6acac35fe2?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

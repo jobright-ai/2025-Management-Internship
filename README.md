@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[US LBM](http://uslbm.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6997578581476f6176af7cc8?utm_campaign=1050&utm_source=git)** | Killeen-Temple Area | On Site | Feb 19 |
+| **[Ardagh Group](http://www.ardaghgroup.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/699754e1e0bddb6acac615b0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
+| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/6997533fce78e77b4fdbb34f?utm_campaign=1050&utm_source=git)** | West Des Moines, IA | On Site | Feb 19 |
+| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/699751f2e0bddb6acac613d0?utm_campaign=1050&utm_source=git)** | Pelham, AL | On Site | Feb 19 |
+| **[Okta](http://www.okta.com)** | **[Company Planning & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699750b3ce78e77b4fdbb172?utm_campaign=1050&utm_source=git)** | Bellevue, Washington | On Site | Feb 19 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Physician Enterprise Operations and Analytics Intern](https://jobright.ai/jobs/info/69975099e0bddb6acac61317?utm_campaign=1050&utm_source=git)** | 475 South St, Morristown, NJ, 07960, US | On Site | Feb 19 |
+| **[Siemens](https://www.siemens.com)** | **[Business Excellence - Process & Program Internship](https://jobright.ai/jobs/info/69974ee9ce78e77b4fdbb013?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
+| ↳ | **[Logistics Internship](https://jobright.ai/jobs/info/69974da3ce78e77b4fdbaf27?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
+| **[US LBM](http://uslbm.com)** | **[US LBM Credit Intern](https://jobright.ai/jobs/info/69974d89ce78e77b4fdbaf18?utm_campaign=1050&utm_source=git)** | Jacksonville, FL | On Site | Feb 19 |
+| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69974d7bce78e77b4fdbaf0c?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
+| **[BMO](http://www.bmo.com)** | **[Project Coordinator, Summer 2026 (Internship) - 4 months](https://jobright.ai/jobs/info/69974d59ce78e77b4fdbaef7?utm_campaign=1050&utm_source=git)** | San Ramon, CA, USA | On Site | Feb 19 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/699749afe0bddb6acac60df8?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 19 |
+| **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6997499e81476f6176af6f20?utm_campaign=1050&utm_source=git)** | United States of America - Charlotte NC | Hybrid | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69974897ce78e77b4fdba7cf?utm_campaign=1050&utm_source=git)** | Worthington, OH | On Site | Feb 19 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6997489781476f6176af6bc7?utm_campaign=1050&utm_source=git)** | Princeton | Hybrid | Feb 19 |
 | **[Cencora](http://www.cencora.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/699747bce0bddb6acac6075c?utm_campaign=1050&utm_source=git)** | Corona, CA | On Site | Feb 19 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Activation & Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/6996d35f81476f6176aecf5f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[Aramark](http://www.aramark.com)** | **[Concessions Operations Intern - Kauffman Stadium - Concessions](https://jobright.ai/jobs/info/6997172481476f6176af3180?utm_campaign=1050&utm_source=git)** | Kansas City, MO | On Site | Feb 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6996d16b81476f6176aece1b?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 19 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 - Intern - RMS HOL Operations Coordinator](https://jobright.ai/jobs/info/69791e1239f7f96cc6d17c12?utm_campaign=1050&utm_source=git)** | Hollister, CA | Hybrid | Feb 19 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Property Management Intern - Onsite (AZ)](https://jobright.ai/jobs/info/6996cbdfce78e77b4fdb05cf?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Feb 19 |
-| ↳ | **[2026 Intern - Material Program Management Intern - Onsite (CA)](https://jobright.ai/jobs/info/6996cb68e0bddb6acac56b6d?utm_campaign=1050&utm_source=git)** | Goleta, CA | On Site | Feb 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6996edbace78e77b4fdb1fce?utm_campaign=1050&utm_source=git)** | Honolulu, HI | On Site | Feb 19 |
-| **[Raytheon](http://www.bbn.com)** | **[2026 Intern - Logistics Intern - Onsite (AZ)](https://jobright.ai/jobs/info/6996c81481476f6176aec7a7?utm_campaign=1050&utm_source=git)** | Tucson, AZ | On Site | Feb 19 |
-| **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[Operational Excellence Intern](https://jobright.ai/jobs/info/6996c5f6e0bddb6acac56940?utm_campaign=1050&utm_source=git)** | Clermont, KY | On Site | Feb 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6996f2afce78e77b4fdb2dae?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 18 |
-| ↳ | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6996ef10ce78e77b4fdb22fb?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 18 |
-| ↳ | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6996ec0de0bddb6acac58486?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 18 |
-| ↳ | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6996eddce0bddb6acac585d6?utm_campaign=1050&utm_source=git)** | Irvine, CA | On Site | Feb 18 |
-| ↳ | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/6996f57681476f6176aef97a?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 18 |
-| ↳ | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6996f4d9ce78e77b4fdb336a?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 18 |
-| ↳ | **[Operations Intern - Jacksonville State University](https://jobright.ai/jobs/info/6996f3d681476f6176aef5f7?utm_campaign=1050&utm_source=git)** | El Paso, TX | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

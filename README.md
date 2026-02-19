@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/699787dbe0bddb6acac639e5?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 19 |
 | **[Project Management Advisors, Inc. (PMA)](http://pmainc.com)** | **[Project Summer Intern](https://jobright.ai/jobs/info/69978383e0bddb6acac63710?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 19 |
 | **[Langley Federal Credit Union](https://www.langleyfcu.org)** | **[Summer Intern- Operations](https://jobright.ai/jobs/info/699781fee0bddb6acac635fa?utm_campaign=1050&utm_source=git)** | Newport News, VA | On Site | Feb 19 |
 | **[UPMC](https://www.upmc.com/)** | **[Leasing and Property Management Intern](https://jobright.ai/jobs/info/69978163e0bddb6acac63594?utm_campaign=1050&utm_source=git)** | Harrisburg, PA | On Site | Feb 19 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Intern, Facility Management Manager Trainee](https://jobright.ai/jobs/info/6997778e81476f6176af9597?utm_campaign=1050&utm_source=git)** | Merced, CA | On Site | Feb 19 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/6997759cce78e77b4fdbcd56?utm_campaign=1050&utm_source=git)** | Arlington, VA | On Site | Feb 19 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[DoD SkillBridge Intern-Project Administrator II](https://jobright.ai/jobs/info/69976da281476f6176af8b3b?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 19 |
+| **[Texas Instruments](http://www.ti.com)** | **[Operations Intern](https://jobright.ai/jobs/info/699789a081476f6176af9f4f?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/69976c73ce78e77b4fdbc3f0?utm_campaign=1050&utm_source=git)** | Sacramento, California, United States | On Site | Feb 19 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69976b8be0bddb6acac6245b?utm_campaign=1050&utm_source=git)** | Middletown, CT | On Site | Feb 19 |
 | **[Architectural Sales, A Division of Lensing Building Specialties](https://www.lensingarchitecturalsales.com)** | **[Project Management &amp; Estimating Intern - Construction](https://jobright.ai/jobs/info/69976b8381476f6176af89de?utm_campaign=1050&utm_source=git)** | 600 North Sixth Avenue, Evansville, IN, USA | On Site | Feb 19 |
@@ -74,9 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Allen Lund Company](http://www.allenlund.com/)** | **[Logistics Coordinator Internship](https://jobright.ai/jobs/info/6997695ce0bddb6acac62236?utm_campaign=1050&utm_source=git)** | Meridian, ID | On Site | Feb 19 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/6997692ece78e77b4fdbc17c?utm_campaign=1050&utm_source=git)** | Asheville, North Carolina, United States | On Site | Feb 19 |
 | ↳ | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/699768a4e0bddb6acac62187?utm_campaign=1050&utm_source=git)** | Huntsville, Alabama, United States | On Site | Feb 19 |
+| ↳ | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/69978713e0bddb6acac63962?utm_campaign=1050&utm_source=git)** | Nashville, TN | On Site | Feb 19 |
 | **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Supply Chain Summer Intern](https://jobright.ai/jobs/info/6997682bce78e77b4fdbc061?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 19 |
 | ↳ | **[Field Service Project Manager Intern](https://jobright.ai/jobs/info/699766ebce78e77b4fdbbf1c?utm_campaign=1050&utm_source=git)** | Houston, TX | On Site | Feb 19 |
 | **[Texas Instruments](http://www.ti.com)** | **[Operations Intern](https://jobright.ai/jobs/info/69976679e0bddb6acac61f60?utm_campaign=1050&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Feb 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/6997891be0bddb6acac63ab8?utm_campaign=1050&utm_source=git)** | Broadway, NC | Remote | Feb 19 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/69975e1cce78e77b4fdbb8f7?utm_campaign=1050&utm_source=git)** | Princeton, NJ | Hybrid | Feb 19 |
 | **[US LBM](http://uslbm.com)** | **[Operations/Logistics Intern](https://jobright.ai/jobs/info/69975c45e0bddb6acac61abd?utm_campaign=1050&utm_source=git)** | Excelsior, MN | On Site | Feb 19 |
 | **[Wayne-Sanderson Farms](https://waynesandersonfarms.com)** | **[Category Management Intern - Summer 2026](https://jobright.ai/jobs/info/69975c1c81476f6176af7f13?utm_campaign=1050&utm_source=git)** | Atlanta Metro | On Site | Feb 19 |
@@ -85,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Company Planning & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69975acfce78e77b4fdbb6f1?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 19 |
 | **[US LBM](http://uslbm.com)** | **[Operations Intern](https://jobright.ai/jobs/info/6997578581476f6176af7cc8?utm_campaign=1050&utm_source=git)** | Killeen-Temple Area | On Site | Feb 19 |
 | **[Ardagh Group](http://www.ardaghgroup.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/699754e1e0bddb6acac615b0?utm_campaign=1050&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/6997799d81476f6176af96cb?utm_campaign=1050&utm_source=git)** | Broadway, NC, US | Remote | Feb 19 |
-| ↳ | **[Administrative Internship](https://jobright.ai/jobs/info/69977842ce78e77b4fdbcf5d?utm_campaign=1050&utm_source=git)** | US-NC-Broadway | Remote | Feb 19 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Administrative Internship](https://jobright.ai/jobs/info/69977842ce78e77b4fdbcf5d?utm_campaign=1050&utm_source=git)** | US-NC-Broadway | Remote | Feb 19 |
+| ↳ | **[Administrative Internship](https://jobright.ai/jobs/info/6997799d81476f6176af96cb?utm_campaign=1050&utm_source=git)** | Broadway, NC, US | Remote | Feb 19 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/69977fd181476f6176af9a90?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Feb 19 |
 | ↳ | **[Project Delivery Intern](https://jobright.ai/jobs/info/6997790481476f6176af9662?utm_campaign=1050&utm_source=git)** | Toronto | Hybrid | Feb 19 |
 | **[ISACA](http://www.isaca.org)** | **[Intern, Chapter Experience](https://jobright.ai/jobs/info/69977f3181476f6176af9a32?utm_campaign=1050&utm_source=git)** | US-IL-Schaumburg - Hybrid | Hybrid | Feb 19 |
@@ -95,13 +99,15 @@ For a complete list, click the following sortable link below:
 | **[Interra Credit Union](http://interracu.com)** | **[Agribusiness Intern](https://jobright.ai/jobs/info/699775eece78e77b4fdbcdae?utm_campaign=1050&utm_source=git)** | Goshen, Indiana, United States | On Site | Feb 19 |
 | **[Charles IT](https://www.charlesit.com/)** | **[Administrative Intern](https://jobright.ai/jobs/info/69978392ce78e77b4fdbd5f2?utm_campaign=1050&utm_source=git)** | Stamford, CT | On Site | Feb 19 |
 | ↳ | **[Administrative Intern](https://jobright.ai/jobs/info/6997764381476f6176af9485?utm_campaign=1050&utm_source=git)** | Chesapeake, VA | On Site | Feb 19 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/699774a281476f6176af92b7?utm_campaign=1050&utm_source=git)** | Arlington, VA, US | On Site | Feb 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/6997717881476f6176af8f36?utm_campaign=1050&utm_source=git)** | Oak Ridge, Tennessee, United States | On Site | Feb 19 |
-| ↳ | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/699779e2ce78e77b4fdbd051?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 19 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Operations](https://jobright.ai/jobs/info/699788abce78e77b4fdbd860?utm_campaign=1050&utm_source=git)** | US-VA-Arlington | On Site | Feb 19 |
+| ↳ | **[Summer Intern, Operations](https://jobright.ai/jobs/info/699774a281476f6176af92b7?utm_campaign=1050&utm_source=git)** | Arlington, VA, US | On Site | Feb 19 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/699779e2ce78e77b4fdbd051?utm_campaign=1050&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 19 |
+| ↳ | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/6997878ce0bddb6acac639b1?utm_campaign=1050&utm_source=git)** | Pleasanton, California, United States | On Site | Feb 19 |
+| ↳ | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/6997717881476f6176af8f36?utm_campaign=1050&utm_source=git)** | Oak Ridge, Tennessee, United States | On Site | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/699751f2e0bddb6acac613d0?utm_campaign=1050&utm_source=git)** | Pelham, AL | On Site | Feb 19 |
 | **[Hunt Military Communities](https://www.huntmilitarycommunities.com/)** | **[Intern](https://jobright.ai/jobs/info/699781ecce78e77b4fdbd50e?utm_campaign=1050&utm_source=git)** | Rye Brook, New York, United States | On Site | Feb 19 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6997777fe0bddb6acac62f2a?utm_campaign=1050&utm_source=git)** | North Attleboro, MA, US | On Site | Feb 19 |
-| ↳ | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/69978160ce78e77b4fdbd4cb?utm_campaign=1050&utm_source=git)** | North Attleboro | On Site | Feb 19 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/69978160ce78e77b4fdbd4cb?utm_campaign=1050&utm_source=git)** | North Attleboro | On Site | Feb 19 |
+| ↳ | **[Summer 2026 Management Trainee Intern - North Attleboro, MA](https://jobright.ai/jobs/info/6997777fe0bddb6acac62f2a?utm_campaign=1050&utm_source=git)** | North Attleboro, MA, US | On Site | Feb 19 |
 | **[Okta](http://www.okta.com)** | **[Company Planning & Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699750b3ce78e77b4fdbb172?utm_campaign=1050&utm_source=git)** | Bellevue, Washington | On Site | Feb 19 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Physician Enterprise Operations and Analytics Intern](https://jobright.ai/jobs/info/69975099e0bddb6acac61317?utm_campaign=1050&utm_source=git)** | 475 South St, Morristown, NJ, 07960, US | On Site | Feb 19 |
 | **[Siemens](https://www.siemens.com)** | **[Business Excellence - Process & Program Internship](https://jobright.ai/jobs/info/69974ee9ce78e77b4fdbb013?utm_campaign=1050&utm_source=git)** | Wendell, NC | On Site | Feb 19 |
@@ -114,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/699749afe0bddb6acac60df8?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 19 |
 | **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Property Management Intern](https://jobright.ai/jobs/info/6997499e81476f6176af6f20?utm_campaign=1050&utm_source=git)** | United States of America - Charlotte NC | Hybrid | Feb 19 |
 | **[NYC Department of Finance](http://www.nyc.gov/html/dof/html/home/home.shtml)** | **[Project Management Grad Intern](https://jobright.ai/jobs/info/6997687de0bddb6acac62159?utm_campaign=1050&utm_source=git)** | Manhattan, NY | On Site | Feb 19 |
-| **[Siemens](https://www.siemens.com)** | **[SkillBridge Internship – Associate Project Manager](https://jobright.ai/jobs/info/69974897ce78e77b4fdba7cf?utm_campaign=1050&utm_source=git)** | Worthington, OH | On Site | Feb 19 |
 | **[Genmab](https://www.genmab.com)** | **[Medical Affairs Strategy and Operations Intern](https://jobright.ai/jobs/info/6997489781476f6176af6bc7?utm_campaign=1050&utm_source=git)** | Princeton | Hybrid | Feb 19 |
 | **[Cencora](http://www.cencora.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/699747bce0bddb6acac6075c?utm_campaign=1050&utm_source=git)** | Corona, CA | On Site | Feb 19 |
 | **[Blue Ventis](blueventis.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/699745fe81476f6176af62f5?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CT Precision](www.ctprecision.com)** | **[Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/69971521ce78e77b4fdb69b2?utm_campaign=1050&utm_source=git)** | New Britain, CT | On Site | Feb 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Project Management, Product Development Acceleration, Research & Technology (Summer 2026)](https://jobright.ai/jobs/info/697ab984f6fc293b0a2cb51a?utm_campaign=1050&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 19 |
 | **[Hydro International](http://www.hydro-int.com/)** | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/699712e581476f6176af2d47?utm_campaign=1050&utm_source=git)** | Brooksville, FL | On Site | Feb 19 |
-| ↳ | **[Project Manager and Estimating Intern](https://jobright.ai/jobs/info/69971144ce78e77b4fdb6629?utm_campaign=1050&utm_source=git)** | Stockton, CA | On Site | Feb 19 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Strategy & Planning Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fab44146d3b6ec557b8?utm_campaign=1050&utm_source=git)** | Raleigh, NC | On Site | Feb 19 |
-| **[Hydro International](http://www.hydro-int.com/)** | **[Operations Intern (Aluminum)](https://jobright.ai/jobs/info/69970e1ce0bddb6acac5c66b?utm_campaign=1050&utm_source=git)** | Galloway, NJ | On Site | Feb 19 |
-| **[SECU](https://www.ncsecu.org)** | **[Intern – Branch Part-time Summer 2026](https://jobright.ai/jobs/info/69972a3681476f6176af44fa?utm_campaign=1050&utm_source=git)** | North Carolina | On Site | Feb 19 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Supply Chain/Logistics Internship](https://jobright.ai/jobs/info/695f1c85a112b402660de6a7?utm_campaign=1050&utm_source=git)** | Avondale, AZ | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697ba6b11423772304ebd54a?utm_campaign=1050&utm_source=git)** | Lacey, WA | On Site | Feb 20 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Operations (Orange & Lemon)](https://jobright.ai/jobs/info/697c0f341423772304ec5d69?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Feb 20 |
+| **[Honeywell](http://www.honeywell.com)** | **[Supply Chain- Summer 2026 Intern (US Person Required)](https://jobright.ai/jobs/info/6988405c8ca8121a3a6ad391?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 20 |
+| ↳ | **[Supply Chain - Summer 2026 Intern](https://jobright.ai/jobs/info/698814610f6f7e7a2ce344c6?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 20 |
+| **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Supply Chain Intern - Summer 2026 (Green Bay, WI)](https://jobright.ai/jobs/info/696084df7ebc25398eb67207?utm_campaign=1050&utm_source=git)** | Green Bay, WI | Hybrid | Feb 20 |
+| **[Uline](http://www.uline.com)** | **[Warehouse Management Internship - Summer 2026](https://jobright.ai/jobs/info/697ba5e71136d179eeef2db6?utm_campaign=1050&utm_source=git)** | Reno, NV | On Site | Feb 20 |
+| **[Wonderful Citrus](https://www.wonderfulcitrus.com/)** | **[Summer Internship, Operations (Bagging)](https://jobright.ai/jobs/info/697c07c40b88cc7d6422f531?utm_campaign=1050&utm_source=git)** | Delano, CA | On Site | Feb 20 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Commodity Strategy Intern](https://jobright.ai/jobs/info/697bc19d0b88cc7d64228e33?utm_campaign=1050&utm_source=git)** | Lake Orion, MI | On Site | Feb 20 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Supply Chain Management/Logistics Internship - Summer 2026](https://jobright.ai/jobs/info/696c64e85fc86241853b9a1f?utm_campaign=1050&utm_source=git)** | La Porte, IN | On Site | Feb 20 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69434d0f50bbaf7650553192?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 20 |
@@ -70,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Suffolk Construction](https://www.suffolk.com)** | **[Construction Management Intern - Las Vegas, NV (June 2026)](https://jobright.ai/jobs/info/69600e267ebc25398eb5f72e?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Feb 20 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-LPN I - CAN Administration Calhoun Nursing Home](https://jobright.ai/jobs/info/67d52716d19474209a8c1236?utm_campaign=1050&utm_source=git)** | Calhoun City, MS | On Site | Feb 20 |
 | **[Grainger](https://www.grainger.com)** | **[Global Supply Chain Intern](https://jobright.ai/jobs/info/69969f2dce78e77b4fdac35f?utm_campaign=1050&utm_source=git)** | Lake Forest, IL | Hybrid | Feb 20 |
+| **[The Poole and Kent Corporation](https://pkcorp.com)** | **[Mechanical, Project Intern](https://jobright.ai/jobs/info/697bf12c1136d179eeef9322?utm_campaign=1050&utm_source=git)** | Lancaster, PA | On Site | Feb 20 |
 | **[Pansophic Learning](https://pansophiclearning.com/)** | **[BPO (Business Process Offshore) Intern](https://jobright.ai/jobs/info/69834bbd0f6f7e7a2cdca5c7?utm_campaign=1050&utm_source=git)** | Tysons Corner, VA | On Site | Feb 20 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f4454d652f044775c079?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 20 |
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c1f3ca4d652f044775c021?utm_campaign=1050&utm_source=git)** | Birmingham, AL | On Site | Feb 20 |
@@ -92,8 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68d00672dbd9fb154edece90?utm_campaign=1050&utm_source=git)** | Pharr, TX | On Site | Feb 20 |
 | **[J.S. Held LLC](http://jsheld.com/)** | **[Project Support Services Internship - Fall 2026](https://jobright.ai/jobs/info/697bd9341136d179eeef6a0c?utm_campaign=1050&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 20 |
 | **[Enterprise](https://www.enterprise.com)** | **[Management Trainee Intern](https://jobright.ai/jobs/info/699847e9ce78e77b4fdcfa13?utm_campaign=1050&utm_source=git)** | Orlando, FL | On Site | Feb 20 |
-| **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Planning & Scheduling Internship - Diamond Kote](https://jobright.ai/jobs/info/697bbbfd1423772304ebe75f?utm_campaign=1050&utm_source=git)** | Schofield, WI | On Site | Feb 20 |
-| ↳ | **[Supply Chain Internship](https://jobright.ai/jobs/info/697bbf090b88cc7d64228b49?utm_campaign=1050&utm_source=git)** | Schofield, WI | On Site | Feb 20 |
+| **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Supply Chain Internship](https://jobright.ai/jobs/info/697bbf090b88cc7d64228b49?utm_campaign=1050&utm_source=git)** | Schofield, WI | On Site | Feb 20 |
+| ↳ | **[Planning & Scheduling Internship - Diamond Kote](https://jobright.ai/jobs/info/697bbbfd1423772304ebe75f?utm_campaign=1050&utm_source=git)** | Schofield, WI | On Site | Feb 20 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Business Operations Intern (MBA)](https://jobright.ai/jobs/info/69263de2f0beb07232623697?utm_campaign=1050&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
 | **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Supply Chain Intern, Inventory & Demand Planning](https://jobright.ai/jobs/info/699845dace78e77b4fdcf87a?utm_campaign=1050&utm_source=git)** | Kennewick, WA | On Site | Feb 20 |
 | **[Michael Foods](http://michaelfoods.com)** | **[Intern - Egg Procurement Logistics](https://jobright.ai/jobs/info/690a8ef04a1b456627b093a5?utm_campaign=1050&utm_source=git)** | Wakefield, NE | On Site | Feb 20 |
@@ -136,10 +144,9 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/69982714e0bddb6acac72f38?utm_campaign=1050&utm_source=git)** | Bellevue, WA | On Site | Feb 20 |
 | ↳ | **[Operations Intern-MSOE](https://jobright.ai/jobs/info/69982644e0bddb6acac72d91?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 20 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Operations Intern TW](https://jobright.ai/jobs/info/69982539ce78e77b4fdccd31?utm_campaign=1050&utm_source=git)** | Carol Stream, IL | On Site | Feb 20 |
-| **[Veltrana Group](veltranagroup.us)** | **[Project Management Intern](https://jobright.ai/jobs/info/69984519ce78e77b4fdcf6e7?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Feb 20 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699824d5ce78e77b4fdccc56?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 20 |
-| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699843fb81476f6176b0ba67?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 20 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/6998454bce78e77b4fdcf756?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 20 |
+| ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699843fb81476f6176b0ba67?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 20 |
 | ↳ | **[Operations Intern - Virginia Tech](https://jobright.ai/jobs/info/6998403081476f6176b0b906?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 20 |
 | ↳ | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/699844d6e0bddb6acac755d0?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 20 |
 | **[Advanced Radiology](https://www.advancedradiology.com)** | **[Intern](https://jobright.ai/jobs/info/69983b0981476f6176b0b546?utm_campaign=1050&utm_source=git)** | Owings Mills, MD | On Site | Feb 20 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Corporate Strategy & Development Intern_Summer 2026](https://jobright.ai/jobs/info/6998190ece78e77b4fdcbfd1?utm_campaign=1050&utm_source=git)** | Greater Philadelphia | On Site | Feb 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Project Management Intern, Summer 2025](https://jobright.ai/jobs/info/6998329681476f6176b0abaa?utm_campaign=1050&utm_source=git)** | Glendale, CA, USA | On Site | Feb 20 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Chief Operating Officer Group](https://jobright.ai/jobs/info/69937eb781476f6176ab1672?utm_campaign=1050&utm_source=git)** | Portland, ME | Hybrid | Feb 19 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Innovation Project Associate College Internship – Analytics and Innovation - Denver International Airport (1 year)](https://jobright.ai/jobs/info/698e930b0f6f7e7a2ceab2ef?utm_campaign=1050&utm_source=git)** | Denver, CO | Hybrid | Feb 19 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Risk](https://jobright.ai/jobs/info/6993829f81476f6176ab19d1?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ | Hybrid | Feb 19 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/69982a3fce78e77b4fdcd81f?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 19 |
-| **[TRDI](https://trdi.org/)** | **[Logistics Intern](https://jobright.ai/jobs/info/6998070881476f6176b07175?utm_campaign=1050&utm_source=git)** | Corpus Christi, TX | On Site | Feb 19 |
-| **[Integrity](https://www.integritymarketing.com)** | **[Intern-3](https://jobright.ai/jobs/info/6998064781476f6176b06fde?utm_campaign=1050&utm_source=git)** | Norfolk, NE | On Site | Feb 19 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Project Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69980110ce78e77b4fdca60f?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 19 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6998003981476f6176b06a48?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

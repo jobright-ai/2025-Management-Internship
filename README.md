@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AXA XL](https://axaxl.com)** | **[Claims Intern - HYBRID](https://jobright.ai/jobs/info/6961856df3f4cd13250689be?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 21 |
+| **[Dynareon](dynareon.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6999edc981476f6176b2a816?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
+| **[McCain Foods](http://www.mccain.com)** | **[Global Agriculture Business Process Mapping Intern](https://jobright.ai/jobs/info/697d285b137a0510256626b2?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Feb 21 |
+| **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945a353d1953b5d11be9ffa?utm_campaign=1050&utm_source=git)** | Clarington, Ontario, Canada | On Site | Feb 21 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/69617adef3f4cd13250674e5?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 21 |
+| **[Spire](https://www.spireenergy.com/)** | **[Intern, Supply Chain](https://jobright.ai/jobs/info/697e14a77f40342e15d6f522?utm_campaign=1050&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
+| **[Greylock Federal Credit Union](https://www.greylock.org/)** | **[Operations Intern](https://jobright.ai/jobs/info/6999e5e9e0bddb6acac91ad7?utm_campaign=1050&utm_source=git)** | Pittsfield, MA, US | On Site | Feb 21 |
+| **[ABB](https://global.abb/group/en)** | **[PMO Project Specialist -Finance Intern- Summer 2026](https://jobright.ai/jobs/info/6999e470e0bddb6acac90f38?utm_campaign=1050&utm_source=git)** | Fort Smith, AR | Hybrid | Feb 21 |
+| **[CN](http://www.cn.ca)** | **[Intern, Assistant Project Manager- FR](https://jobright.ai/jobs/info/6999e0d7ce78e77b4fdeb4d5?utm_campaign=1050&utm_source=git)** | Flint, MI | On Site | Feb 21 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/694259abbdcf884a5ade3e0a?utm_campaign=1050&utm_source=git)** | Columbia, MD | On Site | Feb 21 |
+| ↳ | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d2f750f6f7e7a2ce8f5f2?utm_campaign=1050&utm_source=git)** | Louisville, KY | On Site | Feb 21 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Technical Project/Program Management Intern- Bachelor's (Austin, TX)](https://jobright.ai/jobs/info/6999dc8081476f6176b28b52?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations - New Albany, OH (Summer 2026)](https://jobright.ai/jobs/info/6999dbfbe0bddb6acac90dbe?utm_campaign=1050&utm_source=git)** | New Albany, OH | On Site | Feb 21 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d7efa78b4502f12a42b54?utm_campaign=1050&utm_source=git)** | Richmond, VA | On Site | Feb 21 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/69997808e0bddb6acac8b80b?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 21 |
 | **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Operations - Expedite](https://jobright.ai/jobs/info/699977cae0bddb6acac8b745?utm_campaign=1050&utm_source=git)** | Medina, OH | On Site | Feb 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/6999748781476f6176b23129?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Feb 21 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/6999742dce78e77b4fde5dc0?utm_campaign=1050&utm_source=git)** | Vienna, VA | On Site | Feb 21 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/699971e181476f6176b22c99?utm_campaign=1050&utm_source=git)** | Loveland, CO | On Site | Feb 21 |
-| ↳ | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/69996ef7ce78e77b4fde534c?utm_campaign=1050&utm_source=git)** | Huntsville, AL | On Site | Feb 21 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Distribution Operations Internship / Fort Worth, TX](https://jobright.ai/jobs/info/69996ee081476f6176b226a1?utm_campaign=1050&utm_source=git)** | Fort Worth, TX | On Site | Feb 21 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69996e3ece78e77b4fde5211?utm_campaign=1050&utm_source=git)** | Pleasanton, CA | On Site | Feb 21 |
-| ↳ | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/69996b91ce78e77b4fde4cf7?utm_campaign=1050&utm_source=git)** | Asheville, NC | On Site | Feb 21 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69996b3b81476f6176b21f48?utm_campaign=1050&utm_source=git)** | Fort Collins, CO | On Site | Feb 21 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - UW Platteville](https://jobright.ai/jobs/info/69997d30e0bddb6acac8c234?utm_campaign=1050&utm_source=git)** | Platteville, WI | On Site | Feb 20 |
-| ↳ | **[Operations Intern - University of Maryland](https://jobright.ai/jobs/info/69998610e0bddb6acac8ccf8?utm_campaign=1050&utm_source=git)** | Phoenix, AZ | On Site | Feb 20 |
-| **[MHI Canada Aerospace, Inc.](https://www.mhi.com/)** | **[Procurement Internship - Indirect Goods and Services](https://jobright.ai/jobs/info/6999427981476f6176b1d695?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 20 |
-| ↳ | **[Supply Chain Intern](https://jobright.ai/jobs/info/699941dd81476f6176b1d5fb?utm_campaign=1050&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

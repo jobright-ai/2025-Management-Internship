@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/699a0958e0bddb6acac92ea8?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 21 |
+| **[Aeravox Dynamics](aeravoxdynamics.us)** | **[Procurement Internship](https://jobright.ai/jobs/info/699a054fce78e77b4fded34a?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 21 |
+| **[AeroMatrix 12](aeromatrix12.com)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/6999fa8ece78e77b4fded24c?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 21 |
 | **[AXA XL](https://axaxl.com)** | **[Claims Intern - HYBRID](https://jobright.ai/jobs/info/6961856df3f4cd13250689be?utm_campaign=1050&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 21 |
 | **[Dynareon](dynareon.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6999edc981476f6176b2a816?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[McCain Foods](http://www.mccain.com)** | **[Global Agriculture Business Process Mapping Intern](https://jobright.ai/jobs/info/697d285b137a0510256626b2?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Feb 21 |
@@ -86,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Feb 21 |
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/6986cde90f6f7e7a2ce1f645?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Feb 21 |
+| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations Transformation and Digital Strategy Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/69972189ce78e77b4fdb76e6?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d45903ffc1276de3fd9f29?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Feb 21 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Operations 2026 Summer Intern](https://jobright.ai/jobs/info/6999c3f4e0bddb6acac906f1?utm_campaign=1050&utm_source=git)** | Arden, NC | On Site | Feb 21 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/6999c38fe0bddb6acac906c7?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 21 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Corporate Intern - Summer 2026](https://jobright.ai/jobs/info/697d59d6137a051025667960?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/6999810881476f6176b2470c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 21 |
 | ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69997fedce78e77b4fde6b0b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 21 |
-| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/699979b1ce78e77b4fde636a?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 21 |
 | **[O'Neal Steel](https://www.onealsteel.com/)** | **[Operations Intern TW](https://jobright.ai/jobs/info/69997931e0bddb6acac8ba8e?utm_campaign=1050&utm_source=git)** | Monroe, NJ | On Site | Feb 21 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Sacramento State](https://jobright.ai/jobs/info/69997808e0bddb6acac8b80b?utm_campaign=1050&utm_source=git)** | Sacramento, CA | On Site | Feb 21 |
-| **[ArcBest Technologies](https://jobs.arcbtech.com/)** | **[Intern, Operations - Expedite](https://jobright.ai/jobs/info/699977cae0bddb6acac8b745?utm_campaign=1050&utm_source=git)** | Medina, OH | On Site | Feb 21 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Alabama A&M University](https://jobright.ai/jobs/info/6999748781476f6176b23129?utm_campaign=1050&utm_source=git)** | Oak Ridge, TN | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

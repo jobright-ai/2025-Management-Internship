@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68cd8b14b2a74e1837ed8766?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Feb 22 |
+| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Strategy Intern](https://jobright.ai/jobs/info/69964e7881476f6176ae13cf?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
+| **[Vexra Engineering](vexraengineering.us)** | **[Indirect Sourcing Summer Intern](https://jobright.ai/jobs/info/699afbefce78e77b4fdfaf89?utm_campaign=1050&utm_source=git)** | Bloomington, IL | Remote | Feb 22 |
+| **[SmartMove Solutions](https://www.linkedin.com/company/103764286)** | **[Project Management Intern](https://jobright.ai/jobs/info/699af9a9e0bddb6acaca04e3?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 22 |
+| **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Executive Intern - Summer 2026](https://jobright.ai/jobs/info/699af9a0e0bddb6acaca04e0?utm_campaign=1050&utm_source=git)** | Norfolk, VA | On Site | Feb 22 |
+| **[Blue Ventis](blueventis.com)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699af4bd81476f6176b38304?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | Remote | Feb 22 |
+| **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b143d1953b5d11bead68?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 22 |
 | **[Veltrana Group](veltranagroup.us)** | **[Business Operations Intern, Talent Pool](https://jobright.ai/jobs/info/699ae7a0ce78e77b4fdfacc2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 22 |
@@ -127,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Crusoe](https://crusoe.ai)** | **[Pre-Construction Intern, Data Centers, Summer 2026](https://jobright.ai/jobs/info/697d347e3f57a335696702c5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Feb 21 |
+| **[Blue Ventis](blueventis.com)** | **[Remote Project Management Intern](https://jobright.ai/jobs/info/6999d40181476f6176b28905?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Feb 21 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations Transformation and Digital Strategy Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/69972189ce78e77b4fdb76e6?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d45903ffc1276de3fd9f29?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Feb 21 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Operations 2026 Summer Intern](https://jobright.ai/jobs/info/6999c3f4e0bddb6acac906f1?utm_campaign=1050&utm_source=git)** | Arden, NC | On Site | Feb 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stop & Shop](http://stopandshop.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6960fe8cf3f4cd132505fd66?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 21 |
 | **[Kairos Power](https://kairospower.com/)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/6961f8f6e7ed9a5731bab145?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Feb 21 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Office of the Chief Scientific Officer](https://jobright.ai/jobs/info/6999aab181476f6176b27993?utm_campaign=1050&utm_source=git)** | New York, United States | On Site | Feb 21 |
-| **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Feb 21 |
-| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Project Management](https://jobright.ai/jobs/info/6961a58be7ed9a5731ba7b80?utm_campaign=1050&utm_source=git)** | Verona, WI | On Site | Feb 21 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/699a7bd581476f6176b30c28?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 21 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Resilience Intern - Summer 2026](https://jobright.ai/jobs/info/6945d883951654073538096a?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
-| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Production Intern Summer](https://jobright.ai/jobs/info/697d70b33f57a33569675577?utm_campaign=1050&utm_source=git)** | Laverne, OK | On Site | Feb 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Project Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6999a200e0bddb6acac8e2ce?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 21 |
-| ↳ | **[WDI Project Management Intern, Summer 2025](https://jobright.ai/jobs/info/69999e2cce78e77b4fde86e9?utm_campaign=1050&utm_source=git)** | Glendale, CA | On Site | Feb 21 |
-| **[ROCK](http://www.rockventures.com/)** | **[Program Manager Intern - Summer 2026](https://jobright.ai/jobs/info/6945d1bc63141d1884556e05?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

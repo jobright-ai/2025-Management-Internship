@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Feb 22 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699b1d8ae0bddb6acaca2696?utm_campaign=1050&utm_source=git)** | Appleton, WI | Remote | Feb 22 |
+| **[Orvanta](orvanta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1d6ee0bddb6acaca2687?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 22 |
+| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/699b1c95ce78e77b4fdfd218?utm_campaign=1050&utm_source=git)** | New York, United States | Remote | Feb 22 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1b2781476f6176b3a5f1?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Project Management Intern](https://jobright.ai/jobs/info/699b0ee5ce78e77b4fdfd0b3?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 22 |
+| **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/6997e17b81476f6176b01da7?utm_campaign=1050&utm_source=git)** | Charleston, SC | On Site | Feb 22 |
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68cd8b14b2a74e1837ed8766?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Feb 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern Chattanooga](https://jobright.ai/jobs/info/6933cdb6a0dde7020e2f2068?utm_campaign=1050&utm_source=git)** | Chattanooga, TN | On Site | Feb 22 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Strategy Intern](https://jobright.ai/jobs/info/69964e7881476f6176ae13cf?utm_campaign=1050&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
@@ -66,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Ventis](blueventis.com)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699af4bd81476f6176b38304?utm_campaign=1050&utm_source=git)** | Eau Claire, WI | Remote | Feb 22 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Operations Summer Intern](https://jobright.ai/jobs/info/697f0cd5abff4c399a9db75b?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b143d1953b5d11bead68?utm_campaign=1050&utm_source=git)** | North Bethesda, MD | Hybrid | Feb 22 |
-| **[Veltrana Group](veltranagroup.us)** | **[Business Operations Intern, Talent Pool](https://jobright.ai/jobs/info/699ae7a0ce78e77b4fdfacc2?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Feb 22 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Scheduling and Events Professional Intern](https://jobright.ai/jobs/info/697f0d95abff4c399a9db801?utm_campaign=1050&utm_source=git)** | Madison, WI | On Site | Feb 22 |
 | **[Xometry](https://www.xometry.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/6945b9c163141d188455487c?utm_campaign=1050&utm_source=git)** | Lexington, KY | Hybrid | Feb 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Project Analyst Intern Summer 2026](https://jobright.ai/jobs/info/691ad59dbcdbf3560c9dadb8?utm_campaign=1050&utm_source=git)** | Madison, PA | Remote | Feb 22 |
@@ -95,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/699ac4bece78e77b4fdf88a3?utm_campaign=1050&utm_source=git)** | Thornton, CO | On Site | Feb 22 |
 | **[AST SpaceMobile](https://ast-science.com)** | **[Intern - Operations Management & Planning](https://jobright.ai/jobs/info/698f830b0cc8ea15f1da0fec?utm_campaign=1050&utm_source=git)** | Midland, Texas, United States | On Site | Feb 22 |
 | **[Veltrana Group](veltranagroup.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/699ac0e0ce78e77b4fdf8687?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 22 |
-| **[University of Michigan](https://www.umich.edu)** | **[Project Management Intern](https://jobright.ai/jobs/info/699abbfb81476f6176b357ea?utm_campaign=1050&utm_source=git)** | Ann Arbor, MI | Hybrid | Feb 22 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Risk](https://jobright.ai/jobs/info/6993829f81476f6176ab19d1?utm_campaign=1050&utm_source=git)** | Mount Laurel, NJ | Hybrid | Feb 22 |
 | **[RoboStruct Technologies](robostructtechnologies.us)** | **[Supply Chain Intern Program - 2026](https://jobright.ai/jobs/info/699ab12b81476f6176b34feb?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 21 |
 | **[Winnebago Industries](https://winnebagoind.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699a9aa7e0bddb6acac9c086?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Feb 21 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Feb 21 |
 | **[Turner Construction | Canada](http://turnerconstruction.com)** | **[Project Coordinator Co-Op / Internship, Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/6992b00081476f6176aa2eac?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 21 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
-| **[Vexra Engineering](vexraengineering.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/6999d713e0bddb6acac90c85?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 21 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 21 |
 | **[RailPros](http://railpros.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/697d4c5c137a0510256658d5?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Feb 21 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Project Manager) - Las Vegas](https://jobright.ai/jobs/info/699a7a9ace78e77b4fdf3797?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
-| **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697daa727f40342e15d69135?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
-| **[Stop & Shop](http://stopandshop.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6960fe8cf3f4cd132505fd66?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Management – Rolling Stock](https://jobright.ai/jobs/info/68ee8eb5d078b81ad160ba4d?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 21 |
-| **[Kairos Power](https://kairospower.com/)** | **[Supply Chain & Procurement Intern](https://jobright.ai/jobs/info/6961f8f6e7ed9a5731bab145?utm_campaign=1050&utm_source=git)** | Albuquerque, NM | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

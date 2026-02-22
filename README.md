@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Winnebago Industries](https://winnebagoind.com)** | **[Supply Chain Intern](https://jobright.ai/jobs/info/699a9aa7e0bddb6acac9c086?utm_campaign=1050&utm_source=git)** | Clearwater, FL | On Site | Feb 21 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Project Management Intern- Chandler AZ - R10222987](https://jobright.ai/jobs/info/6994f49fe0bddb6acac37915?utm_campaign=1050&utm_source=git)** | Chandler, AZ | On Site | Feb 21 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 21 |
 | **[Veltrana Group](veltranagroup.us)** | **[Project Management Intern, Remote (USA)](https://jobright.ai/jobs/info/699a77e3e0bddb6acac98b96?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 21 |
 | **[888 Creative](https://888creative.co/)** | **[Executive Assistant Internship (Spring 2026)](https://jobright.ai/jobs/info/699a4b40ce78e77b4fdf00f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
@@ -92,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Procurement Intern - Logistics](https://jobright.ai/jobs/info/6961976df3f4cd132506a55e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 21 |
 | **[Crusoe](https://crusoe.ai)** | **[Pre-Construction Intern, Data Centers, Summer 2026](https://jobright.ai/jobs/info/697d347e3f57a335696702c5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
-| **[Blue Ventis](blueventis.com)** | **[Remote Project Management Intern](https://jobright.ai/jobs/info/6999d40181476f6176b28905?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Feb 21 |
 | **[McCain Foods](http://www.mccain.com)** | **[Production Management Internship](https://jobright.ai/jobs/info/6986cde90f6f7e7a2ce1f645?utm_campaign=1050&utm_source=git)** | Florenceville-Bristol, New Brunswick, Canada | On Site | Feb 21 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations Transformation and Digital Strategy Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/69972189ce78e77b4fdb76e6?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Corporate Intern - Summer 2026](https://jobright.ai/jobs/info/697d5ca1727747250d583f8f?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/68b74a83f4e41a61efd97c51?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Feb 21 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Intern (Spring 2026)](https://jobright.ai/jobs/info/68cec3b4fb49c96ca6ea35b0?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
-| **[Emerson](http://www.emerson.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6999871981476f6176b24ac3?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Hillstone Restaurant Group](http://hillstone.com)** | **[Restaurant Manager Intern](https://jobright.ai/jobs/info/68c8ddaaf9c6ff7aedf13714?utm_campaign=1050&utm_source=git)** | Aspen, CO | On Site | Feb 21 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6999cfc6e0bddb6acac909c2?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern North Miami Beach](https://jobright.ai/jobs/info/697d3c013f57a33569670b83?utm_campaign=1050&utm_source=git)** | Miami, FL | On Site | Feb 21 |
-| **[CoreVista Strategies](corevistastrategies.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6999cf20e0bddb6acac90957?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 21 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Procurement Intern - Logistics](https://jobright.ai/jobs/info/6961976df3f4cd132506a55e?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 21 |
 | **[Crusoe](https://crusoe.ai)** | **[Pre-Construction Intern, Data Centers, Summer 2026](https://jobright.ai/jobs/info/697d347e3f57a335696702c5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/690abd5d4a1b456627b0ac97?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 21 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[MBA Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/697d63b83f57a335696745cb?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Feb 21 |
 | **[Badger Meter](http://badgermeter.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/697d73c33f57a3356967588c?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/6999810881476f6176b2470c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

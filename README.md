@@ -60,7 +60,9 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 21 |
 | **[Veltrana Group](veltranagroup.us)** | **[Project Management Intern, Remote (USA)](https://jobright.ai/jobs/info/699a77e3e0bddb6acac98b96?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 21 |
 | **[888 Creative](https://888creative.co/)** | **[Executive Assistant Internship (Spring 2026)](https://jobright.ai/jobs/info/699a4b40ce78e77b4fdf00f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
+| **[Arul Health](https://www.arulhealth.com)** | **[Undergrad Operations Intern](https://jobright.ai/jobs/info/699a870681476f6176b31778?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Orvanta](orvanta.us)** | **[Intern, Project Management (SIC)](https://jobright.ai/jobs/info/699a343ce0bddb6acac95108?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
+| **[LG Chem America, Inc.](https://www.lgchem.com/main/index)** | **[12-Month Procurement Internship - Bilingual Korean required](https://jobright.ai/jobs/info/699a91e781476f6176b334dd?utm_campaign=1050&utm_source=git)** | Atlanta, GA | On Site | Feb 21 |
 | **[Minneapolis City SC](https://www.mplscitysc.com)** | **[Minneapolis City Soccer Club: Matchday Operations Internship](https://jobright.ai/jobs/info/699a19b1e0bddb6acac935e7?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 21 |
 | **[COLSA](http://www.colsa.com)** | **[Business Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/699a1503e0bddb6acac9351b?utm_campaign=1050&utm_source=git)** | Colorado Springs, CO | On Site | Feb 21 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/699a0958e0bddb6acac92ea8?utm_campaign=1050&utm_source=git)** | Cedar Rapids, IA | On Site | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Operations Internship](https://jobright.ai/jobs/info/68b74a83f4e41a61efd97c51?utm_campaign=1050&utm_source=git)** | Sanford, FL | On Site | Feb 21 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Supply Chain Intern (Spring 2026)](https://jobright.ai/jobs/info/68cec3b4fb49c96ca6ea35b0?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Emerson](http://www.emerson.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6999871981476f6176b24ac3?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Feb 21 |
-| **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Distillery](https://jobright.ai/jobs/info/6971b43851f726477184257a?utm_campaign=1050&utm_source=git)** | Bardstown, KY | On Site | Feb 21 |
-| **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/690abd5d4a1b456627b0ac97?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

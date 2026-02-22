@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Technology Program](https://jobright.ai/jobs/info/697d09d7137a05102565febe?utm_campaign=1050&utm_source=git)** | Toronto | On Site | Feb 21 |
+| **[Veltrana Group](veltranagroup.us)** | **[Project Management Intern, Remote (USA)](https://jobright.ai/jobs/info/699a77e3e0bddb6acac98b96?utm_campaign=1050&utm_source=git)** | Boston, MA | Remote | Feb 21 |
 | **[888 Creative](https://888creative.co/)** | **[Executive Assistant Internship (Spring 2026)](https://jobright.ai/jobs/info/699a4b40ce78e77b4fdf00f4?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Orvanta](orvanta.us)** | **[Intern, Project Management (SIC)](https://jobright.ai/jobs/info/699a343ce0bddb6acac95108?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
 | **[Minneapolis City SC](https://www.mplscitysc.com)** | **[Minneapolis City Soccer Club: Matchday Operations Internship](https://jobright.ai/jobs/info/699a19b1e0bddb6acac935e7?utm_campaign=1050&utm_source=git)** | Minneapolis, MN | On Site | Feb 21 |
@@ -108,6 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Vexra Engineering](vexraengineering.us)** | **[2026 Intern Program - Supply Chain](https://jobright.ai/jobs/info/6999d713e0bddb6acac90c85?utm_campaign=1050&utm_source=git)** | Beloit, WI | Remote | Feb 21 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 21 |
 | **[RailPros](http://railpros.com)** | **[Intern - Project Management](https://jobright.ai/jobs/info/697d4c5c137a0510256658d5?utm_campaign=1050&utm_source=git)** | Irvine, CA | Hybrid | Feb 21 |
+| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Project Manager) - Las Vegas](https://jobright.ai/jobs/info/699a7a9ace78e77b4fdf3797?utm_campaign=1050&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
 | **[ALO](https://www.aloyoga.com/)** | **[Digital MBA Intern](https://jobright.ai/jobs/info/697daa727f40342e15d69135?utm_campaign=1050&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Project Management Intern](https://jobright.ai/jobs/info/6999afade0bddb6acac8fce5?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 21 |
 | **[Stop & Shop](http://stopandshop.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/6960fe8cf3f4cd132505fd66?utm_campaign=1050&utm_source=git)** | Quincy, MA | Hybrid | Feb 21 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Project Coordination Intern](https://jobright.ai/jobs/info/6999aa88e0bddb6acac8fba4?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | Remote | Feb 21 |
 | **[Amazon](https://amazon.com)** | **[Fulfillment Area Maintenance Manager Intern 2026 - Nationwide](https://jobright.ai/jobs/info/6961ca1ee7ed9a5731ba9a61?utm_campaign=1050&utm_source=git)** | Newark, CA | On Site | Feb 21 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, CMC Project Management](https://jobright.ai/jobs/info/6961a58be7ed9a5731ba7b80?utm_campaign=1050&utm_source=git)** | Verona, WI | On Site | Feb 21 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Environmental Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/699a7bd581476f6176b30c28?utm_campaign=1050&utm_source=git)** | San Diego, CA | On Site | Feb 21 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Resilience Intern - Summer 2026](https://jobright.ai/jobs/info/6945d883951654073538096a?utm_campaign=1050&utm_source=git)** | Detroit, MI | On Site | Feb 21 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Production Intern Summer](https://jobright.ai/jobs/info/697d70b33f57a33569675577?utm_campaign=1050&utm_source=git)** | Laverne, OK | On Site | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Project Management Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6999a200e0bddb6acac8e2ce?utm_campaign=1050&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Emerson](http://www.emerson.com)** | **[Project Coordinator Intern](https://jobright.ai/jobs/info/6999871981476f6176b24ac3?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Feb 21 |
 | **[Sazerac Company](https://www.sazerac.com/)** | **[Leadership Development Intern - Distillery](https://jobright.ai/jobs/info/6971b43851f726477184257a?utm_campaign=1050&utm_source=git)** | Bardstown, KY | On Site | Feb 21 |
 | **[PIM Brands](https://pimbrands.com)** | **[Supply Chain Planning Intern](https://jobright.ai/jobs/info/690abd5d4a1b456627b0ac97?utm_campaign=1050&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 21 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[MBA Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/697d63b83f57a335696745cb?utm_campaign=1050&utm_source=git)** | Austin, TX | Hybrid | Feb 21 |
-| **[Badger Meter](http://badgermeter.com)** | **[Project Management Intern](https://jobright.ai/jobs/info/697d73c33f57a3356967588c?utm_campaign=1050&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Operations Intern - Clemson University](https://jobright.ai/jobs/info/6999810881476f6176b2470c?utm_campaign=1050&utm_source=git)** | Westminster, CO | On Site | Feb 21 |
-| ↳ | **[Operations Intern - University of Pittsburgh](https://jobright.ai/jobs/info/69997fedce78e77b4fde6b0b?utm_campaign=1050&utm_source=git)** | Austin, TX | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->

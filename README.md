@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gridvanta PowerTech](gridvantapowertech.us)** | **[Sourcing and Procurement Intern](https://jobright.ai/jobs/info/699b4475ce78e77b4fdfef26?utm_campaign=1050&utm_source=git)** | Chicago, IL | Remote | Feb 22 |
 | **[ARCO Design/Build](http://arcodb.com)** | **[Construction Project Manager Intern or Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698d557f0f6f7e7a2ce93206?utm_campaign=1050&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - Operations Transformation and Digital Strategy Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/699b2c80ce78e77b4fdfd35e?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Feb 22 |
 | ↳ | **[Undergrad Intern - Operations Transformation Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/699b2b4ee0bddb6acaca27db?utm_campaign=1050&utm_source=git)** | Washington, DC | Remote | Feb 22 |
 | ↳ | **[Summer Intern – Program Management](https://jobright.ai/jobs/info/699b2af581476f6176b3a73d?utm_campaign=1050&utm_source=git)** | San Diego, CA | Hybrid | Feb 22 |
-| **[Veltrana Group](veltranagroup.us)** | **[Commercial Analyst Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/699b272be0bddb6acaca2762?utm_campaign=1050&utm_source=git)** | Syracuse, NY | On Site | Feb 22 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Trainee Intern - New London/Groton/Mystic/Old Saybrook/Norwich, CT](https://jobright.ai/jobs/info/68b9c9506105227d11897b97?utm_campaign=1050&utm_source=git)** | New London, CT | On Site | Feb 22 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Intern Business Operations](https://jobright.ai/jobs/info/699b1d8ae0bddb6acaca2696?utm_campaign=1050&utm_source=git)** | Appleton, WI | Remote | Feb 22 |
 | **[Orvanta](orvanta.us)** | **[Business Operations Intern](https://jobright.ai/jobs/info/699b1d6ee0bddb6acaca2687?utm_campaign=1050&utm_source=git)** | New York, NY | On Site | Feb 22 |
@@ -143,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Crusoe](https://crusoe.ai)** | **[Pre-Construction Intern, Data Centers, Summer 2026](https://jobright.ai/jobs/info/697d347e3f57a335696702c5?utm_campaign=1050&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Copart](http://www.copart.com)** | **[Strategic Analyst Intern](https://jobright.ai/jobs/info/694b65b3d64ebf28d8211cfe?utm_campaign=1050&utm_source=git)** | Dallas, TX | On Site | Feb 21 |
 | **[Kiewit](http://www.kiewit.com)** | **[Project Coordinator Co-op (Civil) - Kiewit Nuclear Canada - Summer 2026 (12 months)](https://jobright.ai/jobs/info/6945b046951654073537caa9?utm_campaign=1050&utm_source=git)** | Oshawa, Ontario, Canada | On Site | Feb 21 |
-| **[Blue Ventis](blueventis.com)** | **[Remote Project Management Intern](https://jobright.ai/jobs/info/6999d40181476f6176b28905?utm_campaign=1050&utm_source=git)** | Los Angeles, CA | Remote | Feb 21 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - Operations Transformation and Digital Strategy Intern - Remote (Summer 2026)](https://jobright.ai/jobs/info/69972189ce78e77b4fdb76e6?utm_campaign=1050&utm_source=git)** | United States | Remote | Feb 21 |
 | **[Ashton Woods Homes](https://www.ashtonwoods.com/)** | **[Construction Internship Program](https://jobright.ai/jobs/info/68d45903ffc1276de3fd9f29?utm_campaign=1050&utm_source=git)** | Lake Mary, FL | On Site | Feb 21 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Operations 2026 Summer Intern](https://jobright.ai/jobs/info/6999c3f4e0bddb6acac906f1?utm_campaign=1050&utm_source=git)** | Arden, NC | On Site | Feb 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Operations Intern](https://jobright.ai/jobs/info/690cfeb1d046ab6061cf147c?utm_campaign=1050&utm_source=git)** | Sparks, NV | On Site | Feb 21 |
 | **[Turner Construction | Canada](http://turnerconstruction.com)** | **[Project Coordinator Co-Op / Internship, Spring / Summer 2026 / Construction](https://jobright.ai/jobs/info/6992b00081476f6176aa2eac?utm_campaign=1050&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 21 |
 | **[BRG](http://www.thinkbrg.com)** | **[2026 Summer Associate (Intern)](https://jobright.ai/jobs/info/6997f9f7e0bddb6acac6f40a?utm_campaign=1050&utm_source=git)** | Washington, DC | Hybrid | Feb 21 |
+| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Intern Project Planner](https://jobright.ai/jobs/info/68d305f417554c2d9eeed325?utm_campaign=1050&utm_source=git)** | Hagerstown, MD | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
